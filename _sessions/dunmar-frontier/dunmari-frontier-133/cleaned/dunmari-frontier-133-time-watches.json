@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-133/cleaned/dunmari-frontier-133-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-133/cleaned/dunmari-frontier-133-time-markers.json",
+    "sha256": "81b601fd70c68261f825f1fb1818675284b079fc64f32bf6722a661d6d3e5ef8"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-133/cleaned/dunmari-frontier-133-transcript.md",
+    "sha256": "7b5b5648fdd256fb2529da169d9487d1d6ed29a5e3ab021828bb871d99ba2a00"
+  },
+  "dateAssessment": "Working campaign date: August 12, 1749, from the session YAML; the current transcript supplies no spoken absolute date. The time extraction is compatible with that single-day span. DF132 u2782–u2787 places the teleport arrival before dawn, and DF133 u0001–u0091 resumes the same preparation; this supplies an inferred opening Dawn watch. DF134 u0022–u0040 retrospectively places the same dragon-led rout in the afternoon, supplying the second row’s watch. These source watches remain unreconciled: DF133 establishes about 45–50 seconds of preparation and roughly half an hour for the rout, with no narrated passage accounting for the daylight change. The review preserves each source reading and leaves the intervening clock gap open. The subsequent joyride is accepted, but its elapsed endpoint is unrecorded; the remaining potion duration is not counted as completed travel.",
+  "watches": [
+    {
+      "day": "August 12, 1749",
+      "startDate": "1749-08-12",
+      "endDate": "1749-08-12",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "inferred",
+      "summary": "About 45–50 seconds after teleporting, Kenzo attunes; DF132’s continuing handoff places the grove before dawn.",
+      "markers": [
+        "t01"
+      ],
+      "sourceRanges": [
+        [
+          "u0001",
+          "u0091"
+        ]
+      ]
+    },
+    {
+      "day": "August 12, 1749",
+      "startDate": "1749-08-12",
+      "endDate": "1749-08-12",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "inferred",
+      "summary": "DF134 retrospectively dates the dragon-led rout to afternoon; DF133 establishes roughly half an hour. Opening-watch discrepancy remains open.",
+      "markers": [
+        "t02"
+      ],
+      "sourceRanges": [
+        [
+          "u2718",
+          "u2719"
+        ]
+      ]
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "DF132 chronology context",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-132/cleaned/dunmari-frontier-132-transcript.md",
+      "sha256": "47c33f632686e0e0e55bc5edcad47aa506f7427cd4a4dc680aaf3803f5da6f19"
+    },
+    {
+      "label": "DF134 chronology context",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-134/cleaned/dunmari-frontier-134-transcript.md",
+      "sha256": "8c9fa7aaa39df37312e662a2ded109f8c80602e61ee4449a1b53e1b98da347b6"
+    }
+  ]
+}

@@ -1,0 +1,1304 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-133",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-133/cleaned/dunmari-frontier-133-session.yaml",
+    "sessionYamlSha256": "8b3c1f0b5bfc28255dda63b1f74a0fc63d954d10c61405de05c2829f2b9b8a4b",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-133/cleaned/dunmari-frontier-133-transcript.md",
+    "transcriptSha256": "7b5b5648fdd256fb2529da169d9487d1d6ed29a5e3ab021828bb871d99ba2a00",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-133/cleaned/dunmari-frontier-133-segments.json",
+      "sha256": "9def21806f37b9715fc4d2584b343d51ef7eed1edcd316a5c16acde4bb10da5a",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s002",
+      "encounter": "Defense of the Heartroot against the Empress of Chaos and Elemental Cataclysm",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Empress of Chaos",
+              "kind": "turn",
+              "summary": "Begins 600 feet away and moves and dashes 300 feet toward the Heartroot, ending 300 feet away.",
+              "evidence": [
+                {
+                  "startUid": "u0131",
+                  "endUid": "u0135"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses Steady Aim and an armor-piercing arrow to hit the Empress for 23 damage. She fails the DC 19 Dexterity save and is blinded until the end of her next turn, but still senses the Heartroot.",
+              "evidence": [
+                {
+                  "startUid": "u0136",
+                  "endUid": "u0161"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo / Heartroot",
+              "kind": "lair_action",
+              "summary": "Channels the Heartroot’s vegetation to heal Seeker for 12 hit points.",
+              "evidence": [
+                {
+                  "startUid": "u0162",
+                  "endUid": "u0180"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Uses Wish to create a Force Cage around himself and the Heartroot, pushing Kenzo outside. Seeker 5 remains outside.",
+              "evidence": [
+                {
+                  "startUid": "u0182",
+                  "endUid": "u0205"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Readies Eldritch Blast against the Empress when she comes within range.",
+              "evidence": [
+                {
+                  "startUid": "u0206",
+                  "endUid": "u0217"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Keeps his already active astral form, activates Lengau’s Claw as a bonus action, and continues soothing the Heartroot.",
+              "evidence": [
+                {
+                  "startUid": "u0218",
+                  "endUid": "u0230"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "event",
+              "summary": "Its earlier animation is clarified to include air energy from the Glove of Crystalized Magic, giving it a 40-foot flying speed.",
+              "evidence": [
+                {
+                  "startUid": "u0231",
+                  "endUid": "u0241"
+                }
+              ]
+            },
+            {
+              "actor": "Metallic Storms",
+              "kind": "turn",
+              "summary": "The three storms rush toward the Heartroot, moving 120 feet and ending 180 feet away.",
+              "evidence": [
+                {
+                  "startUid": "u0245",
+                  "endUid": "u0252"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker 5",
+              "kind": "turn",
+              "summary": "Readies fourth-level Psychic Disruption against the Empress rather than summoning a construct.",
+              "evidence": [
+                {
+                  "startUid": "u0254",
+                  "endUid": "u0278"
+                }
+              ]
+            },
+            {
+              "actor": "Animated boulder",
+              "kind": "turn",
+              "summary": "Moves forward to screen the party against the approaching Empress.",
+              "evidence": [
+                {
+                  "startUid": "u0279",
+                  "endUid": "u0288"
+                }
+              ],
+              "note": "The surrounding discussion calls it the dancing item; no attack resolves."
+            },
+            {
+              "actor": "Triceratops",
+              "kind": "turn",
+              "summary": "Moves between the party and the approaching storms.",
+              "evidence": [
+                {
+                  "startUid": "u0289",
+                  "endUid": "u0293"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Empress of Chaos",
+              "kind": "turn",
+              "summary": "Moves and dashes another 300 feet, crossing the readied-spell range and ending 40 feet above the Heartroot. Her blindness ends at the end of this turn.",
+              "evidence": [
+                {
+                  "startUid": "u0310",
+                  "endUid": "u0313"
+                },
+                {
+                  "startUid": "u0347",
+                  "endUid": "u0357"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker 5",
+              "kind": "reaction",
+              "summary": "Releases fourth-level Psychic Disruption during the Empress’s approach. She succeeds on an Intelligence save of 32 and takes half of the rolled 29 damage, avoiding disruption.",
+              "evidence": [
+                {
+                  "startUid": "u0314",
+                  "endUid": "u0340"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Releases Eldritch Blast with advantage against the blinded Empress: one critical hit, two other hits and one miss, for 22 force damage.",
+              "evidence": [
+                {
+                  "startUid": "u0323",
+                  "endUid": "u0346"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Attacks the Empress with Vex advantage for 23 damage; she succeeds on the DC 19 Dexterity save and is not blinded. A second arrow hits Storm 3 for 8 piercing damage, establishing Vex. He withdraws while keeping his altitude.",
+              "evidence": [
+                {
+                  "startUid": "u0365",
+                  "endUid": "u0390"
+                },
+                {
+                  "startUid": "u0690",
+                  "endUid": "u0697"
+                }
+              ]
+            },
+            {
+              "actor": "Empress of Chaos",
+              "kind": "legendary_action",
+              "summary": "Sends metal around Wellby and Delwath. Both fail Strength saves and are grappled, with speed zero until the end of their next turns.",
+              "evidence": [
+                {
+                  "startUid": "u0391",
+                  "endUid": "u0403"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo / Heartroot",
+              "kind": "lair_action",
+              "summary": "Heals Seeker for another 14 hit points; the Empress is too far from a tree for the proposed tree attack.",
+              "evidence": [
+                {
+                  "startUid": "u0404",
+                  "endUid": "u0429"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts sixth-level Psychic Disruption. The Empress succeeds on her Intelligence save of 34 and takes 18 damage, half the rolled amount.",
+              "evidence": [
+                {
+                  "startUid": "u0430",
+                  "endUid": "u0444"
+                }
+              ]
+            },
+            {
+              "actor": "Empress of Chaos",
+              "kind": "legendary_action",
+              "summary": "Dashes down to the ground beside Seeker 5.",
+              "evidence": [
+                {
+                  "startUid": "u0445",
+                  "endUid": "u0452"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "While grappled, marks the Empress and fires Eldritch Blast without advantage through the Force Cage. Its bars give her three-quarters cover (+5 AC); two bolts hit for 27 damage and two miss.",
+              "evidence": [
+                {
+                  "startUid": "u0455",
+                  "endUid": "u0482"
+                }
+              ]
+            },
+            {
+              "actor": "Empress of Chaos",
+              "kind": "legendary_action",
+              "summary": "Spears Seeker 5, hitting 21 for 41 damage: 16 piercing, 19 thunder and 6 lightning. The lightning bursts 10 feet but catches nobody else.",
+              "evidence": [
+                {
+                  "startUid": "u0483",
+                  "endUid": "u0495"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Activates Superior Defense, gaining resistance to all damage except force. Moves one square to avoid striking through the cage, then hits the Empress three times for 17, 13 and 11 damage; two other attacks miss, without advantage.",
+              "evidence": [
+                {
+                  "startUid": "u0496",
+                  "endUid": "u0523"
+                }
+              ]
+            },
+            {
+              "actor": "Metallic Storms",
+              "kind": "turn",
+              "summary": "Dash into contact with the Triceratops and summons. Their auras deal 5 slashing damage at the start of a creature’s turn and another 5 per 5 feet moved within them.",
+              "evidence": [
+                {
+                  "startUid": "u0524",
+                  "endUid": "u0546"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker 5",
+              "kind": "turn",
+              "summary": "Casts Polymorph to turn the Empress into a tiny centipede. She rolls a natural 1 on the Wisdom save but uses Legendary Resistance; a piece of armor falls off and she loses advantage against spells and magical effects until the start of her next turn. Seeker 5 stays beside her.",
+              "evidence": [
+                {
+                  "startUid": "u0550",
+                  "endUid": "u0576"
+                }
+              ]
+            },
+            {
+              "actor": "Animated boulder",
+              "kind": "turn",
+              "summary": "Takes 5 aura damage and another 5 while moving to protect Seeker 5; flies around the Empress and misses its force-slam attack.",
+              "evidence": [
+                {
+                  "startUid": "u0577",
+                  "endUid": "u0599"
+                }
+              ]
+            },
+            {
+              "actor": "Triceratops",
+              "kind": "turn",
+              "summary": "Takes 15 damage from three overlapping auras. Attacks Storm 1 twice: a natural 1 misses and the second attack hits for piercing damage, visibly disrupting it; no rolled damage total is spoken.",
+              "evidence": [
+                {
+                  "startUid": "u0600",
+                  "endUid": "u0621"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Empress of Chaos",
+              "kind": "turn",
+              "summary": "Looks from Seeker 5 to the cage and says “It has to go.” Two sword hits destroy Seeker 5: the first deals a corrected 31 damage (18 slashing, 13 fire); the second, with lightning, dissolves him into ice and his animated boulder disappears. She moves toward Kenzo and hits with her spear for 60 damage before his defenses.",
+              "evidence": [
+                {
+                  "startUid": "u0622",
+                  "endUid": "u0660"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Superior Defense halves the spear hit to 30; Deflect reduces it by 33, preventing all damage. The Empress rolls 21 on the Dexterity save against the return effect; no damage to her is narrated.",
+              "evidence": [
+                {
+                  "startUid": "u0661",
+                  "endUid": "u0677"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Hits the Empress with advantage for 20 damage and calls for a DC 19 Dexterity save against blindness; its result is not spoken. His second arrow hits Storm 3 for 39 damage and bloodies it.",
+              "evidence": [
+                {
+                  "startUid": "u0679",
+                  "endUid": "u0697"
+                }
+              ]
+            },
+            {
+              "actor": "Empress of Chaos",
+              "kind": "legendary_action",
+              "summary": "Critically hits Kenzo with her spear. Damage is first called as 91 halved to 45, then confirmed as 41 when Kenzo checks; retain the final accepted 41.",
+              "evidence": [
+                {
+                  "startUid": "u0695",
+                  "endUid": "u0723"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo / Heartroot",
+              "kind": "lair_action",
+              "summary": "A nearby tree lashes the Empress. She fails the DC 18 Dexterity save with 16 and takes 12 slashing damage.",
+              "evidence": [
+                {
+                  "startUid": "u0724",
+                  "endUid": "u0735"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Abandons Telekinesis because it would break Force Cage concentration, then chooses Catapult rather than the proposed Psychic Disruption. The Empress rolls a straight Dexterity save of 16, fails, and takes 35 damage.",
+              "evidence": [
+                {
+                  "startUid": "u0736",
+                  "endUid": "u0788"
+                }
+              ],
+              "note": "The DM applies loss of magical-save advantage from Legendary Resistance here; preserve the adjudicated result."
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Takes 5 slashing aura damage, then hits the adjacent Metallic Storm for 15 damage, leaving it nearly destroyed.",
+              "evidence": [
+                {
+                  "startUid": "u0789",
+                  "endUid": "u0818"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Takes 5 slashing aura damage and runs beside the Empress with the Ladder’s 10-foot speed bonus. His first sword hit and Eldritch Smite knock her prone for 49 regular and 12 radiant damage. With advantage his second attack crits: drops Meswati Storm concentration for Banishing Smite, dealing 76 plus 3 radiant damage. His third attack misses.",
+              "evidence": [
+                {
+                  "startUid": "u0821",
+                  "endUid": "u0855"
+                }
+              ]
+            },
+            {
+              "actor": "Empress of Chaos",
+              "kind": "legendary_action",
+              "summary": "Flies 150 feet without provoking opportunity attacks, her armor launching her upward beside Wellby despite being prone.",
+              "evidence": [
+                {
+                  "startUid": "u0856",
+                  "endUid": "u0868"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Uses Skirmisher to flip away from the Empress without provoking an opportunity attack.",
+              "evidence": [
+                {
+                  "startUid": "u0869",
+                  "endUid": "u0875"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Uses his action to dash and fly within 15 feet of the Empress, 90 feet above the ground, then makes three bonus-action unarmed strikes. All hit, for stated totals of 29, 20 and a corrected 10 damage; the first bloodies her. Aura Focus’s extra d12 applies once per turn.",
+              "evidence": [
+                {
+                  "startUid": "u0877",
+                  "endUid": "u0925"
+                }
+              ],
+              "note": "The second hit remains stated as 20; only the final hit is explicitly corrected after the once-per-turn reminder."
+            },
+            {
+              "actor": "Metallic Storms",
+              "kind": "turn",
+              "summary": "Their stone armor thickens and all three close on the Triceratops. All six Wind Talon attacks hit, including an opening critical for 15, another hit for 12, and the remaining damage called as 41; the Triceratops is badly hurt.",
+              "evidence": [
+                {
+                  "startUid": "u0927",
+                  "endUid": "u0940"
+                }
+              ]
+            },
+            {
+              "actor": "Empress of Chaos",
+              "kind": "legendary_action",
+              "summary": "Attempts to grapple Kenzo and Wellby with metal. Wellby improves his Strength save to 22 with Bardic Inspiration and succeeds. Kenzo improves 14 to 21 with Bardic Inspiration but fails; his speed becomes zero until the end of his next turn, though he can still hover.",
+              "evidence": [
+                {
+                  "startUid": "u0941",
+                  "endUid": "u0980"
+                }
+              ]
+            },
+            {
+              "actor": "Triceratops",
+              "kind": "turn",
+              "summary": "Takes another 15 aura damage, leaving it nearly dead. Both attacks hit Storm 1 for 50 damage, bloodying it.",
+              "evidence": [
+                {
+                  "startUid": "u0982",
+                  "endUid": "u1004"
+                }
+              ]
+            },
+            {
+              "actor": "Empress of Chaos",
+              "kind": "legendary_action",
+              "summary": "Flies out of Kenzo’s reach, drawing his reaction, then turns and flies back beside him at 90 feet altitude.",
+              "evidence": [
+                {
+                  "startUid": "u1005",
+                  "endUid": "u1028"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Makes an opportunity attack with Lengau’s Claw, hitting 25 for 21 damage; his reaction is now unavailable for Deflect.",
+              "evidence": [
+                {
+                  "startUid": "u1010",
+                  "endUid": "u1037"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Empress of Chaos",
+              "kind": "turn",
+              "summary": "Attacks Kenzo with two swords and a spear: one sword misses, the other hits for 41 damage with cold, halved to 20. The spear hits and adds a smite: 53 plus 27, halved from 80 to 40. Kenzo cannot deflect because he spent his reaction.",
+              "evidence": [
+                {
+                  "startUid": "u1038",
+                  "endUid": "u1074"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo / Heartroot",
+              "kind": "event",
+              "summary": "Kenzo is outside the Heartroot’s 60-foot range and cannot use a lair action to heal this round.",
+              "evidence": [
+                {
+                  "startUid": "u1075",
+                  "endUid": "u1078"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Fires a lightning arrow at the Empress. The original 20 is corrected to a hit, so he keeps the proposed Heroic Inspiration reroll. She rolls 17 on the DC 19 Dexterity save and uses Legendary Resistance to avoid blindness; takes 22 damage plus 21 lightning damage. The second arrow hits Storm 3 for 40 and destroys it.",
+              "evidence": [
+                {
+                  "startUid": "u1079",
+                  "endUid": "u1119"
+                }
+              ]
+            },
+            {
+              "actor": "Empress of Chaos",
+              "kind": "legendary_action",
+              "summary": "Spears Kenzo, hitting 28 for 60 damage: 18 piercing, 26 cold and a 16-fire burst that catches nobody else. Resistance halves this to 30, leaving Kenzo at 18 hit points; she cannot smite on this action.",
+              "evidence": [
+                {
+                  "startUid": "u1120",
+                  "endUid": "u1129"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Flies over the Force Cage toward Delwath, making its speed bonus available for his approach.",
+              "evidence": [
+                {
+                  "startUid": "u1151",
+                  "endUid": "u1163"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Abandons the touch-range Cure Wounds scroll plan because the glove lacks enough charges. Casts fifth-level Healing Word, healing Kenzo for 30, then Vicious Mockery: the Empress fails a Wisdom save of 15, takes 4d6 psychic damage (total unspoken), and has disadvantage on her next attack.",
+              "evidence": [
+                {
+                  "startUid": "u1164",
+                  "endUid": "u1232"
+                }
+              ]
+            },
+            {
+              "actor": "Empress of Chaos",
+              "kind": "legendary_action",
+              "summary": "Attacks Kenzo with her sword at disadvantage from Vicious Mockery: natural 20 and 14 become a normal hit, preventing the crit. Deals 41 damage (18 slashing, 23 acid), halved to 20.",
+              "evidence": [
+                {
+                  "startUid": "u1233",
+                  "endUid": "u1252"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Uses metamagic to cast Scatter as a bonus action, placing himself on a corner of the Force Cage and bringing the Ladder into the maneuver. Flies up beside the Empress at 90 feet using the speed bonus. One sword attack hits for 18 plus 2 radiant; two miss, including a Heroic Inspiration reroll from 1 to 4.",
+              "evidence": [
+                {
+                  "startUid": "u1262",
+                  "endUid": "u1374"
+                }
+              ]
+            },
+            {
+              "actor": "Empress of Chaos",
+              "kind": "legendary_action",
+              "summary": "Hits Kenzo’s AC 20 with her sword for 25 damage (14 slashing, 11 cold), halved to 12, leaving him at 16 hit points.",
+              "evidence": [
+                {
+                  "startUid": "u1375",
+                  "endUid": "u1392"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Hits the Empress twice with his staff for 30 and 11 damage. Uses Step of the Wind to disengage and dash away, ultimately choosing the wooded low-cliff area off the map, 160 feet from her, over staying within 60 feet of the Heartroot.",
+              "evidence": [
+                {
+                  "startUid": "u1393",
+                  "endUid": "u1474"
+                },
+                {
+                  "startUid": "u1597",
+                  "endUid": "u1604"
+                }
+              ],
+              "note": "His spoken “dodge” and proposed temporary hit points are superseded by the later confirmation that he used Step of the Wind, not Patient Defense."
+            },
+            {
+              "actor": "Metallic Storms",
+              "kind": "turn",
+              "summary": "The two remaining storms make four Wind Talon attacks on the Triceratops: three hit and one misses for 28 damage. It collapses into its small stone figurine, available to revive in seven days.",
+              "evidence": [
+                {
+                  "startUid": "u1475",
+                  "endUid": "u1484"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 5,
+          "entries": [
+            {
+              "actor": "Empress of Chaos",
+              "kind": "turn",
+              "summary": "Makes three attacks on Delwath. Two sword hits (29 and 34) deal 40 damage (15 slashing, 25 fire) and 35 (18 slashing, 17 cold). Her spear attack of 26 is stopped by his reaction.",
+              "evidence": [
+                {
+                  "startUid": "u1485",
+                  "endUid": "u1513"
+                }
+              ],
+              "note": "An initial “acid” remark is followed by the explicit fire/cold damage breakdown retained here."
+            },
+            {
+              "actor": "Delwath / Yezali",
+              "kind": "reaction",
+              "summary": "Uses his reaction to make the Empress’s spear miss; the DM attributes its deflection to Yezali.",
+              "evidence": [
+                {
+                  "startUid": "u1500",
+                  "endUid": "u1511"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Shoots the Empress for 45 damage; her Dexterity save of 23 avoids blindness. Shoots Storm 1 for 13 and establishes Vex, then moves closer to offer another target.",
+              "evidence": [
+                {
+                  "startUid": "u1515",
+                  "endUid": "u1539"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo / Heartroot",
+              "kind": "event",
+              "summary": "No lair action is available because Kenzo remains outside range.",
+              "evidence": [
+                {
+                  "startUid": "u1540",
+                  "endUid": "u1544"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts fifth-level Healing Word on Delwath for 20 healing. Uses Vicious Mockery; the Empress rolls a natural 1 on her Wisdom save, takes 4d6 psychic damage (total unspoken), and has disadvantage on her next attack.",
+              "evidence": [
+                {
+                  "startUid": "u1545",
+                  "endUid": "u1562"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Hits the Empress for 12 damage.",
+              "evidence": [
+                {
+                  "startUid": "u1554",
+                  "endUid": "u1560"
+                }
+              ]
+            },
+            {
+              "actor": "Empress of Chaos",
+              "kind": "legendary_action",
+              "summary": "Flies after Kenzo. The Ladder’s speed penalty shortens her movement, so she stops 20 feet from him rather than the initially announced 10; she does not pass Wellby’s reach, and Delwath has spent his reaction.",
+              "evidence": [
+                {
+                  "startUid": "u1563",
+                  "endUid": "u1595"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Dashes and flies up to 160 feet to Kenzo, lands in the trees in front of him, and casts Sanctuary. Attacking Kenzo now requires a DC 20 Wisdom save until Kenzo attacks; Delwath makes no attack.",
+              "evidence": [
+                {
+                  "startUid": "u1605",
+                  "endUid": "u1723"
+                }
+              ]
+            },
+            {
+              "actor": "Empress of Chaos",
+              "kind": "legendary_action",
+              "summary": "Sends grappling metal at Wellby and the Ladder. Wellby fails his Strength save and is grappled; the Ladder succeeds. Wellby’s speed remains zero into the later disputed duration.",
+              "evidence": [
+                {
+                  "startUid": "u1724",
+                  "endUid": "u1757"
+                },
+                {
+                  "startUid": "u2173",
+                  "endUid": "u2187"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Chooses Dodge instead of attacking to preserve Sanctuary. Uses Heightened Step of the Wind to disengage, dash, and carry Delwath 140 feet farther through the valley, reduced from the proposed 150 because the Ladder is absent.",
+              "evidence": [
+                {
+                  "startUid": "u1758",
+                  "endUid": "u1828"
+                }
+              ]
+            },
+            {
+              "actor": "Empress of Chaos",
+              "kind": "legendary_action",
+              "summary": "Pursues Kenzo and Delwath another 150 feet, ending within 10 feet.",
+              "evidence": [
+                {
+                  "startUid": "u1829",
+                  "endUid": "u1832"
+                }
+              ]
+            },
+            {
+              "actor": "Metallic Storms",
+              "kind": "turn",
+              "summary": "Both remaining storms dash to close with the immobilized Wellby.",
+              "evidence": [
+                {
+                  "startUid": "u1829",
+                  "endUid": "u1839"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 6,
+          "entries": [
+            {
+              "actor": "Empress of Chaos",
+              "kind": "turn",
+              "summary": "First sword attack is blocked by Sanctuary after a Wisdom save of 9. A second passes the ward and hits at disadvantage (dice 9 and 19), dealing 17 slashing plus 17 fire, halved to 17, knocking Kenzo unconscious. She uses her last Legendary Resistance to pass Sanctuary for the spear, hits him with advantage, and causes one failed death save as adjudicated. Its burst also deals 11 cold damage to nearby Delwath.",
+              "evidence": [
+                {
+                  "startUid": "u1840",
+                  "endUid": "u1889"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Takes 10 slashing aura damage and remains unable to move. Shoots the Empress twice from about 300 feet for 41 and 11 damage, 52 total, choosing damage over another blindness attempt.",
+              "evidence": [
+                {
+                  "startUid": "u1891",
+                  "endUid": "u1919"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts fourth-level Catapult, spending the glove’s last two charges to double its reach twice to the distant Empress. She fails the Dexterity save and is left on her last legs; the damage total is not spoken.",
+              "evidence": [
+                {
+                  "startUid": "u1920",
+                  "endUid": "u1948"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Takes 10 aura damage moving into the adjacent storm, hits with a 15 attack, and uses Bardic Inspiration for another 4 damage. The base rolled damage is not spoken.",
+              "evidence": [
+                {
+                  "startUid": "u1949",
+                  "endUid": "u1972"
+                }
+              ]
+            },
+            {
+              "actor": "Empress of Chaos",
+              "kind": "legendary_action",
+              "summary": "Stabs the unconscious Kenzo again, hitting and causing a second failed death save.",
+              "evidence": [
+                {
+                  "startUid": "u1975",
+                  "endUid": "u1978"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "After one missed attack, hits the Empress for 14 plus 5 radiant, killing her without a smite. Her body is consumed as her armor expands into a 20-foot living whirlwind of Limbo chaos metal, a distinct replacement. Transfers his mark rather than taking kill healing, then hits the new creature for 26 and critically hits for 33. Forgoes a smite under the one-slot-per-turn ruling so he can cast Healing Word on Kenzo, restoring consciousness with 15 healing; the DM then states Kenzo has 16 hit points.",
+              "evidence": [
+                {
+                  "startUid": "u1980",
+                  "endUid": "u2094"
+                }
+              ],
+              "note": "The source verbally permits two further attacks after the killing hit; preserve that played sequence and the 15-healing/16-current-HP distinction."
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Uses Soul Sight: the growing Elemental Cataclysm is CR 22, strong in Constitution, weak in Intelligence and Charisma, immune to acid, cold, fire, lightning and poison and to many conditions including blinded and charmed, but not incapacitated. Uses the Potion of Dragon’s Majesty to become a silver dragon with 260 hit points and legendary actions. His 60-foot paralyzing breath is resisted on a Constitution save; of two Rend attacks, one crits for 21 damage and one misses. Cold damage is omitted against immunity. The transformation lasts one hour.",
+              "evidence": [
+                {
+                  "startUid": "u2095",
+                  "endUid": "u2161"
+                },
+                {
+                  "startUid": "u2644",
+                  "endUid": "u2646"
+                }
+              ]
+            },
+            {
+              "actor": "Metallic Storms",
+              "kind": "turn",
+              "summary": "The two remaining storms make four Wind Talon attacks on Wellby: 12 and 11 miss; 22 and 21 hit for 14 and 13 piercing damage.",
+              "evidence": [
+                {
+                  "startUid": "u2162",
+                  "endUid": "u2169"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Uses Uncanny Dodge on the 14-damage hit, bringing the two hits’ combined damage to 20. Attempts Skirmisher afterward, but the DM keeps his speed at zero through his forthcoming turn despite his duration objection.",
+              "evidence": [
+                {
+                  "startUid": "u2170",
+                  "endUid": "u2187"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 7,
+          "entries": [
+            {
+              "actor": "Elemental Cataclysm",
+              "kind": "turn",
+              "summary": "Moves 80 feet toward the Heartroot, initially from 300 to 220 feet away, drawing Delwath’s reaction. Dashes another 80 feet; the DM announces its resulting distance as 160 feet.",
+              "evidence": [
+                {
+                  "startUid": "u2188",
+                  "endUid": "u2206"
+                }
+              ],
+              "note": "The stated distance after the dash does not agree with subtracting both moves from 300; retain the source’s announced positions."
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Uses Eldritch Blast instead of a sword opportunity attack as the Cataclysm moves away. Two bolts hit and two miss, for 21 force damage before it continues dashing.",
+              "evidence": [
+                {
+                  "startUid": "u2192",
+                  "endUid": "u2201"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Takes 10 slashing aura damage. Hits Storm 2 for 40, then the Elemental Cataclysm for 11, establishing Vex on the latter.",
+              "evidence": [
+                {
+                  "startUid": "u2207",
+                  "endUid": "u2216"
+                }
+              ]
+            },
+            {
+              "actor": "Elemental Cataclysm",
+              "kind": "legendary_action",
+              "summary": "Moves another 80 feet, ending at the announced position 80 feet from the Heartroot.",
+              "evidence": [
+                {
+                  "startUid": "u2217",
+                  "endUid": "u2220"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "legendary_action",
+              "summary": "Uses the dragon’s Pounce to move 40 feet after the Cataclysm.",
+              "evidence": [
+                {
+                  "startUid": "u2221",
+                  "endUid": "u2225"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts Psychic Disruption on the Cataclysm. It fails its Intelligence save, spends Legendary Resistance and takes half damage; no total is spoken.",
+              "evidence": [
+                {
+                  "startUid": "u2227",
+                  "endUid": "u2239"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Takes 5 aura damage, hits and kills its adjacent storm, which has 12 hit points left, then moves beside the remaining storm to assist Wellby.",
+              "evidence": [
+                {
+                  "startUid": "u2240",
+                  "endUid": "u2249"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "legendary_action",
+              "summary": "Uses another Pounce to chase the Cataclysm 40 feet closer, ending 140 feet from it.",
+              "evidence": [
+                {
+                  "startUid": "u2257",
+                  "endUid": "u2269"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Uses two sorcery points to cast Dimension Door as a bonus action and appear in front of the Cataclysm. One attack misses (19); two hit (28, 27) for 43 damage total. It is wounded but not yet bloodied.",
+              "evidence": [
+                {
+                  "startUid": "u2274",
+                  "endUid": "u2293"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "legendary_action",
+              "summary": "Pounces another 40 feet closer, now 100 feet from the Cataclysm and 180 feet from the Heartroot.",
+              "evidence": [
+                {
+                  "startUid": "u2294",
+                  "endUid": "u2297"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Flies 80 feet, stopping 20 feet from the Cataclysm and outside Rend reach. Casts Hold Monster; it succeeds on its Wisdom save with 27.",
+              "evidence": [
+                {
+                  "startUid": "u2298",
+                  "endUid": "u2316"
+                }
+              ]
+            },
+            {
+              "actor": "Remaining Metallic Storm",
+              "kind": "turn",
+              "summary": "Hits Wellby twice with Wind Talons for 13 and 9 damage; his grapple has now ended.",
+              "evidence": [
+                {
+                  "startUid": "u2318",
+                  "endUid": "u2325"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Uses Uncanny Dodge on the first Wind Talon hit, reducing it to 6, for 15 combined damage.",
+              "evidence": [
+                {
+                  "startUid": "u2318",
+                  "endUid": "u2325"
+                },
+                {
+                  "startUid": "u2331",
+                  "endUid": "u2333"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "legendary_action",
+              "summary": "Tries Hold Monster again after the storm’s turn. The Cataclysm fails its Wisdom save but uses another Legendary Resistance.",
+              "evidence": [
+                {
+                  "startUid": "u2326",
+                  "endUid": "u2330"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 8,
+          "entries": [
+            {
+              "actor": "Elemental Cataclysm",
+              "kind": "turn",
+              "summary": "Circles into sight of the Force Cage and ignites its interior. Seeker fails a Dexterity save with 17 and takes 44 fire damage; his Constitution concentration check against DC 22 fails, the Force Cage vanishes, and he is on fire.",
+              "evidence": [
+                {
+                  "startUid": "u2334",
+                  "endUid": "u2370"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "legendary_action",
+              "summary": "Closes into melee with the Cataclysm after its turn.",
+              "evidence": [
+                {
+                  "startUid": "u2375",
+                  "endUid": "u2378"
+                }
+              ],
+              "note": "The DM grants this extra movement here without naming the action."
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Kills the final Metallic Storm with a sneak attack without advantage, then hits the Cataclysm with advantage for 36. It becomes bloodied and a chaos-metal spear begins forming inside it. Wellby moves between it and the Heartroot.",
+              "evidence": [
+                {
+                  "startUid": "u2379",
+                  "endUid": "u2394"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo / Heartroot",
+              "kind": "lair_action",
+              "summary": "Back within the Heartroot’s range, heals Seeker for 10 and extinguishes him under nourishing soil.",
+              "evidence": [
+                {
+                  "startUid": "u2395",
+                  "endUid": "u2415"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts Polymorph to turn the Cataclysm into a centipede, using his last fourth-level slot. It succeeds on its Wisdom save with a natural 20.",
+              "evidence": [
+                {
+                  "startUid": "u2416",
+                  "endUid": "u2430"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Moves; Seeker establishes that he is riding it.",
+              "evidence": [
+                {
+                  "startUid": "u2437",
+                  "endUid": "u2437"
+                },
+                {
+                  "startUid": "u2454",
+                  "endUid": "u2455"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "legendary_action",
+              "summary": "Makes a Rend attack for 15 damage, omitting cold because the Cataclysm is immune. The DM confirms four legendary actions while Kenzo is in his lair.",
+              "evidence": [
+                {
+                  "startUid": "u2431",
+                  "endUid": "u2462"
+                },
+                {
+                  "startUid": "u2424",
+                  "endUid": "u2428"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Makes sword attacks: one hit is established and another attack improves from a missed 17 to a hit of 23 through Bardic Inspiration. Deals 38 total damage including the Bardic roll of 6, then moves to stand between the Cataclysm and the Heartroot.",
+              "evidence": [
+                {
+                  "startUid": "u2463",
+                  "endUid": "u2492"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "legendary_action",
+              "summary": "Goes before the Cataclysm’s simultaneous extra action, hitting with Rend (27) for 13 damage.",
+              "evidence": [
+                {
+                  "startUid": "u2485",
+                  "endUid": "u2495"
+                }
+              ]
+            },
+            {
+              "actor": "Elemental Cataclysm",
+              "kind": "legendary_action",
+              "summary": "Attacks Seeker rather than the dragon. Its 17 is corrected to a hit against Seeker’s actual AC 15, dealing 27 lightning damage.",
+              "evidence": [
+                {
+                  "startUid": "u2494",
+                  "endUid": "u2507"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Chooses three Rend attacks instead of Hold Monster. First rolls 19, becomes a hit through Seeker’s reactive Bardic Inspiration, and deals 15 plus the Bardic 10. Second hits for 21. Third natural 1 is rerolled with Heroic Inspiration to 20, hitting for 12.",
+              "evidence": [
+                {
+                  "startUid": "u2508",
+                  "endUid": "u2546"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "reaction",
+              "summary": "Spends his final Bardic Inspiration on Kenzo’s first Rend, adding 10 to the attack and damage; the DM confirms it had been recovered on initiative.",
+              "evidence": [
+                {
+                  "startUid": "u2518",
+                  "endUid": "u2536"
+                }
+              ]
+            },
+            {
+              "actor": "Elemental Cataclysm",
+              "kind": "legendary_action",
+              "summary": "Moves its speed onto the Heartroot without provoking opportunity attacks. Its rumbling passage forces Constitution saves from everyone it passes; the DC is corrected from 19 to 23. Failures are knocked prone, including Delwath (19), Wellby (14), and initially Kenzo.",
+              "evidence": [
+                {
+                  "startUid": "u2547",
+                  "endUid": "u2571"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "event",
+              "summary": "Retroactively uses a dragon Legendary Resistance to avoid being knocked prone by the Cataclysm’s passage.",
+              "evidence": [
+                {
+                  "startUid": "u2547",
+                  "endUid": "u2571"
+                },
+                {
+                  "startUid": "u2584",
+                  "endUid": "u2586"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "legendary_action",
+              "summary": "Casts Hold Monster after the Cataclysm’s movement. It rolls a natural 1 on its Wisdom save but spends its last Legendary Resistance, avoiding the hold.",
+              "evidence": [
+                {
+                  "startUid": "u2572",
+                  "endUid": "u2583"
+                },
+                {
+                  "startUid": "u2372",
+                  "endUid": "u2376"
+                }
+              ],
+              "note": "The DM says “last legendary action”; the save context and earlier one-resistance-remaining statement establish the resistance being spent."
+            }
+          ]
+        },
+        {
+          "round": 9,
+          "entries": [
+            {
+              "actor": "Elemental Cataclysm",
+              "kind": "turn",
+              "summary": "Lands around the Heartroot and begins forcing a massive spear into it. The DM gives the party until the end of the Cataclysm’s next turn to destroy it before it destroys the Heartroot.",
+              "evidence": [
+                {
+                  "startUid": "u2587",
+                  "endUid": "u2595"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "legendary_action",
+              "summary": "Moves 40 feet toward the Heartroot, still short of Rend reach; is told he can move and reach it after Wellby’s turn.",
+              "evidence": [
+                {
+                  "startUid": "u2596",
+                  "endUid": "u2606"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Stands up and shoots with advantage. Two arrows hit for 48 and 9 piercing damage, counting the second only once despite a double click. The Cataclysm begins to decohere.",
+              "evidence": [
+                {
+                  "startUid": "u2607",
+                  "endUid": "u2621"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "legendary_action",
+              "summary": "Pounces into reach and rends the Cataclysm apart while it has 16 hit points remaining. Lands over the Heartroot with protective wings as ash and metal fall; no numeric final damage is announced.",
+              "evidence": [
+                {
+                  "startUid": "u2622",
+                  "endUid": "u2643"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The Empress is dead, Seeker 5 and his animated boulder are gone, all three Metallic Storms are destroyed, and dragon-form Kenzo tears the Elemental Cataclysm apart before it can destroy the Heartroot. The larger army battle remains underway outside this encounter.",
+        "evidence": [
+          {
+            "startUid": "u2631",
+            "endUid": "u2643"
+          }
+        ]
+      }
+    }
+  ]
+}
