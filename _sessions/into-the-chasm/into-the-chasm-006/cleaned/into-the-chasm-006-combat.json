@@ -1,0 +1,635 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "into-the-chasm-006",
+    "sessionYaml": "_sessions/into-the-chasm/into-the-chasm-006/cleaned/into-the-chasm-006-session.yaml",
+    "sessionYamlSha256": "bac4ddf58bb4aa31fb7118d2b685d5fcfa77703fcadc7154e931305d922dd65c",
+    "transcriptPath": "_sessions/into-the-chasm/into-the-chasm-006/cleaned/into-the-chasm-006-transcript.md",
+    "transcriptSha256": "8057b5ae08efbc522605af5c565baf822806ca5a1a8abc619e5d2507ac5f7ea1",
+    "segments": {
+      "path": "_sessions/into-the-chasm/into-the-chasm-006/cleaned/into-the-chasm-006-segments.json",
+      "sha256": "16b329722483cd3e7751fc6c31a347075a949c59d46e2369bb5a6d906f07cb56",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s004",
+      "encounter": "Stopping Eolo’s compelled descent",
+      "openingActions": [
+        {
+          "actor": "Justas",
+          "kind": "event",
+          "summary": "Retrospectively casts third-level Cure Wounds on himself during the preceding ten-minute investigation; no healing total is stated.",
+          "evidence": [
+            {
+              "startUid": "u0420",
+              "endUid": "u0422"
+            }
+          ]
+        }
+      ],
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Jrain",
+              "kind": "event",
+              "summary": "Uses Alert to swap her initiative 22 with Finnan, putting him ahead of Eolo’s 21.",
+              "evidence": [
+                {
+                  "startUid": "u0414",
+                  "endUid": "u0431"
+                }
+              ]
+            },
+            {
+              "actor": "Finnan",
+              "kind": "turn",
+              "summary": "Drops Detect Magic and casts Calm Emotions. Eolo fails the DC 15 Charisma save with a total of 1; charm/frightened effects are suppressed for one minute. The table extends protection to companions within 20 feet who can voluntarily fail their saves.",
+              "evidence": [
+                {
+                  "startUid": "u0432",
+                  "endUid": "u0446"
+                },
+                {
+                  "startUid": "u0461",
+                  "endUid": "u0468"
+                }
+              ]
+            },
+            {
+              "actor": "Eolo",
+              "kind": "turn",
+              "summary": "Snaps out of the compulsion, throws the very light keystone to Justas, and abandons the planned flight toward a hatch.",
+              "evidence": [
+                {
+                  "startUid": "u0447",
+                  "endUid": "u0455"
+                },
+                {
+                  "startUid": "u0502",
+                  "endUid": "u0503"
+                },
+                {
+                  "startUid": "u2146",
+                  "endUid": "u2153"
+                }
+              ]
+            },
+            {
+              "actor": "Justas",
+              "kind": "event",
+              "summary": "Catches the keystone barehanded before managing to wrap his cloak around it; his hair stands up from its static effect.",
+              "evidence": [
+                {
+                  "startUid": "u0456",
+                  "endUid": "u0473"
+                }
+              ]
+            },
+            {
+              "actor": "Jrain",
+              "kind": "event",
+              "summary": "Supplies a scavenged cloak and wraps the keystone for transport.",
+              "evidence": [
+                {
+                  "startUid": "u0474",
+                  "endUid": "u0476"
+                },
+                {
+                  "startUid": "u0486",
+                  "endUid": "u0488"
+                }
+              ]
+            },
+            {
+              "actor": "Ekko",
+              "kind": "event",
+              "summary": "Takes the wrapped stone. Direct contact is avoided; static remains, but he feels no further effects.",
+              "evidence": [
+                {
+                  "startUid": "u0512",
+                  "endUid": "u0524"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "Eolo no longer attempts to descend. The keystone is wrapped and can be carried without further effects; the party prepares to return it to Eidrikas before the minute of suppression ends.",
+        "evidence": [
+          {
+            "startUid": "u0493",
+            "endUid": "u0524"
+          }
+        ]
+      },
+      "note": "A single initiative cycle resolves the confrontation. Catching and wrapping are narrated actions without an explicitly charged reaction or separate ordered turn."
+    },
+    {
+      "id": "c002",
+      "segmentId": "s014",
+      "encounter": "Evacuating Melusa past the portal wisps",
+      "openingActions": [
+        {
+          "actor": "Justas",
+          "kind": "event",
+          "summary": "Ties a rope around his waist as a retrieval precaution, uses his shield to recharge Channel Divinity, casts Shield of Faith without concentration, and casts Spirit Guardians; the resulting AC is 21.",
+          "evidence": [
+            {
+              "startUid": "u1500",
+              "endUid": "u1513"
+            }
+          ]
+        },
+        {
+          "actor": "Finnan",
+          "kind": "event",
+          "summary": "Summons a Tricksy fey and directs it to use darkness to distract wisps, staying out of Justas’s 15-foot aura.",
+          "evidence": [
+            {
+              "startUid": "u1488",
+              "endUid": "u1488"
+            },
+            {
+              "startUid": "u1514",
+              "endUid": "u1521"
+            }
+          ]
+        },
+        {
+          "actor": "Ekko",
+          "kind": "event",
+          "summary": "Takes position behind Justas in his existing polar-bear form.",
+          "evidence": [
+            {
+              "startUid": "u1522",
+              "endUid": "u1524"
+            }
+          ]
+        }
+      ],
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Justas",
+              "kind": "turn",
+              "summary": "Runs into the wisps while dodging with AC 21. His natural-20 Charisma-based distraction draws nearly the whole swarm. Spirit Guardians deals 12 radiant damage before saves, half on successful Wisdom saves, and reduces their movement; about 15% fall. The save DC is later corrected from 15 to 14.",
+              "evidence": [
+                {
+                  "startUid": "u1525",
+                  "endUid": "u1557"
+                },
+                {
+                  "startUid": "u1569",
+                  "endUid": "u1577"
+                },
+                {
+                  "startUid": "u1588",
+                  "endUid": "u1593"
+                },
+                {
+                  "startUid": "u1793",
+                  "endUid": "u1800"
+                }
+              ]
+            },
+            {
+              "actor": "Eolo and first evacuees",
+              "kind": "turn",
+              "summary": "Eolo leads the first group through. Five villagers cross; hesitation, a trip and the narrow opening slow the rest, rather than knocking them unconscious.",
+              "evidence": [
+                {
+                  "startUid": "u1540",
+                  "endUid": "u1542"
+                },
+                {
+                  "startUid": "u1594",
+                  "endUid": "u1610"
+                }
+              ]
+            },
+            {
+              "actor": "Finnan",
+              "kind": "event",
+              "summary": "Provides Justas with Bardic Inspiration to reserve for a failed check or save.",
+              "evidence": [
+                {
+                  "startUid": "u1545",
+                  "endUid": "u1547"
+                },
+                {
+                  "startUid": "u1585",
+                  "endUid": "u1587"
+                }
+              ]
+            },
+            {
+              "actor": "Portal wisps",
+              "kind": "turn",
+              "summary": "Attack Justas with disadvantage from Dodge; only one hits, for 5 damage. Justas succeeds on his DC 10 Constitution concentration save with 11 and keeps Spirit Guardians active.",
+              "evidence": [
+                {
+                  "startUid": "u1560",
+                  "endUid": "u1565"
+                },
+                {
+                  "startUid": "u1578",
+                  "endUid": "u1584"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Eolo",
+              "kind": "turn",
+              "summary": "Organizes the five arrivals by having them sit in a row on the other side; the joking suggestion of shooting arrivals is not carried out.",
+              "evidence": [
+                {
+                  "startUid": "u1608",
+                  "endUid": "u1625"
+                }
+              ]
+            },
+            {
+              "actor": "Ekko",
+              "kind": "event",
+              "summary": "Remains a polar bear behind Justas as backup, waving villagers toward the portal.",
+              "evidence": [
+                {
+                  "startUid": "u1626",
+                  "endUid": "u1634"
+                }
+              ]
+            },
+            {
+              "actor": "Jrain",
+              "kind": "turn",
+              "summary": "Watches the previous group clear and encourages the next group toward the portal.",
+              "evidence": [
+                {
+                  "startUid": "u1635",
+                  "endUid": "u1642"
+                }
+              ]
+            },
+            {
+              "actor": "Justas",
+              "kind": "turn",
+              "summary": "Abandons the proposed readied recasting because it would interfere with concentration, and continues dodging and taunting instead; his distraction total is 10.",
+              "evidence": [
+                {
+                  "startUid": "u1643",
+                  "endUid": "u1653"
+                },
+                {
+                  "startUid": "u1658",
+                  "endUid": "u1674"
+                }
+              ]
+            },
+            {
+              "actor": "Summoned Tricksy fey",
+              "kind": "turn",
+              "summary": "Attacks, teleports 30 feet and makes a 10-foot cube of magical darkness lasting until the end of its next turn, trying to pull wisps away from Justas. Its Charisma-based distraction total is 20; the swarm starts spreading.",
+              "evidence": [
+                {
+                  "startUid": "u1661",
+                  "endUid": "u1676"
+                }
+              ]
+            },
+            {
+              "actor": "Ekko",
+              "kind": "turn",
+              "summary": "Intercepts wisps drifting back toward the portal, drawing their attention and trying to dodge them.",
+              "evidence": [
+                {
+                  "startUid": "u1677",
+                  "endUid": "u1682"
+                }
+              ]
+            },
+            {
+              "actor": "Portal wisps",
+              "kind": "turn",
+              "summary": "Split between the fey and Ekko. Ekko takes 15 damage, absorbed by temporary hit points, leaving 3 temporary hit points; his corrected AC 17 does not change the result. None hit Justas.",
+              "evidence": [
+                {
+                  "startUid": "u1683",
+                  "endUid": "u1712"
+                }
+              ]
+            },
+            {
+              "actor": "Spirit Guardians and evacuees",
+              "kind": "event",
+              "summary": "The wisps succeed on their Wisdom save but more die from the reduced damage; roughly 20% total are now dead. Ten more villagers cross, for fifteen through so far. The aura is clarified as a 15-foot emanation.",
+              "evidence": [
+                {
+                  "startUid": "u1654",
+                  "endUid": "u1657"
+                },
+                {
+                  "startUid": "u1713",
+                  "endUid": "u1719"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Jrain",
+              "kind": "turn",
+              "summary": "Encourages another ten toward the gate; Finnan intends to accompany the last batch.",
+              "evidence": [
+                {
+                  "startUid": "u1720",
+                  "endUid": "u1727"
+                }
+              ]
+            },
+            {
+              "actor": "Justas",
+              "kind": "turn",
+              "summary": "Runs while dodging to bring more wisps into Spirit Guardians; his distraction total is 7.",
+              "evidence": [
+                {
+                  "startUid": "u1728",
+                  "endUid": "u1745"
+                }
+              ]
+            },
+            {
+              "actor": "Ekko",
+              "kind": "turn",
+              "summary": "Continues drawing attention in polar-bear form; his distraction total is 21.",
+              "evidence": [
+                {
+                  "startUid": "u1746",
+                  "endUid": "u1752"
+                }
+              ]
+            },
+            {
+              "actor": "Portal wisps",
+              "kind": "turn",
+              "summary": "Avoid Justas, with a few drawn toward the fey and a large swarm around Ekko. They deal 25 damage to Ekko: his remaining 3 temporary hit points absorb part, leaving him at 29 hit points.",
+              "evidence": [
+                {
+                  "startUid": "u1753",
+                  "endUid": "u1769"
+                }
+              ]
+            },
+            {
+              "actor": "Evacuees",
+              "kind": "event",
+              "summary": "Further villagers move through; at the next round’s opening the DM says seven remain. About 60–70% of the wisps remain after the guardians and fey attacks.",
+              "evidence": [
+                {
+                  "startUid": "u1774",
+                  "endUid": "u1778"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Justas",
+              "kind": "turn",
+              "summary": "Continues sweeping the wisps with Spirit Guardians while excluding allies, and distracts with a total of 14. Corrects his spell save DC to 14; the DM’s successful saves of 15 are unaffected.",
+              "evidence": [
+                {
+                  "startUid": "u1779",
+                  "endUid": "u1782"
+                },
+                {
+                  "startUid": "u1793",
+                  "endUid": "u1809"
+                }
+              ]
+            },
+            {
+              "actor": "Summoned Tricksy fey",
+              "kind": "turn",
+              "summary": "Reinforces Ekko and distracts with a total of 21. Takes hits before teleporting and creating darkness, successfully drawing the wisps farther from the refugees.",
+              "evidence": [
+                {
+                  "startUid": "u1783",
+                  "endUid": "u1784"
+                },
+                {
+                  "startUid": "u1810",
+                  "endUid": "u1834"
+                }
+              ]
+            },
+            {
+              "actor": "Ekko",
+              "kind": "turn",
+              "summary": "Chooses second-level Cure Wounds instead of Dodge. Its healing is rolled retrospectively as 28 hit points; this is the one healing action proposed at the end of the preceding exchange.",
+              "evidence": [
+                {
+                  "startUid": "u1770",
+                  "endUid": "u1773"
+                },
+                {
+                  "startUid": "u1803",
+                  "endUid": "u1804"
+                },
+                {
+                  "startUid": "u1851",
+                  "endUid": "u1854"
+                },
+                {
+                  "startUid": "u1874",
+                  "endUid": "u1875"
+                }
+              ]
+            },
+            {
+              "actor": "Portal wisps",
+              "kind": "turn",
+              "summary": "After the distraction rolls, the DM withdraws the initially announced 15 damage to Ekko: the resolved split is 10 damage to the fey and 5 to Ekko.",
+              "evidence": [
+                {
+                  "startUid": "u1805",
+                  "endUid": "u1826"
+                }
+              ]
+            },
+            {
+              "actor": "Jrain and remaining main evacuees",
+              "kind": "turn",
+              "summary": "The last main group crosses with Jrain. Finnan stays at the portal to ensure Justas and Ekko retreat.",
+              "evidence": [
+                {
+                  "startUid": "u1834",
+                  "endUid": "u1843"
+                }
+              ]
+            },
+            {
+              "actor": "Portal wisps",
+              "kind": "event",
+              "summary": "During withdrawal, swarm the fey for 20 further damage, destroying it, and deal 10 more damage to Ekko. Ekko gets through alive.",
+              "evidence": [
+                {
+                  "startUid": "u1844",
+                  "endUid": "u1857"
+                }
+              ]
+            },
+            {
+              "actor": "Justas and Finnan",
+              "kind": "event",
+              "summary": "Justas decides to remain and clear the surviving wisps for those still in Melusa; Finnan stays at the threshold rather than abandoning him.",
+              "evidence": [
+                {
+                  "startUid": "u1858",
+                  "endUid": "u1860"
+                },
+                {
+                  "startUid": "u1876",
+                  "endUid": "u1880"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 5,
+          "entries": [
+            {
+              "actor": "Justas",
+              "kind": "turn",
+              "summary": "Continues dodging behind his magical shield with AC 21 while Spirit Guardians wears down the remaining swarm.",
+              "evidence": [
+                {
+                  "startUid": "u1876",
+                  "endUid": "u1886"
+                }
+              ]
+            },
+            {
+              "actor": "Portal wisps",
+              "kind": "turn",
+              "summary": "Struggle to hit; the DM describes apparent critical hits becoming noncritical results under disadvantage from Dodge.",
+              "evidence": [
+                {
+                  "startUid": "u1882",
+                  "endUid": "u1889"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 6,
+          "entries": [
+            {
+              "actor": "Justas",
+              "kind": "turn",
+              "summary": "Continues clearing the thinning swarm with Spirit Guardians.",
+              "evidence": [
+                {
+                  "startUid": "u1858",
+                  "endUid": "u1860"
+                },
+                {
+                  "startUid": "u1887",
+                  "endUid": "u1893"
+                }
+              ]
+            },
+            {
+              "actor": "Portal wisps",
+              "kind": "turn",
+              "summary": "One dwindling group hits Justas for 5 damage.",
+              "evidence": [
+                {
+                  "startUid": "u1891",
+                  "endUid": "u1893"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 7,
+          "entries": [
+            {
+              "actor": "Justas",
+              "kind": "turn",
+              "summary": "Keeps clearing the remaining wisps. A concentration result of 6 is rescued by an 8 on Bardic Inspiration, so the final accepted outcome preserves concentration; the intervening recast and possible extra 5 damage are superseded.",
+              "evidence": [
+                {
+                  "startUid": "u1891",
+                  "endUid": "u1905"
+                }
+              ],
+              "note": "The narration compresses the cleanup cycles and does not identify which damaging hit prompted the concentration check."
+            },
+            {
+              "actor": "Portal wisps",
+              "kind": "turn",
+              "summary": "Hit Justas for another 5 damage, leaving only about five wisps; their final stated attack misses, and the sparks are cleared.",
+              "evidence": [
+                {
+                  "startUid": "u1891",
+                  "endUid": "u1896"
+                },
+                {
+                  "startUid": "u1909",
+                  "endUid": "u1909"
+                }
+              ]
+            },
+            {
+              "actor": "Justas, Finnan and one young villager",
+              "kind": "event",
+              "summary": "Justas calls once more to the villagers. One young man runs out after the sparks disappear and crosses with Justas and Finnan.",
+              "evidence": [
+                {
+                  "startUid": "u1907",
+                  "endUid": "u1913"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The willing refugees escape, the summoned fey is destroyed, and Justas clears the remaining portal wisps before leaving with Finnan and one additional young villager. Most of Melusa stays behind. The source’s refugee counts are approximate and vary; no exact total is inferred.",
+        "evidence": [
+          {
+            "startUid": "u1858",
+            "endUid": "u1860"
+          },
+          {
+            "startUid": "u1891",
+            "endUid": "u1913"
+          }
+        ]
+      },
+      "note": "The table repeats explicit round-by-round actions without rolling initiative. Justas’s final clearance remains part of this continuous encounter; the narration compresses those final cycles."
+    }
+  ]
+}

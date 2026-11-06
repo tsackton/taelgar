@@ -1,0 +1,151 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "into-the-chasm-006",
+    "sessionYaml": "_sessions/into-the-chasm/into-the-chasm-006/cleaned/into-the-chasm-006-session.yaml",
+    "sessionYamlSha256": "bac4ddf58bb4aa31fb7118d2b685d5fcfa77703fcadc7154e931305d922dd65c",
+    "transcriptPath": "_sessions/into-the-chasm/into-the-chasm-006/cleaned/into-the-chasm-006-transcript.md",
+    "transcriptSha256": "8057b5ae08efbc522605af5c565baf822806ca5a1a8abc619e5d2507ac5f7ea1"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0054"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0055",
+        "endUid": "u0075"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0076",
+        "endUid": "u0411"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0412",
+        "endUid": "u0524"
+      },
+      "category": "combat",
+      "note": "Initiative is rolled to stop Eolo’s compelled flight; safe insulated handling ends the confrontation without a second cycle."
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0525",
+        "endUid": "u0647"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u0648",
+        "endUid": "u0685"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u0686",
+        "endUid": "u0765"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u0766",
+        "endUid": "u0770"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u0771",
+        "endUid": "u0775"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u0776",
+        "endUid": "u0788"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u0789",
+        "endUid": "u0798"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u0799",
+        "endUid": "u0816"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u0817",
+        "endUid": "u1484"
+      },
+      "category": "gameplay",
+      "note": "The first wisp escape (u0855–u0931) uses one improvised action pass without initiative or a repeated ordered cycle; it remains gameplay."
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u1485",
+        "endUid": "u1913"
+      },
+      "category": "combat",
+      "note": "The evacuation uses explicit repeated rounds without an initiative roll; Justas’s continued clearance and final retreat belong to the same encounter."
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u1914",
+        "endUid": "u2117"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u2118",
+        "endUid": "u2226"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u2227",
+        "endUid": "u2228"
+      },
+      "category": "table_talk"
+    }
+  ]
+}
