@@ -1,0 +1,817 @@
+{
+  "schemaVersion": 4,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-122/cleaned/dunmari-frontier-122-session.yaml",
+  "inputs": {
+    "sessionInputs": {
+      "sessionYamlDigest": "b6e47c9ecb72cedb54fef512511e0874ca807bd259259f8009dfccb89ed1806b",
+      "sources": {
+        "transcriptProcessing.artifacts.polishedMarkdown": "aee016d5485193ac66a78fdfd034d0d8f96775e9ff0cfd4af944e47b27d303e2",
+        "transcriptProcessing.artifacts.cleaned": "8202fe694f4254a43329caba4306fa4ab4d9d667b17f2310043e266775627a32"
+      }
+    }
+  },
+  "entities": [
+    {
+      "id": "e001",
+      "label": "Lord Umbria, the Gloom Shaper",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0002",
+            "endUid": "u0012"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Extraplanar Powers/Archfey/Lord Umbraeth.md",
+      "names": [
+        "Lord Umbria",
+        "Gloom Shaper"
+      ]
+    },
+    {
+      "id": "e002",
+      "label": "Cloud Spinner",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0002",
+            "endUid": "u0012"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0198",
+            "endUid": "u0211"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0327",
+            "endUid": "u0333"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2554",
+            "endUid": "u2564"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Extraplanar Powers/Archfey/Cloudspinner.md",
+      "names": [
+        "Cloud Spinner"
+      ]
+    },
+    {
+      "id": "e003",
+      "label": "Harrow",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0013",
+            "endUid": "u0018"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0206",
+            "endUid": "u0211"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Extraplanar Powers/Archfey/Harrow.md",
+      "confidenceExplanation": "The paired rulers retain separate documented identities while the session’s uncertainty about whether they are one or two beings remains in the evidence."
+    },
+    {
+      "id": "e004",
+      "label": "Wend",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0013",
+            "endUid": "u0018"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0206",
+            "endUid": "u0211"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Extraplanar Powers/Archfey/Wend.md"
+    },
+    {
+      "id": "e005",
+      "label": "Count Vashen, the Broken Mask",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0031",
+            "endUid": "u0046"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2554",
+            "endUid": "u2564"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Fey/Count Vashan.md",
+      "names": [
+        "Count Vashen",
+        "Broken Mask"
+      ]
+    },
+    {
+      "id": "e006",
+      "label": "Malevolent consciousness in the dark tower",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0054",
+            "endUid": "u0079"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1706",
+            "endUid": "u1720"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "A specific sensed adversary qualifies as a mystery figure; the source does not identify it as either archfey or as a roof-combat creature."
+    },
+    {
+      "id": "e007",
+      "label": "Valeris",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0111",
+            "endUid": "u0128"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Fey/Valeris.md"
+    },
+    {
+      "id": "e008",
+      "label": "Lady Eventide",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0198",
+            "endUid": "u0205"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1757",
+            "endUid": "u1773"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Fey/Lady Eventide.md"
+    },
+    {
+      "id": "e009",
+      "label": "Lirien",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0198",
+            "endUid": "u0211"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1644",
+            "endUid": "u1658"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Fey/Lirien.md"
+    },
+    {
+      "id": "e010",
+      "label": "The amber light lantern carried by the party",
+      "kind": "item",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0187",
+            "endUid": "u0211"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1644",
+            "endUid": "u1663"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1729",
+            "endUid": "u1755"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1765",
+            "endUid": "u1773"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2554",
+            "endUid": "u2573"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2661",
+            "endUid": "u2675"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "note": "Gazetteer/Extraplanar/Feywild/Amberglow/Amberlight.md",
+      "confidenceExplanation": "Its lore and attempted attunement make it a plot object, but supporting rather than cameo importance is a close judgment.",
+      "names": [
+        "amber light",
+        "lantern"
+      ]
+    },
+    {
+      "id": "e011",
+      "label": "The party’s rope ladder",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1486",
+            "endUid": "u1492"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/PCs/Dunmar Fellowship/Companions/Ladder.md",
+      "confidenceExplanation": "Included under the Dunmari Frontier ladder-companion convention; the fixed tower ladder broken by the construct is a different object."
+    },
+    {
+      "id": "e012",
+      "label": "Bahrâzel",
+      "kind": "divine",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1776",
+            "endUid": "u1782"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1797",
+            "endUid": "u1812"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2679",
+            "endUid": "u2684"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Embodied Gods/Bahrazel/Bahrazel.md",
+      "confidenceExplanation": "The divination supplies consequential guidance, although its brief attributed answer could instead warrant cameo importance."
+    },
+    {
+      "id": "e013",
+      "label": "Beacon beneath Red Sun Watch",
+      "kind": "item",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0031",
+            "endUid": "u0046"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2607",
+            "endUid": "u2618"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2653",
+            "endUid": "u2663"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2676",
+            "endUid": "u2691"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "The particular crystal-and-reflective-floor mechanism is discovered and activated; it remains distinct from the carried lantern and the mundane fountain works."
+    },
+    {
+      "id": "e014",
+      "label": "Cloud Spinner’s court",
+      "kind": "organization",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0031",
+            "endUid": "u0037"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0198",
+            "endUid": "u0205"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "court",
+        "trusted advisors"
+      ]
+    },
+    {
+      "id": "e015",
+      "label": "Wyvern mount",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0111",
+            "endUid": "u0128"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "A specific wyvern is discussed as a mount, but the subsequent griffin clarification leaves its current presence and exact identity uncertain."
+    }
+  ],
+  "exclusions": [
+    {
+      "label": "Shadow wyvern-rider, breath stealers, fearsmith and courtyard terrors",
+      "reason": "Generic combat creatures without individual names or continuing identities; their resolved actions remain in combat extraction.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0614",
+            "endUid": "u0621"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0801",
+            "endUid": "u0841"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0933",
+            "endUid": "u0953"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2201",
+            "endUid": "u2210"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2237",
+            "endUid": "u2243"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Clay construct",
+      "reason": "A temporary spell summon following commands, scouting and rescuing its caster; no ongoing individual identity beyond this casting is established.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0885",
+            "endUid": "u0932"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1468",
+            "endUid": "u1483"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1974",
+            "endUid": "u1988"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2150",
+            "endUid": "u2155"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Hat-summoned bat",
+      "reason": "Routine scouting summon. Wellby’s same-bat headcanon is retained as a borderline identity cue, but does not establish a continuing individual relationship beyond repeated ability use.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0135",
+            "endUid": "u0180"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2042",
+            "endUid": "u2042"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Griffins",
+      "reason": "Lent mounts provide routine transport and guarding context without individual names or continuing distinctive companion identities; the specifically discussed wyvern is retained separately.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0111",
+            "endUid": "u0128"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Tower’s fixed ladder",
+      "reason": "Environmental ladder whose rungs break under the construct; distinct from the party’s ladder companions.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1470",
+            "endUid": "u1492"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Watcher’s dagger, Ring of the Warded Mind, Lengau’s Claw, Shatterstorm and Kenzo’s cloak",
+      "reason": "Routine proposed or actual use of PC equipment and standard powers, without separate acquisition or original item lore.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0424",
+            "endUid": "u0424"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0647",
+            "endUid": "u0666"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0776",
+            "endUid": "u0800"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1267",
+            "endUid": "u1268"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1922",
+            "endUid": "u1926"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Driftglobe, Immovable Rod and alchemical tea kettle",
+      "reason": "Existing PC equipment used for its ordinary lighting, anchoring and water functions; useful results do not independently establish entity eligibility.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1631",
+            "endUid": "u1634"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1967",
+            "endUid": "u1973"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2450",
+            "endUid": "u2455"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2499",
+            "endUid": "u2512"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Binding stones, crown, phasing stone, staff and ritual mirror",
+      "reason": "Attunement bookkeeping and routine divination abilities; no separate acquisition, loss or original item history.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1693",
+            "endUid": "u1698"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1734",
+            "endUid": "u1752"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2664",
+            "endUid": "u2669"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Ancient fountain and empty basin",
+      "reason": "Investigated plumbing and played locations, with no current magic or distinct plot-object identity; separate from the activated crystal beacon.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2322",
+            "endUid": "u2343"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2355",
+            "endUid": "u2426"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2448",
+            "endUid": "u2455"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2534",
+            "endUid": "u2542"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Grover",
+      "reason": "Passing uncertain name in a suggestion to use an absent companion for attunement; no separately distinguishable person is established.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1664",
+            "endUid": "u1665"
+          }
+        }
+      ]
+    }
+  ],
+  "evidenceNotes": [
+    "Gazetteer/Extraplanar/Feywild/Amberglow/Redsun Watch.md"
+  ]
+}

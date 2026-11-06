@@ -1,0 +1,146 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-122/cleaned/dunmari-frontier-122-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-122/cleaned/dunmari-frontier-122-time-markers.json",
+    "sha256": "0b81141907b38a1a589c50f2c30ef48bf63b4f12a309b43c9d9995e87ba227de"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-122/cleaned/dunmari-frontier-122-transcript.md",
+    "sha256": "aee016d5485193ac66a78fdfd034d0d8f96775e9ff0cfd4af944e47b27d303e2"
+  },
+  "dateAssessment": "Working campaign date: June 13, 1749, from the YAML. The time extraction rates that same-date span compatible; no civil date or full elapsed span is independently established. Sunset light and the darkness describe Feywild geography, not a civil watch. Riswynn’s isolated “10 o’clock” (t10) has no AM/PM or confirmed interpretation. A focused check of session 121’s closing handoff (u2773–u2795) also supplies no usable closing watch. The table therefore retains the established elapsed intervals without assigning a watch. The earlier short-rest credit is not counted again; the ten-minute ritual interrupts the attempted hour-long attunement and rest.",
+  "watches": [
+    {
+      "day": "June 13, 1749",
+      "startDate": "1749-06-13",
+      "endDate": "1749-06-13",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Riswynn says “10 o’clock”; AM/PM and the literal reading remain unresolved.",
+      "markers": [
+        "t10"
+      ]
+    },
+    {
+      "day": "June 13, 1749",
+      "startDate": "1749-06-13",
+      "endDate": "1749-06-13",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Bat scouts to the wall in an unspecified number of minutes.",
+      "markers": [
+        "t01"
+      ],
+      "scope": "Wellby’s scouting bat"
+    },
+    {
+      "day": "June 13, 1749",
+      "startDate": "1749-06-13",
+      "endDate": "1749-06-13",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Wellby arrives half a minute after the four teleporters.",
+      "markers": [
+        "t02"
+      ],
+      "scope": "Wellby"
+    },
+    {
+      "day": "June 13, 1749",
+      "startDate": "1749-06-13",
+      "endDate": "1749-06-13",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Death mark lasts a minute; Wellby waits its remaining roughly thirty seconds before healing.",
+      "markers": [
+        "t03"
+      ]
+    },
+    {
+      "day": "June 13, 1749",
+      "startDate": "1749-06-13",
+      "endDate": "1749-06-13",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Construct scouts below for about three minutes before returning to signal.",
+      "markers": [
+        "t04"
+      ],
+      "scope": "Clay construct"
+    },
+    {
+      "day": "June 13, 1749",
+      "startDate": "1749-06-13",
+      "endDate": "1749-06-13",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Driftglobe Daylight is swallowed within ten seconds on the lower floor.",
+      "markers": [
+        "t05"
+      ]
+    },
+    {
+      "day": "June 13, 1749",
+      "startDate": "1749-06-13",
+      "endDate": "1749-06-13",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Ten-minute divination completes; attunement and resting stop before their proposed hour.",
+      "markers": [
+        "t06"
+      ]
+    },
+    {
+      "day": "June 13, 1749",
+      "startDate": "1749-06-13",
+      "endDate": "1749-06-13",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "About five minutes of descent precede the open drop; descent continues afterward.",
+      "markers": [
+        "t07"
+      ]
+    },
+    {
+      "day": "June 13, 1749",
+      "startDate": "1749-06-13",
+      "endDate": "1749-06-13",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Ground-floor perimeter search lasts about five minutes before the dangerous opening.",
+      "markers": [
+        "t08"
+      ]
+    },
+    {
+      "day": "June 13, 1749",
+      "startDate": "1749-06-13",
+      "endDate": "1749-06-13",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Giant-scorpion scouting takes a few minutes.",
+      "markers": [
+        "t09"
+      ],
+      "scope": "Seeker"
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Session 121 closing handoff, u2773–u2795",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-121/cleaned/dunmari-frontier-121-transcript.md",
+      "sha256": "1b062b9ee1d606ae8cb4142486bea1b7aebab6de3cc6f312eeadacc360b654c0"
+    }
+  ]
+}

@@ -1,0 +1,475 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-122",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-122/cleaned/dunmari-frontier-122-session.yaml",
+    "sessionYamlSha256": "0f66461963cc7625c8e493e61a217189beef8131e663ccf2fb7a5b6e3e9714c2",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-122/cleaned/dunmari-frontier-122-transcript.md",
+    "transcriptSha256": "aee016d5485193ac66a78fdfd034d0d8f96775e9ff0cfd4af944e47b27d303e2",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-122/cleaned/dunmari-frontier-122-segments.json",
+      "sha256": "7f3d1cf9bab8b4b7bb27d2b737c25e326e3ff8c72e0ec4f9848dbbe78520e6b6",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s006",
+      "encounter": "Shadow creatures on the lit tower platform",
+      "note": "Initiative begins with the charm being broken on Seeker and Wellby; Riswynn is still charmed and rolls initiative with disadvantage. Kenzo’s regular place follows Wellby after their accepted initiative swap. The final return of the banished creature is resolved collectively.",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "After swapping initiative with Kenzo, shoots the flying shadow creature: 26 hits for the corrected 27 damage. Replaces the proposed blinding strike with Daze; it fails DC 18 Constitution and can only move, take an action, or take a bonus action.",
+              "evidence": [
+                {
+                  "startUid": "u0727",
+                  "endUid": "u0740"
+                },
+                {
+                  "startUid": "u0741",
+                  "endUid": "u0772"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Soul Sight identifies the flying creature as CR 12, immune to poison and necrotic damage, exhaustion and poisoned, strong at Dexterity and weak at Charisma. Runs to the edge, activates Lengau’s Claw and makes two advantaged unarmed attacks: 10 damage, then a critical hit for 21.",
+              "evidence": [
+                {
+                  "startUid": "u0775",
+                  "endUid": "u0800"
+                }
+              ]
+            },
+            {
+              "actor": "Flying shadow creature",
+              "kind": "turn",
+              "summary": "Uses its dazed turn to fly over Kenzo into the platform’s center and drop its two riders. Their 30-foot auras prevent speech and impose disadvantage on Constitution saves.",
+              "evidence": [
+                {
+                  "startUid": "u0801",
+                  "endUid": "u0823"
+                }
+              ]
+            },
+            {
+              "actor": "Breath stealer 1",
+              "kind": "turn",
+              "summary": "Reaches for Kenzo with tendrils: 10 misses and 21 connects, but Kenzo deflects the latter without damage.",
+              "evidence": [
+                {
+                  "startUid": "u0818",
+                  "endUid": "u0828"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Deflects and redirects the breath stealer’s tendril attack back toward its source, taking no damage; return damage is not stated.",
+              "evidence": [
+                {
+                  "startUid": "u0818",
+                  "endUid": "u0828"
+                }
+              ]
+            },
+            {
+              "actor": "Breath stealer 2",
+              "kind": "turn",
+              "summary": "Hits Wellby with a 20: 14 bludgeoning damage, grappled and restrained. Its other attack against Riswynn deflects off her.",
+              "evidence": [
+                {
+                  "startUid": "u0831",
+                  "endUid": "u0841"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Uncanny Dodge reduces the breath stealer’s 14 bludgeoning damage to 7.",
+              "evidence": [
+                {
+                  "startUid": "u0835",
+                  "endUid": "u0840"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Uses Subtle Spell to cast Banishment on both breath stealers, rather than the flying creature. Elmerca’s feature reveals beforehand that one succeeds and one fails the DC 19 Wisdom save as called at the table; he casts anyway and one vanishes. Subsequently moves out of the silence aura.",
+              "evidence": [
+                {
+                  "startUid": "u0842",
+                  "endUid": "u0879"
+                },
+                {
+                  "startUid": "u0891",
+                  "endUid": "u0891"
+                }
+              ],
+              "note": "The later restraint on Wellby establishes that the grappling breath stealer remained; the source does not individually number the monsters."
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Moves to escape the silence and casts seventh-level Summon Construct, choosing clay and placing it on the flying creature’s back. Gives Wellby Runic Inspiration.",
+              "evidence": [
+                {
+                  "startUid": "u0880",
+                  "endUid": "u0918"
+                },
+                {
+                  "startUid": "u0926",
+                  "endUid": "u0932"
+                }
+              ]
+            },
+            {
+              "actor": "Clay construct",
+              "kind": "turn",
+              "summary": "Makes three Slam attacks on the flying creature: a natural 1 misses; the other two hit for 18 and 14 damage.",
+              "evidence": [
+                {
+                  "startUid": "u0915",
+                  "endUid": "u0921"
+                }
+              ]
+            },
+            {
+              "actor": "Fearsmith",
+              "kind": "turn",
+              "summary": "Climbs over the wall and attacks restrained Wellby with advantage: critical hit for the corrected 36 damage and a second hit for 14, described as slashing claws. Turns its heart-stopping gaze on Riswynn; she succeeds on the Wisdom save with disadvantage.",
+              "evidence": [
+                {
+                  "startUid": "u0933",
+                  "endUid": "u0953"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Also succeeds against the start-of-turn disorienting Wisdom gaze. Casts Guiding Bolt at the flying creature, rolling with advantage; 21 hits without a critical and leaves it bloodied. Damage is rolled but not spoken.",
+              "evidence": [
+                {
+                  "startUid": "u0957",
+                  "endUid": "u0988"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Succeeds on Wisdom against the fearsmith’s disorienting gaze. Escapes restraint with advantaged Acrobatics 29, uses Cunning Action to disengage, and flies away and upward, initially stating 20 feet.",
+              "evidence": [
+                {
+                  "startUid": "u0989",
+                  "endUid": "u1002"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Moves within Lengau’s Claw reach and announces five Flurry of Blows attacks against the flying creature. The first has advantage from Guiding Bolt. Spoken hits deal 11, 8 and 15 damage; the last attack misses.",
+              "evidence": [
+                {
+                  "startUid": "u1003",
+                  "endUid": "u1012"
+                }
+              ],
+              "note": "Five attacks are announced, but only four distinct results are recoverable from the narration; no missing result is supplied."
+            },
+            {
+              "actor": "Flying shadow creature",
+              "kind": "turn",
+              "summary": "Wails, forcing Constitution saves; only Kenzo and the construct roll with disadvantage from the aura. Kenzo, the construct and Wellby fail and become marked for death, granting attackers advantage and preventing healing for one minute even if the caster dies. Flies about 20 feet up and throws off the construct: its Dexterity save fails, it falls for 4 damage and lands prone. Then flies toward Wellby, now described as 30 feet high, and attacks with advantage. A 28 scythe hit deals 7 slashing and 24 necrotic; the following Constitution save initially threatens exhaustion, removed by Wellby’s Heroic Inspiration reroll. An 18 hoof hit deals 13 bludgeoning and 30 necrotic; a Strength save is called, but Wellby reaches zero and falls unconscious onto the platform.",
+              "evidence": [
+                {
+                  "startUid": "u1013",
+                  "endUid": "u1032"
+                },
+                {
+                  "startUid": "u1040",
+                  "endUid": "u1072"
+                }
+              ],
+              "note": "The stated 20-foot and later 30-foot heights are retained without inventing an extra move. The hoof attack’s Strength-save result is not separately spoken."
+            },
+            {
+              "actor": "Clay construct",
+              "kind": "reaction",
+              "summary": "Berserk Lashing hits the flying creature as it is thrown off, before the creature continues toward Wellby. The later confirmation says the hit leaves the creature below 10 HP; no damage number is spoken. This uses its reaction, so the subsequent opportunity attack is withdrawn.",
+              "evidence": [
+                {
+                  "startUid": "u1033",
+                  "endUid": "u1044"
+                },
+                {
+                  "startUid": "u1085",
+                  "endUid": "u1087"
+                },
+                {
+                  "startUid": "u1186",
+                  "endUid": "u1189"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Uses Uncanny Dodge against the scythe hit; no reduced numerical total is stated.",
+              "evidence": [
+                {
+                  "startUid": "u1040",
+                  "endUid": "u1048"
+                }
+              ]
+            },
+            {
+              "actor": "Banished breath stealer",
+              "kind": "turn",
+              "summary": "Remains banished. The DM announces a failed recovery save; the table questions whether another save is allowed, with no change to the creature’s absence.",
+              "evidence": [
+                {
+                  "startUid": "u1071",
+                  "endUid": "u1084"
+                }
+              ]
+            },
+            {
+              "actor": "Remaining breath stealer",
+              "kind": "turn",
+              "summary": "Moves away and attacks the construct with a grasp, missing on 12. A second grasp rolls 25 against Delwath but is deflected by Shield.",
+              "evidence": [
+                {
+                  "startUid": "u1073",
+                  "endUid": "u1075"
+                },
+                {
+                  "startUid": "u1085",
+                  "endUid": "u1098"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Casts Shield while the silence aura is being discussed; the table accepts it and the 25 attack misses. No separate Subtle Spell expenditure is resolved here.",
+              "evidence": [
+                {
+                  "startUid": "u1092",
+                  "endUid": "u1098"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Moves to protect fallen Wellby and applies Hexblade’s Curse to the nearby breath stealer. His attacks hit, with spoken damage 14, 13, and an unfinished “21 plus—”; the target becomes bloodied.",
+              "evidence": [
+                {
+                  "startUid": "u1119",
+                  "endUid": "u1142"
+                }
+              ],
+              "note": "The third damage total is cut off in speech. The curse target is inferred from the nearby breath stealer and subsequent bloodied description."
+            },
+            {
+              "actor": "Clay construct",
+              "kind": "turn",
+              "summary": "At the start of its turn fails Wisdom with 13 and becomes disoriented: cannot Dash or Disengage and must make Dexterity or fall prone, though already prone. Stands using half its movement, approaches the fearsmith and makes three Slams: one misses, two hit, with 20 damage stated.",
+              "evidence": [
+                {
+                  "startUid": "u1153",
+                  "endUid": "u1177"
+                }
+              ],
+              "note": "The source gives one damage number for the two hits without clearly allocating it; no second damage total is invented."
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Still silenced, abandons the proposed verbal damage spell and instead casts second-level Catapult, flicking a pebble at the flying creature. It succeeds on Dexterity 23 and dodges; no damage.",
+              "evidence": [
+                {
+                  "startUid": "u1143",
+                  "endUid": "u1152"
+                },
+                {
+                  "startUid": "u1178",
+                  "endUid": "u1205"
+                }
+              ]
+            },
+            {
+              "actor": "Fearsmith",
+              "kind": "turn",
+              "summary": "Claws the construct twice: 12 misses, 25 hits for 16 slashing and 13 psychic damage. Moves afterward. Uses its heart-stopping stare against Riswynn; her initial failure, 23 psychic damage and stun until the end of its next turn are all canceled by her Heroic Inspiration reroll.",
+              "evidence": [
+                {
+                  "startUid": "u1201",
+                  "endUid": "u1211"
+                },
+                {
+                  "startUid": "u1219",
+                  "endUid": "u1236"
+                }
+              ]
+            },
+            {
+              "actor": "Clay construct",
+              "kind": "reaction",
+              "summary": "Berserk Lashing in response to the fearsmith’s damage hits on 29 for 13 damage as it moves; recorded separately from the construct’s regular attacks.",
+              "evidence": [
+                {
+                  "startUid": "u1212",
+                  "endUid": "u1216"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Succeeds on Wisdom 26 against disorienting gaze. Unable to clear the silence aura with her movement, approaches and strikes its bloodied source with Shatterstorm, ending the breath-stealing aura. Adds Searing Smite, later resolved as 27 fire damage destroying the creature. Everyone within 30 feet makes Constitution against the thunder burst: Delwath and Seeker fail, take 7 thunder and are deafened; Wellby gains one failed death save; Kenzo and Riswynn succeed and take 3. Seeker maintains construct concentration with advantage; Delwath confirms he failed the damage save but maintained concentration.",
+              "evidence": [
+                {
+                  "startUid": "u1234",
+                  "endUid": "u1304"
+                },
+                {
+                  "startUid": "u1339",
+                  "endUid": "u1342"
+                }
+              ],
+              "note": "The smite’s damage is announced after Wellby’s next death save but belongs to this attack. Shatterstorm’s own damage number and the construct’s burst-save result are not stated."
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Makes a death save with disadvantage. The natural 1 initially prompts a death announcement; the table then applies halfling luck and corrects the result to two failed death saves total. He remains alive and unconscious; Bardic Inspiration does not alter the natural-one rule.",
+              "evidence": [
+                {
+                  "startUid": "u1305",
+                  "endUid": "u1338"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Jumps 15 feet with Lengau’s Claw’s 15-foot reach to strike the flying creature. Rolls at disadvantage: 12 and 13 miss; two Flurry hits kill it. Lands, succeeds on Wisdom against the fearsmith’s gaze, runs over and hits that enemy with his remaining attack on 19; damage is not stated.",
+              "evidence": [
+                {
+                  "startUid": "u1343",
+                  "endUid": "u1354"
+                }
+              ]
+            },
+            {
+              "actor": "Banished breath stealer",
+              "kind": "turn",
+              "summary": "Still absent under Banishment while the others resolve their turns.",
+              "evidence": [
+                {
+                  "startUid": "u1355",
+                  "endUid": "u1358"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Runs to the fearsmith; a start-of-turn Wisdom save is called without a separately spoken result. Crits for 28 damage, adds Eldritch Smite for 55 more and knocks it prone. His next advantaged hit deals 14 and kills it.",
+              "evidence": [
+                {
+                  "startUid": "u1359",
+                  "endUid": "u1394"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Casts Spare the Dying on Wellby, stabilizing him while roughly thirty seconds of the death curse still prevent healing.",
+              "evidence": [
+                {
+                  "startUid": "u1399",
+                  "endUid": "u1407"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath and party",
+              "kind": "event",
+              "summary": "Drops Banishment concentration. After discussing planar destination, the DM rules that the last breath stealer returns, retaining the compressed resolution that the party kills it.",
+              "evidence": [
+                {
+                  "startUid": "u1408",
+                  "endUid": "u1427"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The flying shadow, fearsmith and both breath stealers are defeated. Wellby survives the corrected death save and is stabilized, still briefly unable to heal under the death curse. Healing follows once it fades.",
+        "evidence": [
+          {
+            "startUid": "u1332",
+            "endUid": "u1342"
+          },
+          {
+            "startUid": "u1393",
+            "endUid": "u1427"
+          }
+        ]
+      },
+      "openingActions": [
+        {
+          "actor": "Seeker",
+          "kind": "event",
+          "summary": "Delwath’s shouted warning cuts through the light’s charm and Seeker recognizes the approaching threat before the regular turn cycle.",
+          "evidence": [
+            {
+              "startUid": "u0707",
+              "endUid": "u0710"
+            }
+          ]
+        },
+        {
+          "actor": "Kenzo",
+          "kind": "event",
+          "summary": "Cleansing Touch removes Wellby’s charm at a cost of two focus points as initiative is rolled; Riswynn remains charmed.",
+          "evidence": [
+            {
+              "startUid": "u0707",
+              "endUid": "u0719"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
