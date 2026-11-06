@@ -1,0 +1,1154 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-103",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-103/cleaned/dunmari-frontier-103-session.yaml",
+    "sessionYamlSha256": "d5d6fcf62b5904a5e9120e944cd86197d9b74f5cedf1c2576290492c2fe6bcd0",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-103/cleaned/dunmari-frontier-103-transcript.md",
+    "transcriptSha256": "9e2d6660df0c2bc3a80e4c5694cc7e28f029639db7a14f11e4123dea3a808490"
+  },
+  "places": {
+    "p01": {
+      "label": "Vindristjarna",
+      "kind": "vessel",
+      "evidence": [
+        {
+          "startUid": "u0003",
+          "endUid": "u0018",
+          "quote": "DM: Okay, so we will begin on Vindristjarna. Just past dawn, the ship hovering over— let's see— the orcish city of Uzgukhar. In the desert you can still see below you the the ruined walls, the, um, the pieces of the city, the buildings that were destroyed and and crushed when the massive trebuchet was firing boulders, until {{bolder hero!}} {{Or stop that}} most epic rolls in this entire campaign."
+        },
+        {
+          "startUid": "u0052",
+          "endUid": "u0060",
+          "quote": "DM: You see, now, as— on the deck of Vindristjarna here I'm standing sort of in the the open area around the the growing tree— Faldrak limping on his silver cane, as he usually does, walking as quickly as he can in your direction. The dwarf Kethra emerging armored and Amil also from the decks below, prepared to fight."
+        }
+      ],
+      "mobile": true,
+      "vaultPath": "Things/Ships/Vindristjarna.md"
+    },
+    "p02": {
+      "label": "Uzgukhar",
+      "kind": "settlement",
+      "evidence": [
+        {
+          "startUid": "u0003",
+          "endUid": "u0018",
+          "quote": "DM: Okay, so we will begin on Vindristjarna. Just past dawn, the ship hovering over— let's see— the orcish city of Uzgukhar. In the desert you can still see below you the the ruined walls, the, um, the pieces of the city, the buildings that were destroyed and and crushed when the massive trebuchet was firing boulders, until {{bolder hero!}} {{Or stop that}} most epic rolls in this entire campaign."
+        },
+        {
+          "startUid": "u0019",
+          "endUid": "u0019",
+          "quote": "Seeker: True. That was crazy."
+        },
+        {
+          "startUid": "u0020",
+          "endUid": "u0032",
+          "quote": "DM: But it's, it's— it's early morning. The sun has just risen. There's a lot of activity down below in this not yet super hot part of the day. The city seems vibrant and alive, you can see, you know, orcs running around, repairing the walls. Looking, you know, people looking up and waving at you. They recognize the ship. Nobody seems too surprised to see you, so you guess that Faldrak or somebody warned orcs that the ship was coming. You might have even warned them that you were coming when you sent out a bunch of messages about your “Don’t trust anybody because you have doppelgangers,” before you left for the Peninsula."
+        }
+      ],
+      "vaultPath": "Gazetteer/Upper Istaros/Xurkhaz/Uzgukhar.md"
+    },
+    "p03": {
+      "label": "Garamjala desert",
+      "kind": "desert",
+      "evidence": [
+        {
+          "startUid": "u0920",
+          "endUid": "u0920",
+          "quote": "DM: You're flying over the Garamj—if you're flying straight, you're flying over the Garamjala desert."
+        },
+        {
+          "startUid": "u1258",
+          "endUid": "u1268",
+          "quote": "DM: Any case, by around one ish, you're setting off now with these— I need some good setting off music here. Setting off into— You're, you're setting off—spend a couple of hours giving, as you travel across the desert in the hot sun, giving everybody these these items. Doing this little ceremony. You know Faldrak is very pleased very, very excited, that he's finally being, you know, trusted, and, you know, given some real charge over piloting, which, honestly, if you want to let him just keep the phasing stone attunement, Seeker can get an attunement slot back."
+        }
+      ],
+      "vaultPath": "Gazetteer/Drankorian Hinterland/Garamjala Plateau/Garamjala Desert.md"
+    },
+    "p04": {
+      "label": "Garamjala plateau",
+      "kind": "region",
+      "evidence": [
+        {
+          "startUid": "u1065",
+          "endUid": "u1068",
+          "quote": "DM: Desert. The desert gets, it gets very— It's like this part in between the rivers is like incredibly dry and hot. It’s like the Atacama, whatever that desert in Chile is, right? It’s like a high-altitude super bone-dry desert."
+        },
+        {
+          "startUid": "u1069",
+          "endUid": "u1070",
+          "quote": "Delwath: Is it really, I mean, is it like 8,000 feet high, or is it like—how, how tall?"
+        },
+        {
+          "startUid": "u1071",
+          "endUid": "u1071",
+          "quote": "DM: Yeah, yeah."
+        },
+        {
+          "startUid": "u1072",
+          "endUid": "u1072",
+          "quote": "Delwath: Talking here."
+        },
+        {
+          "startUid": "u1073",
+          "endUid": "u1073",
+          "quote": "DM: It's very hot, like, that's the—"
+        },
+        {
+          "startUid": "u1074",
+          "endUid": "u1074",
+          "quote": "Delwath: That this is like serious mountains."
+        },
+        {
+          "startUid": "u1075",
+          "endUid": "u1075",
+          "quote": "DM: The top of the Gar—the Garamjala plateau is quite high elevation."
+        },
+        {
+          "startUid": "u1076",
+          "endUid": "u1076",
+          "quote": "Delwath: Okay."
+        },
+        {
+          "startUid": "u1077",
+          "endUid": "u1077",
+          "quote": "DM: Just in, but the sort of middle portion in between the sort of like—"
+        },
+        {
+          "startUid": "u1078",
+          "endUid": "u1078",
+          "quote": "Delwath: Okay. So like, it rises up to a high, high elevation, it high plateau—"
+        },
+        {
+          "startUid": "u1079",
+          "endUid": "u1079",
+          "quote": "DM: In, the—"
+        },
+        {
+          "startUid": "u1080",
+          "endUid": "u1081",
+          "quote": "Delwath: South of in, in the—and the rivers are flowing either side of the plateau, basically. So we have to go up to get—okay. So that's probably relatively safe. It sounds fairly inhospitable."
+        },
+        {
+          "startUid": "u1082",
+          "endUid": "u1084",
+          "quote": "DM: The Orcs never travel through that, even, that even— They've been living 150 years. They don't bother. They've they've gone down the river. They scout down the river a little bit, but—"
+        },
+        {
+          "startUid": "u1656",
+          "endUid": "u1659",
+          "quote": "DM: Yeah. So you're going up a little bit as the as the plateau rises below you and go through the night. Dreams— So you communicate all this to Sura, basically that you've just been talking about."
+        }
+      ],
+      "note": "The transcript describes the rising plateau below the flight; its precise boundary with the desert is not mapped here.",
+      "vaultPath": "Gazetteer/Drankorian Hinterland/Garamjala Plateau/Garamjala Plateau.md"
+    },
+    "p05": {
+      "label": "Shrine to the Bahrâzel",
+      "kind": "shrine",
+      "evidence": [
+        {
+          "startUid": "u1769",
+          "endUid": "u1782",
+          "quote": "DM: You settle into a morning ritual, you need to spend one of your 2 diamonds, plus your Bahrâzel token from the from Vindristjarna. And Aygul comes—opens her eyes first, sort of blinking in the in the the temple, the shrine to the Bahrâzel where you’re casting this. And she, she looks around, and I assume, like you know, her sister is there. And she kind of flinches back for a moment. And then relaxes and and looks at you like almost like she was prepared to like strike or something."
+        },
+        {
+          "startUid": "u2292",
+          "endUid": "u2293",
+          "quote": "DM: Riswynn knows Word of Recall, so she can teleport to Tharn Todor. I would assume at this point she’s managed to cast Hallow on the shrine of Bahrâzel, so she could also teleport to the shrine of Bahrâzel. But you can only cast—teleport to places that are for your God."
+        },
+        {
+          "startUid": "u2294",
+          "endUid": "u2295",
+          "quote": "Riswynn: So I can go to the blessed places of Tharn Todor, blessed places on"
+        },
+        {
+          "startUid": "u2296",
+          "endUid": "u2296",
+          "quote": "DM: Vindristjarna."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u2292",
+              "endUid": "u2293",
+              "quote": "DM: Riswynn knows Word of Recall, so she can teleport to Tharn Todor. I would assume at this point she’s managed to cast Hallow on the shrine of Bahrâzel, so she could also teleport to the shrine of Bahrâzel. But you can only cast—teleport to places that are for your God."
+            },
+            {
+              "startUid": "u2294",
+              "endUid": "u2295",
+              "quote": "Riswynn: So I can go to the blessed places of Tharn Todor, blessed places on"
+            },
+            {
+              "startUid": "u2296",
+              "endUid": "u2296",
+              "quote": "DM: Vindristjarna."
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Plaguelands",
+      "kind": "region",
+      "evidence": [
+        {
+          "startUid": "u2047",
+          "endUid": "u2052",
+          "quote": "DM: And then you shift quickly backward, drifting as a cloud high in the sky, waiting, lingering above the Plaguelands where you've been told to be. You wouldn't actually know that. You just see that you're a cloud floating high above the Plaguelands."
+        }
+      ],
+      "note": "The dust’s earlier cloud-form is viewed high above this region in the mirror; this is not the party’s current flight path.",
+      "vaultPath": "Gazetteer/Upper Istaros/Plaguelands.md"
+    },
+    "p07": {
+      "label": "Apollyon's prison — marble chamber",
+      "kind": "prison",
+      "evidence": [
+        {
+          "startUid": "u2083",
+          "endUid": "u2089",
+          "quote": "DM: And then slowly back to the stone of Apollyon’s prison. You see in the mirror the walls of this chamber that that you saw in Delwath’s scrying, 5 coffins which you can’t see now, just looking at the blank wall of Drankorian marble."
+        },
+        {
+          "startUid": "u2090",
+          "endUid": "u2094",
+          "quote": "DM: Apollyon slowly chipping away at the edge of the stone. Must have taken decades to make enough dust for 5 people, but not formed until much, much later."
+        }
+      ],
+      "note": "The temple reference identifies Apollyon's prison. The mirror shows the marble chamber; its larger placement in Drankor comes from that vault note, not current played travel.",
+      "vaultPath": "Gazetteer/Drankorian Hinterland/Drankor/Apollyon's Temple.md"
+    },
+    "p08": {
+      "label": "Jungle-covered marble river dock",
+      "kind": "dock",
+      "evidence": [
+        {
+          "startUid": "u2528",
+          "endUid": "u2544",
+          "quote": "DM: Delwath casts Scry on the Seeker duplicate. And you find yourself looking down like on—I guess it's like a a— It's like a little camp or something, on a marble dock. You see, surrounded by jungles like you're looking down at a scene of 3 people, Kenzo, Delwath and Seeker sitting around a campfire, just kind of staring off into space, watching the river, sitting on a dock."
+        },
+        {
+          "startUid": "u2545",
+          "endUid": "u2545",
+          "quote": "Delwath: Dock on a river or a dock on a ocean?"
+        },
+        {
+          "startUid": "u2546",
+          "endUid": "u2546",
+          "quote": "DM: On a river."
+        },
+        {
+          "startUid": "u2547",
+          "endUid": "u2547",
+          "quote": "Delwath: Okay."
+        },
+        {
+          "startUid": "u2548",
+          "endUid": "u2550",
+          "quote": "DM: Fancy dock, like it’s completely overgrown by jungle. But— Drankorian."
+        },
+        {
+          "startUid": "u2551",
+          "endUid": "u2551",
+          "quote": "Delwath: Of course, is this, I mean, does this look like a Drankorian dock?"
+        },
+        {
+          "startUid": "u2552",
+          "endUid": "u2552",
+          "quote": "DM: Yes."
+        },
+        {
+          "startUid": "u2553",
+          "endUid": "u2559",
+          "quote": "DM: They seem to be watching the river. And they don't seem to be doing anything. They're just kind of sitting there. But there's but there's clearly been some effort, some half-hearted effort to create the illusion of like a campsite. But Delwath is, you know, skilled enough to—this is— you’ve quartermastered tons. Yeah, clearly somebody who’s a knowledgeable quartermaster who’s creating the illusion of a active site, but isn’t actually—like, nobody’s eating food. There’s no—to these—"
+        },
+        {
+          "startUid": "u2560",
+          "endUid": "u2560",
+          "quote": "Delwath: Creatures, like, do they blink? Do they move around? They like scratch their cheek, or they just like stone still, like—"
+        },
+        {
+          "startUid": "u2561",
+          "endUid": "u2561",
+          "quote": "DM: Like, how long does scry last?"
+        },
+        {
+          "startUid": "u2562",
+          "endUid": "u2562",
+          "quote": "Delwath: 10 min."
+        },
+        {
+          "startUid": "u2563",
+          "endUid": "u2570",
+          "quote": "DM: So, about halfway through, Kenzo stands up, and sort of looks like patrolling, walks to the river, walks out of your sight, but in the direction of the river and doesn't come back for the rest of the scry. But the other 2 are just kind of sitting silently. It's not completely like they're deactivated, but they seem to be somehow—I don’t know, they’re not. They’re clearly not like, they’re not talking. They blink occasionally, but they’re just almost mindless at this point. Okay."
+        },
+        {
+          "startUid": "u2571",
+          "endUid": "u2571",
+          "quote": "Delwath: So they're gonna be guarding the jade."
+        },
+        {
+          "startUid": "u2572",
+          "endUid": "u2572",
+          "quote": "Seeker: That's good to know."
+        },
+        {
+          "startUid": "u2573",
+          "endUid": "u2576",
+          "quote": "Delwath: Or something. Wait—how close to—was there? There’s just jungle in a dock. There was no other buildings?"
+        },
+        {
+          "startUid": "u2577",
+          "endUid": "u2580",
+          "quote": "DM: So, because of the direction the scry sensors pointed, you weren't able to see what's behind Seeker. You're looking like out, but you get the feeling like this is not a— This is like a dock on a city, right? There’s like—"
+        },
+        {
+          "startUid": "u2581",
+          "endUid": "u2581",
+          "quote": "Delwath: Right? Okay."
+        },
+        {
+          "startUid": "u2582",
+          "endUid": "u2586",
+          "quote": "DM: Sense of buildings, all of that right? Trees growing through them. Jung—you know, vines, right, covering the marble road. There’s like a paved marble road that’s broken up, that they’re sitting— broken up by like vines and roots growing up."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u2949",
+              "endUid": "u2949",
+              "quote": "DM: Apparently Drankor, cause Delwath scried on—"
+            },
+            {
+              "startUid": "u2950",
+              "endUid": "u2950",
+              "quote": "Kenzo: A."
+            },
+            {
+              "startUid": "u2951",
+              "endUid": "u2952",
+              "quote": "Delwath: Delwath scried Seeker and found Seeker"
+            },
+            {
+              "startUid": "u2953",
+              "endUid": "u2953",
+              "quote": "Kenzo: Kenzo, and"
+            },
+            {
+              "startUid": "u2954",
+              "endUid": "u2954",
+              "quote": "Delwath: Delwath sitting around the docks of Drankor."
+            }
+          ],
+          "note": "The initial scry shows an unnamed ruined city; the later discussion identifies it as apparently Drankor."
+        }
+      ]
+    },
+    "p09": {
+      "label": "Drankor",
+      "kind": "settlement",
+      "evidence": [
+        {
+          "startUid": "u2949",
+          "endUid": "u2949",
+          "quote": "DM: Apparently Drankor, cause Delwath scried on—"
+        },
+        {
+          "startUid": "u2950",
+          "endUid": "u2950",
+          "quote": "Kenzo: A."
+        },
+        {
+          "startUid": "u2951",
+          "endUid": "u2952",
+          "quote": "Delwath: Delwath scried Seeker and found Seeker"
+        },
+        {
+          "startUid": "u2953",
+          "endUid": "u2953",
+          "quote": "Kenzo: Kenzo, and"
+        },
+        {
+          "startUid": "u2954",
+          "endUid": "u2954",
+          "quote": "Delwath: Delwath sitting around the docks of Drankor."
+        }
+      ],
+      "vaultPath": "Gazetteer/Drankorian Hinterland/Drankor/Drankor.md"
+    },
+    "p10": {
+      "label": "Vengeance",
+      "kind": "vessel",
+      "evidence": [
+        {
+          "startUid": "u2658",
+          "endUid": "u2659",
+          "quote": "DM: The ship is called—what would Wellby name his pirate ship? What would evil Wellby name his pirate ship?"
+        },
+        {
+          "startUid": "u2660",
+          "endUid": "u2660",
+          "quote": "Seeker: Nice."
+        },
+        {
+          "startUid": "u2661",
+          "endUid": "u2661",
+          "quote": "DM: Schwartz. I'm looking at you."
+        },
+        {
+          "startUid": "u2662",
+          "endUid": "u2662",
+          "quote": "Wellby: Yeah, yeah, I’m, I’m—I think it would be like the Vengeance or or something."
+        },
+        {
+          "startUid": "u2663",
+          "endUid": "u2669",
+          "quote": "DM: So I was thinking like some, the one word noun, right? The ship is the Vengeance and it's got—it's not flying a normal skull. It’s not flying like a skull and crossbones pirate flag. It's flying, what? Maybe a flaming arrow?"
+        },
+        {
+          "startUid": "u2670",
+          "endUid": "u2675",
+          "quote": "Wellby: Yeah. What's, what's something dramatic? I think I think it's like a just blood red like red crossed with red. Something like that."
+        },
+        {
+          "startUid": "u2676",
+          "endUid": "u2676",
+          "quote": "DM: Blood red flag."
+        },
+        {
+          "startUid": "u2677",
+          "endUid": "u2680",
+          "quote": "DM: I mean, this is a recognizable ship, right? Like, now that you’ve scried it, think you could probably— you could describe this to people. You’ve—you could, you would recognize it. Bloody—"
+        },
+        {
+          "startUid": "u2681",
+          "endUid": "u2681",
+          "quote": "Seeker: If we—"
+        },
+        {
+          "startUid": "u2682",
+          "endUid": "u2682",
+          "quote": "DM: Design of the flag."
+        },
+        {
+          "startUid": "u3099",
+          "endUid": "u3116",
+          "quote": "DM: Yeah, that would have been a dramatic miss. So you see, as Seeker casts Teleport, 2 versions of reality superimposed upon each other for a brief moment. You see, 1st of all, Kenzo, sailing off to some other ship, a pirate ship on the Green Sea, and then that reality decays quickly, and Kenzo vanishes in a flash, appearing by the Chanceweaver’s fate, on the deck of Dread Pirate Wellby’s ship, the Vengeance. And that is where we’ll end the session tonight."
+        }
+      ],
+      "mobile": true,
+      "note": "First seen remotely; only the allied Kenzo simulacrum reaches its deck in the closing teleport."
+    },
+    "p11": {
+      "label": "Tharn Todor",
+      "kind": "settlement",
+      "evidence": [
+        {
+          "startUid": "u2240",
+          "endUid": "u2242",
+          "quote": "DM: Riswynn receives a sending from a friend of hers back in Tharn Todor:"
+        },
+        {
+          "startUid": "u2243",
+          "endUid": "u2243",
+          "quote": "Delwath: Why are you killing us all?"
+        },
+        {
+          "startUid": "u2244",
+          "endUid": "u2246",
+          "quote": "DM: “Doppelganger marched into Tharn Todor today, recruiting many to march south along the abandoned long road into danger and death. Need help to stop. Please come.”"
+        },
+        {
+          "startUid": "u2292",
+          "endUid": "u2293",
+          "quote": "DM: Riswynn knows Word of Recall, so she can teleport to Tharn Todor. I would assume at this point she’s managed to cast Hallow on the shrine of Bahrâzel, so she could also teleport to the shrine of Bahrâzel. But you can only cast—teleport to places that are for your God."
+        },
+        {
+          "startUid": "u2294",
+          "endUid": "u2295",
+          "quote": "Riswynn: So I can go to the blessed places of Tharn Todor, blessed places on"
+        },
+        {
+          "startUid": "u2296",
+          "endUid": "u2296",
+          "quote": "DM: Vindristjarna."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Nardith/Tharn Todor.md"
+    },
+    "p12": {
+      "label": "Cave above the jungle holding the final jade",
+      "kind": "cave",
+      "evidence": [
+        {
+          "startUid": "u0888",
+          "endUid": "u0892",
+          "quote": "DM: Had a brief vision of it when the 4, other 4 were put together. The next jade is— the, the vision you saw was it's in a jungle, it's on—it was in a cave on a cliff that rises up above a sort of dense, fetid jungle."
+        },
+        {
+          "startUid": "u0893",
+          "endUid": "u0899",
+          "quote": "DM: It's to the southwest. It's like near Drankor, so, so the geography— the geography is that the, that the Garamjala plateau that Dunmar is on is like it starts with these giant cliffs that rise up. And there's a giant waterfall on the river and stuff like somewhere here. Kenzo can tell you. Basically can point exactly to the direction where it is. It's like, like in—it's like in this direction."
+        },
+        {
+          "startUid": "u2984",
+          "endUid": "u2984",
+          "quote": "DM: Well, the jade is like 300 miles west of Drankor."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "west_of",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u2984",
+              "endUid": "u2984",
+              "quote": "DM: Well, the jade is like 300 miles west of Drankor."
+            }
+          ],
+          "note": "The DM later estimates about 300 miles west of Drankor; the cave is not reached this session."
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0003",
+        "endUid": "u0060"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party is aboard Vindristjarna, hovering low above Uzgukhar after the escape from the Plane of Water.",
+      "evidence": [
+        {
+          "startUid": "u0003",
+          "endUid": "u0018",
+          "quote": "DM: Okay, so we will begin on Vindristjarna. Just past dawn, the ship hovering over— let's see— the orcish city of Uzgukhar. In the desert you can still see below you the the ruined walls, the, um, the pieces of the city, the buildings that were destroyed and and crushed when the massive trebuchet was firing boulders, until {{bolder hero!}} {{Or stop that}} most epic rolls in this entire campaign."
+        },
+        {
+          "startUid": "u0019",
+          "endUid": "u0019",
+          "quote": "Seeker: True. That was crazy."
+        },
+        {
+          "startUid": "u0020",
+          "endUid": "u0032",
+          "quote": "DM: But it's, it's— it's early morning. The sun has just risen. There's a lot of activity down below in this not yet super hot part of the day. The city seems vibrant and alive, you can see, you know, orcs running around, repairing the walls. Looking, you know, people looking up and waving at you. They recognize the ship. Nobody seems too surprised to see you, so you guess that Faldrak or somebody warned orcs that the ship was coming. You might have even warned them that you were coming when you sent out a bunch of messages about your “Don’t trust anybody because you have doppelgangers,” before you left for the Peninsula."
+        },
+        {
+          "startUid": "u0033",
+          "endUid": "u0038",
+          "quote": "DM: You still can see now the dripping, wet body of a merfolk warlock you just killed some seconds ago, lying wrapped in a cloak on the Vindristjarna."
+        },
+        {
+          "startUid": "u0039",
+          "endUid": "u0051",
+          "quote": "DM: The 2 halflings, Milo and Tilly are standing looking around in some curiosity and a bit of surprise as they just watched their shark transformed crew dive into the river below. And you see Tilly give Milo a quick look and whisper to him: “I must check on the crew. Find out what’s going on, my love.” And then she turns into a seagull and dives into the water, following the crew to make sure that the shark halflings are okay in swimming in the river below and warn anybody not to hurt them until they can be transformed back."
+        },
+        {
+          "startUid": "u0052",
+          "endUid": "u0060",
+          "quote": "DM: You see, now, as— on the deck of Vindristjarna here I'm standing sort of in the the open area around the the growing tree— Faldrak limping on his silver cane, as he usually does, walking as quickly as he can in your direction. The dwarf Kethra emerging armored and Amil also from the decks below, prepared to fight."
+        },
+        {
+          "startUid": "u0155",
+          "endUid": "u0159",
+          "quote": "Seeker: Seeker shuffles over to the rail, kicking shards of magical icicle turret projectiles, and clamps a hand onto the railing, comforted by the solidity of stone, though we are floating high above the city."
+        },
+        {
+          "startUid": "u0160",
+          "endUid": "u0161",
+          "quote": "DM: Not that high. Actually, you're pretty low down to the city. You can— None of your crew have particularly, you know, easy access to magical flight, and so they docked just about at the top."
+        },
+        {
+          "startUid": "u0162",
+          "endUid": "u0162",
+          "quote": "Seeker: A."
+        },
+        {
+          "startUid": "u0163",
+          "endUid": "u0164",
+          "quote": "DM: And he can— They can, you know, toss a ladder down without too much."
+        }
+      ],
+      "place": "p01",
+      "locationContext": [
+        {
+          "subject": "p01",
+          "relation": "above",
+          "target": "p02",
+          "note": "Low enough to lower a ladder; no disembarkation is established by this passage."
+        }
+      ]
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u1126",
+        "endUid": "u1142"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Leave the airspace over Uzgukhar and fly south, then southwest over the Garamjala toward the final jade; the cave is still unreached at the session cutoff.",
+      "evidence": [
+        {
+          "startUid": "u1126",
+          "endUid": "u1136",
+          "quote": "DM: So in the bustle of activity, it—I mean, it takes, it ends up taking more like 5 h. By the time you find the Wizard and get everybody settled tasks and end up having to spend a little bit of time talking to to Lubash the chief, and just in general kind of, you know, making your presence known and accepting their thanks again for everything you did. So it's not really until sort of early afternoon, just after just after a a sort of quick lunch, that you you begin heading south. A—"
+        },
+        {
+          "startUid": "u1137",
+          "endUid": "u1142",
+          "quote": "DM: Traveling now with 13 additional halflings, Milo and Tilly, as well as your followers and the dead, but soon to be no longer dead bodies of Jotha and Aygul."
+        },
+        {
+          "startUid": "u1258",
+          "endUid": "u1268",
+          "quote": "DM: Any case, by around one ish, you're setting off now with these— I need some good setting off music here. Setting off into— You're, you're setting off—spend a couple of hours giving, as you travel across the desert in the hot sun, giving everybody these these items. Doing this little ceremony. You know Faldrak is very pleased very, very excited, that he's finally being, you know, trusted, and, you know, given some real charge over piloting, which, honestly, if you want to let him just keep the phasing stone attunement, Seeker can get an attunement slot back."
+        },
+        {
+          "startUid": "u1646",
+          "endUid": "u1649",
+          "quote": "DM: So you communicate this, and then over the course of the afternoon, just travel best you can, right?"
+        },
+        {
+          "startUid": "u1650",
+          "endUid": "u1650",
+          "quote": "Riswynn: Yeah, yeah."
+        },
+        {
+          "startUid": "u1651",
+          "endUid": "u1653",
+          "quote": "DM: Until you can sleep and rest and regain your spells."
+        },
+        {
+          "startUid": "u1654",
+          "endUid": "u1654",
+          "quote": "Seeker: Highest comfortable altitude. I think."
+        },
+        {
+          "startUid": "u1655",
+          "endUid": "u1655",
+          "quote": "Delwath: Yep."
+        },
+        {
+          "startUid": "u1656",
+          "endUid": "u1659",
+          "quote": "DM: Yeah. So you're going up a little bit as the as the plateau rises below you and go through the night. Dreams— So you communicate all this to Sura, basically that you've just been talking about."
+        },
+        {
+          "startUid": "u2854",
+          "endUid": "u2855",
+          "quote": "DM: And meanwhile you're creeping ever closer to the location of the last piece of jade."
+        },
+        {
+          "startUid": "u2856",
+          "endUid": "u2862",
+          "quote": "DM: So let me just see how far. So let's see, you left the afternoon of the 12th. It’s now the afternoon of the 13th, so you’ve gone 240 miles. By the time you send the simulacrum, you'll have gone another 240 miles. So you'll be something like a day in three-quarters travel, really, basically 2 days travel. So you would have time. You would theoretically be able to do it once more if you wanted to."
+        },
+        {
+          "startUid": "u3002",
+          "endUid": "u3005",
+          "quote": "DM: And then, and then, as the snow version of Kenzo is shaped, takes out this powdered ruby and sprinkles it over and begins to chant. This is like 4 in the afternoon. The rest of you drift off to sleep, keeping watch as Faldrak keeps the ship moving steadily southwest towards, following Kenzo’s direction, towards the location of the final piece of jade. Seeker chants."
+        }
+      ],
+      "from": "p02",
+      "to": "p12",
+      "completion": "underway",
+      "mode": "fly",
+      "vehicle": "p01",
+      "route": [
+        {
+          "reading": "Travel south over the hot desert.",
+          "place": "p03"
+        },
+        {
+          "reading": "Gain altitude as the plateau rises below.",
+          "place": "p04"
+        }
+      ],
+      "distance": {
+        "value": 240,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "Distance explicitly completed by the May 13 afternoon update; this measures the first day only, not the unfinished journey."
+      },
+      "note": "Vindristjarna carries the party throughout. The later second 240-mile figure is a forecast; it does not establish a final location or completed journey.",
+      "locationContext": [
+        {
+          "subject": "p01",
+          "relation": "above",
+          "target": "p03"
+        },
+        {
+          "subject": "p01",
+          "relation": "above",
+          "target": "p04",
+          "note": "The plateau rises below the ongoing flight."
+        }
+      ]
+    },
+    {
+      "id": "l03",
+      "type": "presence",
+      "source": {
+        "startUid": "u1769",
+        "endUid": "u1782"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Riswynn conducts the resurrections in the ship’s shrine; the group hears Aygul, Nuzkar and Jotha there.",
+      "evidence": [
+        {
+          "startUid": "u1769",
+          "endUid": "u1782",
+          "quote": "DM: You settle into a morning ritual, you need to spend one of your 2 diamonds, plus your Bahrâzel token from the from Vindristjarna. And Aygul comes—opens her eyes first, sort of blinking in the in the the temple, the shrine to the Bahrâzel where you’re casting this. And she, she looks around, and I assume, like you know, her sister is there. And she kind of flinches back for a moment. And then relaxes and and looks at you like almost like she was prepared to like strike or something."
+        },
+        {
+          "startUid": "u1795",
+          "endUid": "u1798",
+          "quote": "DM: [garbled] sits, sits up, though, and then kind of shakes her head, and it's like sort of struggling to to put thoughts together. And Nuzkar is telling her, you know, “Take your time.” And and as as she's waiting:"
+        },
+        {
+          "startUid": "u1799",
+          "endUid": "u1813",
+          "quote": "DM: Nuzkar explains to you all that the the People of the Rainbow, so they believe a life well lived is poison to Thark, the god that they've broken free of. And they believe that when they die they don't— Their souls don't live on, because where would they live? They don't belong to any god. But each each orc can cause Thark some small measure of pain if they've lived a good, happy life, if they've done good deeds, if they've defended their brethren, brethren, and helped others by being a spear of poison, striking at him as they reach his domain."
+        },
+        {
+          "startUid": "u1872",
+          "endUid": "u1882",
+          "quote": "DM: And she is raised from the dead. She says: “When I died I was lost without a guide. I didn't know what would happen to me, I thought. Well,” she turns and looks at Delwath, “I had hoped maybe you'd come back before my soul was lost forever, and how bring a soul to to guide me?” Kong? Hey."
+        },
+        {
+          "startUid": "u2292",
+          "endUid": "u2293",
+          "quote": "DM: Riswynn knows Word of Recall, so she can teleport to Tharn Todor. I would assume at this point she’s managed to cast Hallow on the shrine of Bahrâzel, so she could also teleport to the shrine of Bahrâzel. But you can only cast—teleport to places that are for your God."
+        },
+        {
+          "startUid": "u2294",
+          "endUid": "u2295",
+          "quote": "Riswynn: So I can go to the blessed places of Tharn Todor, blessed places on"
+        },
+        {
+          "startUid": "u2296",
+          "endUid": "u2296",
+          "quote": "DM: Vindristjarna."
+        }
+      ],
+      "place": "p05"
+    },
+    {
+      "id": "l04",
+      "type": "observation",
+      "source": {
+        "startUid": "u2047",
+        "endUid": "u2052"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The mirror shows the dust’s earlier form drifting as a cloud over the Plaguelands.",
+      "evidence": [
+        {
+          "startUid": "u2040",
+          "endUid": "u2046",
+          "quote": "DM: You hold up the dust to the mirror, and the 1st thing you see is Amil’s fist flying at your face, and a crunch."
+        },
+        {
+          "startUid": "u2047",
+          "endUid": "u2052",
+          "quote": "DM: And then you shift quickly backward, drifting as a cloud high in the sky, waiting, lingering above the Plaguelands where you've been told to be. You wouldn't actually know that. You just see that you're a cloud floating high above the Plaguelands."
+        }
+      ],
+      "place": "p06",
+      "mode": "vision",
+      "observerPlace": "p01",
+      "context": "vision"
+    },
+    {
+      "id": "l05",
+      "type": "observation",
+      "source": {
+        "startUid": "u2053",
+        "endUid": "u2094"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The mirror follows the dust’s history back to Apollyon shaping the duplicate and collecting marble from his prison.",
+      "evidence": [
+        {
+          "startUid": "u2053",
+          "endUid": "u2066",
+          "quote": "DM: And then shifting back further, the form now, not the Seeker clone, standing in front of Apollyon. So you're looking at Apollyon's back, the front of the Seeker clone. Apollyon seems to be sitting in meditation, almost, his skeletal head bare, pale, strange echo of a cloud crown floating over his head, a black crown made of some kind of matte, black iron, with 4 dark dark gems. The same crown that you've seen on Fausto's head. But here, reflected in some sort of pale echo form."
+        },
+        {
+          "startUid": "u2067",
+          "endUid": "u2071",
+          "quote": "DM: And as you watch, there seem to be tendrils leaking out of the crown and touching the unformed creature, and you watch as it slowly turns into Seeker."
+        },
+        {
+          "startUid": "u2072",
+          "endUid": "u2082",
+          "quote": "DM: And then the partially formed body lying in a coffin, complete, but blank and unformed, not even in humanoid shape, and Apollyon standing over it, holding a book, reading from this book, glancing as he turns to pages, probably chanting something not in any language Delwath can recognize. And this seems to go on for a very, very long time, like the mirror shows the scene over and over again like this is months of work."
+        },
+        {
+          "startUid": "u2083",
+          "endUid": "u2089",
+          "quote": "DM: And then slowly back to the stone of Apollyon’s prison. You see in the mirror the walls of this chamber that that you saw in Delwath’s scrying, 5 coffins which you can’t see now, just looking at the blank wall of Drankorian marble."
+        },
+        {
+          "startUid": "u2090",
+          "endUid": "u2094",
+          "quote": "DM: Apollyon slowly chipping away at the edge of the stone. Must have taken decades to make enough dust for 5 people, but not formed until much, much later."
+        }
+      ],
+      "place": "p07",
+      "mode": "vision",
+      "observerPlace": "p01",
+      "context": "vision"
+    },
+    {
+      "id": "l06",
+      "type": "observation",
+      "source": {
+        "startUid": "u2528",
+        "endUid": "u2586"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath scries the hostile Seeker, Delwath and Kenzo doubles on a jungle-covered Drankorian river dock; later discussion calls the city apparently Drankor.",
+      "evidence": [
+        {
+          "startUid": "u2528",
+          "endUid": "u2544",
+          "quote": "DM: Delwath casts Scry on the Seeker duplicate. And you find yourself looking down like on—I guess it's like a a— It's like a little camp or something, on a marble dock. You see, surrounded by jungles like you're looking down at a scene of 3 people, Kenzo, Delwath and Seeker sitting around a campfire, just kind of staring off into space, watching the river, sitting on a dock."
+        },
+        {
+          "startUid": "u2545",
+          "endUid": "u2545",
+          "quote": "Delwath: Dock on a river or a dock on a ocean?"
+        },
+        {
+          "startUid": "u2546",
+          "endUid": "u2546",
+          "quote": "DM: On a river."
+        },
+        {
+          "startUid": "u2547",
+          "endUid": "u2547",
+          "quote": "Delwath: Okay."
+        },
+        {
+          "startUid": "u2548",
+          "endUid": "u2550",
+          "quote": "DM: Fancy dock, like it’s completely overgrown by jungle. But— Drankorian."
+        },
+        {
+          "startUid": "u2551",
+          "endUid": "u2551",
+          "quote": "Delwath: Of course, is this, I mean, does this look like a Drankorian dock?"
+        },
+        {
+          "startUid": "u2552",
+          "endUid": "u2552",
+          "quote": "DM: Yes."
+        },
+        {
+          "startUid": "u2553",
+          "endUid": "u2559",
+          "quote": "DM: They seem to be watching the river. And they don't seem to be doing anything. They're just kind of sitting there. But there's but there's clearly been some effort, some half-hearted effort to create the illusion of like a campsite. But Delwath is, you know, skilled enough to—this is— you’ve quartermastered tons. Yeah, clearly somebody who’s a knowledgeable quartermaster who’s creating the illusion of a active site, but isn’t actually—like, nobody’s eating food. There’s no—to these—"
+        },
+        {
+          "startUid": "u2560",
+          "endUid": "u2560",
+          "quote": "Delwath: Creatures, like, do they blink? Do they move around? They like scratch their cheek, or they just like stone still, like—"
+        },
+        {
+          "startUid": "u2561",
+          "endUid": "u2561",
+          "quote": "DM: Like, how long does scry last?"
+        },
+        {
+          "startUid": "u2562",
+          "endUid": "u2562",
+          "quote": "Delwath: 10 min."
+        },
+        {
+          "startUid": "u2563",
+          "endUid": "u2570",
+          "quote": "DM: So, about halfway through, Kenzo stands up, and sort of looks like patrolling, walks to the river, walks out of your sight, but in the direction of the river and doesn't come back for the rest of the scry. But the other 2 are just kind of sitting silently. It's not completely like they're deactivated, but they seem to be somehow—I don’t know, they’re not. They’re clearly not like, they’re not talking. They blink occasionally, but they’re just almost mindless at this point. Okay."
+        },
+        {
+          "startUid": "u2571",
+          "endUid": "u2571",
+          "quote": "Delwath: So they're gonna be guarding the jade."
+        },
+        {
+          "startUid": "u2572",
+          "endUid": "u2572",
+          "quote": "Seeker: That's good to know."
+        },
+        {
+          "startUid": "u2573",
+          "endUid": "u2576",
+          "quote": "Delwath: Or something. Wait—how close to—was there? There’s just jungle in a dock. There was no other buildings?"
+        },
+        {
+          "startUid": "u2577",
+          "endUid": "u2580",
+          "quote": "DM: So, because of the direction the scry sensors pointed, you weren't able to see what's behind Seeker. You're looking like out, but you get the feeling like this is not a— This is like a dock on a city, right? There’s like—"
+        },
+        {
+          "startUid": "u2581",
+          "endUid": "u2581",
+          "quote": "Delwath: Right? Okay."
+        },
+        {
+          "startUid": "u2582",
+          "endUid": "u2586",
+          "quote": "DM: Sense of buildings, all of that right? Trees growing through them. Jung—you know, vines, right, covering the marble road. There’s like a paved marble road that’s broken up, that they’re sitting— broken up by like vines and roots growing up."
+        },
+        {
+          "startUid": "u2949",
+          "endUid": "u2949",
+          "quote": "DM: Apparently Drankor, cause Delwath scried on—"
+        },
+        {
+          "startUid": "u2950",
+          "endUid": "u2950",
+          "quote": "Kenzo: A."
+        },
+        {
+          "startUid": "u2951",
+          "endUid": "u2952",
+          "quote": "Delwath: Delwath scried Seeker and found Seeker"
+        },
+        {
+          "startUid": "u2953",
+          "endUid": "u2953",
+          "quote": "Kenzo: Kenzo, and"
+        },
+        {
+          "startUid": "u2954",
+          "endUid": "u2954",
+          "quote": "Delwath: Delwath sitting around the docks of Drankor."
+        }
+      ],
+      "place": "p08",
+      "mode": "remote",
+      "observerPlace": "p01",
+      "observedActors": [
+        "Seeker's hostile double",
+        "Delwath's hostile double",
+        "Kenzo's hostile double"
+      ],
+      "note": "Kenzo’s double walks out of view toward the river; the scry does not establish where he goes afterward."
+    },
+    {
+      "id": "l07",
+      "type": "observation",
+      "source": {
+        "startUid": "u2612",
+        "endUid": "u2682"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath scries the pirate Wellby aboard Vengeance as its crew uses a flaming catapult projectile against another ship.",
+      "evidence": [
+        {
+          "startUid": "u2612",
+          "endUid": "u2623",
+          "quote": "DM: So Wellby is on a ship. It seems to be— He’s currently—so it’s like mid afternoon right now. So the the ship is sailing again with a strong wind behind it. Wellby is standing on the the like, the, the what do you call it? The deck that goes up in the bow with a spyglass looking at the horizon, and seems to be signaling back to the crew. And you can see, there's this massive like catapult-like contraption that's mounted on the deck of this ship."
+        },
+        {
+          "startUid": "u2624",
+          "endUid": "u2639",
+          "quote": "DM: And Wellby’s gesturing and yelling, and you can see some of the crew are— They've got this massive like stone, like ball that's in the catapult, but it doesn’t seem to be like a stone. You don’t, you can’t really tell what it’s made out of. But Wellby’s like shouting as he watches the spyglass and pointing signals with his hand. And this thing flies up, and about 10 people shoot flaming arrows at it, and in midair it bursts. This massive ball launched from the catapult bursts into flame. And you watch as Wellby like stares through the spyglass, like watching carefully the exact direction that it was aimed for, and— you can hear with scry, right? You hear in the distance this crack, and then a, like, screams coming up from some ship that was apparently just hit by some giant flaming catapult. And then Wellby turns like pumps his fist, like, gives a little smile, and, like, you know, eggs on his crew a little bit. Puts on more sails to try and reach the the destroyed ship, now."
+        },
+        {
+          "startUid": "u2640",
+          "endUid": "u2643",
+          "quote": "DM: You can see Wellby has—so, looking, looking down on him, he’s wearing a like a black pirates hat. He's got a, he's got a cloak. Yeah."
+        },
+        {
+          "startUid": "u2644",
+          "endUid": "u2644",
+          "quote": "Wellby: Right, yeah."
+        },
+        {
+          "startUid": "u2645",
+          "endUid": "u2645",
+          "quote": "DM: He’s, you know, he’s got his stuff."
+        },
+        {
+          "startUid": "u2646",
+          "endUid": "u2646",
+          "quote": "Delwath: It's got it. Yeah, okay."
+        },
+        {
+          "startUid": "u2647",
+          "endUid": "u2657",
+          "quote": "DM: He’s changed his, he’s changed his clothes from the, from the normal Wellby, but he’s, he doesn’t have any of his magic, obviously, so he doesn't have the glamoured armor or anything. And then he climbs down from this deck like, congratulates a few people. You see, yeah, it's basically all humans. You don't see any halflings on the ship that he's talking to, and he's, you know, he's greeting people. He's like, you know, “Good shot.” He’s congratulating the catapult crew, encouraging, encouraging people, and then scampers up the the mainmast to kind of get a better look at the scenes of carnage from the top. And then the scry ends."
+        },
+        {
+          "startUid": "u2658",
+          "endUid": "u2659",
+          "quote": "DM: The ship is called—what would Wellby name his pirate ship? What would evil Wellby name his pirate ship?"
+        },
+        {
+          "startUid": "u2660",
+          "endUid": "u2660",
+          "quote": "Seeker: Nice."
+        },
+        {
+          "startUid": "u2661",
+          "endUid": "u2661",
+          "quote": "DM: Schwartz. I'm looking at you."
+        },
+        {
+          "startUid": "u2662",
+          "endUid": "u2662",
+          "quote": "Wellby: Yeah, yeah, I’m, I’m—I think it would be like the Vengeance or or something."
+        },
+        {
+          "startUid": "u2663",
+          "endUid": "u2669",
+          "quote": "DM: So I was thinking like some, the one word noun, right? The ship is the Vengeance and it's got—it's not flying a normal skull. It’s not flying like a skull and crossbones pirate flag. It's flying, what? Maybe a flaming arrow?"
+        },
+        {
+          "startUid": "u2670",
+          "endUid": "u2675",
+          "quote": "Wellby: Yeah. What's, what's something dramatic? I think I think it's like a just blood red like red crossed with red. Something like that."
+        },
+        {
+          "startUid": "u2676",
+          "endUid": "u2676",
+          "quote": "DM: Blood red flag."
+        },
+        {
+          "startUid": "u2677",
+          "endUid": "u2680",
+          "quote": "DM: I mean, this is a recognizable ship, right? Like, now that you’ve scried it, think you could probably— you could describe this to people. You’ve—you could, you would recognize it. Bloody—"
+        },
+        {
+          "startUid": "u2681",
+          "endUid": "u2681",
+          "quote": "Seeker: If we—"
+        },
+        {
+          "startUid": "u2682",
+          "endUid": "u2682",
+          "quote": "DM: Design of the flag."
+        }
+      ],
+      "place": "p10",
+      "mode": "remote",
+      "observerPlace": "p01",
+      "observedActors": [
+        "Dread Pirate Wellby"
+      ]
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u2901",
+        "endUid": "u2904"
+      },
+      "actors": [
+        "Riswynn"
+      ],
+      "reading": "Riswynn leaves to deal with her double; the final scene narrates her teleport. Tharn Todor is the announced destination, but the landing is not narrated.",
+      "evidence": [
+        {
+          "startUid": "u2292",
+          "endUid": "u2293",
+          "quote": "DM: Riswynn knows Word of Recall, so she can teleport to Tharn Todor. I would assume at this point she’s managed to cast Hallow on the shrine of Bahrâzel, so she could also teleport to the shrine of Bahrâzel. But you can only cast—teleport to places that are for your God."
+        },
+        {
+          "startUid": "u2294",
+          "endUid": "u2295",
+          "quote": "Riswynn: So I can go to the blessed places of Tharn Todor, blessed places on"
+        },
+        {
+          "startUid": "u2296",
+          "endUid": "u2296",
+          "quote": "DM: Vindristjarna."
+        },
+        {
+          "startUid": "u2297",
+          "endUid": "u2300",
+          "quote": "Riswynn: Word of recall, maybe stop hundreds of thousands of dwarves from dying, since it's probably something Apollyon wants."
+        },
+        {
+          "startUid": "u2349",
+          "endUid": "u2349",
+          "quote": "Riswynn: Before the countdown clock gets sped up, I think I’m gonna go stop those four—several 100,000 dwarves who are following me into their certain death."
+        },
+        {
+          "startUid": "u2901",
+          "endUid": "u2904",
+          "quote": "DM: As you grind up those rubies, [garbled] Riswynn as she leaves. Now Kong gets to hear the craziness."
+        },
+        {
+          "startUid": "u3073",
+          "endUid": "u3075",
+          "quote": "DM: So, so this is after you’ve, after you’ve all rested so that the teleport spell is active now. So it's like late afternoon on May 14."
+        },
+        {
+          "startUid": "u3076",
+          "endUid": "u3082",
+          "quote": "DM: So at this point also, Riswynn says goodbye, teleports away. “We’ll see you in Drankor,” or wherever, because she can teleport back to Vindristjarna once the Riswynn problem is dealt with. Which will conveniently take exactly as much time as it takes us to run whatever adventure we have between now and when we return from them— Colorado."
+        }
+      ],
+      "from": "p01",
+      "to": "p11",
+      "completion": "underway",
+      "mode": "teleport",
+      "note": "Departure is mentioned during the May 13 preparation and again in the May 14 closing scene; its date is unresolved. Kethra was proposed at u2367–u2368, but the departure names only Riswynn."
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u3099",
+        "endUid": "u3116"
+      },
+      "actors": [
+        "Seeker's Kenzo simulacrum"
+      ],
+      "reading": "Seeker teleports the allied Kenzo duplicate onto Vengeance’s deck; the alternative missed destination decays and does not become a visit.",
+      "evidence": [
+        {
+          "startUid": "u3099",
+          "endUid": "u3116",
+          "quote": "DM: Yeah, that would have been a dramatic miss. So you see, as Seeker casts Teleport, 2 versions of reality superimposed upon each other for a brief moment. You see, 1st of all, Kenzo, sailing off to some other ship, a pirate ship on the Green Sea, and then that reality decays quickly, and Kenzo vanishes in a flash, appearing by the Chanceweaver’s fate, on the deck of Dread Pirate Wellby’s ship, the Vengeance. And that is where we’ll end the session tonight."
+        }
+      ],
+      "from": "p01",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "teleport"
+    }
+  ]
+}

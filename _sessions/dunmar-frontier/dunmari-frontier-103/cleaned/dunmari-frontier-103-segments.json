@@ -1,0 +1,167 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-103",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-103/cleaned/dunmari-frontier-103-session.yaml",
+    "sessionYamlSha256": "d5d6fcf62b5904a5e9120e944cd86197d9b74f5cedf1c2576290492c2fe6bcd0",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-103/cleaned/dunmari-frontier-103-transcript.md",
+    "transcriptSha256": "9e2d6660df0c2bc3a80e4c5694cc7e28f029639db7a14f11e4123dea3a808490"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0002"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0003",
+        "endUid": "u0726"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0727",
+        "endUid": "u0885"
+      },
+      "category": "meta_discussion",
+      "note": "Extended out-of-character comparison of simulacrum options; the DM explicitly redirects to in-character plans at u0880–u0885."
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0886",
+        "endUid": "u1286"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u1287",
+        "endUid": "u1295"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u1296",
+        "endUid": "u1882"
+      },
+      "category": "gameplay",
+      "note": "Includes character planning, remote dream contact, travel and resurrection; the earlier ship attack is reported history."
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u1883",
+        "endUid": "u1891"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u1892",
+        "endUid": "u1943"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u1944",
+        "endUid": "u1978"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u1979",
+        "endUid": "u2351"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u2352",
+        "endUid": "u2506"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u2507",
+        "endUid": "u2682"
+      },
+      "category": "gameplay",
+      "note": "Scrying observes an attack on another vessel, without initiative or a repeating ordered-turn cycle in this session."
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u2683",
+        "endUid": "u2836"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u2837",
+        "endUid": "u2883"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u2884",
+        "endUid": "u2889"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u2890",
+        "endUid": "u2904"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u2905",
+        "endUid": "u2989"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u2990",
+        "endUid": "u3116"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u3117",
+        "endUid": "u3118"
+      },
+      "category": "meta_discussion"
+    }
+  ]
+}
