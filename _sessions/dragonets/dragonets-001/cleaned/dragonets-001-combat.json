@@ -8,8 +8,8 @@
     "transcriptSha256": "273771a9ea93effe06e614f7847747925a8895c37398e75764e97a90d316532a",
     "segments": {
       "path": "_sessions/dragonets/dragonets-001/cleaned/dragonets-001-segments.json",
-      "sha256": "aff03638e0451f40195c1cb5568f4c5c057c5e20266506baad84c69828087c5f",
-      "schemaVersion": "0.1-transcript-segments-draft"
+      "sha256": "97fe4d41c6fd5ea943685379d3cd44f17e6875302eacd49e7e29974e46821d60",
+      "schemaVersion": "0.2-transcript-segments-draft"
     }
   },
   "combats": [

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dragonets-001",
     "sessionYaml": "_sessions/dragonets/dragonets-001/cleaned/dragonets-001-session.yaml",
@@ -17,12 +17,44 @@
       "category": "session_framing"
     },
     {
-      "id": "s002",
+      "id": "s009",
       "source": {
         "startUid": "u0034",
-        "endUid": "u1083"
+        "endUid": "u0251"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0252",
+        "endUid": "u0844"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u0845",
+        "endUid": "u0907"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u0908",
+        "endUid": "u1081"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u1082",
+        "endUid": "u1083"
+      },
+      "category": "session_framing"
     },
     {
       "id": "s003",
@@ -33,12 +65,20 @@
       "category": "table_talk"
     },
     {
-      "id": "s004",
+      "id": "s013",
       "source": {
         "startUid": "u1097",
+        "endUid": "u1103"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u1104",
         "endUid": "u1239"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s005",
@@ -58,9 +98,57 @@
       "category": "table_talk"
     },
     {
-      "id": "s007",
+      "id": "s014",
       "source": {
         "startUid": "u1397",
+        "endUid": "u1433"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u1434",
+        "endUid": "u1472"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u1473",
+        "endUid": "u1515"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u1516",
+        "endUid": "u1562"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u1563",
+        "endUid": "u1860"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u1861",
+        "endUid": "u1987"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u1988",
         "endUid": "u2138"
       },
       "category": "gameplay"

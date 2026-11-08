@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "lost-in-the-feywild-003",
     "sessionYaml": "_sessions/feywild/lost-in-the-feywild-003/cleaned/lost-in-the-feywild-003-session.yaml",
@@ -34,12 +34,110 @@
       "category": "table_talk"
     },
     {
-      "id": "s004",
+      "id": "s011",
       "source": {
         "startUid": "u0120",
+        "endUid": "u0312"
+      },
+      "category": "session_framing",
+      "note": "Includes accepted retrospective actions, in-character planning, and brief metagame clarifications within active investigation."
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u0313",
+        "endUid": "u0384"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u0385",
+        "endUid": "u0407"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u0408",
+        "endUid": "u0525"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u0526",
+        "endUid": "u0554"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u0555",
+        "endUid": "u0647"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u0648",
+        "endUid": "u0915"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u0916",
+        "endUid": "u0947"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u0948",
+        "endUid": "u1169"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u1170",
+        "endUid": "u1449"
+      },
+      "category": "planning",
+      "note": "Includes accepted retrospective actions, in-character planning, and brief metagame clarifications within active investigation."
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u1450",
+        "endUid": "u1504"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u1505",
+        "endUid": "u1831"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u1832",
         "endUid": "u1937"
       },
-      "category": "gameplay",
+      "category": "exploration",
       "note": "Includes accepted retrospective actions, in-character planning, and brief metagame clarifications within active investigation."
     },
     {
@@ -52,12 +150,28 @@
       "note": "Sustained discussion of AI arithmetic; the DM’s intended fictional semiprime count is retained in the interaction evidence."
     },
     {
-      "id": "s006",
+      "id": "s023",
       "source": {
         "startUid": "u1967",
-        "endUid": "u2073"
+        "endUid": "u1998"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u1999",
+        "endUid": "u2062"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s024",
+      "source": {
+        "startUid": "u2063",
+        "endUid": "u2073"
+      },
+      "category": "planning"
     },
     {
       "id": "s007",
@@ -73,7 +187,7 @@
         "startUid": "u2095",
         "endUid": "u2114"
       },
-      "category": "gameplay"
+      "category": "planning"
     },
     {
       "id": "s009",
@@ -84,9 +198,25 @@
       "category": "table_talk"
     },
     {
-      "id": "s010",
+      "id": "s025",
       "source": {
         "startUid": "u2119",
+        "endUid": "u2133"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u2134",
+        "endUid": "u2558"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s026",
+      "source": {
+        "startUid": "u2559",
         "endUid": "u2598"
       },
       "category": "gameplay",

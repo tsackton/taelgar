@@ -91,15 +91,18 @@ Recording length (transcript timestamp extent): **4:06:40** (0:00:04 → 4:06:44
 
 | Segment class | Elapsed (h:mm:ss) | Elapsed share | Speaking (h:mm:ss) | Speaking share |
 | --- | --- | --- | --- | --- |
-| Gameplay | 2:35:26 | 65.8% | 1:40:51 | 67.4% |
-| Combat | 1:10:26 | 29.8% | 0:43:09 | 28.8% |
-| Meta discussion | 0:02:02 | 0.9% | 0:01:31 | 1.0% |
+| Exploration | 1:00:31 | 25.7% | 0:36:59 | 24.7% |
+| Social interaction | 1:12:37 | 30.8% | 0:49:07 | 32.8% |
+| Planning | 0:06:29 | 2.8% | 0:04:16 | 2.8% |
+| Combat | 1:10:26 | 29.9% | 0:43:09 | 28.8% |
+| Meta discussion | 0:04:28 | 1.9% | 0:03:14 | 2.2% |
 | Table talk | 0:08:28 | 3.6% | 0:04:08 | 2.8% |
 | Session framing | 0:00:00 | 0.0% | 0:00:00 | 0.0% |
-| **Total** | 3:56:23 | 100.0% | 2:29:38 | 100.0% |
+| Gameplay | 0:12:48 | 5.4% | 0:08:46 | 5.9% |
+| **Total** | 3:55:48 | 100.0% | 2:29:38 | 100.0% |
 
 Elapsed time spans each segment block’s first UID start through its latest UID end, including internal pauses. Speaking time covers timestamped utterances only. Each millisecond is counted once; overlaps belong to the earliest source block or utterance. Each share uses its own column total.
 
-Outside segment spans: **0:10:17** in gaps between blocks.
+Outside segment spans: **0:10:52** in gaps between blocks.
 
 Sources · [Transcript](dunmari-frontier-034-transcript.md) · [Time Markers](dunmari-frontier-034-time-markers.json) · [Location Markers](dunmari-frontier-034-location-markers.json) · [Entity Map](dunmari-frontier-034-entity-map.json) · [Interactions](dunmari-frontier-034-interactions.json) · [Combat](dunmari-frontier-034-combat.json) · [Segments](dunmari-frontier-034-segments.json) · [Watch data](dunmari-frontier-034-time-watches.json) · [Session 33 (DuFr)](../../../../Campaigns/Dunmari%20Frontier%20Campaign/Session%20Notes/Session%2033%20%28DuFr%29.md) · [Wes Strongbones](../../../../People/Halflings/Wes%20Strongbones.md) · [Praecanti Vigiles](../../../../Groups/Chardonian%20Organizations/Praecanti%20Vigiles.md) · [Servius](../../../../People/Chardonians/Servius.md) · [Tealeafs](../../../../Groups/Halfling%20Families/Tealeafs.md) · [Oduk](../../../../People/Other%20Nonhumans/Oduk.md) · [Charmhearts](../../../../Groups/Halfling%20Families/Charmhearts.md)

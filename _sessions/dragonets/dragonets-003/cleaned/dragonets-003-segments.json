@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dragonets-003",
     "sessionYaml": "_sessions/dragonets/dragonets-003/cleaned/dragonets-003-session.yaml",
@@ -35,12 +35,20 @@
       "note": "Recap of earlier sessions and their closing moment; current action resumes with the characters’ responses at u0077."
     },
     {
-      "id": "s004",
+      "id": "s011",
       "source": {
         "startUid": "u0077",
+        "endUid": "u0142"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0143",
         "endUid": "u0647"
       },
-      "category": "gameplay"
+      "category": "exploration"
     },
     {
       "id": "s005",
@@ -56,7 +64,7 @@
         "startUid": "u0686",
         "endUid": "u0739"
       },
-      "category": "gameplay"
+      "category": "exploration"
     },
     {
       "id": "s007",
@@ -67,9 +75,25 @@
       "category": "table_talk"
     },
     {
-      "id": "s008",
+      "id": "s012",
       "source": {
         "startUid": "u0753",
+        "endUid": "u0942"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u0943",
+        "endUid": "u1655"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u1656",
         "endUid": "u1670"
       },
       "category": "gameplay"
@@ -84,13 +108,29 @@
       "note": "Continuous initiative encounter; its rules discussion and tactical planning remain in combat."
     },
     {
-      "id": "s010",
+      "id": "s014",
       "source": {
         "startUid": "u2815",
+        "endUid": "u2875"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u2876",
+        "endUid": "u3081"
+      },
+      "category": "exploration",
+      "note": "The rescue countdown at u2915–u3071 allows free action order and resolves one collective rescue; no repeated ordered turn cycle is played."
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u3082",
         "endUid": "u3097"
       },
-      "category": "gameplay",
-      "note": "The rescue countdown at u2915–u3071 allows free action order and resolves one collective rescue; no repeated ordered turn cycle is played."
+      "category": "social_interaction"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dragonets-002",
     "sessionYaml": "_sessions/dragonets/dragonets-002/cleaned/dragonets-002-session.yaml",
@@ -17,13 +17,86 @@
       "category": "session_framing"
     },
     {
-      "id": "s002",
+      "id": "s012",
       "source": {
         "startUid": "u0014",
-        "endUid": "u1585"
+        "endUid": "u0106"
       },
       "category": "gameplay",
       "note": "Opening dreams and recollections are experienced in play; childhood stories remain historical memories."
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u0107",
+        "endUid": "u0305"
+      },
+      "category": "session_framing",
+      "note": "Opening dreams and recollections are experienced in play; childhood stories remain historical memories."
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u0306",
+        "endUid": "u0313"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u0314",
+        "endUid": "u0414"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u0415",
+        "endUid": "u0595"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u0596",
+        "endUid": "u0634"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u0635",
+        "endUid": "u0700"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u0701",
+        "endUid": "u0825"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0826",
+        "endUid": "u1364"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u1365",
+        "endUid": "u1585"
+      },
+      "category": "exploration"
     },
     {
       "id": "s003",
@@ -40,7 +113,7 @@
         "startUid": "u1647",
         "endUid": "u1697"
       },
-      "category": "gameplay"
+      "category": "exploration"
     },
     {
       "id": "s005",
@@ -52,9 +125,25 @@
       "note": "Initiative begins at u1698 and the defensive encounter resolves when Roska is evacuated; ongoing call-and-response is retained through u2151."
     },
     {
-      "id": "s006",
+      "id": "s021",
       "source": {
         "startUid": "u2152",
+        "endUid": "u2223"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u2224",
+        "endUid": "u2440"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u2441",
         "endUid": "u2503"
       },
       "category": "gameplay",

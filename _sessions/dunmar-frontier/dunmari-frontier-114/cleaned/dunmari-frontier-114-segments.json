@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-114",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-114/cleaned/dunmari-frontier-114-session.yaml",
@@ -14,7 +14,7 @@
         "startUid": "u0001",
         "endUid": "u0006"
       },
-      "category": "gameplay"
+      "category": "session_framing"
     },
     {
       "id": "s009",
@@ -25,12 +25,36 @@
       "category": "session_framing"
     },
     {
-      "id": "s010",
+      "id": "s011",
       "source": {
         "startUid": "u0040",
-        "endUid": "u0745"
+        "endUid": "u0056"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u0057",
+        "endUid": "u0269"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u0270",
+        "endUid": "u0313"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u0314",
+        "endUid": "u0745"
+      },
+      "category": "exploration"
     },
     {
       "id": "s002",
@@ -44,9 +68,25 @@
       "id": "s003",
       "source": {
         "startUid": "u1278",
+        "endUid": "u1475"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u1476",
+        "endUid": "u1575"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u1576",
         "endUid": "u1731"
       },
-      "category": "gameplay"
+      "category": "exploration"
     },
     {
       "id": "s004",
@@ -62,7 +102,7 @@
         "startUid": "u1966",
         "endUid": "u2111"
       },
-      "category": "gameplay",
+      "category": "exploration",
       "note": "The later Sanctuary-protected dash at u2033–u2092 has no initiative or repeated ordered turn cycle; attacks are resolved within active exploration."
     },
     {

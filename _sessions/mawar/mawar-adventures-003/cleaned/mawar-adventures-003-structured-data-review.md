@@ -99,15 +99,18 @@ Recording length (transcript timestamp extent): **4:45:58** (0:00:02 → 4:46:00
 
 | Segment class | Elapsed (h:mm:ss) | Elapsed share | Speaking (h:mm:ss) | Speaking share |
 | --- | --- | --- | --- | --- |
-| Gameplay | 3:02:05 | 63.7% | 1:56:51 | 65.0% |
-| Combat | 1:35:30 | 33.4% | 0:57:40 | 32.1% |
-| Meta discussion | 0:00:00 | 0.0% | 0:00:00 | 0.0% |
+| Exploration | 1:48:12 | 38.0% | 1:12:19 | 40.2% |
+| Social interaction | 0:41:27 | 14.6% | 0:24:16 | 13.5% |
+| Planning | 0:06:52 | 2.4% | 0:04:21 | 2.4% |
+| Combat | 1:35:30 | 33.6% | 0:57:40 | 32.1% |
+| Meta discussion | 0:01:55 | 0.7% | 0:01:14 | 0.7% |
 | Table talk | 0:01:05 | 0.4% | 0:00:41 | 0.4% |
-| Session framing | 0:07:03 | 2.5% | 0:04:42 | 2.6% |
-| **Total** | 4:45:44 | 100.0% | 2:59:54 | 100.0% |
+| Session framing | 0:16:26 | 5.8% | 0:11:36 | 6.4% |
+| Gameplay | 0:13:02 | 4.6% | 0:07:47 | 4.3% |
+| **Total** | 4:44:29 | 100.0% | 2:59:54 | 100.0% |
 
 Elapsed time spans each segment block’s first UID start through its latest UID end, including internal pauses. Speaking time covers timestamped utterances only. Each millisecond is counted once; overlaps belong to the earliest source block or utterance. Each share uses its own column total.
 
-Outside segment spans: **0:00:14** in gaps between blocks.
+Outside segment spans: **0:01:29** in gaps between blocks.
 
 Sources · [Transcript](mawar-adventures-003-transcript.md) · [Time Markers](mawar-adventures-003-time-markers.json) · [Location Markers](mawar-adventures-003-location-markers.json) · [Entity Map](mawar-adventures-003-entity-map.json) · [Interactions](mawar-adventures-003-interactions.json) · [Combat](mawar-adventures-003-combat.json) · [Segments](mawar-adventures-003-segments.json) · [Watch data](mawar-adventures-003-time-watches.json) · [Dated episode record](../../../../Campaigns/Mawar%20Adventures/Episodes/Mawar%20Adventures%20Episode%2003.md) · [Hiyasa dated whereabouts](../../../../People/Mawarans/Hiyasa.md)

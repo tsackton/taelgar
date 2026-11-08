@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "lost-in-the-feywild-004",
     "sessionYaml": "_sessions/feywild/lost-in-the-feywild-004/cleaned/lost-in-the-feywild-004-session.yaml",
@@ -26,12 +26,100 @@
       "note": "Opening recap and recollection of earlier sessions; active character actions begin with the current promontory tableau at u0204."
     },
     {
-      "id": "s003",
+      "id": "s007",
       "source": {
         "startUid": "u0204",
-        "endUid": "u2108"
+        "endUid": "u0354"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0355",
+        "endUid": "u0847"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u0848",
+        "endUid": "u0884"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u0885",
+        "endUid": "u1335"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u1336",
+        "endUid": "u1387"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u1388",
+        "endUid": "u1403"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u1404",
+        "endUid": "u1439"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u1440",
+        "endUid": "u1486"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u1487",
+        "endUid": "u1608"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u1609",
+        "endUid": "u1647"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u1648",
+        "endUid": "u1666"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u1667",
+        "endUid": "u2108"
+      },
+      "category": "social_interaction"
     },
     {
       "id": "s004",

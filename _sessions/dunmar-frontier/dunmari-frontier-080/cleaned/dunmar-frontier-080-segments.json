@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmar-frontier-080",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-080/cleaned/dunmar-frontier-080-session.yaml",
@@ -37,10 +37,82 @@
       "id": "s004",
       "source": {
         "startUid": "u0104",
+        "endUid": "u0493"
+      },
+      "category": "exploration",
+      "note": "The acidic hazard has no initiative or repeated ordered turn cycle."
+    },
+    {
+      "id": "s024",
+      "source": {
+        "startUid": "u0494",
+        "endUid": "u0539"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s025",
+      "source": {
+        "startUid": "u0540",
+        "endUid": "u0677"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s026",
+      "source": {
+        "startUid": "u0678",
+        "endUid": "u0828"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s027",
+      "source": {
+        "startUid": "u0829",
+        "endUid": "u0891"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s028",
+      "source": {
+        "startUid": "u0892",
+        "endUid": "u0913"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s029",
+      "source": {
+        "startUid": "u0914",
+        "endUid": "u1076"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s030",
+      "source": {
+        "startUid": "u1077",
+        "endUid": "u1216"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s031",
+      "source": {
+        "startUid": "u1217",
+        "endUid": "u1337"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s032",
+      "source": {
+        "startUid": "u1338",
         "endUid": "u1540"
       },
-      "category": "gameplay",
-      "note": "The acidic hazard has no initiative or repeated ordered turn cycle."
+      "category": "social_interaction"
     },
     {
       "id": "s005",
@@ -54,9 +126,25 @@
       "id": "s006",
       "source": {
         "startUid": "u1553",
-        "endUid": "u1677"
+        "endUid": "u1602"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s033",
+      "source": {
+        "startUid": "u1603",
+        "endUid": "u1645"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s034",
+      "source": {
+        "startUid": "u1646",
+        "endUid": "u1677"
+      },
+      "category": "social_interaction"
     },
     {
       "id": "s007",
@@ -67,12 +155,20 @@
       "category": "table_talk"
     },
     {
-      "id": "s008",
+      "id": "s035",
       "source": {
         "startUid": "u1703",
+        "endUid": "u1853"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u1854",
         "endUid": "u2296"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s009",
@@ -88,7 +184,7 @@
         "startUid": "u2321",
         "endUid": "u2571"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s011",
@@ -99,13 +195,46 @@
       "category": "meta_discussion"
     },
     {
-      "id": "s012",
+      "id": "s036",
       "source": {
         "startUid": "u2611",
+        "endUid": "u2635"
+      },
+      "category": "social_interaction",
+      "note": "Purchases, construction quotes and ordinary resource adjudication remain active play."
+    },
+    {
+      "id": "s037",
+      "source": {
+        "startUid": "u2636",
+        "endUid": "u2694"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s038",
+      "source": {
+        "startUid": "u2695",
+        "endUid": "u2762"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u2763",
+        "endUid": "u2842"
+      },
+      "category": "social_interaction",
+      "note": "Purchases, construction quotes and ordinary resource adjudication remain active play."
+    },
+    {
+      "id": "s039",
+      "source": {
+        "startUid": "u2843",
         "endUid": "u2921"
       },
-      "category": "gameplay",
-      "note": "Purchases, construction quotes and ordinary resource adjudication remain active play."
+      "category": "planning"
     },
     {
       "id": "s013",
@@ -119,9 +248,41 @@
       "id": "s014",
       "source": {
         "startUid": "u2995",
-        "endUid": "u3266"
+        "endUid": "u3123"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s040",
+      "source": {
+        "startUid": "u3124",
+        "endUid": "u3151"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s041",
+      "source": {
+        "startUid": "u3152",
+        "endUid": "u3171"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s042",
+      "source": {
+        "startUid": "u3172",
+        "endUid": "u3235"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s043",
+      "source": {
+        "startUid": "u3236",
+        "endUid": "u3266"
+      },
+      "category": "social_interaction"
     },
     {
       "id": "s015",
@@ -132,12 +293,20 @@
       "category": "table_talk"
     },
     {
-      "id": "s016",
+      "id": "s044",
       "source": {
         "startUid": "u3286",
+        "endUid": "u3443"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u3444",
         "endUid": "u3797"
       },
-      "category": "gameplay",
+      "category": "social_interaction",
       "note": "The corrected flying-castle story includes short metagame recollections within the continuing Wendel exchange."
     },
     {
@@ -149,12 +318,44 @@
       "category": "table_talk"
     },
     {
-      "id": "s018",
+      "id": "s045",
       "source": {
         "startUid": "u3824",
-        "endUid": "u4298"
+        "endUid": "u3881"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u3882",
+        "endUid": "u4134"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s046",
+      "source": {
+        "startUid": "u4135",
+        "endUid": "u4212"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s047",
+      "source": {
+        "startUid": "u4213",
+        "endUid": "u4284"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s048",
+      "source": {
+        "startUid": "u4285",
+        "endUid": "u4298"
+      },
+      "category": "planning"
     },
     {
       "id": "s019",
@@ -170,7 +371,7 @@
         "startUid": "u4311",
         "endUid": "u4821"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s021",

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-034",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-034/cleaned/dunmari-frontier-034-session.yaml",
@@ -17,13 +17,69 @@
       "category": "meta_discussion"
     },
     {
-      "id": "s002",
+      "id": "s019",
       "source": {
         "startUid": "u0009",
-        "endUid": "u0959"
+        "endUid": "u0048"
       },
       "category": "gameplay",
       "note": "Opening recap shares its turn with the current monastery arrival and afternoon anchor; classify the mixed turn as gameplay."
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u0049",
+        "endUid": "u0361"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u0362",
+        "endUid": "u0381"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u0382",
+        "endUid": "u0442"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s023",
+      "source": {
+        "startUid": "u0443",
+        "endUid": "u0478"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s024",
+      "source": {
+        "startUid": "u0479",
+        "endUid": "u0488"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0489",
+        "endUid": "u0943"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s025",
+      "source": {
+        "startUid": "u0944",
+        "endUid": "u0959"
+      },
+      "category": "planning"
     },
     {
       "id": "s003",
@@ -39,7 +95,7 @@
         "startUid": "u1008",
         "endUid": "u1046"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s005",
@@ -55,7 +111,7 @@
         "startUid": "u1061",
         "endUid": "u1124"
       },
-      "category": "gameplay"
+      "category": "exploration"
     },
     {
       "id": "s007",
@@ -69,10 +125,26 @@
       "id": "s008",
       "source": {
         "startUid": "u1155",
-        "endUid": "u1535"
+        "endUid": "u1416"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s026",
+      "source": {
+        "startUid": "u1417",
+        "endUid": "u1460"
       },
       "category": "gameplay",
       "note": "The brief gray-ooze exchange has no initiative roll or repeated ordered turn cycle; it remains gameplay."
+    },
+    {
+      "id": "s027",
+      "source": {
+        "startUid": "u1461",
+        "endUid": "u1535"
+      },
+      "category": "exploration"
     },
     {
       "id": "s009",
@@ -88,7 +160,7 @@
         "startUid": "u1541",
         "endUid": "u1675"
       },
-      "category": "gameplay"
+      "category": "exploration"
     },
     {
       "id": "s011",
@@ -100,9 +172,33 @@
       "note": "One continuous initiative span: memory-eating fungus, retreat, and two slime molds joining the existing order."
     },
     {
-      "id": "s012",
+      "id": "s028",
       "source": {
         "startUid": "u2268",
+        "endUid": "u2286"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s029",
+      "source": {
+        "startUid": "u2287",
+        "endUid": "u2302"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u2303",
+        "endUid": "u2353"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s030",
+      "source": {
+        "startUid": "u2354",
         "endUid": "u2385"
       },
       "category": "gameplay"
@@ -121,7 +217,7 @@
         "startUid": "u2418",
         "endUid": "u2469"
       },
-      "category": "gameplay"
+      "category": "planning"
     },
     {
       "id": "s015",
@@ -135,6 +231,14 @@
       "id": "s016",
       "source": {
         "startUid": "u2911",
+        "endUid": "u2979"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s031",
+      "source": {
+        "startUid": "u2980",
         "endUid": "u2996"
       },
       "category": "gameplay",

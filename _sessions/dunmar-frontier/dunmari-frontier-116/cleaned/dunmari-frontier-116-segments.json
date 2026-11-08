@@ -1,8 +1,8 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-116/cleaned/dunmari-frontier-116-session.yaml",
-    "sessionYamlSha256": "f4ef84a3bf471308a1890283277543b1373fe59bc7db5cee7101dea3e3912203",
+    "sessionYamlSha256": "224a6e5bed0dd04ae5cff03246f6c79b7c579010b9cac4e77d67bd9d13e74397",
     "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-116/cleaned/dunmari-frontier-116-transcript.md",
     "sessionId": "dunmari-frontier-116",
     "transcriptSha256": "424a2e070fe8ec6b107afda56d6fbfa579b0539fd2cc1839ea9f58d12e257aca"
@@ -20,9 +20,17 @@
       "id": "s002",
       "source": {
         "startUid": "u0013",
+        "endUid": "u0078"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u0079",
         "endUid": "u0093"
       },
-      "category": "gameplay"
+      "category": "session_framing"
     },
     {
       "id": "s003",
@@ -33,9 +41,17 @@
       "category": "session_framing"
     },
     {
-      "id": "s004",
+      "id": "s017",
       "source": {
         "startUid": "u0107",
+        "endUid": "u0118"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0119",
         "endUid": "u0146"
       },
       "category": "gameplay"
@@ -54,7 +70,7 @@
         "startUid": "u0156",
         "endUid": "u0175"
       },
-      "category": "gameplay"
+      "category": "meta_discussion"
     },
     {
       "id": "s007",
@@ -70,7 +86,7 @@
         "startUid": "u0189",
         "endUid": "u0294"
       },
-      "category": "gameplay"
+      "category": "planning"
     },
     {
       "id": "s009",
@@ -84,10 +100,42 @@
       "id": "s010",
       "source": {
         "startUid": "u1346",
+        "endUid": "u2369"
+      },
+      "category": "social_interaction",
+      "note": "The isolated initiative contest over the crown at u2129–u2139 resolves a single grab, without an ordered repeating combat cycle."
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u2370",
+        "endUid": "u2404"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u2405",
+        "endUid": "u2443"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u2444",
+        "endUid": "u2584"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u2585",
         "endUid": "u2619"
       },
-      "category": "gameplay",
-      "note": "The isolated initiative contest over the crown at u2129–u2139 resolves a single grab, without an ordered repeating combat cycle."
+      "category": "gameplay"
     },
     {
       "id": "s011",
@@ -99,12 +147,52 @@
       "note": "Out-of-character level-up, spell preparation and character-sheet discussion; the overnight rest is established in gameplay and later confirmed."
     },
     {
-      "id": "s012",
+      "id": "s022",
       "source": {
         "startUid": "u2814",
-        "endUid": "u3247"
+        "endUid": "u2821"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s023",
+      "source": {
+        "startUid": "u2822",
+        "endUid": "u2835"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s024",
+      "source": {
+        "startUid": "u2836",
+        "endUid": "u2898"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s025",
+      "source": {
+        "startUid": "u2899",
+        "endUid": "u2948"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u2949",
+        "endUid": "u3163"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s026",
+      "source": {
+        "startUid": "u3164",
+        "endUid": "u3247"
+      },
+      "category": "social_interaction"
     },
     {
       "id": "s013",

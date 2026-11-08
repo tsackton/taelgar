@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-083",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-083/cleaned/dunmari-frontier-083-session.yaml",
@@ -22,7 +22,7 @@
         "startUid": "u0004",
         "endUid": "u0017"
       },
-      "category": "gameplay"
+      "category": "meta_discussion"
     },
     {
       "id": "s003",
@@ -34,9 +34,17 @@
       "note": "The afternoon opening and prior-day recap do not advance those recounted events; the shared u0054 turn group begins current item-lore clarification in the following gameplay segment."
     },
     {
-      "id": "s004",
+      "id": "s021",
       "source": {
         "startUid": "u0044",
+        "endUid": "u0054"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0055",
         "endUid": "u0075"
       },
       "category": "gameplay"
@@ -98,12 +106,20 @@
       "category": "table_talk"
     },
     {
-      "id": "s012",
+      "id": "s022",
       "source": {
         "startUid": "u0280",
-        "endUid": "u0610"
+        "endUid": "u0302"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u0303",
+        "endUid": "u0610"
+      },
+      "category": "social_interaction"
     },
     {
       "id": "s013",
@@ -119,7 +135,7 @@
         "startUid": "u0626",
         "endUid": "u0695"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s015",
@@ -146,9 +162,67 @@
       "category": "table_talk"
     },
     {
-      "id": "s018",
+      "id": "s023",
       "source": {
         "startUid": "u0731",
+        "endUid": "u0925"
+      },
+      "category": "social_interaction",
+      "note": "Brief jokes, map explanations and technical interruptions remain within the sustained active party encounters and played final festival day."
+    },
+    {
+      "id": "s024",
+      "source": {
+        "startUid": "u0926",
+        "endUid": "u0953"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s025",
+      "source": {
+        "startUid": "u0954",
+        "endUid": "u1040"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s026",
+      "source": {
+        "startUid": "u1041",
+        "endUid": "u1075"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u1076",
+        "endUid": "u1696"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s027",
+      "source": {
+        "startUid": "u1697",
+        "endUid": "u1752"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s028",
+      "source": {
+        "startUid": "u1753",
+        "endUid": "u1802"
+      },
+      "category": "social_interaction",
+      "note": "Brief jokes, map explanations and technical interruptions remain within the sustained active party encounters and played final festival day."
+    },
+    {
+      "id": "s029",
+      "source": {
+        "startUid": "u1803",
         "endUid": "u1848"
       },
       "category": "gameplay",

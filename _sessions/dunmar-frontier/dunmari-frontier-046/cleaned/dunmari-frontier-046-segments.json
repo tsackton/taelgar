@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-046",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-046/cleaned/dunmari-frontier-046-session.yaml",
@@ -18,13 +18,77 @@
       "note": "Opening housekeeping includes the DM’s brief out-of-character reminder about archival resources; resolved journey activities begin in the next block."
     },
     {
-      "id": "s002",
+      "id": "s013",
       "source": {
         "startUid": "u0021",
+        "endUid": "u0076"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u0077",
+        "endUid": "u0196"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u0197",
+        "endUid": "u0334"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u0335",
+        "endUid": "u0374"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u0375",
+        "endUid": "u0452"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0453",
+        "endUid": "u1329"
+      },
+      "category": "planning",
+      "note": "Character-framed strategy and party pitches remain active gameplay; brief jokes, rules checks, and work interruptions do not split the block."
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u1330",
+        "endUid": "u1351"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u1352",
+        "endUid": "u1666"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u1667",
         "endUid": "u1672"
       },
-      "category": "gameplay",
-      "note": "Character-framed strategy and party pitches remain active gameplay; brief jokes, rules checks, and work interruptions do not split the block."
+      "category": "gameplay"
     },
     {
       "id": "s003",
@@ -35,12 +99,84 @@
       "category": "table_talk"
     },
     {
-      "id": "s004",
+      "id": "s021",
       "source": {
         "startUid": "u1705",
-        "endUid": "u2192"
+        "endUid": "u1757"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u1758",
+        "endUid": "u1883"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u1884",
+        "endUid": "u2022"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s023",
+      "source": {
+        "startUid": "u2023",
+        "endUid": "u2033"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s024",
+      "source": {
+        "startUid": "u2034",
+        "endUid": "u2046"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s025",
+      "source": {
+        "startUid": "u2047",
+        "endUid": "u2067"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s026",
+      "source": {
+        "startUid": "u2068",
+        "endUid": "u2090"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s027",
+      "source": {
+        "startUid": "u2091",
+        "endUid": "u2140"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s028",
+      "source": {
+        "startUid": "u2141",
+        "endUid": "u2155"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s029",
+      "source": {
+        "startUid": "u2156",
+        "endUid": "u2192"
+      },
+      "category": "social_interaction"
     },
     {
       "id": "s005",
@@ -51,12 +187,84 @@
       "category": "table_talk"
     },
     {
-      "id": "s006",
+      "id": "s030",
       "source": {
         "startUid": "u2201",
-        "endUid": "u2787"
+        "endUid": "u2231"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u2232",
+        "endUid": "u2401"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s031",
+      "source": {
+        "startUid": "u2402",
+        "endUid": "u2479"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s032",
+      "source": {
+        "startUid": "u2480",
+        "endUid": "u2500"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s033",
+      "source": {
+        "startUid": "u2501",
+        "endUid": "u2510"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s034",
+      "source": {
+        "startUid": "u2511",
+        "endUid": "u2585"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s035",
+      "source": {
+        "startUid": "u2586",
+        "endUid": "u2638"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s036",
+      "source": {
+        "startUid": "u2639",
+        "endUid": "u2671"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s037",
+      "source": {
+        "startUid": "u2672",
+        "endUid": "u2712"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s038",
+      "source": {
+        "startUid": "u2713",
+        "endUid": "u2787"
+      },
+      "category": "social_interaction"
     },
     {
       "id": "s007",
@@ -67,9 +275,49 @@
       "category": "table_talk"
     },
     {
-      "id": "s008",
+      "id": "s039",
       "source": {
         "startUid": "u2797",
+        "endUid": "u2819"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s040",
+      "source": {
+        "startUid": "u2820",
+        "endUid": "u2848"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u2849",
+        "endUid": "u2979"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s041",
+      "source": {
+        "startUid": "u2980",
+        "endUid": "u2997"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s042",
+      "source": {
+        "startUid": "u2998",
+        "endUid": "u3021"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s043",
+      "source": {
+        "startUid": "u3022",
         "endUid": "u3032"
       },
       "category": "gameplay"

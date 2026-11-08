@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "lost-in-the-feywild-005",
     "sessionYaml": "_sessions/feywild/lost-in-the-feywild-005/cleaned/lost-in-the-feywild-005-session.yaml",
@@ -28,9 +28,145 @@
       "id": "s003",
       "source": {
         "startUid": "u0112",
-        "endUid": "u1065"
+        "endUid": "u0224"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u0225",
+        "endUid": "u0264"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u0265",
+        "endUid": "u0324"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u0325",
+        "endUid": "u0337"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u0338",
+        "endUid": "u0398"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u0399",
+        "endUid": "u0434"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u0435",
+        "endUid": "u0457"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u0458",
+        "endUid": "u0554"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u0555",
+        "endUid": "u0619"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u0620",
+        "endUid": "u0649"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u0650",
+        "endUid": "u0684"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u0685",
+        "endUid": "u0795"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u0796",
+        "endUid": "u0818"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u0819",
+        "endUid": "u0877"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u0878",
+        "endUid": "u0947"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u0948",
+        "endUid": "u1006"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u1007",
+        "endUid": "u1034"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s023",
+      "source": {
+        "startUid": "u1035",
+        "endUid": "u1065"
+      },
+      "category": "exploration"
     },
     {
       "id": "s004",
@@ -42,9 +178,65 @@
       "note": "Includes the initiating grab, all initiative/map setup, and immediate post-kill spore saves. Initiative is not restarted during the technical interruptions."
     },
     {
-      "id": "s005",
+      "id": "s024",
       "source": {
         "startUid": "u1952",
+        "endUid": "u2018"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s025",
+      "source": {
+        "startUid": "u2019",
+        "endUid": "u2053"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u2054",
+        "endUid": "u2152"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s026",
+      "source": {
+        "startUid": "u2153",
+        "endUid": "u2176"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s027",
+      "source": {
+        "startUid": "u2177",
+        "endUid": "u2239"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s028",
+      "source": {
+        "startUid": "u2240",
+        "endUid": "u2300"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s029",
+      "source": {
+        "startUid": "u2301",
+        "endUid": "u2388"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s030",
+      "source": {
+        "startUid": "u2389",
         "endUid": "u2433"
       },
       "category": "gameplay"

@@ -1,0 +1,1119 @@
+schema_version: 1
+annotated_date: '2026-11-06'
+basis: Enemy rosters derived from existing combat encounter titles, opening actions, actor labels, resolved
+  action summaries, endings and qualifications. These are analysis annotations for review.
+conventions:
+- Lists include enemies that are asleep, incapacitated, controlled or defeated before acting when the source
+  establishes their participation.
+- Named opponents and descriptive forms are preserved as played. Published stat blocks are not inferred.
+- Counts appear in labels only when supported. Role and positional aliases are grouped where identities overlap.
+- Enemy summons and minions are included. Party allies, controlled constructs and summons are excluded from
+  enemy lists. Changes of allegiance are explained in notes.
+- The same creature can appear in successive encounter rows. These lists do not establish unique campaign-wide
+  creature counts.
+- Friendly duels, PC conflicts and environmental opposition have separate other_opposition entries.
+- Hostile objects, effects and encounter objectives are placed in other_opposition or explained in notes.
+rosters:
+  dunmari-frontier-001/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-001/cleaned/dunmari-frontier-001-combat.json
+    source_record_sha256: 408126d8278908979a8193fb93a3830028e22f935a04f3f92af83b96640a9f9c
+    enemies:
+    - 2 giant hyenas
+    note: ''
+  dunmari-frontier-002/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-002/cleaned/dunmari-frontier-002-combat.json
+    source_record_sha256: 5e52dd26e5460584935997b7dd3c5d2816ee4db65a368fef25b027190802b804
+    enemies:
+    - 3 giant lizards
+    note: ''
+  dunmari-frontier-002/c002:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-002/cleaned/dunmari-frontier-002-combat.json
+    source_record_sha256: 3620edc8a5d3f18902b2a72b1856b697d04271172a163c30edd91e065a498051
+    enemies:
+    - 4 skeletons
+    note: Sword-bearing and unarmed labels can refer to the same skeleton at different points in the fight.
+  dunmari-frontier-003/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-003/cleaned/dunmari-frontier-003-combat.json
+    source_record_sha256: 05874e78c2067c3bb44705a71cf3a709c92313ad618c407a7797ae0e9d06becb
+    enemies:
+    - Ankheg
+    note: ''
+  dunmari-frontier-003/c002:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-003/cleaned/dunmari-frontier-003-combat.json
+    source_record_sha256: 79f10a463e2af3d33a4c3a463f391bb65ac98011acdb21e98094356a3f977533
+    enemies:
+    - 3 skeletons
+    - undead hobgoblin
+    note: The staff's influence persists after the creatures are destroyed.
+    other_opposition:
+    - obsidian staff's rage influence
+  dunmari-frontier-006/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-006/cleaned/dunmari-frontier-006-combat.json
+    source_record_sha256: fccf6ba68cda9031adb58addaf32926f00a5c82fd5d746caefc5f320eb47097e
+    enemies:
+    - 3 gnolls
+    - 3 maw creatures
+    note: One gnoll remains asleep at the end of initiative.
+  dunmari-frontier-007/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-007/cleaned/dunmari-frontier-007-combat.json
+    source_record_sha256: c162c4053cc889373ff541e99c21ef1398a25bd1fd68137b2f977b655ad48b71
+    enemies:
+    - Gnoll archers
+    - spear-wielding gnolls
+    note: Weapon and positional labels shift. No exact total inferred from actor-label count.
+  dunmari-frontier-008/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-008/cleaned/dunmari-frontier-008-combat.json
+    source_record_sha256: de2a0174eff215bfe79c4a722355ff9aa709174e0e7122b9ba26f46768fc124e
+    enemies:
+    - Stony tentacled creature
+    note: Descriptive identity retained. No stat block inferred.
+  dunmari-frontier-010/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-combat.json
+    source_record_sha256: a6f9b194cc197e639e7059dd4a7bf6879b247f9139993b6d30a844fb09566ad3
+    enemies:
+    - 2 undead hobgoblins
+    note: ''
+  dunmari-frontier-010/c002:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-combat.json
+    source_record_sha256: 3f119cb7c8e120388d34807928c509937f8d2b2ca4d6274a236a922ca498c0e2
+    enemies:
+    - Orc
+    - shapeshifting tower guards
+    note: One guard remains asleep. The transforming and sleeping guards are distinct.
+  dunmari-frontier-011/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-011/cleaned/dunmari-frontier-011-combat.json
+    source_record_sha256: 8ad27042058d6ade023b193394fc0c676339c4082b871446bbfc13b9ad82b09a
+    enemies:
+    - Undead gnoll
+    note: Killed before taking a regular turn.
+  dunmari-frontier-011/c002:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-011/cleaned/dunmari-frontier-011-combat.json
+    source_record_sha256: 9e9aba7d8d935349f52613d98d44f2c146a9ab5d4f05b33618391e418cc253b8
+    enemies:
+    - Goat-like demon
+    - 3 undead gnolls
+    note: Vola fights alongside the party.
+  dunmari-frontier-012/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-012/cleaned/dunmari-frontier-012-combat.json
+    source_record_sha256: d8707a824c07b5e984b782ae8ebaf5e9797ff7c044c9694c5a0ba49ac2615fd8
+    enemies:
+    - Gnoll leader
+    - gnoll hunters and other gnolls
+    - small flying demon
+    - 3 hyenas
+    note: Hyenas are put to sleep. The small demon dies before taking a regular turn.
+  dunmari-frontier-012/c002:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-012/cleaned/dunmari-frontier-012-combat.json
+    source_record_sha256: c1220319dabe532717cf8df8aa4005358bf2c5482c93b7e61e44f911366721c0
+    enemies:
+    - 4 gnolls
+    note: ''
+  dunmari-frontier-013/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-013/cleaned/dunmari-frontier-013-combat.json
+    source_record_sha256: 82e00285d17510951eb9fdb04c22093e70f1f4c64a1b4532e38a61c77db8ad49
+    enemies:
+    - Vine-and-mud creature
+    note: ''
+  dunmari-frontier-014/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-014/cleaned/dunmari-frontier-014-combat.json
+    source_record_sha256: be294e45f18b59c46269603a7f893cf95f87c83bfc8a53df5eacd5616db37a32
+    enemies:
+    - Living lightning
+    note: ''
+  dunmari-frontier-016/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-016/cleaned/dunmari-frontier-016-combat.json
+    source_record_sha256: 02d0c380d4654fcd1de6f12274a9a14bed30bb99bef41214c5e571f562527265
+    enemies:
+    - 3 steam creatures
+    - 3 dust creatures
+    - water-snake guardian
+    note: The guardian directs the creatures and survives under the pool.
+  dunmari-frontier-017/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-017/cleaned/dunmari-frontier-017-combat.json
+    source_record_sha256: c5a341f2fe0a97c1c2df273c10e7f4c70f5dd6932d35c51f8b4414d484aa566d
+    enemies:
+    - Gnoll leader
+    - 5 skeletal gnolls
+    note: ''
+  dunmari-frontier-019/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-019/cleaned/dunmari-frontier-019-combat.json
+    source_record_sha256: 2aee3c8b117404a5b732d493ba9be6ec75dcf9928da46528294b10cc1f87ae66
+    enemies:
+    - 7 giant vultures
+    note: ''
+  dunmari-frontier-019/c002:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-019/cleaned/dunmari-frontier-019-combat.json
+    source_record_sha256: 55f100763214762556542a1efeb9c2675b205c333ad401cb3f43b7a2383065e2
+    enemies:
+    - 3 ogres
+    note: One is described wielding a chain.
+  dunmari-frontier-020/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-020/cleaned/dunmari-frontier-020-combat.json
+    source_record_sha256: ec077c96d363e3dabd9b4895aca2673d30f169d344fa6b523a47df85150b3c87
+    enemies:
+    - Orc raiders, including their leader, armored spellcaster and fire caster
+    note: Role labels are retained without assuming that each label identifies a distinct additional orc.
+  dunmari-frontier-022/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-022/cleaned/dunmari-frontier-022-combat.json
+    source_record_sha256: 8f749fb53792cbc89bed25a30aba463b9e5a396d9eb30faa6bb6cb7ded0479e4
+    enemies:
+    - 2 adult manticores
+    - 2 young manticores
+    note: ''
+  dunmari-frontier-022/c002:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-022/cleaned/dunmari-frontier-022-combat.json
+    source_record_sha256: 8a3ca408f742e3180294416175f13945301354fecad23a29747fec19840a8474
+    enemies:
+    - Orc captain
+    - orc spellcaster
+    - orc soldiers
+    note: The captain surrenders. Soldier labels can overlap.
+  dunmari-frontier-025/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-025/cleaned/dunmari-frontier-025-combat.json
+    source_record_sha256: aabd74f63c26dbf402720312746012967c1cabac92838bd2fc5a748cb5b4a79e
+    enemies:
+    - 2 humanoid shadows
+    - 3 shadow dogs
+    note: ''
+  dunmari-frontier-026/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-026/cleaned/dunmari-frontier-026-combat.json
+    source_record_sha256: 71f516695319b1483547521c8e8cf68958e425c2704c90b38481431645d1393b
+    enemies:
+    - 7 shadows
+    note: Includes a shadow spawned from a slain mystai during combat.
+  dunmari-frontier-028/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-028/cleaned/dunmari-frontier-028-combat.json
+    source_record_sha256: 055e297b2172c713f25489fcdabb328938880505938955e0a0c487d179233994
+    enemies:
+    - Agata
+    - Samerki
+    note: Cintra and the fire elemental support the PCs.
+  dunmari-frontier-029/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-029/cleaned/dunmari-frontier-029-combat.json
+    source_record_sha256: 2d657e3bffb4e06ea4028ae02ede2dbbf617c06937eadd40903cbc2a1112cda6
+    enemies:
+    - Gnoll archers
+    - gnoll fighters
+    - rotting clawed creature
+    note: The source also has an unidentified spell attacker. Its identity and side are unresolved, so it is
+      not added as another enemy.
+  dunmari-frontier-030/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-030/cleaned/dunmari-frontier-030-combat.json
+    source_record_sha256: a08105c0776e56b391ff13fd81e415968c9683d8c479eb90246522a22ba721af
+    enemies:
+    - Hostile obsidian fly
+    note: The fly reverts to its figurine before taking a resolved attack.
+  dunmari-frontier-031/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-031/cleaned/dunmari-frontier-031-combat.json
+    source_record_sha256: 647c3b52b865aa8a92b52fc560fa9183d8805174b68c66ba9881026d2ca4dd51
+    enemies:
+    - Orc raiders, including shadow-using thieves
+    - jackalweres
+    - wereraven
+    note: The separate shadow creature hunting down the wereraven supports the party.
+  dunmari-frontier-034/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-034/cleaned/dunmari-frontier-034-combat.json
+    source_record_sha256: 8991a25824c20120b6e169cf5de9c7a148fa53d849ca7e5f60daff0b29cbeec0
+    enemies:
+    - Memory-eating red fungus
+    - 2 slime molds
+    note: The fungus survives. The continuous encounter includes the retreat into the slime ambush.
+  dunmari-frontier-034/c002:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-034/cleaned/dunmari-frontier-034-combat.json
+    source_record_sha256: bd0d9b8f5430fbd7dc24d4baec706d18c890c2a5e664f86aed7a4df9b761386f
+    enemies:
+    - Giant worm
+    - small worms
+    note: The giant fly is a party resource and is recalled safely.
+  dunmari-frontier-036/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-036/cleaned/dunmari-frontier-036-combat.json
+    source_record_sha256: 78ca29fc23adf7e061fdce5a89d30dcd09e876686f6459b6975f52f070b67b53
+    enemies:
+    - Wolf, later identified as Dag
+    note: Dag is subdued alive. Delwath's shadow beast supports the party.
+  dunmari-frontier-037/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-037/cleaned/dunmari-frontier-037-combat.json
+    source_record_sha256: 198aa5dd22b504d76e3bc439870d059cb5599253193babdfcfb42c9efafd0639
+    enemies:
+    - 4 grotesque animal-statue guardians
+    note: Includes crab-lion, goat-headed and snake-headed descriptions. The fourth form is not supplied here.
+  dunmari-frontier-037/c002:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-037/cleaned/dunmari-frontier-037-combat.json
+    source_record_sha256: 3c107830575d7e1afdef532ec1e084217ca9fc3eaf80d922e97d7ca5391a68f1
+    enemies:
+    - Breda
+    - Edmur
+    - male werewolf guard
+    note: All three revert to human bodies after death.
+  dunmari-frontier-037/c003:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-037/cleaned/dunmari-frontier-037-combat.json
+    source_record_sha256: 4b537b6959836513f9a548f8db0b93b728df4ae0a6f9132b7c871638c8664657
+    enemies:
+    - 2 returning werewolf guards
+    note: Both die before taking regular turns or transforming.
+  dunmari-frontier-037/c004:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-037/cleaned/dunmari-frontier-037-combat.json
+    source_record_sha256: 0ad7622a59e6a4cbef54989d4f51bfbaaccc1d628fa3df3b121f27c62a65269f
+    enemies:
+    - Werewolf leader
+    - 4 werewolf reinforcements
+    note: ''
+  dunmari-frontier-038/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-038/cleaned/dunmari-frontier-038-combat.json
+    source_record_sha256: a62702a3c7a55b7c9348e7858f7acb48cf30ca3e60ffe3e57f913db1a060f060
+    enemies:
+    - Werewolves, including the trap master
+    note: Vistra and Riswynn arrive on the party's side. The ending explicitly records three newly arriving
+      werewolves killed.
+  dunmari-frontier-039/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-039/cleaned/dunmari-frontier-039-combat.json
+    source_record_sha256: e5e8db65e0f4dd2cc5ba725baa1f39b24cf4d503f831171b995074f5d978921f
+    enemies:
+    - Werewolf man
+    - mouth-covered creature emerging from the sacrifice
+    - hostile shadow creature
+    note: The restrained woman and muttering captive are kept separate from the attacking manifestations. PC
+      compulsions occur within this encounter.
+  dunmari-frontier-043/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-043/cleaned/dunmari-frontier-043-combat.json
+    source_record_sha256: 76781cd42ee8f2ae42589e2a2beed3db45673a5e1ca948bbe9cafdd6fde3d152
+    enemies:
+    - Horn-bearing bandit scout
+    - 3 accompanying scouts
+    note: Initiative resolves signaling and intimidation. The companions flee before any resolved attack.
+  dunmari-frontier-043/c002:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-043/cleaned/dunmari-frontier-043-combat.json
+    source_record_sha256: c97bfabc3140bb06e42a0ea537b08ea4a36d0d322b319b58b90309c9ca4792d7
+    enemies:
+    - 2 wyverns
+    note: The hired bandits fight alongside the party.
+  dunmari-frontier-044/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-044/cleaned/dunmari-frontier-044-combat.json
+    source_record_sha256: 1ee2b864c3c5e9b6a56f73c8631b25b4da5d88a8ef32e2edbe734684fd54a89f
+    enemies:
+    - Kadmos
+    - Hektor
+    note: Marcella intervenes to stop the clash. Antonia's subsequent healing is outside the combat.
+  dunmari-frontier-044/c002:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-044/cleaned/dunmari-frontier-044-combat.json
+    source_record_sha256: 9626ea5d35cac1a39934e278fb6dc58a18c2fab9a86779f5ee2b6d41b5e1d5ea
+    enemies:
+    - Kadmos
+    - Casian
+    - Marcella
+    - Kadmos's summoned spirit
+    note: The summoned entity is described in a red gorilla-like form and later called a ghost. The seven hired
+      bandits and Delwath's shadow beast are party allies.
+  dunmari-frontier-045/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-045/cleaned/dunmari-frontier-045-combat.json
+    source_record_sha256: 064f388fc42873d35ed361d711e01cc053cebe77f94a5df132f2786e216f4de6
+    enemies:
+    - Poison troll
+    note: ''
+  dunmari-frontier-049/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-049/cleaned/dunmari-frontier-049-combat.json
+    source_record_sha256: 6e427db53adb3f620ce9c0668c2cd8e981888a4df0b5f25da4493f3cc6ffd9ac
+    enemies:
+    - Fausto
+    - lightning golem
+    - stained-glass guardians
+    note: Shifting positional labels are not counted as additional guardians. Riswynn is absent from the fight
+      despite her player's table participation.
+  dunmar-frontier-050/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-050/cleaned/dunmar-frontier-050-combat.json
+    source_record_sha256: 082102a0d828954b6dc52c6d486447cbb57d9ecc95457e5f2bedd2fd4a4a2e39
+    enemies:
+    - Shadow dogs
+    note: Dogs are killed or confined, with five surviving to continue the pursuit. No distinct-animal total
+      is calculated across both session-50 encounters.
+  dunmar-frontier-050/c002:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-050/cleaned/dunmar-frontier-050-combat.json
+    source_record_sha256: c2ab04192221553e6e5c0b9872d29f1b8879a58f287aea51a5e3b9097c147a6e
+    enemies:
+    - Pursuing shadow dogs
+    note: Continues the same pursuit after the earlier riverbank encounter. The ladder is a party ally.
+  dunmar-frontier-052/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-052/cleaned/dunmar-frontier-052-combat.json
+    source_record_sha256: 3339adb09ebdf7dda4b1e21993fcab9cee95c465950cf657fe23e6f22d2648d4
+    enemies:
+    - Mezzar in green-dragon form
+    note: Six Deno'qai, including Zevi, are present and killed by Mezzar. Their only extracted turn is lost
+      to surprise, so they are not listed as additional attacking enemies.
+  dunmar-frontier-052/c002:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-052/cleaned/dunmar-frontier-052-combat.json
+    source_record_sha256: 1a64d98b9af7f0ca22df7549ed81845bc973937bd6757cacbdbf718950b81036
+    enemies:
+    - Grimbaskal
+    - 4 snake people
+    note: Theba and Obel support the party. The lair contributes effects.
+  dunmari-frontier-054/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-054/cleaned/dunmari-frontier-054-combat.json
+    source_record_sha256: 02770a7af33987e084d0ee492d6aab34dc8911fdb84ec77ef555338fb699a193
+    enemies:
+    - Harpoon shadow
+    note: ''
+  dunmari-frontier-054/c002:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-054/cleaned/dunmari-frontier-054-combat.json
+    source_record_sha256: b2916225291ccc1c8ac0f1e5f3154ba26167a8463e169847f7cbf6c3c50f143a
+    enemies:
+    - 2 harpoon shadows
+    note: ''
+  dunmari-frontier-054/c003:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-054/cleaned/dunmari-frontier-054-combat.json
+    source_record_sha256: 9997c16707905fd425c364864683d90a4d047c52fdfdc7efdcb03dbad4f7b793
+    enemies:
+    - Animated trees and twig blights
+    - 2 fiendish wasp swarms
+    - demonic wolf
+    - demonic boars
+    note: New trees animate during the fight. The demon corpse is the source of threats. Yezali, hunting-cat
+      spirits and the wildfire spirit support the party.
+  dunmari-frontier-055/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-055/cleaned/dunmari-frontier-055-combat.json
+    source_record_sha256: cd939ff0d14df5af2c304b83ee77073ed911996d5eabeee9c5f7669d7aaf8b64
+    enemies:
+    - Hobgoblin soldiers
+    - greatsword officer
+    - longsword warlord
+    - one-armed hobgoblin wizard
+    note: Officer titles fluctuate in the source. Weapon roles distinguish the two officer actors.
+  dunmari-frontier-055/c002:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-055/cleaned/dunmari-frontier-055-combat.json
+    source_record_sha256: 31253a7e2f05d327326b5a5b35f89ec784617bf708d847add9d31986b7687a7e
+    enemies:
+    - Skeletal hobgoblin warlock
+    - skeletal minions and archers
+    - bone swarm
+    note: Skeletal role labels are grouped without inferring a total head count.
+  dunmari-frontier-056/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-056/cleaned/dunmari-frontier-056-combat.json
+    source_record_sha256: bf0e3bd1aa07595f7c404c95c538aeedc7d03b02e5faa53358777a39fdae320d
+    enemies:
+    - '6 shriveled dwarven undead: 4 archers and 2 shadow spellcasters'
+    note: Wight and positional labels overlap with the six established attackers.
+  dunmari-frontier-057/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-057/cleaned/dunmari-frontier-057-combat.json
+    source_record_sha256: 744532b05c40fa66c48aff530c602b1c987f08d4e21821b59df41a5ddb39f659
+    enemies:
+    - 2 corrupted dinosaurs
+    note: ''
+  dunmari-frontier-058/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-058/cleaned/dunmari-frontier-058-combat.json
+    source_record_sha256: a37983dbe91837336e895a4906efed48059036555cdbb9fc2561b99f0720268c
+    enemies:
+    - Spirit troll
+    note: ''
+  dunmari-frontier-058/c002:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-058/cleaned/dunmari-frontier-058-combat.json
+    source_record_sha256: d3ce43f0c7b47664e2226b8f65cfbd3e68c9af70111577c8fbf2a59bd6f7879c
+    enemies:
+    - Hagrim
+    - hostile spirit advisers
+    - summoned specters
+    - wraith
+    - swarm of limbs
+    note: Spirit role labels are retained without claiming that every label is a separate unique creature.
+  dunmari-frontier-059/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-059/cleaned/dunmari-frontier-059-combat.json
+    source_record_sha256: 640a9e671ba09a6a125dbd2503f39e31a88dd08e219cf97e231befb1edc041e3
+    enemies:
+    - 2 fire wasps
+    - corrupted flaming ankylosaurus
+    note: Enari and the magma dancer support or survive alongside the PCs.
+  dunmari-frontier-060/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-060/cleaned/dunmari-frontier-060-combat.json
+    source_record_sha256: 8952b69253a1d9107d1bc7d11aa8d2e8eb51083205b0a01610bb2432c252c09e
+    enemies:
+    - Skullcleaver pirate crew, including crossbow fighters and a crow's-nest sailor
+    note: Solo ship attack. The burning sail is an objective rather than another enemy.
+  dunmari-frontier-062/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-062/cleaned/dunmari-frontier-062-combat.json
+    source_record_sha256: 4dfb4c67e9e80a55b8760acd128fd14b7ebd6e374cdb445ebb9b7018b8852a4c
+    enemies:
+    - 3 sharks
+    - 3 hostile sailors or shark riders
+    note: The sailor and rider labels overlap. Two sailors die and one is held conscious.
+  dunmari-frontier-062/c002:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-062/cleaned/dunmari-frontier-062-combat.json
+    source_record_sha256: a0d37190a4399fe143830ad7bc6ea6def5385538035827f6381bd22dcbb8f9bc
+    enemies:
+    - Huge shark
+    - hidden mage
+    - 3 hostile sailors
+    - aboleth tentacle
+    note: The tentacle is an extension of the aboleth encountered separately afterward. The shark is polymorphed
+      and survives.
+  dunmari-frontier-062/c003:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-062/cleaned/dunmari-frontier-062-combat.json
+    source_record_sha256: 632270c173dca5bdbe50ecc4335917829a719bb79572f9fe155e50963d642269
+    enemies:
+    - Aboleth
+    - 3 charmed sea-elf knights
+    note: Alimash becomes enslaved during the fight, but the aboleth dies before he attacks the party. He remains
+      a PC in this roster.
+  dunmari-frontier-063/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-063/cleaned/dunmari-frontier-063-combat.json
+    source_record_sha256: eb9e0daabce99106fca2e7baa51edad107d27afd1710fbc0e2b72a99d7064126
+    enemies:
+    - 5 crystal swarms
+    note: ''
+  dunmari-frontier-063/c002:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-063/cleaned/dunmari-frontier-063-combat.json
+    source_record_sha256: 1d1163d0e66cf955c27743d45215f60c452d3dd4cd7ea10365f9ad5433bf8b2f
+    enemies:
+    - Petrified earth creature and magical core
+    - living Catapult boulder
+    - living lightning bolt
+    - living giant dragonfly
+    - living force hand
+    - 3 living chaos bolts
+    - living burning hand
+    note: Living spells are identified by their played forms. No published stat blocks inferred.
+  dunmari-frontier-064/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-064/cleaned/dunmari-frontier-064-combat.json
+    source_record_sha256: 7a58124cda5e0c224d1e442fa2c99975377ca54f5ee816ca7beb8f5eb71dd7ac
+    enemies: []
+    note: 'Environmental challenge: vortex and grasping water. No enemy creature established.'
+    other_opposition:
+    - Vortex and grasping water
+  dunmari-frontier-064/c002:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-064/cleaned/dunmari-frontier-064-combat.json
+    source_record_sha256: 801920333d1e74551dde47282d51cc33da90708300a8a022cff410e271e7dfc4
+    enemies:
+    - 9 animated or severed chains
+    - hostile shadows
+    note: Motua is being healed. Enari fights the shadows. One chain remains bound to Kenzo at the end.
+  dunmari-frontier-065/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-065/cleaned/dunmari-frontier-065-combat.json
+    source_record_sha256: 979134c124a042b0afda4865740f24aed36319cc90a8caf6b73c1238977bd1b9
+    enemies:
+    - Vondar One-Eye
+    - 2 twisted satyr-like creatures
+    note: The animated tent is controlled by Seeker.
+  dunmari-frontier-066/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-066/cleaned/dunmari-frontier-066-combat.json
+    source_record_sha256: 522eb3e85010f7db8caa964d4db0455ac141e9c3667e049bdae72455f9b36fa2
+    enemies:
+    - 3 mirror-shard swarms
+    note: ''
+  dunmari-frontier-066/c002:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-066/cleaned/dunmari-frontier-066-combat.json
+    source_record_sha256: b44b06469c3740f6954cab61d18c23d2bfac44662b2f8dc353c039db99eb2f71
+    enemies:
+    - Mirror Alimash
+    - false Arryn
+    note: Real Alimash and Arryn are rescued. The false Arryn is destroyed inside the Mirror Realm.
+  dunmari-frontier-067/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-067/cleaned/dunmari-frontier-067-combat.json
+    source_record_sha256: ce3f8da9a93efba432aee9216bd84c318337d93fce74db8d67949949f24b82f9
+    enemies:
+    - 5 cursed harpies
+    note: ''
+  dunmari-frontier-067/c002:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-067/cleaned/dunmari-frontier-067-combat.json
+    source_record_sha256: 2ed6aecee8af5341ed396293edbea76b7b6aa3976ccd263b0ba1d61d54c5726b
+    enemies:
+    - Agata
+    - Agata's mites and fleas
+    note: Baxter, the animated ladder and the obsidian fly support the party.
+  dunmari-frontier-070/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-070/cleaned/dunmari-frontier-070-combat.json
+    source_record_sha256: bec137892f6ed7666093eb7fdb4c99afa1ba3fff06e42e80e6816442f344e7d4
+    enemies:
+    - Large storm creature
+    - 2 tornado creatures
+    - 3 sound-creatures
+    note: Sound-creatures receive an initiative position but have no resolved turns before the escape.
+  dunmari-frontier-071/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-071/cleaned/dunmari-frontier-071-combat.json
+    source_record_sha256: 315150face1fdb975ff698581754b8c802c5b54fe653658d9536b43cbdc4a589
+    enemies:
+    - Ghostly Hralgar
+    note: The strangled Hralgar is the victim being rescued, distinct from the ghostly attacker.
+  dunmari-frontier-072/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-072/cleaned/dunmari-frontier-072-combat.json
+    source_record_sha256: 07e855b7b391f6c4118c8a16121b6a1cf8f68f4a3012060783eb9246ef3151a7
+    enemies:
+    - Ice-crowned woman and her crystalline heart
+    note: The heart is the woman's final exposed form or objective, not counted as an additional creature.
+  dunmari-frontier-075/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-075/cleaned/dunmari-frontier-075-combat.json
+    source_record_sha256: ea2300dd8c5b351a8c667be293c6f9d2db2778c4c3e41c48716b388db2b6fa15
+    enemies:
+    - Shadow Hunter
+    - shadow demon
+    - shadow dogs or mastiffs
+    note: Dog and mastiff labels are grouped. The large dog is not assumed to be an additional species.
+  dunmari-frontier-075/c002:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-075/cleaned/dunmari-frontier-075-combat.json
+    source_record_sha256: 9b7f940763776c0a29e7aa90822ede0e739f527bf289bd2483393cbafab24018
+    enemies: []
+    note: 'PC conflict: Kenzo strikes Wellby. No external enemy.'
+    other_opposition:
+    - Kenzo and Wellby (PC conflict)
+  dunmari-frontier-078/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-078/cleaned/dunmari-frontier-078-combat.json
+    source_record_sha256: 86343da3c1016a0d0cb92a84e53c5fa03e317301317fdb1b3953d0c30424cf7c
+    enemies:
+    - Kadmos
+    - Casian
+    - Antonia
+    - Evelina
+    - Hektor
+    - Valius
+    - Vargus
+    - Vola
+    - winged demon
+    note: Lubash, Murook, Drogmar and Ghorgra support the party. Vola is an attacker in this encounter despite
+      her earlier allied role.
+  dunmar-frontier-081/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-081/cleaned/dunmar-frontier-081-combat.json
+    source_record_sha256: 49c5e65fb1e2ece45816960ff32b1240e842c464ba52597d05f62cb07603d9aa
+    enemies:
+    - Urgall
+    note: ''
+  dunmar-frontier-081/c002:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-081/cleaned/dunmar-frontier-081-combat.json
+    source_record_sha256: fa73b0e3fed65eccd1d24430d09419eceef45105f1fb4646b20db73a26b9b7ef
+    enemies:
+    - Tentacled demon
+    - independently acting summoned tentacles
+    - tentacle minions
+    note: Sacred-water effects are associated with the same encounter. The animated ladder is a party ally.
+  dunmari-frontier-085/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-085/cleaned/dunmari-frontier-085-combat.json
+    source_record_sha256: 3b05ee8f46854a80de7bfa517b242d1236e804a032b735127a36fb65a0e74def
+    enemies:
+    - 2 manta-ray creatures
+    - water elemental
+    - 5 wave sparks
+    note: ''
+  dunmari-frontier-086/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-086/cleaned/dunmari-frontier-086-combat.json
+    source_record_sha256: bef4e70cbea0800c35dd6bd9e8c66e2bbbeecf5b687497e7394fe45d2fd799ee
+    enemies:
+    - Bound elemental Sh'shethis
+    - large fire elemental
+    - large air elemental
+    - fire minions
+    - air minions
+    note: The bound elemental is freed and calmed. Breaking the two remaining anchors releases fire and air
+      minions and one larger elemental of each kind.
+  dunmari-frontier-088/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-088/cleaned/dunmari-frontier-088-combat.json
+    source_record_sha256: 27fa77ef639ee4c62a47b25422426b3775f1f54ec4f18c90e25ad51f0da2817f
+    enemies:
+    - Wraith
+    - shades
+    - specters
+    note: The wraith is killed during the approach before taking a regular turn.
+  dunmari-frontier-088/c002:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-088/cleaned/dunmari-frontier-088-combat.json
+    source_record_sha256: 1c9905f23a8ef153128d2429373b3a6c6484993059d803748e10cf20b8322760
+    enemies:
+    - Grash
+    note: The ring and cloak contribute encounter effects. The ring is a separate target or objective rather
+      than an additional creature.
+    other_opposition:
+    - Ring of Undying
+  dunmari-frontier-091/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-091/cleaned/dunmari-frontier-091-combat.json
+    source_record_sha256: ef8c260712a66b82e23e4181529ebe9da08aea8eb4f6bde2137e32204025ef56
+    enemies:
+    - Shadow hunters
+    - 2 gloom stalkers
+    - raven hawks
+    note: Readied-spear, fear-casting and ice-armored labels are not automatically counted as three distinct
+      hunters.
+  dunmari-frontier-092/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-092/cleaned/dunmari-frontier-092-combat.json
+    source_record_sha256: d45a7840bb1e365603a15bcee6add39ffbc2a5f63c1d46bb23497c52c1fbd682
+    enemies:
+    - Iceworm
+    note: ''
+  dunmari-frontier-093/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-093/cleaned/dunmari-frontier-093-combat.json
+    source_record_sha256: d8fd12eb83463367a9f267263c7e850da7800b63abeaa3eac9047b5ea38e841f
+    enemies:
+    - White dragon
+    - 2 ice constructs
+    note: ''
+  dunmari-frontier-097/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-097/cleaned/dunmari-frontier-097-combat.json
+    source_record_sha256: 3e7f7c1441e00871b5a5b2bcc1281cfa6b14474e336f3796bab42851326b7bf0
+    enemies:
+    - Rhodar von Glauer
+    note: ''
+  dunmari-frontier-101/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-101/cleaned/dunmari-frontier-101-combat.json
+    source_record_sha256: fc8510a6484e55da09303d677a6bb3551ba585639357f35f2cfbba63d7e750ce
+    enemies:
+    - Tentacled portal guardian
+    - animated kelp minions
+    note: Portal current and poisonous goo are encounter hazards.
+  dunmari-frontier-101/c002:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-101/cleaned/dunmari-frontier-101-combat.json
+    source_record_sha256: 66f564272f3597d6e761d2c8d776e9e7088987a63ee9473820836d4f29e7c62c
+    enemies:
+    - Merfolk captain
+    - 4 merfolk warriors
+    note: The later fleeing guards are the same four warriors, not four reinforcements.
+  dunmari-frontier-102/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-102/cleaned/dunmari-frontier-102-combat.json
+    source_record_sha256: 68009e1c47e235819fde7c3fa698ebc27cb41a957dcaa0e6f48432e79a1b4900
+    enemies:
+    - Buruli
+    - merfolk captain and lieutenant
+    - chanting merfolk
+    - merfolk minions
+    - summoned tentacles
+    note: Officer labels and minion references may overlap. The thirteen transformed halfling crew are allies
+      or escapees, not additional merfolk enemies.
+  dunmari-frontier-104/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-104/cleaned/dunmari-frontier-104-combat.json
+    source_record_sha256: fae8418a83f0fe875c4e201d70d4ee54259f8c1dc3729fdc7421ce38a002682a
+    enemies:
+    - Wellby doppelganger
+    - pirates
+    note: Remotely observed fight. Kenzo's simulacrum fights the listed opponents while the PCs watch.
+  dunmari-frontier-104/c002:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-104/cleaned/dunmari-frontier-104-combat.json
+    source_record_sha256: 14c6ced5aad98be3c63da7837d037ba1d7f1927407542f4581bb056d7e496087
+    enemies:
+    - Damaged colossus
+    note: Recorded cycles include ten-minute Radiance holds.
+  dunmari-frontier-104/c003:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-104/cleaned/dunmari-frontier-104-combat.json
+    source_record_sha256: eb5a69f6b4336831080bfdaffad1ccf2015b5e025cfc120837106b2f2cd2a7f3
+    enemies:
+    - Stone golem
+    note: The same golem is encountered again after Seeker's escape.
+  dunmari-frontier-104/c004:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-104/cleaned/dunmari-frontier-104-combat.json
+    source_record_sha256: ac1179c363739d171de7b557fa0f6cf91ac24730ed1361afc3b6709a88f98b4e
+    enemies:
+    - Stone golem
+    note: Return encounter with the golem from the preceding entry.
+  dunmari-frontier-105/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-105/cleaned/dunmari-frontier-105-combat.json
+    source_record_sha256: 2bc17975f80a4f94aab8331eceacb9e0975df1d2fd567ff0c0cf3b7353136560
+    enemies:
+    - 2 air-earth creatures
+    - 2 fire-ice creatures
+    - mixed earth-water or air-mud-lightning creature
+    note: The fifth creature's elemental description shifts in the source. No definitive type chosen.
+  dunmari-frontier-106/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-106/cleaned/dunmari-frontier-106-combat.json
+    source_record_sha256: beb106a77ee7f23876c14340c5bd09d62c422fc9fd0fe33febb09fb3f0339242
+    enemies:
+    - Vine creature and wooden knot
+    - vine minions
+    note: The knot and vines are connected parts of the same threat around the Eldest.
+  dunmari-frontier-109/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-109/cleaned/dunmari-frontier-109-combat.json
+    source_record_sha256: 24ed6ca91cc860267440dc2eebad1974058d69f749fb5f23ca2bfa4fa003c9b1
+    enemies:
+    - 2 tower roof guardians
+    note: The same guardians pursue into the next encounter.
+  dunmari-frontier-109/c002:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-109/cleaned/dunmari-frontier-109-combat.json
+    source_record_sha256: 4be9fdf417d891ddfaf167a4de54381d938d68d1128ef7f63018f1147c88c5dc
+    enemies:
+    - 2 tower guardians
+    note: Continuation of the pursuit after a new initiative cycle.
+  dunmari-frontier-109/c003:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-109/cleaned/dunmari-frontier-109-combat.json
+    source_record_sha256: 75e3dd1f641f6a273b3d06c0ca9036b503b1b1a4a6034e5428a8ca5e3b0c6c30
+    enemies:
+    - Void sword
+    - 4 void daggers
+    - 2 force hands
+    note: ''
+  dunmari-frontier-110/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-110/cleaned/dunmari-frontier-110-combat.json
+    source_record_sha256: d2695247658a8c1be8b26bcc2e0a2e892f272d005ead250e3a10ab8a47504ba6
+    enemies:
+    - Fiend guarding the prison
+    note: ''
+  dunmari-frontier-110/c002:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-110/cleaned/dunmari-frontier-110-combat.json
+    source_record_sha256: 42c12ec11978b1266c41c2f8f65a2ba5ffd4a900c9ec3a3db0cae1da7a501ade
+    enemies:
+    - Ra'ghemdros
+    - 4 chimeras
+    - 13 hostile dragonets
+    note: Dimitaur, Milo and Tilly support the party. This entry belongs to Dunmari Frontier, with the separate
+      Dragonets campaign excluded.
+  dunmari-frontier-112/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-112/cleaned/dunmari-frontier-112-combat.json
+    source_record_sha256: c285c52aa01b5a674b61973e1be60f3287f00a2338cc2f07baafec31cf078823
+    enemies:
+    - Bizarro Delwath
+    note: The party's Delwath simulacrum is an ally, separate from the hostile double.
+  dunmari-frontier-112/c002:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-112/cleaned/dunmari-frontier-112-combat.json
+    source_record_sha256: 3c65db4b7d1490f1a773cee8ab12bb9a29961af7e8199cb554734102c03bed46
+    enemies:
+    - Bizarro Kenzo
+    - Bizarro Wellby
+    - Bizarro Seeker
+    - Bizarro Riswynn
+    - Dark Ladder
+    - fiery metal construct
+    - dark angel
+    note: The fiery construct and Dark Ladder serve Bizarro Seeker. The dark angel serves Bizarro Riswynn.
+      The party's simulacrum and stone construct are allies.
+  dunmari-frontier-113/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-113/cleaned/dunmari-frontier-113-combat.json
+    source_record_sha256: 8b50b16da679a9ab17f82242a6be3751039dbcb26f0958ea0248a5af888497d6
+    enemies:
+    - Dreadlord
+    - shades
+    - 2 wraiths
+    note: The two wraiths flee and are eliminated before the encounter ends.
+  dunmari-frontier-114/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-114/cleaned/dunmari-frontier-114-combat.json
+    source_record_sha256: e2f095bebe29c2a8b3088c00c6ef78dec61a7cdac76c3a1efb186266dd4e48fe
+    enemies:
+    - Conjoined spirit
+    - ashen-cloaked spirits
+    - spirit minions
+    note: Counts are not inferred by adding positional or visibility labels.
+  dunmari-frontier-114/c002:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-114/cleaned/dunmari-frontier-114-combat.json
+    source_record_sha256: f90526325b5419f28c86a9f0b206a60493aa615701461a8777410009b3153c99
+    enemies:
+    - Red mist
+    note: Banished during the collectively narrated retrieval and withdrawal, then returns alive.
+  dunmari-frontier-115/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-115/cleaned/dunmari-frontier-115-combat.json
+    source_record_sha256: 8cc776993ab8367dd542ea1a91457e3639e13d333abb6f2600bc3f3e6a14ad65
+    enemies:
+    - 2 living statues
+    note: ''
+  dunmari-frontier-116/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-116/cleaned/dunmari-frontier-116-combat.json
+    source_record_sha256: 3326923b6f2fdca7814f8240db82e5004dc14d31fe24fff6a78c232cbad305dd
+    enemies:
+    - Fausto
+    - 7 Chardonian war wizards
+    - chalyte knight
+    note: The Crown of Purity is a controlling object. The knight survives and submits to Kenzo afterward.
+  dunmari-frontier-116/c002:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-116/cleaned/dunmari-frontier-116-combat.json
+    source_record_sha256: 2a2d972e00fdc7c3356633805da391b82dad0ac4c0895b670a9c2e52ccffd586
+    enemies:
+    - Apollyon
+    note: The chalyte knight has switched to the party's side. Seeker's metal construct is also allied.
+  dunmari-frontier-117/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-117/cleaned/dunmari-frontier-117-combat.json
+    source_record_sha256: 709cf01cda377be4f802b11cd6eda23db32c0ac6ecb7387e3168783b2eb63dc5
+    enemies:
+    - Waves of hostile spirits
+    note: No total inferred from group attacks.
+  dunmari-frontier-117/c002:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-117/cleaned/dunmari-frontier-117-combat.json
+    source_record_sha256: 622f986de1766e00760c3c276db24e4e628e8473ad9f9107b5a74983043887ab
+    enemies:
+    - Apollyon
+    note: Pillars contribute hostile encounter effects and are separate targets or objectives. The chalyte
+      knight remains allied.
+    other_opposition:
+    - empowered pillars
+  dunmari-frontier-118/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-118/cleaned/dunmari-frontier-118-combat.json
+    source_record_sha256: 8a81e2de18d0f824d19029faafd2c86c6825504b0ed48817dd119e994f690fb1
+    enemies:
+    - Wendshade
+    - hostile shadow fey or harrowing shade
+    - shadow clouds
+    - corpse-born shades
+    note: The shadow-fey and harrowing-shade labels may describe the same sword-bearing attacker. Lirien and
+      her stag become hostile shades after being destroyed.
+  dunmari-frontier-120/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-120/cleaned/dunmari-frontier-120-combat.json
+    source_record_sha256: 69e018b9fb17742e9da67b1298a8e1e301a24ac466e334ca577d39272e5fac84
+    enemies: []
+    note: 'Friendly duel: Arendel is Delwath''s nonlethal opponent.'
+    other_opposition:
+    - Arendel (friendly duel)
+  dunmari-frontier-121/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-121/cleaned/dunmari-frontier-121-combat.json
+    source_record_sha256: f0a8365f70a135110f85f08c7d137fe7cadbec5e706be7fef02c9080067aa59d
+    enemies:
+    - Mounted duskhands
+    - giant wolf mounts
+    - small wolf minions
+    note: Rider and mount labels shift. No exact head count inferred.
+  dunmari-frontier-122/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-122/cleaned/dunmari-frontier-122-combat.json
+    source_record_sha256: 64f2d64d09ca82fcaa8966e1d3f80e06f7aa772f4c14d04a05a0e595164ed5ba
+    enemies:
+    - Flying shadow creature
+    - fearsmith
+    - 2 breath stealers
+    note: Charmed PCs are recorded as affected party members, not new enemy creatures.
+  dunmari-frontier-123/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-123/cleaned/dunmari-frontier-123-combat.json
+    source_record_sha256: ab88d4c148d005f52d9000aa5ce25545925ff4bc7622dfed30e1c693d0858de7
+    enemies:
+    - Flying shadow creatures
+    - wargs
+    - unseen archers
+    note: The continuous attack is resolved collectively. Archer identity and individual fates are not established.
+  dunmari-frontier-128/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-128/cleaned/dunmari-frontier-128-combat.json
+    source_record_sha256: 29cb229caa64098798d696c94343da0043831aa2180607965d94553fc354e5ef
+    enemies:
+    - 2 upper-floor guards
+    - guard boss
+    - animated chalyte statue or zombie
+    note: The boss inserts a lightning crystal into a wall statue, animating the hostile chalyte zombie. Dispel
+      Magic later returns it to stone.
+  dunmari-frontier-128/c002:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-128/cleaned/dunmari-frontier-128-combat.json
+    source_record_sha256: b1bf324ced69d7cea7247a623c838ebeb0cc50c458c03014b5cbb36c36694110
+    enemies:
+    - Chalyte sorcerer
+    - giant apprentice
+    note: The rescued giant is an ally. The apprentice remains alive when the tower falls, with its eventual
+      fate unresolved.
+  dunmari-frontier-128/c003:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-128/cleaned/dunmari-frontier-128-combat.json
+    source_record_sha256: 721fa54f33e991b417d3b2fc8c2461486433543079fddc1a4a595b7a4bd8f10f
+    enemies:
+    - Dhrukmir Skybreaker
+    note: The triceratops and stone construct support the party.
+  dunmari-frontier-129/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-129/cleaned/dunmari-frontier-129-combat.json
+    source_record_sha256: d15bbc6edfd137c8fac35c9034478e312b1a374bc585fc27e627b6c9f9859697
+    enemies:
+    - Hobgoblin riders
+    - silver-clad commander
+    - mecha centipede
+    note: The centipede serves as a mobile construct and battlefield. It is not treated as a normal beast.
+  dunmari-frontier-131/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-131/cleaned/dunmari-frontier-131-combat.json
+    source_record_sha256: a5bc082b232c1a76115c68c3ea3216ccaf8050ee8e6c410481bd2a5d9e104663
+    enemies:
+    - Empress of Chaos
+    - her army
+    - chaos-metal centipede
+    note: The mass attack is recorded at army scale. No complete individual-enemy count is reconstructed.
+  dunmari-frontier-131/c002:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-131/cleaned/dunmari-frontier-131-combat.json
+    source_record_sha256: a355a14800277765ef3ad0ca1f216400126139efaa55e421782c814a990c4010
+    enemies:
+    - Armored hobgoblin infantry
+    - hobgoblin archers
+    - unidentified fire caster
+    - unidentified commander or wall-spike controller
+    note: The controller's identity and overlap with other enemies are unresolved.
+  dunmari-frontier-132/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-132/cleaned/dunmari-frontier-132-combat.json
+    source_record_sha256: 4b6c8cfe82cf562f414a51d36ae13324f2d678717890b2a97996ceec13613d88
+    enemies:
+    - Hobgoblin archers and infantry
+    - direhawks
+    note: The captured Chaos Metal worm is a vehicle-like object and target, rather than an additional enemy
+      creature.
+  dunmari-frontier-132/c002:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-132/cleaned/dunmari-frontier-132-combat.json
+    source_record_sha256: 6569ecf021515ef87d0e35e5b48af3dac999ce6a77b000a334cd0ef557be368f
+    enemies:
+    - Hobgoblin warlord
+    - hobgoblin sorcerer and mage
+    - hobgoblin crossbowmen
+    - direhawk mounts
+    note: The separate deaths of the sorcerer and mage support two spellcaster roles.
+  dunmari-frontier-133/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-133/cleaned/dunmari-frontier-133-combat.json
+    source_record_sha256: 4486a2a573376088270f46cac32f7c2f5cf483b9bbd5092ad0044630ec2fd08e
+    enemies:
+    - Empress of Chaos
+    - 3 Metallic Storms
+    - Elemental Cataclysm
+    note: The Cataclysm appears after the Empress's death within the same continuous encounter.
+  dunmari-frontier-136/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-136/cleaned/dunmari-frontier-136-combat.json
+    source_record_sha256: 9c2d41219fd5cbcaf6f24235223fd9a0634c7f7554b26c386c2ae200fe0c3e1d
+    enemies:
+    - 2 tower gatekeepers, nicknamed Bob and Goldie
+    - stone drops
+    note: The silver and gold guards cannot securely be paired with Otesea and Elbos from this record.
+  dunmari-frontier-136/c002:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-136/cleaned/dunmari-frontier-136-combat.json
+    source_record_sha256: d268aab2fb1aad735aa34886eb61398f6b1cb54940f2bc89ff4ea0d2e2fd72f0
+    enemies:
+    - Naren
+    - metallic-blood guard
+    note: Ladder and Seeker 6 support the party.
+  dunmari-frontier-136/c003:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-136/cleaned/dunmari-frontier-136-combat.json
+    source_record_sha256: 015064f88821454ed4f352eeec69f0d70d1cf0fec7d10d8120a42eac0f687fc5
+    enemies:
+    - Queen of Ash
+    - metallic-blood guard
+    - iron centaur
+    - Essence of Mist
+    - air sparks
+    - cloud minions
+    note: Minions arrive or are summoned during the fight. The triceratops and animated ladder support the
+      party.
+  dunmari-frontier-137/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-137/cleaned/dunmari-frontier-137-combat.json
+    source_record_sha256: 062b17298619ea3e308ee22ba28fcbc2d36f17d58d1d2e7350ba2a3f207e5d44
+    enemies:
+    - Ooze segment in the ruined cistern
+    note: The stunned sample has no recorded turn. The larger ooze survives.
+  dunmari-frontier-137/c002:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-137/cleaned/dunmari-frontier-137-combat.json
+    source_record_sha256: e05035d5a5a47b8216c8c02261e371872495eae077a6aff3d542a3fd41a6981c
+    enemies:
+    - River ooze condensation
+    - connecting tendril
+    note: These are connected parts of the larger ooze rather than a confirmed count of separate creatures.
+  dunmari-frontier-138/c001:
+    source_combat: _sessions/dunmar-frontier/dunmari-frontier-138/cleaned/dunmari-frontier-138-combat.json
+    source_record_sha256: c6af6cb2323a98ab916d9f212c71703cbaa0eb57540b8138b8c0b9c69494fee9
+    enemies:
+    - Ooze
+    - ooze minions
+    note: The core is a phase or objective within the same encounter.
+    other_opposition:
+    - exposed Limbo core
+  mawar-adventures-002/c001:
+    source_combat: _sessions/mawar/mawar-adventures-002/cleaned/mawar-adventures-002-combat.json
+    source_record_sha256: 6d2be3903d129a5e82532bcf74399e5974161860497f60fa7bd7414d6a4f2b86
+    enemies:
+    - Azar
+    - drowned servant
+    note: Blu or Turk is Ryu's allied companion, not a third enemy.
+  mawar-adventures-003/c001:
+    source_combat: _sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-combat.json
+    source_record_sha256: 0112ae2a06922e25106f2db3e4832bf3af842535c3256feb11bdc25a8acf5668
+    enemies:
+    - 4 gargoyles
+    note: The snake-headed statue remains intact and never fully activates.
+  mawar-adventures-003/c002:
+    source_combat: _sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-combat.json
+    source_record_sha256: 0208bd8ea8a14d24d21fe4ecccec41fe10f0e6b9f16301c63c0339a465f61fcf
+    enemies:
+    - Stone guardian
+    note: Hiyasa is an escaping thief and participant, not another attacking monster. The guardian is distinct
+      from the depicted earth-lord.
+  mawar-adventures-004/c001:
+    source_combat: _sessions/mawar/mawar-adventures-004/cleaned/mawar-adventures-004-combat.json
+    source_record_sha256: 6f76a9c2bfa1bcb59bb5ffd3522f66f47d300ac64cf49ade7a6154c40615ab48
+    enemies:
+    - Armored fire warrior
+    - 4 steam creatures
+    note: Only three steam-creature deaths are separately established. The fourth creature's individual fate
+      is unclear.
+  mawar-adventures-004/c002:
+    source_combat: _sessions/mawar/mawar-adventures-004/cleaned/mawar-adventures-004-combat.json
+    source_record_sha256: f72bea32e243067b055a6b9e73420e9b635b508b91fdc1dcd62e4cce871c11c2
+    enemies:
+    - Fire mage
+    - controlled dragon turtle Chaessenth
+    note: The dragon turtle becomes an ally when freed from the controlling spell and kills the mage.
+  mawar-adventures-005/c001:
+    source_combat: _sessions/mawar/mawar-adventures-005/cleaned/mawar-adventures-005-combat.json
+    source_record_sha256: 58109c836bf797038284613bb3765f7dba525c5e48acc99d6481a97c61d9cf16
+    enemies:
+    - Marid
+    - water-burst scout
+    - scimitar water creatures
+    - 2 whip water creatures
+    note: Geo and Wazir's mechanical fish are allies. Distinct unnamed creatures are preserved only to the
+      extent supported by their described roles.
+  into-the-chasm-001/c001:
+    source_combat: _sessions/into-the-chasm/into-the-chasm-001/cleaned/into-the-chasm-001-combat.json
+    source_record_sha256: 1eaf5ba9eb488f4295402d7a6a54b7c6e8d88583edc8b9341b2721251204e39e
+    enemies:
+    - 2 ice-encased wolves
+    - 2 wind shades
+    - 4 Chasm Wisps
+    note: Kalima is an allied NPC.
+  into-the-chasm-003/c001:
+    source_combat: _sessions/into-the-chasm/into-the-chasm-003/cleaned/into-the-chasm-003-combat.json
+    source_record_sha256: cbae7236ec75ec8bc3121880ca694f4d74b3d8c0f2b1c49a6a38af46e90e365d
+    enemies:
+    - Labyrinth beast
+    - living snow echoes
+    note: Kalima, Rala and the summoned fey support the party. Positional living-snow labels are not totaled
+      as separate creatures.
+  into-the-chasm-005/c001:
+    source_combat: _sessions/into-the-chasm/into-the-chasm-005/cleaned/into-the-chasm-005-combat.json
+    source_record_sha256: 9f1e39e06326d79b62cefad4458caca99615b741f75b4caec02a063efd3ef33b
+    enemies:
+    - Orc God Caller
+    - lightning orc
+    - other orc soldiers
+    note: Two hypnotized soldiers are dispatched at resolution. Conduit and Rampart are retained as map or
+      role labels, without adding unsupported enemies.
+  into-the-chasm-006/c001:
+    source_combat: _sessions/into-the-chasm/into-the-chasm-006/cleaned/into-the-chasm-006-combat.json
+    source_record_sha256: 1077e2596a21e37662f01918bf51afa00570960cf2318eed9168cafe48b8ab33
+    enemies: []
+    note: 'PC intervention: Eolo''s compelled descent is stopped and the keystone is wrapped. No external enemy
+      creature is established.'
+    other_opposition:
+    - Eolo's compulsion from the keystone
+  into-the-chasm-006/c002:
+    source_combat: _sessions/into-the-chasm/into-the-chasm-006/cleaned/into-the-chasm-006-combat.json
+    source_record_sha256: 57f30b8268d6d490cc559e89a8c3b06f95f501f4a710b785c2adc58fd53dfea9
+    enemies:
+    - Portal wisps
+    note: The summoned Tricksy fey and evacuees are on the party's side.
+  labyrinths-of-the-lost-001/c001:
+    source_combat: _sessions/lablost/labyrinths-of-the-lost-001/cleaned/labyrinths-of-the-lost-001-combat.json
+    source_record_sha256: b6a1a75b279c8d677841566a9c118e3c0b571e7dc3e2cbb64a8d13a6c97d4b7d
+    enemies:
+    - '3 goblin jailers: warrior, boss lady and Morky'
+    note: ''
+  labyrinths-of-the-lost-001/c002:
+    source_combat: _sessions/lablost/labyrinths-of-the-lost-001/cleaned/labyrinths-of-the-lost-001-combat.json
+    source_record_sha256: 02fc80997db6815de71170604daedd9bd31d1f4c0d0d69c6ba911b0b1ded11ce
+    enemies:
+    - Folcan
+    - 2 goblin warriors
+    note: Keiko supports the party.
+  labyrinths-of-the-lost-002/c001:
+    source_combat: _sessions/lablost/labyrinths-of-the-lost-002/cleaned/labyrinths-of-the-lost-002-combat.json
+    source_record_sha256: b0522531df00ee9dc0fe8877293aa0f7c6122c457a39b235b794ce3f6ede91b9
+    enemies:
+    - Hobgoblin smokebinder
+    note: Steampup is an allied construct.
+  labyrinths-of-the-lost-002/c002:
+    source_combat: _sessions/lablost/labyrinths-of-the-lost-002/cleaned/labyrinths-of-the-lost-002-combat.json
+    source_record_sha256: 95b2e6aadc7021207497be1a2b0e60526e9f294548f90f0415e738e6f3994f17
+    enemies:
+    - Hobgoblin crossbow guard
+    note: ''
+  labyrinths-of-the-lost-003/c001:
+    source_combat: _sessions/lablost/labyrinths-of-the-lost-003/cleaned/labyrinths-of-the-lost-003-combat.json
+    source_record_sha256: 3587921415cb743512f2540f3d964e8c5970aa8e85b1c140e546ab06003c8dda
+    enemies:
+    - 7 pirate shades
+    note: Larger-shade labels do not imply additional enemies beyond the seven.
+  labyrinths-of-the-lost-003/c002:
+    source_combat: _sessions/lablost/labyrinths-of-the-lost-003/cleaned/labyrinths-of-the-lost-003-combat.json
+    source_record_sha256: 62f52bc3d5ac406cc242f92e9cfafc21d6c3c6aa0c55613124d9ee2055f71567
+    enemies:
+    - Grimstone's assistant
+    note: Killed after surrendering within the continuing encounter.
+  labyrinths-of-the-lost-003/c003:
+    source_combat: _sessions/lablost/labyrinths-of-the-lost-003/cleaned/labyrinths-of-the-lost-003-combat.json
+    source_record_sha256: 09a84c3f0a509ea5e046f43f815e354762b8475ac66abee94babd9d800619435
+    enemies:
+    - Grimstone
+    - stone wasp
+    - stone spider swarm
+    note: Steampup is an allied construct.
+  lost-in-the-feywild-005/c001:
+    source_combat: _sessions/feywild/lost-in-the-feywild-005/cleaned/lost-in-the-feywild-005-combat.json
+    source_record_sha256: 7a04fa6c2767adc42d857f6fad32fc4807bff6da8cda67fc6ee1b662148e4ec1
+    enemies:
+    - '2 mushroom men: Alden-like captor and corpse-posing attacker'
+    note: Menestheus is a noncombatant being rescued.

@@ -8,8 +8,8 @@
     "transcriptSha256": "4d6c2412f3ecfbeeeb7ce93bf6be2a79c32ba4731de436a2dcfdbb589eac7df9",
     "segments": {
       "path": "_sessions/mawar/mawar-adventures-004/cleaned/mawar-adventures-004-segments.json",
-      "sha256": "3c0948504c4d612ad75981093bf9f2cea28ec15d9926e6006c6165611893d7b3",
-      "schemaVersion": "0.1-transcript-segments-draft"
+      "sha256": "59018c6deeda5c4df0fc1b22e2579acd3a40943cd77bcf8fc23bd64c10e2c4f3",
+      "schemaVersion": "0.2-transcript-segments-draft"
     }
   },
   "combats": [

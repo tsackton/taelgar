@@ -88,15 +88,18 @@ Recording length (transcript timestamp extent): **3:05:18** (0:00:03 → 3:05:21
 
 | Segment class | Elapsed (h:mm:ss) | Elapsed share | Speaking (h:mm:ss) | Speaking share |
 | --- | --- | --- | --- | --- |
-| Gameplay | 2:37:59 | 86.0% | 1:47:47 | 89.2% |
+| Exploration | 1:20:39 | 44.1% | 0:54:26 | 45.1% |
+| Social interaction | 0:20:13 | 11.1% | 0:11:53 | 9.8% |
+| Planning | 0:27:45 | 15.2% | 0:21:07 | 17.5% |
 | Combat | 0:00:00 | 0.0% | 0:00:00 | 0.0% |
 | Meta discussion | 0:14:37 | 8.0% | 0:10:44 | 8.9% |
 | Table talk | 0:11:08 | 6.1% | 0:02:15 | 1.9% |
-| Session framing | 0:00:00 | 0.0% | 0:00:00 | 0.0% |
-| **Total** | 3:03:44 | 100.0% | 2:00:47 | 100.0% |
+| Session framing | 0:05:00 | 2.7% | 0:03:36 | 3.0% |
+| Gameplay | 0:23:22 | 12.8% | 0:16:45 | 13.9% |
+| **Total** | 3:02:44 | 100.0% | 2:00:47 | 100.0% |
 
 Elapsed time spans each segment block’s first UID start through its latest UID end, including internal pauses. Speaking time covers timestamped utterances only. Each millisecond is counted once; overlaps belong to the earliest source block or utterance. Each share uses its own column total.
 
-Outside segment spans: **0:01:34** in gaps between blocks.
+Outside segment spans: **0:02:35** in gaps between blocks.
 
 Sources · [Transcript](dunmari-frontier-069-transcript.md) · [Time Markers](dunmari-frontier-069-time-markers.json) · [Location Markers](dunmari-frontier-069-location-markers.json) · [Entity Map](dunmari-frontier-069-entity-map.json) · [Interactions](dunmari-frontier-069-interactions.json) · [Combat](dunmari-frontier-069-combat.json) · [Segments](dunmari-frontier-069-segments.json) · [Watch data](dunmari-frontier-069-time-watches.json) · [Session 068 handoff](../../dunmari-frontier-068/cleaned/dunmari-frontier-068-transcript.md) · [Earlier forest party](../../../../Campaigns/Dunmari%20Frontier%20Campaign/Session%20Notes/Session%2052%20%28DuFr%29.md) · [Mace vision date](../../../../Campaigns/Dunmari%20Frontier%20Campaign/Mirror%20Visions/Mace%20of%20Terror%20Vision.md) · [Eyes vision date](../../../../Campaigns/Dunmari%20Frontier%20Campaign/Mirror%20Visions/Hralgar%27s%20Eyes%20Vision.md) · [Session 069 dated record](../../../../Campaigns/Dunmari%20Frontier%20Campaign/Session%20Notes/Session%2069%20%28DuFr%29.md)

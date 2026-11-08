@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-016",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-016/cleaned/dunmari-frontier-016-session.yaml",
@@ -17,12 +17,76 @@
       "category": "session_framing"
     },
     {
-      "id": "s002",
+      "id": "s006",
       "source": {
         "startUid": "u0003",
+        "endUid": "u0049"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u0050",
+        "endUid": "u0178"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u0179",
+        "endUid": "u0196"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u0197",
+        "endUid": "u0225"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0226",
+        "endUid": "u0679"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u0680",
+        "endUid": "u0700"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u0701",
+        "endUid": "u1130"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u1131",
+        "endUid": "u1201"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u1202",
         "endUid": "u1261"
       },
-      "category": "gameplay"
+      "category": "exploration"
     },
     {
       "id": "s003",
@@ -34,9 +98,89 @@
       "note": "No initiative roll is recorded; repeated party turns alternate with enemy turns through the defeat of the steam and dust creatures."
     },
     {
-      "id": "s004",
+      "id": "s014",
       "source": {
         "startUid": "u1656",
+        "endUid": "u1675"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u1676",
+        "endUid": "u1731"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u1732",
+        "endUid": "u1831"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u1832",
+        "endUid": "u2039"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u2040",
+        "endUid": "u2056"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u2057",
+        "endUid": "u2091"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u2092",
+        "endUid": "u2157"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u2158",
+        "endUid": "u2200"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u2201",
+        "endUid": "u2339"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u2340",
+        "endUid": "u2482"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s023",
+      "source": {
+        "startUid": "u2483",
         "endUid": "u2492"
       },
       "category": "gameplay"

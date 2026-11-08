@@ -75,15 +75,18 @@ Recording length (transcript timestamp extent): **3:18:09** (0:00:00 → 3:18:09
 
 | Segment class | Elapsed (h:mm:ss) | Elapsed share | Speaking (h:mm:ss) | Speaking share |
 | --- | --- | --- | --- | --- |
-| Gameplay | 1:46:17 | 53.8% | 1:27:56 | 57.1% |
+| Exploration | 0:52:31 | 26.6% | 0:43:50 | 28.5% |
+| Social interaction | 0:40:31 | 20.5% | 0:33:21 | 21.7% |
+| Planning | 0:01:40 | 0.8% | 0:01:11 | 0.8% |
 | Combat | 1:26:42 | 43.9% | 1:03:06 | 41.0% |
 | Meta discussion | 0:00:00 | 0.0% | 0:00:00 | 0.0% |
 | Table talk | 0:04:34 | 2.3% | 0:02:57 | 1.9% |
-| Session framing | 0:00:00 | 0.0% | 0:00:00 | 0.0% |
-| **Total** | 3:17:34 | 100.0% | 2:33:59 | 100.0% |
+| Session framing | 0:02:41 | 1.4% | 0:02:02 | 1.3% |
+| Gameplay | 0:08:38 | 4.4% | 0:07:31 | 4.9% |
+| **Total** | 3:17:18 | 100.0% | 2:33:59 | 100.0% |
 
 Elapsed time spans each segment block’s first UID start through its latest UID end, including internal pauses. Speaking time covers timestamped utterances only. Each millisecond is counted once; overlaps belong to the earliest source block or utterance. Each share uses its own column total.
 
-Outside segment spans: **0:00:35** in gaps between blocks.
+Outside segment spans: **0:00:51** in gaps between blocks.
 
 Sources · [Transcript](into-the-chasm-003-transcript.md) · [Time Markers](into-the-chasm-003-time-markers.json) · [Location Markers](into-the-chasm-003-location-markers.json) · [Entity Map](into-the-chasm-003-entity-map.json) · [Interactions](into-the-chasm-003-interactions.json) · [Combat](into-the-chasm-003-combat.json) · [Segments](into-the-chasm-003-segments.json) · [Watch data](into-the-chasm-003-time-watches.json) · [Dated campaign record](../../../../Campaigns/One%20Shots/Into%20the%20Chasm/Into%20the%20Chasm%20-%20Episode%2003.md)

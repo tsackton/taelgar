@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-134",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-134/cleaned/dunmari-frontier-134-session.yaml",
@@ -17,13 +17,29 @@
       "category": "table_talk"
     },
     {
-      "id": "s002",
+      "id": "s026",
       "source": {
         "startUid": "u0007",
-        "endUid": "u0111"
+        "endUid": "u0046"
       },
       "category": "gameplay",
       "note": "The opening advances the afternoon battle resolution and establishes the camp; it is active narrated play rather than a recap-only framing span."
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0047",
+        "endUid": "u0089"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s027",
+      "source": {
+        "startUid": "u0090",
+        "endUid": "u0111"
+      },
+      "category": "gameplay"
     },
     {
       "id": "s003",
@@ -34,12 +50,44 @@
       "category": "table_talk"
     },
     {
-      "id": "s004",
+      "id": "s028",
       "source": {
         "startUid": "u0121",
-        "endUid": "u0301"
+        "endUid": "u0174"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s029",
+      "source": {
+        "startUid": "u0175",
+        "endUid": "u0196"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0197",
+        "endUid": "u0251"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s030",
+      "source": {
+        "startUid": "u0252",
+        "endUid": "u0281"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s031",
+      "source": {
+        "startUid": "u0282",
+        "endUid": "u0301"
+      },
+      "category": "exploration"
     },
     {
       "id": "s005",
@@ -55,7 +103,7 @@
         "startUid": "u0357",
         "endUid": "u0538"
       },
-      "category": "gameplay",
+      "category": "exploration",
       "note": "The mirror’s historical events are played vision narration; no initiative or repeated ordered combat turns are established."
     },
     {
@@ -67,12 +115,20 @@
       "category": "meta_discussion"
     },
     {
-      "id": "s008",
+      "id": "s032",
       "source": {
         "startUid": "u0544",
+        "endUid": "u0558"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u0559",
         "endUid": "u0584"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s009",
@@ -94,6 +150,14 @@
       "id": "s011",
       "source": {
         "startUid": "u0680",
+        "endUid": "u0686"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s033",
+      "source": {
+        "startUid": "u0687",
         "endUid": "u0692"
       },
       "category": "gameplay"
@@ -118,10 +182,18 @@
       "id": "s014",
       "source": {
         "startUid": "u0780",
+        "endUid": "u0949"
+      },
+      "category": "social_interaction",
+      "note": "Beryl’s vision and its question-and-answer discussion remain active play; the long later research debate is separated."
+    },
+    {
+      "id": "s034",
+      "source": {
+        "startUid": "u0950",
         "endUid": "u0978"
       },
-      "category": "gameplay",
-      "note": "Beryl’s vision and its question-and-answer discussion remain active play; the long later research debate is separated."
+      "category": "planning"
     },
     {
       "id": "s015",
@@ -148,12 +220,28 @@
       "category": "meta_discussion"
     },
     {
-      "id": "s018",
+      "id": "s035",
       "source": {
         "startUid": "u1097",
-        "endUid": "u1168"
+        "endUid": "u1127"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s036",
+      "source": {
+        "startUid": "u1128",
+        "endUid": "u1131"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u1132",
+        "endUid": "u1168"
+      },
+      "category": "social_interaction"
     },
     {
       "id": "s019",

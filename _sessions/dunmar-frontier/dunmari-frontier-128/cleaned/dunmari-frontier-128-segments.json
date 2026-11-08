@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-128",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-128/cleaned/dunmari-frontier-128-session.yaml",
@@ -22,7 +22,7 @@
         "startUid": "u0003",
         "endUid": "u0044"
       },
-      "category": "gameplay"
+      "category": "session_framing"
     },
     {
       "id": "s003",
@@ -33,12 +33,28 @@
       "category": "meta_discussion"
     },
     {
-      "id": "s004",
+      "id": "s012",
       "source": {
         "startUid": "u0168",
-        "endUid": "u0356"
+        "endUid": "u0223"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0224",
+        "endUid": "u0329"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u0330",
+        "endUid": "u0356"
+      },
+      "category": "planning"
     },
     {
       "id": "s005",
@@ -49,12 +65,36 @@
       "category": "combat"
     },
     {
-      "id": "s006",
+      "id": "s014",
       "source": {
         "startUid": "u1383",
-        "endUid": "u1712"
+        "endUid": "u1408"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u1409",
+        "endUid": "u1416"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u1417",
+        "endUid": "u1651"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u1652",
+        "endUid": "u1712"
+      },
+      "category": "planning"
     },
     {
       "id": "s007",
@@ -66,12 +106,20 @@
       "note": "Initiative begins before a sustained player catch-up; combat precedence keeps that interruption inside this encounter."
     },
     {
-      "id": "s008",
+      "id": "s017",
       "source": {
         "startUid": "u2836",
-        "endUid": "u3014"
+        "endUid": "u2866"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u2867",
+        "endUid": "u3014"
+      },
+      "category": "planning"
     },
     {
       "id": "s009",

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-074",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-074/cleaned/dunmari-frontier-074-session.yaml",
@@ -26,9 +26,65 @@
       "note": "Recap of the preceding adventures; the actual return is already played at u0001–u0009."
     },
     {
-      "id": "s003",
+      "id": "s013",
       "source": {
         "startUid": "u0018",
+        "endUid": "u0036"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u0037",
+        "endUid": "u0126"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0127",
+        "endUid": "u0284"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u0285",
+        "endUid": "u0352"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u0353",
+        "endUid": "u0442"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u0443",
+        "endUid": "u0569"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u0570",
+        "endUid": "u0620"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u0621",
         "endUid": "u0680"
       },
       "category": "gameplay"
@@ -42,12 +98,36 @@
       "category": "table_talk"
     },
     {
-      "id": "s005",
+      "id": "s020",
       "source": {
         "startUid": "u0688",
+        "endUid": "u0726"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u0727",
+        "endUid": "u0756"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0757",
+        "endUid": "u0844"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u0845",
         "endUid": "u0905"
       },
-      "category": "gameplay"
+      "category": "exploration"
     },
     {
       "id": "s006",
@@ -59,12 +139,36 @@
       "note": "Extended player discussion of unavailable illusion and duplicate spells, rather than a new played action."
     },
     {
-      "id": "s007",
+      "id": "s023",
       "source": {
         "startUid": "u0930",
+        "endUid": "u0961"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u0962",
+        "endUid": "u1217"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s024",
+      "source": {
+        "startUid": "u1218",
+        "endUid": "u1306"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s025",
+      "source": {
+        "startUid": "u1307",
         "endUid": "u1450"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s008",
@@ -76,9 +180,81 @@
       "note": "Explicit discussion of the campaign stakes, artifact risks and whether to give up a message stone; the offer resumes in play at u1502."
     },
     {
-      "id": "s009",
+      "id": "s026",
       "source": {
         "startUid": "u1502",
+        "endUid": "u1550"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s027",
+      "source": {
+        "startUid": "u1551",
+        "endUid": "u1602"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s028",
+      "source": {
+        "startUid": "u1603",
+        "endUid": "u1644"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s029",
+      "source": {
+        "startUid": "u1645",
+        "endUid": "u1710"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s030",
+      "source": {
+        "startUid": "u1711",
+        "endUid": "u1735"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s031",
+      "source": {
+        "startUid": "u1736",
+        "endUid": "u1794"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s032",
+      "source": {
+        "startUid": "u1795",
+        "endUid": "u1851"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s033",
+      "source": {
+        "startUid": "u1852",
+        "endUid": "u1906"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s034",
+      "source": {
+        "startUid": "u1907",
+        "endUid": "u1944"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u1945",
         "endUid": "u2017"
       },
       "category": "gameplay",

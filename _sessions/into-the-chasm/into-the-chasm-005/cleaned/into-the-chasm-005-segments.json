@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "into-the-chasm-005",
     "sessionYaml": "_sessions/into-the-chasm/into-the-chasm-005/cleaned/into-the-chasm-005-session.yaml",
@@ -20,9 +20,18 @@
       "id": "s002",
       "source": {
         "startUid": "u0005",
-        "endUid": "u0179"
+        "endUid": "u0110"
       },
       "category": "gameplay",
+      "note": "The opening describes the party’s current view and resolves Ekko’s earlier contact with Eidrikas; it is interwoven with active play rather than a standalone recap."
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u0111",
+        "endUid": "u0179"
+      },
+      "category": "social_interaction",
       "note": "The opening describes the party’s current view and resolves Ekko’s earlier contact with Eidrikas; it is interwoven with active play rather than a standalone recap."
     },
     {
@@ -37,9 +46,17 @@
       "id": "s004",
       "source": {
         "startUid": "u0197",
-        "endUid": "u0268"
+        "endUid": "u0239"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u0240",
+        "endUid": "u0268"
+      },
+      "category": "planning"
     },
     {
       "id": "s005",
@@ -55,7 +72,7 @@
         "startUid": "u0277",
         "endUid": "u0293"
       },
-      "category": "gameplay"
+      "category": "exploration"
     },
     {
       "id": "s007",
@@ -66,12 +83,93 @@
       "category": "table_talk"
     },
     {
-      "id": "s008",
+      "id": "s014",
       "source": {
         "startUid": "u0309",
+        "endUid": "u0359"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u0360",
+        "endUid": "u0386"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u0387",
+        "endUid": "u0402"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u0403",
+        "endUid": "u0937"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u0938",
+        "endUid": "u1031"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u1032",
+        "endUid": "u1102"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u1103",
+        "endUid": "u1215"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u1216",
+        "endUid": "u1316"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u1317",
+        "endUid": "u1348"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u1349",
+        "endUid": "u1519"
+      },
+      "category": "exploration",
+      "note": "Brief technical interruptions and map setup remain within the active exploration and attack preparation."
+    },
+    {
+      "id": "s023",
+      "source": {
+        "startUid": "u1520",
         "endUid": "u1623"
       },
-      "category": "gameplay",
+      "category": "planning",
       "note": "Brief technical interruptions and map setup remain within the active exploration and attack preparation."
     },
     {
@@ -88,7 +186,7 @@
         "startUid": "u2750",
         "endUid": "u2755"
       },
-      "category": "gameplay"
+      "category": "session_framing"
     },
     {
       "id": "s011",

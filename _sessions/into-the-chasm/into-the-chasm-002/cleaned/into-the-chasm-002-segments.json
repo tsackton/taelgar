@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "into-the-chasm-002",
     "sessionYaml": "_sessions/into-the-chasm/into-the-chasm-002/cleaned/into-the-chasm-002-session.yaml",
@@ -25,12 +25,69 @@
       "category": "session_framing"
     },
     {
-      "id": "s003",
+      "id": "s007",
       "source": {
         "startUid": "u0025",
+        "endUid": "u0108"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u0109",
+        "endUid": "u0122"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u0123",
+        "endUid": "u0144"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u0145",
+        "endUid": "u0197"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0198",
+        "endUid": "u0867"
+      },
+      "category": "exploration",
+      "note": "Exploration, environmental checks and creature evasions never establish initiative or a repeated ordered turn cycle."
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u0868",
+        "endUid": "u1113"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u1114",
+        "endUid": "u1192"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u1193",
         "endUid": "u1760"
       },
-      "category": "gameplay",
+      "category": "exploration",
       "note": "Exploration, environmental checks and creature evasions never establish initiative or a repeated ordered turn cycle."
     },
     {
@@ -45,6 +102,14 @@
       "id": "s005",
       "source": {
         "startUid": "u1771",
+        "endUid": "u1917"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u1918",
         "endUid": "u1959"
       },
       "category": "gameplay",

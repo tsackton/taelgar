@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-100",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-100/cleaned/dunmari-frontier-100-session.yaml",
@@ -9,12 +9,20 @@
   },
   "segments": [
     {
-      "id": "s001",
+      "id": "s015",
       "source": {
         "startUid": "u0001",
-        "endUid": "u0118"
+        "endUid": "u0048"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0049",
+        "endUid": "u0118"
+      },
+      "category": "session_framing"
     },
     {
       "id": "s002",
@@ -30,7 +38,7 @@
         "startUid": "u0199",
         "endUid": "u0600"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s004",
@@ -46,7 +54,7 @@
         "startUid": "u0649",
         "endUid": "u0699"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s006",
@@ -62,7 +70,7 @@
         "startUid": "u0720",
         "endUid": "u0760"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s008",
@@ -78,7 +86,7 @@
         "startUid": "u0785",
         "endUid": "u1235"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s010",
@@ -89,12 +97,116 @@
       "category": "meta_discussion"
     },
     {
-      "id": "s011",
+      "id": "s016",
       "source": {
         "startUid": "u1560",
+        "endUid": "u1653"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u1654",
+        "endUid": "u1793"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u1794",
+        "endUid": "u2072"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u2073",
+        "endUid": "u2165"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u2166",
+        "endUid": "u2229"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u2230",
+        "endUid": "u2272"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u2273",
+        "endUid": "u2330"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s023",
+      "source": {
+        "startUid": "u2331",
+        "endUid": "u2491"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s024",
+      "source": {
+        "startUid": "u2492",
+        "endUid": "u2537"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s025",
+      "source": {
+        "startUid": "u2538",
+        "endUid": "u2664"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u2665",
+        "endUid": "u3088"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s026",
+      "source": {
+        "startUid": "u3089",
+        "endUid": "u3145"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s027",
+      "source": {
+        "startUid": "u3146",
+        "endUid": "u3195"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s028",
+      "source": {
+        "startUid": "u3196",
         "endUid": "u3215"
       },
-      "category": "gameplay",
+      "category": "planning",
       "note": "Planning, reconnaissance, non-initiative distraction and stealth remain active play; the table stops before rolling initiative at u3216–u3221."
     },
     {

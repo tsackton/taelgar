@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-064",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-064/cleaned/dunmari-frontier-064-session.yaml",
@@ -17,12 +17,108 @@
       "category": "session_framing"
     },
     {
-      "id": "s002",
+      "id": "s014",
       "source": {
         "startUid": "u0051",
-        "endUid": "u0629"
+        "endUid": "u0100"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u0101",
+        "endUid": "u0108"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u0109",
+        "endUid": "u0166"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u0167",
+        "endUid": "u0195"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u0196",
+        "endUid": "u0206"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u0207",
+        "endUid": "u0246"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u0247",
+        "endUid": "u0304"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u0305",
+        "endUid": "u0337"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u0338",
+        "endUid": "u0387"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s023",
+      "source": {
+        "startUid": "u0388",
+        "endUid": "u0412"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s024",
+      "source": {
+        "startUid": "u0413",
+        "endUid": "u0447"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s025",
+      "source": {
+        "startUid": "u0448",
+        "endUid": "u0497"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0498",
+        "endUid": "u0629"
+      },
+      "category": "social_interaction"
     },
     {
       "id": "s003",
@@ -33,12 +129,20 @@
       "category": "meta_discussion"
     },
     {
-      "id": "s004",
+      "id": "s026",
       "source": {
         "startUid": "u0641",
+        "endUid": "u0743"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0744",
         "endUid": "u0960"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s005",
@@ -52,9 +156,25 @@
       "id": "s006",
       "source": {
         "startUid": "u0975",
+        "endUid": "u1064"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s027",
+      "source": {
+        "startUid": "u1065",
+        "endUid": "u1084"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s028",
+      "source": {
+        "startUid": "u1085",
         "endUid": "u1120"
       },
-      "category": "gameplay"
+      "category": "exploration"
     },
     {
       "id": "s007",
@@ -66,12 +186,20 @@
       "note": "No initiative roll: the vortex confrontation repeats an ordered Kenzo, Enari, Izzarak turn cycle."
     },
     {
-      "id": "s008",
+      "id": "s029",
       "source": {
         "startUid": "u1232",
+        "endUid": "u1325"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u1326",
         "endUid": "u1499"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s009",
@@ -86,9 +214,33 @@
       "id": "s010",
       "source": {
         "startUid": "u2016",
-        "endUid": "u2280"
+        "endUid": "u2191"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s030",
+      "source": {
+        "startUid": "u2192",
+        "endUid": "u2233"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s031",
+      "source": {
+        "startUid": "u2234",
+        "endUid": "u2251"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s032",
+      "source": {
+        "startUid": "u2252",
+        "endUid": "u2280"
+      },
+      "category": "social_interaction"
     },
     {
       "id": "s011",

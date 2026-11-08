@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-067",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-067/cleaned/dunmari-frontier-067-session.yaml",
@@ -22,7 +22,7 @@
         "startUid": "u0019",
         "endUid": "u0037"
       },
-      "category": "gameplay"
+      "category": "session_framing"
     },
     {
       "id": "s010",
@@ -33,12 +33,44 @@
       "category": "session_framing"
     },
     {
-      "id": "s011",
+      "id": "s012",
       "source": {
         "startUid": "u0071",
-        "endUid": "u0777"
+        "endUid": "u0200"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u0201",
+        "endUid": "u0386"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u0387",
+        "endUid": "u0408"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u0409",
+        "endUid": "u0643"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u0644",
+        "endUid": "u0777"
+      },
+      "category": "exploration"
     },
     {
       "id": "s003",
@@ -50,12 +82,108 @@
       "note": "No initiative roll; repeated ordered turns are explicitly confirmed at u0994–u1005. The song and countercharms introduce the continuous encounter."
     },
     {
-      "id": "s004",
+      "id": "s016",
       "source": {
         "startUid": "u1210",
-        "endUid": "u2093"
+        "endUid": "u1243"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u1244",
+        "endUid": "u1271"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u1272",
+        "endUid": "u1386"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u1387",
+        "endUid": "u1399"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u1400",
+        "endUid": "u1492"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u1493",
+        "endUid": "u1527"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u1528",
+        "endUid": "u1583"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s023",
+      "source": {
+        "startUid": "u1584",
+        "endUid": "u1592"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s024",
+      "source": {
+        "startUid": "u1593",
+        "endUid": "u1620"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s025",
+      "source": {
+        "startUid": "u1621",
+        "endUid": "u1732"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u1733",
+        "endUid": "u1991"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s026",
+      "source": {
+        "startUid": "u1992",
+        "endUid": "u2018"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s027",
+      "source": {
+        "startUid": "u2019",
+        "endUid": "u2093"
+      },
+      "category": "social_interaction"
     },
     {
       "id": "s005",
@@ -69,6 +197,14 @@
       "id": "s006",
       "source": {
         "startUid": "u2613",
+        "endUid": "u3074"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s028",
+      "source": {
+        "startUid": "u3075",
         "endUid": "u3110"
       },
       "category": "gameplay"
@@ -82,12 +218,36 @@
       "category": "meta_discussion"
     },
     {
-      "id": "s008",
+      "id": "s029",
       "source": {
         "startUid": "u3141",
-        "endUid": "u3229"
+        "endUid": "u3147"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s030",
+      "source": {
+        "startUid": "u3148",
+        "endUid": "u3156"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s031",
+      "source": {
+        "startUid": "u3157",
+        "endUid": "u3172"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u3173",
+        "endUid": "u3229"
+      },
+      "category": "session_framing"
     },
     {
       "id": "s009",

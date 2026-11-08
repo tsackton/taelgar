@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-118",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-118/cleaned/dunmari-frontier-118-session.yaml",
@@ -34,9 +34,33 @@
       "note": "Retrospective recap, including corrected timing of Apollyon’s defeat and the morning return; no earlier event is played out here."
     },
     {
-      "id": "s004",
+      "id": "s011",
       "source": {
         "startUid": "u0054",
+        "endUid": "u0113"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u0114",
+        "endUid": "u0148"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0149",
+        "endUid": "u0334"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u0335",
         "endUid": "u0365"
       },
       "category": "gameplay"
@@ -50,12 +74,44 @@
       "category": "table_talk"
     },
     {
-      "id": "s006",
+      "id": "s014",
       "source": {
         "startUid": "u0372",
-        "endUid": "u0705"
+        "endUid": "u0450"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u0451",
+        "endUid": "u0473"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u0474",
+        "endUid": "u0485"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u0486",
+        "endUid": "u0617"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u0618",
+        "endUid": "u0705"
+      },
+      "category": "planning"
     },
     {
       "id": "s007",
@@ -74,9 +130,17 @@
       "category": "meta_discussion"
     },
     {
-      "id": "s009",
+      "id": "s018",
       "source": {
         "startUid": "u2304",
+        "endUid": "u2321"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u2322",
         "endUid": "u2353"
       },
       "category": "gameplay"

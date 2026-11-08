@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-094",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-094/cleaned/dunmari-frontier-094-session.yaml",
@@ -9,9 +9,17 @@
   },
   "segments": [
     {
-      "id": "s001",
+      "id": "s008",
       "source": {
         "startUid": "u0001",
+        "endUid": "u0120"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0121",
         "endUid": "u0351"
       },
       "category": "gameplay"
@@ -26,12 +34,140 @@
       "note": "Extended out-of-character review of existing clues, cover stories, and plans; brief interface remarks remain within the discussion."
     },
     {
-      "id": "s003",
+      "id": "s009",
       "source": {
         "startUid": "u0546",
-        "endUid": "u1667"
+        "endUid": "u0559"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u0560",
+        "endUid": "u0565"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u0566",
+        "endUid": "u0584"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u0585",
+        "endUid": "u0626"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u0627",
+        "endUid": "u0668"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u0669",
+        "endUid": "u0716"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u0717",
+        "endUid": "u0736"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u0737",
+        "endUid": "u0919"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u0920",
+        "endUid": "u1009"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u1010",
+        "endUid": "u1023"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u1024",
+        "endUid": "u1050"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u1051",
+        "endUid": "u1060"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u1061",
+        "endUid": "u1266"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u1267",
+        "endUid": "u1339"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u1340",
+        "endUid": "u1402"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s023",
+      "source": {
+        "startUid": "u1403",
+        "endUid": "u1516"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s024",
+      "source": {
+        "startUid": "u1517",
+        "endUid": "u1667"
+      },
+      "category": "social_interaction"
     },
     {
       "id": "s004",
@@ -43,12 +179,36 @@
       "note": "Equipment options and attunement mechanics become sustained out-of-character discussion, ending with session pacing."
     },
     {
-      "id": "s005",
+      "id": "s025",
       "source": {
         "startUid": "u1739",
-        "endUid": "u2181"
+        "endUid": "u1745"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s026",
+      "source": {
+        "startUid": "u1746",
+        "endUid": "u1800"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s027",
+      "source": {
+        "startUid": "u1801",
+        "endUid": "u1807"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u1808",
+        "endUid": "u2181"
+      },
+      "category": "social_interaction"
     },
     {
       "id": "s006",

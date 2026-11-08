@@ -76,15 +76,18 @@ Recording length (transcript timestamp extent): **4:33:57** (0:00:03 → 4:34:00
 
 | Segment class | Elapsed (h:mm:ss) | Elapsed share | Speaking (h:mm:ss) | Speaking share |
 | --- | --- | --- | --- | --- |
-| Gameplay | 2:53:21 | 63.3% | 1:58:28 | 65.0% |
+| Exploration | 0:15:56 | 5.8% | 0:10:40 | 5.9% |
+| Social interaction | 0:29:59 | 11.0% | 0:18:37 | 10.2% |
+| Planning | 1:30:25 | 33.1% | 1:04:03 | 35.1% |
 | Combat | 1:26:24 | 31.6% | 0:53:20 | 29.3% |
 | Meta discussion | 0:07:33 | 2.8% | 0:05:22 | 2.9% |
 | Table talk | 0:03:52 | 1.4% | 0:02:48 | 1.5% |
 | Session framing | 0:02:33 | 0.9% | 0:02:16 | 1.2% |
-| **Total** | 4:33:42 | 100.0% | 3:02:15 | 100.0% |
+| Gameplay | 0:36:27 | 13.3% | 0:25:09 | 13.8% |
+| **Total** | 4:33:08 | 100.0% | 3:02:15 | 100.0% |
 
 Elapsed time spans each segment block’s first UID start through its latest UID end, including internal pauses. Speaking time covers timestamped utterances only. Each millisecond is counted once; overlaps belong to the earliest source block or utterance. Each share uses its own column total.
 
-Outside segment spans: **0:00:15** in gaps between blocks.
+Outside segment spans: **0:00:48** in gaps between blocks.
 
 Sources · [Transcript](dunmari-frontier-028-transcript.md) · [Time Markers](dunmari-frontier-028-time-markers.json) · [Location Markers](dunmari-frontier-028-location-markers.json) · [Entity Map](dunmari-frontier-028-entity-map.json) · [Interactions](dunmari-frontier-028-interactions.json) · [Combat](dunmari-frontier-028-combat.json) · [Segments](dunmari-frontier-028-segments.json) · [Watch data](dunmari-frontier-028-time-watches.json) · [Session 28 note](../../../../Campaigns/Dunmari%20Frontier%20Campaign/Session%20Notes/Session%2028%20%28DuFr%29.md) · [Flaming Bowstring note](../../../../Campaigns/Dunmari%20Frontier%20Campaign/Treasure/Flaming%20Bowstring.md)

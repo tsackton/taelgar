@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "mawar-adventures-003",
     "sessionYaml": "_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-session.yaml",
@@ -22,7 +22,7 @@
         "startUid": "u0006",
         "endUid": "u0074"
       },
-      "category": "gameplay"
+      "category": "session_framing"
     },
     {
       "id": "s003",
@@ -33,12 +33,124 @@
       "category": "session_framing"
     },
     {
-      "id": "s004",
+      "id": "s010",
       "source": {
         "startUid": "u0152",
-        "endUid": "u1273"
+        "endUid": "u0330"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u0331",
+        "endUid": "u0348"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u0349",
+        "endUid": "u0359"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u0360",
+        "endUid": "u0374"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u0375",
+        "endUid": "u0431"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u0432",
+        "endUid": "u0443"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u0444",
+        "endUid": "u0514"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u0515",
+        "endUid": "u0580"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u0581",
+        "endUid": "u0610"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u0611",
+        "endUid": "u0678"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u0679",
+        "endUid": "u0694"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u0695",
+        "endUid": "u0717"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u0718",
+        "endUid": "u0766"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s023",
+      "source": {
+        "startUid": "u0767",
+        "endUid": "u0792"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0793",
+        "endUid": "u1273"
+      },
+      "category": "exploration"
     },
     {
       "id": "s005",
@@ -50,12 +162,36 @@
       "note": "Initiative begins as the statues animate; retain the mixed final turn that explicitly ends initiative."
     },
     {
-      "id": "s006",
+      "id": "s024",
       "source": {
         "startUid": "u1810",
-        "endUid": "u2560"
+        "endUid": "u1914"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s025",
+      "source": {
+        "startUid": "u1915",
+        "endUid": "u1940"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u1941",
+        "endUid": "u2469"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s026",
+      "source": {
+        "startUid": "u2470",
+        "endUid": "u2560"
+      },
+      "category": "social_interaction"
     },
     {
       "id": "s007",
@@ -67,12 +203,36 @@
       "note": "Begins with the spear declaration leading into initiative; ordered rescue turns continue after the guardian dies until the mud hardens and the jar is returned."
     },
     {
-      "id": "s008",
+      "id": "s027",
       "source": {
         "startUid": "u3475",
-        "endUid": "u3798"
+        "endUid": "u3554"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u3555",
+        "endUid": "u3679"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s028",
+      "source": {
+        "startUid": "u3680",
+        "endUid": "u3764"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s029",
+      "source": {
+        "startUid": "u3765",
+        "endUid": "u3798"
+      },
+      "category": "meta_discussion"
     },
     {
       "id": "s009",

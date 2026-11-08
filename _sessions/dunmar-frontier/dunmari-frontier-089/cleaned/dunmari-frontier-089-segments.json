@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-089",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-089/cleaned/dunmari-frontier-089-session.yaml",
@@ -17,13 +17,239 @@
       "category": "table_talk"
     },
     {
-      "id": "s002",
+      "id": "s007",
       "source": {
         "startUid": "u0002",
-        "endUid": "u1641"
+        "endUid": "u0086"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u0087",
+        "endUid": "u0123"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u0124",
+        "endUid": "u0133"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u0134",
+        "endUid": "u0191"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u0192",
+        "endUid": "u0250"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u0251",
+        "endUid": "u0264"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u0265",
+        "endUid": "u0279"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u0280",
+        "endUid": "u0419"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u0420",
+        "endUid": "u0476"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u0477",
+        "endUid": "u0531"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u0532",
+        "endUid": "u0581"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u0582",
+        "endUid": "u0598"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0599",
+        "endUid": "u0807"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u0808",
+        "endUid": "u0850"
       },
       "category": "gameplay",
       "note": "Kitchen nightmares, upstairs specters and library wasps resolve without initiative or an established repeating ordered turn cycle; these brief actions remain gameplay."
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u0851",
+        "endUid": "u0948"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u0949",
+        "endUid": "u0964"
+      },
+      "category": "gameplay",
+      "note": "Kitchen nightmares, upstairs specters and library wasps resolve without initiative or an established repeating ordered turn cycle; these brief actions remain gameplay."
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u0965",
+        "endUid": "u1066"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s023",
+      "source": {
+        "startUid": "u1067",
+        "endUid": "u1092"
+      },
+      "category": "gameplay",
+      "note": "Kitchen nightmares, upstairs specters and library wasps resolve without initiative or an established repeating ordered turn cycle; these brief actions remain gameplay."
+    },
+    {
+      "id": "s024",
+      "source": {
+        "startUid": "u1093",
+        "endUid": "u1172"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s025",
+      "source": {
+        "startUid": "u1173",
+        "endUid": "u1186"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s026",
+      "source": {
+        "startUid": "u1187",
+        "endUid": "u1218"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s027",
+      "source": {
+        "startUid": "u1219",
+        "endUid": "u1273"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s028",
+      "source": {
+        "startUid": "u1274",
+        "endUid": "u1295"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s029",
+      "source": {
+        "startUid": "u1296",
+        "endUid": "u1375"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s030",
+      "source": {
+        "startUid": "u1376",
+        "endUid": "u1395"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s031",
+      "source": {
+        "startUid": "u1396",
+        "endUid": "u1530"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s032",
+      "source": {
+        "startUid": "u1531",
+        "endUid": "u1569"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s033",
+      "source": {
+        "startUid": "u1570",
+        "endUid": "u1588"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s034",
+      "source": {
+        "startUid": "u1589",
+        "endUid": "u1641"
+      },
+      "category": "planning"
     },
     {
       "id": "s003",

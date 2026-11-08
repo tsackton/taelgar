@@ -33,7 +33,7 @@ participants:
   gameRole: DM
   transcriptIdentifiers:
   - Tim Sackton
-sourceInputPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-116/sources/merged-transcript.vtt
+sourceInputPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-116/sources/merged.transcript.vtt
 sourceConfigPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-116/sources/dunmar-frontier-session116.yaml
 participantsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-116/sources/dunmar-frontier-core-plus-riswynn-participants.yaml
 preparedSourcePath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-116/cleaned/dunmari-frontier-116-source-prepared.md
@@ -48,14 +48,14 @@ transcriptProcessing:
   issues: 0
   artifacts:
     original:
-      path: sources/merged-transcript.vtt
-      sha256: 3b9892cc9cc9f388ef85094760d4e56b0689aac7486e2ae43d8b076d477c037e
+      path: sources/merged.transcript.vtt
+      sha256: 614d7b18d100471023927c86c0d37aaa294705b210e9ce6756121c24c7cf623d
     prepared:
       path: cleaned/dunmari-frontier-116-source-prepared.md
-      sha256: f2e1d0a437fef4ce159f1ef4d6c61b60b8c17010cdfbddafcceb387c0c19a727
+      sha256: 79bd070f24f78893409acccc093fad7c7b80e90566ac1496c6dcbab012b8bd5f
     cleaned:
       path: cleaned/dunmari-frontier-116-source-cleaned.md
-      sha256: 6205121bb0c07a1e1cef2747788da0afedc552291b5af93b097d971b27c62d39
+      sha256: 6a5016dee3526be33bccbd1906c5ff22e74d5cc5b53ed720f023c0330048aaf9
     polishedMarkdown:
       path: cleaned/dunmari-frontier-116-transcript.md
       sha256: 424a2e070fe8ec6b107afda56d6fbfa579b0539fd2cc1839ea9f58d12e257aca

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-090",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-090/cleaned/dunmari-frontier-090-session.yaml",
@@ -42,12 +42,68 @@
       "category": "session_framing"
     },
     {
-      "id": "s005",
+      "id": "s014",
       "source": {
         "startUid": "u0041",
-        "endUid": "u1641"
+        "endUid": "u0128"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u0129",
+        "endUid": "u0434"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u0435",
+        "endUid": "u0495"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0496",
+        "endUid": "u1054"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u1055",
+        "endUid": "u1086"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u1087",
+        "endUid": "u1338"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u1339",
+        "endUid": "u1351"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u1352",
+        "endUid": "u1641"
+      },
+      "category": "social_interaction"
     },
     {
       "id": "s006",
@@ -59,12 +115,20 @@
       "note": "The table explicitly steps up a level to debate how to handle the paranoid king."
     },
     {
-      "id": "s007",
+      "id": "s021",
       "source": {
         "startUid": "u1666",
+        "endUid": "u1701"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u1702",
         "endUid": "u1783"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s008",
@@ -75,12 +139,28 @@
       "category": "table_talk"
     },
     {
-      "id": "s009",
+      "id": "s022",
       "source": {
         "startUid": "u1787",
-        "endUid": "u2085"
+        "endUid": "u1842"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s023",
+      "source": {
+        "startUid": "u1843",
+        "endUid": "u1930"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u1931",
+        "endUid": "u2085"
+      },
+      "category": "social_interaction"
     },
     {
       "id": "s010",
@@ -91,9 +171,17 @@
       "category": "meta_discussion"
     },
     {
-      "id": "s011",
+      "id": "s024",
       "source": {
         "startUid": "u2095",
+        "endUid": "u2100"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u2101",
         "endUid": "u2115"
       },
       "category": "gameplay"
