@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmar-frontier-139",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-139/cleaned/dunmar-frontier-139-session.yaml",
@@ -12,6 +12,22 @@
       "id": "s001",
       "source": {
         "startUid": "u0001",
+        "endUid": "u0206"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u0207",
+        "endUid": "u0294"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u0295",
         "endUid": "u0412"
       },
       "category": "gameplay"
@@ -31,7 +47,7 @@
         "startUid": "u0575",
         "endUid": "u1016"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s004",
@@ -43,12 +59,86 @@
       "note": "The farewell turns to retrospective deaths, unresolved prisoners, and requests for NPC updates."
     },
     {
-      "id": "s005",
+      "id": "s013",
       "source": {
         "startUid": "u1312",
-        "endUid": "u2148"
+        "endUid": "u1459"
       },
       "category": "gameplay",
+      "note": "Narrated epilogues and played farewells, including Kecha’s earlier story; these revelations and actions are active play."
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u1460",
+        "endUid": "u1486"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u1487",
+        "endUid": "u1576"
+      },
+      "category": "social_interaction",
+      "note": "Narrated epilogues and played farewells, including Kecha’s earlier story; these revelations and actions are active play."
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u1577",
+        "endUid": "u1668"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u1669",
+        "endUid": "u1674"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u1675",
+        "endUid": "u1718"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u1719",
+        "endUid": "u1735"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u1736",
+        "endUid": "u1830"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u1831",
+        "endUid": "u1892"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u1893",
+        "endUid": "u2148"
+      },
+      "category": "social_interaction",
       "note": "Narrated epilogues and played farewells, including Kecha’s earlier story; these revelations and actions are active play."
     },
     {

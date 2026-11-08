@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-077",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-077/cleaned/dunmari-frontier-077-session.yaml",
@@ -17,13 +17,119 @@
       "category": "table_talk"
     },
     {
-      "id": "s002",
+      "id": "s007",
       "source": {
         "startUid": "u0004",
-        "endUid": "u1941"
+        "endUid": "u0036"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u0037",
+        "endUid": "u0229"
+      },
+      "category": "planning",
+      "note": "Tactical discussion is embedded in active telepathic planning, dinner and the narrated palace tour; brief connection and map interruptions remain in that ongoing activity."
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0230",
+        "endUid": "u0658"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u0659",
+        "endUid": "u0947"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u0948",
+        "endUid": "u0962"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u0963",
+        "endUid": "u0989"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u0990",
+        "endUid": "u1042"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u1043",
+        "endUid": "u1386"
+      },
+      "category": "social_interaction",
+      "note": "Tactical discussion is embedded in active telepathic planning, dinner and the narrated palace tour; brief connection and map interruptions remain in that ongoing activity."
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u1387",
+        "endUid": "u1603"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u1604",
+        "endUid": "u1647"
       },
       "category": "gameplay",
       "note": "Tactical discussion is embedded in active telepathic planning, dinner and the narrated palace tour; brief connection and map interruptions remain in that ongoing activity."
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u1648",
+        "endUid": "u1729"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u1730",
+        "endUid": "u1775"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u1776",
+        "endUid": "u1928"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u1929",
+        "endUid": "u1941"
+      },
+      "category": "planning"
     },
     {
       "id": "s003",
@@ -34,12 +140,36 @@
       "category": "table_talk"
     },
     {
-      "id": "s004",
+      "id": "s020",
       "source": {
         "startUid": "u1965",
-        "endUid": "u2496"
+        "endUid": "u1982"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u1983",
+        "endUid": "u2147"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u2148",
+        "endUid": "u2268"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u2269",
+        "endUid": "u2496"
+      },
+      "category": "planning"
     },
     {
       "id": "s005",

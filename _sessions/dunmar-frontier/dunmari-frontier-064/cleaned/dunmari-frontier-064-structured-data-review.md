@@ -90,15 +90,18 @@ Recording length (transcript timestamp extent): **3:19:21** (0:00:05 → 3:19:26
 
 | Segment class | Elapsed (h:mm:ss) | Elapsed share | Speaking (h:mm:ss) | Speaking share |
 | --- | --- | --- | --- | --- |
-| Gameplay | 2:09:54 | 65.3% | 1:31:36 | 64.4% |
-| Combat | 0:49:42 | 25.0% | 0:34:02 | 23.9% |
-| Meta discussion | 0:02:47 | 1.4% | 0:02:09 | 1.5% |
-| Table talk | 0:11:01 | 5.5% | 0:09:28 | 6.7% |
-| Session framing | 0:05:36 | 2.8% | 0:04:53 | 3.4% |
-| **Total** | 3:18:59 | 100.0% | 2:22:08 | 100.0% |
+| Exploration | 0:33:37 | 17.0% | 0:24:07 | 17.0% |
+| Social interaction | 1:02:04 | 31.3% | 0:40:41 | 28.6% |
+| Planning | 0:12:38 | 6.4% | 0:09:02 | 6.4% |
+| Combat | 0:49:42 | 25.1% | 0:34:02 | 23.9% |
+| Meta discussion | 0:08:21 | 4.2% | 0:07:20 | 5.2% |
+| Table talk | 0:11:01 | 5.6% | 0:09:28 | 6.7% |
+| Session framing | 0:09:51 | 5.0% | 0:08:31 | 6.0% |
+| Gameplay | 0:10:59 | 5.5% | 0:08:58 | 6.3% |
+| **Total** | 3:18:13 | 100.0% | 2:22:08 | 100.0% |
 
 Elapsed time spans each segment block’s first UID start through its latest UID end, including internal pauses. Speaking time covers timestamped utterances only. Each millisecond is counted once; overlaps belong to the earliest source block or utterance. Each share uses its own column total.
 
-Outside segment spans: **0:00:22** in gaps between blocks.
+Outside segment spans: **0:01:08** in gaps between blocks.
 
 Sources · [Transcript](dunmari-frontier-064-transcript.md) · [Time Markers](dunmari-frontier-064-time-markers.json) · [Location Markers](dunmari-frontier-064-location-markers.json) · [Entity Map](dunmari-frontier-064-entity-map.json) · [Interactions](dunmari-frontier-064-interactions.json) · [Combat](dunmari-frontier-064-combat.json) · [Segments](dunmari-frontier-064-segments.json) · [Watch data](dunmari-frontier-064-time-watches.json) · [Session 059: same-actor afternoon handoff and infant nicknames](../../dunmari-frontier-059/cleaned/dunmari-frontier-059-transcript.md) · [Session 064 dated campaign record](../../../../Campaigns/Dunmari%20Frontier%20Campaign/Session%20Notes/Session%2064%20%28DuFr%29.md)

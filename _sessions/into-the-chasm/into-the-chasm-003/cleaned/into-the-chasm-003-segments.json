@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "into-the-chasm-003",
     "sessionYaml": "_sessions/into-the-chasm/into-the-chasm-003/cleaned/into-the-chasm-003-session.yaml",
@@ -49,12 +49,60 @@
       "category": "combat"
     },
     {
-      "id": "s006",
+      "id": "s014",
       "source": {
         "startUid": "u1361",
-        "endUid": "u1903"
+        "endUid": "u1391"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u1392",
+        "endUid": "u1464"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u1465",
+        "endUid": "u1526"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u1527",
+        "endUid": "u1586"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u1587",
+        "endUid": "u1652"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u1653",
+        "endUid": "u1781"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u1782",
+        "endUid": "u1903"
+      },
+      "category": "exploration"
     },
     {
       "id": "s007",
@@ -70,7 +118,7 @@
         "startUid": "u1911",
         "endUid": "u2159"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s009",
@@ -84,9 +132,17 @@
       "id": "s010",
       "source": {
         "startUid": "u2170",
+        "endUid": "u2499"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u2500",
         "endUid": "u2547"
       },
-      "category": "gameplay"
+      "category": "session_framing"
     },
     {
       "id": "s011",
@@ -102,7 +158,7 @@
         "startUid": "u2555",
         "endUid": "u2580"
       },
-      "category": "gameplay"
+      "category": "planning"
     },
     {
       "id": "s013",

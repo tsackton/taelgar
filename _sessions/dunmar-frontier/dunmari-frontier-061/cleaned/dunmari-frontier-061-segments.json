@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-061",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-061/cleaned/dunmari-frontier-061-session.yaml",
@@ -17,9 +17,41 @@
       "category": "table_talk"
     },
     {
-      "id": "s002",
+      "id": "s006",
       "source": {
         "startUid": "u0002",
+        "endUid": "u0054"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u0055",
+        "endUid": "u0112"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0113",
+        "endUid": "u0206"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u0207",
+        "endUid": "u0281"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u0282",
         "endUid": "u0310"
       },
       "category": "gameplay"
@@ -33,12 +65,68 @@
       "category": "table_talk"
     },
     {
-      "id": "s004",
+      "id": "s010",
       "source": {
         "startUid": "u0320",
-        "endUid": "u1243"
+        "endUid": "u0386"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u0387",
+        "endUid": "u0543"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u0544",
+        "endUid": "u0579"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u0580",
+        "endUid": "u0702"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u0703",
+        "endUid": "u0758"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u0759",
+        "endUid": "u0817"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u0818",
+        "endUid": "u0925"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0926",
+        "endUid": "u1243"
+      },
+      "category": "social_interaction"
     },
     {
       "id": "s005",

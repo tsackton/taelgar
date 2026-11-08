@@ -71,15 +71,18 @@ Recording length (transcript timestamp extent): **4:08:06** (0:00:03 → 4:08:09
 
 | Segment class | Elapsed (h:mm:ss) | Elapsed share | Speaking (h:mm:ss) | Speaking share |
 | --- | --- | --- | --- | --- |
-| Gameplay | 3:41:28 | 89.5% | 2:22:01 | 87.5% |
+| Exploration | 0:17:24 | 7.0% | 0:12:54 | 8.0% |
+| Social interaction | 2:42:03 | 65.6% | 1:38:21 | 60.6% |
+| Planning | 0:24:19 | 9.8% | 0:17:58 | 11.1% |
 | Combat | 0:00:00 | 0.0% | 0:00:00 | 0.0% |
-| Meta discussion | 0:24:05 | 9.7% | 0:18:57 | 11.7% |
+| Meta discussion | 0:24:05 | 9.8% | 0:18:57 | 11.7% |
 | Table talk | 0:02:00 | 0.8% | 0:01:17 | 0.8% |
 | Session framing | 0:00:00 | 0.0% | 0:00:00 | 0.0% |
-| **Total** | 4:07:33 | 100.0% | 2:42:15 | 100.0% |
+| Gameplay | 0:17:09 | 6.9% | 0:12:47 | 7.9% |
+| **Total** | 4:07:00 | 100.0% | 2:42:15 | 100.0% |
 
 Elapsed time spans each segment block’s first UID start through its latest UID end, including internal pauses. Speaking time covers timestamped utterances only. Each millisecond is counted once; overlaps belong to the earliest source block or utterance. Each share uses its own column total.
 
-Outside segment spans: **0:00:33** in gaps between blocks.
+Outside segment spans: **0:01:06** in gaps between blocks.
 
 Sources · [Transcript](dunmari-frontier-048-transcript.md) · [Time Markers](dunmari-frontier-048-time-markers.json) · [Location Markers](dunmari-frontier-048-location-markers.json) · [Entity Map](dunmari-frontier-048-entity-map.json) · [Interactions](dunmari-frontier-048-interactions.json) · [Combat](dunmari-frontier-048-combat.json) · [Segments](dunmari-frontier-048-segments.json) · [Watch data](dunmari-frontier-048-time-watches.json) · [Hralgar's Eyes](../../../../Campaigns/Dunmari%20Frontier%20Campaign/Treasure/Hralgar%27s%20Eyes.md) · [Binding Stones](../../../../Campaigns/Dunmari%20Frontier%20Campaign/Treasure/Binding%20Stones.md) · [Dee Wildcloak](../../../../People/Halflings/Dee%20Wildcloak.md) · [Dain Goldhammer](../../../../People/Dwarves/Dain%20Goldhammer.md)

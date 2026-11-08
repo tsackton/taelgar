@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "lost-in-the-feywild-006",
     "sessionYaml": "_sessions/feywild/lost-in-the-feywild-006/cleaned/lost-in-the-feywild-006-session.yaml",
@@ -30,7 +30,7 @@
         "startUid": "u0056",
         "endUid": "u0138"
       },
-      "category": "gameplay",
+      "category": "session_framing",
       "note": "The opening character descriptions establish current feelings and intentions in the library."
     },
     {
@@ -42,9 +42,97 @@
       "category": "table_talk"
     },
     {
-      "id": "s005",
+      "id": "s009",
       "source": {
         "startUid": "u0149",
+        "endUid": "u0155"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u0156",
+        "endUid": "u0179"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u0180",
+        "endUid": "u0235"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u0236",
+        "endUid": "u0246"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u0247",
+        "endUid": "u0299"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u0300",
+        "endUid": "u0323"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u0324",
+        "endUid": "u0480"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u0481",
+        "endUid": "u0499"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u0500",
+        "endUid": "u0611"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0612",
+        "endUid": "u0784"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u0785",
+        "endUid": "u0917"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u0918",
         "endUid": "u0934"
       },
       "category": "gameplay"
@@ -58,9 +146,33 @@
       "category": "table_talk"
     },
     {
-      "id": "s007",
+      "id": "s020",
       "source": {
         "startUid": "u0947",
+        "endUid": "u0971"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u0972",
+        "endUid": "u0998"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u0999",
+        "endUid": "u1037"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u1038",
         "endUid": "u1097"
       },
       "category": "gameplay",

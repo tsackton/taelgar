@@ -19,10 +19,16 @@ from transcript_core import atomic, current_hash, lock, parse_units, safe, secon
 VAULT = scene_map.VAULT
 
 WATCHES = {'dawn', 'morning', 'midday', 'afternoon', 'dusk', 'midnight'}
-CLASSES = ['gameplay', 'combat', 'meta_discussion', 'table_talk', 'session_framing']
+LEGACY_SEGMENTS = '0.1-transcript-segments-draft'
+BACKFILLED_SEGMENTS = '0.2-transcript-segments-draft'
+SHARED_CLASSES = ('combat', 'meta_discussion', 'table_talk', 'session_framing')
+SEGMENT_CLASSES = {
+    LEGACY_SEGMENTS: ('gameplay', *SHARED_CLASSES),
+    BACKFILLED_SEGMENTS: ('exploration', 'social_interaction', 'planning', *SHARED_CLASSES, 'gameplay'),
+}
 VERSIONS = {'time-markers': '0.5-time-markers-draft', 'location-markers': '0.4-location-markers-draft',
             'entity-map': 4, 'interactions': 1, 'combat': '0.1-combat-draft',
-            'segments': '0.1-transcript-segments-draft'}
+            'segments': LEGACY_SEGMENTS}
 LEGACY_OUTPUTS = ('time-watches.json', 'structured-data-review.md')
 
 
@@ -53,8 +59,9 @@ def read_sources(manifest, input_dir, time_path):
         require(path.is_file(), f'Missing {key}: {path}')
         raw = path.read_bytes()
         sources[key] = json.loads(raw)
-        require(sources[key].get('schemaVersion') == VERSIONS[key],
-                f'Unsupported {key} version in {path.name}. Expected {VERSIONS[key]}.')
+        supported = SEGMENT_CLASSES if key == 'segments' else (VERSIONS[key],)
+        require(sources[key].get('schemaVersion') in supported,
+                f'Unsupported {key} version in {path.name}. Expected one of {tuple(supported)}.')
         fingerprints[key] = {'path': path.relative_to(VAULT).as_posix(),
                              'sha256': hashlib.sha256(raw).hexdigest()}
 
@@ -76,13 +83,16 @@ def read_sources(manifest, input_dir, time_path):
     require(sources['interactions']['inputs']['transcript']['sha256'] == bundle['sourceSha256'],
             'Stale transcript in interactions')
     check_binding(sources['interactions']['inputs']['entityMap'], 'entity-map')
-    check_binding(sources['combat']['provenance']['segments'], 'segments')
+    segments_binding = sources['combat']['provenance']['segments']
+    check_binding(segments_binding, 'segments')
+    require(segments_binding.get('schemaVersion') == sources['segments']['schemaVersion'],
+            'Combat refers to a different segment format')
     if 'timeMarkers' in sources['location-markers']['provenance']:
         check_binding(sources['location-markers']['provenance']['timeMarkers'], 'time-markers')
     return bundle, paths, sources, fingerprints
 
 
-def exclusive_time(intervals):
+def exclusive_time(intervals, classes):
     """Count each millisecond once, assigning overlaps to the first source interval."""
     events = {}
     for order, (category, begin, finish) in enumerate(intervals):
@@ -90,7 +100,7 @@ def exclusive_time(intervals):
             continue
         events.setdefault(begin, []).append((order, category))
         events.setdefault(finish, []).append((order, None))
-    totals = dict.fromkeys(CLASSES, 0)
+    totals = dict.fromkeys(classes, 0)
     active = {}
     previous = 0
     for point in sorted(events):
@@ -105,7 +115,9 @@ def exclusive_time(intervals):
     return totals
 
 
-def recording_time(bundle, segments):
+def recording_time(bundle, segments, schema_version=LEGACY_SEGMENTS):
+    require(schema_version in SEGMENT_CLASSES, f'Unsupported segment format: {schema_version}')
+    classes = SEGMENT_CLASSES[schema_version]
     result = dict(recording=None, elapsed=None, speaking=None, notes=[])
     artifacts = bundle['data']['transcriptProcessing']['artifacts']
     artifact = artifacts.get('cleaned') or artifacts.get('prepared')
@@ -131,7 +143,7 @@ def recording_time(bundle, segments):
     for segment in segments:
         category = segment['category']
         start, end = (segment['source'][k] for k in ('startUid', 'endUid'))
-        require(category in CLASSES and start in start_group and end in end_group,
+        require(category in classes and start in start_group and end in end_group,
                 f"Invalid classification or boundary at {segment['id']}")
         require(pos[start] == next_pos and pos[end] >= next_pos,
                 f"Segment gap or overlap at {segment['id']}")
@@ -144,7 +156,7 @@ def recording_time(bundle, segments):
         result['notes'].append('Timestamp starts run backwards; clock resets or reordered sources make recording and category durations ambiguous.')
         return result
     result.update(start=min(b for b, _ in bounds), end=max(e for _, e in bounds),
-                  elapsed=exclusive_time(blocks), speaking=exclusive_time(speech))
+                  elapsed=exclusive_time(blocks, classes), speaking=exclusive_time(speech, classes))
     result['recording'] = result['end'] - result['start']
     result['overlap'] = sum(e - b for _, b, e in speech) - sum(result['speaking'].values())
     return result
@@ -290,6 +302,22 @@ def table(headers, rows):
         return str(value).replace('|', r'\|').replace('\n', ' ')
     return '\n'.join('| ' + ' | '.join(map(cell, row)) + ' |'
                      for row in [headers, ['---'] * len(headers), *rows])
+
+
+def recording_time_table(timing):
+    elapsed, speaking = timing['elapsed'], timing['speaking']
+    elapsed_total, speaking_total = sum(elapsed.values()), sum(speaking.values())
+
+    def row(label, e, s):
+        return [label, duration(e), f'{100 * e / elapsed_total:.1f}%' if elapsed_total else '—',
+                duration(s), f'{100 * s / speaking_total:.1f}%' if speaking_total else '—']
+
+    rows = []
+    for category in elapsed:
+        label = category.replace('_', ' ').capitalize()
+        rows.append(row(label, elapsed[category], speaking[category]))
+    rows.append(row('**Total**', elapsed_total, speaking_total))
+    return table(['Segment class', 'Elapsed (h:mm:ss)', 'Elapsed share', 'Speaking (h:mm:ss)', 'Speaking share'], rows)
 
 
 def duration(ms):
@@ -452,18 +480,11 @@ def render(bundle, paths, sources, edit, output, timing):
     if timing['recording'] is None:
         lines.append('Recording length, segment elapsed time, and speaking time are unavailable.')
     else:
-        elapsed, speech = timing['elapsed'], timing['speaking']
-        elapsed_total, speech_total = sum(elapsed.values()), sum(speech.values())
-        def share(value, total):
-            return f'{100 * value / total:.1f}%' if total else '—'
+        elapsed_total = sum(timing['elapsed'].values())
         lines.extend([
             f"Recording length (transcript timestamp extent): **{duration(timing['recording'])}** "
             f"({duration(timing['start'])} → {duration(timing['end'])}). Full audio length, including any silence outside these timestamps, is not established.",
-            table(['Segment class', 'Elapsed (h:mm:ss)', 'Elapsed share', 'Speaking (h:mm:ss)', 'Speaking share'],
-                  [[key.replace('_', ' ').capitalize(), duration(elapsed[key]), share(elapsed[key], elapsed_total),
-                    duration(speech[key]), share(speech[key], speech_total)] for key in CLASSES]
-                  + [['**Total**', duration(elapsed_total), share(elapsed_total, elapsed_total),
-                      duration(speech_total), share(speech_total, speech_total)]]),
+            recording_time_table(timing),
             'Elapsed time spans each segment block’s first UID start through its latest UID end, including internal pauses. '
             'Speaking time covers timestamped utterances only. Each millisecond is counted once; overlaps belong to the earliest source block or utterance. '
             'Each share uses its own column total.',
@@ -522,7 +543,7 @@ def main():
             require(item['label'].strip() and current_hash(safe(VAULT, item['path'])) == item['sha256']
                     and item['sha256'], 'Supplementary source changed or missing')
         check_rows(edit, sources, bundle)
-        timing = recording_time(bundle, sources['segments']['segments'])
+        timing = recording_time(bundle, sources['segments']['segments'], sources['segments']['schemaVersion'])
         watches = {'schemaVersion': '0.1-time-watches', 'sessionYaml': bundle['sessionYaml'],
                    'source': fingerprints['time-markers'],
                    'transcript': {'path': bundle['source'].relative_to(VAULT).as_posix(),

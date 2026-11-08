@@ -77,16 +77,19 @@ Recording length (transcript timestamp extent): **3:28:02** (0:00:00 → 3:28:02
 
 | Segment class | Elapsed (h:mm:ss) | Elapsed share | Speaking (h:mm:ss) | Speaking share |
 | --- | --- | --- | --- | --- |
-| Gameplay | 1:40:34 | 48.4% | 1:18:33 | 48.3% |
-| Combat | 0:57:24 | 27.6% | 0:43:43 | 26.9% |
+| Exploration | 0:43:58 | 21.2% | 0:35:08 | 21.6% |
+| Social interaction | 0:05:33 | 2.7% | 0:03:57 | 2.4% |
+| Planning | 0:40:34 | 19.6% | 0:31:40 | 19.5% |
+| Combat | 0:57:24 | 27.7% | 0:43:43 | 26.9% |
 | Meta discussion | 0:18:24 | 8.9% | 0:13:14 | 8.1% |
-| Table talk | 0:31:26 | 15.1% | 0:27:12 | 16.7% |
+| Table talk | 0:31:26 | 15.2% | 0:27:12 | 16.7% |
 | Session framing | 0:00:00 | 0.0% | 0:00:00 | 0.0% |
-| **Total** | 3:27:48 | 100.0% | 2:42:41 | 100.0% |
+| Gameplay | 0:10:02 | 4.8% | 0:07:47 | 4.8% |
+| **Total** | 3:27:20 | 100.0% | 2:42:41 | 100.0% |
 
 Elapsed time spans each segment block’s first UID start through its latest UID end, including internal pauses. Speaking time covers timestamped utterances only. Each millisecond is counted once; overlaps belong to the earliest source block or utterance. Each share uses its own column total.
 
-Outside segment spans: **0:00:14** in gaps between blocks.
+Outside segment spans: **0:00:42** in gaps between blocks.
 
 Overlapping utterance timestamps: 31.535 cumulative seconds counted once.
 

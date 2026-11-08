@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-039",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-039/cleaned/dunmari-frontier-039-session.yaml",
@@ -9,13 +9,61 @@
   },
   "segments": [
     {
-      "id": "s001",
+      "id": "s011",
       "source": {
         "startUid": "u0001",
-        "endUid": "u0243"
+        "endUid": "u0014"
       },
       "category": "gameplay",
       "note": "Opening narration includes the played overnight transition and waking; the inseparable turn is gameplay."
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u0015",
+        "endUid": "u0020"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u0021",
+        "endUid": "u0087"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u0088",
+        "endUid": "u0115"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u0116",
+        "endUid": "u0135"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0136",
+        "endUid": "u0227"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u0228",
+        "endUid": "u0243"
+      },
+      "category": "gameplay"
     },
     {
       "id": "s002",
@@ -26,12 +74,60 @@
       "category": "table_talk"
     },
     {
-      "id": "s003",
+      "id": "s017",
       "source": {
         "startUid": "u0255",
-        "endUid": "u0734"
+        "endUid": "u0320"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u0321",
+        "endUid": "u0346"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u0347",
+        "endUid": "u0402"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0403",
+        "endUid": "u0527"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u0528",
+        "endUid": "u0636"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u0637",
+        "endUid": "u0665"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u0666",
+        "endUid": "u0734"
+      },
+      "category": "exploration"
     },
     {
       "id": "s004",
@@ -43,12 +139,60 @@
       "note": "One continuous initiative cycle includes the apparent surrender, manifestations, and rescue from the mist; quiet returns only afterward."
     },
     {
-      "id": "s005",
+      "id": "s023",
       "source": {
         "startUid": "u1918",
-        "endUid": "u2525"
+        "endUid": "u1940"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s024",
+      "source": {
+        "startUid": "u1941",
+        "endUid": "u2072"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s025",
+      "source": {
+        "startUid": "u2073",
+        "endUid": "u2190"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s026",
+      "source": {
+        "startUid": "u2191",
+        "endUid": "u2223"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s027",
+      "source": {
+        "startUid": "u2224",
+        "endUid": "u2294"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s028",
+      "source": {
+        "startUid": "u2295",
+        "endUid": "u2319"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u2320",
+        "endUid": "u2525"
+      },
+      "category": "social_interaction"
     },
     {
       "id": "s006",
@@ -75,12 +219,36 @@
       "category": "table_talk"
     },
     {
-      "id": "s009",
+      "id": "s029",
       "source": {
         "startUid": "u2673",
-        "endUid": "u2768"
+        "endUid": "u2700"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s030",
+      "source": {
+        "startUid": "u2701",
+        "endUid": "u2719"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u2720",
+        "endUid": "u2762"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s031",
+      "source": {
+        "startUid": "u2763",
+        "endUid": "u2768"
+      },
+      "category": "planning"
     },
     {
       "id": "s010",

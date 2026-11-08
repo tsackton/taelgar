@@ -97,15 +97,18 @@ Recording length (transcript timestamp extent): **4:22:19** (0:00:09 → 4:22:28
 
 | Segment class | Elapsed (h:mm:ss) | Elapsed share | Speaking (h:mm:ss) | Speaking share |
 | --- | --- | --- | --- | --- |
-| Gameplay | 3:55:17 | 89.8% | 2:22:33 | 89.2% |
-| Combat | 0:24:38 | 9.4% | 0:15:26 | 9.7% |
+| Exploration | 0:44:07 | 16.9% | 0:28:45 | 18.0% |
+| Social interaction | 1:55:43 | 44.4% | 1:07:17 | 42.1% |
+| Planning | 0:57:35 | 22.1% | 0:37:36 | 23.5% |
+| Combat | 0:24:38 | 9.5% | 0:15:26 | 9.7% |
 | Meta discussion | 0:00:00 | 0.0% | 0:00:00 | 0.0% |
 | Table talk | 0:00:30 | 0.2% | 0:00:16 | 0.2% |
 | Session framing | 0:01:43 | 0.7% | 0:01:28 | 0.9% |
-| **Total** | 4:22:08 | 100.0% | 2:39:43 | 100.0% |
+| Gameplay | 0:16:17 | 6.2% | 0:08:54 | 5.6% |
+| **Total** | 4:20:32 | 100.0% | 2:39:43 | 100.0% |
 
 Elapsed time spans each segment block’s first UID start through its latest UID end, including internal pauses. Speaking time covers timestamped utterances only. Each millisecond is counted once; overlaps belong to the earliest source block or utterance. Each share uses its own column total.
 
-Outside segment spans: **0:00:10** in gaps between blocks.
+Outside segment spans: **0:01:46** in gaps between blocks.
 
 Sources · [Transcript](dunmari-frontier-036-transcript.md) · [Time Markers](dunmari-frontier-036-time-markers.json) · [Location Markers](dunmari-frontier-036-location-markers.json) · [Entity Map](dunmari-frontier-036-entity-map.json) · [Interactions](dunmari-frontier-036-interactions.json) · [Combat](dunmari-frontier-036-combat.json) · [Segments](dunmari-frontier-036-segments.json) · [Watch data](dunmari-frontier-036-time-watches.json) · [Iron Swan proprietor](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Central%20Dunmar/Tokra/The%20Iron%20Swan.md) · [Vistra identity](../../../../People/Dwarves/Vistra%20Fireforge.md) · [Kassi’s established post](../../../../People/Dunmari/Kassi.md)

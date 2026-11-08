@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "labyrinths-of-the-lost-003",
     "sessionYaml": "_sessions/lablost/labyrinths-of-the-lost-003/cleaned/labyrinths-of-the-lost-003-session.yaml",
@@ -17,13 +17,53 @@
       "category": "table_talk"
     },
     {
-      "id": "s002",
+      "id": "s012",
       "source": {
         "startUid": "u0002",
-        "endUid": "u0331"
+        "endUid": "u0030"
       },
       "category": "gameplay",
       "note": "Opening recap is interleaved with current bedroom presence and the active decision to descend; the mixed opening remains gameplay."
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u0031",
+        "endUid": "u0059"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u0060",
+        "endUid": "u0095"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u0096",
+        "endUid": "u0196"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0197",
+        "endUid": "u0301"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u0302",
+        "endUid": "u0331"
+      },
+      "category": "exploration"
     },
     {
       "id": "s003",
@@ -34,12 +74,92 @@
       "category": "combat"
     },
     {
-      "id": "s004",
+      "id": "s017",
       "source": {
         "startUid": "u0471",
-        "endUid": "u1057"
+        "endUid": "u0476"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u0477",
+        "endUid": "u0486"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u0487",
+        "endUid": "u0529"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u0530",
+        "endUid": "u0556"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u0557",
+        "endUid": "u0698"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0699",
+        "endUid": "u0847"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u0848",
+        "endUid": "u0862"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s023",
+      "source": {
+        "startUid": "u0863",
+        "endUid": "u0927"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s024",
+      "source": {
+        "startUid": "u0928",
+        "endUid": "u0974"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s025",
+      "source": {
+        "startUid": "u0975",
+        "endUid": "u1038"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s026",
+      "source": {
+        "startUid": "u1039",
+        "endUid": "u1057"
+      },
+      "category": "social_interaction"
     },
     {
       "id": "s005",
@@ -69,9 +189,17 @@
       "id": "s008",
       "source": {
         "startUid": "u1323",
+        "endUid": "u1384"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s027",
+      "source": {
+        "startUid": "u1385",
         "endUid": "u1406"
       },
-      "category": "gameplay"
+      "category": "exploration"
     },
     {
       "id": "s009",
@@ -82,12 +210,52 @@
       "category": "combat"
     },
     {
-      "id": "s010",
+      "id": "s028",
       "source": {
         "startUid": "u1851",
-        "endUid": "u2182"
+        "endUid": "u1917"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s029",
+      "source": {
+        "startUid": "u1918",
+        "endUid": "u1951"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s030",
+      "source": {
+        "startUid": "u1952",
+        "endUid": "u1965"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s031",
+      "source": {
+        "startUid": "u1966",
+        "endUid": "u1981"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u1982",
+        "endUid": "u2113"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s032",
+      "source": {
+        "startUid": "u2114",
+        "endUid": "u2182"
+      },
+      "category": "session_framing"
     },
     {
       "id": "s011",

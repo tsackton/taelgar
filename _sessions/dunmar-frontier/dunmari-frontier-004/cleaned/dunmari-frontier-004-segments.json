@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-004",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-004/cleaned/dunmari-frontier-004-session.yaml",
@@ -17,12 +17,92 @@
       "category": "table_talk"
     },
     {
-      "id": "s002",
+      "id": "s015",
       "source": {
         "startUid": "u0003",
-        "endUid": "u0727"
+        "endUid": "u0138"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u0139",
+        "endUid": "u0190"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u0191",
+        "endUid": "u0216"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u0217",
+        "endUid": "u0315"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u0316",
+        "endUid": "u0346"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u0347",
+        "endUid": "u0406"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u0407",
+        "endUid": "u0458"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u0459",
+        "endUid": "u0479"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s023",
+      "source": {
+        "startUid": "u0480",
+        "endUid": "u0497"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s024",
+      "source": {
+        "startUid": "u0498",
+        "endUid": "u0563"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0564",
+        "endUid": "u0727"
+      },
+      "category": "social_interaction"
     },
     {
       "id": "s003",
@@ -46,7 +126,7 @@
         "startUid": "u0759",
         "endUid": "u1126"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s006",
@@ -70,7 +150,7 @@
         "startUid": "u1269",
         "endUid": "u1302"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s009",
@@ -89,12 +169,28 @@
       "category": "meta_discussion"
     },
     {
-      "id": "s011",
+      "id": "s025",
       "source": {
         "startUid": "u1352",
+        "endUid": "u1481"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s026",
+      "source": {
+        "startUid": "u1482",
+        "endUid": "u1533"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u1534",
         "endUid": "u1690"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s012",
@@ -105,12 +201,36 @@
       "category": "table_talk"
     },
     {
-      "id": "s013",
+      "id": "s027",
       "source": {
         "startUid": "u1699",
+        "endUid": "u1776"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s028",
+      "source": {
+        "startUid": "u1777",
+        "endUid": "u1909"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s029",
+      "source": {
+        "startUid": "u1910",
+        "endUid": "u1937"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u1938",
         "endUid": "u2481"
       },
-      "category": "gameplay",
+      "category": "social_interaction",
       "note": "Includes the improvised egg-throwing at the inn (u2012–u2043); no initiative or repeated ordered turn cycle is established."
     },
     {

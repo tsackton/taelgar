@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-076",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-076/cleaned/dunmari-frontier-076-session.yaml",
@@ -40,7 +40,7 @@
         "startUid": "u0010",
         "endUid": "u0050"
       },
-      "category": "gameplay"
+      "category": "exploration"
     },
     {
       "id": "s005",
@@ -54,9 +54,65 @@
       "id": "s006",
       "source": {
         "startUid": "u0130",
+        "endUid": "u0296"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u0297",
+        "endUid": "u0337"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u0338",
+        "endUid": "u0504"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u0505",
+        "endUid": "u0613"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u0614",
+        "endUid": "u0626"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u0627",
+        "endUid": "u0643"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s023",
+      "source": {
+        "startUid": "u0644",
+        "endUid": "u0665"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s024",
+      "source": {
+        "startUid": "u0666",
         "endUid": "u0765"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s007",
@@ -68,12 +124,124 @@
       "note": "Explicit metagame discussion about what aid and cloak-related information to offer; the inseparable final turn also resumes telling Vorgaz."
     },
     {
-      "id": "s008",
+      "id": "s025",
       "source": {
         "startUid": "u0791",
-        "endUid": "u1970"
+        "endUid": "u0912"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s026",
+      "source": {
+        "startUid": "u0913",
+        "endUid": "u0942"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s027",
+      "source": {
+        "startUid": "u0943",
+        "endUid": "u1030"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s028",
+      "source": {
+        "startUid": "u1031",
+        "endUid": "u1085"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s029",
+      "source": {
+        "startUid": "u1086",
+        "endUid": "u1126"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s030",
+      "source": {
+        "startUid": "u1127",
+        "endUid": "u1154"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s031",
+      "source": {
+        "startUid": "u1155",
+        "endUid": "u1172"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s032",
+      "source": {
+        "startUid": "u1173",
+        "endUid": "u1271"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s033",
+      "source": {
+        "startUid": "u1272",
+        "endUid": "u1318"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s034",
+      "source": {
+        "startUid": "u1319",
+        "endUid": "u1484"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s035",
+      "source": {
+        "startUid": "u1485",
+        "endUid": "u1530"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s036",
+      "source": {
+        "startUid": "u1531",
+        "endUid": "u1548"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s037",
+      "source": {
+        "startUid": "u1549",
+        "endUid": "u1617"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s038",
+      "source": {
+        "startUid": "u1618",
+        "endUid": "u1629"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u1630",
+        "endUid": "u1970"
+      },
+      "category": "social_interaction"
     },
     {
       "id": "s009",
@@ -89,7 +257,7 @@
         "startUid": "u2003",
         "endUid": "u2092"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s011",
@@ -106,7 +274,7 @@
         "startUid": "u2165",
         "endUid": "u2240"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s013",
@@ -123,7 +291,7 @@
         "startUid": "u2305",
         "endUid": "u2311"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s015",

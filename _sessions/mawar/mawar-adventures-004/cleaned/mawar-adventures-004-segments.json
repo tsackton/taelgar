@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "mawar-adventures-004",
     "sessionYaml": "_sessions/mawar/mawar-adventures-004/cleaned/mawar-adventures-004-session.yaml",
@@ -17,9 +17,113 @@
       "category": "meta_discussion"
     },
     {
-      "id": "s002",
+      "id": "s010",
       "source": {
         "startUid": "u0012",
+        "endUid": "u0062"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0063",
+        "endUid": "u0354"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u0355",
+        "endUid": "u0366"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u0367",
+        "endUid": "u0431"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u0432",
+        "endUid": "u0449"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u0450",
+        "endUid": "u0472"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u0473",
+        "endUid": "u0496"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u0497",
+        "endUid": "u0673"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u0674",
+        "endUid": "u0700"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u0701",
+        "endUid": "u0720"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u0721",
+        "endUid": "u0857"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u0858",
+        "endUid": "u0874"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u0875",
+        "endUid": "u0933"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u0934",
         "endUid": "u0939"
       },
       "category": "gameplay"
@@ -33,12 +137,60 @@
       "category": "table_talk"
     },
     {
-      "id": "s004",
+      "id": "s023",
       "source": {
         "startUid": "u1029",
+        "endUid": "u1045"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s024",
+      "source": {
+        "startUid": "u1046",
+        "endUid": "u1060"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u1061",
+        "endUid": "u1218"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s025",
+      "source": {
+        "startUid": "u1219",
+        "endUid": "u1238"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s026",
+      "source": {
+        "startUid": "u1239",
+        "endUid": "u1273"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s027",
+      "source": {
+        "startUid": "u1274",
+        "endUid": "u1304"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s028",
+      "source": {
+        "startUid": "u1305",
         "endUid": "u1390"
       },
-      "category": "gameplay"
+      "category": "exploration"
     },
     {
       "id": "s005",
@@ -49,12 +201,28 @@
       "category": "combat"
     },
     {
-      "id": "s006",
+      "id": "s029",
       "source": {
         "startUid": "u2030",
-        "endUid": "u2164"
+        "endUid": "u2074"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s030",
+      "source": {
+        "startUid": "u2075",
+        "endUid": "u2101"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u2102",
+        "endUid": "u2164"
+      },
+      "category": "exploration"
     },
     {
       "id": "s007",
@@ -66,9 +234,33 @@
       "note": "Includes the immediate opening fire volley before initiative; the DM explicitly confirms it occurred before the regular turn cycle at u2331–u2346."
     },
     {
-      "id": "s008",
+      "id": "s031",
       "source": {
         "startUid": "u2915",
+        "endUid": "u2952"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s032",
+      "source": {
+        "startUid": "u2953",
+        "endUid": "u2976"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u2977",
+        "endUid": "u3159"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s033",
+      "source": {
+        "startUid": "u3160",
         "endUid": "u3188"
       },
       "category": "gameplay"

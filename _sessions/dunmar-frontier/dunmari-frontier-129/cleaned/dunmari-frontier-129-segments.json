@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-129",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-129/cleaned/dunmari-frontier-129-session.yaml",
@@ -17,13 +17,85 @@
       "category": "table_talk"
     },
     {
-      "id": "s002",
+      "id": "s010",
       "source": {
         "startUid": "u0003",
-        "endUid": "u0437"
+        "endUid": "u0062"
       },
       "category": "gameplay",
       "note": "The opening retrospective reports introduce played events; they are not a recap-only framing block."
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u0063",
+        "endUid": "u0078"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u0079",
+        "endUid": "u0110"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u0111",
+        "endUid": "u0152"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0153",
+        "endUid": "u0242"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u0243",
+        "endUid": "u0264"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u0265",
+        "endUid": "u0277"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u0278",
+        "endUid": "u0320"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u0321",
+        "endUid": "u0366"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u0367",
+        "endUid": "u0437"
+      },
+      "category": "social_interaction"
     },
     {
       "id": "s003",
@@ -35,12 +107,148 @@
       "note": "The DM explicitly steps out of game to clarify Kenzo’s goals."
     },
     {
-      "id": "s004",
+      "id": "s019",
       "source": {
         "startUid": "u0448",
-        "endUid": "u2077"
+        "endUid": "u0608"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u0609",
+        "endUid": "u0652"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u0653",
+        "endUid": "u0703"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u0704",
+        "endUid": "u0755"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s023",
+      "source": {
+        "startUid": "u0756",
+        "endUid": "u0797"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s024",
+      "source": {
+        "startUid": "u0798",
+        "endUid": "u0817"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s025",
+      "source": {
+        "startUid": "u0818",
+        "endUid": "u0848"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s026",
+      "source": {
+        "startUid": "u0849",
+        "endUid": "u0889"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s027",
+      "source": {
+        "startUid": "u0890",
+        "endUid": "u0933"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s028",
+      "source": {
+        "startUid": "u0934",
+        "endUid": "u1122"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s029",
+      "source": {
+        "startUid": "u1123",
+        "endUid": "u1184"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s030",
+      "source": {
+        "startUid": "u1185",
+        "endUid": "u1298"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s031",
+      "source": {
+        "startUid": "u1299",
+        "endUid": "u1335"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s032",
+      "source": {
+        "startUid": "u1336",
+        "endUid": "u1463"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s033",
+      "source": {
+        "startUid": "u1464",
+        "endUid": "u1543"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s034",
+      "source": {
+        "startUid": "u1544",
+        "endUid": "u1611"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u1612",
+        "endUid": "u1855"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s035",
+      "source": {
+        "startUid": "u1856",
+        "endUid": "u2077"
+      },
+      "category": "planning"
     },
     {
       "id": "s005",
@@ -74,7 +282,7 @@
         "startUid": "u2447",
         "endUid": "u2590"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s009",

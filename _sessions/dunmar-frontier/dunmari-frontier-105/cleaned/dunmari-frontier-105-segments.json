@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-105",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-105/cleaned/dunmari-frontier-105-session.yaml",
@@ -9,13 +9,61 @@
   },
   "segments": [
     {
-      "id": "s001",
+      "id": "s006",
       "source": {
         "startUid": "u0001",
-        "endUid": "u1123"
+        "endUid": "u0052"
       },
       "category": "gameplay",
       "note": "The opening establishes current shipboard play and scouting; retrospective morning context does not make the whole opening a recap."
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u0053",
+        "endUid": "u0112"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u0113",
+        "endUid": "u0231"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u0232",
+        "endUid": "u0280"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u0281",
+        "endUid": "u0440"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u0441",
+        "endUid": "u0518"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0519",
+        "endUid": "u1123"
+      },
+      "category": "exploration"
     },
     {
       "id": "s002",
@@ -27,12 +75,108 @@
       "note": "Initiative setup through the last two enemies being dispatched; intervening bat dialogue remains inside the continuous encounter."
     },
     {
-      "id": "s003",
+      "id": "s012",
       "source": {
         "startUid": "u2233",
+        "endUid": "u2308"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u2309",
+        "endUid": "u2369"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u2370",
+        "endUid": "u2377"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u2378",
+        "endUid": "u2731"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u2732",
+        "endUid": "u2747"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u2748",
+        "endUid": "u2795"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u2796",
+        "endUid": "u2825"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u2826",
+        "endUid": "u2949"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u2950",
+        "endUid": "u2994"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u2995",
+        "endUid": "u3024"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u3025",
+        "endUid": "u3081"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u3082",
+        "endUid": "u3105"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s023",
+      "source": {
+        "startUid": "u3106",
         "endUid": "u3218"
       },
-      "category": "gameplay",
+      "category": "exploration",
       "note": "The vine attack and Wellby’s escape have no initiative roll or repeated ordered-turn cycle."
     },
     {

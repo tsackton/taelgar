@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-084",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-084/cleaned/dunmari-frontier-084-session.yaml",
@@ -34,12 +34,20 @@
       "category": "session_framing"
     },
     {
-      "id": "s004",
+      "id": "s013",
       "source": {
         "startUid": "u0013",
-        "endUid": "u0081"
+        "endUid": "u0015"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0016",
+        "endUid": "u0081"
+      },
+      "category": "session_framing"
     },
     {
       "id": "s005",
@@ -50,12 +58,36 @@
       "category": "meta_discussion"
     },
     {
-      "id": "s006",
+      "id": "s014",
       "source": {
         "startUid": "u0300",
-        "endUid": "u0771"
+        "endUid": "u0328"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u0329",
+        "endUid": "u0575"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u0576",
+        "endUid": "u0625"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u0626",
+        "endUid": "u0771"
+      },
+      "category": "social_interaction"
     },
     {
       "id": "s007",
@@ -66,12 +98,44 @@
       "category": "meta_discussion"
     },
     {
-      "id": "s008",
+      "id": "s017",
       "source": {
         "startUid": "u0846",
-        "endUid": "u1173"
+        "endUid": "u0878"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u0879",
+        "endUid": "u0902"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u0903",
+        "endUid": "u0948"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u0949",
+        "endUid": "u0960"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u0961",
+        "endUid": "u1173"
+      },
+      "category": "social_interaction"
     },
     {
       "id": "s009",
@@ -82,13 +146,21 @@
       "category": "table_talk"
     },
     {
-      "id": "s010",
+      "id": "s021",
       "source": {
         "startUid": "u1184",
-        "endUid": "u1590"
+        "endUid": "u1196"
       },
       "category": "gameplay",
       "note": "u1184 contains a brief mixed table exchange and the narrated sleep/next-morning transition; the group remains intact."
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u1197",
+        "endUid": "u1590"
+      },
+      "category": "social_interaction"
     },
     {
       "id": "s011",

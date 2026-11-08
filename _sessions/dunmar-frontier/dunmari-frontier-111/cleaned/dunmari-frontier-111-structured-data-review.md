@@ -59,15 +59,18 @@ Recording length (transcript timestamp extent): **3:30:53** (0:00:04 → 3:30:57
 
 | Segment class | Elapsed (h:mm:ss) | Elapsed share | Speaking (h:mm:ss) | Speaking share |
 | --- | --- | --- | --- | --- |
-| Gameplay | 3:22:50 | 96.3% | 2:31:23 | 96.1% |
+| Exploration | 0:32:50 | 15.6% | 0:26:02 | 16.5% |
+| Social interaction | 0:14:25 | 6.9% | 0:09:54 | 6.3% |
+| Planning | 1:59:10 | 56.8% | 1:29:09 | 56.6% |
 | Combat | 0:00:00 | 0.0% | 0:00:00 | 0.0% |
 | Meta discussion | 0:01:38 | 0.8% | 0:01:22 | 0.9% |
 | Table talk | 0:06:09 | 2.9% | 0:04:49 | 3.1% |
-| Session framing | 0:00:00 | 0.0% | 0:00:00 | 0.0% |
-| **Total** | 3:30:36 | 100.0% | 2:37:33 | 100.0% |
+| Session framing | 0:15:24 | 7.3% | 0:10:55 | 6.9% |
+| Gameplay | 0:20:21 | 9.7% | 0:15:23 | 9.8% |
+| **Total** | 3:29:57 | 100.0% | 2:37:33 | 100.0% |
 
 Elapsed time spans each segment block’s first UID start through its latest UID end, including internal pauses. Speaking time covers timestamped utterances only. Each millisecond is counted once; overlaps belong to the earliest source block or utterance. Each share uses its own column total.
 
-Outside segment spans: **0:00:17** in gaps between blocks.
+Outside segment spans: **0:00:56** in gaps between blocks.
 
 Sources · [Transcript](dunmari-frontier-111-transcript.md) · [Time Markers](dunmari-frontier-111-time-markers.json) · [Location Markers](dunmari-frontier-111-location-markers.json) · [Entity Map](dunmari-frontier-111-entity-map.json) · [Interactions](dunmari-frontier-111-interactions.json) · [Combat](dunmari-frontier-111-combat.json) · [Segments](dunmari-frontier-111-segments.json) · [Watch data](dunmari-frontier-111-time-watches.json) · [Session 106 handoff transcript](../../dunmari-frontier-106/cleaned/dunmari-frontier-106-transcript.md) · [Session 107 registered narrative](../../dunmari-frontier-107/cleaned/dunmari-frontier-107-source-prepared.md) · [Session 108 handoff transcript](../../dunmari-frontier-108/cleaned/dunmari-frontier-108-transcript.md) · [Session 110 closing transcript](../../dunmari-frontier-110/cleaned/dunmari-frontier-110-transcript.md) · [Session 110 calendar](../../dunmari-frontier-110/cleaned/dunmari-frontier-110-session.yaml)

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-071",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-071/cleaned/dunmari-frontier-071-session.yaml",
@@ -95,7 +95,7 @@
         "startUid": "u0568",
         "endUid": "u0601"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s012",
@@ -109,9 +109,33 @@
       "id": "s013",
       "source": {
         "startUid": "u0613",
+        "endUid": "u0774"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s026",
+      "source": {
+        "startUid": "u0775",
+        "endUid": "u0843"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s027",
+      "source": {
+        "startUid": "u0844",
+        "endUid": "u0943"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s028",
+      "source": {
+        "startUid": "u0944",
         "endUid": "u0955"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s014",
@@ -122,12 +146,54 @@
       "category": "table_talk"
     },
     {
-      "id": "s015",
+      "id": "s029",
       "source": {
         "startUid": "u0964",
+        "endUid": "u0988"
+      },
+      "category": "planning",
+      "note": "Active rescue decisions, rest conversation and accepted tower search remain gameplay despite brief jokes and rules checks."
+    },
+    {
+      "id": "s030",
+      "source": {
+        "startUid": "u0989",
+        "endUid": "u1014"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s031",
+      "source": {
+        "startUid": "u1015",
+        "endUid": "u1044"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u1045",
+        "endUid": "u1350"
+      },
+      "category": "social_interaction",
+      "note": "Active rescue decisions, rest conversation and accepted tower search remain gameplay despite brief jokes and rules checks."
+    },
+    {
+      "id": "s032",
+      "source": {
+        "startUid": "u1351",
+        "endUid": "u1472"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s033",
+      "source": {
+        "startUid": "u1473",
         "endUid": "u1583"
       },
-      "category": "gameplay",
+      "category": "exploration",
       "note": "Active rescue decisions, rest conversation and accepted tower search remain gameplay despite brief jokes and rules checks."
     },
     {
@@ -139,12 +205,28 @@
       "category": "meta_discussion"
     },
     {
-      "id": "s017",
+      "id": "s034",
       "source": {
         "startUid": "u1589",
-        "endUid": "u1748"
+        "endUid": "u1610"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s035",
+      "source": {
+        "startUid": "u1611",
+        "endUid": "u1652"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u1653",
+        "endUid": "u1748"
+      },
+      "category": "social_interaction"
     },
     {
       "id": "s018",
@@ -160,7 +242,7 @@
         "startUid": "u1755",
         "endUid": "u1897"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s020",
@@ -176,7 +258,7 @@
         "startUid": "u1907",
         "endUid": "u2048"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s022",
@@ -200,7 +282,7 @@
         "startUid": "u2172",
         "endUid": "u2243"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s025",

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-047",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-047/cleaned/dunmari-frontier-047-session.yaml",
@@ -18,12 +18,36 @@
       "note": "Opening recap and the proposed starting point end before the architecture tour is resolved in play."
     },
     {
-      "id": "s002",
+      "id": "s015",
       "source": {
         "startUid": "u0018",
-        "endUid": "u0796"
+        "endUid": "u0040"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u0041",
+        "endUid": "u0216"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u0217",
+        "endUid": "u0453"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0454",
+        "endUid": "u0796"
+      },
+      "category": "social_interaction"
     },
     {
       "id": "s003",
@@ -34,12 +58,44 @@
       "category": "meta_discussion"
     },
     {
-      "id": "s004",
+      "id": "s018",
       "source": {
         "startUid": "u0989",
-        "endUid": "u1485"
+        "endUid": "u1029"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u1030",
+        "endUid": "u1050"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u1051",
+        "endUid": "u1234"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u1235",
+        "endUid": "u1249"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u1250",
+        "endUid": "u1485"
+      },
+      "category": "social_interaction"
     },
     {
       "id": "s005",
@@ -91,12 +147,76 @@
       "note": "Sustained out-of-character city institutions and worldbuilding; the brief Arcane recommendation stays within the discussion."
     },
     {
-      "id": "s011",
+      "id": "s022",
       "source": {
         "startUid": "u1764",
-        "endUid": "u2318"
+        "endUid": "u1799"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u1800",
+        "endUid": "u1943"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s023",
+      "source": {
+        "startUid": "u1944",
+        "endUid": "u1963"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s024",
+      "source": {
+        "startUid": "u1964",
+        "endUid": "u1977"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s025",
+      "source": {
+        "startUid": "u1978",
+        "endUid": "u2001"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s026",
+      "source": {
+        "startUid": "u2002",
+        "endUid": "u2062"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s027",
+      "source": {
+        "startUid": "u2063",
+        "endUid": "u2197"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s028",
+      "source": {
+        "startUid": "u2198",
+        "endUid": "u2235"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s029",
+      "source": {
+        "startUid": "u2236",
+        "endUid": "u2318"
+      },
+      "category": "planning"
     },
     {
       "id": "s012",

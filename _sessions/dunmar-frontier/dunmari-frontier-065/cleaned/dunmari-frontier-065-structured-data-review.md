@@ -70,15 +70,18 @@ Recording length (transcript timestamp extent): **3:06:16** (0:00:02 → 3:06:18
 
 | Segment class | Elapsed (h:mm:ss) | Elapsed share | Speaking (h:mm:ss) | Speaking share |
 | --- | --- | --- | --- | --- |
-| Gameplay | 2:02:14 | 65.7% | 1:30:02 | 65.1% |
+| Exploration | 0:30:22 | 16.4% | 0:24:22 | 17.6% |
+| Social interaction | 0:42:47 | 23.1% | 0:26:45 | 19.3% |
+| Planning | 0:24:25 | 13.2% | 0:18:25 | 13.3% |
 | Combat | 0:54:13 | 29.2% | 0:41:12 | 29.8% |
 | Meta discussion | 0:05:31 | 3.0% | 0:04:02 | 2.9% |
 | Table talk | 0:04:01 | 2.2% | 0:03:04 | 2.2% |
-| Session framing | 0:00:00 | 0.0% | 0:00:00 | 0.0% |
-| **Total** | 3:05:59 | 100.0% | 2:18:20 | 100.0% |
+| Session framing | 0:08:59 | 4.8% | 0:07:28 | 5.4% |
+| Gameplay | 0:15:14 | 8.2% | 0:13:01 | 9.4% |
+| **Total** | 3:05:31 | 100.0% | 2:18:20 | 100.0% |
 
 Elapsed time spans each segment block’s first UID start through its latest UID end, including internal pauses. Speaking time covers timestamped utterances only. Each millisecond is counted once; overlaps belong to the earliest source block or utterance. Each share uses its own column total.
 
-Outside segment spans: **0:00:18** in gaps between blocks.
+Outside segment spans: **0:00:45** in gaps between blocks.
 
 Sources · [Transcript](dunmari-frontier-065-transcript.md) · [Time Markers](dunmari-frontier-065-time-markers.json) · [Location Markers](dunmari-frontier-065-location-markers.json) · [Entity Map](dunmari-frontier-065-entity-map.json) · [Interactions](dunmari-frontier-065-interactions.json) · [Combat](dunmari-frontier-065-combat.json) · [Segments](dunmari-frontier-065-segments.json) · [Watch data](dunmari-frontier-065-time-watches.json) · [Prior Seeker-group handoff](../../dunmari-frontier-063/cleaned/dunmari-frontier-063-transcript.md) · [Separate Kenzo/Izzarak track](../../dunmari-frontier-064/cleaned/dunmari-frontier-064-session.yaml) · [Existing session note requiring corrections](../../../../Campaigns/Dunmari%20Frontier%20Campaign/Session%20Notes/Session%2065%20%28DuFr%29.md)

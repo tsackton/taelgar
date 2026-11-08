@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-043",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-043/cleaned/dunmari-frontier-043-session.yaml",
@@ -28,6 +28,22 @@
       "id": "s003",
       "source": {
         "startUid": "u0308",
+        "endUid": "u0412"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u0413",
+        "endUid": "u0457"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u0458",
         "endUid": "u0507"
       },
       "category": "gameplay"
@@ -46,7 +62,7 @@
         "startUid": "u0538",
         "endUid": "u0675"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s006",
@@ -57,12 +73,92 @@
       "category": "table_talk"
     },
     {
-      "id": "s007",
+      "id": "s021",
       "source": {
         "startUid": "u0693",
-        "endUid": "u1264"
+        "endUid": "u0730"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u0731",
+        "endUid": "u0847"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u0848",
+        "endUid": "u0938"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s023",
+      "source": {
+        "startUid": "u0939",
+        "endUid": "u1001"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s024",
+      "source": {
+        "startUid": "u1002",
+        "endUid": "u1066"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s025",
+      "source": {
+        "startUid": "u1067",
+        "endUid": "u1087"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s026",
+      "source": {
+        "startUid": "u1088",
+        "endUid": "u1144"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s027",
+      "source": {
+        "startUid": "u1145",
+        "endUid": "u1195"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s028",
+      "source": {
+        "startUid": "u1196",
+        "endUid": "u1220"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s029",
+      "source": {
+        "startUid": "u1221",
+        "endUid": "u1253"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s030",
+      "source": {
+        "startUid": "u1254",
+        "endUid": "u1264"
+      },
+      "category": "social_interaction"
     },
     {
       "id": "s008",
@@ -77,9 +173,41 @@
       "id": "s009",
       "source": {
         "startUid": "u1294",
+        "endUid": "u1555"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s031",
+      "source": {
+        "startUid": "u1556",
+        "endUid": "u1626"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s032",
+      "source": {
+        "startUid": "u1627",
+        "endUid": "u1651"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s033",
+      "source": {
+        "startUid": "u1652",
+        "endUid": "u1708"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s034",
+      "source": {
+        "startUid": "u1709",
         "endUid": "u1733"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s010",
@@ -93,9 +221,17 @@
       "id": "s011",
       "source": {
         "startUid": "u1740",
+        "endUid": "u1829"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s035",
+      "source": {
+        "startUid": "u1830",
         "endUid": "u1865"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s012",
@@ -106,12 +242,84 @@
       "category": "meta_discussion"
     },
     {
-      "id": "s013",
+      "id": "s036",
       "source": {
         "startUid": "u1965",
-        "endUid": "u2305"
+        "endUid": "u2006"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u2007",
+        "endUid": "u2072"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s037",
+      "source": {
+        "startUid": "u2073",
+        "endUid": "u2115"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s038",
+      "source": {
+        "startUid": "u2116",
+        "endUid": "u2156"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s039",
+      "source": {
+        "startUid": "u2157",
+        "endUid": "u2176"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s040",
+      "source": {
+        "startUid": "u2177",
+        "endUid": "u2194"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s041",
+      "source": {
+        "startUid": "u2195",
+        "endUid": "u2227"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s042",
+      "source": {
+        "startUid": "u2228",
+        "endUid": "u2257"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s043",
+      "source": {
+        "startUid": "u2258",
+        "endUid": "u2265"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s044",
+      "source": {
+        "startUid": "u2266",
+        "endUid": "u2305"
+      },
+      "category": "planning"
     },
     {
       "id": "s014",
@@ -139,12 +347,28 @@
       "note": "Continuous initiative includes the surprised opening cycle, tactical discussion, and corrections. The surviving wyvern remains polymorphed when active initiative gives way to capture planning."
     },
     {
-      "id": "s017",
+      "id": "s045",
       "source": {
         "startUid": "u3034",
-        "endUid": "u3572"
+        "endUid": "u3080"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s046",
+      "source": {
+        "startUid": "u3081",
+        "endUid": "u3197"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u3198",
+        "endUid": "u3572"
+      },
+      "category": "social_interaction"
     },
     {
       "id": "s018",

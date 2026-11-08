@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-014",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-014/cleaned/dunmari-frontier-014-session.yaml",
@@ -17,9 +17,25 @@
       "category": "table_talk"
     },
     {
-      "id": "s002",
+      "id": "s010",
       "source": {
         "startUid": "u0002",
+        "endUid": "u0010"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0011",
+        "endUid": "u0056"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u0057",
         "endUid": "u0058"
       },
       "category": "gameplay"
@@ -34,12 +50,84 @@
       "note": "Explicit out-of-character review of prior discoveries, followed by a timing clarification before in-character planning resumes."
     },
     {
-      "id": "s004",
+      "id": "s012",
       "source": {
         "startUid": "u0224",
+        "endUid": "u0400"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u0401",
+        "endUid": "u0864"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u0865",
+        "endUid": "u0942"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u0943",
+        "endUid": "u0954"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u0955",
+        "endUid": "u1037"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u1038",
+        "endUid": "u1055"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u1056",
+        "endUid": "u1124"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u1125",
+        "endUid": "u1191"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u1192",
+        "endUid": "u1338"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u1339",
         "endUid": "u2093"
       },
-      "category": "gameplay",
+      "category": "exploration",
       "note": "The storm-rune compulsion and rescue resolve without initiative or a repeated ordered turn cycle."
     },
     {
@@ -57,7 +145,7 @@
         "startUid": "u2116",
         "endUid": "u2126"
       },
-      "category": "gameplay"
+      "category": "exploration"
     },
     {
       "id": "s007",
@@ -68,9 +156,33 @@
       "category": "combat"
     },
     {
-      "id": "s008",
+      "id": "s021",
       "source": {
         "startUid": "u2181",
+        "endUid": "u2252"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u2253",
+        "endUid": "u2314"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s023",
+      "source": {
+        "startUid": "u2315",
+        "endUid": "u2352"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u2353",
         "endUid": "u2461"
       },
       "category": "gameplay"

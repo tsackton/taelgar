@@ -10,7 +10,7 @@ Required fields:
 - `provenance`: `sessionId`, `sessionYaml`, `sessionYamlSha256`, `transcriptPath`, `transcriptSha256`, and `segments: {path, sha256, schemaVersion}`.
 - `combats`: array in classification/source order. Use an empty array when the complete classification has no combat segments.
 
-Paths are vault-relative; hashes are SHA-256 of exact file bytes. `provenance.segments.schemaVersion` must be `0.1-transcript-segments-draft`. Check the bound classification's session ID and both YAML/transcript hashes against this file. Referenced artifacts must remain current; changing hashes without reinspection does not refresh an extraction.
+Paths are vault-relative; hashes are SHA-256 of exact file bytes. `provenance.segments.schemaVersion` must match the bound classification (`0.1-transcript-segments-draft` or the gameplay backfill `0.2-transcript-segments-draft`). A gameplay-only backfill can update this dependency after verifying the old binding, identical transcript and session sources, and identical combat segment IDs, order, and boundaries. Check the bound classification's session ID and both YAML/transcript hashes against this file. Referenced artifacts must remain current; changing hashes without reinspection does not refresh an extraction.
 
 Optional `limitations` is a string describing concrete missing source, incomplete reading, or a requested subset of combat segments. Identify affected ranges or segment IDs. Do not use it for generic confidence or round-placement caveats. Omit absent optional fields and empty optional collections.
 

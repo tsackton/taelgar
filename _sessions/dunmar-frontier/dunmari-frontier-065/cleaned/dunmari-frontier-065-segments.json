@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-065",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-065/cleaned/dunmari-frontier-065-session.yaml",
@@ -9,12 +9,68 @@
   },
   "segments": [
     {
-      "id": "s001",
+      "id": "s014",
       "source": {
         "startUid": "u0001",
-        "endUid": "u0690"
+        "endUid": "u0036"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u0037",
+        "endUid": "u0055"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u0056",
+        "endUid": "u0125"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u0126",
+        "endUid": "u0325"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u0326",
+        "endUid": "u0354"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u0355",
+        "endUid": "u0407"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u0408",
+        "endUid": "u0486"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0487",
+        "endUid": "u0690"
+      },
+      "category": "planning"
     },
     {
       "id": "s002",
@@ -25,12 +81,20 @@
       "category": "table_talk"
     },
     {
-      "id": "s003",
+      "id": "s021",
       "source": {
         "startUid": "u0712",
+        "endUid": "u0754"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0755",
         "endUid": "u0829"
       },
-      "category": "gameplay"
+      "category": "exploration"
     },
     {
       "id": "s004",
@@ -42,12 +106,68 @@
       "note": "One continuous initiative encounter; all tactical and technical interruptions remain inside combat."
     },
     {
-      "id": "s005",
+      "id": "s022",
       "source": {
         "startUid": "u1524",
-        "endUid": "u2189"
+        "endUid": "u1547"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s023",
+      "source": {
+        "startUid": "u1548",
+        "endUid": "u1606"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s024",
+      "source": {
+        "startUid": "u1607",
+        "endUid": "u1658"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s025",
+      "source": {
+        "startUid": "u1659",
+        "endUid": "u1673"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s026",
+      "source": {
+        "startUid": "u1674",
+        "endUid": "u1700"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u1701",
+        "endUid": "u2032"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s027",
+      "source": {
+        "startUid": "u2033",
+        "endUid": "u2048"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s028",
+      "source": {
+        "startUid": "u2049",
+        "endUid": "u2189"
+      },
+      "category": "exploration"
     },
     {
       "id": "s006",
@@ -59,12 +179,28 @@
       "note": "The final shared-UID group includes the return to an announced action after sustained audio troubleshooting."
     },
     {
-      "id": "s007",
+      "id": "s029",
       "source": {
         "startUid": "u2208",
-        "endUid": "u2268"
+        "endUid": "u2223"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s030",
+      "source": {
+        "startUid": "u2224",
+        "endUid": "u2243"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u2244",
+        "endUid": "u2268"
+      },
+      "category": "social_interaction"
     },
     {
       "id": "s008",
@@ -80,7 +216,7 @@
         "startUid": "u2289",
         "endUid": "u2311"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s010",

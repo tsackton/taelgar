@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-137",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-137/cleaned/dunmari-frontier-137-session.yaml",
@@ -58,12 +58,172 @@
       "note": "Level-up and spell selection dominate the mixed passage; simultaneous Lego discussion remains in this block."
     },
     {
-      "id": "s007",
+      "id": "s017",
       "source": {
         "startUid": "u1262",
-        "endUid": "u2896"
+        "endUid": "u1273"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u1274",
+        "endUid": "u1349"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u1350",
+        "endUid": "u1381"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u1382",
+        "endUid": "u1458"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u1459",
+        "endUid": "u1503"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u1504",
+        "endUid": "u1585"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s023",
+      "source": {
+        "startUid": "u1586",
+        "endUid": "u1595"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s024",
+      "source": {
+        "startUid": "u1596",
+        "endUid": "u1700"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s025",
+      "source": {
+        "startUid": "u1701",
+        "endUid": "u1763"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s026",
+      "source": {
+        "startUid": "u1764",
+        "endUid": "u1777"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s027",
+      "source": {
+        "startUid": "u1778",
+        "endUid": "u1793"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s028",
+      "source": {
+        "startUid": "u1794",
+        "endUid": "u1817"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s029",
+      "source": {
+        "startUid": "u1818",
+        "endUid": "u2031"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s030",
+      "source": {
+        "startUid": "u2032",
+        "endUid": "u2075"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s031",
+      "source": {
+        "startUid": "u2076",
+        "endUid": "u2213"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s032",
+      "source": {
+        "startUid": "u2214",
+        "endUid": "u2262"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s033",
+      "source": {
+        "startUid": "u2263",
+        "endUid": "u2318"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s034",
+      "source": {
+        "startUid": "u2319",
+        "endUid": "u2396"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s035",
+      "source": {
+        "startUid": "u2397",
+        "endUid": "u2454"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u2455",
+        "endUid": "u2691"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s036",
+      "source": {
+        "startUid": "u2692",
+        "endUid": "u2896"
+      },
+      "category": "exploration"
     },
     {
       "id": "s008",
@@ -75,12 +235,68 @@
       "note": "Kenzo rolls initiative; the single recorded turn includes sample-taking and escape, ending with the return to his companions."
     },
     {
-      "id": "s009",
+      "id": "s037",
       "source": {
         "startUid": "u3050",
-        "endUid": "u3671"
+        "endUid": "u3093"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s038",
+      "source": {
+        "startUid": "u3094",
+        "endUid": "u3120"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u3121",
+        "endUid": "u3329"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s039",
+      "source": {
+        "startUid": "u3330",
+        "endUid": "u3473"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s040",
+      "source": {
+        "startUid": "u3474",
+        "endUid": "u3532"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s041",
+      "source": {
+        "startUid": "u3533",
+        "endUid": "u3551"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s042",
+      "source": {
+        "startUid": "u3552",
+        "endUid": "u3565"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s043",
+      "source": {
+        "startUid": "u3566",
+        "endUid": "u3671"
+      },
+      "category": "planning"
     },
     {
       "id": "s010",
@@ -91,12 +307,20 @@
       "category": "table_talk"
     },
     {
-      "id": "s011",
+      "id": "s044",
       "source": {
         "startUid": "u3697",
+        "endUid": "u3777"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u3778",
         "endUid": "u3874"
       },
-      "category": "gameplay"
+      "category": "planning"
     },
     {
       "id": "s012",
@@ -108,12 +332,52 @@
       "note": "Continuous initiative through the river ooze’s crystallization and immediate release from its hardened restraints; later healing is gameplay."
     },
     {
-      "id": "s013",
+      "id": "s045",
       "source": {
         "startUid": "u5560",
-        "endUid": "u5813"
+        "endUid": "u5618"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s046",
+      "source": {
+        "startUid": "u5619",
+        "endUid": "u5651"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s047",
+      "source": {
+        "startUid": "u5652",
+        "endUid": "u5677"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s048",
+      "source": {
+        "startUid": "u5678",
+        "endUid": "u5688"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s049",
+      "source": {
+        "startUid": "u5689",
+        "endUid": "u5738"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u5739",
+        "endUid": "u5813"
+      },
+      "category": "exploration"
     },
     {
       "id": "s014",

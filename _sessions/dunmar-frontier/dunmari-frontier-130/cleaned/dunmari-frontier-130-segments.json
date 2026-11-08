@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-130",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-130/cleaned/dunmari-frontier-130-session.yaml",
@@ -9,13 +9,93 @@
   },
   "segments": [
     {
-      "id": "s001",
+      "id": "s011",
       "source": {
         "startUid": "u0001",
+        "endUid": "u0035"
+      },
+      "category": "session_framing",
+      "note": "The opening establishes the resumed morning scene; its recap remains part of the mixed opening turn."
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u0036",
+        "endUid": "u0053"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u0054",
+        "endUid": "u0063"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u0064",
+        "endUid": "u0120"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0121",
+        "endUid": "u0332"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u0333",
+        "endUid": "u0395"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u0396",
+        "endUid": "u0577"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u0578",
+        "endUid": "u0617"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u0618",
+        "endUid": "u0659"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u0660",
+        "endUid": "u0688"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u0689",
         "endUid": "u0818"
       },
-      "category": "gameplay",
-      "note": "The opening establishes the resumed morning scene; its recap remains part of the mixed opening turn."
+      "category": "social_interaction"
     },
     {
       "id": "s002",
@@ -29,10 +109,58 @@
       "id": "s003",
       "source": {
         "startUid": "u0838",
+        "endUid": "u1281"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u1282",
+        "endUid": "u1365"
+      },
+      "category": "planning",
+      "note": "The long telepathic sidebar is explicitly confirmed as in-character at u1359–u1364."
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u1366",
+        "endUid": "u1546"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s023",
+      "source": {
+        "startUid": "u1547",
+        "endUid": "u1627"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s024",
+      "source": {
+        "startUid": "u1628",
+        "endUid": "u1834"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s025",
+      "source": {
+        "startUid": "u1835",
+        "endUid": "u1863"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s026",
+      "source": {
+        "startUid": "u1864",
         "endUid": "u2014"
       },
-      "category": "gameplay",
-      "note": "The long telepathic sidebar is explicitly confirmed as in-character at u1359–u1364."
+      "category": "social_interaction"
     },
     {
       "id": "s004",
@@ -43,12 +171,20 @@
       "category": "table_talk"
     },
     {
-      "id": "s005",
+      "id": "s027",
       "source": {
         "startUid": "u2021",
+        "endUid": "u2033"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u2034",
         "endUid": "u2068"
       },
-      "category": "gameplay"
+      "category": "planning"
     },
     {
       "id": "s006",
@@ -60,9 +196,33 @@
       "note": "The DM explicitly discusses next-session scope and the players settle their future harassment plan out of character."
     },
     {
-      "id": "s007",
+      "id": "s028",
       "source": {
         "startUid": "u2120",
+        "endUid": "u2131"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u2132",
+        "endUid": "u2212"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s029",
+      "source": {
+        "startUid": "u2213",
+        "endUid": "u2233"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s030",
+      "source": {
+        "startUid": "u2234",
         "endUid": "u2248"
       },
       "category": "gameplay"
@@ -80,6 +240,14 @@
       "id": "s009",
       "source": {
         "startUid": "u2495",
+        "endUid": "u2620"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s031",
+      "source": {
+        "startUid": "u2621",
         "endUid": "u2622"
       },
       "category": "gameplay",

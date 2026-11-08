@@ -73,15 +73,18 @@ Recording length (transcript timestamp extent): **3:36:55** (0:00:06 → 3:37:01
 
 | Segment class | Elapsed (h:mm:ss) | Elapsed share | Speaking (h:mm:ss) | Speaking share |
 | --- | --- | --- | --- | --- |
-| Gameplay | 2:21:11 | 65.1% | 1:43:38 | 65.9% |
-| Combat | 1:04:11 | 29.6% | 0:44:06 | 28.0% |
-| Meta discussion | 0:10:04 | 4.6% | 0:08:17 | 5.3% |
+| Exploration | 1:15:59 | 35.1% | 0:55:43 | 35.4% |
+| Social interaction | 0:34:08 | 15.8% | 0:24:10 | 15.4% |
+| Planning | 0:20:31 | 9.5% | 0:16:15 | 10.3% |
+| Combat | 1:04:11 | 29.7% | 0:44:06 | 28.0% |
+| Meta discussion | 0:10:37 | 4.9% | 0:08:47 | 5.6% |
 | Table talk | 0:01:25 | 0.7% | 0:01:19 | 0.8% |
 | Session framing | 0:00:00 | 0.0% | 0:00:00 | 0.0% |
-| **Total** | 3:36:51 | 100.0% | 2:37:20 | 100.0% |
+| Gameplay | 0:09:21 | 4.3% | 0:07:01 | 4.5% |
+| **Total** | 3:36:12 | 100.0% | 2:37:20 | 100.0% |
 
 Elapsed time spans each segment block’s first UID start through its latest UID end, including internal pauses. Speaking time covers timestamped utterances only. Each millisecond is counted once; overlaps belong to the earliest source block or utterance. Each share uses its own column total.
 
-Outside segment spans: **0:00:04** in gaps between blocks.
+Outside segment spans: **0:00:42** in gaps between blocks.
 
 Sources · [Transcript](dunmari-frontier-105-transcript.md) · [Time Markers](dunmari-frontier-105-time-markers.json) · [Location Markers](dunmari-frontier-105-location-markers.json) · [Entity Map](dunmari-frontier-105-entity-map.json) · [Interactions](dunmari-frontier-105-interactions.json) · [Combat](dunmari-frontier-105-combat.json) · [Segments](dunmari-frontier-105-segments.json) · [Watch data](dunmari-frontier-105-time-watches.json) · [Session 105 campaign record](../../../../Campaigns/Dunmari%20Frontier%20Campaign/Session%20Notes/Session%20105%20%28DuFr%29.md) · [Session 106 handoff](../../dunmari-frontier-106/cleaned/dunmari-frontier-106-transcript.md) · [Session 107 narrative registration](../../dunmari-frontier-107/cleaned/dunmari-frontier-107-session.yaml) · [Session 107 prepared narrative](../../dunmari-frontier-107/cleaned/dunmari-frontier-107-source-prepared.md)

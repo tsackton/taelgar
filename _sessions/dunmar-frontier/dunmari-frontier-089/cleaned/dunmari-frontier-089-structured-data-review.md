@@ -90,15 +90,18 @@ Recording length (transcript timestamp extent): **2:55:12** (0:00:04 → 2:55:17
 
 | Segment class | Elapsed (h:mm:ss) | Elapsed share | Speaking (h:mm:ss) | Speaking share |
 | --- | --- | --- | --- | --- |
-| Gameplay | 2:43:02 | 93.2% | 2:12:58 | 92.4% |
+| Exploration | 0:59:58 | 34.5% | 0:49:52 | 34.6% |
+| Social interaction | 0:28:26 | 16.3% | 0:21:52 | 15.2% |
+| Planning | 0:17:55 | 10.3% | 0:15:36 | 10.8% |
 | Combat | 0:00:00 | 0.0% | 0:00:00 | 0.0% |
 | Meta discussion | 0:10:07 | 5.8% | 0:09:14 | 6.4% |
 | Table talk | 0:01:51 | 1.1% | 0:01:45 | 1.2% |
-| Session framing | 0:00:00 | 0.0% | 0:00:00 | 0.0% |
-| **Total** | 2:55:00 | 100.0% | 2:23:57 | 100.0% |
+| Session framing | 0:06:07 | 3.5% | 0:05:26 | 3.8% |
+| Gameplay | 0:49:37 | 28.5% | 0:40:12 | 27.9% |
+| **Total** | 2:54:01 | 100.0% | 2:23:57 | 100.0% |
 
 Elapsed time spans each segment block’s first UID start through its latest UID end, including internal pauses. Speaking time covers timestamped utterances only. Each millisecond is counted once; overlaps belong to the earliest source block or utterance. Each share uses its own column total.
 
-Outside segment spans: **0:00:13** in gaps between blocks.
+Outside segment spans: **0:01:12** in gaps between blocks.
 
 Sources · [Transcript](dunmari-frontier-089-transcript.md) · [Time Markers](dunmari-frontier-089-time-markers.json) · [Location Markers](dunmari-frontier-089-location-markers.json) · [Entity Map](dunmari-frontier-089-entity-map.json) · [Interactions](dunmari-frontier-089-interactions.json) · [Combat](dunmari-frontier-089-combat.json) · [Segments](dunmari-frontier-089-segments.json) · [Watch data](dunmari-frontier-089-time-watches.json) · [Agata: prior scepter custody](../../../../People/Fey/Agata.md) · [Scepter: prior custody](../../../../Things/Artifacts%20of%20Power/Scepter%20of%20Command.md)

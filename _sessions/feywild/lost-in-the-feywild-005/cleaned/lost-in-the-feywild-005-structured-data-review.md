@@ -70,15 +70,18 @@ Recording length (transcript timestamp extent): **2:46:08** (0:00:00 → 2:46:08
 
 | Segment class | Elapsed (h:mm:ss) | Elapsed share | Speaking (h:mm:ss) | Speaking share |
 | --- | --- | --- | --- | --- |
-| Gameplay | 1:43:55 | 62.6% | 1:18:36 | 63.2% |
-| Combat | 0:51:23 | 31.0% | 0:36:12 | 29.1% |
+| Exploration | 0:34:58 | 21.1% | 0:25:48 | 20.8% |
+| Social interaction | 0:26:15 | 15.9% | 0:18:47 | 15.1% |
+| Planning | 0:09:35 | 5.8% | 0:07:40 | 6.2% |
+| Combat | 0:51:23 | 31.1% | 0:36:12 | 29.1% |
 | Meta discussion | 0:03:09 | 1.9% | 0:02:42 | 2.2% |
 | Table talk | 0:01:13 | 0.7% | 0:00:59 | 0.8% |
-| Session framing | 0:06:17 | 3.8% | 0:05:49 | 4.7% |
-| **Total** | 2:45:57 | 100.0% | 2:04:18 | 100.0% |
+| Session framing | 0:18:56 | 11.4% | 0:16:18 | 13.1% |
+| Gameplay | 0:19:55 | 12.0% | 0:15:52 | 12.8% |
+| **Total** | 2:45:24 | 100.0% | 2:04:18 | 100.0% |
 
 Elapsed time spans each segment block’s first UID start through its latest UID end, including internal pauses. Speaking time covers timestamped utterances only. Each millisecond is counted once; overlaps belong to the earliest source block or utterance. Each share uses its own column total.
 
-Outside segment spans: **0:00:10** in gaps between blocks.
+Outside segment spans: **0:00:44** in gaps between blocks.
 
 Sources · [Transcript](lost-in-the-feywild-005-transcript.md) · [Time Markers](lost-in-the-feywild-005-time-markers.json) · [Location Markers](lost-in-the-feywild-005-location-markers.json) · [Entity Map](lost-in-the-feywild-005-entity-map.json) · [Interactions](lost-in-the-feywild-005-interactions.json) · [Combat](lost-in-the-feywild-005-combat.json) · [Segments](lost-in-the-feywild-005-segments.json) · [Watch data](lost-in-the-feywild-005-time-watches.json) · [Session 4 greenhouse handoff, u2090–u2114](../../lost-in-the-feywild-004/cleaned/lost-in-the-feywild-004-transcript.md)
