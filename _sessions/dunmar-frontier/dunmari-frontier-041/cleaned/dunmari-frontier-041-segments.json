@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-041",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-041/cleaned/dunmari-frontier-041-session.yaml",
@@ -18,13 +18,101 @@
       "note": "Opening overview of the gods outside the party’s current action."
     },
     {
-      "id": "s002",
+      "id": "s016",
       "source": {
         "startUid": "u0017",
-        "endUid": "u0952"
+        "endUid": "u0037"
       },
       "category": "gameplay",
       "note": "The opening moves into present action at Saka’s camp; in-character deliberation and retrospective reporting remain gameplay."
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u0038",
+        "endUid": "u0110"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u0111",
+        "endUid": "u0164"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u0165",
+        "endUid": "u0180"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u0181",
+        "endUid": "u0204"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u0205",
+        "endUid": "u0263"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u0264",
+        "endUid": "u0324"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s023",
+      "source": {
+        "startUid": "u0325",
+        "endUid": "u0376"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s024",
+      "source": {
+        "startUid": "u0377",
+        "endUid": "u0543"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s025",
+      "source": {
+        "startUid": "u0544",
+        "endUid": "u0659"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s026",
+      "source": {
+        "startUid": "u0660",
+        "endUid": "u0712"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0713",
+        "endUid": "u0952"
+      },
+      "category": "social_interaction"
     },
     {
       "id": "s003",
@@ -40,7 +128,7 @@
         "startUid": "u0964",
         "endUid": "u1185"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s005",
@@ -52,9 +140,65 @@
       "note": "Explicit metagame discussion of research methods, funding and archive leadership."
     },
     {
-      "id": "s006",
+      "id": "s027",
       "source": {
         "startUid": "u1210",
+        "endUid": "u1248"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s028",
+      "source": {
+        "startUid": "u1249",
+        "endUid": "u1299"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s029",
+      "source": {
+        "startUid": "u1300",
+        "endUid": "u1318"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s030",
+      "source": {
+        "startUid": "u1319",
+        "endUid": "u1329"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s031",
+      "source": {
+        "startUid": "u1330",
+        "endUid": "u1352"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u1353",
+        "endUid": "u1490"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s032",
+      "source": {
+        "startUid": "u1491",
+        "endUid": "u1573"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s033",
+      "source": {
+        "startUid": "u1574",
         "endUid": "u1604"
       },
       "category": "gameplay"
@@ -73,7 +217,7 @@
         "startUid": "u1608",
         "endUid": "u1872"
       },
-      "category": "gameplay",
+      "category": "social_interaction",
       "note": "Theological debate is spoken in character to Kassi, not session framing."
     },
     {
@@ -90,7 +234,7 @@
         "startUid": "u1885",
         "endUid": "u1926"
       },
-      "category": "gameplay",
+      "category": "social_interaction",
       "note": "Kenzo’s tree visit remains an intention; discussion with Basu is enacted."
     },
     {
@@ -103,12 +247,20 @@
       "note": "Magic-item expectations and arrangements to handle additional downtime by email."
     },
     {
-      "id": "s012",
+      "id": "s034",
       "source": {
         "startUid": "u1940",
-        "endUid": "u2104"
+        "endUid": "u1947"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u1948",
+        "endUid": "u2104"
+      },
+      "category": "social_interaction"
     },
     {
       "id": "s013",
@@ -125,7 +277,7 @@
         "startUid": "u2159",
         "endUid": "u2259"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s015",

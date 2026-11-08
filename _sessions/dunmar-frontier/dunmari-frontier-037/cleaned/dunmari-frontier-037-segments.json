@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-037",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-037/cleaned/dunmari-frontier-037-session.yaml",
@@ -50,12 +50,36 @@
       "note": "Initiative remains the organizing frame across parley, the closed door, and the renewed attempt to pass; the final restrained guardian is destroyed before healing begins."
     },
     {
-      "id": "s006",
+      "id": "s018",
       "source": {
         "startUid": "u0983",
-        "endUid": "u1282"
+        "endUid": "u1012"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u1013",
+        "endUid": "u1146"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u1147",
+        "endUid": "u1254"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u1255",
+        "endUid": "u1282"
+      },
+      "category": "social_interaction"
     },
     {
       "id": "s007",
@@ -72,7 +96,7 @@
         "startUid": "u1861",
         "endUid": "u1894"
       },
-      "category": "gameplay"
+      "category": "exploration"
     },
     {
       "id": "s009",
@@ -83,12 +107,68 @@
       "category": "table_talk"
     },
     {
-      "id": "s010",
+      "id": "s021",
       "source": {
         "startUid": "u1908",
-        "endUid": "u2707"
+        "endUid": "u1947"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u1948",
+        "endUid": "u1975"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s023",
+      "source": {
+        "startUid": "u1976",
+        "endUid": "u2153"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u2154",
+        "endUid": "u2381"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s024",
+      "source": {
+        "startUid": "u2382",
+        "endUid": "u2406"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s025",
+      "source": {
+        "startUid": "u2407",
+        "endUid": "u2540"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s026",
+      "source": {
+        "startUid": "u2541",
+        "endUid": "u2582"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s027",
+      "source": {
+        "startUid": "u2583",
+        "endUid": "u2707"
+      },
+      "category": "planning"
     },
     {
       "id": "s011",
@@ -100,12 +180,20 @@
       "note": "Includes the ladder trap and the surprise cycle; initiative is explicitly ended in the following mixed transition turn."
     },
     {
-      "id": "s012",
+      "id": "s028",
       "source": {
         "startUid": "u2883",
+        "endUid": "u2954"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u2955",
         "endUid": "u3053"
       },
-      "category": "gameplay"
+      "category": "planning"
     },
     {
       "id": "s013",
@@ -121,7 +209,7 @@
         "startUid": "u3062",
         "endUid": "u3100"
       },
-      "category": "gameplay"
+      "category": "exploration"
     },
     {
       "id": "s015",

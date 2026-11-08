@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-131",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-131/cleaned/dunmari-frontier-131-session.yaml",
@@ -20,10 +20,18 @@
       "id": "s002",
       "source": {
         "startUid": "u0010",
-        "endUid": "u0053"
+        "endUid": "u0035"
       },
       "category": "gameplay",
       "note": "The retrospective divine narration resolves events during the preceding night and dawn; it is active narrated play."
+    },
+    {
+      "id": "s024",
+      "source": {
+        "startUid": "u0036",
+        "endUid": "u0053"
+      },
+      "category": "session_framing"
     },
     {
       "id": "s003",
@@ -39,7 +47,7 @@
         "startUid": "u0107",
         "endUid": "u0249"
       },
-      "category": "gameplay"
+      "category": "exploration"
     },
     {
       "id": "s005",
@@ -63,7 +71,7 @@
         "startUid": "u0512",
         "endUid": "u0547"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s008",
@@ -74,12 +82,52 @@
       "category": "meta_discussion"
     },
     {
-      "id": "s009",
+      "id": "s025",
       "source": {
         "startUid": "u0673",
-        "endUid": "u0892"
+        "endUid": "u0705"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u0706",
+        "endUid": "u0800"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s026",
+      "source": {
+        "startUid": "u0801",
+        "endUid": "u0811"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s027",
+      "source": {
+        "startUid": "u0812",
+        "endUid": "u0839"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s028",
+      "source": {
+        "startUid": "u0840",
+        "endUid": "u0859"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s029",
+      "source": {
+        "startUid": "u0860",
+        "endUid": "u0892"
+      },
+      "category": "planning"
     },
     {
       "id": "s010",
@@ -91,9 +139,25 @@
       "note": "Ordered rounds begin without an initiative roll; initiative is rolled during the continuous raid. The escape is confirmed at u1238–u1241."
     },
     {
-      "id": "s011",
+      "id": "s030",
       "source": {
         "startUid": "u1242",
+        "endUid": "u1272"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u1273",
+        "endUid": "u1310"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s031",
+      "source": {
+        "startUid": "u1311",
         "endUid": "u1335"
       },
       "category": "gameplay"
@@ -110,9 +174,25 @@
       "id": "s013",
       "source": {
         "startUid": "u1417",
-        "endUid": "u1539"
+        "endUid": "u1475"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s032",
+      "source": {
+        "startUid": "u1476",
+        "endUid": "u1508"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s033",
+      "source": {
+        "startUid": "u1509",
+        "endUid": "u1539"
+      },
+      "category": "exploration"
     },
     {
       "id": "s014",
@@ -123,13 +203,29 @@
       "category": "meta_discussion"
     },
     {
-      "id": "s015",
+      "id": "s034",
       "source": {
         "startUid": "u1675",
-        "endUid": "u1825"
+        "endUid": "u1710"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u1711",
+        "endUid": "u1771"
       },
       "category": "gameplay",
       "note": "The earthquake raid resolves one spell and escape without initiative or a repeated ordered turn cycle."
+    },
+    {
+      "id": "s035",
+      "source": {
+        "startUid": "u1772",
+        "endUid": "u1825"
+      },
+      "category": "exploration"
     },
     {
       "id": "s016",
@@ -140,12 +236,36 @@
       "category": "meta_discussion"
     },
     {
-      "id": "s017",
+      "id": "s036",
       "source": {
         "startUid": "u2074",
+        "endUid": "u2087"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u2088",
+        "endUid": "u2154"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s037",
+      "source": {
+        "startUid": "u2155",
+        "endUid": "u2173"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s038",
+      "source": {
+        "startUid": "u2174",
         "endUid": "u2188"
       },
-      "category": "gameplay"
+      "category": "exploration"
     },
     {
       "id": "s018",
@@ -169,7 +289,7 @@
         "startUid": "u2674",
         "endUid": "u2771"
       },
-      "category": "gameplay"
+      "category": "exploration"
     },
     {
       "id": "s021",

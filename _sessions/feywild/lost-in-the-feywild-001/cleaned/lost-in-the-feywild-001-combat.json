@@ -8,8 +8,8 @@
     "transcriptSha256": "298ea2c22028167c4879dde7e113f05b35d541b25c1ce2587ac779c2fd86dc02",
     "segments": {
       "path": "_sessions/feywild/lost-in-the-feywild-001/cleaned/lost-in-the-feywild-001-segments.json",
-      "sha256": "ed6b2e8ccb84c683bfbb1ddd6efebaea8243bfe1337871b0fa79a60c80b5760f",
-      "schemaVersion": "0.1-transcript-segments-draft"
+      "sha256": "58e3a14023b336fc238a01c823d4963c452e714b8f3c63f054da9fc31b06f087",
+      "schemaVersion": "0.2-transcript-segments-draft"
     }
   },
   "combats": []

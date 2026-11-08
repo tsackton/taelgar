@@ -8,8 +8,8 @@
     "transcriptSha256": "66da15b0cb560901f4968940f61e450ff75b984cfa81ddb3ed4583364e9e8647",
     "segments": {
       "path": "_sessions/into-the-chasm/into-the-chasm-001/cleaned/into-the-chasm-001-segments.json",
-      "sha256": "e084c7c091d1c30e696a0798362537c8a5069c4cc7caac27715154f11bb962e9",
-      "schemaVersion": "0.1-transcript-segments-draft"
+      "sha256": "c7f741aa07f8f0af597aaad1492d8f762872408eadc654e80507e469c81f47c4",
+      "schemaVersion": "0.2-transcript-segments-draft"
     }
   },
   "combats": [

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-070",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-070/cleaned/dunmari-frontier-070-session.yaml",
@@ -22,7 +22,7 @@
         "startUid": "u0004",
         "endUid": "u0008"
       },
-      "category": "gameplay"
+      "category": "session_framing"
     },
     {
       "id": "s003",
@@ -38,7 +38,7 @@
         "startUid": "u0045",
         "endUid": "u0048"
       },
-      "category": "gameplay"
+      "category": "session_framing"
     },
     {
       "id": "s005",
@@ -49,12 +49,28 @@
       "category": "meta_discussion"
     },
     {
-      "id": "s006",
+      "id": "s020",
       "source": {
         "startUid": "u0074",
-        "endUid": "u0356"
+        "endUid": "u0095"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u0096",
+        "endUid": "u0223"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u0224",
+        "endUid": "u0356"
+      },
+      "category": "exploration"
     },
     {
       "id": "s007",
@@ -68,9 +84,17 @@
       "id": "s008",
       "source": {
         "startUid": "u0388",
+        "endUid": "u0523"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u0524",
         "endUid": "u0548"
       },
-      "category": "gameplay"
+      "category": "session_framing"
     },
     {
       "id": "s009",
@@ -81,12 +105,28 @@
       "category": "table_talk"
     },
     {
-      "id": "s010",
+      "id": "s023",
       "source": {
         "startUid": "u0562",
+        "endUid": "u0591"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s024",
+      "source": {
+        "startUid": "u0592",
+        "endUid": "u0737"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u0738",
         "endUid": "u1001"
       },
-      "category": "gameplay"
+      "category": "exploration"
     },
     {
       "id": "s011",
@@ -98,12 +138,20 @@
       "note": "Continuous ordered escape encounter, including setup and corrections; ends after the party evades pursuit and regroups at the tower."
     },
     {
-      "id": "s012",
+      "id": "s025",
       "source": {
         "startUid": "u1387",
+        "endUid": "u1628"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u1629",
         "endUid": "u1894"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s013",
@@ -119,7 +167,7 @@
         "startUid": "u1905",
         "endUid": "u2410"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s015",
@@ -135,7 +183,7 @@
         "startUid": "u2417",
         "endUid": "u2607"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s017",
@@ -146,9 +194,41 @@
       "category": "meta_discussion"
     },
     {
-      "id": "s018",
+      "id": "s026",
       "source": {
         "startUid": "u2642",
+        "endUid": "u2708"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s027",
+      "source": {
+        "startUid": "u2709",
+        "endUid": "u2779"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s028",
+      "source": {
+        "startUid": "u2780",
+        "endUid": "u2835"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u2836",
+        "endUid": "u2918"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s029",
+      "source": {
+        "startUid": "u2919",
         "endUid": "u2943"
       },
       "category": "gameplay",

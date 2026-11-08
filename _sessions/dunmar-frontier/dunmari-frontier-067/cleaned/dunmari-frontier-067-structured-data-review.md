@@ -81,15 +81,18 @@ Recording length (transcript timestamp extent): **3:43:07** (0:00:02 → 3:43:09
 
 | Segment class | Elapsed (h:mm:ss) | Elapsed share | Speaking (h:mm:ss) | Speaking share |
 | --- | --- | --- | --- | --- |
-| Gameplay | 2:19:45 | 62.7% | 1:32:56 | 62.4% |
-| Combat | 1:12:53 | 32.7% | 0:47:44 | 32.0% |
-| Meta discussion | 0:03:23 | 1.5% | 0:02:39 | 1.8% |
+| Exploration | 0:20:20 | 9.1% | 0:15:01 | 10.1% |
+| Social interaction | 1:30:07 | 40.6% | 0:56:40 | 38.0% |
+| Planning | 0:03:08 | 1.4% | 0:01:55 | 1.3% |
+| Combat | 1:12:53 | 32.8% | 0:47:44 | 32.0% |
+| Meta discussion | 0:04:03 | 1.8% | 0:03:13 | 2.2% |
 | Table talk | 0:03:55 | 1.8% | 0:03:01 | 2.0% |
-| Session framing | 0:02:59 | 1.3% | 0:02:39 | 1.8% |
-| **Total** | 3:42:55 | 100.0% | 2:29:00 | 100.0% |
+| Session framing | 0:16:06 | 7.2% | 0:12:52 | 8.6% |
+| Gameplay | 0:11:38 | 5.2% | 0:08:32 | 5.7% |
+| **Total** | 3:42:11 | 100.0% | 2:29:00 | 100.0% |
 
 Elapsed time spans each segment block’s first UID start through its latest UID end, including internal pauses. Speaking time covers timestamped utterances only. Each millisecond is counted once; overlaps belong to the earliest source block or utterance. Each share uses its own column total.
 
-Outside segment spans: **0:00:12** in gaps between blocks.
+Outside segment spans: **0:00:56** in gaps between blocks.
 
 Sources · [Transcript](dunmari-frontier-067-transcript.md) · [Time Markers](dunmari-frontier-067-time-markers.json) · [Location Markers](dunmari-frontier-067-location-markers.json) · [Entity Map](dunmari-frontier-067-entity-map.json) · [Interactions](dunmari-frontier-067-interactions.json) · [Combat](dunmari-frontier-067-combat.json) · [Segments](dunmari-frontier-067-segments.json) · [Watch data](dunmari-frontier-067-time-watches.json) · [Kenzo handoff, session 064](../../dunmari-frontier-064/cleaned/dunmari-frontier-064-transcript.md) · [Seeker and Caulaus handoff, session 065](../../dunmari-frontier-065/cleaned/dunmari-frontier-065-transcript.md) · [Wellby handoff, session 066](../../dunmari-frontier-066/cleaned/dunmari-frontier-066-transcript.md) · [Dated session record](../../../../Campaigns/Dunmari%20Frontier%20Campaign/Session%20Notes/Session%2067%20%28DuFr%29.md) · [Competing imprisonment date](../../../../People/Fey/Agata.md) · [Competing nymph encounter date](../../../../People/Fey/Melusine.md)

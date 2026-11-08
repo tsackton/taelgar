@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-095",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-095/cleaned/dunmari-frontier-095-session.yaml",
@@ -43,12 +43,165 @@
       "note": "Out-of-character route comparison ends with the DM explicitly requesting an in-character conversation."
     },
     {
-      "id": "s005",
+      "id": "s007",
       "source": {
         "startUid": "u0115",
+        "endUid": "u0207"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u0208",
+        "endUid": "u0443"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u0444",
+        "endUid": "u0487"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u0488",
+        "endUid": "u0520"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u0521",
+        "endUid": "u0905"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u0906",
+        "endUid": "u0964"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u0965",
+        "endUid": "u0991"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u0992",
+        "endUid": "u1099"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u1100",
+        "endUid": "u1166"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u1167",
+        "endUid": "u1174"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u1175",
+        "endUid": "u1251"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u1252",
+        "endUid": "u1382"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u1383",
+        "endUid": "u1448"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u1449",
+        "endUid": "u1464"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u1465",
+        "endUid": "u1480"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u1481",
+        "endUid": "u1586"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s023",
+      "source": {
+        "startUid": "u1587",
+        "endUid": "u1759"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u1760",
+        "endUid": "u2454"
+      },
+      "category": "social_interaction",
+      "note": "Includes telepathic party planning and brief rules/asides within active social play."
+    },
+    {
+      "id": "s024",
+      "source": {
+        "startUid": "u2455",
+        "endUid": "u2473"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s025",
+      "source": {
+        "startUid": "u2474",
         "endUid": "u3053"
       },
-      "category": "gameplay",
+      "category": "social_interaction",
       "note": "Includes telepathic party planning and brief rules/asides within active social play."
     },
     {

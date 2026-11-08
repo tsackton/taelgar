@@ -77,15 +77,18 @@ Recording length (transcript timestamp extent): **3:07:29** (0:00:04 → 3:07:33
 
 | Segment class | Elapsed (h:mm:ss) | Elapsed share | Speaking (h:mm:ss) | Speaking share |
 | --- | --- | --- | --- | --- |
-| Gameplay | 2:17:22 | 73.4% | 1:37:38 | 74.3% |
-| Combat | 0:44:05 | 23.6% | 0:31:12 | 23.7% |
+| Exploration | 0:27:51 | 15.0% | 0:19:08 | 14.6% |
+| Social interaction | 0:39:57 | 21.5% | 0:26:28 | 20.1% |
+| Planning | 0:41:49 | 22.5% | 0:30:22 | 23.1% |
+| Combat | 0:44:05 | 23.7% | 0:31:12 | 23.7% |
 | Meta discussion | 0:00:00 | 0.0% | 0:00:00 | 0.0% |
-| Table talk | 0:05:41 | 3.0% | 0:02:32 | 1.9% |
-| Session framing | 0:00:00 | 0.0% | 0:00:00 | 0.0% |
-| **Total** | 3:07:09 | 100.0% | 2:11:22 | 100.0% |
+| Table talk | 0:05:41 | 3.1% | 0:02:32 | 1.9% |
+| Session framing | 0:05:46 | 3.1% | 0:05:15 | 4.0% |
+| Gameplay | 0:20:46 | 11.2% | 0:16:26 | 12.5% |
+| **Total** | 3:05:56 | 100.0% | 2:11:22 | 100.0% |
 
 Elapsed time spans each segment block’s first UID start through its latest UID end, including internal pauses. Speaking time covers timestamped utterances only. Each millisecond is counted once; overlaps belong to the earliest source block or utterance. Each share uses its own column total.
 
-Outside segment spans: **0:00:21** in gaps between blocks.
+Outside segment spans: **0:01:33** in gaps between blocks.
 
 Sources · [Transcript](dunmari-frontier-106-transcript.md) · [Time Markers](dunmari-frontier-106-time-markers.json) · [Location Markers](dunmari-frontier-106-location-markers.json) · [Entity Map](dunmari-frontier-106-entity-map.json) · [Interactions](dunmari-frontier-106-interactions.json) · [Combat](dunmari-frontier-106-combat.json) · [Segments](dunmari-frontier-106-segments.json) · [Watch data](dunmari-frontier-106-time-watches.json) · [Session 105 closing scouting](../../dunmari-frontier-105/cleaned/dunmari-frontier-105-transcript.md) · [Session 107 registered narrative and same beach handoff](../../dunmari-frontier-107/cleaned/dunmari-frontier-107-source-prepared.md) · [Session 107 calendar and narrative registration](../../dunmari-frontier-107/cleaned/dunmari-frontier-107-session.yaml) · [Session 108 later inland opening](../../dunmari-frontier-108/cleaned/dunmari-frontier-108-transcript.md)

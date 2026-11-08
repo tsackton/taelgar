@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-068",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-068/cleaned/dunmari-frontier-068-session.yaml",
@@ -26,12 +26,28 @@
       "category": "table_talk"
     },
     {
-      "id": "s003",
+      "id": "s012",
       "source": {
         "startUid": "u0060",
+        "endUid": "u0308"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0309",
+        "endUid": "u2103"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u2104",
         "endUid": "u2139"
       },
-      "category": "gameplay"
+      "category": "planning"
     },
     {
       "id": "s004",
@@ -42,9 +58,25 @@
       "category": "table_talk"
     },
     {
-      "id": "s005",
+      "id": "s014",
       "source": {
         "startUid": "u2151",
+        "endUid": "u2176"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u2177",
+        "endUid": "u2216"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u2217",
         "endUid": "u2290"
       },
       "category": "gameplay"
@@ -64,7 +96,7 @@
         "startUid": "u2556",
         "endUid": "u2648"
       },
-      "category": "gameplay"
+      "category": "planning"
     },
     {
       "id": "s008",
@@ -80,7 +112,7 @@
         "startUid": "u2716",
         "endUid": "u3074"
       },
-      "category": "gameplay"
+      "category": "planning"
     },
     {
       "id": "s010",

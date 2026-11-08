@@ -74,15 +74,18 @@ Recording length (transcript timestamp extent): **3:44:55** (0:00:00 → 3:44:55
 
 | Segment class | Elapsed (h:mm:ss) | Elapsed share | Speaking (h:mm:ss) | Speaking share |
 | --- | --- | --- | --- | --- |
-| Gameplay | 3:10:02 | 84.7% | 2:17:43 | 86.5% |
+| Exploration | 0:10:19 | 4.6% | 0:08:02 | 5.0% |
+| Social interaction | 1:56:22 | 52.1% | 1:18:53 | 49.5% |
+| Planning | 0:54:57 | 24.6% | 0:44:37 | 28.0% |
 | Combat | 0:00:00 | 0.0% | 0:00:00 | 0.0% |
 | Meta discussion | 0:14:51 | 6.6% | 0:12:58 | 8.1% |
 | Table talk | 0:18:47 | 8.4% | 0:08:01 | 5.0% |
 | Session framing | 0:00:36 | 0.3% | 0:00:35 | 0.4% |
-| **Total** | 3:44:16 | 100.0% | 2:39:16 | 100.0% |
+| Gameplay | 0:07:39 | 3.4% | 0:06:11 | 3.9% |
+| **Total** | 3:43:31 | 100.0% | 2:39:16 | 100.0% |
 
 Elapsed time spans each segment block’s first UID start through its latest UID end, including internal pauses. Speaking time covers timestamped utterances only. Each millisecond is counted once; overlaps belong to the earliest source block or utterance. Each share uses its own column total.
 
-Outside segment spans: **0:00:39** in gaps between blocks.
+Outside segment spans: **0:01:25** in gaps between blocks.
 
 Sources · [Transcript](dunmari-frontier-076-transcript.md) · [Time Markers](dunmari-frontier-076-time-markers.json) · [Location Markers](dunmari-frontier-076-location-markers.json) · [Entity Map](dunmari-frontier-076-entity-map.json) · [Interactions](dunmari-frontier-076-interactions.json) · [Combat](dunmari-frontier-076-combat.json) · [Segments](dunmari-frontier-076-segments.json) · [Watch data](dunmari-frontier-076-time-watches.json) · [Session 75 dated handoff](../../../../Campaigns/Dunmari%20Frontier%20Campaign/Session%20Notes/Session%2075%20%28DuFr%29.md) · [Session 76 dated record](../../../../Campaigns/Dunmari%20Frontier%20Campaign/Session%20Notes/Session%2076%20%28DuFr%29.md) · [Lubash meeting-date discrepancy](../../../../People/Orcs/Lubash.md) · [Murook meeting-date discrepancy](../../../../People/Orcs/Murook.md) · [Azogar meeting-date discrepancy](../../../../People/Orcs/Azogar.md)

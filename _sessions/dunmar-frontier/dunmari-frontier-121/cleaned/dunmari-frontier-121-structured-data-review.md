@@ -74,15 +74,18 @@ Recording length (transcript timestamp extent): **3:32:43** (0:00:14 → 3:32:57
 
 | Segment class | Elapsed (h:mm:ss) | Elapsed share | Speaking (h:mm:ss) | Speaking share |
 | --- | --- | --- | --- | --- |
-| Gameplay | 1:39:17 | 46.7% | 1:14:46 | 47.9% |
-| Combat | 1:48:42 | 51.2% | 1:17:17 | 49.6% |
-| Meta discussion | 0:00:00 | 0.0% | 0:00:00 | 0.0% |
+| Exploration | 0:31:54 | 15.1% | 0:24:00 | 15.4% |
+| Social interaction | 0:21:56 | 10.4% | 0:16:20 | 10.5% |
+| Planning | 0:23:36 | 11.2% | 0:17:54 | 11.5% |
+| Combat | 1:48:42 | 51.5% | 1:17:17 | 49.6% |
+| Meta discussion | 0:02:03 | 1.0% | 0:01:24 | 0.9% |
 | Table talk | 0:01:47 | 0.8% | 0:01:28 | 0.9% |
-| Session framing | 0:02:43 | 1.3% | 0:02:25 | 1.5% |
-| **Total** | 3:32:29 | 100.0% | 2:35:57 | 100.0% |
+| Session framing | 0:03:35 | 1.7% | 0:03:11 | 2.0% |
+| Gameplay | 0:17:37 | 8.3% | 0:14:23 | 9.2% |
+| **Total** | 3:31:08 | 100.0% | 2:35:57 | 100.0% |
 
 Elapsed time spans each segment block’s first UID start through its latest UID end, including internal pauses. Speaking time covers timestamped utterances only. Each millisecond is counted once; overlaps belong to the earliest source block or utterance. Each share uses its own column total.
 
-Outside segment spans: **0:00:14** in gaps between blocks.
+Outside segment spans: **0:01:35** in gaps between blocks.
 
 Sources · [Transcript](dunmari-frontier-121-transcript.md) · [Time Markers](dunmari-frontier-121-time-markers.json) · [Location Markers](dunmari-frontier-121-location-markers.json) · [Entity Map](dunmari-frontier-121-entity-map.json) · [Interactions](dunmari-frontier-121-interactions.json) · [Combat](dunmari-frontier-121-combat.json) · [Segments](dunmari-frontier-121-segments.json) · [Watch data](dunmari-frontier-121-time-watches.json) · [Previous-session departure from Sunwine Hall](../../dunmari-frontier-120/cleaned/dunmari-frontier-120-transcript.md) · [Following-session opening outside the darkness](../../dunmari-frontier-122/cleaned/dunmari-frontier-122-transcript.md)

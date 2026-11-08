@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-133",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-133/cleaned/dunmari-frontier-133-session.yaml",
@@ -12,9 +12,25 @@
       "id": "s001",
       "source": {
         "startUid": "u0001",
-        "endUid": "u0092"
+        "endUid": "u0057"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u0058",
+        "endUid": "u0078"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u0079",
+        "endUid": "u0092"
+      },
+      "category": "social_interaction"
     },
     {
       "id": "s002",
@@ -26,9 +42,17 @@
       "note": "Initiative continues through the Empress’s death, the Elemental Cataclysm that replaces her, and its defeat."
     },
     {
-      "id": "s003",
+      "id": "s010",
       "source": {
         "startUid": "u2644",
+        "endUid": "u2663"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u2664",
         "endUid": "u2699"
       },
       "category": "gameplay"

@@ -95,15 +95,18 @@ Recording length (transcript timestamp extent): **3:34:49** (0:00:02 → 3:34:51
 
 | Segment class | Elapsed (h:mm:ss) | Elapsed share | Speaking (h:mm:ss) | Speaking share |
 | --- | --- | --- | --- | --- |
-| Gameplay | 2:15:16 | 63.0% | 1:51:38 | 64.6% |
-| Combat | 1:07:14 | 31.3% | 0:55:13 | 31.9% |
+| Exploration | 0:54:51 | 25.6% | 0:46:23 | 26.8% |
+| Social interaction | 0:19:47 | 9.2% | 0:15:29 | 9.0% |
+| Planning | 0:36:09 | 16.9% | 0:29:40 | 17.2% |
+| Combat | 1:07:14 | 31.4% | 0:55:13 | 31.9% |
 | Meta discussion | 0:00:00 | 0.0% | 0:00:00 | 0.0% |
 | Table talk | 0:12:05 | 5.6% | 0:06:00 | 3.5% |
-| Session framing | 0:00:00 | 0.0% | 0:00:00 | 0.0% |
-| **Total** | 3:34:35 | 100.0% | 2:52:50 | 100.0% |
+| Session framing | 0:07:24 | 3.5% | 0:06:25 | 3.7% |
+| Gameplay | 0:16:23 | 7.7% | 0:13:41 | 7.9% |
+| **Total** | 3:33:54 | 100.0% | 2:52:50 | 100.0% |
 
 Elapsed time spans each segment block’s first UID start through its latest UID end, including internal pauses. Speaking time covers timestamped utterances only. Each millisecond is counted once; overlaps belong to the earliest source block or utterance. Each share uses its own column total.
 
-Outside segment spans: **0:00:14** in gaps between blocks.
+Outside segment spans: **0:00:55** in gaps between blocks.
 
 Sources · [Transcript](labyrinths-of-the-lost-003-transcript.md) · [Time Markers](labyrinths-of-the-lost-003-time-markers.json) · [Location Markers](labyrinths-of-the-lost-003-location-markers.json) · [Entity Map](labyrinths-of-the-lost-003-entity-map.json) · [Interactions](labyrinths-of-the-lost-003-interactions.json) · [Combat](labyrinths-of-the-lost-003-combat.json) · [Segments](labyrinths-of-the-lost-003-segments.json) · [Watch data](labyrinths-of-the-lost-003-time-watches.json) · [Jacopo reference (ghost-state discrepancy)](../../../../People/Other%20Humans/Jacopo%20Marcelli.md)

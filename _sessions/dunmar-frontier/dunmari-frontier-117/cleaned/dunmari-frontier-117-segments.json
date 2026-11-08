@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-117",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-117/cleaned/dunmari-frontier-117-session.yaml",
@@ -17,12 +17,60 @@
       "category": "table_talk"
     },
     {
-      "id": "s002",
+      "id": "s017",
       "source": {
         "startUid": "u0021",
-        "endUid": "u0233"
+        "endUid": "u0056"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u0057",
+        "endUid": "u0070"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0071",
+        "endUid": "u0125"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u0126",
+        "endUid": "u0135"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u0136",
+        "endUid": "u0171"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u0172",
+        "endUid": "u0202"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u0203",
+        "endUid": "u0233"
+      },
+      "category": "exploration"
     },
     {
       "id": "s003",
@@ -54,7 +102,7 @@
         "startUid": "u0284",
         "endUid": "u0657"
       },
-      "category": "gameplay"
+      "category": "exploration"
     },
     {
       "id": "s007",
@@ -68,9 +116,25 @@
       "id": "s008",
       "source": {
         "startUid": "u0945",
+        "endUid": "u1127"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s023",
+      "source": {
+        "startUid": "u1128",
+        "endUid": "u1168"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s024",
+      "source": {
+        "startUid": "u1169",
         "endUid": "u1195"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s009",
@@ -81,12 +145,76 @@
       "category": "combat"
     },
     {
-      "id": "s010",
+      "id": "s025",
       "source": {
         "startUid": "u2679",
-        "endUid": "u3109"
+        "endUid": "u2737"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s026",
+      "source": {
+        "startUid": "u2738",
+        "endUid": "u2772"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s027",
+      "source": {
+        "startUid": "u2773",
+        "endUid": "u2793"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s028",
+      "source": {
+        "startUid": "u2794",
+        "endUid": "u2818"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s029",
+      "source": {
+        "startUid": "u2819",
+        "endUid": "u2847"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s030",
+      "source": {
+        "startUid": "u2848",
+        "endUid": "u2866"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s031",
+      "source": {
+        "startUid": "u2867",
+        "endUid": "u2933"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s032",
+      "source": {
+        "startUid": "u2934",
+        "endUid": "u2946"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u2947",
+        "endUid": "u3109"
+      },
+      "category": "exploration"
     },
     {
       "id": "s011",
@@ -102,7 +230,7 @@
         "startUid": "u3196",
         "endUid": "u3481"
       },
-      "category": "gameplay"
+      "category": "planning"
     },
     {
       "id": "s013",

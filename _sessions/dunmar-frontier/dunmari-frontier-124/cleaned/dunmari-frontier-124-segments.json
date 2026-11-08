@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-124",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-124/cleaned/dunmari-frontier-124-session.yaml",
@@ -44,6 +44,14 @@
       "id": "s005",
       "source": {
         "startUid": "u0063",
+        "endUid": "u0173"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s033",
+      "source": {
+        "startUid": "u0174",
         "endUid": "u0197"
       },
       "category": "gameplay"
@@ -84,9 +92,17 @@
       "id": "s010",
       "source": {
         "startUid": "u0280",
+        "endUid": "u0455"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s034",
+      "source": {
+        "startUid": "u0456",
         "endUid": "u0476"
       },
-      "category": "gameplay"
+      "category": "planning"
     },
     {
       "id": "s011",
@@ -97,13 +113,29 @@
       "category": "meta_discussion"
     },
     {
-      "id": "s012",
+      "id": "s035",
       "source": {
         "startUid": "u0517",
-        "endUid": "u0841"
+        "endUid": "u0566"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s036",
+      "source": {
+        "startUid": "u0567",
+        "endUid": "u0672"
       },
       "category": "gameplay",
       "note": "Kenzo and Wellby’s informal shadowboxing never establishes initiative or a repeated ordered turn cycle."
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u0673",
+        "endUid": "u0841"
+      },
+      "category": "social_interaction"
     },
     {
       "id": "s013",
@@ -119,7 +151,7 @@
         "startUid": "u0865",
         "endUid": "u0973"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s015",
@@ -133,6 +165,22 @@
       "id": "s016",
       "source": {
         "startUid": "u1024",
+        "endUid": "u1056"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s037",
+      "source": {
+        "startUid": "u1057",
+        "endUid": "u1077"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s038",
+      "source": {
+        "startUid": "u1078",
         "endUid": "u1084"
       },
       "category": "gameplay"
@@ -151,7 +199,7 @@
         "startUid": "u1173",
         "endUid": "u1189"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s019",
@@ -167,7 +215,7 @@
         "startUid": "u1283",
         "endUid": "u1345"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s021",
@@ -210,12 +258,28 @@
       "category": "meta_discussion"
     },
     {
-      "id": "s026",
+      "id": "s039",
       "source": {
         "startUid": "u1481",
+        "endUid": "u1496"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s040",
+      "source": {
+        "startUid": "u1497",
+        "endUid": "u1525"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s026",
+      "source": {
+        "startUid": "u1526",
         "endUid": "u1953"
       },
-      "category": "gameplay",
+      "category": "social_interaction",
       "note": "The mirror and Dream conversations resolve an earlier evening inside the already narrated flight montage; they remain gameplay."
     },
     {
@@ -232,7 +296,7 @@
         "startUid": "u1966",
         "endUid": "u1979"
       },
-      "category": "gameplay"
+      "category": "planning"
     },
     {
       "id": "s029",

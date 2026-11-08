@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "into-the-chasm-006",
     "sessionYaml": "_sessions/into-the-chasm/into-the-chasm-006/cleaned/into-the-chasm-006-session.yaml",
@@ -25,12 +25,52 @@
       "category": "session_framing"
     },
     {
-      "id": "s003",
+      "id": "s018",
       "source": {
         "startUid": "u0076",
+        "endUid": "u0090"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0091",
+        "endUid": "u0281"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u0282",
+        "endUid": "u0311"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u0312",
+        "endUid": "u0334"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u0335",
+        "endUid": "u0377"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u0378",
         "endUid": "u0411"
       },
-      "category": "gameplay"
+      "category": "exploration"
     },
     {
       "id": "s004",
@@ -42,12 +82,36 @@
       "note": "Initiative is rolled to stop Eolo’s compelled flight; safe insulated handling ends the confrontation without a second cycle."
     },
     {
-      "id": "s005",
+      "id": "s023",
       "source": {
         "startUid": "u0525",
+        "endUid": "u0548"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s024",
+      "source": {
+        "startUid": "u0549",
+        "endUid": "u0565"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s025",
+      "source": {
+        "startUid": "u0566",
+        "endUid": "u0591"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0592",
         "endUid": "u0647"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s006",
@@ -61,6 +125,14 @@
       "id": "s007",
       "source": {
         "startUid": "u0686",
+        "endUid": "u0733"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s026",
+      "source": {
+        "startUid": "u0734",
         "endUid": "u0765"
       },
       "category": "gameplay"
@@ -79,7 +151,7 @@
         "startUid": "u0771",
         "endUid": "u0775"
       },
-      "category": "gameplay"
+      "category": "exploration"
     },
     {
       "id": "s010",
@@ -106,13 +178,53 @@
       "category": "table_talk"
     },
     {
-      "id": "s013",
+      "id": "s027",
       "source": {
         "startUid": "u0817",
-        "endUid": "u1484"
+        "endUid": "u0954"
       },
       "category": "gameplay",
       "note": "The first wisp escape (u0855–u0931) uses one improvised action pass without initiative or a repeated ordered cycle; it remains gameplay."
+    },
+    {
+      "id": "s028",
+      "source": {
+        "startUid": "u0955",
+        "endUid": "u1039"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s029",
+      "source": {
+        "startUid": "u1040",
+        "endUid": "u1127"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s030",
+      "source": {
+        "startUid": "u1128",
+        "endUid": "u1210"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s031",
+      "source": {
+        "startUid": "u1211",
+        "endUid": "u1335"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u1336",
+        "endUid": "u1484"
+      },
+      "category": "planning"
     },
     {
       "id": "s014",
@@ -124,9 +236,33 @@
       "note": "The evacuation uses explicit repeated rounds without an initiative roll; Justas’s continued clearance and final retreat belong to the same encounter."
     },
     {
-      "id": "s015",
+      "id": "s032",
       "source": {
         "startUid": "u1914",
+        "endUid": "u1951"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s033",
+      "source": {
+        "startUid": "u1952",
+        "endUid": "u2002"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u2003",
+        "endUid": "u2074"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s034",
+      "source": {
+        "startUid": "u2075",
         "endUid": "u2117"
       },
       "category": "gameplay"

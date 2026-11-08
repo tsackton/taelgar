@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-069",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-069/cleaned/dunmari-frontier-069-session.yaml",
@@ -12,10 +12,34 @@
       "id": "s001",
       "source": {
         "startUid": "u0001",
+        "endUid": "u0332"
+      },
+      "category": "exploration",
+      "note": "The opening immediately plays earlier mirror examinations; the brief introductory turn remains with that activity."
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u0333",
+        "endUid": "u0411"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u0412",
+        "endUid": "u0633"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u0634",
         "endUid": "u0795"
       },
-      "category": "gameplay",
-      "note": "The opening immediately plays earlier mirror examinations; the brief introductory turn remains with that activity."
+      "category": "gameplay"
     },
     {
       "id": "s002",
@@ -26,9 +50,81 @@
       "category": "table_talk"
     },
     {
-      "id": "s003",
+      "id": "s019",
       "source": {
         "startUid": "u0813",
+        "endUid": "u0848"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u0849",
+        "endUid": "u0924"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u0925",
+        "endUid": "u0974"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0975",
+        "endUid": "u1114"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u1115",
+        "endUid": "u1133"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s023",
+      "source": {
+        "startUid": "u1134",
+        "endUid": "u1180"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s024",
+      "source": {
+        "startUid": "u1181",
+        "endUid": "u1205"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s025",
+      "source": {
+        "startUid": "u1206",
+        "endUid": "u1236"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s026",
+      "source": {
+        "startUid": "u1237",
+        "endUid": "u1249"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s027",
+      "source": {
+        "startUid": "u1250",
         "endUid": "u1317"
       },
       "category": "gameplay"
@@ -50,9 +146,73 @@
       "category": "meta_discussion"
     },
     {
-      "id": "s006",
+      "id": "s028",
       "source": {
         "startUid": "u1375",
+        "endUid": "u1402"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u1403",
+        "endUid": "u1516"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s029",
+      "source": {
+        "startUid": "u1517",
+        "endUid": "u1596"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s030",
+      "source": {
+        "startUid": "u1597",
+        "endUid": "u1616"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s031",
+      "source": {
+        "startUid": "u1617",
+        "endUid": "u1627"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s032",
+      "source": {
+        "startUid": "u1628",
+        "endUid": "u1695"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s033",
+      "source": {
+        "startUid": "u1696",
+        "endUid": "u1723"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s034",
+      "source": {
+        "startUid": "u1724",
+        "endUid": "u1757"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s035",
+      "source": {
+        "startUid": "u1758",
         "endUid": "u1775"
       },
       "category": "gameplay"
@@ -71,7 +231,7 @@
         "startUid": "u1814",
         "endUid": "u1888"
       },
-      "category": "gameplay",
+      "category": "social_interaction",
       "note": "Earlier travel Communes are resolved retrospectively before returning to the storm camp."
     },
     {
@@ -86,9 +246,33 @@
       "id": "s010",
       "source": {
         "startUid": "u2017",
+        "endUid": "u2184"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s036",
+      "source": {
+        "startUid": "u2185",
+        "endUid": "u2201"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s037",
+      "source": {
+        "startUid": "u2202",
+        "endUid": "u2320"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s038",
+      "source": {
+        "startUid": "u2321",
         "endUid": "u2421"
       },
-      "category": "gameplay",
+      "category": "planning",
       "note": "Character decisions and planning remain active play around the storm observations."
     },
     {
@@ -103,9 +287,17 @@
       "id": "s012",
       "source": {
         "startUid": "u2427",
+        "endUid": "u2524"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s039",
+      "source": {
+        "startUid": "u2525",
         "endUid": "u2543"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s013",
@@ -121,7 +313,7 @@
         "startUid": "u2555",
         "endUid": "u2559"
       },
-      "category": "gameplay"
+      "category": "session_framing"
     },
     {
       "id": "s015",

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-019",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-019/cleaned/dunmari-frontier-019-session.yaml",
@@ -44,9 +44,73 @@
       "id": "s005",
       "source": {
         "startUid": "u0316",
-        "endUid": "u0739"
+        "endUid": "u0400"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u0401",
+        "endUid": "u0425"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u0426",
+        "endUid": "u0490"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u0491",
+        "endUid": "u0525"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u0526",
+        "endUid": "u0588"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s023",
+      "source": {
+        "startUid": "u0589",
+        "endUid": "u0625"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s024",
+      "source": {
+        "startUid": "u0626",
+        "endUid": "u0647"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s025",
+      "source": {
+        "startUid": "u0648",
+        "endUid": "u0660"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s026",
+      "source": {
+        "startUid": "u0661",
+        "endUid": "u0739"
+      },
+      "category": "social_interaction"
     },
     {
       "id": "s006",
@@ -60,9 +124,25 @@
       "id": "s007",
       "source": {
         "startUid": "u0771",
-        "endUid": "u0831"
+        "endUid": "u0809"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s027",
+      "source": {
+        "startUid": "u0810",
+        "endUid": "u0815"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s028",
+      "source": {
+        "startUid": "u0816",
+        "endUid": "u0831"
+      },
+      "category": "meta_discussion"
     },
     {
       "id": "s008",
@@ -81,9 +161,57 @@
       "category": "meta_discussion"
     },
     {
-      "id": "s010",
+      "id": "s029",
       "source": {
         "startUid": "u0937",
+        "endUid": "u0958"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s030",
+      "source": {
+        "startUid": "u0959",
+        "endUid": "u0992"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s031",
+      "source": {
+        "startUid": "u0993",
+        "endUid": "u1052"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s032",
+      "source": {
+        "startUid": "u1053",
+        "endUid": "u1084"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s033",
+      "source": {
+        "startUid": "u1085",
+        "endUid": "u1101"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s034",
+      "source": {
+        "startUid": "u1102",
+        "endUid": "u1132"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u1133",
         "endUid": "u1219"
       },
       "category": "gameplay"
@@ -98,9 +226,25 @@
       "note": "Initiative begins here; the immediately preceding missed Eldritch Blast and diving vultures precipitate the encounter."
     },
     {
-      "id": "s012",
+      "id": "s035",
       "source": {
         "startUid": "u1511",
+        "endUid": "u1534"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u1535",
+        "endUid": "u1715"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s036",
+      "source": {
+        "startUid": "u1716",
         "endUid": "u1731"
       },
       "category": "gameplay"
@@ -114,12 +258,76 @@
       "category": "table_talk"
     },
     {
-      "id": "s014",
+      "id": "s037",
       "source": {
         "startUid": "u1738",
-        "endUid": "u2247"
+        "endUid": "u1763"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s038",
+      "source": {
+        "startUid": "u1764",
+        "endUid": "u1842"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s039",
+      "source": {
+        "startUid": "u1843",
+        "endUid": "u1887"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u1888",
+        "endUid": "u2038"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s040",
+      "source": {
+        "startUid": "u2039",
+        "endUid": "u2066"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s041",
+      "source": {
+        "startUid": "u2067",
+        "endUid": "u2122"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s042",
+      "source": {
+        "startUid": "u2123",
+        "endUid": "u2170"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s043",
+      "source": {
+        "startUid": "u2171",
+        "endUid": "u2222"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s044",
+      "source": {
+        "startUid": "u2223",
+        "endUid": "u2247"
+      },
+      "category": "social_interaction"
     },
     {
       "id": "s015",
@@ -134,6 +342,22 @@
       "id": "s016",
       "source": {
         "startUid": "u3122",
+        "endUid": "u3147"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s045",
+      "source": {
+        "startUid": "u3148",
+        "endUid": "u3164"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s046",
+      "source": {
+        "startUid": "u3165",
         "endUid": "u3190"
       },
       "category": "gameplay"

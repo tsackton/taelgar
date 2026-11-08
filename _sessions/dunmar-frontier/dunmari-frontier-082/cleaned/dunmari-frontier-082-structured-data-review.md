@@ -80,15 +80,18 @@ Recording length (transcript timestamp extent): **3:13:59** (0:00:05 → 3:14:03
 
 | Segment class | Elapsed (h:mm:ss) | Elapsed share | Speaking (h:mm:ss) | Speaking share |
 | --- | --- | --- | --- | --- |
-| Gameplay | 3:02:16 | 94.0% | 2:33:13 | 94.3% |
+| Exploration | 0:00:00 | 0.0% | 0:00:00 | 0.0% |
+| Social interaction | 1:21:41 | 42.2% | 1:05:26 | 40.3% |
+| Planning | 0:47:21 | 24.5% | 0:40:49 | 25.1% |
 | Combat | 0:00:00 | 0.0% | 0:00:00 | 0.0% |
 | Meta discussion | 0:01:45 | 0.9% | 0:01:40 | 1.0% |
 | Table talk | 0:09:56 | 5.1% | 0:07:35 | 4.7% |
-| Session framing | 0:00:00 | 0.0% | 0:00:00 | 0.0% |
-| **Total** | 3:13:57 | 100.0% | 2:42:29 | 100.0% |
+| Session framing | 0:14:12 | 7.3% | 0:12:46 | 7.9% |
+| Gameplay | 0:38:35 | 19.9% | 0:34:12 | 21.0% |
+| **Total** | 3:13:30 | 100.0% | 2:42:29 | 100.0% |
 
 Elapsed time spans each segment block’s first UID start through its latest UID end, including internal pauses. Speaking time covers timestamped utterances only. Each millisecond is counted once; overlaps belong to the earliest source block or utterance. Each share uses its own column total.
 
-Outside segment spans: **0:00:02** in gaps between blocks.
+Outside segment spans: **0:00:29** in gaps between blocks.
 
 Sources · [Transcript](dunmari-frontier-082-transcript.md) · [Time Markers](dunmari-frontier-082-time-markers.json) · [Location Markers](dunmari-frontier-082-location-markers.json) · [Entity Map](dunmari-frontier-082-entity-map.json) · [Interactions](dunmari-frontier-082-interactions.json) · [Combat](dunmari-frontier-082-combat.json) · [Segments](dunmari-frontier-082-segments.json) · [Watch data](dunmari-frontier-082-time-watches.json) · [Cecilia date](../../../../People/Tollenders/Cecilia%20Lister.md) · [Aurelia date](../../../../People/Other%20Nonhumans/Aurelia.md) · [Umli date](../../../../People/Other%20Nonhumans/Umli.md) · [Hugo venue](../../../../People/Tollenders/Hugo%20Dupont.md) · [Demon identity](../../../../People/Other%20Nonhumans/Mashtu%20the%20Corruptor.md) · [Play title](../../../../Things/Books/Luminastra%27s%20Gift.md) · [Session 083 recap (u0018–u0026; u0044–u0054)](../../dunmari-frontier-083/cleaned/dunmari-frontier-083-transcript.md)

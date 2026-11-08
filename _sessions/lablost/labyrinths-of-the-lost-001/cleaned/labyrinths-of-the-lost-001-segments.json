@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "labyrinths-of-the-lost-001",
     "sessionYaml": "_sessions/lablost/labyrinths-of-the-lost-001/cleaned/labyrinths-of-the-lost-001-session.yaml",
@@ -9,12 +9,36 @@
   },
   "segments": [
     {
-      "id": "s001",
+      "id": "s011",
       "source": {
         "startUid": "u0001",
-        "endUid": "u0459"
+        "endUid": "u0022"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u0023",
+        "endUid": "u0043"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0044",
+        "endUid": "u0393"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u0394",
+        "endUid": "u0459"
+      },
+      "category": "planning"
     },
     {
       "id": "s002",
@@ -28,9 +52,25 @@
       "id": "s003",
       "source": {
         "startUid": "u0469",
+        "endUid": "u0483"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u0484",
+        "endUid": "u0496"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u0497",
         "endUid": "u0502"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s004",
@@ -44,9 +84,33 @@
       "id": "s005",
       "source": {
         "startUid": "u0820",
-        "endUid": "u0931"
+        "endUid": "u0861"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u0862",
+        "endUid": "u0898"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u0899",
+        "endUid": "u0918"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u0919",
+        "endUid": "u0931"
+      },
+      "category": "meta_discussion"
     },
     {
       "id": "s006",
@@ -58,12 +122,68 @@
       "note": "Sustained character-builder, spell-selection and interface discussion during the rest; completed in-world rest resumes at u1053."
     },
     {
-      "id": "s007",
+      "id": "s019",
       "source": {
         "startUid": "u1053",
-        "endUid": "u1531"
+        "endUid": "u1062"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u1063",
+        "endUid": "u1100"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u1101",
+        "endUid": "u1126"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u1127",
+        "endUid": "u1285"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s023",
+      "source": {
+        "startUid": "u1286",
+        "endUid": "u1296"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s024",
+      "source": {
+        "startUid": "u1297",
+        "endUid": "u1346"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s025",
+      "source": {
+        "startUid": "u1347",
+        "endUid": "u1365"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u1366",
+        "endUid": "u1531"
+      },
+      "category": "social_interaction"
     },
     {
       "id": "s008",
@@ -75,12 +195,28 @@
       "note": "An earlier conditional invitation to roll initiative at u1423 was declined; social deception continues until this initiative roll. Fog Cloud and the grapple already exist at the start."
     },
     {
-      "id": "s009",
+      "id": "s026",
       "source": {
         "startUid": "u1792",
-        "endUid": "u2045"
+        "endUid": "u1805"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s027",
+      "source": {
+        "startUid": "u1806",
+        "endUid": "u1846"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u1847",
+        "endUid": "u2045"
+      },
+      "category": "social_interaction"
     },
     {
       "id": "s010",

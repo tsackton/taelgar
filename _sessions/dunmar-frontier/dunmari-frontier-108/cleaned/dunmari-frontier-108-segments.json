@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-108",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-108/cleaned/dunmari-frontier-108-session.yaml",
@@ -14,7 +14,7 @@
         "startUid": "u0001",
         "endUid": "u0068"
       },
-      "category": "gameplay"
+      "category": "exploration"
     },
     {
       "id": "s002",
@@ -30,7 +30,7 @@
         "startUid": "u0290",
         "endUid": "u0420"
       },
-      "category": "gameplay"
+      "category": "exploration"
     },
     {
       "id": "s004",
@@ -41,12 +41,68 @@
       "category": "table_talk"
     },
     {
-      "id": "s005",
+      "id": "s019",
       "source": {
         "startUid": "u0447",
+        "endUid": "u0561"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u0562",
+        "endUid": "u0684"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u0685",
+        "endUid": "u0847"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u0848",
+        "endUid": "u1015"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s023",
+      "source": {
+        "startUid": "u1016",
+        "endUid": "u1066"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s024",
+      "source": {
+        "startUid": "u1067",
+        "endUid": "u1720"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s025",
+      "source": {
+        "startUid": "u1721",
+        "endUid": "u1876"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u1877",
         "endUid": "u2691"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s006",
@@ -73,13 +129,109 @@
       "category": "table_talk"
     },
     {
-      "id": "s009",
+      "id": "s026",
       "source": {
         "startUid": "u3100",
+        "endUid": "u3205"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u3206",
+        "endUid": "u3401"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s027",
+      "source": {
+        "startUid": "u3402",
+        "endUid": "u3438"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s028",
+      "source": {
+        "startUid": "u3439",
+        "endUid": "u3525"
+      },
+      "category": "exploration",
+      "note": "The initiative suggestion at u3443 is a joke during a pool hazard; no initiative roll or repeated ordered turn cycle follows."
+    },
+    {
+      "id": "s029",
+      "source": {
+        "startUid": "u3526",
+        "endUid": "u3555"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s030",
+      "source": {
+        "startUid": "u3556",
+        "endUid": "u3657"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s031",
+      "source": {
+        "startUid": "u3658",
+        "endUid": "u3718"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s032",
+      "source": {
+        "startUid": "u3719",
+        "endUid": "u3833"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s033",
+      "source": {
+        "startUid": "u3834",
+        "endUid": "u3842"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s034",
+      "source": {
+        "startUid": "u3843",
+        "endUid": "u3940"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s035",
+      "source": {
+        "startUid": "u3941",
+        "endUid": "u3998"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s036",
+      "source": {
+        "startUid": "u3999",
+        "endUid": "u4093"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s037",
+      "source": {
+        "startUid": "u4094",
         "endUid": "u4145"
       },
-      "category": "gameplay",
-      "note": "The initiative suggestion at u3443 is a joke during a pool hazard; no initiative roll or repeated ordered turn cycle follows."
+      "category": "social_interaction"
     },
     {
       "id": "s010",
@@ -95,7 +247,7 @@
         "startUid": "u4199",
         "endUid": "u4447"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s012",
@@ -111,7 +263,7 @@
         "startUid": "u4472",
         "endUid": "u4511"
       },
-      "category": "gameplay"
+      "category": "planning"
     },
     {
       "id": "s014",
@@ -122,12 +274,60 @@
       "category": "table_talk"
     },
     {
-      "id": "s015",
+      "id": "s038",
       "source": {
         "startUid": "u4522",
+        "endUid": "u4562"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s039",
+      "source": {
+        "startUid": "u4563",
+        "endUid": "u4614"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s040",
+      "source": {
+        "startUid": "u4615",
+        "endUid": "u4758"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u4759",
+        "endUid": "u5271"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s041",
+      "source": {
+        "startUid": "u5272",
+        "endUid": "u5310"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s042",
+      "source": {
+        "startUid": "u5311",
+        "endUid": "u5638"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s043",
+      "source": {
+        "startUid": "u5639",
         "endUid": "u5643"
       },
-      "category": "gameplay",
+      "category": "planning",
       "note": "The closing agreement to credit another hour of questions stays with play; the subsequent break and future plans are separate."
     },
     {

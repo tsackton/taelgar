@@ -87,15 +87,18 @@ Recording length (transcript timestamp extent): **3:42:48** (0:00:07 → 3:42:54
 
 | Segment class | Elapsed (h:mm:ss) | Elapsed share | Speaking (h:mm:ss) | Speaking share |
 | --- | --- | --- | --- | --- |
-| Gameplay | 0:31:27 | 14.1% | 0:23:51 | 14.7% |
-| Combat | 3:06:52 | 83.9% | 2:15:23 | 83.2% |
+| Exploration | 0:03:24 | 1.5% | 0:02:44 | 1.7% |
+| Social interaction | 0:00:10 | 0.1% | 0:00:08 | 0.1% |
+| Planning | 0:20:33 | 9.2% | 0:15:20 | 9.4% |
+| Combat | 3:06:52 | 84.0% | 2:15:23 | 83.2% |
 | Meta discussion | 0:03:40 | 1.6% | 0:02:55 | 1.8% |
 | Table talk | 0:00:43 | 0.3% | 0:00:38 | 0.4% |
 | Session framing | 0:00:00 | 0.0% | 0:00:00 | 0.0% |
-| **Total** | 3:42:42 | 100.0% | 2:42:46 | 100.0% |
+| Gameplay | 0:07:12 | 3.2% | 0:05:39 | 3.5% |
+| **Total** | 3:42:35 | 100.0% | 2:42:46 | 100.0% |
 
 Elapsed time spans each segment block’s first UID start through its latest UID end, including internal pauses. Speaking time covers timestamped utterances only. Each millisecond is counted once; overlaps belong to the earliest source block or utterance. Each share uses its own column total.
 
-Outside segment spans: **0:00:06** in gaps between blocks.
+Outside segment spans: **0:00:13** in gaps between blocks.
 
 Sources · [Transcript](dunmari-frontier-112-transcript.md) · [Time Markers](dunmari-frontier-112-time-markers.json) · [Location Markers](dunmari-frontier-112-location-markers.json) · [Entity Map](dunmari-frontier-112-entity-map.json) · [Interactions](dunmari-frontier-112-interactions.json) · [Combat](dunmari-frontier-112-combat.json) · [Segments](dunmari-frontier-112-segments.json) · [Watch data](dunmari-frontier-112-time-watches.json) · [Session 111 handoff transcript](../../dunmari-frontier-111/cleaned/dunmari-frontier-111-transcript.md) · [Session 111 dated record and crew identities](../../../../Campaigns/Dunmari%20Frontier%20Campaign/Session%20Notes/Session%20111%20%28DuFr%29.md) · [Session 107 narrative registration](../../dunmari-frontier-107/cleaned/dunmari-frontier-107-session.yaml) · [Session 112 existing narrative](../../../../Campaigns/Dunmari%20Frontier%20Campaign/Session%20Notes/Session%20112%20%28DuFr%29.md)

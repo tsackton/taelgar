@@ -79,15 +79,18 @@ Recording length (transcript timestamp extent): **3:34:26** (0:00:03 → 3:34:30
 
 | Segment class | Elapsed (h:mm:ss) | Elapsed share | Speaking (h:mm:ss) | Speaking share |
 | --- | --- | --- | --- | --- |
-| Gameplay | 2:19:14 | 65.1% | 1:57:27 | 66.0% |
-| Combat | 0:53:06 | 24.8% | 0:42:41 | 24.0% |
-| Meta discussion | 0:07:00 | 3.3% | 0:06:16 | 3.5% |
+| Exploration | 0:43:30 | 20.4% | 0:37:50 | 21.2% |
+| Social interaction | 0:34:49 | 16.3% | 0:27:30 | 15.4% |
+| Planning | 0:35:55 | 16.8% | 0:31:17 | 17.6% |
+| Combat | 0:53:06 | 24.9% | 0:42:41 | 24.0% |
+| Meta discussion | 0:08:16 | 3.9% | 0:07:06 | 4.0% |
 | Table talk | 0:14:42 | 6.9% | 0:11:39 | 6.5% |
-| Session framing | 0:00:00 | 0.0% | 0:00:00 | 0.0% |
-| **Total** | 3:34:01 | 100.0% | 2:58:03 | 100.0% |
+| Session framing | 0:07:32 | 3.5% | 0:06:07 | 3.4% |
+| Gameplay | 0:15:37 | 7.3% | 0:13:53 | 7.8% |
+| **Total** | 3:33:28 | 100.0% | 2:58:03 | 100.0% |
 
 Elapsed time spans each segment block’s first UID start through its latest UID end, including internal pauses. Speaking time covers timestamped utterances only. Each millisecond is counted once; overlaps belong to the earliest source block or utterance. Each share uses its own column total.
 
-Outside segment spans: **0:00:26** in gaps between blocks.
+Outside segment spans: **0:00:58** in gaps between blocks.
 
 Sources · [Transcript](labyrinths-of-the-lost-001-transcript.md) · [Time Markers](labyrinths-of-the-lost-001-time-markers.json) · [Location Markers](labyrinths-of-the-lost-001-location-markers.json) · [Entity Map](labyrinths-of-the-lost-001-entity-map.json) · [Interactions](labyrinths-of-the-lost-001-interactions.json) · [Combat](labyrinths-of-the-lost-001-combat.json) · [Segments](labyrinths-of-the-lost-001-segments.json) · [Watch data](labyrinths-of-the-lost-001-time-watches.json) · [Dated Session 1 record](../../../../Campaigns/One%20Shots/Labyrinths%20of%20the%20Lost/Labyrinths%20of%20the%20Lost%20-%20Session%201.md)

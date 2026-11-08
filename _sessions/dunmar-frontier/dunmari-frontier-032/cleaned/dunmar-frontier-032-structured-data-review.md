@@ -85,15 +85,18 @@ Recording length (transcript timestamp extent): **4:26:18** (0:00:00 → 4:26:18
 
 | Segment class | Elapsed (h:mm:ss) | Elapsed share | Speaking (h:mm:ss) | Speaking share |
 | --- | --- | --- | --- | --- |
-| Gameplay | 3:43:44 | 84.1% | 2:23:16 | 83.4% |
+| Exploration | 0:12:17 | 4.6% | 0:09:00 | 5.2% |
+| Social interaction | 2:16:09 | 51.3% | 1:20:18 | 46.7% |
+| Planning | 0:12:50 | 4.8% | 0:09:11 | 5.3% |
 | Combat | 0:00:00 | 0.0% | 0:00:00 | 0.0% |
-| Meta discussion | 0:29:18 | 11.0% | 0:21:38 | 12.6% |
+| Meta discussion | 0:37:22 | 14.1% | 0:26:35 | 15.5% |
 | Table talk | 0:10:25 | 3.9% | 0:05:02 | 2.9% |
-| Session framing | 0:02:26 | 0.9% | 0:01:50 | 1.1% |
-| **Total** | 4:25:53 | 100.0% | 2:51:46 | 100.0% |
+| Session framing | 0:03:30 | 1.3% | 0:02:41 | 1.6% |
+| Gameplay | 0:52:49 | 19.9% | 0:38:58 | 22.7% |
+| **Total** | 4:25:22 | 100.0% | 2:51:46 | 100.0% |
 
 Elapsed time spans each segment block’s first UID start through its latest UID end, including internal pauses. Speaking time covers timestamped utterances only. Each millisecond is counted once; overlaps belong to the earliest source block or utterance. Each share uses its own column total.
 
-Outside segment spans: **0:00:25** in gaps between blocks.
+Outside segment spans: **0:00:56** in gaps between blocks.
 
 Sources · [Transcript](dunmar-frontier-032-transcript.md) · [Time Markers](dunmar-frontier-032-time-markers.json) · [Location Markers](dunmar-frontier-032-location-markers.json) · [Entity Map](dunmar-frontier-032-entity-map.json) · [Interactions](dunmar-frontier-032-interactions.json) · [Combat](dunmar-frontier-032-combat.json) · [Segments](dunmar-frontier-032-segments.json) · [Watch data](dunmar-frontier-032-time-watches.json) · [Session 32 (DuFr)](../../../../Campaigns/Dunmari%20Frontier%20Campaign/Session%20Notes/Session%2032%20%28DuFr%29.md) · [Kotana](../../../../People/Historical%20Figures/Dunmari%20Rulers/Kotana.md) · [Arryn III](../../../../People/Historical%20Figures/Sembaran%20Royalty/Arryn%20III.md)

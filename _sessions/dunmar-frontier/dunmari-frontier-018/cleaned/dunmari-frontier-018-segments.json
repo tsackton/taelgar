@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-018",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-018/cleaned/dunmari-frontier-018-session.yaml",
@@ -28,10 +28,18 @@
       "id": "s003",
       "source": {
         "startUid": "u0083",
+        "endUid": "u1022"
+      },
+      "category": "social_interaction",
+      "note": "Brief mechanics and roleplay setup remain within the sustained played conversation."
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u1023",
         "endUid": "u1095"
       },
-      "category": "gameplay",
-      "note": "Brief mechanics and roleplay setup remain within the sustained played conversation."
+      "category": "planning"
     },
     {
       "id": "s004",
@@ -47,7 +55,7 @@
         "startUid": "u1157",
         "endUid": "u1171"
       },
-      "category": "gameplay"
+      "category": "planning"
     },
     {
       "id": "s020",
@@ -61,10 +69,26 @@
       "id": "s021",
       "source": {
         "startUid": "u1197",
-        "endUid": "u1319"
+        "endUid": "u1293"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s023",
+      "source": {
+        "startUid": "u1294",
+        "endUid": "u1309"
       },
       "category": "gameplay",
       "note": "Includes retrospective resolution of axe-beak training during the earlier journey."
+    },
+    {
+      "id": "s024",
+      "source": {
+        "startUid": "u1310",
+        "endUid": "u1319"
+      },
+      "category": "planning"
     },
     {
       "id": "s006",
@@ -80,7 +104,7 @@
         "startUid": "u1323",
         "endUid": "u1330"
       },
-      "category": "gameplay"
+      "category": "exploration"
     },
     {
       "id": "s008",
@@ -91,12 +115,28 @@
       "category": "meta_discussion"
     },
     {
-      "id": "s009",
+      "id": "s025",
       "source": {
         "startUid": "u1358",
+        "endUid": "u1377"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u1378",
+        "endUid": "u1428"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s026",
+      "source": {
+        "startUid": "u1429",
         "endUid": "u1470"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s010",
@@ -110,9 +150,25 @@
       "id": "s011",
       "source": {
         "startUid": "u1489",
+        "endUid": "u2052"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s027",
+      "source": {
+        "startUid": "u2053",
+        "endUid": "u2146"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s028",
+      "source": {
+        "startUid": "u2147",
         "endUid": "u2210"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s012",
@@ -161,7 +217,7 @@
         "startUid": "u2615",
         "endUid": "u2844"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s018",
@@ -177,7 +233,7 @@
         "startUid": "u2907",
         "endUid": "u2992"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     }
   ]
 }

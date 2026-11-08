@@ -81,15 +81,18 @@ Recording length (transcript timestamp extent): **3:25:33** (0:00:00 → 3:25:33
 
 | Segment class | Elapsed (h:mm:ss) | Elapsed share | Speaking (h:mm:ss) | Speaking share |
 | --- | --- | --- | --- | --- |
-| Gameplay | 3:18:53 | 96.8% | 2:06:56 | 96.0% |
+| Exploration | 0:48:24 | 23.6% | 0:32:23 | 24.5% |
+| Social interaction | 1:35:23 | 46.6% | 0:56:15 | 42.5% |
+| Planning | 0:16:18 | 8.0% | 0:11:49 | 8.9% |
 | Combat | 0:00:00 | 0.0% | 0:00:00 | 0.0% |
-| Meta discussion | 0:05:21 | 2.6% | 0:04:27 | 3.4% |
+| Meta discussion | 0:27:00 | 13.2% | 0:18:46 | 14.2% |
 | Table talk | 0:01:09 | 0.6% | 0:00:52 | 0.7% |
 | Session framing | 0:00:00 | 0.0% | 0:00:00 | 0.0% |
-| **Total** | 3:25:22 | 100.0% | 2:12:16 | 100.0% |
+| Gameplay | 0:16:33 | 8.1% | 0:12:10 | 9.2% |
+| **Total** | 3:24:47 | 100.0% | 2:12:16 | 100.0% |
 
 Elapsed time spans each segment block’s first UID start through its latest UID end, including internal pauses. Speaking time covers timestamped utterances only. Each millisecond is counted once; overlaps belong to the earliest source block or utterance. Each share uses its own column total.
 
-Outside segment spans: **0:00:10** in gaps between blocks.
+Outside segment spans: **0:00:45** in gaps between blocks.
 
 Sources · [Transcript](dunmari-frontier-042-transcript.md) · [Time Markers](dunmari-frontier-042-time-markers.json) · [Location Markers](dunmari-frontier-042-location-markers.json) · [Entity Map](dunmari-frontier-042-entity-map.json) · [Interactions](dunmari-frontier-042-interactions.json) · [Combat](dunmari-frontier-042-combat.json) · [Segments](dunmari-frontier-042-segments.json) · [Watch data](dunmari-frontier-042-time-watches.json) · [Dated session record](../../../../Campaigns/Dunmari%20Frontier%20Campaign/Session%20Notes/Session%2042%20%28DuFr%29.md) · [Session 41 handoff](../../dunmari-frontier-041/cleaned/dunmari-frontier-041-transcript.md) · [Fraternity provenance](../../../../Groups/Fraternity%20of%20the%20Empty%20Moon.md) · [Scepter provenance](../../../../Things/Artifacts%20of%20Power/Scepter%20of%20Command.md) · [Alton reference](../../../../People/Halflings/Alton%20Greenleaf.md) · [Lyle reference](../../../../People/Halflings/Lyle%20Greenleaf.md) · [Greenleaf family reference](../../../../Groups/Halfling%20Families/Greenleafs.md) · [White-dragon candidate](../../../../People/Other%20Nonhumans/Iagharaz.md) · [Mentor-name comparison](../../../../People/Dunmari/Ardan.md) · [Marcus comparison](../../../../People/Chardonians/Marcus%20Tuso.md)

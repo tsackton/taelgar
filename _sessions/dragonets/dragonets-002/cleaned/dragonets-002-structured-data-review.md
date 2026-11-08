@@ -66,15 +66,18 @@ Recording length (transcript timestamp extent): **3:11:00** (0:00:17 → 3:11:17
 
 | Segment class | Elapsed (h:mm:ss) | Elapsed share | Speaking (h:mm:ss) | Speaking share |
 | --- | --- | --- | --- | --- |
-| Gameplay | 2:26:57 | 77.2% | 2:05:52 | 79.0% |
+| Exploration | 1:02:56 | 33.1% | 0:54:45 | 34.3% |
+| Social interaction | 0:49:08 | 25.8% | 0:41:57 | 26.3% |
+| Planning | 0:00:00 | 0.0% | 0:00:00 | 0.0% |
 | Combat | 0:27:47 | 14.6% | 0:21:49 | 13.7% |
 | Meta discussion | 0:05:51 | 3.1% | 0:04:12 | 2.6% |
 | Table talk | 0:09:09 | 4.8% | 0:07:06 | 4.5% |
-| Session framing | 0:00:42 | 0.4% | 0:00:26 | 0.3% |
-| **Total** | 3:10:26 | 100.0% | 2:39:25 | 100.0% |
+| Session framing | 0:18:44 | 9.8% | 0:15:35 | 9.8% |
+| Gameplay | 0:16:38 | 8.7% | 0:14:01 | 8.8% |
+| **Total** | 3:10:14 | 100.0% | 2:39:25 | 100.0% |
 
 Elapsed time spans each segment block’s first UID start through its latest UID end, including internal pauses. Speaking time covers timestamped utterances only. Each millisecond is counted once; overlaps belong to the earliest source block or utterance. Each share uses its own column total.
 
-Outside segment spans: **0:00:34** in gaps between blocks.
+Outside segment spans: **0:00:46** in gaps between blocks.
 
 Sources · [Transcript](dragonets-002-transcript.md) · [Time Markers](dragonets-002-time-markers.json) · [Location Markers](dragonets-002-location-markers.json) · [Entity Map](dragonets-002-entity-map.json) · [Interactions](dragonets-002-interactions.json) · [Combat](dragonets-002-combat.json) · [Segments](dragonets-002-segments.json) · [Watch data](dragonets-002-time-watches.json)

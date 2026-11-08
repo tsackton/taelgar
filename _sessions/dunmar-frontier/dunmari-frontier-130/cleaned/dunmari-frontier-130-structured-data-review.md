@@ -67,15 +67,18 @@ Recording length (transcript timestamp extent): **3:29:12** (0:00:03 → 3:29:15
 
 | Segment class | Elapsed (h:mm:ss) | Elapsed share | Speaking (h:mm:ss) | Speaking share |
 | --- | --- | --- | --- | --- |
-| Gameplay | 3:03:28 | 87.8% | 2:12:31 | 87.0% |
+| Exploration | 0:06:26 | 3.1% | 0:04:48 | 3.2% |
+| Social interaction | 2:14:17 | 64.4% | 1:33:54 | 61.7% |
+| Planning | 0:24:00 | 11.5% | 0:18:53 | 12.4% |
 | Combat | 0:00:00 | 0.0% | 0:00:00 | 0.0% |
 | Meta discussion | 0:23:20 | 11.2% | 0:18:06 | 11.9% |
 | Table talk | 0:02:06 | 1.0% | 0:01:40 | 1.1% |
-| Session framing | 0:00:00 | 0.0% | 0:00:00 | 0.0% |
-| **Total** | 3:28:54 | 100.0% | 2:32:17 | 100.0% |
+| Session framing | 0:06:34 | 3.1% | 0:05:14 | 3.4% |
+| Gameplay | 0:11:44 | 5.6% | 0:09:42 | 6.4% |
+| **Total** | 3:28:25 | 100.0% | 2:32:17 | 100.0% |
 
 Elapsed time spans each segment block’s first UID start through its latest UID end, including internal pauses. Speaking time covers timestamped utterances only. Each millisecond is counted once; overlaps belong to the earliest source block or utterance. Each share uses its own column total.
 
-Outside segment spans: **0:00:18** in gaps between blocks.
+Outside segment spans: **0:00:47** in gaps between blocks.
 
 Sources · [Transcript](dunmari-frontier-130-transcript.md) · [Time Markers](dunmari-frontier-130-time-markers.json) · [Location Markers](dunmari-frontier-130-location-markers.json) · [Entity Map](dunmari-frontier-130-entity-map.json) · [Interactions](dunmari-frontier-130-interactions.json) · [Combat](dunmari-frontier-130-combat.json) · [Segments](dunmari-frontier-130-segments.json) · [Watch data](dunmari-frontier-130-time-watches.json) · [Szoltár date record](../../../../People/Other%20Nonhumans/Szoltar.md) · [Empress date record](../../../../People/Other%20Nonhumans/Empress%20of%20Chaos.md) · [Alliance historical sequence](../../../../Gazetteer/Upper%20Istaros/Refounded%20Alliance%20of%20Aurbez/Refounded%20Alliance%20of%20Aurbez.md) · [Martin identity](../../../../People/Aurbeze/Martin%20Strongbow.md) · [Daisy identity](../../../../People/Halflings/Daisy%20Lightfoot.md)

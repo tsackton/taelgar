@@ -89,15 +89,18 @@ Recording length (transcript timestamp extent): **4:20:56** (0:00:00 → 4:20:56
 
 | Segment class | Elapsed (h:mm:ss) | Elapsed share | Speaking (h:mm:ss) | Speaking share |
 | --- | --- | --- | --- | --- |
-| Gameplay | 2:03:16 | 47.3% | 1:33:31 | 47.7% |
-| Combat | 1:48:36 | 41.7% | 1:20:11 | 40.9% |
+| Exploration | 0:59:59 | 23.1% | 0:43:57 | 22.4% |
+| Social interaction | 0:06:24 | 2.5% | 0:04:30 | 2.3% |
+| Planning | 0:32:49 | 12.6% | 0:27:19 | 13.9% |
+| Combat | 1:48:36 | 41.8% | 1:20:11 | 40.9% |
 | Meta discussion | 0:19:30 | 7.5% | 0:17:30 | 8.9% |
 | Table talk | 0:09:03 | 3.5% | 0:04:57 | 2.5% |
-| Session framing | 0:00:00 | 0.0% | 0:00:00 | 0.0% |
-| **Total** | 4:20:25 | 100.0% | 3:16:09 | 100.0% |
+| Session framing | 0:03:27 | 1.3% | 0:02:54 | 1.5% |
+| Gameplay | 0:19:58 | 7.7% | 0:14:51 | 7.6% |
+| **Total** | 4:19:46 | 100.0% | 3:16:09 | 100.0% |
 
 Elapsed time spans each segment block’s first UID start through its latest UID end, including internal pauses. Speaking time covers timestamped utterances only. Each millisecond is counted once; overlaps belong to the earliest source block or utterance. Each share uses its own column total.
 
-Outside segment spans: **0:00:31** in gaps between blocks.
+Outside segment spans: **0:01:10** in gaps between blocks.
 
 Sources · [Transcript](dunmari-frontier-117-transcript.md) · [Time Markers](dunmari-frontier-117-time-markers.json) · [Location Markers](dunmari-frontier-117-location-markers.json) · [Entity Map](dunmari-frontier-117-entity-map.json) · [Interactions](dunmari-frontier-117-interactions.json) · [Combat](dunmari-frontier-117-combat.json) · [Segments](dunmari-frontier-117-segments.json) · [Watch data](dunmari-frontier-117-time-watches.json) · [Dated Session 117 record](../../../../Campaigns/Dunmari%20Frontier%20Campaign/Session%20Notes/Session%20117%20%28DuFr%29.md) · [Dated Session 116 record](../../../../Campaigns/Dunmari%20Frontier%20Campaign/Session%20Notes/Session%20116%20%28DuFr%29.md) · [Session 116 May 24, overnight, next dawn and closing handoff](../../dunmari-frontier-116/cleaned/dunmari-frontier-116-transcript.md) · [Session 118 late-night continuation and retrospective Crown account](../../dunmari-frontier-118/cleaned/dunmari-frontier-118-transcript.md)

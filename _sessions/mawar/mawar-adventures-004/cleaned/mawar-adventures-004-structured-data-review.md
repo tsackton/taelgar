@@ -95,15 +95,18 @@ Recording length (transcript timestamp extent): **4:24:48** (0:00:04 → 4:24:52
 
 | Segment class | Elapsed (h:mm:ss) | Elapsed share | Speaking (h:mm:ss) | Speaking share |
 | --- | --- | --- | --- | --- |
-| Gameplay | 2:30:16 | 56.8% | 1:32:30 | 60.2% |
-| Combat | 1:41:36 | 38.4% | 0:56:35 | 36.8% |
+| Exploration | 0:43:06 | 16.4% | 0:26:49 | 17.4% |
+| Social interaction | 1:09:39 | 26.4% | 0:41:54 | 27.3% |
+| Planning | 0:13:32 | 5.1% | 0:07:49 | 5.1% |
+| Combat | 1:41:36 | 38.6% | 0:56:35 | 36.8% |
 | Meta discussion | 0:00:48 | 0.3% | 0:00:37 | 0.4% |
 | Table talk | 0:11:47 | 4.5% | 0:03:58 | 2.6% |
-| Session framing | 0:00:00 | 0.0% | 0:00:00 | 0.0% |
-| **Total** | 4:24:28 | 100.0% | 2:33:40 | 100.0% |
+| Session framing | 0:07:13 | 2.7% | 0:05:23 | 3.5% |
+| Gameplay | 0:15:48 | 6.0% | 0:10:36 | 6.9% |
+| **Total** | 4:23:30 | 100.0% | 2:33:40 | 100.0% |
 
 Elapsed time spans each segment block’s first UID start through its latest UID end, including internal pauses. Speaking time covers timestamped utterances only. Each millisecond is counted once; overlaps belong to the earliest source block or utterance. Each share uses its own column total.
 
-Outside segment spans: **0:00:21** in gaps between blocks.
+Outside segment spans: **0:01:19** in gaps between blocks.
 
 Sources · [Transcript](mawar-adventures-004-transcript.md) · [Time Markers](mawar-adventures-004-time-markers.json) · [Location Markers](mawar-adventures-004-location-markers.json) · [Entity Map](mawar-adventures-004-entity-map.json) · [Interactions](mawar-adventures-004-interactions.json) · [Combat](mawar-adventures-004-combat.json) · [Segments](mawar-adventures-004-segments.json) · [Watch data](mawar-adventures-004-time-watches.json) · [Episode note](../../../../Campaigns/Mawar%20Adventures/Episodes/Mawar%20Adventures%20Episode%2004.md) · [Amulet reference](../../../../Campaigns/Mawar%20Adventures/Items%20and%20Treasure/Amulet%20of%20Khathayi.md) · [Earlier Mawar entity map](../../mawar-adventures-003/cleaned/mawar-adventures-003-entity-map.json)

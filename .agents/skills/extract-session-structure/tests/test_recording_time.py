@@ -59,6 +59,20 @@ class RecordingTimeTest(unittest.TestCase):
         self.assertIn('| Combat | 0:00:54 | 98.2% | 0:00:08 | 89.1% |', text)
         self.assertIn('silence outside these timestamps', text)
 
+    def test_backfill_allows_gameplay_without_a_note(self):
+        bundle = self.bundle([('u0001', '00:00:00.000-00:00:03.000'),
+                              ('u0002', '00:00:04.000-00:00:10.000')])
+        rows = [segment('s1', 'social_interaction', 'u0001', 'u0001'),
+                segment('s2', 'planning', 'u0002', 'u0002')]
+        with self.assertRaisesRegex(ValueError, 'Invalid classification'):
+            review.recording_time(bundle, rows)
+        timing = review.recording_time(bundle, rows, review.BACKFILLED_SEGMENTS)
+        self.assertEqual(timing['elapsed']['planning'], 6000)
+        self.assertIn('| Gameplay | 0:00:00', review.recording_time_table(timing))
+        rows[1]['category'] = 'gameplay'
+        timing = review.recording_time(bundle, rows, review.BACKFILLED_SEGMENTS)
+        self.assertIn('| Gameplay | 0:00:06', review.recording_time_table(timing))
+
     def test_latest_end_need_not_be_final_uid_end(self):
         bundle = self.bundle([('u0001', '00:00:00.000-00:00:20.000'),
                               ('u0002', '00:00:10.000-00:00:12.000')])

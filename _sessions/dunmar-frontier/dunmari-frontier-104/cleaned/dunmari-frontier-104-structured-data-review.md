@@ -110,15 +110,18 @@ Recording length (transcript timestamp extent): **3:40:28** (0:00:00 → 3:40:28
 
 | Segment class | Elapsed (h:mm:ss) | Elapsed share | Speaking (h:mm:ss) | Speaking share |
 | --- | --- | --- | --- | --- |
-| Gameplay | 2:16:29 | 62.0% | 1:35:20 | 61.0% |
-| Combat | 0:52:50 | 24.0% | 0:36:37 | 23.4% |
-| Meta discussion | 0:23:49 | 10.8% | 0:18:22 | 11.7% |
+| Exploration | 1:25:36 | 39.0% | 1:01:02 | 39.1% |
+| Social interaction | 0:14:58 | 6.8% | 0:09:32 | 6.1% |
+| Planning | 0:15:34 | 7.1% | 0:11:00 | 7.0% |
+| Combat | 0:52:50 | 24.1% | 0:36:37 | 23.4% |
+| Meta discussion | 0:23:49 | 10.9% | 0:18:22 | 11.7% |
 | Table talk | 0:02:09 | 1.0% | 0:01:56 | 1.2% |
-| Session framing | 0:04:52 | 2.2% | 0:04:01 | 2.6% |
-| **Total** | 3:40:08 | 100.0% | 2:36:17 | 100.0% |
+| Session framing | 0:15:01 | 6.8% | 0:10:52 | 7.0% |
+| Gameplay | 0:09:17 | 4.2% | 0:06:56 | 4.4% |
+| **Total** | 3:39:13 | 100.0% | 2:36:17 | 100.0% |
 
 Elapsed time spans each segment block’s first UID start through its latest UID end, including internal pauses. Speaking time covers timestamped utterances only. Each millisecond is counted once; overlaps belong to the earliest source block or utterance. Each share uses its own column total.
 
-Outside segment spans: **0:00:20** in gaps between blocks.
+Outside segment spans: **0:01:15** in gaps between blocks.
 
 Sources · [Transcript](dunmari-frontier-104-transcript.md) · [Time Markers](dunmari-frontier-104-time-markers.json) · [Location Markers](dunmari-frontier-104-location-markers.json) · [Entity Map](dunmari-frontier-104-entity-map.json) · [Interactions](dunmari-frontier-104-interactions.json) · [Combat](dunmari-frontier-104-combat.json) · [Segments](dunmari-frontier-104-segments.json) · [Watch data](dunmari-frontier-104-time-watches.json) · [Session 103 handoff](../../dunmari-frontier-103/cleaned/dunmari-frontier-103-transcript.md) · [Session 105 handoff](../../dunmari-frontier-105/cleaned/dunmari-frontier-105-transcript.md) · [Session 107 registered narrative](../../dunmari-frontier-107/cleaned/dunmari-frontier-107-source-prepared.md) · [Existing Session 104 note](../../../../Campaigns/Dunmari%20Frontier%20Campaign/Session%20Notes/Session%20104%20%28DuFr%29.md)

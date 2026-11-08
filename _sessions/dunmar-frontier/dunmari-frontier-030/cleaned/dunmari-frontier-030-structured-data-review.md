@@ -84,15 +84,18 @@ Recording length (transcript timestamp extent): **4:17:20** (0:00:08 → 4:17:29
 
 | Segment class | Elapsed (h:mm:ss) | Elapsed share | Speaking (h:mm:ss) | Speaking share |
 | --- | --- | --- | --- | --- |
-| Gameplay | 4:00:04 | 93.4% | 2:33:23 | 94.2% |
+| Exploration | 1:43:57 | 40.7% | 1:06:50 | 41.1% |
+| Social interaction | 1:05:48 | 25.8% | 0:38:35 | 23.7% |
+| Planning | 0:49:55 | 19.5% | 0:33:34 | 20.6% |
 | Combat | 0:09:39 | 3.8% | 0:05:59 | 3.7% |
-| Meta discussion | 0:00:00 | 0.0% | 0:00:00 | 0.0% |
+| Meta discussion | 0:01:10 | 0.5% | 0:00:24 | 0.2% |
 | Table talk | 0:06:59 | 2.7% | 0:03:08 | 1.9% |
 | Session framing | 0:00:24 | 0.2% | 0:00:18 | 0.2% |
-| **Total** | 4:17:06 | 100.0% | 2:42:48 | 100.0% |
+| Gameplay | 0:17:40 | 6.9% | 0:13:59 | 8.6% |
+| **Total** | 4:15:32 | 100.0% | 2:42:48 | 100.0% |
 
 Elapsed time spans each segment block’s first UID start through its latest UID end, including internal pauses. Speaking time covers timestamped utterances only. Each millisecond is counted once; overlaps belong to the earliest source block or utterance. Each share uses its own column total.
 
-Outside segment spans: **0:00:15** in gaps between blocks.
+Outside segment spans: **0:01:49** in gaps between blocks.
 
 Sources · [Transcript](dunmari-frontier-030-transcript.md) · [Time Markers](dunmari-frontier-030-time-markers.json) · [Location Markers](dunmari-frontier-030-location-markers.json) · [Entity Map](dunmari-frontier-030-entity-map.json) · [Interactions](dunmari-frontier-030-interactions.json) · [Combat](dunmari-frontier-030-combat.json) · [Segments](dunmari-frontier-030-segments.json) · [Watch data](dunmari-frontier-030-time-watches.json) · [Dated session note](../../../../Campaigns/Dunmari%20Frontier%20Campaign/Session%20Notes/Session%2030%20%28DuFr%29.md) · [Garret note](../../../../People/Halflings/Garret%20Tealeaf.md) · [Shandar note](../../../../People/Dunmari/Shandar.md) · [Kaya note](../../../../People/Dunmari/Kaya.md) · [Session 29 transcript handoff](../../dunmari-frontier-029/cleaned/dunmari-frontier-029-transcript.md)

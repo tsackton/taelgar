@@ -56,15 +56,18 @@ Recording length (transcript timestamp extent): **2:49:09** (0:00:00 → 2:49:09
 
 | Segment class | Elapsed (h:mm:ss) | Elapsed share | Speaking (h:mm:ss) | Speaking share |
 | --- | --- | --- | --- | --- |
-| Gameplay | 2:09:02 | 76.5% | 1:42:48 | 74.3% |
+| Exploration | 0:29:31 | 17.6% | 0:24:24 | 17.6% |
+| Social interaction | 1:04:45 | 38.5% | 0:51:06 | 37.0% |
+| Planning | 0:00:00 | 0.0% | 0:00:00 | 0.0% |
 | Combat | 0:00:00 | 0.0% | 0:00:00 | 0.0% |
 | Meta discussion | 0:00:18 | 0.2% | 0:00:16 | 0.2% |
 | Table talk | 0:02:55 | 1.7% | 0:02:18 | 1.7% |
-| Session framing | 0:36:31 | 21.6% | 0:32:55 | 23.8% |
-| **Total** | 2:48:46 | 100.0% | 2:18:17 | 100.0% |
+| Session framing | 0:46:49 | 27.9% | 0:40:38 | 29.4% |
+| Gameplay | 0:23:48 | 14.2% | 0:19:34 | 14.2% |
+| **Total** | 2:48:06 | 100.0% | 2:18:17 | 100.0% |
 
 Elapsed time spans each segment block’s first UID start through its latest UID end, including internal pauses. Speaking time covers timestamped utterances only. Each millisecond is counted once; overlaps belong to the earliest source block or utterance. Each share uses its own column total.
 
-Outside segment spans: **0:00:24** in gaps between blocks.
+Outside segment spans: **0:01:03** in gaps between blocks.
 
 Sources · [Transcript](lost-in-the-feywild-001-transcript.md) · [Time Markers](lost-in-the-feywild-001-time-markers.json) · [Location Markers](lost-in-the-feywild-001-location-markers.json) · [Entity Map](lost-in-the-feywild-001-entity-map.json) · [Interactions](lost-in-the-feywild-001-interactions.json) · [Combat](lost-in-the-feywild-001-combat.json) · [Segments](lost-in-the-feywild-001-segments.json) · [Watch data](lost-in-the-feywild-001-time-watches.json) · [Hulda biography (competing background date)](../../../../People/Sembarans/Lord%20Hulda.md)

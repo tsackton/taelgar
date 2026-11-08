@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-138",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-138/cleaned/dunmari-frontier-138-session.yaml",
@@ -25,12 +25,20 @@
       "category": "meta_discussion"
     },
     {
-      "id": "s003",
+      "id": "s007",
       "source": {
         "startUid": "u0223",
-        "endUid": "u0316"
+        "endUid": "u0243"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0244",
+        "endUid": "u0316"
+      },
+      "category": "planning"
     },
     {
       "id": "s004",
@@ -42,9 +50,41 @@
       "note": "Continuous initiative includes the exposed-core phase, falling rescue and final healing; the ooze and minions are confirmed crystallized before initiative resolves."
     },
     {
-      "id": "s005",
+      "id": "s008",
       "source": {
         "startUid": "u4169",
+        "endUid": "u4179"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u4180",
+        "endUid": "u4208"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u4209",
+        "endUid": "u4252"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u4253",
+        "endUid": "u4292"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u4293",
         "endUid": "u4332"
       },
       "category": "gameplay"

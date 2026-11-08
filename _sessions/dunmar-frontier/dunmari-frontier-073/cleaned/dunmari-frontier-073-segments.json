@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-073",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-073/cleaned/dunmari-frontier-073-session.yaml",
@@ -17,12 +17,36 @@
       "category": "table_talk"
     },
     {
-      "id": "s002",
+      "id": "s015",
       "source": {
         "startUid": "u0004",
-        "endUid": "u0295"
+        "endUid": "u0025"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u0026",
+        "endUid": "u0114"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0115",
+        "endUid": "u0222"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u0223",
+        "endUid": "u0295"
+      },
+      "category": "social_interaction"
     },
     {
       "id": "s003",
@@ -36,9 +60,41 @@
       "id": "s004",
       "source": {
         "startUid": "u0306",
+        "endUid": "u0608"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u0609",
+        "endUid": "u0683"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u0684",
+        "endUid": "u0720"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u0721",
+        "endUid": "u0752"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u0753",
         "endUid": "u0795"
       },
-      "category": "gameplay"
+      "category": "exploration"
     },
     {
       "id": "s005",
@@ -70,9 +126,17 @@
       "id": "s008",
       "source": {
         "startUid": "u0864",
+        "endUid": "u0940"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u0941",
         "endUid": "u1003"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s009",
@@ -95,9 +159,17 @@
       "id": "s011",
       "source": {
         "startUid": "u1061",
+        "endUid": "u1245"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s023",
+      "source": {
+        "startUid": "u1246",
         "endUid": "u1296"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s012",
@@ -108,9 +180,60 @@
       "category": "session_framing"
     },
     {
-      "id": "s013",
+      "id": "s024",
       "source": {
         "startUid": "u1310",
+        "endUid": "u1447"
+      },
+      "category": "social_interaction",
+      "note": "Kurome’s dream-shaping challenge remains active play: no initiative or repeated ordered turn cycle is established. The final mixed turn also advances play into evening."
+    },
+    {
+      "id": "s025",
+      "source": {
+        "startUid": "u1448",
+        "endUid": "u1535"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s026",
+      "source": {
+        "startUid": "u1536",
+        "endUid": "u1587"
+      },
+      "category": "social_interaction",
+      "note": "Kurome’s dream-shaping challenge remains active play: no initiative or repeated ordered turn cycle is established. The final mixed turn also advances play into evening."
+    },
+    {
+      "id": "s027",
+      "source": {
+        "startUid": "u1588",
+        "endUid": "u1780"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s028",
+      "source": {
+        "startUid": "u1781",
+        "endUid": "u1852"
+      },
+      "category": "social_interaction",
+      "note": "Kurome’s dream-shaping challenge remains active play: no initiative or repeated ordered turn cycle is established. The final mixed turn also advances play into evening."
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u1853",
+        "endUid": "u2121"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s029",
+      "source": {
+        "startUid": "u2122",
         "endUid": "u2153"
       },
       "category": "gameplay",

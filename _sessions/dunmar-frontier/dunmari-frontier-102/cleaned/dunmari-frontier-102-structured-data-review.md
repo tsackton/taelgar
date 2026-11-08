@@ -74,15 +74,18 @@ Recording length (transcript timestamp extent): **3:48:13** (0:00:02 → 3:48:15
 
 | Segment class | Elapsed (h:mm:ss) | Elapsed share | Speaking (h:mm:ss) | Speaking share |
 | --- | --- | --- | --- | --- |
-| Gameplay | 2:20:28 | 61.6% | 1:46:13 | 63.8% |
-| Combat | 1:23:36 | 36.7% | 0:57:16 | 34.4% |
+| Exploration | 0:42:27 | 18.7% | 0:33:49 | 20.3% |
+| Social interaction | 0:35:48 | 15.7% | 0:25:27 | 15.3% |
+| Planning | 0:51:50 | 22.8% | 0:39:29 | 23.7% |
+| Combat | 1:23:36 | 36.8% | 0:57:16 | 34.4% |
 | Meta discussion | 0:01:09 | 0.5% | 0:00:57 | 0.6% |
 | Table talk | 0:01:33 | 0.7% | 0:01:08 | 0.7% |
-| Session framing | 0:01:13 | 0.5% | 0:00:57 | 0.6% |
-| **Total** | 3:47:59 | 100.0% | 2:46:31 | 100.0% |
+| Session framing | 0:04:05 | 1.8% | 0:03:15 | 2.0% |
+| Gameplay | 0:06:57 | 3.1% | 0:05:11 | 3.1% |
+| **Total** | 3:47:25 | 100.0% | 2:46:31 | 100.0% |
 
 Elapsed time spans each segment block’s first UID start through its latest UID end, including internal pauses. Speaking time covers timestamped utterances only. Each millisecond is counted once; overlaps belong to the earliest source block or utterance. Each share uses its own column total.
 
-Outside segment spans: **0:00:14** in gaps between blocks.
+Outside segment spans: **0:00:48** in gaps between blocks.
 
 Sources · [Transcript](dunmari-frontier-102-transcript.md) · [Time Markers](dunmari-frontier-102-time-markers.json) · [Location Markers](dunmari-frontier-102-location-markers.json) · [Entity Map](dunmari-frontier-102-entity-map.json) · [Interactions](dunmari-frontier-102-interactions.json) · [Combat](dunmari-frontier-102-combat.json) · [Segments](dunmari-frontier-102-segments.json) · [Watch data](dunmari-frontier-102-time-watches.json) · [Dated session 102 record](../../../../Campaigns/Dunmari%20Frontier%20Campaign/Session%20Notes/Session%20102%20%28DuFr%29.md) · [DF101 continuous prison handoff and unresolved spoken date](../../dunmari-frontier-101/cleaned/dunmari-frontier-101-transcript.md) · [DF103 immediate dawn handoff](../../dunmari-frontier-103/cleaned/dunmari-frontier-103-transcript.md) · [DF107 narrative-only registration](../../dunmari-frontier-107/cleaned/dunmari-frontier-107-session.yaml)

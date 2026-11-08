@@ -54,15 +54,18 @@ Recording length (transcript timestamp extent): **3:38:04** (0:00:01 → 3:38:05
 
 | Segment class | Elapsed (h:mm:ss) | Elapsed share | Speaking (h:mm:ss) | Speaking share |
 | --- | --- | --- | --- | --- |
-| Gameplay | 1:47:26 | 49.3% | 1:11:27 | 41.9% |
+| Exploration | 0:09:43 | 4.5% | 0:07:08 | 4.2% |
+| Social interaction | 1:16:15 | 35.1% | 0:49:00 | 28.7% |
+| Planning | 0:02:35 | 1.2% | 0:01:22 | 0.8% |
 | Combat | 0:00:00 | 0.0% | 0:00:00 | 0.0% |
-| Meta discussion | 0:37:06 | 17.0% | 0:33:16 | 19.5% |
-| Table talk | 1:08:49 | 31.6% | 1:01:46 | 36.2% |
-| Session framing | 0:04:28 | 2.0% | 0:04:05 | 2.4% |
-| **Total** | 3:37:48 | 100.0% | 2:50:34 | 100.0% |
+| Meta discussion | 0:37:06 | 17.1% | 0:33:16 | 19.5% |
+| Table talk | 1:08:49 | 31.7% | 1:01:46 | 36.2% |
+| Session framing | 0:12:55 | 5.9% | 0:09:45 | 5.7% |
+| Gameplay | 0:10:02 | 4.6% | 0:08:17 | 4.9% |
+| **Total** | 3:37:25 | 100.0% | 2:50:34 | 100.0% |
 
 Elapsed time spans each segment block’s first UID start through its latest UID end, including internal pauses. Speaking time covers timestamped utterances only. Each millisecond is counted once; overlaps belong to the earliest source block or utterance. Each share uses its own column total.
 
-Outside segment spans: **0:00:16** in gaps between blocks.
+Outside segment spans: **0:00:39** in gaps between blocks.
 
 Sources · [Transcript](lost-in-the-feywild-007-transcript.md) · [Time Markers](lost-in-the-feywild-007-time-markers.json) · [Location Markers](lost-in-the-feywild-007-location-markers.json) · [Entity Map](lost-in-the-feywild-007-entity-map.json) · [Interactions](lost-in-the-feywild-007-interactions.json) · [Combat](lost-in-the-feywild-007-combat.json) · [Segments](lost-in-the-feywild-007-segments.json) · [Watch data](lost-in-the-feywild-007-time-watches.json) · [27th House date reference](../../../../Gazetteer/Extraplanar/Feywild/Twilight%20Kingdom/27th%20House.md) · [Twilight Promontory date reference](../../../../Gazetteer/Extraplanar/Feywild/Twilight%20Kingdom/Twilight%20Promontory.md)

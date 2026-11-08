@@ -8,8 +8,8 @@
     "transcriptSha256": "3c52e8e4a89dbc11046b0280f1a0748952a8c0e97fdfa5d42c0061d28ba80616",
     "segments": {
       "path": "_sessions/lablost/labyrinths-of-the-lost-002/cleaned/labyrinths-of-the-lost-002-segments.json",
-      "sha256": "c56148389a6b69eec4ffe0a3ebb98af3bb8e25dc9e7390e163398634c4358582",
-      "schemaVersion": "0.1-transcript-segments-draft"
+      "sha256": "3a0b8a630b428e256255850a0ff941b79400054c0260b22c439e6386593f89a4",
+      "schemaVersion": "0.2-transcript-segments-draft"
     }
   },
   "combats": [
