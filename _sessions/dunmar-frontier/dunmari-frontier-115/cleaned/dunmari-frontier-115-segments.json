@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-115",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-115/cleaned/dunmari-frontier-115-session.yaml",
@@ -14,7 +14,7 @@
         "startUid": "u0001",
         "endUid": "u0098"
       },
-      "category": "gameplay",
+      "category": "social_interaction",
       "note": "The opening recap is explicitly narrated as the party telling Wellby what happened after returning to the temple; it is an in-world exchange."
     },
     {
@@ -29,9 +29,17 @@
       "id": "s003",
       "source": {
         "startUid": "u0227",
+        "endUid": "u0314"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u0315",
         "endUid": "u0397"
       },
-      "category": "gameplay"
+      "category": "exploration"
     },
     {
       "id": "s004",
@@ -42,12 +50,20 @@
       "category": "combat"
     },
     {
-      "id": "s005",
+      "id": "s023",
       "source": {
         "startUid": "u1073",
-        "endUid": "u1245"
+        "endUid": "u1087"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u1088",
+        "endUid": "u1245"
+      },
+      "category": "exploration"
     },
     {
       "id": "s006",
@@ -66,9 +82,81 @@
       "category": "table_talk"
     },
     {
-      "id": "s008",
+      "id": "s024",
       "source": {
         "startUid": "u1413",
+        "endUid": "u1432"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s025",
+      "source": {
+        "startUid": "u1433",
+        "endUid": "u1524"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u1525",
+        "endUid": "u1705"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s026",
+      "source": {
+        "startUid": "u1706",
+        "endUid": "u1876"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s027",
+      "source": {
+        "startUid": "u1877",
+        "endUid": "u1972"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s028",
+      "source": {
+        "startUid": "u1973",
+        "endUid": "u1993"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s029",
+      "source": {
+        "startUid": "u1994",
+        "endUid": "u2137"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s030",
+      "source": {
+        "startUid": "u2138",
+        "endUid": "u2147"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s031",
+      "source": {
+        "startUid": "u2148",
+        "endUid": "u2171"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s032",
+      "source": {
+        "startUid": "u2172",
         "endUid": "u2176"
       },
       "category": "gameplay"
@@ -82,12 +170,20 @@
       "category": "table_talk"
     },
     {
-      "id": "s010",
+      "id": "s033",
       "source": {
         "startUid": "u2192",
-        "endUid": "u2443"
+        "endUid": "u2203"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u2204",
+        "endUid": "u2443"
+      },
+      "category": "social_interaction"
     },
     {
       "id": "s011",
@@ -103,7 +199,7 @@
         "startUid": "u2458",
         "endUid": "u2584"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s013",
@@ -114,12 +210,20 @@
       "category": "meta_discussion"
     },
     {
-      "id": "s014",
+      "id": "s034",
       "source": {
         "startUid": "u2702",
+        "endUid": "u2727"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u2728",
         "endUid": "u2778"
       },
-      "category": "gameplay"
+      "category": "exploration"
     },
     {
       "id": "s015",
@@ -135,7 +239,7 @@
         "startUid": "u2790",
         "endUid": "u2853"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s017",
@@ -149,9 +253,17 @@
       "id": "s018",
       "source": {
         "startUid": "u2858",
+        "endUid": "u2889"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s035",
+      "source": {
+        "startUid": "u2890",
         "endUid": "u2908"
       },
-      "category": "gameplay"
+      "category": "planning"
     },
     {
       "id": "s019",
@@ -167,7 +279,7 @@
         "startUid": "u2945",
         "endUid": "u2953"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s021",

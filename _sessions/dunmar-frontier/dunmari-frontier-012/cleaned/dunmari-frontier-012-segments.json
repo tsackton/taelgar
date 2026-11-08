@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-012",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-012/cleaned/dunmari-frontier-012-session.yaml",
@@ -26,13 +26,37 @@
       "category": "session_framing"
     },
     {
-      "id": "s003",
+      "id": "s012",
       "source": {
         "startUid": "u0010",
-        "endUid": "u0270"
+        "endUid": "u0015"
       },
       "category": "gameplay",
       "note": "Waking and breakfast preparations advance the present scene despite the character reintroductions."
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u0016",
+        "endUid": "u0071"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u0072",
+        "endUid": "u0166"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0167",
+        "endUid": "u0270"
+      },
+      "category": "planning"
     },
     {
       "id": "s004",
@@ -87,6 +111,54 @@
       "id": "s010",
       "source": {
         "startUid": "u2121",
+        "endUid": "u2235"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u2236",
+        "endUid": "u2327"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u2328",
+        "endUid": "u2426"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u2427",
+        "endUid": "u2537"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u2538",
+        "endUid": "u2575"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u2576",
+        "endUid": "u2620"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u2621",
         "endUid": "u2642"
       },
       "category": "gameplay"

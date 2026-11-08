@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-042",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-042/cleaned/dunmari-frontier-042-session.yaml",
@@ -9,13 +9,174 @@
   },
   "segments": [
     {
-      "id": "s001",
+      "id": "s006",
       "source": {
         "startUid": "u0001",
-        "endUid": "u2301"
+        "endUid": "u0047"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u0048",
+        "endUid": "u0066"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u0067",
+        "endUid": "u0073"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u0074",
+        "endUid": "u0316"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u0317",
+        "endUid": "u0329"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u0330",
+        "endUid": "u0578"
+      },
+      "category": "exploration",
+      "note": "The tree initiative call at u0573–u0577 is a joke, not an encounter; the travel and weather narration advances play."
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u0579",
+        "endUid": "u0632"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u0633",
+        "endUid": "u0902"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u0903",
+        "endUid": "u0967"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u0968",
+        "endUid": "u1006"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u1007",
+        "endUid": "u1206"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u1207",
+        "endUid": "u1276"
       },
       "category": "gameplay",
       "note": "The tree initiative call at u0573–u0577 is a joke, not an encounter; the travel and weather narration advances play."
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u1277",
+        "endUid": "u1290"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u1291",
+        "endUid": "u1330"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u1331",
+        "endUid": "u1356"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u1357",
+        "endUid": "u1396"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u1397",
+        "endUid": "u1416"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s023",
+      "source": {
+        "startUid": "u1417",
+        "endUid": "u1462"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s024",
+      "source": {
+        "startUid": "u1463",
+        "endUid": "u1775"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s025",
+      "source": {
+        "startUid": "u1776",
+        "endUid": "u1876"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u1877",
+        "endUid": "u2301"
+      },
+      "category": "social_interaction"
     },
     {
       "id": "s002",
@@ -31,7 +192,7 @@
         "startUid": "u2305",
         "endUid": "u2428"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s004",

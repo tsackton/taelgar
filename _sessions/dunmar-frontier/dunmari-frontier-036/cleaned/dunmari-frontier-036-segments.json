@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-036",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-036/cleaned/dunmari-frontier-036-session.yaml",
@@ -25,9 +25,73 @@
       "category": "session_framing"
     },
     {
-      "id": "s003",
+      "id": "s007",
       "source": {
         "startUid": "u0017",
+        "endUid": "u0026"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u0027",
+        "endUid": "u0130"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0131",
+        "endUid": "u0312"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u0313",
+        "endUid": "u0483"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u0484",
+        "endUid": "u0524"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u0525",
+        "endUid": "u0543"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u0544",
+        "endUid": "u0723"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u0724",
+        "endUid": "u0752"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u0753",
         "endUid": "u0823"
       },
       "category": "gameplay"
@@ -42,12 +106,212 @@
       "note": "No initiative roll is retained; the repeated ordered turn cycle begins with Kenzo and continues through the wolf’s knockout."
     },
     {
-      "id": "s005",
+      "id": "s015",
       "source": {
         "startUid": "u1195",
-        "endUid": "u3462"
+        "endUid": "u1303"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u1304",
+        "endUid": "u1363"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u1364",
+        "endUid": "u1567"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u1568",
+        "endUid": "u1599"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u1600",
+        "endUid": "u1663"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u1664",
+        "endUid": "u1677"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u1678",
+        "endUid": "u1729"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u1730",
+        "endUid": "u1752"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s023",
+      "source": {
+        "startUid": "u1753",
+        "endUid": "u1828"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s024",
+      "source": {
+        "startUid": "u1829",
+        "endUid": "u1866"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s025",
+      "source": {
+        "startUid": "u1867",
+        "endUid": "u1901"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s026",
+      "source": {
+        "startUid": "u1902",
+        "endUid": "u2135"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s027",
+      "source": {
+        "startUid": "u2136",
+        "endUid": "u2242"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s028",
+      "source": {
+        "startUid": "u2243",
+        "endUid": "u2276"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s029",
+      "source": {
+        "startUid": "u2277",
+        "endUid": "u2355"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s030",
+      "source": {
+        "startUid": "u2356",
+        "endUid": "u2365"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s031",
+      "source": {
+        "startUid": "u2366",
+        "endUid": "u2467"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s032",
+      "source": {
+        "startUid": "u2468",
+        "endUid": "u2542"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u2543",
+        "endUid": "u2884"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s033",
+      "source": {
+        "startUid": "u2885",
+        "endUid": "u3019"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s034",
+      "source": {
+        "startUid": "u3020",
+        "endUid": "u3144"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s035",
+      "source": {
+        "startUid": "u3145",
+        "endUid": "u3155"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s036",
+      "source": {
+        "startUid": "u3156",
+        "endUid": "u3169"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s037",
+      "source": {
+        "startUid": "u3170",
+        "endUid": "u3214"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s038",
+      "source": {
+        "startUid": "u3215",
+        "endUid": "u3223"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s039",
+      "source": {
+        "startUid": "u3224",
+        "endUid": "u3462"
+      },
+      "category": "exploration"
     },
     {
       "id": "s006",

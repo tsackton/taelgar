@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-040",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-040/cleaned/dunmari-frontier-040-session.yaml",
@@ -14,7 +14,7 @@
         "startUid": "u0001",
         "endUid": "u0005"
       },
-      "category": "gameplay"
+      "category": "session_framing"
     },
     {
       "id": "s002",
@@ -31,7 +31,7 @@
         "startUid": "u0044",
         "endUid": "u0058"
       },
-      "category": "gameplay"
+      "category": "session_framing"
     },
     {
       "id": "s004",
@@ -43,12 +43,84 @@
       "note": "Out-of-character discussion of connections between plot threads before choosing the route."
     },
     {
-      "id": "s005",
+      "id": "s011",
       "source": {
         "startUid": "u0088",
-        "endUid": "u0866"
+        "endUid": "u0131"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u0132",
+        "endUid": "u0191"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u0192",
+        "endUid": "u0289"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u0290",
+        "endUid": "u0329"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u0330",
+        "endUid": "u0420"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u0421",
+        "endUid": "u0449"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0450",
+        "endUid": "u0735"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u0736",
+        "endUid": "u0758"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u0759",
+        "endUid": "u0847"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u0848",
+        "endUid": "u0866"
+      },
+      "category": "social_interaction"
     },
     {
       "id": "s006",
@@ -59,12 +131,52 @@
       "category": "table_talk"
     },
     {
-      "id": "s007",
+      "id": "s020",
       "source": {
         "startUid": "u0875",
-        "endUid": "u2137"
+        "endUid": "u0914"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u0915",
+        "endUid": "u0994"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u0995",
+        "endUid": "u1137"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s023",
+      "source": {
+        "startUid": "u1138",
+        "endUid": "u1169"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u1170",
+        "endUid": "u2056"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s024",
+      "source": {
+        "startUid": "u2057",
+        "endUid": "u2137"
+      },
+      "category": "planning"
     },
     {
       "id": "s008",

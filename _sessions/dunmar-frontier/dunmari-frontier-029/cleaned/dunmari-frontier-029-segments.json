@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-029",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-029/cleaned/dunmari-frontier-029-session.yaml",
@@ -25,12 +25,92 @@
       "category": "session_framing"
     },
     {
-      "id": "s003",
+      "id": "s008",
       "source": {
         "startUid": "u0005",
-        "endUid": "u0612"
+        "endUid": "u0007"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u0008",
+        "endUid": "u0053"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u0054",
+        "endUid": "u0104"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u0105",
+        "endUid": "u0173"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u0174",
+        "endUid": "u0196"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u0197",
+        "endUid": "u0230"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u0231",
+        "endUid": "u0248"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0249",
+        "endUid": "u0515"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u0516",
+        "endUid": "u0529"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u0530",
+        "endUid": "u0588"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u0589",
+        "endUid": "u0612"
+      },
+      "category": "planning"
     },
     {
       "id": "s004",
@@ -42,12 +122,100 @@
       "note": "The DM initially dispenses with standard initiative, then explicitly uses side initiative with repeated party/enemy cycles; setup through capture is one continuous fight."
     },
     {
-      "id": "s005",
+      "id": "s018",
       "source": {
         "startUid": "u1558",
-        "endUid": "u2657"
+        "endUid": "u1578"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u1579",
+        "endUid": "u1817"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u1818",
+        "endUid": "u1845"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u1846",
+        "endUid": "u1953"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u1954",
+        "endUid": "u2027"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s023",
+      "source": {
+        "startUid": "u2028",
+        "endUid": "u2069"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s024",
+      "source": {
+        "startUid": "u2070",
+        "endUid": "u2111"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s025",
+      "source": {
+        "startUid": "u2112",
+        "endUid": "u2256"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s026",
+      "source": {
+        "startUid": "u2257",
+        "endUid": "u2279"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s027",
+      "source": {
+        "startUid": "u2280",
+        "endUid": "u2333"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u2334",
+        "endUid": "u2630"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s028",
+      "source": {
+        "startUid": "u2631",
+        "endUid": "u2657"
+      },
+      "category": "planning"
     },
     {
       "id": "s006",
@@ -58,12 +226,68 @@
       "category": "meta_discussion"
     },
     {
-      "id": "s007",
+      "id": "s029",
       "source": {
         "startUid": "u2680",
-        "endUid": "u3490"
+        "endUid": "u2696"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u2697",
+        "endUid": "u3051"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s030",
+      "source": {
+        "startUid": "u3052",
+        "endUid": "u3118"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s031",
+      "source": {
+        "startUid": "u3119",
+        "endUid": "u3169"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s032",
+      "source": {
+        "startUid": "u3170",
+        "endUid": "u3232"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s033",
+      "source": {
+        "startUid": "u3233",
+        "endUid": "u3306"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s034",
+      "source": {
+        "startUid": "u3307",
+        "endUid": "u3329"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s035",
+      "source": {
+        "startUid": "u3330",
+        "endUid": "u3490"
+      },
+      "category": "planning"
     }
   ]
 }

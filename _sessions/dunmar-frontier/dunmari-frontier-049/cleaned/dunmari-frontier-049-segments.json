@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-049",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-049/cleaned/dunmari-frontier-049-session.yaml",
@@ -14,7 +14,7 @@
         "startUid": "u0001",
         "endUid": "u0609"
       },
-      "category": "gameplay",
+      "category": "social_interaction",
       "note": "The inseparable opening turn combines retrospective orientation with the current walk to Sibyl’s Hall and entry into Gnaeus’s lesson."
     },
     {
@@ -29,6 +29,14 @@
       "id": "s003",
       "source": {
         "startUid": "u0635",
+        "endUid": "u0744"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s027",
+      "source": {
+        "startUid": "u0745",
         "endUid": "u0755"
       },
       "category": "gameplay"
@@ -47,7 +55,7 @@
         "startUid": "u0823",
         "endUid": "u1165"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s006",
@@ -71,7 +79,7 @@
         "startUid": "u1231",
         "endUid": "u1448"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s009",
@@ -85,9 +93,49 @@
       "id": "s010",
       "source": {
         "startUid": "u1459",
-        "endUid": "u1925"
+        "endUid": "u1648"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s028",
+      "source": {
+        "startUid": "u1649",
+        "endUid": "u1673"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s029",
+      "source": {
+        "startUid": "u1674",
+        "endUid": "u1689"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s030",
+      "source": {
+        "startUid": "u1690",
+        "endUid": "u1723"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s031",
+      "source": {
+        "startUid": "u1724",
+        "endUid": "u1887"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s032",
+      "source": {
+        "startUid": "u1888",
+        "endUid": "u1925"
+      },
+      "category": "social_interaction"
     },
     {
       "id": "s011",
@@ -98,12 +146,36 @@
       "category": "meta_discussion"
     },
     {
-      "id": "s012",
+      "id": "s033",
       "source": {
         "startUid": "u1958",
+        "endUid": "u2011"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s034",
+      "source": {
+        "startUid": "u2012",
+        "endUid": "u2052"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s035",
+      "source": {
+        "startUid": "u2053",
+        "endUid": "u2076"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u2077",
         "endUid": "u2137"
       },
-      "category": "gameplay"
+      "category": "planning"
     },
     {
       "id": "s013",
@@ -135,7 +207,7 @@
         "startUid": "u2176",
         "endUid": "u2297"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s017",
@@ -146,12 +218,44 @@
       "category": "meta_discussion"
     },
     {
-      "id": "s018",
+      "id": "s036",
       "source": {
         "startUid": "u2332",
-        "endUid": "u2686"
+        "endUid": "u2451"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s037",
+      "source": {
+        "startUid": "u2452",
+        "endUid": "u2528"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s038",
+      "source": {
+        "startUid": "u2529",
+        "endUid": "u2548"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s039",
+      "source": {
+        "startUid": "u2549",
+        "endUid": "u2562"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u2563",
+        "endUid": "u2686"
+      },
+      "category": "social_interaction"
     },
     {
       "id": "s019",
@@ -163,12 +267,60 @@
       "note": "Continuous initiative and escape, including the table’s compressed reunion that ends the ordered action; Riswynn is absent from the fight."
     },
     {
-      "id": "s020",
+      "id": "s040",
       "source": {
         "startUid": "u3611",
+        "endUid": "u3654"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s041",
+      "source": {
+        "startUid": "u3655",
+        "endUid": "u3677"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s042",
+      "source": {
+        "startUid": "u3678",
+        "endUid": "u3692"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s043",
+      "source": {
+        "startUid": "u3693",
+        "endUid": "u3703"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s044",
+      "source": {
+        "startUid": "u3704",
+        "endUid": "u3722"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u3723",
+        "endUid": "u3768"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s045",
+      "source": {
+        "startUid": "u3769",
         "endUid": "u3802"
       },
-      "category": "gameplay"
+      "category": "exploration"
     },
     {
       "id": "s021",
@@ -184,7 +336,7 @@
         "startUid": "u3914",
         "endUid": "u3917"
       },
-      "category": "gameplay"
+      "category": "session_framing"
     },
     {
       "id": "s023",
@@ -200,7 +352,7 @@
         "startUid": "u3953",
         "endUid": "u3956"
       },
-      "category": "gameplay"
+      "category": "session_framing"
     },
     {
       "id": "s025",

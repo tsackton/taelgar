@@ -119,15 +119,18 @@ Recording length (transcript timestamp extent): **8:32:02** (0:00:00 → 8:32:02
 
 | Segment class | Elapsed (h:mm:ss) | Elapsed share | Speaking (h:mm:ss) | Speaking share |
 | --- | --- | --- | --- | --- |
-| Gameplay | 4:22:10 | 51.2% | 3:15:03 | 49.4% |
+| Exploration | 1:18:02 | 15.3% | 1:00:17 | 15.3% |
+| Social interaction | 1:10:09 | 13.7% | 0:49:43 | 12.6% |
+| Planning | 1:26:43 | 17.0% | 1:05:07 | 16.5% |
 | Combat | 2:37:31 | 30.8% | 2:04:53 | 31.6% |
-| Meta discussion | 1:28:03 | 17.2% | 1:12:41 | 18.4% |
+| Meta discussion | 1:29:09 | 17.5% | 1:13:28 | 18.6% |
 | Table talk | 0:04:03 | 0.8% | 0:02:33 | 0.6% |
 | Session framing | 0:00:00 | 0.0% | 0:00:00 | 0.0% |
-| **Total** | 8:31:47 | 100.0% | 6:35:10 | 100.0% |
+| Gameplay | 0:25:17 | 4.9% | 0:19:07 | 4.8% |
+| **Total** | 8:30:54 | 100.0% | 6:35:10 | 100.0% |
 
 Elapsed time spans each segment block’s first UID start through its latest UID end, including internal pauses. Speaking time covers timestamped utterances only. Each millisecond is counted once; overlaps belong to the earliest source block or utterance. Each share uses its own column total.
 
-Outside segment spans: **0:00:15** in gaps between blocks.
+Outside segment spans: **0:01:08** in gaps between blocks.
 
 Sources · [Transcript](dunmari-frontier-110-transcript.md) · [Time Markers](dunmari-frontier-110-time-markers.json) · [Location Markers](dunmari-frontier-110-location-markers.json) · [Entity Map](dunmari-frontier-110-entity-map.json) · [Interactions](dunmari-frontier-110-interactions.json) · [Combat](dunmari-frontier-110-combat.json) · [Segments](dunmari-frontier-110-segments.json) · [Watch data](dunmari-frontier-110-time-watches.json) · [Narrative-only session 107](../../dunmari-frontier-107/cleaned/dunmari-frontier-107-source-prepared.md) · [Session 107 manifest](../../dunmari-frontier-107/cleaned/dunmari-frontier-107-session.yaml) · [Session 108 chronology](../../../../Campaigns/Dunmari%20Frontier%20Campaign/Session%20Notes/Session%20108%20%28DuFr%29.md) · [Session 109 chronology](../../../../Campaigns/Dunmari%20Frontier%20Campaign/Session%20Notes/Session%20109%20%28DuFr%29.md) · [Session 109 closing handoff](../../dunmari-frontier-109/cleaned/dunmari-frontier-109-transcript.md) · [Session 110 dated note](../../../../Campaigns/Dunmari%20Frontier%20Campaign/Session%20Notes/Session%20110%20%28DuFr%29.md) · [Preserved timeline evidence](dunmari-frontier-110-timeline-evidence.json) · [Preserved timeline review](dunmari-frontier-110-timeline-review.json)

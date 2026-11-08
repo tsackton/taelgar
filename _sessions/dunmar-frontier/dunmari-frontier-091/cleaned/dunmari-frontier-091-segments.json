@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-091",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-091/cleaned/dunmari-frontier-091-session.yaml",
@@ -35,9 +35,73 @@
       "note": "Initiative setup, preparations, rules discussion and the narrated cleanup form one continuous encounter."
     },
     {
-      "id": "s004",
+      "id": "s009",
       "source": {
         "startUid": "u0917",
+        "endUid": "u0923"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u0924",
+        "endUid": "u0959"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u0960",
+        "endUid": "u0979"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u0980",
+        "endUid": "u0991"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u0992",
+        "endUid": "u0993"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0994",
+        "endUid": "u1173"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u1174",
+        "endUid": "u1205"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u1206",
+        "endUid": "u1224"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u1225",
         "endUid": "u1267"
       },
       "category": "gameplay"
@@ -51,12 +115,84 @@
       "category": "table_talk"
     },
     {
-      "id": "s006",
+      "id": "s017",
       "source": {
         "startUid": "u1273",
-        "endUid": "u2064"
+        "endUid": "u1283"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u1284",
+        "endUid": "u1348"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u1349",
+        "endUid": "u1362"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u1363",
+        "endUid": "u1407"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u1408",
+        "endUid": "u1438"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u1439",
+        "endUid": "u1538"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s023",
+      "source": {
+        "startUid": "u1539",
+        "endUid": "u1641"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s024",
+      "source": {
+        "startUid": "u1642",
+        "endUid": "u1655"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s025",
+      "source": {
+        "startUid": "u1656",
+        "endUid": "u1734"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u1735",
+        "endUid": "u2064"
+      },
+      "category": "social_interaction"
     },
     {
       "id": "s007",
@@ -70,9 +206,33 @@
       "id": "s008",
       "source": {
         "startUid": "u2184",
-        "endUid": "u2340"
+        "endUid": "u2242"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s026",
+      "source": {
+        "startUid": "u2243",
+        "endUid": "u2299"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s027",
+      "source": {
+        "startUid": "u2300",
+        "endUid": "u2334"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s028",
+      "source": {
+        "startUid": "u2335",
+        "endUid": "u2340"
+      },
+      "category": "session_framing"
     }
   ]
 }

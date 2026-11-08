@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-123",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-123/cleaned/dunmari-frontier-123-session.yaml",
@@ -26,13 +26,110 @@
       "note": "Opening recap and setting introduction; newly experienced beacon visions begin at u0031."
     },
     {
-      "id": "s003",
+      "id": "s012",
       "source": {
         "startUid": "u0031",
+        "endUid": "u0096"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u0097",
+        "endUid": "u0144"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u0145",
+        "endUid": "u0265"
+      },
+      "category": "exploration",
+      "note": "Wellby’s escape and the airborne pursuit use freeform hazards and active tactical planning, without initiative or a repeated ordered turn cycle."
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u0266",
+        "endUid": "u0297"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u0298",
+        "endUid": "u0346"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0347",
+        "endUid": "u0559"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u0560",
+        "endUid": "u0636"
+      },
+      "category": "exploration",
+      "note": "Wellby’s escape and the airborne pursuit use freeform hazards and active tactical planning, without initiative or a repeated ordered turn cycle."
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u0637",
+        "endUid": "u0651"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u0652",
+        "endUid": "u0694"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u0695",
+        "endUid": "u0719"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u0720",
+        "endUid": "u0772"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u0773",
+        "endUid": "u0803"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s023",
+      "source": {
+        "startUid": "u0804",
         "endUid": "u0814"
       },
-      "category": "gameplay",
-      "note": "Wellby’s escape and the airborne pursuit use freeform hazards and active tactical planning, without initiative or a repeated ordered turn cycle."
+      "category": "exploration"
     },
     {
       "id": "s004",
@@ -56,7 +153,7 @@
         "startUid": "u0862",
         "endUid": "u0865"
       },
-      "category": "gameplay"
+      "category": "exploration"
     },
     {
       "id": "s010",
@@ -73,7 +170,7 @@
         "startUid": "u0994",
         "endUid": "u1022"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s007",
@@ -87,6 +184,22 @@
       "id": "s008",
       "source": {
         "startUid": "u1049",
+        "endUid": "u1314"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s024",
+      "source": {
+        "startUid": "u1315",
+        "endUid": "u1323"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s025",
+      "source": {
+        "startUid": "u1324",
         "endUid": "u1355"
       },
       "category": "gameplay"

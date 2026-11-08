@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-010",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-session.yaml",
@@ -14,7 +14,7 @@
         "startUid": "u0001",
         "endUid": "u0133"
       },
-      "category": "gameplay"
+      "category": "exploration"
     },
     {
       "id": "s002",
@@ -25,12 +25,52 @@
       "category": "table_talk"
     },
     {
-      "id": "s003",
+      "id": "s014",
       "source": {
         "startUid": "u0146",
-        "endUid": "u0505"
+        "endUid": "u0198"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u0199",
+        "endUid": "u0277"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u0278",
+        "endUid": "u0323"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u0324",
+        "endUid": "u0367"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0368",
+        "endUid": "u0478"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u0479",
+        "endUid": "u0505"
+      },
+      "category": "exploration"
     },
     {
       "id": "s004",
@@ -41,12 +81,44 @@
       "category": "table_talk"
     },
     {
-      "id": "s005",
+      "id": "s019",
       "source": {
         "startUid": "u0538",
+        "endUid": "u0624"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u0625",
+        "endUid": "u0673"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0674",
+        "endUid": "u0976"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u0977",
+        "endUid": "u1091"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u1092",
         "endUid": "u1116"
       },
-      "category": "gameplay"
+      "category": "exploration"
     },
     {
       "id": "s006",
@@ -57,12 +129,60 @@
       "category": "combat"
     },
     {
-      "id": "s007",
+      "id": "s023",
       "source": {
         "startUid": "u1233",
+        "endUid": "u1309"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s024",
+      "source": {
+        "startUid": "u1310",
+        "endUid": "u1423"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s025",
+      "source": {
+        "startUid": "u1424",
+        "endUid": "u1549"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s026",
+      "source": {
+        "startUid": "u1550",
+        "endUid": "u1638"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u1639",
+        "endUid": "u1909"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s027",
+      "source": {
+        "startUid": "u1910",
+        "endUid": "u2003"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s028",
+      "source": {
+        "startUid": "u2004",
         "endUid": "u2094"
       },
-      "category": "gameplay"
+      "category": "planning"
     },
     {
       "id": "s008",
@@ -74,12 +194,28 @@
       "note": "Includes the opening Sleep spell whose audible result immediately triggers initiative; the guard remains asleep when the ordered fight ends."
     },
     {
-      "id": "s009",
+      "id": "s029",
       "source": {
         "startUid": "u2523",
+        "endUid": "u2544"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s030",
+      "source": {
+        "startUid": "u2545",
+        "endUid": "u2584"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u2585",
         "endUid": "u2695"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s010",
@@ -95,7 +231,7 @@
         "startUid": "u2701",
         "endUid": "u2867"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s012",

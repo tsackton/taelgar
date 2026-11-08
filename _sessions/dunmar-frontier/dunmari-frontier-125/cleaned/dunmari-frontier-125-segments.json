@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-125",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-125/cleaned/dunmari-frontier-125-session.yaml",
@@ -9,13 +9,93 @@
   },
   "segments": [
     {
-      "id": "s001",
+      "id": "s012",
       "source": {
         "startUid": "u0001",
-        "endUid": "u1085"
+        "endUid": "u0073"
       },
       "category": "gameplay",
       "note": "The opening includes narrated prisoner recollections and a return to current play; these experiences are gameplay."
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u0074",
+        "endUid": "u0285"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u0286",
+        "endUid": "u0318"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u0319",
+        "endUid": "u0428"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u0429",
+        "endUid": "u0473"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u0474",
+        "endUid": "u0485"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u0486",
+        "endUid": "u0497"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u0498",
+        "endUid": "u0537"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u0538",
+        "endUid": "u0584"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u0585",
+        "endUid": "u0648"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0649",
+        "endUid": "u1085"
+      },
+      "category": "social_interaction"
     },
     {
       "id": "s002",
@@ -26,12 +106,44 @@
       "category": "meta_discussion"
     },
     {
-      "id": "s003",
+      "id": "s022",
       "source": {
         "startUid": "u1117",
+        "endUid": "u1330"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s023",
+      "source": {
+        "startUid": "u1331",
+        "endUid": "u1381"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s024",
+      "source": {
+        "startUid": "u1382",
+        "endUid": "u1509"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s025",
+      "source": {
+        "startUid": "u1510",
+        "endUid": "u1550"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u1551",
         "endUid": "u2101"
       },
-      "category": "gameplay",
+      "category": "social_interaction",
       "note": "The defensive spell, force cage and questioning aboard Auratan’s Pride never enter initiative or establish a repeated ordered turn cycle."
     },
     {
@@ -48,7 +160,7 @@
         "startUid": "u2141",
         "endUid": "u2200"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s006",
@@ -64,7 +176,7 @@
         "startUid": "u2235",
         "endUid": "u2295"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s008",
@@ -78,9 +190,17 @@
       "id": "s009",
       "source": {
         "startUid": "u2305",
+        "endUid": "u2395"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s026",
+      "source": {
+        "startUid": "u2396",
         "endUid": "u2421"
       },
-      "category": "gameplay"
+      "category": "planning"
     },
     {
       "id": "s010",

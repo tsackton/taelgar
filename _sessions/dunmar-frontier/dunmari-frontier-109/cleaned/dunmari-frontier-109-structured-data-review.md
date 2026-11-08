@@ -119,15 +119,18 @@ Recording length (transcript timestamp extent): **5:38:45** (0:00:00 → 5:38:45
 
 | Segment class | Elapsed (h:mm:ss) | Elapsed share | Speaking (h:mm:ss) | Speaking share |
 | --- | --- | --- | --- | --- |
-| Gameplay | 3:29:24 | 61.9% | 2:44:44 | 62.3% |
+| Exploration | 1:57:25 | 34.7% | 1:33:10 | 35.2% |
+| Social interaction | 0:17:04 | 5.0% | 0:12:37 | 4.8% |
+| Planning | 0:51:50 | 15.3% | 0:41:31 | 15.7% |
 | Combat | 2:00:20 | 35.6% | 1:34:18 | 35.7% |
-| Meta discussion | 0:01:31 | 0.4% | 0:01:19 | 0.5% |
+| Meta discussion | 0:04:43 | 1.4% | 0:03:46 | 1.4% |
 | Table talk | 0:07:09 | 2.1% | 0:04:04 | 1.5% |
-| Session framing | 0:00:00 | 0.0% | 0:00:00 | 0.0% |
-| **Total** | 5:38:24 | 100.0% | 4:24:26 | 100.0% |
+| Session framing | 0:03:22 | 1.0% | 0:02:38 | 1.0% |
+| Gameplay | 0:16:00 | 4.7% | 0:12:21 | 4.7% |
+| **Total** | 5:37:54 | 100.0% | 4:24:26 | 100.0% |
 
 Elapsed time spans each segment block’s first UID start through its latest UID end, including internal pauses. Speaking time covers timestamped utterances only. Each millisecond is counted once; overlaps belong to the earliest source block or utterance. Each share uses its own column total.
 
-Outside segment spans: **0:00:21** in gaps between blocks.
+Outside segment spans: **0:00:51** in gaps between blocks.
 
 Sources · [Transcript](dunmari-frontier-109-transcript.md) · [Time Markers](dunmari-frontier-109-time-markers.json) · [Location Markers](dunmari-frontier-109-location-markers.json) · [Entity Map](dunmari-frontier-109-entity-map.json) · [Interactions](dunmari-frontier-109-interactions.json) · [Combat](dunmari-frontier-109-combat.json) · [Segments](dunmari-frontier-109-segments.json) · [Watch data](dunmari-frontier-109-time-watches.json) · [Session 107 narrative](../../dunmari-frontier-107/cleaned/dunmari-frontier-107-source-prepared.md) · [Session 107 registration](../../dunmari-frontier-107/cleaned/dunmari-frontier-107-session.yaml) · [Session 108 transcript](../../dunmari-frontier-108/cleaned/dunmari-frontier-108-transcript.md) · [Session 108 registration](../../dunmari-frontier-108/cleaned/dunmari-frontier-108-session.yaml) · [Preserved timeline evidence](dunmari-frontier-109-timeline-evidence.json) · [Preserved timeline review](dunmari-frontier-109-timeline-review.json)

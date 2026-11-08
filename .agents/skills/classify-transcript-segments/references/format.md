@@ -39,6 +39,12 @@ Illustrative record shape, not a claim about a real session:
 
 Framing requires actual non-advancing introduction or recap content in those turns. The next segment begins where active play begins, even if the DM continues narrating uninterrupted.
 
+## Gameplay backfill (0.2-transcript-segments-draft)
+
+This revision is for explicitly selected existing bundles. The full-transcript procedure above describes 0.1. In a backfill, read the polished turns covered by each existing `gameplay` span. Split at sustained changes of activity, keeping whole turns and shared UIDs together. Use `exploration` for actively interacting with the environment, such as searching, inspecting objects or places, experimenting, navigating, and overcoming environmental obstacles. Use `social_interaction` for engaging with NPCs, through speech or other actions, and for played exchanges between characters. Use `planning` for weighing what to do next, in or out of character. Rules questions follow the activity they serve.
+
+Use `session_framing` for recaps, introductions, and player-led character check-ins, including those that establish new details. A played conversation between the characters is social interaction. Clear out-of-character bookkeeping can be `meta_discussion`. Use `gameplay` for other actions, in-world developments, and mixed stretches when a more specific label would misdescribe what the table is doing. For example, stand-alone lore recall, narrated travel without active engagement with the environment, receiving unsolicited news, or routine healing can be gameplay. Keep ambiguous passages as `gameplay` rather than forcing a more specific label. Notes are optional for every category. Keep brief mixed moments with the surrounding activity. Preserve every span outside the original gameplay ranges, including its ID, exact boundaries, category, and note. Keep historical boundaries when necessary to preserve those records.
+
 ## Revisions and consumers
 
 Preserve IDs for unchanged segments and human-adopted boundaries. When splitting or merging, retain an existing ID only for a clearly continuing segment and assign unused IDs to new segments; array order, not ID numbering, establishes sequence. Consumers bind to the exact file fingerprint. Changed boundaries or labels require reinspection of affected combat records, not blind fingerprint replacement.

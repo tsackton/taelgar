@@ -79,15 +79,18 @@ Recording length (transcript timestamp extent): **3:04:55** (0:00:05 → 3:04:59
 
 | Segment class | Elapsed (h:mm:ss) | Elapsed share | Speaking (h:mm:ss) | Speaking share |
 | --- | --- | --- | --- | --- |
-| Gameplay | 2:54:27 | 94.5% | 2:13:26 | 93.8% |
+| Exploration | 0:37:06 | 20.2% | 0:30:12 | 21.2% |
+| Social interaction | 0:42:53 | 23.3% | 0:30:09 | 21.2% |
+| Planning | 0:51:58 | 28.3% | 0:42:06 | 29.6% |
 | Combat | 0:00:00 | 0.0% | 0:00:00 | 0.0% |
 | Meta discussion | 0:07:44 | 4.2% | 0:06:39 | 4.7% |
 | Table talk | 0:01:14 | 0.7% | 0:01:09 | 0.8% |
-| Session framing | 0:01:12 | 0.6% | 0:01:02 | 0.7% |
-| **Total** | 3:04:36 | 100.0% | 2:22:15 | 100.0% |
+| Session framing | 0:09:12 | 5.0% | 0:06:40 | 4.7% |
+| Gameplay | 0:33:43 | 18.3% | 0:25:20 | 17.8% |
+| **Total** | 3:03:49 | 100.0% | 2:22:15 | 100.0% |
 
 Elapsed time spans each segment block’s first UID start through its latest UID end, including internal pauses. Speaking time covers timestamped utterances only. Each millisecond is counted once; overlaps belong to the earliest source block or utterance. Each share uses its own column total.
 
-Outside segment spans: **0:00:19** in gaps between blocks.
+Outside segment spans: **0:01:06** in gaps between blocks.
 
 Sources · [Transcript](dunmari-frontier-074-transcript.md) · [Time Markers](dunmari-frontier-074-time-markers.json) · [Location Markers](dunmari-frontier-074-location-markers.json) · [Entity Map](dunmari-frontier-074-entity-map.json) · [Interactions](dunmari-frontier-074-interactions.json) · [Combat](dunmari-frontier-074-combat.json) · [Segments](dunmari-frontier-074-segments.json) · [Watch data](dunmari-frontier-074-time-watches.json) · [Dated campaign record](../../../../Campaigns/Dunmari%20Frontier%20Campaign/Session%20Notes/Session%2074%20%28DuFr%29.md) · [Grash reference](../../../../People/Other%20Nonhumans/Grash.md) · [Top reference](../../../../Campaigns/Dunmari%20Frontier%20Campaign/Treasure/Ever%20Spinning%20Top.md) · [Tower reference](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Stormcaller%20Tower.md) · [Session 075 registered polished transcript](../../dunmari-frontier-075/cleaned/dunmari-frontier-075-transcript.md)

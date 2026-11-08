@@ -66,15 +66,18 @@ Recording length (transcript timestamp extent): **3:25:59** (0:00:02 → 3:26:01
 
 | Segment class | Elapsed (h:mm:ss) | Elapsed share | Speaking (h:mm:ss) | Speaking share |
 | --- | --- | --- | --- | --- |
-| Gameplay | 3:06:35 | 90.7% | 2:21:53 | 88.9% |
+| Exploration | 0:10:00 | 4.9% | 0:07:42 | 4.8% |
+| Social interaction | 1:49:51 | 53.6% | 1:23:50 | 52.5% |
+| Planning | 0:41:17 | 20.1% | 0:29:30 | 18.5% |
 | Combat | 0:00:00 | 0.0% | 0:00:00 | 0.0% |
 | Meta discussion | 0:09:03 | 4.4% | 0:08:08 | 5.1% |
 | Table talk | 0:05:34 | 2.7% | 0:05:17 | 3.3% |
-| Session framing | 0:04:36 | 2.2% | 0:04:16 | 2.7% |
-| **Total** | 3:25:48 | 100.0% | 2:39:35 | 100.0% |
+| Session framing | 0:05:18 | 2.6% | 0:04:54 | 3.1% |
+| Gameplay | 0:23:58 | 11.7% | 0:20:13 | 12.7% |
+| **Total** | 3:25:01 | 100.0% | 2:39:35 | 100.0% |
 
 Elapsed time spans each segment block’s first UID start through its latest UID end, including internal pauses. Speaking time covers timestamped utterances only. Each millisecond is counted once; overlaps belong to the earliest source block or utterance. Each share uses its own column total.
 
-Outside segment spans: **0:00:11** in gaps between blocks.
+Outside segment spans: **0:00:58** in gaps between blocks.
 
 Sources · [Transcript](dunmari-frontier-126-transcript.md) · [Time Markers](dunmari-frontier-126-time-markers.json) · [Location Markers](dunmari-frontier-126-location-markers.json) · [Entity Map](dunmari-frontier-126-entity-map.json) · [Interactions](dunmari-frontier-126-interactions.json) · [Combat](dunmari-frontier-126-combat.json) · [Segments](dunmari-frontier-126-segments.json) · [Watch data](dunmari-frontier-126-time-watches.json) · [Session 125 dates](../../dunmari-frontier-125/cleaned/dunmari-frontier-125-session.yaml) · [Session 125 handoff](../../dunmari-frontier-125/cleaned/dunmari-frontier-125-transcript.md) · [Dated session record](../../../../Campaigns/Dunmari%20Frontier%20Campaign/Session%20Notes/Session%20126%20%28DuFr%29.md) · [Amelia identity account](../../../../People/Chardonians/Amelia.md)

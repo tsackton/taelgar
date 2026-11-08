@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "lost-in-the-feywild-002",
     "sessionYaml": "_sessions/feywild/lost-in-the-feywild-002/cleaned/lost-in-the-feywild-002-session.yaml",
@@ -26,12 +26,108 @@
       "note": "Opening recap ends at the closed door; the DM explicitly resumes active play in the tunnel at u0066."
     },
     {
-      "id": "s003",
+      "id": "s010",
       "source": {
         "startUid": "u0066",
-        "endUid": "u0774"
+        "endUid": "u0087"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u0088",
+        "endUid": "u0136"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u0137",
+        "endUid": "u0235"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u0236",
+        "endUid": "u0313"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u0314",
+        "endUid": "u0350"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u0351",
+        "endUid": "u0389"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0390",
+        "endUid": "u0596"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u0597",
+        "endUid": "u0615"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u0616",
+        "endUid": "u0648"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u0649",
+        "endUid": "u0707"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u0708",
+        "endUid": "u0730"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u0731",
+        "endUid": "u0753"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u0754",
+        "endUid": "u0774"
+      },
+      "category": "planning"
     },
     {
       "id": "s004",
@@ -42,12 +138,100 @@
       "category": "meta_discussion"
     },
     {
-      "id": "s005",
+      "id": "s022",
       "source": {
         "startUid": "u0827",
-        "endUid": "u2299"
+        "endUid": "u0926"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s023",
+      "source": {
+        "startUid": "u0927",
+        "endUid": "u0964"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s024",
+      "source": {
+        "startUid": "u0965",
+        "endUid": "u0984"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0985",
+        "endUid": "u1376"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s025",
+      "source": {
+        "startUid": "u1377",
+        "endUid": "u1402"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s026",
+      "source": {
+        "startUid": "u1403",
+        "endUid": "u1452"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s027",
+      "source": {
+        "startUid": "u1453",
+        "endUid": "u1470"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s028",
+      "source": {
+        "startUid": "u1471",
+        "endUid": "u1511"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s029",
+      "source": {
+        "startUid": "u1512",
+        "endUid": "u1869"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s030",
+      "source": {
+        "startUid": "u1870",
+        "endUid": "u1923"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s031",
+      "source": {
+        "startUid": "u1924",
+        "endUid": "u2288"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s032",
+      "source": {
+        "startUid": "u2289",
+        "endUid": "u2299"
+      },
+      "category": "exploration"
     },
     {
       "id": "s006",
@@ -63,7 +247,7 @@
         "startUid": "u2312",
         "endUid": "u2336"
       },
-      "category": "gameplay",
+      "category": "exploration",
       "note": "The closing hook and accepted owl-follow instruction advance play; the brief sign-off within this span does not end it."
     },
     {

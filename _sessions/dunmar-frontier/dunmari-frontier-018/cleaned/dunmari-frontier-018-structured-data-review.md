@@ -55,15 +55,18 @@ Recording length (transcript timestamp extent): **4:09:46** (0:00:17 → 4:10:03
 
 | Segment class | Elapsed (h:mm:ss) | Elapsed share | Speaking (h:mm:ss) | Speaking share |
 | --- | --- | --- | --- | --- |
-| Gameplay | 3:15:08 | 79.1% | 1:52:25 | 73.6% |
+| Exploration | 0:05:26 | 2.2% | 0:00:29 | 0.3% |
+| Social interaction | 2:41:50 | 65.7% | 1:33:33 | 61.3% |
+| Planning | 0:26:19 | 10.7% | 0:17:21 | 11.4% |
 | Combat | 0:00:00 | 0.0% | 0:00:00 | 0.0% |
 | Meta discussion | 0:44:40 | 18.1% | 0:34:50 | 22.8% |
 | Table talk | 0:03:31 | 1.4% | 0:02:32 | 1.7% |
 | Session framing | 0:03:17 | 1.3% | 0:02:51 | 1.9% |
-| **Total** | 4:06:36 | 100.0% | 2:32:38 | 100.0% |
+| Gameplay | 0:01:16 | 0.5% | 0:01:02 | 0.7% |
+| **Total** | 4:06:19 | 100.0% | 2:32:38 | 100.0% |
 
 Elapsed time spans each segment block’s first UID start through its latest UID end, including internal pauses. Speaking time covers timestamped utterances only. Each millisecond is counted once; overlaps belong to the earliest source block or utterance. Each share uses its own column total.
 
-Outside segment spans: **0:03:10** in gaps between blocks.
+Outside segment spans: **0:03:27** in gaps between blocks.
 
 Sources · [Transcript](dunmari-frontier-018-transcript.md) · [Time Markers](dunmari-frontier-018-time-markers.json) · [Location Markers](dunmari-frontier-018-location-markers.json) · [Entity Map](dunmari-frontier-018-entity-map.json) · [Interactions](dunmari-frontier-018-interactions.json) · [Combat](dunmari-frontier-018-combat.json) · [Segments](dunmari-frontier-018-segments.json) · [Watch data](dunmari-frontier-018-time-watches.json) · [Session 17 handoff and earlier travel (u1186–u1228, u2351–u2393)](../../dunmari-frontier-017/cleaned/dunmari-frontier-017-transcript.md) · [Session 19 recollection of the afternoon in Karawa (u0316–u0327)](../../dunmari-frontier-019/cleaned/dunmari-frontier-019-transcript.md) · [Session 17 arrival watch for comparison](../../../../Campaigns/Dunmari%20Frontier%20Campaign/Session%20Notes/Session%2017%20%28DuFr%29.md)

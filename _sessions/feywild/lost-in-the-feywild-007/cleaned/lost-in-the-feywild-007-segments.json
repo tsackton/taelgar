@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "lost-in-the-feywild-007",
     "sessionYaml": "_sessions/feywild/lost-in-the-feywild-007/cleaned/lost-in-the-feywild-007-session.yaml",
@@ -33,9 +33,66 @@
       "category": "session_framing"
     },
     {
-      "id": "s004",
+      "id": "s009",
       "source": {
         "startUid": "u0102",
+        "endUid": "u0104"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u0105",
+        "endUid": "u0187"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u0188",
+        "endUid": "u0285"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u0286",
+        "endUid": "u0426"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u0427",
+        "endUid": "u0456"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u0457",
+        "endUid": "u0473"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0474",
+        "endUid": "u1212"
+      },
+      "category": "social_interaction",
+      "note": "The storytelling contest has no initiative or repeated ordered turn cycle. Its resolved epilogue advances events, including the other characters’ fates."
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u1213",
         "endUid": "u1289"
       },
       "category": "gameplay",

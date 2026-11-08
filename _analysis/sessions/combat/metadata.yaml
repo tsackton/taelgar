@@ -1,0 +1,132 @@
+schema_version: 1
+analysis_date: '2026-11-06'
+campaign_keys: [dunmar-frontier, mawar-adventures, into-the-chasm, labyrinths-of-the-lost, lost-in-the-feywild]
+excluded_campaigns:
+  dragonets: Excluded at the user's request on 2026-11-06.
+human_decisions:
+  source: User clarification in the combat-analysis chat on 2026-11-06.
+  decisions:
+    - Dunmari session 49 is level 8, including Kenzo's early level-9 benefit.
+    - Split-adventure PCs and guests are level 10, except Riswynn and her guests in sessions 56 and 58, who are level 8.
+    - Mawar is level 6 throughout.
+    - Into the Chasm is level 6 throughout.
+    - Exclude Dragonets.
+levels:
+  dunmar-frontier:
+    initial: 1
+    source: _DM_/_Dunmari Frontier/Leveling.md
+    source_scope: The dated retrospective advancement list at the beginning. Later planning sections are excluded.
+    milestones:
+      - {session: 2, level: 2, from_uid: u3287, evidence: 'Session 2 transcript u3285–u3313, before the skeleton fight.'}
+      - {session: 5, level: 3, boundary: start, evidence: 'Dated advancement record, returning to Karawa.'}
+      - {session: 11, level: 4, boundary: end, evidence: 'Advancement follows defeating Oduk.'}
+      - {session: 20, level: 5, from_uid: u1285, evidence: 'Session 20 transcript u1249–u1296, before the camp attack.'}
+      - {session: 27, level: 6, from_uid: u0868, evidence: 'Session 27 transcript u0868–u0881.'}
+      - {session: 34, level: 7, from_uid: u0972, evidence: 'Session 34 transcript u0972–u0976, before both fights.'}
+      - {session: 41, level: 8, boundary: start, evidence: 'Dated advancement record, conclusion of the werewolf arc.'}
+      - {session: 49, level: 9, boundary: end, evidence: 'User confirms the fight remains level 8. Announcement at u3860 follows the escape.'}
+      - {session: 52, level: 10, boundary: end, evidence: 'Advancement follows defeating Grimbaskal.'}
+      - {session: 71, level: 11, boundary: end, evidence: 'Dated advancement record and closing transcript announcement after freeing Hralgar.'}
+      - {session: 79, level: 12, boundary: end, evidence: 'Session note explicitly places advancement at the end.'}
+      - {session: 87, level: 13, boundary: end, evidence: 'Closing transcript announcement, preparing for Grash.'}
+      - {session: 97, level: 14, from_uid: u2288, evidence: 'Transcript u2278–u2287, after Rhodar and the escape.'}
+      - {session: 106, level: 15, boundary: end, evidence: 'Dated advancement record places level 15 after curing the Eldest. The session 107 note repeats the advancement.'}
+      - {session: 116, level: 16, from_uid: u2620, evidence: 'Transcript u2618–u2621, between the Fausto and Apollyon encounters.'}
+      - {session: 123, level: 17, boundary: end, evidence: 'Dated advancement record, after freeing Cloudspinner.'}
+      - {session: 128, level: 18, boundary: end, evidence: 'Dated advancement record, after defeating Dhrukmir.'}
+      - {session: 133, level: 19, from_uid: u2696, evidence: 'Transcript u2696, after saving the Heartroot.'}
+      - {session: 135, level: 20, boundary: end, evidence: 'Dated advancement record, after the Impossible Tower. This session has raw notes and lacks timed combat extraction.'}
+    session_overrides:
+      56: {level: 8, evidence: User confirmation of Riswynn and all guests.}
+      58: {level: 8, evidence: User confirmation of Riswynn and all guests.}
+    split_sessions: [53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67]
+  mawar-adventures:
+    initial: 6
+    source: User confirmation on 2026-11-06.
+  into-the-chasm:
+    initial: 6
+    source: User confirmation on 2026-11-06.
+  labyrinths-of-the-lost:
+    initial: 2
+    source: Campaigns/One Shots/Labyrinths of the Lost/Labyrinths - Player Background.md
+    milestones:
+      - {session: 1, level: 3, from_uid: u1053, evidence: 'Session 1 transcript u0900–u0911 announces advancement during the rest. u1053 resumes play after character-building. First fight is level 2, second is level 3.'}
+  lost-in-the-feywild:
+    initial: 3
+    source: _sessions/feywild/lost-in-the-feywild-004/cleaned/lost-in-the-feywild-004-transcript.md
+    evidence: 'The DM explicitly confirms third-level characters. Sessions 2 and 5 independently repeat level 3.'
+play_formats:
+  # Paths are recording provenance, rather than a new fact stored in session YAML.
+  dunmar-frontier:
+    in_person:
+      - {sessions: [50, 51, 52], gathering: Cape 2022}
+      - {sessions: [80, 81], gathering: Cape 2023}
+      - {sessions: [108, 109, 110], gathering: Colorado 2024}
+      - {sessions: [135, 136, 137, 138, 139], gathering: Nantucket 2025}
+    source: Original source-preparation paths and supplemental source-timeline manifests containing /in-person/.
+    overrides:
+      116:
+        format: Zoom
+        evidence: 'sources/dunmar-frontier-session116.yaml, Zoom recording originals. The already-repaired registered source has continuous timestamps.'
+encounter_qualifications:
+  dunmari-frontier-104/c001:
+    kind: remote_observation
+    include_speed: false
+    reason: 'The party watches through scrying. The fight is already underway, so only the observed portion is recorded.'
+  dunmari-frontier-104/c002:
+    kind: extended_action_cycles
+    include_speed: false
+    reason: 'Recorded cycles include ten-minute Radiance holds. The denominator does not represent ordinary combat rounds.'
+  dunmari-frontier-064/c001:
+    kind: environmental_challenge
+    include_speed: true
+    reason: 'Ordered action cycles resolve passage through the vortex. Retained under the current combat classification.'
+  into-the-chasm-006/c001:
+    kind: compelled_pc_intervention
+    include_speed: true
+    reason: 'One initiative cycle stops a compelled descent. Retained under the current combat classification.'
+  into-the-chasm-006/c002:
+    kind: evacuation
+    include_speed: true
+    reason: 'Repeated ordered actions resolve the evacuation. Closing cycles are compressed in narration.'
+  dunmari-frontier-075/c002:
+    kind: pc_conflict
+    include_speed: true
+    reason: 'A genuine one-minute initiative exchange resolves Kenzo striking Wellby. Retained under the current combat classification.'
+  dunmari-frontier-043/c001:
+    kind: initiative_standoff
+    include_speed: true
+    reason: 'Initiative orders a horn signal and intimidation. The scouts flee or surrender after about two minutes.'
+session_qualifications:
+  labyrinths-of-the-lost-002: 'The transcript acknowledges a missing post-break recording. The session note describes an additional ruined-library fight. Session duration, combat time, and encounter count cover surviving recorded play only.'
+  dunmari-frontier-116: 'The timing repair was already present when this analysis began. The second recording is offset by 4:07:01.760. The analysis reads the registered continuous source directly.'
+source_audit:
+  date: '2026-11-06'
+  method: 'Read polished transcript turns around the classified start and end, including adjacent turns, for these extremes and ordinary comparison cases. Retain the owning extraction and its round grouping.'
+  reviewed_encounters:
+    - dunmari-frontier-075/c002
+    - dunmari-frontier-043/c001
+    - dunmari-frontier-011/c001
+    - dunmari-frontier-078/c001
+    - dunmari-frontier-102/c001
+    - dunmari-frontier-112/c002
+    - dunmari-frontier-133/c001
+    - dunmari-frontier-136/c003
+    - dunmari-frontier-138/c001
+    - dunmari-frontier-065/c001
+    - dunmari-frontier-097/c001
+    - dunmari-frontier-104/c002
+    - labyrinths-of-the-lost-002/c002
+    - mawar-adventures-003/c001
+  findings:
+    - 'The shortest exchange, Kenzo striking Wellby, is supported by an initiative roll and a resolved hit.'
+    - 'The bandit standoff ends promptly with flight or surrender after ordered intimidation.'
+    - 'The longest fight, Kadmos at the palace, runs from initiative setup to the explicit end of initiative.'
+    - 'The highest minutes-per-round case, the Buruli escape, spans both planes until the DM drops action order.'
+    - 'Large late-campaign fights include continuous phases, extra actors or an immediate rescue within their retained combat boundaries.'
+    - 'All 156 timed-session recording extents and combat totals match their current structured review within one second of displayed rounding.'
+matched_comparison:
+  days_either_side: 180
+  require_same_level: true
+  require_same_pc_turn_count: true
+  note: 'For each gathering and level, compare with Zoom fights within 180 days, using the same number of roster PCs explicitly taking regular turns. Exclude the split adventures from this comparison. A missing comparison group remains unavailable.'

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "mawar-adventures-005",
     "sessionYaml": "_sessions/mawar/mawar-adventures-005/cleaned/mawar-adventures-005-session.yaml",
@@ -29,10 +29,18 @@
       "id": "s003",
       "source": {
         "startUid": "u0050",
-        "endUid": "u0103"
+        "endUid": "u0095"
       },
       "category": "gameplay",
       "note": "The winter-to-spring montage advances Mawar downtime; the opening meeting follows it."
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u0096",
+        "endUid": "u0103"
+      },
+      "category": "session_framing"
     },
     {
       "id": "s004",
@@ -43,12 +51,28 @@
       "category": "table_talk"
     },
     {
-      "id": "s005",
+      "id": "s016",
       "source": {
         "startUid": "u0118",
-        "endUid": "u0287"
+        "endUid": "u0121"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u0122",
+        "endUid": "u0194"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0195",
+        "endUid": "u0287"
+      },
+      "category": "social_interaction"
     },
     {
       "id": "s006",
@@ -59,12 +83,68 @@
       "category": "table_talk"
     },
     {
-      "id": "s007",
+      "id": "s018",
       "source": {
         "startUid": "u0298",
-        "endUid": "u0665"
+        "endUid": "u0319"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u0320",
+        "endUid": "u0387"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u0388",
+        "endUid": "u0444"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u0445",
+        "endUid": "u0582"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u0583",
+        "endUid": "u0600"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u0601",
+        "endUid": "u0624"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s023",
+      "source": {
+        "startUid": "u0625",
+        "endUid": "u0653"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s024",
+      "source": {
+        "startUid": "u0654",
+        "endUid": "u0665"
+      },
+      "category": "exploration"
     },
     {
       "id": "s008",
@@ -75,12 +155,84 @@
       "category": "table_talk"
     },
     {
-      "id": "s009",
+      "id": "s025",
       "source": {
         "startUid": "u0705",
+        "endUid": "u0714"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s026",
+      "source": {
+        "startUid": "u0715",
+        "endUid": "u0766"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s027",
+      "source": {
+        "startUid": "u0767",
+        "endUid": "u0835"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s028",
+      "source": {
+        "startUid": "u0836",
+        "endUid": "u0861"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s029",
+      "source": {
+        "startUid": "u0862",
+        "endUid": "u0910"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s030",
+      "source": {
+        "startUid": "u0911",
+        "endUid": "u1037"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s031",
+      "source": {
+        "startUid": "u1038",
+        "endUid": "u1079"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s032",
+      "source": {
+        "startUid": "u1080",
+        "endUid": "u1096"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u1097",
+        "endUid": "u1294"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s033",
+      "source": {
+        "startUid": "u1295",
         "endUid": "u1462"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s010",
@@ -96,7 +248,7 @@
         "startUid": "u1563",
         "endUid": "u1612"
       },
-      "category": "gameplay"
+      "category": "planning"
     },
     {
       "id": "s012",
@@ -108,9 +260,33 @@
       "note": "One continuous initiative encounter, including the marid’s mist escape, return and compressed defeat of the remaining creatures."
     },
     {
-      "id": "s013",
+      "id": "s034",
       "source": {
         "startUid": "u2692",
+        "endUid": "u2702"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s035",
+      "source": {
+        "startUid": "u2703",
+        "endUid": "u2717"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u2718",
+        "endUid": "u2738"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s036",
+      "source": {
+        "startUid": "u2739",
         "endUid": "u2750"
       },
       "category": "gameplay"

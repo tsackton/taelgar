@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-097",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-097/cleaned/dunmari-frontier-097-session.yaml",
@@ -34,12 +34,60 @@
       "note": "Continuous initiative includes tactical planning, off-turn powers, confusion, and the destruction of Rhodar in his coffin. The later wraith escape has no repeated ordered turn cycle."
     },
     {
-      "id": "s004",
+      "id": "s011",
       "source": {
         "startUid": "u1707",
-        "endUid": "u2755"
+        "endUid": "u1768"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u1769",
+        "endUid": "u1910"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u1911",
+        "endUid": "u2273"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u2274",
+        "endUid": "u2296"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u2297",
+        "endUid": "u2323"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u2324",
+        "endUid": "u2354"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u2355",
+        "endUid": "u2755"
+      },
+      "category": "social_interaction"
     },
     {
       "id": "s005",
@@ -50,9 +98,25 @@
       "category": "meta_discussion"
     },
     {
-      "id": "s006",
+      "id": "s017",
       "source": {
         "startUid": "u2854",
+        "endUid": "u2917"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u2918",
+        "endUid": "u3185"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u3186",
         "endUid": "u3256"
       },
       "category": "gameplay"
@@ -66,12 +130,20 @@
       "category": "meta_discussion"
     },
     {
-      "id": "s008",
+      "id": "s019",
       "source": {
         "startUid": "u3607",
+        "endUid": "u3661"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u3662",
         "endUid": "u3908"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s009",
@@ -82,9 +154,17 @@
       "category": "table_talk"
     },
     {
-      "id": "s010",
+      "id": "s020",
       "source": {
         "startUid": "u3921",
+        "endUid": "u3937"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u3938",
         "endUid": "u3967"
       },
       "category": "gameplay"

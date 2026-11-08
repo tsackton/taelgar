@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-028",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-028/cleaned/dunmari-frontier-028-session.yaml",
@@ -35,12 +35,68 @@
       "note": "Explicitly invited out-of-character recap and situation clarification, including an embedded knowledge check and current-time question; in-character play resumes with the tent conversation."
     },
     {
-      "id": "s004",
+      "id": "s010",
       "source": {
         "startUid": "u0074",
-        "endUid": "u1691"
+        "endUid": "u0298"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u0299",
+        "endUid": "u0315"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u0316",
+        "endUid": "u0393"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u0394",
+        "endUid": "u0522"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u0523",
+        "endUid": "u0761"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u0762",
+        "endUid": "u0831"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u0832",
+        "endUid": "u0867"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0868",
+        "endUid": "u1691"
+      },
+      "category": "planning"
     },
     {
       "id": "s005",
@@ -51,9 +107,73 @@
       "category": "meta_discussion"
     },
     {
-      "id": "s006",
+      "id": "s017",
       "source": {
         "startUid": "u1726",
+        "endUid": "u1740"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u1741",
+        "endUid": "u1763"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u1764",
+        "endUid": "u1830"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u1831",
+        "endUid": "u1847"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u1848",
+        "endUid": "u1860"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u1861",
+        "endUid": "u1899"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s023",
+      "source": {
+        "startUid": "u1900",
+        "endUid": "u1914"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u1915",
+        "endUid": "u2066"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s024",
+      "source": {
+        "startUid": "u2067",
         "endUid": "u2172"
       },
       "category": "gameplay"

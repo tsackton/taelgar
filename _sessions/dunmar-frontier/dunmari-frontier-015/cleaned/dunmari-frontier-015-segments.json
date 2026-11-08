@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-015",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-015/cleaned/dunmari-frontier-015-session.yaml",
@@ -9,13 +9,93 @@
   },
   "segments": [
     {
-      "id": "s001",
+      "id": "s015",
       "source": {
         "startUid": "u0001",
-        "endUid": "u0539"
+        "endUid": "u0005"
       },
       "category": "gameplay",
       "note": "The opening advances current twilight play after a completed rest; it is not a non-advancing recap."
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u0006",
+        "endUid": "u0037"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u0038",
+        "endUid": "u0065"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u0066",
+        "endUid": "u0117"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u0118",
+        "endUid": "u0157"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u0158",
+        "endUid": "u0232"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u0233",
+        "endUid": "u0266"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0267",
+        "endUid": "u0364"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u0365",
+        "endUid": "u0434"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s023",
+      "source": {
+        "startUid": "u0435",
+        "endUid": "u0461"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s024",
+      "source": {
+        "startUid": "u0462",
+        "endUid": "u0539"
+      },
+      "category": "exploration"
     },
     {
       "id": "s002",
@@ -31,7 +111,7 @@
         "startUid": "u0549",
         "endUid": "u0626"
       },
-      "category": "gameplay"
+      "category": "exploration"
     },
     {
       "id": "s004",
@@ -45,10 +125,34 @@
       "id": "s005",
       "source": {
         "startUid": "u0664",
+        "endUid": "u1098"
+      },
+      "category": "exploration",
+      "note": "The water guardian resolves isolated probing attacks without initiative or a repeating ordered-turn cycle."
+    },
+    {
+      "id": "s025",
+      "source": {
+        "startUid": "u1099",
+        "endUid": "u1155"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s026",
+      "source": {
+        "startUid": "u1156",
+        "endUid": "u1188"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s027",
+      "source": {
+        "startUid": "u1189",
         "endUid": "u1338"
       },
-      "category": "gameplay",
-      "note": "The water guardian resolves isolated probing attacks without initiative or a repeating ordered-turn cycle."
+      "category": "social_interaction"
     },
     {
       "id": "s006",
@@ -59,12 +163,28 @@
       "category": "table_talk"
     },
     {
-      "id": "s007",
+      "id": "s028",
       "source": {
         "startUid": "u1349",
+        "endUid": "u1360"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s029",
+      "source": {
+        "startUid": "u1361",
+        "endUid": "u1378"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u1379",
         "endUid": "u1507"
       },
-      "category": "gameplay"
+      "category": "exploration"
     },
     {
       "id": "s008",
@@ -75,12 +195,28 @@
       "category": "table_talk"
     },
     {
-      "id": "s009",
+      "id": "s030",
       "source": {
         "startUid": "u1556",
+        "endUid": "u1597"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s031",
+      "source": {
+        "startUid": "u1598",
+        "endUid": "u1635"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u1636",
         "endUid": "u1770"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s010",
@@ -96,7 +232,7 @@
         "startUid": "u1786",
         "endUid": "u2332"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s012",

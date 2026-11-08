@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-088",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-088/cleaned/dunmari-frontier-088-session.yaml",
@@ -9,12 +9,36 @@
   },
   "segments": [
     {
-      "id": "s001",
+      "id": "s008",
       "source": {
         "startUid": "u0001",
-        "endUid": "u0498"
+        "endUid": "u0160"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0161",
+        "endUid": "u0340"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u0341",
+        "endUid": "u0439"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u0440",
+        "endUid": "u0498"
+      },
+      "category": "planning"
     },
     {
       "id": "s002",
@@ -25,12 +49,20 @@
       "category": "combat"
     },
     {
-      "id": "s003",
+      "id": "s011",
       "source": {
         "startUid": "u0744",
+        "endUid": "u0804"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0805",
         "endUid": "u0950"
       },
-      "category": "gameplay"
+      "category": "planning"
     },
     {
       "id": "s004",
@@ -45,9 +77,33 @@
       "id": "s005",
       "source": {
         "startUid": "u1938",
-        "endUid": "u2158"
+        "endUid": "u2034"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u2035",
+        "endUid": "u2073"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u2074",
+        "endUid": "u2104"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u2105",
+        "endUid": "u2158"
+      },
+      "category": "social_interaction"
     },
     {
       "id": "s006",

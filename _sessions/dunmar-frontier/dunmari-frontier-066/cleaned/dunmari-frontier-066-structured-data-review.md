@@ -106,15 +106,18 @@ Recording length (transcript timestamp extent): **4:20:35** (0:00:03 → 4:20:38
 
 | Segment class | Elapsed (h:mm:ss) | Elapsed share | Speaking (h:mm:ss) | Speaking share |
 | --- | --- | --- | --- | --- |
-| Gameplay | 3:17:52 | 76.0% | 2:30:15 | 75.6% |
-| Combat | 0:57:52 | 22.2% | 0:44:58 | 22.6% |
-| Meta discussion | 0:00:00 | 0.0% | 0:00:00 | 0.0% |
+| Exploration | 1:06:15 | 25.5% | 0:54:20 | 27.3% |
+| Social interaction | 1:00:27 | 23.3% | 0:39:38 | 19.9% |
+| Planning | 0:32:59 | 12.7% | 0:25:39 | 12.9% |
+| Combat | 0:57:52 | 22.3% | 0:44:58 | 22.6% |
+| Meta discussion | 0:01:14 | 0.5% | 0:00:49 | 0.4% |
 | Table talk | 0:01:52 | 0.7% | 0:01:23 | 0.7% |
-| Session framing | 0:02:43 | 1.0% | 0:02:15 | 1.1% |
-| **Total** | 4:20:20 | 100.0% | 3:18:51 | 100.0% |
+| Session framing | 0:06:21 | 2.4% | 0:05:36 | 2.8% |
+| Gameplay | 0:32:38 | 12.6% | 0:26:28 | 13.3% |
+| **Total** | 4:19:39 | 100.0% | 3:18:51 | 100.0% |
 
 Elapsed time spans each segment block’s first UID start through its latest UID end, including internal pauses. Speaking time covers timestamped utterances only. Each millisecond is counted once; overlaps belong to the earliest source block or utterance. Each share uses its own column total.
 
-Outside segment spans: **0:00:15** in gaps between blocks.
+Outside segment spans: **0:00:56** in gaps between blocks.
 
 Sources · [Transcript](dunmari-frontier-066-transcript.md) · [Time Markers](dunmari-frontier-066-time-markers.json) · [Location Markers](dunmari-frontier-066-location-markers.json) · [Entity Map](dunmari-frontier-066-entity-map.json) · [Interactions](dunmari-frontier-066-interactions.json) · [Combat](dunmari-frontier-066-combat.json) · [Segments](dunmari-frontier-066-segments.json) · [Watch data](dunmari-frontier-066-time-watches.json) · [Session 062 actor-specific handoff and morning approach](../../dunmari-frontier-062/cleaned/dunmari-frontier-062-transcript.md) · [Dated session 066 campaign record](../../../../Campaigns/Dunmari%20Frontier%20Campaign/Session%20Notes/Session%2066%20%28DuFr%29.md)

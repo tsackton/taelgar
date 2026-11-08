@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-054",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-054/cleaned/dunmari-frontier-054-session.yaml",
@@ -26,12 +26,60 @@
       "note": "Opening setting and historical introduction; active character introductions and the camp meeting begin at u0027."
     },
     {
-      "id": "s003",
+      "id": "s012",
       "source": {
         "startUid": "u0027",
-        "endUid": "u0469"
+        "endUid": "u0078"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u0079",
+        "endUid": "u0209"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u0210",
+        "endUid": "u0244"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u0245",
+        "endUid": "u0268"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u0269",
+        "endUid": "u0286"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u0287",
+        "endUid": "u0306"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0307",
+        "endUid": "u0469"
+      },
+      "category": "exploration"
     },
     {
       "id": "s004",
@@ -43,12 +91,36 @@
       "note": "No initiative roll; the repeated Iascaire, Delwath, creature, Aristaea turn order is confirmed at u0544–u0548."
     },
     {
-      "id": "s005",
+      "id": "s018",
       "source": {
         "startUid": "u0567",
-        "endUid": "u0886"
+        "endUid": "u0591"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0592",
+        "endUid": "u0736"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u0737",
+        "endUid": "u0869"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u0870",
+        "endUid": "u0886"
+      },
+      "category": "exploration"
     },
     {
       "id": "s006",
@@ -59,9 +131,49 @@
       "category": "combat"
     },
     {
-      "id": "s007",
+      "id": "s021",
       "source": {
         "startUid": "u1137",
+        "endUid": "u1162"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u1163",
+        "endUid": "u1299"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s023",
+      "source": {
+        "startUid": "u1300",
+        "endUid": "u1326"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u1327",
+        "endUid": "u1472"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s024",
+      "source": {
+        "startUid": "u1473",
+        "endUid": "u1521"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s025",
+      "source": {
+        "startUid": "u1522",
         "endUid": "u1575"
       },
       "category": "gameplay"
@@ -75,12 +187,60 @@
       "category": "table_talk"
     },
     {
-      "id": "s009",
+      "id": "s026",
       "source": {
         "startUid": "u1604",
-        "endUid": "u1767"
+        "endUid": "u1622"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s027",
+      "source": {
+        "startUid": "u1623",
+        "endUid": "u1640"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s028",
+      "source": {
+        "startUid": "u1641",
+        "endUid": "u1655"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s029",
+      "source": {
+        "startUid": "u1656",
+        "endUid": "u1683"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s030",
+      "source": {
+        "startUid": "u1684",
+        "endUid": "u1703"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u1704",
+        "endUid": "u1758"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s031",
+      "source": {
+        "startUid": "u1759",
+        "endUid": "u1767"
+      },
+      "category": "exploration"
     },
     {
       "id": "s010",

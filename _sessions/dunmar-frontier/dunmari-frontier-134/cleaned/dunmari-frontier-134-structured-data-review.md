@@ -57,15 +57,18 @@ Recording length (transcript timestamp extent): **2:03:42** (0:00:07 → 2:03:49
 
 | Segment class | Elapsed (h:mm:ss) | Elapsed share | Speaking (h:mm:ss) | Speaking share |
 | --- | --- | --- | --- | --- |
-| Gameplay | 1:15:33 | 61.4% | 0:59:37 | 60.8% |
+| Exploration | 0:21:19 | 17.4% | 0:17:35 | 17.9% |
+| Social interaction | 0:34:20 | 28.0% | 0:26:00 | 26.5% |
+| Planning | 0:05:56 | 4.8% | 0:04:52 | 5.0% |
 | Combat | 0:00:00 | 0.0% | 0:00:00 | 0.0% |
-| Meta discussion | 0:33:33 | 27.3% | 0:28:19 | 28.9% |
+| Meta discussion | 0:33:33 | 27.4% | 0:28:19 | 28.9% |
 | Table talk | 0:13:53 | 11.3% | 0:10:04 | 10.3% |
 | Session framing | 0:00:00 | 0.0% | 0:00:00 | 0.0% |
-| **Total** | 2:02:59 | 100.0% | 1:38:00 | 100.0% |
+| Gameplay | 0:13:30 | 11.0% | 0:11:10 | 11.4% |
+| **Total** | 2:02:31 | 100.0% | 1:38:00 | 100.0% |
 
 Elapsed time spans each segment block’s first UID start through its latest UID end, including internal pauses. Speaking time covers timestamped utterances only. Each millisecond is counted once; overlaps belong to the earliest source block or utterance. Each share uses its own column total.
 
-Outside segment spans: **0:00:43** in gaps between blocks.
+Outside segment spans: **0:01:11** in gaps between blocks.
 
 Sources · [Transcript](dunmari-frontier-134-transcript.md) · [Time Markers](dunmari-frontier-134-time-markers.json) · [Location Markers](dunmari-frontier-134-location-markers.json) · [Entity Map](dunmari-frontier-134-entity-map.json) · [Interactions](dunmari-frontier-134-interactions.json) · [Combat](dunmari-frontier-134-combat.json) · [Segments](dunmari-frontier-134-segments.json) · [Watch data](dunmari-frontier-134-time-watches.json) · [DF135 raw-notes registration](../../dunmari-frontier-135/cleaned/dunmari-frontier-135-session.yaml) · [DF135 prepared raw notes, u0116–u0118](../../dunmari-frontier-135/cleaned/dunmari-frontier-135-source-prepared.md) · [DF130 narrative and Vertex attribution](../../../../Campaigns/Dunmari%20Frontier%20Campaign/Session%20Notes/Session%20130%20%28DuFr%29.md)

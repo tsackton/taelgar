@@ -3603,155 +3603,155 @@
 [u3603 | 04:06:50.910-04:06:52.899 | Wellby] So here I'm just gonna.
 [u3604 | 04:06:52.900-04:06:55.570 | DM] So you have a 1 in 400 chance of missing.
 [u3605 | 04:06:59.650-04:07:01.760 | Wellby] It's a 22.
-[u3606 | 00:00:00.430-00:00:01.630 | Wellby] Hey? Awesome!
-[u3607 | 00:00:02.220-00:00:04.900 | Wellby] I he is not immune to blinded right.
-[u3608 | 00:00:06.440-00:00:07.250 | Riswynn] No.
-[u3609 | 00:00:07.460-00:00:09.939 | DM] Was not immune to. Blinded, as far as you know.
-[u3610 | 00:00:10.960-00:00:14.539 | Wellby] And Dex was not one of the strong saves. So DC. 18, Dex. Save
-[u3611 | 00:00:16.680-00:00:23.840 | Wellby] last 3 dice add up to 10. So that's 14. So 27 damage plus the
-[u3612 | 00:00:24.110-00:00:25.549 | Wellby] Dex save for blinded.
-[u3613 | 00:00:27.090-00:00:30.450 | DM] That is a 12.
-[u3614 | 00:00:32.900-00:00:33.480 | Kenzo] He’s blinded.
-[u3615 | 00:00:33.480-00:00:34.110 | Wellby] Awesome.
-[u3616 | 00:00:35.230-00:00:37.010 | Delwath] He appears just to be blinded.
-[u3617 | 00:00:37.910-00:00:41.610 | Wellby] I activate my boots of speed, and I move to the other side of the room.
-[u3618 | 00:00:41.610-00:00:43.190 | DM] How much damage was it.
-[u3619 | 00:00:43.700-00:00:44.459 | Wellby] 27.
-[u3620 | 00:00:47.930-00:00:50.040 | DM] At the end of Wellby's turn.
-[u3621 | 00:00:50.920-00:00:57.079 | DM] He looks around angry now for the 1st time.
-[u3622 | 00:00:58.820-00:00:59.890 | Kenzo] It's a look around.
-[u3623 | 00:01:00.620-00:01:01.360 | DM] What?
-[u3624 | 00:01:01.650-00:01:03.070 | Kenzo] Except he can't look around because he's blind.
-[u3625 | 00:01:03.070-00:01:10.979 | DM] You can't look around. I mean he's knows well, he doesn't know where Wellby is, but he knows where the 3 of you, 2 of you right next to him are.
-[u3626 | 00:01:14.330-00:01:30.849 | DM] and he turns and unleashes a horrific twisting word.
-[u3627 | 00:01:34.090-00:01:37.210 | DM] Elves die.
-[u3628 | 00:01:40.990-00:01:42.729 | DM] And Delwath dies.
-[u3629 | 00:01:44.820-00:01:46.530 | Seeker] Go, what.
-[u3630 | 00:01:46.880-00:01:47.410 | Kenzo] What?
-[u3631 | 00:01:47.410-00:01:50.169 | Delwath] I do have more than 100 hit points. If it's Power Word Kill.
-[u3632 | 00:01:51.250-00:01:54.789 | DM] It is Word of Death. His villain, action.
-[u3633 | 00:01:58.790-00:01:59.900 | Delwath] Okay.
-[u3634 | 00:02:00.979-00:02:18.500 | DM] And then, blinded and unhappy, he turns into a cloud of mist and disappears through the floor.
-[u3635 | 00:02:23.470-00:02:26.660 | Riswynn] How long does your blinded condition last? Wellby?
-[u3636 | 00:02:26.970-00:02:30.340 | Wellby] 6 seconds, 10 seconds whatever a round is.
-[u3637 | 00:02:30.340-00:02:30.750 | Riswynn] Yeah.
-[u3638 | 00:02:30.750-00:02:31.360 | Seeker] So.
-[u3639 | 00:02:32.610-00:02:38.890 | DM] So, Meta, he's fleeing next session. You're gonna have to go track him down.
-[u3640 | 00:02:41.400-00:02:44.340 | DM] Somebody might want to do something about the dead Delwath.
-[u3641 | 00:02:45.660-00:02:46.380 | Seeker] Probably.
-[u3642 | 00:02:46.910-00:02:48.939 | DM] But then we'll stop.
-[u3643 | 00:02:50.680-00:02:52.720 | DM] That's the cliffhanger on ours end.
-[u3644 | 00:02:53.830-00:02:55.890 | Kenzo] Well, join the club, Delwath.
-[u3645 | 00:02:57.050-00:02:57.620 | Delwath] Yeah.
-[u3646 | 00:02:57.620-00:02:59.549 | Riswynn] Death Warded some more people.
-[u3647 | 00:02:59.550-00:03:02.069 | Seeker] Is this your 1st 1st time? Congratulations!
-[u3648 | 00:03:02.070-00:03:02.750 | Delwath] It is.
-[u3649 | 00:03:03.100-00:03:04.430 | Wellby] Well, well.
-[u3650 | 00:03:04.430-00:03:05.349 | Kenzo] Lucky you.
-[u3651 | 00:03:05.480-00:03:07.439 | Wellby] Should we bring him back, or
-[u3652 | 00:03:08.060-00:03:09.879 | Wellby] or let him go? But what do you think.
-[u3653 | 00:03:11.000-00:03:15.019 | Kenzo] He he had, you know he served us well, made us a lot of good food, you know.
-[u3654 | 00:03:15.020-00:03:18.240 | Seeker] If you love it, you've got to let it go, you know.
-[u3655 | 00:03:18.240-00:03:20.510 | Kenzo] That's true. That's true.
-[u3656 | 00:03:20.750-00:03:25.100 | Wellby] Someone get healing? Should we use potions to save spell slots.
-[u3657 | 00:03:26.440-00:03:27.160 | Seeker] Probably.
-[u3658 | 00:03:28.420-00:03:31.650 | Kenzo] We don't. We don't just. We don't just long rest in the Apollyon’s tomb.
-[u3659 | 00:03:33.130-00:03:44.259 | DM] Kenzo. You could sense Apollyon’s soul, going deep underground.
-[u3660 | 00:03:45.730-00:03:47.639 | DM] through a crack in the floor.
-[u3661 | 00:03:48.730-00:03:49.300 | Kenzo] Alright!
-[u3662 | 00:03:49.300-00:03:49.920 | Seeker] Whoa!
-[u3663 | 00:03:52.780-00:03:58.020 | DM] Delwath slides off, Delwath’s dead body, slides off a statue.
-[u3664 | 00:03:58.920-00:04:02.030 | DM] feel like we probably catch catch it before it.
-[u3665 | 00:04:02.440-00:04:04.260 | Wellby] Just flops to the floor.
-[u3666 | 00:04:04.990-00:04:05.640 | DM] Looks.
-[u3667 | 00:04:05.640-00:04:06.560 | DM] Let's go.
-[u3668 | 00:04:06.560-00:04:07.380 | Wellby] Kill him!
-[u3669 | 00:04:07.670-00:04:08.360 | Kenzo] Yeah.
-[u3670 | 00:04:08.360-00:04:11.440 | Kenzo] Lying on the floor of Apollyon's temple.
-[u3671 | 00:04:14.830-00:04:15.850 | Kenzo] Raise Dead.
-[u3672 | 00:04:16.529-00:04:19.829 | Riswynn] Do we? Is he like? Does he need more than just.
-[u3673 | 00:04:19.829-00:04:20.999 | DM] Literally dead.
-[u3674 | 00:04:21.360-00:04:21.820 | Riswynn] He's literally.
-[u3675 | 00:04:21.829-00:04:27.664 | DM] Your soul is currently in the locks of the of the
-[u3676 | 00:04:29.559-00:04:33.649 | DM] of the building, trying to decide whether it should worm its way out and help
-[u3677 | 00:04:33.969-00:04:36.859 | DM] Apollyon escape or stay in the lock.
-[u3678 | 00:04:37.210-00:04:37.580 | Wellby] Oh!
-[u3679 | 00:04:39.110-00:04:40.440 | Seeker] Oh, that's bad!
-[u3680 | 00:04:41.860-00:04:43.307 | Wellby] It's not ideal
-[u3681 | 00:04:45.140-00:04:45.660 | Kenzo] Double.
-[u3682 | 00:04:45.660-00:04:46.440 | Wellby] So as well.
-[u3683 | 00:04:46.690-00:04:47.290 | Riswynn] All right.
-[u3684 | 00:04:49.080-00:04:56.550 | Riswynn] I've got so many spells I need to search greater restoration that one.
-[u3685 | 00:05:01.050-00:05:01.440 | Wellby] Crazy.
-[u3686 | 00:05:01.440-00:05:04.979 | Kenzo] I think this is a this is a Riswynn thing. I think this part.
-[u3687 | 00:05:05.150-00:05:07.100 | Delwath] Yeah, it's resurrection.
-[u3688 | 00:05:07.710-00:05:10.830 | Riswynn] Resurrection, a restoration.
-[u3689 | 00:05:11.310-00:05:15.080 | Seeker] I have a scroll of resurrection.
-[u3690 | 00:05:15.080-00:05:18.990 | Kenzo] Oh, Tim, I can also holy shit! I can use my staff.
-[u3691 | 00:05:19.630-00:05:23.189 | DM] You could. Kenzo has Raise Dead, has ki
-[u3692 | 00:05:23.330-00:05:25.440 | DM] that can pull you back. That's right.
-[u3693 | 00:05:25.960-00:05:32.630 | Kenzo] I totally can. I have very wondrous ki. I have one special ki that I could use for this exactly this moment.
-[u3694 | 00:05:32.920-00:05:34.670 | Riswynn] Okay. You do that. You do that.
-[u3695 | 00:05:35.240-00:05:39.419 | Wellby] So everyone in this room, except for me, can bring you back from the dead.
-[u3696 | 00:05:40.900-00:05:42.790 | Riswynn] Yeah, but you, you have 1st aid.
-[u3697 | 00:05:43.560-00:05:44.620 | DM] But say like.
-[u3698 | 00:05:44.620-00:05:53.100 | Kenzo] 1st aid, hey? But just to say, if I use this ki I can never use it again. It's like it's a 1 time. It's like a special magic item. I can only burn once.
-[u3699 | 00:05:53.600-00:05:57.010 | Riswynn] Which is like the scroll that Seeker has. So I.
-[u3700 | 00:05:57.010-00:05:59.439 | Wellby] This this the time to use it, though right.
-[u3701 | 00:05:59.440-00:05:59.760 | Riswynn] Addition.
-[u3702 | 00:05:59.760-00:06:02.569 | DM] I mean, or Riswynn can cast a spell. But.
-[u3703 | 00:06:03.420-00:06:04.899 | Kenzo] But do we want to say that.
-[u3704 | 00:06:04.900-00:06:06.570 | Wellby] So, yeah, yeah, yeah, right.
-[u3705 | 00:06:06.570-00:06:07.769 | Kenzo] Why don't we use a scroll.
-[u3706 | 00:06:08.410-00:06:09.100 | Seeker] Sure.
-[u3707 | 00:06:11.690-00:06:13.150 | Seeker] All right, let's use this scroll.
-[u3708 | 00:06:13.980-00:06:17.650 | Seeker] So I pull out the scroll of resurrection.
-[u3709 | 00:06:21.620-00:06:24.230 | DM] Seeker begins speaking the words on the scroll.
-[u3710 | 00:06:30.880-00:06:31.700 | DM] pardon!
-[u3711 | 00:06:37.670-00:06:41.030 | DM] What is the sorry? What is the casting time of resurrection?
-[u3712 | 00:06:42.220-00:06:43.930 | Riswynn] It is an hour.
-[u3713 | 00:06:44.520-00:06:48.870 | DM] So it will take an hour for you to read the scroll.
-[u3714 | 00:06:51.070-00:06:57.170 | Wellby] Are we safe enough to short rest while that happens like?
-[u3715 | 00:06:57.690-00:07:00.939 | Wellby] Or should we use the staff and do it in less than an hour.
-[u3716 | 00:07:01.510-00:07:04.209 | Delwath] Get! Wait! Do you not have revivify Riswynn.
-[u3717 | 00:07:05.240-00:07:09.540 | Riswynn] Which somebody told me it was supposed to be resurrection.
-[u3718 | 00:07:09.540-00:07:13.070 | Delwath] Well revivify, revives somebody who's died within the last minute.
-[u3719 | 00:07:17.730-00:07:18.650 | Riswynn] Why do I met?
-[u3720 | 00:07:19.390-00:07:21.590 | Riswynn] Oh, no! Now I'm filtering by the wrong spot.
-[u3721 | 00:07:21.590-00:07:24.269 | Seeker] I'm already reading the Resurrection scroll. Yeah.
-[u3722 | 00:07:25.620-00:07:28.609 | Delwath] Takes one action as opposed to 1 h.
-[u3723 | 00:07:29.320-00:07:31.190 | Riswynn] Oh, well, let's do that, then.
-[u3724 | 00:07:32.480-00:07:33.790 | Seeker] So we wasted the scroll.
-[u3725 | 00:07:34.090-00:07:34.650 | DM] No, no.
-[u3726 | 00:07:34.650-00:07:36.419 | Delwath] Wow! You don't have to use the scroll.
-[u3727 | 00:07:36.420-00:07:40.619 | DM] Can stop reading it before the end. It doesn't get consumed until you finish reading it.
-[u3728 | 00:07:40.930-00:07:44.070 | Seeker] Oh, okay, I think I deleted it. Let me re-add it.
-[u3729 | 00:07:44.070-00:07:45.480 | DM] Re-add, so.
-[u3730 | 00:07:45.480-00:07:49.020 | Riswynn] All right. I'm casting revivify because it's faster.
-[u3731 | 00:07:49.850-00:07:57.270 | DM] So Riswynn reaches over and touches Delwath’s dead body, and you hear a jerk and a
-[u3732 | 00:07:58.220-00:08:04.869 | DM] deep breath as Delwath returns to life with one hit point.
-[u3733 | 00:08:06.540-00:08:12.219 | DM] his soul pulled back by the divine magic of the gods before it had a chance to get very far.
-[u3734 | 00:08:14.230-00:08:18.979 | Riswynn] Now we pump him through potions and healing so that he has more than one hit point.
-[u3735 | 00:08:18.980-00:08:20.590 | Delwath] Well, are we getting a short rest.
-[u3736 | 00:08:23.280-00:08:24.940 | Riswynn] Sure
-[u3737 | 00:08:25.770-00:08:31.079 | Riswynn] I mean you could short rest, and I could guard you because I gained absolutely diddly squat with a short rest.
-[u3738 | 00:08:31.570-00:08:32.960 | Delwath] Well, you get hit points back.
-[u3739 | 00:08:32.960-00:08:34.690 | Riswynn] I haven't been touched.
-[u3740 | 00:08:40.000-00:08:42.080 | DM] So we don't.
-[u3741 | 00:08:42.250-00:08:44.810 | DM] This is where we're stopping for the night, so we could.
-[u3742 | 00:08:45.370-00:08:46.200 | Kenzo] Let's pick it up tomorrow.
-[u3743 | 00:08:46.200-00:08:46.710 | Delwath] Yeah, yeah.
-[u3744 | 00:08:46.710-00:08:56.140 | DM] Start this out at the beginning of next session we'll pick up. Just after Delwath was revived, Apollyon having fled into his inner sanctum.
-[u3745 | 00:08:56.900-00:09:01.750 | Delwath] So guess what spell I took gaseous form.
-[u3746 | 00:09:03.420-00:09:06.499 | Delwath] Everybody want to follow him with as gaseous form.
-[u3747 | 00:09:06.500-00:09:06.880 | Riswynn] Okay.
-[u3748 | 00:09:06.880-00:09:08.000 | Seeker] That sounds amazing.
-[u3749 | 00:09:09.180-00:09:10.830 | Delwath] It only affects one person.
-[u3750 | 00:09:12.830-00:09:13.540 | Kenzo] I think.
-[u3751 | 00:09:13.540-00:09:14.339 | Kenzo] What's the side.
-[u3752 | 00:09:15.170-00:09:19.860 | Riswynn] Could do the whole tremorsense, thing and find the hidden chamber, and then just make a tunnel to it.
-[u3753 | 00:09:20.990-00:09:21.899 | Kenzo] Let's decide tomorrow.
-[u3754 | 00:09:21.900-00:09:22.809 | Seeker] Yeah, yeah, yeah.
-[u3755 | 00:09:23.630-00:09:25.749 | DM] Yeah, we'll pick up tomorrow.
-[u3756 | 00:09:27.760-00:09:28.150 | Kenzo] Right.
-[u3757 | 00:09:28.560-00:09:29.230 | Wellby] That was awesome.
+[u3606 | 04:07:02.190-04:07:03.390 | Wellby] Hey? Awesome!
+[u3607 | 04:07:03.980-04:07:06.660 | Wellby] I he is not immune to blinded right.
+[u3608 | 04:07:08.200-04:07:09.010 | Riswynn] No.
+[u3609 | 04:07:09.220-04:07:11.699 | DM] Was not immune to. Blinded, as far as you know.
+[u3610 | 04:07:12.720-04:07:16.299 | Wellby] And Dex was not one of the strong saves. So DC. 18, Dex. Save
+[u3611 | 04:07:18.440-04:07:25.600 | Wellby] last 3 dice add up to 10. So that's 14. So 27 damage plus the
+[u3612 | 04:07:25.870-04:07:27.309 | Wellby] Dex save for blinded.
+[u3613 | 04:07:28.850-04:07:32.210 | DM] That is a 12.
+[u3614 | 04:07:34.660-04:07:35.240 | Kenzo] He’s blinded.
+[u3615 | 04:07:35.240-04:07:35.870 | Wellby] Awesome.
+[u3616 | 04:07:36.990-04:07:38.770 | Delwath] He appears just to be blinded.
+[u3617 | 04:07:39.670-04:07:43.370 | Wellby] I activate my boots of speed, and I move to the other side of the room.
+[u3618 | 04:07:43.370-04:07:44.950 | DM] How much damage was it.
+[u3619 | 04:07:45.460-04:07:46.219 | Wellby] 27.
+[u3620 | 04:07:49.690-04:07:51.800 | DM] At the end of Wellby's turn.
+[u3621 | 04:07:52.680-04:07:58.839 | DM] He looks around angry now for the 1st time.
+[u3622 | 04:08:00.580-04:08:01.650 | Kenzo] It's a look around.
+[u3623 | 04:08:02.380-04:08:03.120 | DM] What?
+[u3624 | 04:08:03.410-04:08:04.830 | Kenzo] Except he can't look around because he's blind.
+[u3625 | 04:08:04.830-04:08:12.739 | DM] You can't look around. I mean he's knows well, he doesn't know where Wellby is, but he knows where the 3 of you, 2 of you right next to him are.
+[u3626 | 04:08:16.090-04:08:32.609 | DM] and he turns and unleashes a horrific twisting word.
+[u3627 | 04:08:35.850-04:08:38.970 | DM] Elves die.
+[u3628 | 04:08:42.750-04:08:44.489 | DM] And Delwath dies.
+[u3629 | 04:08:46.580-04:08:48.290 | Seeker] Go, what.
+[u3630 | 04:08:48.640-04:08:49.170 | Kenzo] What?
+[u3631 | 04:08:49.170-04:08:51.929 | Delwath] I do have more than 100 hit points. If it's Power Word Kill.
+[u3632 | 04:08:53.010-04:08:56.549 | DM] It is Word of Death. His villain, action.
+[u3633 | 04:09:00.550-04:09:01.660 | Delwath] Okay.
+[u3634 | 04:09:02.739-04:09:20.260 | DM] And then, blinded and unhappy, he turns into a cloud of mist and disappears through the floor.
+[u3635 | 04:09:25.230-04:09:28.420 | Riswynn] How long does your blinded condition last? Wellby?
+[u3636 | 04:09:28.730-04:09:32.100 | Wellby] 6 seconds, 10 seconds whatever a round is.
+[u3637 | 04:09:32.100-04:09:32.510 | Riswynn] Yeah.
+[u3638 | 04:09:32.510-04:09:33.120 | Seeker] So.
+[u3639 | 04:09:34.370-04:09:40.650 | DM] So, Meta, he's fleeing next session. You're gonna have to go track him down.
+[u3640 | 04:09:43.160-04:09:46.100 | DM] Somebody might want to do something about the dead Delwath.
+[u3641 | 04:09:47.420-04:09:48.140 | Seeker] Probably.
+[u3642 | 04:09:48.670-04:09:50.699 | DM] But then we'll stop.
+[u3643 | 04:09:52.440-04:09:54.480 | DM] That's the cliffhanger on ours end.
+[u3644 | 04:09:55.590-04:09:57.650 | Kenzo] Well, join the club, Delwath.
+[u3645 | 04:09:58.810-04:09:59.380 | Delwath] Yeah.
+[u3646 | 04:09:59.380-04:10:01.309 | Riswynn] Death Warded some more people.
+[u3647 | 04:10:01.310-04:10:03.829 | Seeker] Is this your 1st 1st time? Congratulations!
+[u3648 | 04:10:03.830-04:10:04.510 | Delwath] It is.
+[u3649 | 04:10:04.860-04:10:06.190 | Wellby] Well, well.
+[u3650 | 04:10:06.190-04:10:07.109 | Kenzo] Lucky you.
+[u3651 | 04:10:07.240-04:10:09.199 | Wellby] Should we bring him back, or
+[u3652 | 04:10:09.820-04:10:11.639 | Wellby] or let him go? But what do you think.
+[u3653 | 04:10:12.760-04:10:16.779 | Kenzo] He he had, you know he served us well, made us a lot of good food, you know.
+[u3654 | 04:10:16.780-04:10:20.000 | Seeker] If you love it, you've got to let it go, you know.
+[u3655 | 04:10:20.000-04:10:22.270 | Kenzo] That's true. That's true.
+[u3656 | 04:10:22.510-04:10:26.860 | Wellby] Someone get healing? Should we use potions to save spell slots.
+[u3657 | 04:10:28.200-04:10:28.920 | Seeker] Probably.
+[u3658 | 04:10:30.180-04:10:33.410 | Kenzo] We don't. We don't just. We don't just long rest in the Apollyon’s tomb.
+[u3659 | 04:10:34.890-04:10:46.019 | DM] Kenzo. You could sense Apollyon’s soul, going deep underground.
+[u3660 | 04:10:47.490-04:10:49.399 | DM] through a crack in the floor.
+[u3661 | 04:10:50.490-04:10:51.060 | Kenzo] Alright!
+[u3662 | 04:10:51.060-04:10:51.680 | Seeker] Whoa!
+[u3663 | 04:10:54.540-04:10:59.780 | DM] Delwath slides off, Delwath’s dead body, slides off a statue.
+[u3664 | 04:11:00.680-04:11:03.790 | DM] feel like we probably catch catch it before it.
+[u3665 | 04:11:04.200-04:11:06.020 | Wellby] Just flops to the floor.
+[u3666 | 04:11:06.750-04:11:07.400 | DM] Looks.
+[u3667 | 04:11:07.400-04:11:08.320 | DM] Let's go.
+[u3668 | 04:11:08.320-04:11:09.140 | Wellby] Kill him!
+[u3669 | 04:11:09.430-04:11:10.120 | Kenzo] Yeah.
+[u3670 | 04:11:10.120-04:11:13.200 | Kenzo] Lying on the floor of Apollyon's temple.
+[u3671 | 04:11:16.590-04:11:17.610 | Kenzo] Raise Dead.
+[u3672 | 04:11:18.289-04:11:21.589 | Riswynn] Do we? Is he like? Does he need more than just.
+[u3673 | 04:11:21.589-04:11:22.759 | DM] Literally dead.
+[u3674 | 04:11:23.120-04:11:23.580 | Riswynn] He's literally.
+[u3675 | 04:11:23.589-04:11:29.424 | DM] Your soul is currently in the locks of the of the
+[u3676 | 04:11:31.319-04:11:35.409 | DM] of the building, trying to decide whether it should worm its way out and help
+[u3677 | 04:11:35.729-04:11:38.619 | DM] Apollyon escape or stay in the lock.
+[u3678 | 04:11:38.970-04:11:39.340 | Wellby] Oh!
+[u3679 | 04:11:40.870-04:11:42.200 | Seeker] Oh, that's bad!
+[u3680 | 04:11:43.620-04:11:45.067 | Wellby] It's not ideal
+[u3681 | 04:11:46.900-04:11:47.420 | Kenzo] Double.
+[u3682 | 04:11:47.420-04:11:48.200 | Wellby] So as well.
+[u3683 | 04:11:48.450-04:11:49.050 | Riswynn] All right.
+[u3684 | 04:11:50.840-04:11:58.310 | Riswynn] I've got so many spells I need to search greater restoration that one.
+[u3685 | 04:12:02.810-04:12:03.200 | Wellby] Crazy.
+[u3686 | 04:12:03.200-04:12:06.739 | Kenzo] I think this is a this is a Riswynn thing. I think this part.
+[u3687 | 04:12:06.910-04:12:08.860 | Delwath] Yeah, it's resurrection.
+[u3688 | 04:12:09.470-04:12:12.590 | Riswynn] Resurrection, a restoration.
+[u3689 | 04:12:13.070-04:12:16.840 | Seeker] I have a scroll of resurrection.
+[u3690 | 04:12:16.840-04:12:20.750 | Kenzo] Oh, Tim, I can also holy shit! I can use my staff.
+[u3691 | 04:12:21.390-04:12:24.949 | DM] You could. Kenzo has Raise Dead, has ki
+[u3692 | 04:12:25.090-04:12:27.200 | DM] that can pull you back. That's right.
+[u3693 | 04:12:27.720-04:12:34.390 | Kenzo] I totally can. I have very wondrous ki. I have one special ki that I could use for this exactly this moment.
+[u3694 | 04:12:34.680-04:12:36.430 | Riswynn] Okay. You do that. You do that.
+[u3695 | 04:12:37.000-04:12:41.179 | Wellby] So everyone in this room, except for me, can bring you back from the dead.
+[u3696 | 04:12:42.660-04:12:44.550 | Riswynn] Yeah, but you, you have 1st aid.
+[u3697 | 04:12:45.320-04:12:46.380 | DM] But say like.
+[u3698 | 04:12:46.380-04:12:54.860 | Kenzo] 1st aid, hey? But just to say, if I use this ki I can never use it again. It's like it's a 1 time. It's like a special magic item. I can only burn once.
+[u3699 | 04:12:55.360-04:12:58.770 | Riswynn] Which is like the scroll that Seeker has. So I.
+[u3700 | 04:12:58.770-04:13:01.199 | Wellby] This this the time to use it, though right.
+[u3701 | 04:13:01.200-04:13:01.520 | Riswynn] Addition.
+[u3702 | 04:13:01.520-04:13:04.329 | DM] I mean, or Riswynn can cast a spell. But.
+[u3703 | 04:13:05.180-04:13:06.659 | Kenzo] But do we want to say that.
+[u3704 | 04:13:06.660-04:13:08.330 | Wellby] So, yeah, yeah, yeah, right.
+[u3705 | 04:13:08.330-04:13:09.529 | Kenzo] Why don't we use a scroll.
+[u3706 | 04:13:10.170-04:13:10.860 | Seeker] Sure.
+[u3707 | 04:13:13.450-04:13:14.910 | Seeker] All right, let's use this scroll.
+[u3708 | 04:13:15.740-04:13:19.410 | Seeker] So I pull out the scroll of resurrection.
+[u3709 | 04:13:23.380-04:13:25.990 | DM] Seeker begins speaking the words on the scroll.
+[u3710 | 04:13:32.640-04:13:33.460 | DM] pardon!
+[u3711 | 04:13:39.430-04:13:42.790 | DM] What is the sorry? What is the casting time of resurrection?
+[u3712 | 04:13:43.980-04:13:45.690 | Riswynn] It is an hour.
+[u3713 | 04:13:46.280-04:13:50.630 | DM] So it will take an hour for you to read the scroll.
+[u3714 | 04:13:52.830-04:13:58.930 | Wellby] Are we safe enough to short rest while that happens like?
+[u3715 | 04:13:59.450-04:14:02.699 | Wellby] Or should we use the staff and do it in less than an hour.
+[u3716 | 04:14:03.270-04:14:05.969 | Delwath] Get! Wait! Do you not have revivify Riswynn.
+[u3717 | 04:14:07.000-04:14:11.300 | Riswynn] Which somebody told me it was supposed to be resurrection.
+[u3718 | 04:14:11.300-04:14:14.830 | Delwath] Well revivify, revives somebody who's died within the last minute.
+[u3719 | 04:14:19.490-04:14:20.410 | Riswynn] Why do I met?
+[u3720 | 04:14:21.150-04:14:23.350 | Riswynn] Oh, no! Now I'm filtering by the wrong spot.
+[u3721 | 04:14:23.350-04:14:26.029 | Seeker] I'm already reading the Resurrection scroll. Yeah.
+[u3722 | 04:14:27.380-04:14:30.369 | Delwath] Takes one action as opposed to 1 h.
+[u3723 | 04:14:31.080-04:14:32.950 | Riswynn] Oh, well, let's do that, then.
+[u3724 | 04:14:34.240-04:14:35.550 | Seeker] So we wasted the scroll.
+[u3725 | 04:14:35.850-04:14:36.410 | DM] No, no.
+[u3726 | 04:14:36.410-04:14:38.179 | Delwath] Wow! You don't have to use the scroll.
+[u3727 | 04:14:38.180-04:14:42.379 | DM] Can stop reading it before the end. It doesn't get consumed until you finish reading it.
+[u3728 | 04:14:42.690-04:14:45.830 | Seeker] Oh, okay, I think I deleted it. Let me re-add it.
+[u3729 | 04:14:45.830-04:14:47.240 | DM] Re-add, so.
+[u3730 | 04:14:47.240-04:14:50.780 | Riswynn] All right. I'm casting revivify because it's faster.
+[u3731 | 04:14:51.610-04:14:59.030 | DM] So Riswynn reaches over and touches Delwath’s dead body, and you hear a jerk and a
+[u3732 | 04:14:59.980-04:15:06.629 | DM] deep breath as Delwath returns to life with one hit point.
+[u3733 | 04:15:08.300-04:15:13.979 | DM] his soul pulled back by the divine magic of the gods before it had a chance to get very far.
+[u3734 | 04:15:15.990-04:15:20.739 | Riswynn] Now we pump him through potions and healing so that he has more than one hit point.
+[u3735 | 04:15:20.740-04:15:22.350 | Delwath] Well, are we getting a short rest.
+[u3736 | 04:15:25.040-04:15:26.700 | Riswynn] Sure
+[u3737 | 04:15:27.530-04:15:32.839 | Riswynn] I mean you could short rest, and I could guard you because I gained absolutely diddly squat with a short rest.
+[u3738 | 04:15:33.330-04:15:34.720 | Delwath] Well, you get hit points back.
+[u3739 | 04:15:34.720-04:15:36.450 | Riswynn] I haven't been touched.
+[u3740 | 04:15:41.760-04:15:43.840 | DM] So we don't.
+[u3741 | 04:15:44.010-04:15:46.570 | DM] This is where we're stopping for the night, so we could.
+[u3742 | 04:15:47.130-04:15:47.960 | Kenzo] Let's pick it up tomorrow.
+[u3743 | 04:15:47.960-04:15:48.470 | Delwath] Yeah, yeah.
+[u3744 | 04:15:48.470-04:15:57.900 | DM] Start this out at the beginning of next session we'll pick up. Just after Delwath was revived, Apollyon having fled into his inner sanctum.
+[u3745 | 04:15:58.660-04:16:03.510 | Delwath] So guess what spell I took gaseous form.
+[u3746 | 04:16:05.180-04:16:08.259 | Delwath] Everybody want to follow him with as gaseous form.
+[u3747 | 04:16:08.260-04:16:08.640 | Riswynn] Okay.
+[u3748 | 04:16:08.640-04:16:09.760 | Seeker] That sounds amazing.
+[u3749 | 04:16:10.940-04:16:12.590 | Delwath] It only affects one person.
+[u3750 | 04:16:14.590-04:16:15.300 | Kenzo] I think.
+[u3751 | 04:16:15.300-04:16:16.099 | Kenzo] What's the side.
+[u3752 | 04:16:16.930-04:16:21.620 | Riswynn] Could do the whole tremorsense, thing and find the hidden chamber, and then just make a tunnel to it.
+[u3753 | 04:16:22.750-04:16:23.659 | Kenzo] Let's decide tomorrow.
+[u3754 | 04:16:23.660-04:16:24.569 | Seeker] Yeah, yeah, yeah.
+[u3755 | 04:16:25.390-04:16:27.509 | DM] Yeah, we'll pick up tomorrow.
+[u3756 | 04:16:29.520-04:16:29.910 | Kenzo] Right.
+[u3757 | 04:16:30.320-04:16:30.990 | Wellby] That was awesome.

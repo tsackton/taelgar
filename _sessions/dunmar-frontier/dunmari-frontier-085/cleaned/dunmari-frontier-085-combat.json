@@ -8,8 +8,8 @@
     "transcriptSha256": "71308c0fa2f8022d0c36d979c3cbf0fc43116b6884a0c240870127013c3de76c",
     "segments": {
       "path": "_sessions/dunmar-frontier/dunmari-frontier-085/cleaned/dunmari-frontier-085-segments.json",
-      "sha256": "dedcb7a2879c485803deec77fc980d593c7820fccc77df27ddd4c8029be7d4b4",
-      "schemaVersion": "0.1-transcript-segments-draft"
+      "sha256": "17254b77bf412edd859c97e6cc1f654375ab863c0cec5ee86b7510efd65f9885",
+      "schemaVersion": "0.2-transcript-segments-draft"
     }
   },
   "combats": [

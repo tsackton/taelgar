@@ -81,15 +81,18 @@ Recording length (transcript timestamp extent): **4:48:48** (0:00:00 → 4:48:48
 
 | Segment class | Elapsed (h:mm:ss) | Elapsed share | Speaking (h:mm:ss) | Speaking share |
 | --- | --- | --- | --- | --- |
-| Gameplay | 3:39:11 | 75.9% | 2:26:21 | 77.9% |
-| Combat | 1:02:01 | 21.5% | 0:39:11 | 20.8% |
+| Exploration | 0:47:37 | 16.6% | 0:32:32 | 17.3% |
+| Social interaction | 0:48:21 | 16.9% | 0:28:30 | 15.2% |
+| Planning | 1:30:35 | 31.6% | 1:03:46 | 33.9% |
+| Combat | 1:02:01 | 21.6% | 0:39:11 | 20.8% |
 | Meta discussion | 0:00:00 | 0.0% | 0:00:00 | 0.0% |
 | Table talk | 0:06:33 | 2.3% | 0:01:47 | 1.0% |
 | Session framing | 0:00:55 | 0.3% | 0:00:39 | 0.3% |
-| **Total** | 4:48:40 | 100.0% | 3:07:58 | 100.0% |
+| Gameplay | 0:30:52 | 10.8% | 0:21:33 | 11.5% |
+| **Total** | 4:46:54 | 100.0% | 3:07:58 | 100.0% |
 
 Elapsed time spans each segment block’s first UID start through its latest UID end, including internal pauses. Speaking time covers timestamped utterances only. Each millisecond is counted once; overlaps belong to the earliest source block or utterance. Each share uses its own column total.
 
-Outside segment spans: **0:00:07** in gaps between blocks.
+Outside segment spans: **0:01:53** in gaps between blocks.
 
 Sources · [Transcript](dunmari-frontier-031-transcript.md) · [Time Markers](dunmari-frontier-031-time-markers.json) · [Location Markers](dunmari-frontier-031-location-markers.json) · [Entity Map](dunmari-frontier-031-entity-map.json) · [Interactions](dunmari-frontier-031-interactions.json) · [Combat](dunmari-frontier-031-combat.json) · [Segments](dunmari-frontier-031-segments.json) · [Watch data](dunmari-frontier-031-time-watches.json) · [Agata: conflicting chair-prisoner release date](../../../../People/Fey/Agata.md) · [Kaya: June 5 release record](../../../../People/Dunmari/Kaya.md) · [Selkan: later religious identity cited in the note](../../../../People/Dunmari/Selkan.md)

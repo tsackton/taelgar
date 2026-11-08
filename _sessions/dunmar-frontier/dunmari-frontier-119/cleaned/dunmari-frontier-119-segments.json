@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "dunmari-frontier-119",
     "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-119/cleaned/dunmari-frontier-119-session.yaml",
@@ -17,12 +17,84 @@
       "category": "table_talk"
     },
     {
-      "id": "s002",
+      "id": "s010",
       "source": {
         "startUid": "u0005",
-        "endUid": "u0806"
+        "endUid": "u0016"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u0017",
+        "endUid": "u0060"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u0061",
+        "endUid": "u0163"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u0164",
+        "endUid": "u0181"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u0182",
+        "endUid": "u0256"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u0257",
+        "endUid": "u0371"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0372",
+        "endUid": "u0620"
+      },
+      "category": "social_interaction"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u0621",
+        "endUid": "u0637"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u0638",
+        "endUid": "u0727"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u0728",
+        "endUid": "u0806"
+      },
+      "category": "social_interaction"
     },
     {
       "id": "s003",
@@ -34,12 +106,36 @@
       "note": "The DM steps out of play to ask the players for their goal; walking narration resumes at u0880."
     },
     {
-      "id": "s004",
+      "id": "s019",
       "source": {
         "startUid": "u0880",
-        "endUid": "u1327"
+        "endUid": "u0902"
       },
       "category": "gameplay"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u0903",
+        "endUid": "u0979"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u0980",
+        "endUid": "u1119"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u1120",
+        "endUid": "u1327"
+      },
+      "category": "social_interaction"
     },
     {
       "id": "s005",
@@ -56,7 +152,7 @@
         "startUid": "u1337",
         "endUid": "u1447"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s007",
@@ -73,7 +169,7 @@
         "startUid": "u1457",
         "endUid": "u1610"
       },
-      "category": "gameplay",
+      "category": "social_interaction",
       "note": "The inseparable opening turn moves from a player suggestion into Riswynn’s direct request; active play is primary."
     },
     {

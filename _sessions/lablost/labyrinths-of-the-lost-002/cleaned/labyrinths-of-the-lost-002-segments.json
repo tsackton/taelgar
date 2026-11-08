@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "0.1-transcript-segments-draft",
+  "schemaVersion": "0.2-transcript-segments-draft",
   "provenance": {
     "sessionId": "labyrinths-of-the-lost-002",
     "sessionYaml": "_sessions/lablost/labyrinths-of-the-lost-002/cleaned/labyrinths-of-the-lost-002-session.yaml",
@@ -33,9 +33,81 @@
       "category": "table_talk"
     },
     {
-      "id": "s004",
+      "id": "s011",
       "source": {
         "startUid": "u0034",
+        "endUid": "u0048"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u0049",
+        "endUid": "u0098"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u0099",
+        "endUid": "u0165"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u0166",
+        "endUid": "u0196"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u0197",
+        "endUid": "u0243"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u0244",
+        "endUid": "u0264"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u0265",
+        "endUid": "u0297"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0298",
+        "endUid": "u0594"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u0595",
+        "endUid": "u0627"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u0628",
         "endUid": "u0650"
       },
       "category": "gameplay"
@@ -49,12 +121,44 @@
       "category": "combat"
     },
     {
-      "id": "s006",
+      "id": "s020",
       "source": {
         "startUid": "u0743",
+        "endUid": "u0753"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u0754",
+        "endUid": "u0787"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u0788",
+        "endUid": "u0815"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u0816",
+        "endUid": "u0825"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s023",
+      "source": {
+        "startUid": "u0826",
         "endUid": "u0846"
       },
-      "category": "gameplay"
+      "category": "social_interaction"
     },
     {
       "id": "s007",
@@ -69,6 +173,14 @@
       "id": "s008",
       "source": {
         "startUid": "u0889",
+        "endUid": "u1203"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s024",
+      "source": {
+        "startUid": "u1204",
         "endUid": "u1208"
       },
       "category": "gameplay",
@@ -83,13 +195,110 @@
       "category": "table_talk"
     },
     {
-      "id": "s010",
+      "id": "s025",
       "source": {
         "startUid": "u1211",
+        "endUid": "u1216"
+      },
+      "category": "exploration",
+      "note": "Recording resumes after missing play. The later basilisk gaze is a resolved hazard without initiative or an established repeating turn cycle."
+    },
+    {
+      "id": "s026",
+      "source": {
+        "startUid": "u1217",
+        "endUid": "u1237"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s027",
+      "source": {
+        "startUid": "u1238",
+        "endUid": "u1249"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s028",
+      "source": {
+        "startUid": "u1250",
+        "endUid": "u1266"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s029",
+      "source": {
+        "startUid": "u1267",
+        "endUid": "u1357"
+      },
+      "category": "exploration",
+      "note": "Recording resumes after missing play. The later basilisk gaze is a resolved hazard without initiative or an established repeating turn cycle."
+    },
+    {
+      "id": "s030",
+      "source": {
+        "startUid": "u1358",
+        "endUid": "u1379"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s031",
+      "source": {
+        "startUid": "u1380",
+        "endUid": "u1423"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s032",
+      "source": {
+        "startUid": "u1424",
+        "endUid": "u1435"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s033",
+      "source": {
+        "startUid": "u1436",
+        "endUid": "u1527"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s034",
+      "source": {
+        "startUid": "u1528",
+        "endUid": "u1536"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s035",
+      "source": {
+        "startUid": "u1537",
+        "endUid": "u1573"
+      },
+      "category": "exploration"
+    },
+    {
+      "id": "s036",
+      "source": {
+        "startUid": "u1574",
+        "endUid": "u1609"
+      },
+      "category": "planning"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u1610",
         "endUid": "u1731"
       },
-      "category": "gameplay",
-      "note": "Recording resumes after missing play. The later basilisk gaze is a resolved hazard without initiative or an established repeating turn cycle."
+      "category": "social_interaction"
     }
   ],
   "limitations": "Play after the archive break is missing before u1211, where the DM acknowledges not resuming the recording. All 868 surviving polished turns are classified; the missing interval cannot be classified from a later session note."

@@ -73,8 +73,22 @@ Apollyon escapes alive into the depths. Delwath is dead at combat’s end; Riswy
 
 ## Recording time
 
-Recording length, segment elapsed time, and speaking time are unavailable.
+Recording length (transcript timestamp extent): **4:16:31** (0:00:00 → 4:16:31). The second Zoom recording begins at 4:07:01.760 on the combined audio timeline.
 
-Timestamp starts run backwards; clock resets or reordered sources make recording and category durations ambiguous.
+| Segment class | Elapsed (h:mm:ss) | Elapsed share | Speaking (h:mm:ss) | Speaking share |
+| --- | --- | --- | --- | --- |
+| Exploration | 0:18:40 | 7.3% | 0:13:01 | 7.0% |
+| Social interaction | 1:18:24 | 30.6% | 0:57:42 | 30.9% |
+| Planning | 0:23:22 | 9.1% | 0:17:25 | 9.3% |
+| Combat | 1:30:55 | 35.5% | 1:05:47 | 35.2% |
+| Meta discussion | 0:20:33 | 8.0% | 0:14:26 | 7.7% |
+| Table talk | 0:02:45 | 1.1% | 0:01:47 | 1.0% |
+| Session framing | 0:02:48 | 1.1% | 0:02:30 | 1.3% |
+| Gameplay | 0:18:23 | 7.2% | 0:13:58 | 7.5% |
+| **Total** | 4:15:50 | 100.0% | 3:06:37 | 100.0% |
+
+Elapsed time spans each segment block’s first UID start through its latest UID end, including internal pauses. Speaking time covers timestamped utterances only. Each millisecond is counted once; overlaps belong to the earliest source block or utterance. Each share uses its own column total.
+
+Outside segment spans: **0:00:40** in gaps between blocks.
 
 Sources · [Transcript](dunmari-frontier-116-transcript.md) · [Time Markers](dunmari-frontier-116-time-markers.json) · [Location Markers](dunmari-frontier-116-location-markers.json) · [Entity Map](dunmari-frontier-116-entity-map.json) · [Interactions](dunmari-frontier-116-interactions.json) · [Combat](dunmari-frontier-116-combat.json) · [Segments](dunmari-frontier-116-segments.json) · [Watch data](dunmari-frontier-116-time-watches.json)
