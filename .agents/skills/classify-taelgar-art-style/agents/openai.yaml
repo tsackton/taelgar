@@ -1,0 +1,4 @@
+interface:
+  display_name: "Classify Taelgar Art Style"
+  short_description: "Discover and compare styles in the Taelgar art catalog"
+  default_prompt: "Use $classify-taelgar-art-style to review the next batch or find examples of a painting treatment."
