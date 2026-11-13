@@ -1,6 +1,7 @@
 ---
-tags: [session-note]
-name: Dunmari Frontier - Session 123
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [session-note, status/check/lint]
 campaign: Dunmari Frontier
 sessionNumber: 123
 realWorldDate: 2025-05-01
@@ -10,6 +11,8 @@ players: [Delwath, Kenzo, Wellby, Riswynn, Seeker]
 companions: [Valeris]
 tagline: in which Cloudspinner is freed and Amberglow redeemed
 descTitle: The Prismwell
+name: Dunmari Frontier - Session 123
+POV: 1749
 ---
 # Dunmari Frontier - Session 123
 
@@ -28,7 +31,7 @@ The party narrowly escapes shadowy pursuit, frees the archfey [[Cloudspinner]] a
 - Following a magical trail to the [[Prismwell]], the party flees across [[Amberglow]] on griffins and a wyvern, evading relentless shadow beasts through speed, invisibility, and strategic maneuvering.
 - Arriving at the hidden [[Prismwell]], they fend off warg archers and shadow creatures while preparing to release [[Cloudspinner]] from her prison.
 - [[Seeker]] telekinetically lifts and plunges [[Cloudspinner]]'s crystal prison into the shimmering pool, while [[Riswynn]]'s powerful Sunburst banishes the attacking shadows.
-- The[[Cloudspinner]] emerges—restored, grateful, and imbued with sorrowful wisdom.
+- The [[Cloudspinner]] emerges—restored, grateful, and imbued with sorrowful wisdom.
 - [[Wellby]] is gifted a magical hat for future planar return, and [[Riswynn]] breaks the cursed crown's old bonds, rededicating it to liberating [[Orcs]] trapped under the sway of [[Thark]]. 
 - The party leaves [[Amberglow]] on the Rainbow Bridge, returning to [[Vindristjarna]] and their awaiting crew.
 
@@ -47,7 +50,7 @@ Mounting up, the group follows the trail, but soon spot three vast shadow beasts
 
 Those in the lead continue along the river, the land’s colors intensifying as they near their goal. Wargs and [[duskhounds]] attempt to intercept from below, but the party stays high out of range, until at last the clouds part to reveal the radiant pyramid of the [[Prismwell]] gleaming ahead. The party descended, regrouping as everyone reaches sanctuary before their pursuers, shadow beasts from [[Hollowdark]] and hunters from [[Duskmire]] alike, can close in.
 
-Inside the shifting wall of clouds, the party saw the [[Prismwell]] itself, a shimmering pool of sunset-colored mist. Seeking to free [[Cloudspinner]], without an obvious better idea and under time pressure, [[Seeker]] used telekineses to lift the [[Cloudspinner]]'s crystal prison from the [[Portable Hole]], and lower it into the pool. As it vanished from sight, for a moment, nothing happened. Then, the sharp whistle of arrows cut through the clouds: two struck harmlessly against [[Riswynn]]’s armor and narrowly missed [[Kenzo]] as hostile archers emerged from hidden positions. Meanwhile, tendrils of blackness began encroaching at the cloud’s edge. [[Riswynn]] advanced through featureless cloud wall toward the sound of threatening creatures and, sensing the peril, unleashed a mighty Sunburst as the party braced for confrontation, eyes fixed on the pool where [[Cloudspinner]] had vanished.
+Inside the shifting wall of clouds, the party saw the [[Prismwell]] itself, a shimmering pool of sunset-colored mist. Seeking to free [[Cloudspinner]], without an obvious better idea and under time pressure, [[Seeker]] used telekinesis to lift the [[Cloudspinner]]'s crystal prison from the [[Portable Hole]], and lower it into the pool. As it vanished from sight, for a moment, nothing happened. Then, the sharp whistle of arrows cut through the clouds: two struck harmlessly against [[Riswynn]]’s armor and narrowly missed [[Kenzo]] as hostile archers emerged from hidden positions. Meanwhile, tendrils of blackness began encroaching at the cloud’s edge. [[Riswynn]] advanced through featureless cloud wall toward the sound of threatening creatures and, sensing the peril, unleashed a mighty Sunburst as the party braced for confrontation, eyes fixed on the pool where [[Cloudspinner]] had vanished.
 
 Suddenly, the cloud wall burst into brilliant light, echoing and reflecting [[Riswynn]]'s sunburst spell as the tendrils of darkness that threatened to break through were burned away. Amidst the growing light, a figure floated from the pool: the [[Cloudspinner]], the Queen of Sunsets, ancient archfey and ruler of [[Amberglow]], now wreathed in clouds and blazing colors, her visage angry and sorrowful over what has befallen her realm. As light bursts forth from the [[Cloudspinner]], the shadowy enemies lurking on the horizon collapse in screams. 
 
@@ -98,3 +101,21 @@ The party exchanges farewells with the [[Cloudspinner]], as [[Valeris]] stays be
 - The party uses the Rainbow Bridge portal to return to their skyship at Vendrasharna, reuniting with their crew.
 
 %%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Recorded `POV: 1749` from the dated session account.
+- Normalized frontmatter field order.
+- Corrected “The[[Cloudspinner]]” to “The [[Cloudspinner]]”, “used telekineses” to “used telekinesis”.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Suggestion — campaign.noncanonical_name:** [[Campaign Registry]] recognizes “Dunmari Frontier” as an alias. Use the canonical frontmatter value `campaign: Dunmar Frontier`.
+- [ ] **Suggestion — editorial.shared_material_redundant:** The hidden “Detailed Summary” repeats the public account from the escape from Redsun Watch through the Rainbow Bridge return. Remove the duplicated sequence after checking its distinct encounter details against the played record; retain only any distinct details needed for editorial reference.
+- [ ] **Warning — correctness.internal_conflict:** In the Prismwell volley, the sentence beginning “Then, the sharp whistle of arrows” has the same two arrows strike Riswynn and miss Kenzo. The session transcript (u0866–u0878) establishes three shots, one deflection and one miss; the third outcome is less clear. Suggested wording: “Three arrows flew through the cloud. One bounced off Riswynn’s armor, and Kenzo stepped aside as another passed.”
+%%^End%%

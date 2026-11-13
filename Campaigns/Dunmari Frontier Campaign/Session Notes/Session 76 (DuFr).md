@@ -1,4 +1,6 @@
 ---
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
 campaign: Dunmari Frontier
 sessionNumber: 76
@@ -9,6 +11,7 @@ players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
 tagline: in which the party navigates orcish diplomacy in Xurkhaz
 descTitle: The People of the Rainbow
 name: Dunmari Frontier - Session 76
+POV: 1748
 ---
 # Dunmari Frontier - Session 76
 
@@ -39,16 +42,16 @@ Drifting over the landscape, the party flies towards the fortification on the we
 
 The conversation gets off to a rough start, with the party questioning [[Vorgaz]] about what he knows, and the commander being unwilling to answer. But eventually the party tells [[Vorgaz]] what they know about [[Grash]], and something of their history together, how they came to adventure as a group, and this convinces him to be a little more forthcoming. However, he is still a little wary, as apparently he was too trusting of the Chardonian infiltrators earlier, and does not want to make the same mistake twice. But, he is convinced to send a fast messenger to Chief [[Lubash]] in [[Uzgukhar]], warning him the party is coming and urging him to speak with them. 
 
-As the party prepares to depart, [[Riswynn]] magically crafts some weapons, and blesses [[Vorgaz]]'s sword to aid him in battle. During the flight east to Uzgukar, the party scries on [[Ulfgar Frostbeard]], seeing a [[Vision of Ulfgar's research]], and also on [[Govir]], seeing a [[Vision of Govir's research]]. 
+As the party prepares to depart, [[Riswynn]] magically crafts some weapons, and blesses [[Vorgaz]]'s sword to aid him in battle. During the flight east to Uzgukhar, the party scries on [[Ulfgar Frostbeard]], seeing a [[Vision of Ulfgar's research]], and also on [[Govir]], seeing a [[Vision of Govir's research]].
 
-The next morning, the sun rises over the city of Uzgukar. It is not a huge place, more like a walled town than a proper city, unlikely to house more than 1,000 people, but beautiful from the air, decorated in bright colors.  The party is expected, and they descend, leaving [[Seeker]] control [[Vindristjarna]]. They are met at the gates of the city by a guard, and brought to the palace, where they wait. Several hours later, they are taken to see Chief [[Lubash]] and his advisors. 
+The next morning, the sun rises over the city of Uzgukhar. It is not a huge place, more like a walled town than a proper city, unlikely to house more than 1,000 people, but beautiful from the air, decorated in bright colors.  The party is expected, and they descend, leaving [[Seeker]] in control of [[Vindristjarna]]. They are met at the gates of the city by a guard, and brought to the palace, where they wait. Several hours later, they are taken to see Chief [[Lubash]] and his advisors.
 
-The Chief is sitting with his advisors in the throne room of the palace, decorated with colorful rainbow motifs. As the party approaches, they feel the gods fall silent, and Chief [[Lubash]] is wearing a rainbow cloak. With him are two advisors: General [[Murook]], a woman in chain mail, and Loremaster [[Azogar]], and older man in colorful robes. The [[Orcs]] are initially somewhat dismissive, unsure what the party has to offer or what information they can provide, but at [[Wellby]]'s prompting, the Loremaster does tell some of the [[Story of Xurkhaz]], although the Chief stops him from sharing everything.
+The Chief is sitting with his advisors in the throne room of the palace, decorated with colorful rainbow motifs. As the party approaches, they feel the gods fall silent, and Chief [[Lubash]] is wearing a rainbow cloak. With him are two advisors: General [[Murook]], a woman in chain mail, and Loremaster [[Azogar]], an older man in colorful robes. The [[Orcs]] are initially somewhat dismissive, unsure what the party has to offer or what information they can provide, but at [[Wellby]]'s prompting, the Loremaster does tell some of the [[Story of Xurkhaz]], although the Chief stops him from sharing everything.
 
 The conversation turns to [[Grash]], and although [[Lubash]] is initially dismissive of the threat, the news that [[Apollyon|Apollyon]] is returned and behind this attack gives him pause. The party shares nearly the entire story, leaving out only the details of the scepter and of [[Rai]]'s involvement, which convinces [[Lubash]] of the truth of their information. He says that while [[Cha'mutte]] saved them from [[Apollyon|Apollyon]] once before, [[Cha'mutte]] is gone. [[Apollyon|Apollyon]] drove their ancestors into the wilderness long ago, and the memory of the danger he represents remains. This news seems to shake him.
 
 The conversation turns to the cloak itself, and its role in their society. At [[Lubash]]'s orders, General [[Murook]] tells [[Murook's Story|her story]], which makes clear that while the cloak is not necessary to maintain the society of [[Xurkhaz]], it is very important to them. It is the only known magic that can free [[Orcs]] bound to [[Thark]] from that bondage, and it helps freed [[Orcs]] fight the voices of [[Thark]] that still echo in their heads after they are freed. 
 
-The conversation wraps up with discussion of the Chardonians: the group that inflitrated the [[Orcs]] a few months ago, disguised by arcane magic, and then the possiblity of [[Kadmos]] scrying or teleporting in to steal the cloak. Although not completely certain of the best course of action, the party broaches the idea of fleeing with the cloak, to keep it safe from [[Grash]] and [[Apollyon|Apollyon]]. But [[Lubash]] is unwilling to consider this, as apparently it takes years and years of effort to shield an area from [[Thark]]'s eyes, and keep the [[People of the Rainbow]] safe from being hunted by chained [[Orcs]]. Fleeing would expose them to attacks from chained [[Orcs]], again. 
+The conversation wraps up with discussion of the Chardonians: the group that infiltrated the [[Orcs]] a few months ago, disguised by arcane magic, and then the possibility of [[Kadmos]] scrying or teleporting in to steal the cloak. Although not completely certain of the best course of action, the party broaches the idea of fleeing with the cloak, to keep it safe from [[Grash]] and [[Apollyon|Apollyon]]. But [[Lubash]] is unwilling to consider this, as apparently it takes years and years of effort to shield an area from [[Thark]]'s eyes, and keep the [[People of the Rainbow]] safe from being hunted by chained [[Orcs]]. Fleeing would expose them to attacks from chained [[Orcs]], again.
 
-We end as [[Lubash]] turns to other business, the conversation turning to planning. Is anything they can do to stop this threat of teleportation that they have raised as a possibility? Would [[Lubash]] shift his command center to the skyship? Should the party stay to guard [[Lubash]] against a covert assassination attempt, or try to seek out [[Kadmos]] directly?
+We end as [[Lubash]] turns to other business, the conversation turning to planning. Is there anything they can do to stop this threat of teleportation that they have raised as a possibility? Would [[Lubash]] shift his command center to the skyship? Should the party stay to guard [[Lubash]] against a covert assassination attempt, or try to seek out [[Kadmos]] directly?

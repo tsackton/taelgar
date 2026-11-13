@@ -1,4 +1,6 @@
 ---
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
 campaign: Dunmari Frontier
 sessionNumber: 8
@@ -9,6 +11,7 @@ players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
 tagline: in which the party discovers a hidden entrance and faces a roper
 descTitle: Under the Mountains
 name: Dunmari Frontier - Session 8
+POV: 1748
 ---
 # Dunmari Frontier - Session 8
 
@@ -18,7 +21,7 @@ name: Dunmari Frontier - Session 8
 > *On Earth: Thursday Sep 03, 2020*
 > *[[Dwarven Outpost (Raven's Hold)|Ruined Dwarven Outpost]]*
 
-The[[ Dunmar Fellowship]] uncovers a secret mountain passage and combats a roper to gain passage through the [[Dwarven Outpost (Raven's Hold)|ruined Dwarven trading post]].
+The [[Dunmar Fellowship]] uncovers a secret mountain passage and combats a roper to gain passage through the [[Dwarven Outpost (Raven's Hold)|ruined Dwarven trading post]].
 
 ## Session Info
 ### Summary
@@ -47,4 +50,4 @@ The party heads into the gorge, first stopping to try to figure out if the water
 
 After some discussion, [[Delwath]] scouts ahead and sees that the tunnel is blocked by a diagonal metal plate, with a chain on the wall of the tunnel. [[Riswynn]] dislodges and pulls on the chain, which causes the metal plate to slide into the floor, and redirects the flow of water to a grate in the ground. As the water drains, the party proceeds into the dark. The tunnels continue for some time, as the party passes a guard room with a mysterious lever and a secret door they decide not to pull, and an illusion of a pile of rubble, until coming to a blank wall.
 
-With some investigation, [[Wellby]] finds a mechanism to open a secret door. The door swings open, revealing a large cavern. The door itself opens onto a raised area, maybe 25’ feet on a side. Beyond, two large pools of water can be seen in the dark. Standing on the platform, turning in surprise as the door swings open, is a [[Inakara|quite unusual creature]]. She is dwarf-sized, but clearly not a dwarf: she has bedraggled white hair, long black nails, and gray and purplish skin that looks mottled and bruised. About twenty or thirty others of her kind are in the cavern -- a few, looking better armed, on the platform with her, and the rest huddled around the shores of the pools. She speaks broken Dwarven, and immediately questions the party, hissing and licking her fingers as she talks. Eventually it becomes apparent that she wants the party to fight something for her, and will let them pass if they do this. Without giving much more information, she leads them down a passage towards a huge open cavern, the former trading hall of the outpost, and points, and kind of shoves the party out into the cavern, telling them to fight. Although a bit uncertain of her motives, the party proceeds. As the party warily creeps into the cavern, a tentacle flies out of the darkness, grabbing [[Wellby]], as one of the stalagmites begins to move and send tentacles flying. [[Wellby]] is drawn closer and closer, and bitten by its vicious stone teeth, as the party struggles to figure out how to penetrate its tough stony hide while dodging the flying tentacles. Eventually, though, the party realizes that this creature can barely move, and by staying out of range (and with a well-placed arrow from [[Wellby]], heated to sear flesh by [[Seeker]]), they wear down its defenses, defeating it as the session ends. 
+With some investigation, [[Wellby]] finds a mechanism to open a secret door. The door swings open, revealing a large cavern. The door itself opens onto a raised area, maybe 25 feet on a side. Beyond, two large pools of water can be seen in the dark. Standing on the platform, turning in surprise as the door swings open, is a [[Inakara|quite unusual creature]]. She is dwarf-sized, but clearly not a dwarf: she has bedraggled white hair, long black nails, and gray and purplish skin that looks mottled and bruised. About twenty or thirty others of her kind are in the cavern -- a few, looking better armed, on the platform with her, and the rest huddled around the shores of the pools. She speaks broken Dwarven, and immediately questions the party, hissing and licking her fingers as she talks. Eventually it becomes apparent that she wants the party to fight something for her, and will let them pass if they do this. Without giving much more information, she leads them down a passage towards a huge open cavern, the former trading hall of the outpost, and points, and kind of shoves the party out into the cavern, telling them to fight. Although a bit uncertain of her motives, the party proceeds. As the party warily creeps into the cavern, a tentacle flies out of the darkness, grabbing [[Wellby]], as one of the stalagmites begins to move and send tentacles flying. [[Wellby]] is drawn closer and closer, and bitten by its vicious stone teeth, as the party struggles to figure out how to penetrate its tough stony hide while dodging the flying tentacles. Eventually, though, the party realizes that this creature can barely move, and by staying out of range (and with a well-placed arrow from [[Wellby]], heated to sear flesh by [[Seeker]]), they wear down its defenses, defeating it as the session ends. 

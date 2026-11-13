@@ -1,5 +1,7 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
 campaign: Lost in the Feywild
 sessionNumber: 5
@@ -7,12 +9,13 @@ realWorldDate: 2026-07-15
 DR: 1740-10-06
 DR_end: 1740-10-06
 players: [Kaito Min, Edric, Tarek, Ayveen, Txarro]
-name: "Lost in the Feywild: Episode 05"
-descTitle: "The Voice Beyond the Wall"
-tagline: "in which the prisoner knows they are coming"
+descTitle: The Voice Beyond the Wall
+tagline: in which the prisoner knows they are coming
 sessionKey: lost-in-the-feywild-session-5
 session-template: feywild-template.md
 websiteSessionView: zoomable
+name: "Lost in the Feywild: Episode 05"
+POV: 1740
 ---
 # Lost in the Feywild: Episode 05
 
@@ -28,7 +31,7 @@ The party links the prisoner to the fungal infection, rescues [[Menestheus]] fro
 > *What are we waiting for? Let's go get the key.*
 ## Audio Highlights
 
-**Kaito reads and hears the prisoner's looping words, then realizes they describe Hulda and the five party members approaching its door.:** 
+**Kaito reads and hears the prisoner's looping words, then realizes they describe Hulda and the five party members approaching its door:**
 ![[assets/session-audio/lost-in-the-feywild-session-5/lost-in-the-feywild-session-5-audio-005.m4a]]
 
 ## Timeline
@@ -41,11 +44,11 @@ We begin with the party still in the fungal greenhouse, discussing the journal e
 
 The party remains reluctant to help either [[Lord Hulda|Hulda]] or [[Lord Endless Ending]], but the glass key still offers their clearest route out. They decide to retrieve it, whether that means opening the prisoner's door or not.
 
-They follow [[Menestheus]] out of Kallipseis's fungal greenhouse, cross a parlor, and come into a lecture hall whose chalkboard diagrams the life cycles of dandelions and other wind-dispersed plants. An enormous black painting conceals a field of stars, a tear in the universe, and the textured form of a seed sprouting through the gap. [[Menestheus]] recognizes the image as exactly the kind of uncontrolled breech between worlds that [[Arithrimos Lamperum]] was created to stop.
+They follow [[Menestheus]] out of Kallipseis's fungal greenhouse, cross a parlor, and come into a lecture hall whose chalkboard diagrams the life cycles of dandelions and other wind-dispersed plants. An enormous black painting conceals a field of stars, a tear in the universe, and the textured form of a seed sprouting through the gap. [[Menestheus]] recognizes the image as exactly the kind of uncontrolled breach between worlds that [[Arithrimos Lamperum]] was created to stop.
 
 [[Tarek]] also finds a book called "[[The Shape of Discovery]]," a brief treatise arguing that curiosity shapes possibility through the same irrational unpredictability as greed and games of chance. The party connects Kallipseis's description of infected people to Alden's pale, round appearance, surprising strength, and fear of fire.
 
-In the next room, a clockworks workshop, [[Tarek]] finds and wraps an unfinished but functional desk-sized clock. Like the grandfather clocks in Dandylion House and the estate of [[Lord Endless Ending|Lord Endlessly Ending]], its numbers change as the party moves, apparently tracking the central prison room's position in space and time. Carrying the clock, the party reaches another mechanical listening room.
+In the next room, a clockworks workshop, [[Tarek]] finds and wraps an unfinished but functional desk-sized clock. Like the grandfather clocks in Dandelion House and the estate of [[Lord Endless Ending|Lord Endlessly Ending]], its numbers change as the party moves, apparently tracking the central prison room's position in space and time. Carrying the clock, the party reaches another mechanical listening room.
 
 The notebook at the new listening station is titled Thirst. Its [[Transcriptions from the Prisoner#The Thirst|entries]] describe the speaker filling bodies emptied of dreaming souls with its children, while those children search for the person who can set it free. The party identifies the children with the fungal infection and suspects that the prisoner manipulated [[Alden]] and the suspicious deed that brought them to [[Dandelion House]].
 
@@ -55,7 +58,7 @@ The next room is an animal experimentation laboratory filled with cages, restrai
 
 The party begins to fight among the laboratory tables and specimen containers, with [[Menestheus]] already grappled by a mushroom man. [[Edric]] rages and charges the captor, Kaito attacks with Dissonant Whispers, and Tarek's approach awakens a second infected corpse that looks almost identical to [[Alden]].
 
-The creatures retaliate with elongated fingers and mouths opening across their chests. One briefly catches [[Tarek]] while the other pulls [[Menestheus]] inward, wounding him badly as he falls unconcious. Ayveen's Silvery Barbs blunts the attack, [[Txarro]] becomes a tiger, and the party focuses its attacks on the two infected bodies.
+The creatures retaliate with elongated fingers and mouths opening across their chests. One briefly catches [[Tarek]] while the other pulls [[Menestheus]] inward, wounding him badly as he falls unconscious. Ayveen's Silvery Barbs blunts the attack, [[Txarro]] becomes a tiger, and the party focuses its attacks on the two infected bodies.
 
 [[Txarro]] restores [[Menestheus]] with Cure Wounds before [[Edric]] crushes the final mushroom man's head. Its death releases a cloud of seeds that [[Txarro]] breathes in. The party burns both bodies, which flare like dry straw.
 

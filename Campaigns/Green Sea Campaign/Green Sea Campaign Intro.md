@@ -1,6 +1,9 @@
 ---
-tags: [meta]
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [meta, status/check/lint]
 layout: wide
+POV: modern
 ---
 
 # The Green Sea
@@ -14,7 +17,7 @@ layout: wide
 
 ## Welcome to the Green Sea
 
-From the shores of the [[Eastern Isles|wandering islands]], full of magic and mystery between the [[Green Sea]] and the [[Outer Ocean]], to the desert sands beyond [[Medju]] and the spice cities, to the mangrove swamps and endless channels of the lizardfolk homelands of the Zingra, to the bustling markets of Talshan where traders from all over mix and mingle, to the great cotton estates of southern Cymea, to the storm swept fisheries of the [[Skaerhem|Skaer Islands]], to the closed ports and deep snowy winters of [[Ursk]], the shores of the Green Sea hold wonders and danger alike. 
+From the shores of the [[Eastern Isles|wandering islands]], full of magic and mystery between the [[Green Sea]] and the [[Outer Ocean]], to the desert sands beyond [[Medju]] and the spice cities, to the mangrove swamps and endless channels of the lizardfolk homelands of the Zingra, to the bustling markets of Talshan where traders from all over mix and mingle, to the great cotton estates of southern Cymea, to the storm-swept fisheries of the [[Skaerhem|Skaer Islands]], to the closed ports and deep snowy winters of [[Ursk]], the shores of the Green Sea hold wonders and danger alike.
 
 ```taelgar-map
 version: 2
@@ -129,3 +132,18 @@ West of the [[Straits of Cymea]], halfling ships and Tollish traders sail the sh
 First, think about what species you want to play. [[Playable Species of Taelgar]] has a full list of possible species with links to details about what questions to consider about your backstory for each one and full descriptions of each species.
 
 Then, consider, ..... (more coming soon about the starting town and destination of the wrecked ship!)
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Recorded the article viewpoint as `POV: modern`.
+- Corrected “storm swept fisheries” to “storm-swept fisheries”.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Suggestion — identity.implicit_name:** The heading is “The Green Sea,” while the filename identifies this as the campaign introduction. For a distinct explicit title, use `name: Green Sea Campaign Intro`.
+%%^End%%

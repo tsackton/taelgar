@@ -1,4 +1,6 @@
 ---
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
 campaign: Dunmari Frontier
 sessionNumber: 26
@@ -9,6 +11,7 @@ players: [Kenzo, Wellby, Delwath, Seeker, Drikod]
 tagline: in which secrets and shadows emerge
 descTitle: The Crumbling Mesa
 name: Dunmari Frontier - Session 26
+POV: 1748
 ---
 # Dunmari Frontier - Session 26
 
@@ -18,11 +21,11 @@ name: Dunmari Frontier - Session 26
 > *On Earth: Tuesday Jun 01, 2021*
 > *[[Karawa]]*
 
-The[[ Dunmar Fellowship]] meets [[Drikod]], learns of the dire consequences of the missing [[Heart of Shakun]], and battles shadows during an initiation ritual.
+The [[Dunmar Fellowship]] meets [[Drikod]], learns of the dire consequences of the missing [[Heart of Shakun]], and battles shadows during an initiation ritual.
 ## Session Info
 ### Summary
 - The [[Dunmar Fellowship]] returns to [[Karawa]], where they meet [[Drikod]] and gather news.
-- [[Candrosa]] admits to manipulating [[Delwath]] with magic,  and reveals the existence of the [[Heart of Shakun]] and its link to the town's failing defenses.
+- [[Candrosa]] admits to manipulating [[Delwath]] with magic, and reveals the existence of the [[Heart of Shakun]] and its link to the town's failing defenses.
 - The party learns that [[Cintra]], the Supreme Oracle of Shakun, departed with the Heart to heal [[Jumi|her daughter]], weakening Karawa's protections.
 - The party prepares for a ritual to understand the Heart's magic and [[Shakun's Protection]]
 - During the [[The Shakun Mystai Initiation|initiation ritual]] under the [[Red Mesa|mesa]], shadowy forms attack, leading to a desperate battle and the death of two mystai.
@@ -39,7 +42,7 @@ The[[ Dunmar Fellowship]] meets [[Drikod]], learns of the dire consequences of t
 ## Narrative
 We begin as [[Delwath]], [[Wellby]], [[Kenzo]], and [[Seeker]] approach [[Karawa]] from the south road as the sun begins to sink in the sky, after five days of travel across the desert from [[Pava and Avaras' House]] to the east. As they approach [[Karawa]], a patrol of [[Centaurs|centaurs]] and Dunmari intercept them, glad to see the party return safe from the desert. [[Candrosa]] would urgently like to speak with them, and so the party follows into [[Karawa]]. 
 
-The situation in [[Karawa]] is grim. There have been several more attacks, from undead skeletal gnolls, from wild beasts, from ankhegs, and more [[Centaurs|centaurs]] and [[Dunmar|Dunmari]] have died. What’s more, the messenger send to the Samraat court in [[Nayahar]] has finally returned with the news that the ruler of [[Dunmar]], the Samraat [[Nayan Karnas]], will not commit imperial troops to defend [[Karawa]], and will only commit to a defense of the river [[Hara]], near the city of [[Tokra]]. What’s more, [[Seeker]] notes that the mesa around the [[Temple of Shakun]] seems to be crumbling. 
+The situation in [[Karawa]] is grim. There have been several more attacks, from undead skeletal gnolls, from wild beasts, from ankhegs, and more [[Centaurs|centaurs]] and [[Dunmar|Dunmari]] have died. What’s more, the messenger sent to the Samraat court in [[Nayahar]] has finally returned with the news that the ruler of [[Dunmar]], the Samraat [[Nayan Karnas]], will not commit imperial troops to defend [[Karawa]], and will only commit to a defense of the river [[Hara]], near the city of [[Tokra]]. What’s more, [[Seeker]] notes that the mesa around the [[Temple of Shakun]] seems to be crumbling.
 
 The party speaks with [[Candrosa]], who seems to have aged with worry and exhaustion. He admits he has failed, he has made a grave mistake, and there is much he did not tell the party earlier, out of worry and doubt over the possible consequences of revealing the secrets of his order. He tells [[Seeker]] of the chamber below the mesa where the [[Shakun Mystai|Mystai of Shakun]] grow stone and rock to make their magical powders and ointments, and apologizes to [[Delwath]] for tricking him into seeing a vision that he thought was from [[Shakun]] but was in fact [[Candrosa]]’s manipulation with his [[Dreamweaver Staff|staff]]. But, before he tells the full story of the [[Heart of Shakun]], he tells them that a [[Drikod|stoneborn traveler]] is in town, who has come asking questions about the failure of the protections on the Dunmari border, and he would tell the story once to all of them. [[Delwath]], [[Kenzo]], [[Seeker]], and [[Wellby]] meet [[Drikod]], the [[Stoneborn]] from a small village in the mountains to the north. After introductions and some brief conversation, the party hears the story of [[Heart of Shakun]] from [[Candrosa]]. 
 
@@ -57,6 +60,6 @@ He leads the party through the temple to a chamber underneath the mesa, lit by t
 
 They experience [[The Shakun Mystai Initiation]].
 
-As the initiation ritual ends, the party snaps awake to shouts in the darkness, screams, as through a veil of blue flames shadowy forms are detaching from the wall to attack. The shadows from [[Kharsan]] have tracked the party, and taken this moment of vulnerability to launch and attack. Despite the difficulties of being caught without gear, the party fights off the shadows, although not before two mystai are killed, drained of energy and turned to withered husks by the shadow creatures. 
+As the initiation ritual ends, the party snaps awake to shouts in the darkness, screams, as through a veil of blue flames shadowy forms are detaching from the wall to attack. The shadows from [[Kharsan]] have tracked the party, and taken this moment of vulnerability to launch an attack. Despite the difficulties of being caught without gear, the party fights off the shadows, although not before two mystai are killed, drained of energy and turned to withered husks by the shadow creatures.
 
 We end as the party regroups, helping [[Candrosa]] tend to the bodies of the dead and preparing for a funeral and plans in the morning. 

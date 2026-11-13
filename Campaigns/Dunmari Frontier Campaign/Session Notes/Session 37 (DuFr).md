@@ -1,4 +1,6 @@
 ---
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
 campaign: Dunmari Frontier
 sessionNumber: 37
@@ -9,6 +11,7 @@ players: [Kenzo, Wellby, Delwath, Seeker]
 tagline: in which the party confronts werewolves
 descTitle: Moonlit Mayhem
 name: Dunmari Frontier - Session 37
+POV: 1748
 ---
 # Dunmari Frontier - Session 37
 
@@ -23,7 +26,7 @@ The [[Dunmar Fellowship]] battles werewolves in their lair, rescues the imprison
 
 ***The heroic [[Ladder]] makes its first triumphant appearance***
 ### Summary
-- The party defeats enchanted animal statues guarding a  lair.
+- The party defeats enchanted animal statues guarding a lair.
 - They rescue [[Govir]], a prisoner who reveals he was captured by werewolves for his knowledge of the Pandemonium ruins.
 - [[Govir]] fears he has been turned into a werewolf and killed [[Hada]], the head scribe.
 - The party sets a trap and defeats two werewolf guards with the help of an animated [[ladder]].
@@ -39,4 +42,4 @@ Stepping through the secret door to a hallway, the party hears two guards, and a
 
 While [[Delwath]] rests and talks to [[Govir]], [[Seeker]] scouts ahead with clairvoyance, learning that the presumed leader and several more guards are having lunch, and the guards will return soon. The party sets a trap, which includes [[Seeker]] animating the wood and rope [[Ladder]] that leads into the subbasement. The next two guards are dispatched quickly, with the help of the animated [[Ladder]], and the party decides to assault the leader as soon as possible. 
 
-The battle is joined and the leader is defeated, but not before summoning aid from four additional werewolves, leading to a dangerous fight during which [[Kenzo]], [[Seeker]], and [[Delwath]] are bitten. The animated [[Ladder]] proves to be a valiant ally and despite being torn at by werewolves it fights hard and loyally. The leader tries to escape part way through the battle, leaving his minions to fight the party, but as he transforms into a aqueous form and slips through the wall, [[Delwath]] and [[Kenzo]] both strike him, the final blow being dealt from [[Seeker]]’s runic inspiration exploding as [[Kenzo]] strikes. But eventually the werewolves are all dead, and the quiet settles over the building as the party takes a moment to gather their breath before beginning to search the place.
+The battle is joined and the leader is defeated, but not before summoning aid from four additional werewolves, leading to a dangerous fight during which [[Kenzo]], [[Seeker]], and [[Delwath]] are bitten. The animated [[Ladder]] proves to be a valiant ally and despite being torn at by werewolves it fights hard and loyally. The leader tries to escape part way through the battle, leaving his minions to fight the party, but as he transforms into an aqueous form and slips through the wall, [[Delwath]] and [[Kenzo]] both strike him, the final blow being dealt from [[Seeker]]’s runic inspiration exploding as [[Kenzo]] strikes. But eventually the werewolves are all dead, and the quiet settles over the building as the party takes a moment to gather their breath before beginning to search the place.

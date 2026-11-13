@@ -1,4 +1,6 @@
 ---
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
 campaign: Dunmari Frontier
 sessionNumber: 38
@@ -9,6 +11,7 @@ players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
 tagline: in which the party battles werewolves and uncovers secrets
 descTitle: The Betrayer Moon
 name: Dunmari Frontier - Session 38
+POV: 1748
 ---
 # Dunmari Frontier - Session 38
 
@@ -33,18 +36,18 @@ The [[Dunmar Fellowship]] reunites with [[Riswynn]] who is hunting werewolves, a
 - The party plans to awaken early to search for more signs of werewolves.
 
 ### Timeline
-- (DR:: 1748-07-02), late afternoon: Search bodies. More werewolves attack. [[Riswynn]] and [[Vistra Fireforge]], tracking the werewolves, arrive and join the fight. [[Kenzo]] wounded, cured of suspected lycanthropy by [[Riswynn]]. Search the lair, finding notes and clues, a [[Dunmari map of Pandemonium ruins]] ,and other treasures, despite setting off a dangerous trap. 
+- (DR:: 1748-07-02), late afternoon: Search bodies. More werewolves attack. [[Riswynn]] and [[Vistra Fireforge]], tracking the werewolves, arrive and join the fight. [[Kenzo]] wounded, cured of suspected lycanthropy by [[Riswynn]]. Search the lair, finding notes and clues, a [[Dunmari map of Pandemonium ruins]], and other treasures, despite setting off a dangerous trap.
 - (DR:: 1748-07-02), evening: Return [[Govir]] to [[Archives]]. Speak with [[Kaleha]]. 
 
 ### Notes
-- [[Archives Letter]], a copy of a scroll originally found by the Chardonian historian and explore [[Servius]]
+- [[Archives Letter]], a copy of a scroll originally found by the Chardonian historian and explorer [[Servius]]
 
 
 
 ## Narrative
 Our session begins with a flashback to [[Govir]], hiding in the basement of the werewolves’ lair, [[Govir's Story|dwelling on the past month]]. 
 
-We return to the adventurers as the party starts to search the bodies and the lair, and inspect their wounds. The search is interrupted by the sounds of something pounding against the door that [[Wellby]] barred shut, and then a crash as a wolf leaps through the window. The wolf is quickly followed by a woman, who starts to shift, and another wolf. As the battle is engaged, two [[Dwarves]] arrive, having been chasing the werewolves. One is a familiar face, [[Riswynn]] . The other is the retired adventurer and now innkeeper of [[The Iron Swan]], [[Vistra Fireforge]], wearing plate armor and carrying a giant maul. After a few moments the final werewolves are dispatched, with the aid of the newcomers.
+We return to the adventurers as the party starts to search the bodies and the lair, and inspect their wounds. The search is interrupted by the sounds of something pounding against the door that [[Wellby]] barred shut, and then a crash as a wolf leaps through the window. The wolf is quickly followed by a woman, who starts to shift, and another wolf. As the battle is engaged, two [[Dwarves]] arrive, having been chasing the werewolves. One is a familiar face, [[Riswynn]]. The other is the retired adventurer and now innkeeper of [[The Iron Swan]], [[Vistra Fireforge]], wearing plate armor and carrying a giant maul. After a few moments the final werewolves are dispatched, with the aid of the newcomers.
 
 In the aftermath of the battle the party learns that [[Riswynn]] came to [[Tokra]] after a group of merchants arrived in [[Tharn Todor]] and turned to werewolves, attacking the city. Once subdued and healed, the [[Dwarves]] learned they had been attacked by a pack of wolves outside [[Tokra]], and [[Riswynn]] traveled to investigate, meeting up with [[Vistra Fireforge]] in the city. After speaking with the [[Hardstones]] at the [[Archives]], they had learned the party was in town and tracked them down. 
 
@@ -66,7 +69,7 @@ The party searches the bodies and the papers, uncovering what seem to be calcula
 
 While searching the lair, they also uncover a giant calendar painted on the wall of the master bedroom that seems to be counting down days until August 1st, the next full moon, and some scattered coins and trinkets. 
 
-After [[Riswynn]] heals [[Kenzo]] of suspected lycanthropy, she goes with [[Wellby]] to search the basement again for whatever the leader’s key opens, while [[Vistra Fireforge]] keeps onlookers from getting curious and the rest of the party takes a short rest. In the basement, [[Wellby]] finds a secret door hidden by an illusory wall. Inside is a small room with a locked chest, and a table with a map spread out on it. As [[Wellby]] opens the chest, poison gas pours out. [[Riswynn]] jumps on the table to get above it, while [[Wellby]] dashes out of the room. After some debate about how to rescue [[Riswynn]] and get the stuff out of the chest, [[Delwath]] uses mage hand to pass the [[Raven Whistle]] to [[Riswynn]], letting her fly over the gas; [[Delwath]] also retrieves some items from the chest, including an [[Ivory Scroll Case]] that looks very familiar. As the party regroups, they decide to excavate a pit for the gas to pool in in order to get the rest of the stuff from the chest. 
+After [[Riswynn]] heals [[Kenzo]] of suspected lycanthropy, she goes with [[Wellby]] to search the basement again for whatever the leader’s key opens, while [[Vistra Fireforge]] keeps onlookers from getting curious and the rest of the party takes a short rest. In the basement, [[Wellby]] finds a secret door hidden by an illusory wall. Inside is a small room with a locked chest, and a table with a map spread out on it. As [[Wellby]] opens the chest, poison gas pours out. [[Riswynn]] jumps on the table to get above it, while [[Wellby]] dashes out of the room. After some debate about how to rescue [[Riswynn]] and get the stuff out of the chest, [[Delwath]] uses mage hand to pass the [[Raven Whistle]] to [[Riswynn]], letting her fly over the gas; [[Delwath]] also retrieves some items from the chest, including an [[Ivory Scroll Case]] that looks very familiar. As the party regroups, they decide to excavate a pit for the gas to pool in, in order to get the rest of the stuff from the chest. 
 
 Finally, at about 4:30 in the afternoon, the party leaves the lair, [[Vistra Fireforge]] remaining behind on guard until [[Kaleha]] can be notified. [[Kenzo]] goes to speak with [[Kaleha]] to let her know of the events of the day, while the rest of the party escorts [[Govir]] back to the [[Archives]], where [[Riswynn]] cures him of his lycanthropy. 
 

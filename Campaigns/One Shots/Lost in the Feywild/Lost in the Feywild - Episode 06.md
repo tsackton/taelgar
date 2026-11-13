@@ -1,5 +1,7 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
 campaign: Lost in the Feywild
 sessionNumber: 6
@@ -7,12 +9,13 @@ realWorldDate: 2026-07-27
 DR: 1740-10-06
 DR_end: 1740-10-06
 players: [Kaito Min, Edric, Ayveen, Txarro]
-name: "Lost in the Feywild: Episode 06"
-descTitle: "The Stories We Carry"
-tagline: "in which stories open the door to darkness"
+descTitle: The Stories We Carry
+tagline: in which stories open the door to darkness
 sessionKey: lost-in-the-feywild-session-6
 session-template: feywild-template.md
 websiteSessionView: zoomable
+name: "Lost in the Feywild: Episode 06"
+POV: 1740
 ---
 # Lost in the Feywild: Episode 06
 
@@ -28,7 +31,7 @@ The party recruits [[Aurae]], rejects Arithrimos Lamperum's soul bindery, and en
 > *I know that I'm not happy, alone by myself. I've read all of these books already.*
 ## Audio Highlights
 
-**The party discovers three superimposed prison doors showing the captive as a child, a joyful young adult, and a frightened prematurely aged figure.:** 
+**The party discovers three superimposed prison doors showing the captive as a child, a joyful young adult, and a frightened prematurely aged figure:**
 ![[assets/session-audio/lost-in-the-feywild-session-6/lost-in-the-feywild-session-6-audio-005.m4a]]
 
 ## Timeline
@@ -45,20 +48,20 @@ Although forbidden to answer direct questions about the prisoner, it remembers a
 > ![[feywild-05-27th-house-library.png]]
 > *The automaton assistant in the library of the [[27th House]]*
 
-Meanwhile, [[Txarro]] consults his lizardfolk ancestors, who suggest that returning the glass key to [[Lord Endless Ending]] could bring both good and ill, but there is no obvious evil path here. Seeking to learn more from the library, the party asks the automaton for information, who directs them to *[[On the Science and Possibilities of Soul Bindery]]*. Its unnamed [[Arithrimos Lamperum]] author enthusiastically proposes using captive souls to power liches, golems, and other devices. 
+Meanwhile, [[Txarro]] consults his lizardfolk ancestors, who suggest that returning the glass key to [[Lord Endless Ending]] could bring both good and ill, but there is no obvious evil path here. Seeking to learn more from the library, the party asks the automaton for information, and it directs them to *[[On the Science and Possibilities of Soul Bindery]]*. Its unnamed [[Arithrimos Lamperum]] author enthusiastically proposes using captive souls to power liches, golems, and other devices.
 
 The party begins to suspect that the central prisoner is being exploited for power. [[Menestheus]], feverish and fading, denies knowing of such work but continues to defend the order's mission. [[Edric]] then senses that both the tome and the assistant violate the proper order of life and death, convincing the group to enter the prison and perhaps free the prisoner, though before they do [[Txarro]] restores himself from the fungal infection and burns the book on soul bindery.
 
 As the party prepares to enter the prison, they ask the assistant if it wants a name. It accepts the name [[Aurae]] and tells each party member an [[Aurae's Allegories|allegorical tale]]: [[Edric]] must decide how to help a stolen sun and its grieving godmother, Kaito is a wandering seed searching for a place to grow, [[Ayveen]] is a forester seeking where a displaced sapling belongs, and [[Txarro]] is a protector confronting the forgotten monster beneath a healer's house.
 
-After hearing these tales, the party straps [[Aurae]] into a backpack on Edric's back, and steps towards the prison door,  passes many shelves, noting a copy of *The Journey of the Souls*, along with a commentary and refutation, as well as *[[The Riven Veil]]* and several other works of [[Marcion of Iridel]]. 
+After hearing these tales, the party straps [[Aurae]] into a backpack on Edric's back, and steps towards the prison door, passing many shelves, noting a copy of *The Journey of the Souls*, along with a commentary and refutation, as well as *[[The Riven Veil]]* and several other works of [[Marcion of Iridel]].
 
 At the prison door, they find three doors occupying the same space, showing the captive as a child, a joyful young adult, and a frightened, prematurely aged figure deep in the grip of some addiction. They choose the child, but as they prepare to step through the door, [[Menestheus]] completes his transformation and reaches for [[Txarro]] with impossibly long limbs. [[Txarro]] becomes a tiny anole lizard, evades him, and follows the others through the door. This leaves the glass key engaged in the lock behind them, and the door swings closed leaving them in impenetrable darkness with [[Menestheus]] still outside.
 
 ## Cast of Characters
 
 - [[Aurae]] (*OUR-ray or ARR-ray*; they/them, construct): clockwork research assistant who takes a name and joins the party.
-- [[Menestheus]] (he/him, Drankorian human): idisplaced Drankorian mathematician and mapmaker who completes his fungal transformation and attacks at the prison door.
+- [[Menestheus]] (he/him, Drankorian human): displaced Drankorian mathematician and mapmaker who completes his fungal transformation and attacks at the prison door.
 - the prisoner: captive seen in three superimposed states through the prison doors.
 - [[Lord Endless Ending]] (they/them, fae): fey lord who asked for the glass key.
 - [[Lord Hulda|Hulda]] (he/him, Sembaran human): the party's original employer.

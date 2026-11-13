@@ -1,14 +1,17 @@
 ---
-tags: [session-note]
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [session-note, status/check/lint]
 campaign: Dunmari Frontier
 sessionNumber: 116
 realWorldDate: 2025-01-01
 DR: 1749-05-24
 DR_end: 1749-05-24
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
-name: Dunmari Frontier - Session 116
-tagline: in which the party defeats Fausto and enters Apollyon's domain
+tagline: "in which the party defeats Fausto and enters Apollyon's domain"
 descTitle: Battle for the Crown
+name: Dunmari Frontier - Session 116
+POV: 1749
 ---
 # Dunmari Frontier - Session 116
 
@@ -24,7 +27,7 @@ The Dunmar Fellowship battles Fausto in Drankor, claims the Crown of Purity, and
 ***Character advancement: the party reaches level 16***
 ### Summary
 - The Dunmar Fellowship encounters Fausto and his war wizards in Drankor, initiating a fierce battle, with Fausto dominating and controlling Seeker
-- The party realizes that Fausto cannot be killed while he possess the Crown of Purity, and their attention shifts to removing the crown
+- The party realizes that Fausto cannot be killed while he possesses the Crown of Purity, and their attention shifts to removing the crown
 - Seeker's inspiration helps Kenzo seize the crown, transferring control and defeating Fausto.
 - Kenzo uses the crown to command Chardonian forces, leading to a moral debate within the party.
 - The party explores Apollyon’s tomb, where Apollyon emerges, leading to a fierce confrontation that ends with Delwath dead by Apollyon's word of power. 
@@ -34,7 +37,7 @@ The Dunmar Fellowship battles Fausto in Drankor, claims the Crown of Purity, and
 - (DR:: 1749-05-24), early afternoon: Travel to [[Apollyon's temple]]. Fly over the red mist, enter. Face off against Apollyon, who flees after killing [[Delwath]] with a word. 
 ## Narrative
 
-We begin as the party teleports to the [[Temple of the Eight Divines]] in [[Drankor]], where [[Fausto]] and his allies, a [[chalyte]] knight and seven Chardonian war wizards, unexpected await the party, poised for battle. The tension is palpable as the confrontation begins. [[Kenzo]]’s _Soul Sight_ reveals [[Fausto]]’s enhanced power, emanating from the sinister [[Crown of Purity]] upon his head. Magical tendrils extend from the crown to various points, including into the [[Mirror of Soul Trapping]] and the chalyte knight. [[Kenzo]] wastes no time, unleashing a _Fireball_ from the Necklace of Fireballs, damaging [[Fausto]] and the war wizards but failing to kill them.
+We begin as the party teleports to the [[Temple of the Eight Divines]] in [[Drankor]], where [[Fausto]] and his allies, a [[chalyte]] knight and seven Chardonian war wizards, unexpectedly await the party, poised for battle. The tension is palpable as the confrontation begins. [[Kenzo]]’s _Soul Sight_ reveals [[Fausto]]’s enhanced power, emanating from the sinister [[Crown of Purity]] upon his head. Magical tendrils extend from the crown to various points, including into the [[Mirror of Soul Trapping]] and the chalyte knight. [[Kenzo]] wastes no time, unleashing a _Fireball_ from the Necklace of Fireballs, damaging [[Fausto]] and the war wizards but failing to kill them.
 
 Fausto counters with a spell, eluding [[Seeker]]’s _Counterspell_ and taking control of the battlefield. [[Seeker]] falls victim to [[Fausto]]’s domination, compelled to attack [[Riswynn]] with a devastating _Rune of Psychic Disruption_. [[Riswynn]] collapses, incapacitated, although [[Delwath]] resists a similar charm from [[Fausto]]. [[Wellby]] attempts to blind [[Fausto]] with a precision arrow, wounding him but failing to disrupt his vision. Meanwhile, the war wizards target Kenzo, but their attacks falter. Delwath summons a pack of spectral lynxes, which tear through the war wizards, significantly thinning their ranks. The chalyte knight charges Kenzo, knocking him back but failing to keep him down. Kenzo retaliates, dispelling Fausto’s magic on [[Seeker]] with his cleansing touch and landing a flurry of blows on Fausto. [[Riswynn]] begins to recover, ready to rejoin the fray.
 
@@ -42,7 +45,7 @@ Fausto counters with a spell, eluding [[Seeker]]’s _Counterspell_ and taking c
 
 Fausto laughs grimly as Kenzo’s relentless attacks, which should kill him, only sever one of the gray magical tendrils extending from the [[Crown of Purity]]. Each blow causes another tendril to snap, revealing the Crown's ability to protect [[Fausto]] from death. Although Seeker disrupts [[Fausto]]’s spellcasting with a timely _Counterspell_, frustrating his efforts to regain control of the battlefield, without taking the [[Crown of Purity]], it seems the battle cannot be won by the [[Dunmar Fellowship]]. 
 
-The party shifts focus, attempting to take the Crown from Fausto. Seeker attempts to dislodge it using _Catapult_ with a chain net, Fausto dodges, leaving the attack to hit the chalyte knight. Riswynn follows with an attack with _[[Shatterstorm]]_, aiming to force the crown loose through sheer force, but it remains fixed. Wellby’s sleight-of-hand attempt also fails, leaving the party to consider alternative strategies.
+The party shifts focus, attempting to take the Crown from Fausto. Seeker attempts to dislodge it using _Catapult_ with a chain net. Fausto dodges, leaving the attack to hit the chalyte knight. Riswynn follows with an attack with _[[Shatterstorm]]_, aiming to force the crown loose through sheer force, but it remains fixed. Wellby’s sleight-of-hand attempt also fails, leaving the party to consider alternative strategies.
 
 [[Delwath]] casts _Sleep_, successfully incapacitating [[Fausto]] temporarily. However, when Delwath attempts to remove the crown, he suffers massive psychic backlash, throwing him 40 feet and dealing significant damage. The chalyte knight awakens Fausto, reigniting the battle.
 
@@ -93,7 +96,7 @@ Blinded by Wellby’s second arrow, Apollyon transforms into mist, retreating th
 - A magical gray tendril from his crown snaps with every significant attack, hinting at his connection to the crown and causing the party to reassess their strategy, realizing they need to remove the crown.
 - Seeker attempts to remove the Crown using *Catapult* with a chain net, hitting the chalyte knight instead of Fausto.
 - Riswynn targets Fausto with *Shatterstorm*, aiming to dislodge the crown through sheer force, but the crown remains fixed.
-- Welby makes a sleight-of-hand attempt to grab the crown but fails to dislodge it.
+- Wellby makes a sleight-of-hand attempt to grab the crown but fails to dislodge it.
 - Delwath casts *Sleep*, successfully incapacitating Fausto temporarily; his attempt to remove the crown while Fausto is asleep results in massive psychic backlash, throwing him 40 feet back and dealing massive damage. 
 - The chalyte knight awakens Fausto, maintaining the high-stakes tension of the battle.
 
@@ -141,7 +144,7 @@ Blinded by Wellby’s second arrow, Apollyon transforms into mist, retreating th
 - Apollyon’s appearance is ghastly: frayed flesh, glowing eyes, and a red scar dripping down his face. He floats 50 feet above the ground.
 - Apollyon taunts the party, proclaiming himself the future god of posterity and warning them that their souls are now bound to his tomb.
 - The party attacks, but Apollyon’s aura of necrotic energy deflects Wellby’s first arrow, showcasing his defensive capabilities.
-- Delwath engages Apollyon but Apollyon relates in rage, showing is hatred of elves, and briefly cursing Delwath.
+- Delwath engages Apollyon but Apollyon relates in rage, showing his hatred of elves, and briefly cursing Delwath.
 - Riswynn casts *Sunburst*, dealing radiant damage despite Apollyon twisting the magic to resist its full effect.
 - Seeker summons a metal construct, which successfully lands several blows on Apollyon despite his counterattacks.
 - Apollyon compels Kenzo to kneel with a command spell, briefly incapacitating him. 
@@ -152,7 +155,7 @@ Blinded by Wellby’s second arrow, Apollyon transforms into mist, retreating th
 
 
 ## Narrative
-We begin as the party teleports to the [[Temple of the Eight Divines]] in [[Drankor]], where [[Fausto]] and his allies, a [[chalyte]] knight and seven Chardonian war wizards, unexpected await the party, poised for battle. The tension is palpable as the confrontation begins. [[Kenzo]]’s _Soul Sight_ reveals [[Fausto]]’s enhanced power, emanating from the sinister [[Crown of Purity]] upon his head. Magical tendrils extend from the crown to various points, including into the [[Mirror of Soul Trapping]] and the chalyte knight. [[Kenzo]] wastes no time, unleashing a _Fireball_ from the Necklace of Fireballs, damaging [[Fausto]] and the war wizards but failing to kill them.
+We begin as the party teleports to the [[Temple of the Eight Divines]] in [[Drankor]], where [[Fausto]] and his allies, a [[chalyte]] knight and seven Chardonian war wizards, unexpectedly await the party, poised for battle. The tension is palpable as the confrontation begins. [[Kenzo]]’s _Soul Sight_ reveals [[Fausto]]’s enhanced power, emanating from the sinister [[Crown of Purity]] upon his head. Magical tendrils extend from the crown to various points, including into the [[Mirror of Soul Trapping]] and the chalyte knight. [[Kenzo]] wastes no time, unleashing a _Fireball_ from the Necklace of Fireballs, damaging [[Fausto]] and the war wizards but failing to kill them.
 
 Fausto counters with a spell, eluding [[Seeker]]’s _Counterspell_ and taking control of the battlefield. [[Seeker]] falls victim to [[Fausto]]’s domination, compelled to attack [[Riswynn]] with a devastating _Rune of Psychic Disruption_. [[Riswynn]] collapses, incapacitated, although [[Delwath]] resists a similar charm from [[Fausto]]. [[Wellby]] attempts to blind [[Fausto]] with a precision arrow, wounding him but failing to disrupt his vision. Meanwhile, the war wizards target Kenzo, but their attacks falter. Delwath summons a pack of spectral lynxes, which tear through the war wizards, significantly thinning their ranks. The chalyte knight charges Kenzo, knocking him back but failing to keep him down. Kenzo retaliates, dispelling Fausto’s magic on [[Seeker]] with his cleansing touch and landing a flurry of blows on Fausto. [[Riswynn]] begins to recover, ready to rejoin the fray.
 
@@ -160,7 +163,7 @@ Fausto counters with a spell, eluding [[Seeker]]’s _Counterspell_ and taking c
 
 Fausto laughs grimly as Kenzo’s relentless attacks, which should kill him, only sever one of the gray magical tendrils extending from the [[Crown of Purity]]. Each blow causes another tendril to snap, revealing the Crown's ability to protect [[Fausto]] from death. Although Seeker disrupts [[Fausto]]’s spellcasting with a timely _Counterspell_, frustrating his efforts to regain control of the battlefield, without taking the [[Crown of Purity]], it seems the battle cannot be won by the [[Dunmar Fellowship]]. 
 
-The party shifts focus, attempting to take the Crown from Fausto. Seeker attempts to dislodge it using _Catapult_ with a chain net, Fausto dodges, leaving the attack to hit the chalyte knight. Riswynn follows with an attack with _[[Shatterstorm]]_, aiming to force the crown loose through sheer force, but it remains fixed. Wellby’s sleight-of-hand attempt also fails, leaving the party to consider alternative strategies.
+The party shifts focus, attempting to take the Crown from Fausto. Seeker attempts to dislodge it using _Catapult_ with a chain net. Fausto dodges, leaving the attack to hit the chalyte knight. Riswynn follows with an attack with _[[Shatterstorm]]_, aiming to force the crown loose through sheer force, but it remains fixed. Wellby’s sleight-of-hand attempt also fails, leaving the party to consider alternative strategies.
 
 [[Delwath]] casts _Sleep_, successfully incapacitating [[Fausto]] temporarily. However, when Delwath attempts to remove the crown, he suffers massive psychic backlash, throwing him 40 feet and dealing significant damage. The chalyte knight awakens Fausto, reigniting the battle.
 
@@ -191,3 +194,22 @@ Kenzo activates his aura abilities, detecting Apollyon’s presence in the room.
 The party launches an attack, but Apollyon deflects Wellby’s arrow with his aura, showcasing his defensive power. Delwath engages, only to be cursed by Apollyon’s hatred of elves. [[Riswynn]] casts _Sunburst_, dealing radiant damage despite [[Apollyon]] twisting the magic to mitigate its full effect. Seeker’s summoned metal construct lands several blows, but Apollyon retaliates with a command spell, forcing Kenzo to kneel.
 
 Blinded by Wellby’s second arrow, Apollyon transforms into mist, retreating through the floor into his inner sanctum. Before disappearing, he turns to Delwath, issuing a word of power that instantly kills him. As Apollyon’s presence fades, the party quickly revives Delwath with Riswynn’s _Revivify_. The session ends with the group contemplating their next move, resolved to track Apollyon deeper into his tomb.
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Recorded the article viewpoint as `POV: 1749`.
+- Normalized frontmatter ordering.
+- Corrected “while he possess” to “while he possesses”, “unexpected await” to “unexpectedly await”, “Welby makes” to “Wellby makes”, “showing is hatred” to “showing his hatred”, “with a chain net, Fausto dodges” to “with a chain net. Fausto dodges”.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Suggestion — campaign.noncanonical_name:** The campaign field uses the registered alias “Dunmari Frontier.” Use the canonical field `campaign: Dunmar Frontier`.
+- [ ] **Warning — consistency.internal_conflict:** The timeline puts the crown fight and temple entry on May 24, but the narrative and detailed summary put an overnight rest between them. [[Session 117 (DuFr)]] dates the immediate aftermath to the afternoon of May 24. Confirm when the party rested. If the timeline stands, replace the two references to entering the next morning with “The party prepares to enter the tomb.”
+- [ ] **Suggestion — editorial.prose_clarity:** The second “Narrative,” after “The Encounter with Apollyon,” repeats the entire first “Narrative” verbatim. Retain the first narrative and the distinct detailed summary, and remove the second narrative from its heading to the end.
+- [ ] **Suggestion — editorial.prose_clarity:** In the detailed summary, “Apollyon relates in rage” leaves his action unclear. If the curse is the intended response, use “Delwath engages Apollyon, who briefly curses him in a rage, showing his hatred of elves.”
+%%^End%%

@@ -1,9 +1,13 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [meta]
+campaign: Lost in the Feywild
 name: "Lost in the Feywild: People, Places, and Organizations"
 dm_owner: none
 dm_notes: none
+POV: 1740
 ---
 # Lost in the Feywild: People, Places, and Organizations
 
@@ -82,4 +86,3 @@ This page collects the named cast, recurring places, organizations, and books re
 | *[[Journey of the Souls - A Refutation\|Journey of the Souls: A Refutation]]* | A five-volume refutation shelved immediately after *Journey of the Souls*. | [[Lost in the Feywild - Episode 06\|Episode 6]] |
 | *[[The Riven Veil]]* | A theological and cosmological treatise by Marcion of Iridel, shelved among a larger collection of his works. | [[Lost in the Feywild - Episode 06\|Episode 6]] |
 | *[[Zharuk Akhal]]* | A famous dwarven cosmological treatise on the Far Realms; an empty shelf records that it is out by special dispensation. | [[Lost in the Feywild - Episode 06\|Episode 6]] |
-

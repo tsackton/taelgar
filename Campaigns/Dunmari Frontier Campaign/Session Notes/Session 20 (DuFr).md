@@ -1,14 +1,17 @@
 ---
-tags: [session-note]
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [session-note, status/check/lint]
 campaign: Dunmari Frontier
 sessionNumber: 20
 realWorldDate: 2021-02-27
 DR: 1748-05-02
 DR_end: 1748-05-05
 players: [Kenzo, Wellby, Delwath, Seeker]
-tagline: in which history and past disaster are discussed, and orcs defeated
+tagline: "in which history and past disaster are discussed, and orcs defeated"
 descTitle: At the Stone House
 name: Dunmari Frontier - Session 20
+POV: 1748
 ---
 # Dunmari Frontier - Session 20
 
@@ -27,7 +30,7 @@ The [[Dunmar Fellowship]] discusses Delwath's mysterious past and learns about t
 - [[Delwath]] reunites with [[Pava]] and [[Avaras]] who saved him in the desert; they share stories of the [[Order of the Awakened Soul]].
 - The party learns of the Order's [[Awakened Soul Disaster|failed attempt]] 30 years ago to cleanse the [[Plaguelands]]. Recent changes in the desert are discussed, including orcs fighting a civil war, and worsening evil around [[Kharsan]].
 - The party trains with [[Pava]] and then departs for [[Havdar]]'s camp, navigating the desert terrain.
-- Teaching Havdar's camp, the party aids in repelling an orc attack, capturing one survivor.
+- Reaching Havdar's camp, the party aids in repelling an orc attack, capturing one survivor.
 
 ### Timeline
 - (DR:: 1748-05-02), afternoon: Speak with [[Pava]] and [[Avaras]] about [[Delwath]], [[Bhishma]], the [[Order of the Awakened Soul]], and the [[Monastery of Bhishma]] near [[Kharsan]]. Delwath's [[Delwath's Elven Breastplate|old armor]] is returned. Learn about attempt by Order some 30 years ago to heal the [[Plaguelands]], which failed badly. Learn of [[Saka]], a master that did not travel east, now rumored to live north of [[Tokra]].
@@ -45,10 +48,26 @@ Over the course of the afternoon and early evening, while their student [[Amil]]
 
 As the party is talking, [[Avaras]] appears with the reason for their suspicion: [[Delwath]]’s old [[Delwath's Elven Breastplate|elven armor]], now collecting shadows that grow and billow off of it. When [[Pava]] and [[Avaras]] found [[Delwath]], they were worried the shadows were making him delirious, were cursing or contaminating him somehow. As [[Delwath]] puts on the armor, the shadows fade, and a look of acceptance settles on his face. As the conversation continues, [[Avaras]] and [[Pava]], and the party, come to be convinced the shadows are not evil, and the armor belongs with [[Delwath]]. 
 
-After this, the conversation continues, touching on [[Agata]] Dustmother (“misery incarnate” according to [[Pava]]), and especially the history of the [[Order of the Awakened Soul|Mystai of Bhisma]]. For some time, even before [[Avaras]] and [[Pava]] were born, the order they eventually joined had become deeply committed to trying to cleanse the land, the [[Plaguelands]], of some evil preventing it from healing. About 30 years ago, one of their leaders supposedly devised a secret way to remove this curse, and it was attempted. But it didn’t work, and many of the strongest in their order died, and much power and knowledge was lost, including the original [[Monastery of Bhishma]] near [[Kharsan]]. As it was inside the cursed area of plague nightmares around [[Kharsan]] it was never exactly safe to approach, and after the failure 30 years ago few were left with the power to dare it.
+After this, the conversation continues, touching on [[Agata]] Dustmother (“misery incarnate” according to [[Pava]]), and especially the history of the [[Order of the Awakened Soul|Mystai of Bhishma]]. For some time, even before [[Avaras]] and [[Pava]] were born, the order they eventually joined had become deeply committed to trying to cleanse the land, the [[Plaguelands]], of some evil preventing it from healing. About 30 years ago, one of their leaders supposedly devised a secret way to remove this curse, and it was attempted. But it didn’t work, and many of the strongest in their order died, and much power and knowledge was lost, including the original [[Monastery of Bhishma]] near [[Kharsan]]. As it was inside the cursed area of plague nightmares around [[Kharsan]] it was never exactly safe to approach, and after the failure 30 years ago few were left with the power to dare it.
 
 Now, in the past year or so, they speak of how things have changed, gotten much more dangerous. [[Orcs]] who used to live peacefully to the east are now fighting each other in some kind of civil war; a malevolent presence now seems to direct the evil memories that linger around [[Kharsan]]; and an adventuring party passed east into the desert recently, chasing rumors of a lost library of [[Drankor]] to the south. As the party discussed [[Delwath]]’s past and powers, [[Avaras]] and [[Pava]] go to bustle about in the kitchen cooking dinner. 
 
-The next day, they spend the morning training with [[Pava]], who shows [[Kenzo]] a trick to manipulate his opponents’ ki and stun them. The party then sets out in the afternoon for [[Havdar]]’s camp, about a day’s join to the northeast. Passing through the canyonlands and rough terrain it is obvious how much better [[Wellby]] has become at picking a path through the desert, and the party makes steady progress into the evening. 
+The next day, they spend the morning training with [[Pava]], who shows [[Kenzo]] a trick to manipulate his opponents’ ki and stun them. The party then sets out in the afternoon for [[Havdar]]’s camp, about a day’s journey to the northeast. Passing through the canyonlands and rough terrain it is obvious how much better [[Wellby]] has become at picking a path through the desert, and the party makes steady progress into the evening.
 
 The next day, after avoiding a giant scorpion lying in wait to ambush some prey, and after traveling most of the day, the party stops as they approach [[Havdar]]’s camp and hear sounds of a battle ahead. [[Seeker]] looks ahead using one of his new spells, and sees [[Havdar]] fighting a large band of [[Orcs]], maybe 20 or more. The party leaps into action, and finds themselves facing off against the leader of the band and several spellcasters, including one who causes some serious damage with a giant blast of fire. But the tide of battle eventually turns against the [[Orcs]], and the session ends with the [[Orcs]] dead, except for one who is unconscious in the grasp of a large stone hand summoned by [[Seeker]]. 
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Recorded the session viewpoint as DR 1748 and normalized frontmatter order.
+- Corrected “Teaching Havdar’s camp”, “day’s join”, and the spelling of Bhishma in the Mystai link label.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Suggestion — campaign.noncanonical_name:** The registry recognizes the current “Dunmari Frontier” as an alias. Use the canonical frontmatter entry `campaign: Dunmar Frontier`.
+- [ ] **Warning — chronology.internal_conflict:** The timeline puts departure on May 3 and arrival on May 5, matching the evening interrogation in [[Session 21 (DuFr)]]. The narrative moves from the departure to the battle with “The next day”. If the timeline governs, replace the opening of the final paragraph with “On May 5, after avoiding a giant scorpion”.
+%%^End%%

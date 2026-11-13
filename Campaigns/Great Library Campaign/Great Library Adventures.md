@@ -1,11 +1,15 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
+campaign: Great Library
 name: The Chronicles of the Silver Tempests
+POV: 1752
 ---
 # The Chronicles of the Silver Tempests
 
-Herein lies the chronicles of the [[Silver Tempests]], from their humble roots as hired adventurers for the [[Great Library]], to their current fame.
+Herein lie the chronicles of the [[Silver Tempests]], from their humble roots as hired adventurers for the [[Great Library]], to their current fame.
 
 ## Arcs
 
@@ -50,14 +54,14 @@ This full story is told in the [[Great Library Session Notes - Arc 3|Chronicles 
 ## The Silver Tempests Ascendant
 *The Silver Tempests grow into a powerful force to be reckoned with, defeating a dragon, a beholder, and an aboleth.*
 
-Fresh off their victory over the hag [[Morgana Stoneclaw]], the party, now calling themselves the [[Silver Tempests]], finds themselves facing some of the more terrible monsters of the land. While returning to [[Voltara]], they learn a black [[Dragons|dragon]] is disrupting the [[Northern Provinces]], causing conflict between the [[Fort Zarnato]] and a local [[Bullywugs|bullywug]] population. Proving their growing power, the [[Silver Tempests]] kill the dragon, [[Nymthrax]], and loot the riches of its lair. Returning to [[Voltara]], they leave to explore the ruins far beneath [[Goldpeak Mountain]], (re)uniting with some Chardonian explorers and finding the lair of a beholder, [[Vilaxes]]. Defeating the beholder, the [[Silver Tempests]] return to [[Voltara]], extremely wealthy and in need a long break, during which [[Brelith]] opens a restaurant and retires. Their break is interrupted, however, by the arrival of [[Mabist]] with the news that [[Dinia]] has been captured by the [[Havoc Host]]. The [[Silver Tempests]] ride forth in anger, freeing [[Dinia]] from the control of an aboleth, [[Ithu’rax]], near the village of [[Suwi]]. 
+Fresh off their victory over the hag [[Morgana Stoneclaw]], the party, now calling themselves the [[Silver Tempests]], finds themselves facing some of the more terrible monsters of the land. While returning to [[Voltara]], they learn a black [[Dragons|dragon]] is disrupting the [[Northern Provinces]], causing conflict between [[Fort Zarnato]] and a local [[Bullywugs|bullywug]] population. Proving their growing power, the [[Silver Tempests]] kill the dragon, [[Nymthrax]], and loot the riches of its lair. Returning to [[Voltara]], they leave to explore the ruins far beneath [[Goldpeak Mountain]], (re)uniting with some Chardonian explorers and finding the lair of a beholder, [[Vilaxes]]. Defeating the beholder, the [[Silver Tempests]] return to [[Voltara]], extremely wealthy and in need of a long break, during which [[Brelith]] opens a restaurant and retires. Their break is interrupted, however, by the arrival of [[Mabist]] with the news that [[Dinia]] has been captured by the [[Havoc Host]]. The [[Silver Tempests]] ride forth in anger, freeing [[Dinia]] from the control of an aboleth, [[Ithu’rax]], near the village of [[Suwi]].
 
 This full story is told in the [[Great Library Session Notes - Arc 4|Chronicles of the Silver Tempests Ascendant]].
 
 ## Extraplanar Mysteries
 *The Silver Tempests turn their sights beyond the Material Plane*
 
-After months of waiting, clues to the mysterious disappearance of [[Urkabi]], [[Samso]]'s village, arrive with a new traveler, [[Blue]]. The [[Silver Tempests]] set off to the south to investigate, traveling to the city of [[Castrella]], and then into the mountains on a hunt for [[Yeshara]], the wolf-eyed queen of a shadowy realm called [[Cairn Dor]]. Fighting through shadowy enemies, the [[Silver Tempests]] find a portal to [[Cairn Dor]] called the [[Cleaver-Stone]], as well as a series of stone plinths that form a soul compass, facilitating the theft of mortals from the [[Material Plane]] to serve as dreamers for the [[Shemra Azem]], the sleepless, every-vigilant army of [[Cairn Dor]]. With the aid of clues found in the old Drankorian fortress guarding this place, the [[Silver Tempests]] shut down the portal and the soul compass, but retreat to [[Castrella]] to regroup before venturing into [[Cairn Dor]] itself. 
+After months of waiting, clues to the mysterious disappearance of [[Urkabi]], [[Samso]]'s village, arrive with a new traveler, [[Blue]]. The [[Silver Tempests]] set off to the south to investigate, traveling to the city of [[Castrella]], and then into the mountains on a hunt for [[Yeshara]], the wolf-eyed queen of a shadowy realm called [[Cairn Dor]]. Fighting through shadowy enemies, the [[Silver Tempests]] find a portal to [[Cairn Dor]] called the [[Cleaver-Stone]], as well as a series of stone plinths that form a soul compass, facilitating the theft of mortals from the [[Material Plane]] to serve as dreamers for the [[Shemra Azem]], the sleepless, ever-vigilant army of [[Cairn Dor]]. With the aid of clues found in the old Drankorian fortress guarding this place, the [[Silver Tempests]] shut down the portal and the soul compass, but retreat to [[Castrella]] to regroup before venturing into [[Cairn Dor]] itself.
 
 After a few weeks of recovery and research, the [[Silver Tempests]] enter [[Cairn Dor]], where they learn that the sleeping dreamers sustain the [[Shemra Azem]] and keep [[Yeshara]] from harm. With the aid of [[Joram of Eshlem]], the party finds the [[Wolf Queen's Stillings]], awakens the kidnapped lizardfolk, and causes their [[Shemra Azem]] guards to fall before defeating [[Yeshara]] herself. But when the wolf-eyed queen falls, the party, the rescued dreamers, and the people of [[Cairn Dor]] fall into a magical sleep. [[Samso]], protected from the enchantment in earth elemental form, wanders the realm alone for years before finally joining his companions in sleep. When the party and the rescued dreamers awaken, they discover that almost four years have passed, though the people of [[Cairn Dor]] remain asleep. They escape through a portal to [[Enderra]] and escort the surviving lizardfolk, including much of [[Samso]]'s family, back to [[Urkabi]]. Along the way, they learn that [[Voltara]] is in chaos and the [[Northern Provinces]] have split from the [[Chardonian Empire]]. 
 
@@ -68,4 +72,4 @@ This full story is told in the [[Great Library Session Notes - Arc 5|Chronicles 
 
 Upon their return from [[Cairn Dor]], the Silver Tempests learn that Zadkai has returned, and are asked by [[Silverstorm]] to find [[Airion's Secret Lair]] and learn what Zadkai is seeking there. 
 
-This ongoing story is told in the [[Great Library Session Notes - Arc 6|Chronicles of the Return of Zadkai and the Scouring Wind]]. 
+This ongoing story is told in the [[Great Library Session Notes - Arc 6|Chronicles of the Return of Zadkai and the Scouring Wind]].

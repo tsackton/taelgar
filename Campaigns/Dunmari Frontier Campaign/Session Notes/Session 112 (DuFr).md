@@ -1,14 +1,17 @@
 ---
-tags: [session-note]
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [session-note, status/check/lint]
 campaign: Dunmari Frontier
 sessionNumber: 112
 realWorldDate: 2024-10-29
 DR: 1749-05-22
 DR_end: 1749-05-22
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
-name: Dunmari Frontier - Session 112
 tagline: in which the party fights their twisted selves
 descTitle: Battle of the Doppelgangers
+name: Dunmari Frontier - Session 112
+POV: 1749
 ---
 # Dunmari Frontier - Session 112
 
@@ -31,15 +34,15 @@ The Dunmar Fellowship battles doppelgangers, culminating in victory over their d
 - The party regroups on [[Vindristjarna]], planning their next steps and considering future threats.
 
 ### Timeline
-- (DR:: 1749-05-22), morning: Teleport to the Sapphire Tower of the Teeth of Drankor. Defeat Bizarro Delwath. Engage dopplegangers, and win. Return to [[Vindristjarna]]. 
+- (DR:: 1749-05-22), morning: Teleport to the Sapphire Tower of the Teeth of Drankor. Defeat Bizarro Delwath. Engage doppelgangers, and win. Return to [[Vindristjarna]].
 
 ## Narrative
 
-The party's assault on [[Drankor]] began with a carefully executed teleportation into the Sapphire Tower. Utilizing invisibility to their advantage, they engaged with Bizarro Delwath, a doppelganger guarding the tower's control panel. The initial skirmish was intense, with [[Kenzo]] narrowly avoiding a trap and [[Delwath]] landing a Banishing Smite to temporarily eliminate their foe. The group used the brief respite to study the tower's crystal controls and prepare for the doppelganger's return. When Bizarro Delwath reappeared, they launched a coordinated assault that ended with his disintegration, but not before spoke a cryptic warning about how unprotected [[Vindristjarna]] was from enemy teleportation. 
+The party's assault on [[Drankor]] began with a carefully executed teleportation into the Sapphire Tower. Utilizing invisibility to their advantage, they engaged with Bizarro Delwath, a doppelganger guarding the tower's control panel. The initial skirmish was intense, with [[Kenzo]] narrowly avoiding a trap and [[Delwath]] landing a Banishing Smite to temporarily eliminate their foe. The group used the brief respite to study the tower's crystal controls and prepare for the doppelganger's return. When Bizarro Delwath reappeared, they launched a coordinated assault that ended with his disintegration, but not before he spoke a cryptic warning about how unprotected [[Vindristjarna]] was from enemy teleportation.
 
 Following their success at the Sapphire Tower, the party shifted focus to the rest of the formidable dark versions of themselves. The battle began with Seeker's Rune of Psychic Disruption, and [[Kenzo]] quickly moved to engage Bizarro Wellby, who was taking shots from a hidden position. Despite eliminating the fiery metal golem and making progress against the clones, Bizarro Riswynn dispelled Simulacrum Delwath, turning the tide momentarily in favor of the clones. The party found themselves needing to regroup and adapt as they faced relentless counterattacks from their twisted counterparts.
 
-As the battle escalated, the Bizarro clones intensified their efforts, forcing the party to adapt on the fly. [[Delwath]] used Scatter to reposition the group, while [[Seeker]] employed his Rune of Irresistible Curiosity to charm Bizarro Seeker, reducing his threat. Despite significant setbacks—including the temporary blindness of both [[Delwath]] and [[Seeker]]—the group managed to keep Bizarro Wellby incapacitated and fought fiercely against the clones' attempts to regain control. The dark ladder and angel constructs were eventually neutralized, allowing the party to prepare for a final offensive, although again the taunts of the dopplegangers lingered, claiming that there was no [[Adamantine]] daggers to be found in [[Drankor]], and the party should chase [[Rai]] in [[Isingue]]. 
+As the battle escalated, the Bizarro clones intensified their efforts, forcing the party to adapt on the fly. [[Delwath]] used Scatter to reposition the group, while [[Seeker]] employed his Rune of Irresistible Curiosity to charm Bizarro Seeker, reducing his threat. Despite significant setbacks—including the temporary blindness of both [[Delwath]] and [[Seeker]]—the group managed to keep Bizarro Wellby incapacitated and fought fiercely against the clones' attempts to regain control. The dark ladder and angel constructs were eventually neutralized, allowing the party to prepare for a final offensive, although again the taunts of the doppelgangers lingered, claiming that there were no [[Adamantine]] daggers to be found in [[Drankor]], and the party should chase [[Rai]] in [[Isingue]].
 
 The decisive moments of the battle saw the party focusing on Bizarro Riswynn and Bizarro Seeker. [[Delwath]] and [[Seeker]] worked in tandem to retrieve the amulet and incapacitate their foes. [[Kenzo]]'s relentless attacks on Bizarro Wellby ensured he remained incapacitated, while [[Riswynn]]'s healing magic kept the party on their feet. The final blow came when [[Wellby]] fired a Lightning Arrow, disintegrating Bizarro Riswynn and ending the battle. With the immediate threat eliminated, the exhausted party teleported back to [[Vindristjarna]]. 
 
@@ -134,3 +137,20 @@ The party regroups after the intense battle, discussing their next steps and how
 - The party plans to rest on the skyship, with some members proposing minor scouting missions to make use of the day without risking more combat.
 - They agree to use the "getting advice" ritual at the beginning of the next session to gain insight on navigating upcoming dangers.
 
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Recorded the session viewpoint as DR 1749.
+- Reordered the frontmatter fields.
+- Corrected “doppelgangers,” supplied the missing subject of the warning and corrected the verb agreement with “daggers.”
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Suggestion — campaign.noncanonical_name:** The current campaign value is the recognized alias “Dunmari Frontier.” The canonical field in [[Campaign Registry]] is `campaign: Dunmar Frontier`.
+- [ ] **Warning — correctness.internal_conflict:** “Bizarro Delwath Banished” ends with his disintegration, but “Lightning Tower Assault” has Seeker immediately target Bizarro Delwath again. The narrative gives the spell without naming its target. Verify the target, or use “Seeker opens with Rune of Psychic Disruption.”
+- [ ] **Warning — correctness.internal_conflict:** The return-to-ship summary names “Rise’s last known location,” while the narrative names Rai as the lead in Isingue. Verify the intended person and, if both refer to Rai, use “Rai’s last known location.”
+%%^End%%

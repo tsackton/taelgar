@@ -1,6 +1,7 @@
 ---
-tags: [session-note]
-name: Dunmari Frontier - Delwath Solo Session 3
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [session-note, status/check/lint]
 campaign: Dunmari Frontier
 sessionNumber: 55
 realWorldDate: 2022-08-16
@@ -9,6 +10,8 @@ DR_end: 1748-10-14
 players: [Delwath, Aristaea, Iascaire]
 tagline: in which the last of the trapped tanshi are freed
 descTitle: Echoes of the Great War
+name: Dunmari Frontier - Delwath Solo Session 3
+POV: 1748
 ---
 # Dunmari Frontier - Delwath Solo Session 3
 
@@ -22,7 +25,7 @@ descTitle: Echoes of the Great War
 
 ## Session Info
 ### Summary
-- [[Delwath]] and his companions meet [[Zegron]], the ghost of a giant, in the [[Forest of Nightmares]], and agree to fight hobgoblins  in a shadow realm.
+- [[Delwath]] and his companions meet [[Zegron]], the ghost of a giant, in the [[Forest of Nightmares]], and agree to fight hobgoblins in a shadow realm.
 - After a fierce battle, the hobgoblins and their wizard leader are defeated; the party retrieves the Shadow Armband from the wizard's severed arm.
 - In the shadow realm, [[Delwath]] banishes himself and the tanshi [[Taraka]] back to the [[Material Plane]] while leaving the hobgoblin army trapped.
 - At the site of the Battle of Ye'mote, the party defeats an undead hobgoblin warlock and his minions, releasing the last of the trapped [[Meswati]] with the destruction of another armband.
@@ -41,12 +44,30 @@ descTitle: Echoes of the Great War
 ## Narrative
 We begin as the party returns to the [[Forest of Nightmares]], heading for the Battle of Endless Dark. Approaching the battlefield, the party finds a maze of trees and thickets, completely in magical darkness. At the center of the maze, the party finds a skeleton of a giant, a portal to a shadow realm, and the ghost of the giant. He calls himself [[Zegron]], and he is hoping the party is here to punish those who fled, cowardly, from their duty in battle. Apparently this giant was in [[Cha'mutte]]'s army, and is angry with the [[Hobgoblins]] still hiding in the shadow realm, who would not fight. 
 
-The party agrees to go into the shadow realm to fight the [[Hobgoblins]], hoping perhaps to free [[Taraka]] as well. Emerging into a flat, featureless plain of shadow, the party sees a small group of [[Hobgoblins]] who seem to be watching the portal, and in the distance, a much larger army that seems to be constantly chasing campfires that blink in and out in the darkness. The party struggles to defeat the organized hobgoblin attack, led by a wizard, low on spells but still dangerous, flying above the battlefield. Nonetheless eventually the [[Hobgoblins]] are killed. The wizard commander is missing an arm, and with it the [[Cha'mutte’s Shadow Armband]] he carried, presuambly. 
+The party agrees to go into the shadow realm to fight the [[Hobgoblins]], hoping perhaps to free [[Taraka]] as well. Emerging into a flat, featureless plain of shadow, the party sees a small group of [[Hobgoblins]] who seem to be watching the portal, and in the distance, a much larger army that seems to be constantly chasing campfires that blink in and out in the darkness. The party struggles to defeat the organized hobgoblin attack, led by a wizard, low on spells but still dangerous, flying above the battlefield. Nonetheless eventually the [[Hobgoblins]] are killed. The wizard commander is missing an arm, and with it the [[Cha'mutte’s Shadow Armband]] he carried, presumably.
 
 Exiting the portal, the party speaks with [[Zegron]], who thanks them for dealing with the traitors, and indicates where to dig to find the wizard's arm as he vanishes. Digging up the arm, the party is faced with a dilemma. Destroying the armband would free [[Taraka]], but also the large hobgoblin army trapped with them. Eventually, they devise a plan to send in [[Delwath]] to attempt to banish both [[Taraka]] and himself back to the [[Material Plane]], leaving the [[Hobgoblins]] trapped, and then close the portal here by attuning to the armband. Amazingly, the plan works, and both [[Taraka]] and [[Delwath]] make it back.
 
-After a brief rest, the group then heads for the final battlefield, the Battle of Ye'mote. The battlefield is on the banks of the [[Yemo'te]] river. A broken bridge crosses the river, and forest is littered with signs of an ancient battlefield: small mounds where the plants have grown over dead bodies, bits of rusting armor and weapons sticking from the ground, white filaments of fungus wrapping many of the bodies in cocoons. 
+After a brief rest, the group then heads for the final battlefield, the Battle of Ye'mote. The battlefield is on the banks of the [[Yemo'te]] river. A broken bridge crosses the river, and the forest is littered with signs of an ancient battlefield: small mounds where the plants have grown over dead bodies, bits of rusting armor and weapons sticking from the ground, white filaments of fungus wrapping many of the bodies in cocoons.
 
-Across the river the party can see the rotted body of a hobgoblin warlock, with a shadow armband. As they move to approach, hoards of undead attack. The relentless swarms of undead fall easily in battle, but they seem to be endless, until [[Aristaea]] strikes the warlock down with a critical strike of divine energy. As the undead fall away, [[Iascaire]] destroys the last armband, freeing [[Midri]] and [[K'onisati]]. 
+Across the river the party can see the rotted body of a hobgoblin warlock, with a shadow armband. As they move to approach, hordes of undead attack. The relentless swarms of undead fall easily in battle, but they seem to be endless, until [[Aristaea]] strikes the warlock down with a critical strike of divine energy. As the undead fall away, [[Iascaire]] destroys the last armband, freeing [[Midri]] and [[K'onisati]].
 
 We end as the party returns to the [[Ko'zula]] village to celebrate, and [[Delwath]] bids farewell to [[Iascaire]] and [[Aristaea]]. 
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added `POV: 1748` for the contemporary session account.
+- Normalized frontmatter field order.
+- Corrected “hobgoblins  in” to “hobgoblins in”, “presuambly” to “presumably”, “and forest is littered” to “and the forest is littered”, “hoards of undead” to “hordes of undead”.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Suggestion — campaign.noncanonical_name:** “Dunmari Frontier” is a recognized alias. Use the long name in [[Campaign Registry]] for this field: `campaign: Dunmar Frontier`.
+- [ ] **Warning — correctness.internal_conflict:** After the opening October 9 arrival, six subsequent entries carry October 6, including two midday arrivals separated by an afternoon departure. The header spans October 9–14, and [[Interlude (Delwath Postscript)]] begins the village stay on October 14. Reconstruct the individual days from play evidence or mark the intermediate dates uncertain.
+- [ ] **Warning — correctness.internal_conflict:** The summary names [[Azkar]] as the place of celebration, while the timeline, narrative and [[Interlude (Delwath Postscript)]] identify the Ko'zula village. Confirm whether Azkar was intended as the village name. The attested wording is “The party returns to the [[Ko'zula]] village to celebrate.”
+%%^End%%

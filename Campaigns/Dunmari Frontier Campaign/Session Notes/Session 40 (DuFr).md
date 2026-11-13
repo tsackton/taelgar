@@ -1,4 +1,6 @@
 ---
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
 campaign: Dunmari Frontier
 sessionNumber: 40
@@ -7,8 +9,9 @@ DR: 1748-07-03
 DR_end: 1748-07-06
 players: [Kenzo, Wellby, Delwath, Seeker]
 tagline: in which the past collides with advice for the future
-descTitle: Saka's Revelations
+descTitle: "Saka's Revelations"
 name: Dunmari Frontier - Session 40
+POV: 1748
 ---
 # Dunmari Frontier - Session 40
 

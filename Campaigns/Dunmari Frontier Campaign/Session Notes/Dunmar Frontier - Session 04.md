@@ -1,5 +1,7 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
 websiteSessionView: zoomable
 campaign: Dunmar Frontier
@@ -10,11 +12,12 @@ DR: 1748-03-26
 DR_end: 1748-03-29
 players: [Kenzo, Wellby, Delwath, Seeker]
 companions: []
-name: "Dunmari Frontier - Session 4"
 descTitle: "Shakun's Wane"
-tagline: "in which the party learns dire secrets about Karawa"
+tagline: in which the party learns dire secrets about Karawa
 sessionKey: dunmari-frontier-session-4
 session-template: dunmar-frontier-template.md
+name: Dunmari Frontier - Session 4
+POV: 1748
 ---
 # Dunmari Frontier - Session 4
 
@@ -86,7 +89,7 @@ After a bit more conversation with [[Ikram]] about lighter subjects, including t
 > ![[dufr-004-bree-and-ander-charmheart.jpg]]
 > *A disturbed [[Ander Charmheart]] speaks joyfully of the all-consuming master.*
 
-Leaving [[Jasu]] to his dinner, the party heads to meet a group of halflings -- marked by their colorful wagons -- in town for the [[Festival of Rebirth]] and its associated markets. The matriarch of the group introduces herself as [[Bree Charmheart]] and welcomes the party to sit and chat for a bit. After some small talk with [[Wellby]] about their shared Sembaran origins, she strangely grows chilly and unwelcoming. [[Wellby]] asks her about her sick companion, and she responds abruptly, acting as though they have overstayed their welcome. Just before the party leaves, a [[Ander Charmheart|disheveled halfling]] staggers out of one of the wagons, looking dazed but with an incongruous look of joy on his face. As the party hurries away, [[Wellby]] informs the party that this disheveled halfling hears an unceasing voice that speaks to him: “The master is waiting. You'll find joy with the master. The master wants you to come and join us." Over and over and over. When [[Wellby]] asked him to name the master, he only said: "The master is my master. The master will consume the world and bring us joy."
+Leaving [[Jasu]] to his dinner, the party heads to meet a group of halflings -- marked by their colorful wagons -- in town for the [[Festival of Rebirth]] and its associated markets. The matriarch of the group introduces herself as [[Bree Charmheart]] and welcomes the party to sit and chat for a bit. After some small talk with [[Wellby]] about their shared Sembaran origins, she strangely grows chilly and unwelcoming. [[Wellby]] asks her about her sick companion, and she responds abruptly, acting as though they have overstayed their welcome. Just before the party leaves, a [[Ander Charmheart|disheveled halfling]] staggers out of one of the wagons, looking dazed but with an incongruous look of joy on his face. As the party hurries away, [[Wellby]] informs the party that this disheveled halfling hears an unceasing voice that speaks to him: “The master is waiting. You'll find joy with the master. The master wants you to come and join us.” Over and over and over. When [[Wellby]] asked him to name the master, he only said: "The master is my master. The master will consume the world and bring us joy."
 
 After leaving the halflings, the party splits for the evening. [[Delwath]] and [[Seeker]] settle beside the oasis to meditate and seek insight from [[Shakun]], while [[Wellby]] keeps watch and [[Kenzo]] returns to [[Ikram's]] to talk and drink late into the night. Around eleven, [[Candrosa]] interrupts the vigil with news that demands an immediate conversation. He sends [[Wellby]] to retrieve [[Kenzo]]; Wellby's halfling sobering ritual with three eggs and a stick ends in a volley of thrown eggs, but succeeds in drawing [[Kenzo]] away.
 

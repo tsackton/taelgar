@@ -1,15 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [session-note, status/check/lint]
 campaign: Addermarch
 sessionNumber: 21
 realWorldDate: 2026-09-27
 DR: 1715-05-28
 DR_end: 1715-05-30
 players: [Yvan Greenrabbit, Drou, Fazoth de Brune]
-name: Addermarch Campaign - Session 21
 tagline: in which the party returns to the Feywild
-descTitle: The Briarheart's Realm
+descTitle: "The Briarheart's Realm"
+name: Addermarch Campaign - Session 21
+POV: 1715
 ---
 # Addermarch Campaign - Session 21
 
@@ -52,7 +55,7 @@ The party continues walking all day in pleasant spring weather, making camp on t
 
 The party crosses the [[Highmoor]] and arrives at [[Caradoc]]'s cottage outside [[Brantor]]. They update [[Caradoc]] on the events at [[Serethwyn Tor]], and plan to go back to the [[Feywild]] to return the Singing Tree's heart. They discuss [[Thornweald]] and the [[Morlaith|Briarheart]] with [[Caradoc]], who gives them several pieces of advice: seek a guide, the fey of the [[Thornweald]] may be strange, but they are not inherently evil, and hurry, because in a few days the Singing Tree will regrow and the challenge will be much greater. He also gives the party a small vial of a dense liquid that, when smashed on the ground, connects the [[Feywild]] and the [[Material Plane]] for a short moment, allowing passage. He also gives them a vine-covered wooden wand that, if broken, will summon [[Calanthe|Lady Calanthë]], Duchess of the Sunset Forest and Guardian of the Gloaming Hills, who will help, but for a price, most likely in service. 
 
-After dinner and conversation, the party decides to walk back to [[Haldrenn]] to hopefully be closer to their [[Feywild]] destination, though [[Caradoc]] warns them distant in the Feywild is tricky. After three hours walking under increasingly cloudy skies, they camp for the night on the [[Highmoor]].
+After dinner and conversation, the party decides to walk back to [[Haldrenn]] to hopefully be closer to their [[Feywild]] destination, though [[Caradoc]] warns them distance in the Feywild is tricky. After three hours walking under increasingly cloudy skies, they camp for the night on the [[Highmoor]].
 
 ### Sunday, May 30th, 2 Robert I
 
@@ -62,13 +65,13 @@ The party crosses the [[Highmoor]] back to [[Haldrenn]] under cloudy skies, arri
 > ![[adma-021-fork-in-the-thornweald.webp]]
 > *A fork in the paths of the Thornweald.*
 
-They arrive on a path, at a fork, in the late afternoon. The sun is hidden by clouds and trees, and a light drizzle drips from the leaves of the dense woods. To the left, a path leads into a dark, tangled forest, heading up a short hill; to the right, the path continues into the close forest, but seems to be more open, with patches of sunlight. The party goes up the hill, following the dark path, and come out into a grassy meadow filled with incongruous sunshine. In the meadow, a lone willow tree stands, covered in bright butterflies that, to [[Yvan Greenrabbit|Yvan]], smell slightly of rot and decay. As soon as the party steps into the meadow, the butterflies attack, swarming around [[Drou]] with poisonous bites. Both [[Yvan Greenrabbit|Yvan]] and [[Fazoth de Brune|Fazoth]] strike the swarm with Witch Bolts, and it quickly weakens and is temporarily driven off by [[Drou]]'s Dissonant Whispers. The willow, confused, strikes out at Yvan, dragging him close in retaliation for his attack on the swarm. But the swarm is soon killed by [[Yvan Greenrabbit|Yvan]]'s sorcerous burst, and with the corrupting influence of the butterflies gone, Drou is able to calm the willow, and draw out [[The Story of Sweetwillow|its story]]. 
+They arrive on a path, at a fork, in the late afternoon. The sun is hidden by clouds and trees, and a light drizzle drips from the leaves of the dense woods. To the left, a path leads into a dark, tangled forest, heading up a short hill; to the right, the path continues into the close forest, but seems to be more open, with patches of sunlight. The party goes up the hill, following the dark path, and comes out into a grassy meadow filled with incongruous sunshine. In the meadow, a lone willow tree stands, covered in bright butterflies that, to [[Yvan Greenrabbit|Yvan]], smell slightly of rot and decay. As soon as the party steps into the meadow, the butterflies attack, swarming around [[Drou]] with poisonous bites. Both [[Yvan Greenrabbit|Yvan]] and [[Fazoth de Brune|Fazoth]] strike the swarm with Witch Bolts, and it quickly weakens and is temporarily driven off by [[Drou]]'s Dissonant Whispers. The willow, confused, strikes out at Yvan, dragging him close in retaliation for his attack on the swarm. But the swarm is soon killed by [[Yvan Greenrabbit|Yvan]]'s sorcerous burst, and with the corrupting influence of the butterflies gone, Drou is able to calm the willow, and draw out [[The Story of Sweetwillow|its story]].
 
 > [!image|figure standard]
 > ![[adma-021-willow-and-butterflies.webp]]
 > *Bright butterflies gather on the willow in the sunlit clearing.*
 
-After calming the willow, [[Yvan Greenrabbit|Yvan]] climbs to its top to scout, seeing a narrow animal track leaving the clearing, descending gradually towards a river, across which a small number of large trees rise above the canopy. With a sense that is the direction of the Singing Tree, the party proceeds down the narrow path, and prompted gets lost in the forest. 
+After calming the willow, [[Yvan Greenrabbit|Yvan]] climbs to its top to scout, seeing a narrow animal track leaving the clearing, descending gradually towards a river, across which a small number of large trees rise above the canopy. With a sense that is the direction of the Singing Tree, the party proceeds down the narrow path, and promptly gets lost in the forest.
 
 > [!image|right standard]
 > ![[adma-021-kip-and-flo.webp]]
@@ -101,3 +104,19 @@ timeline
 5/30 walk towards Haldrenn; arrive lunctime, warn villagers. walk to nighsong roots, go to feywild via caradoc potion. in feywild
 
 %%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Recorded the session viewpoint as DR 1715.
+- Normalized frontmatter formatting.
+- Corrected “warns them distant” to “warns them distance”, “and come out into” to “and comes out into”, “and prompted gets lost” to “and promptly gets lost”.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Suggestion — editorial.shared_material_redundant:** The concluding raw notes repeat the journey, weather, willow, foxlings, and dates already in the narrative and timeline. Remove those repeated lines. Retain the distinct guide reminder privately if still useful.
+%%^End%%

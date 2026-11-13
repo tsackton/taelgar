@@ -1,4 +1,6 @@
 ---
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
 campaign: Dunmari Frontier
 sessionNumber: 16
@@ -6,13 +8,14 @@ realWorldDate: 2021-01-08
 DR: 1748-04-15
 DR_end: 1748-04-16
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
-tagline: in which the party uncovers history and flees dangerous storm
+tagline: in which the party uncovers history and flees a dangerous storm
 descTitle: Escape from Stormcaller Tower
 name: Dunmari Frontier - Session 16
+POV: 1748
 ---
 # Dunmari Frontier - Session 16
 
->[!info] Escape from Stormcaller Tower: in which the party uncovers history and flees dangerous storm
+>[!info] Escape from Stormcaller Tower: in which the party uncovers history and flees a dangerous storm
 > *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]], [[Riswynn]]*
 > *In Taelgar: Apr 15, 1748 DR to Apr 16, 1748 DR*
 > *On Earth: Friday Jan 08, 2021*
@@ -33,7 +36,7 @@ The [[Dunmar Fellowship]] discovers the chained storm giant [[Hralgar]]'s tragic
 - (DR:: 1748-04-16), early morning: Stumble out of the permanent storm around [[Stormcaller Tower]]. Part ways with [[Vola]] and [[Riswynn]], who depart for [[Chardon]] and [[Tharn Todor]], respectively. 
 
 ## Narrative
-Standing in a shattered room at the top of an [[Stormcaller Tower|ancient tower]], we begin with our heroes confronting a massive [[Giants|storm giant]], laying chained and manacled to the ground in front of them. Clothed in tattered robes, with long, shaggy hair and weathered features, the most notable fact about this storm giant, [[Hralgar]], is that he is missing his [[Hralgar's Eyes|eyes]]. 
+Standing in a shattered room at the top of an [[Stormcaller Tower|ancient tower]], we begin with our heroes confronting a massive [[Giants|storm giant]], lying chained and manacled to the ground in front of them. Clothed in tattered robes, with long, shaggy hair and weathered features, the most notable fact about this storm giant, [[Hralgar]], is that he is missing his [[Hralgar's Eyes|eyes]]. 
 
 During a brief conversation, the party learns the giant first came to consciousness about a month ago, and has been trapped here, drifting in and out of waking dreams ever since. When he awoke his eyes were gone and his conscious grip on his mind was weak, although since he has had moments of lucidity, such as now. He tells the party that he believes he could free himself if his eyes were returned to him, and that when he loses conscious control of his mind he cannot prevent the tower from drifting in his dangerous dreams, where the part of his consciousness lost in the storm outside controls the present and his thoughts return to a simpler time, when he lived on his mountaintop palace trading stories and omens with travelers. Noting that while they are talking with [[Hralgar]], the constellation of the [[Fox and Hunter]] is back in the sky, the party realizes that its absence is a sign they have drifted back into the dreams of [[Hralgar]]. 
 
@@ -59,6 +62,6 @@ After a brief discussion about the history of [[Stormcaller Tower]], revealed in
 
 At this point, feeling they have learned all they can and looted as much as is possible from the tower, the party reconvenes on the wind platform over the plains to possibly do something about the iron globe. Meanwhile, [[Kenzo]] continues to journey with [[Hralgar]]’s mind, attempting to build a mental anchor for [[Hralgar]]’s consciousness to hold onto. 
 
-On the wind platform, some clever wrangling manages to dislodge the iron sphere, angering the water guardian who sends a number of steam and dust creatures to attack the party. Although the party is able to defeat them mostly unscathed, feeling the danger level increasingly they quickly depart, pulling the iron sphere onto the ground below, where is lies, inert. Feeling the giant’s mind slipping away, and warned by [[Kenzo]] that time is short, the party finally decides to flee [[Stormcaller Tower]].
+On the wind platform, some clever wrangling manages to dislodge the iron sphere, angering the water guardian who sends a number of steam and dust creatures to attack the party. Although the party is able to defeat them mostly unscathed, feeling the danger level increasing, they quickly depart, pulling the iron sphere onto the ground below, where it lies, inert. Feeling the giant’s mind slipping away, and warned by [[Kenzo]] that time is short, the party finally decides to flee [[Stormcaller Tower]].
 
-However, it seems they have left it a bit too long, and as they leave thunder cracks and the [[Fox and Hunter]] fades from the sky, and darkness falls, suppressing even the magical light of the [[Dwarven Driftglobe|driftglobes]] As the party hurries away from the tower, the darkness, mists and fog close in, making a straight path impossible. Hours later, they stumble out into the morning sun, exhausted, having wandered in the confusing mists of the storm all night. As dawn breaks, they stumble, exhausted, into the clear light of day. After some brief conversation and goodbyes to [[Vola]], who is heading to [[Chardon]], and [[Riswynn]], who is heading home to [[Tharn Todor]] with the Brawnanvil clan artifacts she reclaimed, the party sits down to a brief rest and breakfast while considering their next move.
+However, it seems they have left it a bit too long, and as they leave thunder cracks and the [[Fox and Hunter]] fades from the sky, and darkness falls, suppressing even the magical light of the [[Dwarven Driftglobe|driftglobes]]. As the party hurries away from the tower, the darkness, mists and fog close in, making a straight path impossible. Hours later, they stumble out into the morning sun, exhausted, having wandered in the confusing mists of the storm all night. As dawn breaks, they stumble, exhausted, into the clear light of day. After some brief conversation and goodbyes to [[Vola]], who is heading to [[Chardon]], and [[Riswynn]], who is heading home to [[Tharn Todor]] with the Brawnanvil clan artifacts she reclaimed, the party sits down to a brief rest and breakfast while considering their next move.

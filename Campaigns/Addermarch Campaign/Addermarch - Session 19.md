@@ -1,15 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [session-note, status/check/lint]
 campaign: Addermarch
 sessionNumber: 19
 realWorldDate: 2026-02-16
 DR: 1715-05-27
 DR_end: 1715-05-27
 players: [Yvan Greenrabbit, Drou, Fazoth de Brune]
-name: Addermarch Campaign - Session 19
 tagline: in which the party descends through the mines
 descTitle: The Depths of Serenwyth Tor
+name: Addermarch Campaign - Session 19
+POV: 1715
 ---
 # Addermarch Campaign - Session 19
 
@@ -38,7 +41,7 @@ Starting from their resting place in the upper mine chambers, the party finds a 
 
 - **[[Serethwyn Tor]]** - The hill-fort above the mine, where the party climbs to locate an alternate route downward.
 - **Ventilation shaft** - A vertical route into the lower levels of the mine.
-- **Lower mine levels** - Tight, rubble-choked tunnels where serpentine ghouls lurk .
+- **Lower mine levels** - Tight, rubble-choked tunnels where serpentine ghouls lurk.
 
 ## Narrative
 
@@ -48,7 +51,7 @@ After a long rest in the upper chambers, the party backtracks out of the mine, a
 
 The ghouls are dispatched, though Drou's _Shatter_ rings through the rock and announces the party's presence to whatever waits below. They burn the bodies and pocket roughly 300 silver pieces before pressing on. Following the trail of Duncan's passage through scattered equipment and bodies that mercifully stay down, they push to the lowest level.
 
-Here, ghouls lick [[Serpentine|serpentine]] from the walls and turn to attack in the cramped tunnels. The fight is brutal. Drou's summoned constrictor snake absorbs punishment and is briefly paralyzed, while she works with daggers, fists, and _Starry Wisp_. Fazoth's _Witch Bolt_ crackles effectively, and Yvan seals the battle's end as he steps forward into darkness and launches a _Fireball_ that blasts the next wave ghouls moving towards the noise of combat. In the silence that follows, a rhythmic thudding echoes from the passage ahead; with the dungeon fully alerted and no safe rest in sight, the party advances as our session ends.
+Here, ghouls lick [[Serpentine|serpentine]] from the walls and turn to attack in the cramped tunnels. The fight is brutal. Drou's summoned constrictor snake absorbs punishment and is briefly paralyzed, while she works with daggers, fists, and _Starry Wisp_. Fazoth's _Witch Bolt_ crackles effectively, and Yvan seals the battle's end as he steps forward into darkness and launches a _Fireball_ that blasts the next wave of ghouls moving towards the noise of combat. In the silence that follows, a rhythmic thudding echoes from the passage ahead; with the dungeon fully alerted and no safe rest in sight, the party advances as our session ends.
 
 %% Feb 16th 2026%%
 
@@ -92,3 +95,20 @@ decide not to short rest (too dangerous)
 end session as the party proceeds up the path to the boss fight
 
 RAW NOTES END %%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Recorded the session viewpoint as DR 1715.
+- Reordered the frontmatter fields.
+- Corrected the stray space before a period and the missing “of” in the fireball passage.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Warning — correctness.internal_conflict:** The session title and header call the hill-fort “Serenwyth Tor,” while the opening summary, Places and [[Serethwyn Tor]] use “Serethwyn Tor.” If the title is a spelling error, use “The Depths of Serethwyn Tor” in both title fields.
+- [ ] **Suggestion — editorial.shared_material_redundant:** The hidden date repeats the real-world date in the header. The “RAW NOTES” block repeats the route, the failed spike, both ghoul fights and the thudding sound. Remove the duplicate date and, if condensing the raw block, retain the distinct action details as source notes.
+%%^End%%

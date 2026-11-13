@@ -1,6 +1,7 @@
 ---
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
-name: Dunmari Frontier - Delwath Solo Session 2
 campaign: Dunmari Frontier
 sessionNumber: 54
 realWorldDate: 2022-08-05
@@ -9,6 +10,8 @@ DR_end: 1748-10-09
 players: [Delwath, Aristaea, Iascaire]
 tagline: in which ancient battles haunt the present
 descTitle: Shadows of the Fallen
+name: Dunmari Frontier - Delwath Solo Session 2
+POV: 1748
 ---
 # Dunmari Frontier - Delwath Solo Session 2
 
@@ -40,14 +43,14 @@ We begin in the hunting camp, where [[Delwath]] meets [[Aristaea]] and [[Iascair
 
 After looking at some maps and discussing routes, the group decides to head for the Battle without Hope first. Traveling through the [[Forest of Nightmares]] is eerie, for there is almost no sound, no animals, just the occasional creak of the trees in the wind and the whisper of ghosts in the distance, the occasional hint out of the corner of your eye that something is moving in the distance. 
 
-The battlefield on which the Battle without Hope was fought is now a deserted, abandoned Deno'qai village, a small collection of huts in a clearing in the woods. But there are odd signs of a simlacrum of life: clothes still on a line, rotting away but neatly hung, a fire pit where bones have been piled but there is no fuel or meat to cook. 
+The battlefield on which the Battle without Hope was fought is now a deserted, abandoned Deno'qai village, a small collection of huts in a clearing in the woods. But there are odd signs of a simulacrum of life: clothes still on a line, rotting away but neatly hung, a fire pit where bones have been piled but there is no fuel or meat to cook.
 
 In the village, the party encounters flashbacks of the past, of the battle that happened here. [[Aristaea]] sees the central green filled with warriors prepared for battle, when hundreds and hundreds of [[Hobgoblins]] accompanied by flying demons emerge from shadow portals and attack. An air of malaise hangs over the village and infects the warriors, for they don't attack, just stand waiting to be slaughtered. The only one who reacts is the priest, who shapeshifts into a giant bird to battle the hobgoblin commander, who is wearing one of [[Cha'mutte’s Shadow Armband|Cha'mutte's Shadow Armbands]]. 
 
 The vision fades as the rest of the party fights a shadow creature with long spikes for arms. As the shadow creature is killed, and the party continues to explore, another vision, this time experienced by [[Delwath]]. The battle continuing, the tanshi bolstering the Godcaller, fighting across the village square with the hobgoblin commander. 
 
-This continues, exploring the village and fighting with nightmare visions of the past, while the occasional creature of sorrow and despair attacks, and eventually the party pieces together the scene of battle, that the Godcaller fought the commander to a standstill, but the hobgoblin wizard spoke a word and struck him dead. As the Godcaller falls, two spirits -- tanshi -- attack the wizard, striking him down, but vanishing as they struggle to remove the armband from the hobgoblin's dead body. Identifying the location where the wizard fell, the party digs up his dead body after killing more of the sorrow creatures, and destroys the armband with [[Iascaire]]'s fire magic, freeing [[Yalik'i]] and[[Nisir]]
+This continues, exploring the village and fighting with nightmare visions of the past, while the occasional creature of sorrow and despair attacks, and eventually the party pieces together the scene of battle, that the Godcaller fought the commander to a standstill, but the hobgoblin wizard spoke a word and struck him dead. As the Godcaller falls, two spirits -- tanshi -- attack the wizard, striking him down, but vanishing as they struggle to remove the armband from the hobgoblin's dead body. Identifying the location where the wizard fell, the party digs up his dead body after killing more of the sorrow creatures, and destroys the armband with [[Iascaire]]'s fire magic, freeing [[Yalik'i]] and [[Nisir]].
 
-After a short rest, the party then heads to the Battle of Darkfire. Approaching the battlefield, the party sees the vast body of a dead demon lying a clearing, [[Cha'mutte’s Shadow Armband]] around his wrist. Beginning to approach, the trees and beasts of the forest, flush with demonic energy, attack. The trees are vulnerable to [[Iascaire]]'s fire, and [[Delwath]] uses the magic of [[Narengril]] to create a magic circle impenetrable by demons. Still, the battle is difficult, as the armband cannot be harmed by fire while on the demon's wrist. Eventually, [[Delwath]]'s shadow beast severs the armband from the demon's wrist, and [[Iascaire]] is able to destroy the armband with fire before the party is overwhelmed, freeing [[Yezali]]. 
+After a short rest, the party then heads to the Battle of Darkfire. Approaching the battlefield, the party sees the vast body of a dead demon lying in a clearing, [[Cha'mutte’s Shadow Armband]] around his wrist. Beginning to approach, the trees and beasts of the forest, flush with demonic energy, attack. The trees are vulnerable to [[Iascaire]]'s fire, and [[Delwath]] uses the magic of [[Narengril]] to create a magic circle impenetrable by demons. Still, the battle is difficult, as the armband cannot be harmed by fire while on the demon's wrist. Eventually, [[Delwath]]'s shadow beast severs the armband from the demon's wrist, and [[Iascaire]] is able to destroy the armband with fire before the party is overwhelmed, freeing [[Yezali]].
 
 We end the session as the party retreats to rest in the safety of the [[Ko'zula]] forests. 

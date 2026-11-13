@@ -1,11 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 displayDefaults: {defArt: ""}
+tags: [session-note, status/check/lint]
 DR: 1748-04-24
 DR_end: 1748-06-03
-campaign: Oskar's Adventures
+campaign: "Oskar's Adventures"
 name: Oskar in Tharn Todor
+POV: 1748
 ---
 # Oskar in Tharn Todor
 >[!info]+ Information  
@@ -19,9 +22,9 @@ After [[Riswynn]] returned to [[Tharn Todor]] with the [[Shield of the Brawnanvi
 
 ## Episode 1: The Sleeping Aboleth
 
-Riswynn meets Oskar and Agnor at the [[The Red Shield]], a tavern owned by [[Oskar]]'s family in [[Tharn Todor]], to discuss news from [[Bailon]], the forewoman of one of the deep mines beneath the city. She reports that several of her dwarves are trapped, and she is hoping that [[Oskar]] and his companions will investigate. Descending deep below the city, [[Oskar]] and his companions find a strange chamber, where they defeat a haunted slime creature, discover the ancient remains of the aboleth [[Xeron]], now content to slumber undisturbed, and rescue most of the lost dwarves. 
+Riswynn meets Oskar and Agnor at [[The Red Shield]], a tavern owned by [[Oskar]]'s family in [[Tharn Todor]], to discuss news from [[Bailon]], the forewoman of one of the deep mines beneath the city. She reports that several of her dwarves are trapped, and she is hoping that [[Oskar]] and his companions will investigate. Descending deep below the city, [[Oskar]] and his companions find a strange chamber, where they defeat a haunted slime creature, discover the ancient remains of the aboleth [[Xeron]], now content to slumber undisturbed, and rescue most of the lost dwarves.
 
-- (DR:: 1748-05-09): [[Riswynn]] meets [[Oskar]] and [[Agnor]] at [[The Red Shield]]and learns of strange happenings below Tharn Todor. 
+- (DR:: 1748-05-09): [[Riswynn]] meets [[Oskar]] and [[Agnor]] at [[The Red Shield]] and learns of strange happenings below Tharn Todor.
 - (DR:: 1748-05-10): [[Riswynn]], [[Oskar]], and [[Agnor]] defeat a haunted slime monster in mines beneath Tharn Todor and discover the ancient remains of the aboleth [[Xeron]].
 - (DR:: 1748-05-11): [[Riswynn]], [[Oskar]], and [[Agnor]] return to [[Tharn Todor]]
 
@@ -34,7 +37,7 @@ The next morning, [[Riswynn]] and [[Oskar]] set out for the mountains, heading t
 - (DR:: 1748-04-24): A strange meteor crashes in [[Yuvanti Mountains]]
 - (DR:: 1748-05-14): A strange, almost angelic humanoid staggers down the mountain and speaks to [[Ken-to]]
 - (DR:: 1748-05-18): [[Ken-to]] arrives in [[Tharn Todor]], gives [[Riswynn]] and [[Oskar]] news of the strange meteor and wounded [[Deva|angelic creature]], and asks for help.
-- (DR:: 1748-05-19): [[Riswynn]], [[Ken-to]], and [[Oskar]] travel to [[Ken-to]]'s hut to investigate situation, and defeat a devil who is trying to summon more fiends.
+- (DR:: 1748-05-19): [[Riswynn]], [[Ken-to]], and [[Oskar]] travel to [[Ken-to]]'s hut to investigate the situation, and defeat a devil who is trying to summon more fiends.
 
 ## Episode 3: The Cultist's Cave
 
@@ -46,4 +49,18 @@ Several merchant families in [[Tharn Todor]] ask [[Riswynn]] and [[Oskar]] to in
 - (DR:: 1748-06-01): [[Riswynn]] and [[Oskar]] part ways with [[Ghemdorn]] and [[Eva]] in the morning, to begin their journey back.
 - (DR:: 1748-06-03): [[Riswynn]] and [[Oskar]] arrive back in [[Tharn Todor]].
 
+%%^Lint%%
+## Taelgar note lint
 
+### Applied changes
+- Added `POV: 1748`.
+- Corrected `at the [[The Red Shield]]` → `at [[The Red Shield]]`, `[[The Red Shield]]and` → `[[The Red Shield]] and`, `to investigate situation` → `to investigate the situation`.
+- Normalized frontmatter order and collection formatting.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Warning — chronology.internal_conflict:** The information callout starts April 4. The frontmatter and the first dated event, the meteor’s fall, both give April 24. Verify the intended start, then refresh the callout. If the metadata is correct, the date range should read “Apr 24, 1748 DR to June 3, 1748 DR.”
+%%^End%%

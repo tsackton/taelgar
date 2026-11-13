@@ -1,6 +1,8 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [session-note, status/check/lint]
 campaign: Dunmari Frontier
 sessionNumber: 67
 realWorldDate: 2022-12-04
@@ -10,6 +12,7 @@ players: [Seeker, Caulaus, Kenzo, Wellby]
 tagline: in which the party confronts Agata Dustmother for a second time
 descTitle: Feywild Deception
 name: Dunmari Frontier - Session 67
+POV: 1748
 ---
 # Dunmari Frontier - Session 67
 
@@ -31,7 +34,7 @@ The [[Dunmar Fellowship]] discovers Typhina's true identity as [[Agata|Agata Dus
 
 ### Timeline
 - (DR:: 1748-11-13), on the material plane; **Evening, in the feywild**: Raven and Spirala depart to return to [[Shimmersong]]. Seeker is reunited with Wellby and Kenzo, who are introduced to Caulaus. 
-- (DR:: 1748-11-14)on the material plane; **Evening in the Feywild**: The group leaves for Heartwood Grove to restore Typhinia. Encounter harpies, and meet a water nymph. At the Heartwood Grove, Seeker restores Typhinia, only to find that she is actually [[Agata]] Dustmother in disguise. Defeat [[Agata]]; imprison her in the Heartwood Grove. Caulaus volunteers to stay as a guardian until he can make amends to the [[Cloudspinner]]. 
+- (DR:: 1748-11-14), on the material plane; **Evening in the Feywild**: The group leaves for Heartwood Grove to restore Typhinia. Encounter harpies, and meet a water nymph. At the Heartwood Grove, Seeker restores Typhinia, only to find that she is actually [[Agata]] Dustmother in disguise. Defeat [[Agata]]; imprison her in the Heartwood Grove. Caulaus volunteers to stay as a guardian until he can make amends to the [[Cloudspinner]].
 - (DR:: 1748-11-15), sunset: Exit the Feywild at [[Lastlight Falls]]; see Delwath and Riswynn.
 
 ## Narrative
@@ -42,12 +45,12 @@ Our session begins at [[Lastlight Falls]] in the fey realm of [[Amberglow]], whe
 
 [[Kenzo]] and [[Wellby]] are introduced to [[Caulaus]], which involves a bit of discussion over [[Caulaus]]' evident confusion over the current time. [[Caulaus]] speaks of [[Drankor]], and a battle against dragons, and fleeing. But even after questioning, he remembers little else: his appointment ceremony with [[Helea]], a feast with [[Elves|elves]] perhaps on the frontier somewhere, but no details the party asks after. 
 
-As [[Seeker]], [[Wellby]], and [[Kenzo]] great each other in reunion, attention turns to [[Typhina]], who warns [[Seeker]] telepathically that there are dangers here, and she has enemies. The grove she defended, and the place where she claims she can be resurrected, is near, and she suggests heading there quickly, as [[Wellby]] spies flying creatures in the distance, but closing fast. 
+As [[Seeker]], [[Wellby]], and [[Kenzo]] greet each other in reunion, attention turns to [[Typhina]], who warns [[Seeker]] telepathically that there are dangers here, and she has enemies. The grove she defended, and the place where she claims she can be resurrected, is near, and she suggests heading there quickly, as [[Wellby]] spies flying creatures in the distance, but closing fast.
 
 The party sets off at a quick pace, hoping to outrun the creatures, while [[Typhina]] describes the Heartwood Grove and the tree of the essence of wood. However, the creatures gain, slowly but surely, and the party is forced to find a defensible position, recognizing they are harpies. The battle is not that difficult, except that [[Seeker]] is lured and charmed by them, as they keep insisting that he give them [[Agata|Dasoclese]] (which [[Typhina]] says is her name, here, once, long ago). It seems they are seeking revenge against her, for some slight in the distant past. Still, the battle progresses, and as the harpies die one by one, they shift their forms into [[Fey]] women of different forms. As some turn to flee and [[Kenzo]] stuns the rest, the battle ends. 
 
-The party bargins to exchange the answers to three questions, and agreeing not to use her charms or songs on any of them for a day, for the lives of the remaining harpies. From the harpies, they learn that Dasocles is an ancient fey, who once claimed to be a guardian of these parts. The harpies seek revenge on her, for the wrongs she did to their people. And they do not know how to end their curse, except perhaps should the [[Cloudspinner]] return. 
-[[Typhina]] explains some of her history with the harpies, and claims not to have cursed them; instead, she simply kept them from the forest as gently as she could (although later relevalations call the true of this into question). 
+The party bargains to exchange the answers to three questions, and agreeing not to use her charms or songs on any of them for a day, for the lives of the remaining harpies. From the harpies, they learn that Dasocles is an ancient fey, who once claimed to be a guardian of these parts. The harpies seek revenge on her, for the wrongs she did to their people. And they do not know how to end their curse, except perhaps should the [[Cloudspinner]] return.
+[[Typhina]] explains some of her history with the harpies, and claims not to have cursed them; instead, she simply kept them from the forest as gently as she could (although later revelations call the truth of this into question).
 From here, the party proceeds, crossing the dry riverbed of the River of Time that no longer flows here, and finding the grotto of the nymph [[Melusine]], supposedly an old friend and ally of [[Typhina]].
 
 ![[dufr-067-amberglow-nymph-grotto.png|600]]
@@ -56,8 +59,27 @@ The party speaks with [[Typhina]] and [[Melusine]], about [[Agata]], and the fey
 The party arrives in the grove, seeing the massive tree before them, and [[Seeker]] steps forward to give the [[Ring of the Warded Mind]] to the tree, when evil laughter begins to echo through the woods. Emerging from the ring, reformed, is not [[Typhina]], but [[Agata]] Dustmother, who has been pretending to be [[Typhina]] for months. 
 
 ![[dufr-067-amberglow-heartwood-grove.png|600]]
-[[Agata]] greets the party cheerfully, thanking them for the chaos they have caused in her name ("The best civil war is always one where every side believes they are righteous"), and offers to send them back to the [[Material Plane]]. Before she can finish speaking, [[Wellby]] attacks, and the battle is joined. The party, however, has gotten much stronger since they last faced [[Agata]], and she does not present a lethal danger. [[Caulaus]] with his echo deal an incredible amount of damage, including the killing blow, aided by [[Kenzo]]'s stunning strike.
+[[Agata]] greets the party cheerfully, thanking them for the chaos they have caused in her name ("The best civil war is always one where every side believes they are righteous"), and offers to send them back to the [[Material Plane]]. Before she can finish speaking, [[Wellby]] attacks, and the battle is joined. The party, however, has gotten much stronger since they last faced [[Agata]], and she does not present a lethal danger. [[Caulaus]] with his echo deals an incredible amount of damage, including the killing blow, aided by [[Kenzo]]'s stunning strike.
 
 [[Kenzo]] speaks with the elder tree of the grove, asking what is to be done. The grove asks for a new guardian, and [[Caulaus]] agrees to take on the role, until the [[Cloudspinner]] returns and he can make amends for the wrongs he cannot remember. And so [[Agata]] is imprisoned in a tree, a fate she imposed on so many, and the party listens to [[Caulaus]]' story before they leave, which [[Kenzo]] [[Caulaus' Story|records]].
 
 We end the session as the party returns to [[Lastlight Falls]] and exits the [[Feywild]] at sunset, to see [[Delwath]] camped, waiting for them on the other side. 
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Recorded the session viewpoint as DR 1748.
+- Corrected the following in the visible recap: “1748-11-14)on” to “1748-11-14), on”, “great each other” to “greet each other”, “party bargins” to “party bargains”, “later relevalations call the true” to “later revelations call the truth”, “with his echo deal” to “with his echo deals”.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Suggestion — campaign.noncanonical_name:** The campaign registry recognizes “Dunmari Frontier” as an alias. Use the canonical long name in this field: `campaign: Dunmar Frontier`.
+
+- [ ] **Suggestion — editorial.prose_clarity:** The timeline spells Typhina “Typhinia” twice and the narrative alternates between “Dasoclese” and “Dasocles.” Use “Typhina” in both timeline entries and “Dasoclese” for the name given by the harpies, matching [[Typhina]] and the historical alias in [[Agata]].
+
+- [ ] **Warning — editorial.attribution:** The summary places Riswynn and Delwath at Lastlight Falls, while the closing narrative identifies only Delwath waiting at the camp. The session transcript (u3157–u3184) shows Delwath at the tent. The narrower summary supported by that scene is “The party exits the Feywild at Lastlight Falls and finds Delwath camped there.”
+%%^End%%

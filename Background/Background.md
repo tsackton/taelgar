@@ -1,13 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [meta]
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [meta, status/check/lint]
 noPublish: true
+name: Background
 dm_owner: none
 dm_notes: none
+POV: undated
 ---
 # Background
 
-This directory generally should contain **meta** pages almost exclusively. Not intended to be published, but rather intended to be a place to store canonical information that informs worldbuliding but is not directly player-facing. 
+This directory generally should contain **meta** pages almost exclusively. Not intended to be published, but rather intended to be a place to store canonical information that informs worldbuilding but is not directly player-facing.
 
 ## Note Categories
 
@@ -141,3 +145,22 @@ SORT length(file.inlinks) DESC
 
 ```
 
+%%^povNotes:v1%%
+Temporal coverage: the directory guide describes vault organization and has no in-world reading date.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Recorded the page title as its explicit name and its out-of-world viewpoint as undated.
+- Corrected “worldbuliding” to “worldbuilding.”
+
+### Validated judgments
+- [[Vault Organization]] confirms the stated purpose of the Background directory.
+
+### Open findings
+
+- [ ] **Warning — correctness.cross_note_conflict:** “Nonstandard DM Owner” lists only five valid owners and will flag four values accepted by [[Note Status]]. Update its description to “Pages with a missing or unrecognized DM owner” and its filter to `where !contains(["tim", "mike", "joint", "player", "none", "schwartz", "kong", "eric", "isaac"], dm_owner)`.
+- [ ] **Warning — correctness.internal_conflict:** The “Publishable Pages” queries ignore `noPublish`. The first table therefore includes this guide, which sets `noPublish: true` and explicitly disclaims publication. Add `!noPublish AND` before the existing condition in each of the two publication queries so a page marked as unpublished appears in neither list.
+%%^End%%

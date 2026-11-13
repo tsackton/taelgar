@@ -1,10 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [session-note, status/check/lint]
 campaign: Great Library
 DR: 1747-10-07
 DR_end: 1747-12-24
 name: Chronicles of the Quest to Defeat the Cursed Cold
+POV: 1747
 ---
 # Chronicles of the Quest to Defeat the Cursed Cold
 
@@ -13,7 +16,7 @@ Celebrated as heroes in [[Voltara]] after providing [[Great Library Session Note
 ## Adventure 15: Meeting the Parents (Brelith Edition)
 ### Session 38
 
-The party spends a month in [[Voltara]], and are the talk of the town. They are gifted a [[Tempest Towers|manor]] inside the walls by [[Anton Lavernia]], and spend time training and enjoying the life of a hero in the city. Once the legions from the south arrive to protect to the city, they leave, heading east towards the [[Sentinel Range|mountains]] of [[Am'khazar|Brelith’s home]]. As they head east, they first pass through the farmlands and pastures of the [[Voltara]] hinterlands, until they come to a [[Snake River Fort|small fort]] on a [[Snake River|river]] crossing, beyond which is mostly wild. They are warned at the fort that people have gone missing heading east, especially a high ranking officer who was supposed to bring messages to the garrison camps to the east, and to watch for danger. The next day as they head across the plains, they are attacked by a band of 20 orcs. Despite a few challenges, the orcs are defeated.
+The party spends a month in [[Voltara]], and are the talk of the town. They are gifted a [[Tempest Towers|manor]] inside the walls by [[Anton Lavernia]], and spend time training and enjoying the life of a hero in the city. Once the legions from the south arrive to protect the city, they leave, heading east towards the [[Sentinel Range|mountains]] of [[Am'khazar|Brelith’s home]]. As they head east, they first pass through the farmlands and pastures of the [[Voltara]] hinterlands, until they come to a [[Snake River Fort|small fort]] on a [[Snake River|river]] crossing, beyond which is mostly wild. They are warned at the fort that people have gone missing heading east, especially a high ranking officer who was supposed to bring messages to the garrison camps to the east, and to watch for danger. The next day as they head across the plains, they are attacked by a band of 20 orcs. Despite a few challenges, the orcs are defeated.
 
 ### Session 39
 
@@ -39,7 +42,7 @@ The party engages in battle with the giant spider in her lair. Shortly into the 
 - (DR:: 1747-11-23): Return to [[Raha]]. 
 - (DR:: 1747-11-24): Set out on journey to [[Zarkandur]], the City of Gems, and Brelith's home. 
 - (DR:: 1747-11-30): Pass [[Tirnessa|elven ruins]], nearly killed by banshees. 
-- (DR:: 1747-12-03): Arrive at the the [[Thordun|gates]] to [[Am'khazar]].
+- (DR:: 1747-12-03): Arrive at the [[Thordun|gates]] to [[Am'khazar]].
 ## Adventure 16: Why Is Everything So Cold?
 ### Session 42
 
@@ -55,17 +58,17 @@ The party struggles with the extreme cold of the mountains, but manages to find 
 
 ### Session 45
 
-The party continues to explore the cave complex, encountering another beserk humanoid who seemingly cannot die. They run around for a while, confused, trying to avoid him. Eventually they discover a passage leading to the bedroom complex, which crosses a crevasse of ice on a wooden plank. Finally they manage to trap the beserker at the bottom of the crevasse, and explore. They find a room with a stone floor, and a stone chalice in which a cold blue flame burns. 
+The party continues to explore the cave complex, encountering another berserk humanoid who seemingly cannot die. They run around for a while, confused, trying to avoid him. Eventually they discover a passage leading to the bedroom complex, which crosses a crevasse of ice on a wooden plank. Finally they manage to trap the berserker at the bottom of the crevasse, and explore. They find a room with a stone floor, and a stone chalice in which a cold blue flame burns. 
 
 ### Session 46
 
-Eventually realize that putting out the flame stops the beserkers endless life feature, [[Brelith]] uses stone shape to melt away the stone chalice, which extinguishes the fire, and allows the berserker to be quickly killed. Heading into the snow, the party decides to travel across the glacier towards the location where the [[Stoneborn]] village seems to be. On the way, they are attacked by a group of ice humanoids using druid-like powers. While they manage to drive them off, one gets away. The party continues to the Stoneborn village, where they see a [[Moondweller|lone Stoneborn]] meditating.
+Eventually realizing that putting out the flame stops the berserker’s endless life feature, [[Brelith]] uses stone shape to melt away the stone chalice, which extinguishes the fire, and allows the berserker to be quickly killed. Heading into the snow, the party decides to travel across the glacier towards the location where the [[Stoneborn]] village seems to be. On the way, they are attacked by a group of ice humanoids using druid-like powers. While they manage to drive them off, one gets away. The party continues to the Stoneborn village, where they see a [[Moondweller|lone Stoneborn]] meditating.
 
 ### Session 47
 
 The party meets [[Moondweller]], the [[Stoneborn]]. From him, they learn that while the [[Giants|frost giants]] once were valued trading partners, some have turned to the side of evil and are working for a hag, [[Morgana Stoneclaw|Morgana Frostclaw]]. The hag has taken control of the ice magic buried at the heart of the glacier and is using it to freeze everything. To stop it, they must kill the hag, or at least free the ice magic. 
 
-The party sleeps, and departs in the morning to [[Vangebekkr]], the frost giant castle. They approach with moderate stealth, and decide to sneak around the back and climb up to the roof. [[Adrik]] and [[Aelar]] reach the top first, and comes face to face with a giant frost giant skeleton. After some fast attacking and a well-timed stun from [[Aelar]], the giant dies before it can sound the alarm.
+The party sleeps, and departs in the morning to [[Vangebekkr]], the frost giant castle. They approach with moderate stealth, and decide to sneak around the back and climb up to the roof. [[Adrik]] and [[Aelar]] reach the top first, and come face to face with a giant frost giant skeleton. After some fast attacking and a well-timed stun from [[Aelar]], the giant dies before it can sound the alarm.
 
 ### Session 48
 
@@ -97,5 +100,20 @@ Return to the Dwarven city of [[Zarkandur]], now freed from its winter curse. Bi
 - (DR:: 1747-12-13): Arrive in [[Tumukhar]], explore. Fight ice mephits, snow golems, and an ice troll. Exit the city to the barren snowy wasteland of the [[Sentinel Range|Sentinels]]. Find a sheltered place to camp. 
 - (DR:: 1747-12-14): Head towards [[Stoneborn]] village to learn more. Struggle with the snow. Fight some frost-cursed creatures chanting about ice. [[Adrik]] picks up a ring and the party is teleported to an icy cave complex. Explore for a while, fighting a berserker human who cannot die. Trap him, and eventually extinguish icy blue flame, which allows berserker to be killed. 
 - (DR:: 1747-12-15): Leave for [[Vangebekkr]], an old frost giant castle. Attempt a stealthy assault, which goes poorly. Flee on mammoths. Find safe camp. 
-- (DR:: 1747-12-16): Return to castle, this time using magic to ensure a more stealthy approach. Free imprisoned giants who head to retake castle. Party enters [[Morgana Stoneclaw|Morgana]].'s lair. Kill a frost giant zombie, then attacked by a polar wereboar and [[Morgana Stoneclaw|Morgana]] herself. Kill Morgana, but not before [[Adrik]] is cursed with lycanthropy. Rest. 
+- (DR:: 1747-12-16): Return to castle, this time using magic to ensure a more stealthy approach. Free imprisoned giants who head to retake castle. Party enters [[Morgana Stoneclaw|Morgana]]'s lair. Kill a frost giant zombie, then attacked by a polar wereboar and [[Morgana Stoneclaw|Morgana]] herself. Kill Morgana, but not before [[Adrik]] is cursed with lycanthropy. Rest.
 - (DR:: 1747-12-24): Party returns to [[Zarkandur]], victorious. Celebrate. 
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Recorded `POV: 1747` from the dated session account.
+- Corrected “protect to the city” to “protect the city”, “at the the [[Thordun” to “at the [[Thordun”, “another beserk humanoid” to “another berserk humanoid”, “trap the beserker” to “trap the berserker”, “Eventually realize that putting out the flame stops the beserkers endless life feature” to “Eventually realizing that putting out the flame stops the berserker’s endless life feature”, “reach the top first, and comes face” to “reach the top first, and come face”, “Morgana]].'s lair” to “Morgana]]'s lair”.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Warning — correctness.internal_conflict:** Session 50 says the party avoids the frost giant zombie and fights a were-polar bear. The December 16 event says they kill the zombie and fight a polar wereboar. [[Great Library Session Notes - Arc 4]] records Adrik subsequently turning into a polar werebear. Confirm the zombie’s fate and the attacker’s identity. If Session 50 is authoritative, use “Avoid a frost giant zombie, then face a polar werebear and [[Morgana Stoneclaw|Morgana]] herself.”
+%%^End%%

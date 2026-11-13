@@ -1,6 +1,7 @@
 ---
-tags: [session-note]
-name: Dunmari Frontier - Session 124
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [session-note, status/check/lint]
 campaign: Dunmari Frontier
 sessionNumber: 124
 realWorldDate: 2025-05-13
@@ -9,6 +10,8 @@ DR_end: 1749-06-27
 players: [Delwath, Kenzo, Wellby, Riswynn, Seeker]
 tagline: in which the party catches up on news and heads for Chardon
 descTitle: Rumors and Riots
+name: Dunmari Frontier - Session 124
+POV: 1749
 ---
 # Dunmari Frontier - Session 124
 
@@ -48,7 +51,7 @@ Returning to [[Vindristjarna]], the [[Dunmar Fellowship]] enjoys a rare respite,
 - (DR:: 1749-06-23):  Look at the spellbook recovered from the [[Elemental Forge]] in the [[Mirror of the Past]], seeing [[Elemental Forge Spellbook Vision]] (recharge:: mirror)
 ## Narrative
 
-Our session begins as the party returns to [[Vindristjarna]], drifting over [[Pava and Avaras' House]] on the edge of the [[Garamjala Desert]], after weeks of adventuring in the strange light and twisted hours of the [[Feywild]]. The party spends the day at ease: for the first time in months, no shadow pressed the group, no urgent mission required immediate action. [[Wellby]] watched as [[Baxter]] raced after desert lizards; [[Kenzo]] mediated and reconnected with his teachers, [[Pava]] and [[Avaras]], and his student, [[Amil]]; [[Delwath]] relaxed and looked to provisions for an evening feast; [[Seeker]] disappeared below decks, eager to pore over his recovered tomes on the Plane of Fire and plot a path to find his lost brother. 
+Our session begins as the party returns to [[Vindristjarna]], drifting over [[Pava and Avaras' House]] on the edge of the [[Garamjala Desert]], after weeks of adventuring in the strange light and twisted hours of the [[Feywild]]. The party spends the day at ease: for the first time in months, no shadow pressed the group, no urgent mission required immediate action. [[Wellby]] watched as [[Baxter]] raced after desert lizards; [[Kenzo]] meditated and reconnected with his teachers, [[Pava]] and [[Avaras]], and his student, [[Amil]]; [[Delwath]] relaxed and looked to provisions for an evening feast; [[Seeker]] disappeared below decks, eager to pore over his recovered tomes on the Plane of Fire and plot a path to find his lost brother.
 
 [[Riswynn]], newly whole, donned the once-troubled crown without strain; its discordant magic had quieted, allowing her fresh clarity. She spoke with [[Kethra]] and the orc sisters, [[Nuzkar]] and [[Aygul]], inviting discussion about their aims for liberating orcs from [[Thark]], the conversation marking the beginning of a broader campaign and the start of her quest to use the powers of the [[Crown of Purity]] for a noble purpose. 
 
@@ -131,3 +134,20 @@ With these matters settled, the party continued on their careful course, steerin
 - Delwath contacts Marcella in a dream for insights on Hector and news from Chardon; Marcella confirms Fausto's demise and reminisces about Hector's kinder past
 
 %%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added `POV: 1749` for the dated session.
+- Corrected “mediated” to “meditated” in the account of Kenzo’s downtime.
+- Normalized frontmatter formatting.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Suggestion — campaign.noncanonical_name:** The campaign field uses the registered alias “Dunmari Frontier.” Use the canonical field value `campaign: Dunmar Frontier`.
+- [ ] **Suggestion — editorial.shared_material_redundant:** The final commented “Detailed Summary” repeats the return to the ship, the dream conversation with Xavier, Riswynn’s departure, and the prisoners’ interviews. Remove those repeated beats from the comment and retain the distinct table discussion and prospective plans as private notes.
+%%^End%%

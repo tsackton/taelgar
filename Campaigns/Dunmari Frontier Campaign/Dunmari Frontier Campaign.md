@@ -1,6 +1,11 @@
 ---
-tags: [meta]
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [meta, status/check/lint]
 hide: [toc]
+campaign: Dunmar Frontier
+name: Dunmari Frontier Campaign
+POV: 1740s
 ---
 
 The Dunmari Frontier Campaign tells the story of the adventures of [[Delwath]], [[Kenzo]], [[Seeker]], and [[Wellby]], along with their frequent companion [[Riswynn]], sometimes known as the [[Dunmar Fellowship]]. 
@@ -26,4 +31,18 @@ Dunmar Campaign cleanup / to do list
 - [x] Clean up follower pages and figure out how to organize (probably should be via the Dunmar Fellowship page, not this page)
 - [x] Clean up Vindristjarna details and figure out how to organize (bastion rules, other mechanics, and in-world history as three separate notes is main idea)
 
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added `campaign: Dunmar Frontier`,  `name: Dunmari Frontier Campaign`,  `POV: 1740s`.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Suggestion — link.unresolved:** The session index points to `sessions.md`, a website navigation destination absent from the campaign folder. Test the published destination before changing it. For navigation within Obsidian, use [[Dunmari Frontier Sessions|Sessions]].
 %%^End%%

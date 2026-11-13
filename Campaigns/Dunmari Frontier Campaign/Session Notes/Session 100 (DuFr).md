@@ -1,4 +1,6 @@
 ---
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
 campaign: Dunmari Frontier
 sessionNumber: 100
@@ -6,9 +8,10 @@ realWorldDate: 2024-05-28
 DR: 1749-05-11
 DR_end: 1749-05-11
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
-name: Dunmari Frontier - Session 100
 tagline: in which the party scouts an abandoned merfolk city
 descTitle: Descent into Omi
+name: Dunmari Frontier - Session 100
+POV: 1749
 ---
 # Dunmari Frontier - Session 100
 
@@ -33,7 +36,7 @@ The Dunmar Fellowship scouts the underwater city of Omi, locates a portal, and f
 ### Timeline
 - (DR::1749-05-11), morning: Pass through the [[Sentient Ocean]] guarding the [[Merfolk]] city of [[Omi]]. Scout the city. Find a portal to the [[Elemental Plane of Water]]. Plan how to get past the guardian. 
 ## Narrative
-The session begins underwater, as the party begins to sink, the water growing darker and more surreal as the party descends below the surface, using their magical gills from [[Kazuro]]'s potion to breath (except [[Kenzo]], who has his cloak of the mantra ray). 
+The session begins underwater, as the party begins to sink, the water growing darker and more surreal as the party descends below the surface, using their magical gills from [[Kazuro]]'s potion to breathe (except [[Kenzo]], who has his cloak of the manta ray).
 
 ![[dufr-100-sentient-ocean.png]]
 
@@ -54,4 +57,3 @@ There are several archways leading into the central room, which contains the por
 The session ends as the party makes a plan of attack. 
 
 ## Transcript
-

@@ -1,5 +1,7 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
 campaign: Lost in the Feywild
 sessionNumber: 1
@@ -7,12 +9,13 @@ realWorldDate: 2026-05-14
 DR: 1740-10-03
 DR_end: 1740-10-05
 players: [Kaito Min, Edric, Tarek, Ayveen, Txarro]
-name: "Lost in the Feywild: Episode 01"
-descTitle: "Welcome to Dandelion House"
-tagline: "in which the party enters a mysterious tunnel"
+descTitle: Welcome to Dandelion House
+tagline: in which the party enters a mysterious tunnel
 sessionKey: lost-in-the-feywild-session-1
 session-template: feywild-template.md
 websiteSessionView: zoomable
+name: "Lost in the Feywild: Episode 01"
+POV: 1740
 ---
 # Lost in the Feywild: Episode 01
 
@@ -48,7 +51,7 @@ The party follows [[Alden]] to [[Dandelion House]], where they accept Lord Hulda
 
 Our session begins as the party is traveling west from Tollen, guided by [[Alden]] -- a small, stout, pale human with a curiosity about the party and a phobia of fire -- to an old property at the end of the wilderness recently inherited by a longtime adventurer. 
 
-The group is a found-family band of misfits: skeptical, generous, opportunistic, anxious, and fond of one another. Around the campfire, [[Txarro]] prepares fish and recalls being rescued from tree blights by Kaito and [[Tarek]]; Kaito and [[Tarek]] sketch out their carny and pickpocket routines; Edric's awkward generosity and faith in [[The Night Queen|the Night Queen]] comes into focus; and [[Ayveen]] frames the party as people who can make the world brighter. Over dinner, [[Alden]] asks about their last job together, when an elf in Tollen hired them to recover old books from an ettin. They each tell a different version of the story: Kaito remembers profit and clean clothes; [[Edric]] remembers enemies who ran instead of dying; [[Tarek]] remembers salvage; [[Txarro]] remembers becoming a tiger; and [[Ayveen]] sees teamwork. 
+The group is a found-family band of misfits: skeptical, generous, opportunistic, anxious, and fond of one another. Around the campfire, [[Txarro]] prepares fish and recalls being rescued from tree blights by Kaito and [[Tarek]]; Kaito and [[Tarek]] sketch out their carny and pickpocket routines; Edric's awkward generosity and faith in [[The Night Queen|the Night Queen]] come into focus; and [[Ayveen]] frames the party as people who can make the world brighter. Over dinner, [[Alden]] asks about their last job together, when an elf in Tollen hired them to recover old books from an ettin. They each tell a different version of the story: Kaito remembers profit and clean clothes; [[Edric]] remembers enemies who ran instead of dying; [[Tarek]] remembers salvage; [[Txarro]] remembers becoming a tiger; and [[Ayveen]] sees teamwork.
 
 [[Alden]] then speaks of [[Dandelion House]] with rapturous but genuine emotion -- Kaito's surreptitious Detect Thoughts spell finds joy, delight, longing, and nostalgia. As the party drifts off to rest, the night passes uneventfully.
 
@@ -58,7 +61,7 @@ The group is a found-family band of misfits: skeptical, generous, opportunistic,
 
 Morning brings a long march through ancient forest. The trail slowly fades away, the forest grows quieter, the shadows gather. Just before sunset, the party passes through a ruined gate and over barely-visible remnants of an ancient wall and moat long since swallowed by forest. The forest opens into a wildly overgrown field and the House itself, blazing bright in the last light of day.
 
-[[Dandelion House]] is a marvel of late-Drankorian architecture -- at least 700 years old. Detect Magic suggests some kind of preservation magic woven through the much of the structure, but Kaito becomes increasingly convinced that the house -- with its empty window frames like eye sockets and open double doors like a mouth with a dandelion crest above it -- is waiting to consume them.
+[[Dandelion House]] is a marvel of late-Drankorian architecture -- at least 700 years old. Detect Magic suggests some kind of preservation magic woven through much of the structure, but Kaito becomes increasingly convinced that the house -- with its empty window frames like eye sockets and open double doors like a mouth with a dandelion crest above it -- is waiting to consume them.
 
 [[Alden]] warns that [[Lord Hulda]] is proud, difficult, and desperate for [[Dandelion House]] to become the estate he has always wanted. They meet [[Lord Hulda]] on the upper floor: a scarred adventurer in his late 40s, watching the fading light, sinking into shadow. After brief introductions, Hulda leads them down to the kitchen for a meal and conversation.
 
@@ -66,7 +69,7 @@ Morning brings a long march through ancient forest. The trail slowly fades away,
 > ![[dandelion-house.jpg]]
 > *[[Dandelion House]]*
 
-Hulda tells his story over dinner in a kitchen stocked with magical conveniences (including a cleaning bar [[Tarek]] immediately evaluates for later theft). The second son of a minor lord in southern Sembara, he always hungered for more. Disappointed in the modest comfort of his family and resentful about his station, he left to seek his fortune, spending decades around the [[Green Sea]] as a sellsword, adventurer, and mercenary. He made and lost treasurers and lovers, and acquired a minor reputation. 
+Hulda tells his story over dinner in a kitchen stocked with magical conveniences (including a cleaning bar [[Tarek]] immediately evaluates for later theft). The second son of a minor lord in southern Sembara, he always hungered for more. Disappointed in the modest comfort of his family and resentful about his station, he left to seek his fortune, spending decades around the [[Green Sea]] as a sellsword, adventurer, and mercenary. He made and lost fortunes and lovers, and acquired a minor reputation.
 
 Hulda tells it all with a deep, weary bitterness: the best is clearly behind him and it wasn’t that great anyway. Each year was different but every year was the same: a wheel turning endlessly until this last spring. A dragon had come wandering south from the mountains and his party slew it in a fight which claimed the lives of every other member of his party. The deed was made into a popular song, but Hulda found himself back in Tollen with his companions dead and his purse no heavier than when he left home nearly 30 years earlier. 
 
@@ -80,9 +83,9 @@ After Hulda leaves them, [[Tarek]] reads the Sembaran document again and senses 
 > ![[the-door-in-the-floor.jpg]]
 > *The root tunnel to the unknown*
 
-Before dawn, the grandfather clock wakes them and [[Alden]] collects them from their rooms, leading them through the ground floor, down through a massive basement. There, he opens a locked door with a glowing gold key, leads them below the basement, down through a passage hewn from living rock into in a root-covered sub-cellar that surely predates the manor above it. Hulda, waiting there, opens a door that seems to lead deep through a massive hollowed-out root, promising to keep this end open while they take care of business. 
+Before dawn, the grandfather clock wakes them and [[Alden]] collects them from their rooms, leading them through the ground floor, down through a massive basement. There, he opens a locked door with a glowing gold key, leads them below the basement, down through a passage hewn from living rock into a root-covered sub-cellar that surely predates the manor above it. Hulda, waiting there, opens a door that seems to lead deep through a massive hollowed-out root, promising to keep this end open while they take care of business.
 
-"On the far side, go up, up and out and onto the road," he tell them, "and you'll see the manor just ahead a little way. Seek there the master of the house." Just as Hulda closes the door behind them, [[Tarek]] realizes the contract is unquestionably four hundred years old but written in perfectly contemporary Sembaran.
+"On the far side, go up, up and out and onto the road," he tells them, "and you'll see the manor just ahead a little way. Seek there the master of the house." Just as Hulda closes the door behind them, [[Tarek]] realizes the contract is unquestionably four hundred years old but written in perfectly contemporary Sembaran.
 
 ## Cast of Characters
 
@@ -94,4 +97,4 @@ Before dawn, the grandfather clock wakes them and [[Alden]] collects them from t
 ## Places
 
 - [[Varrow Forest]] (forest in the [[Duchy of Telham]], [[Sembara]]): old forest west of Tollen that the party travels through to reach [[Dandelion House]]. Session context includes: campfire; long day's hike through increasingly trackless forest.
-- [[Dandelion House]] (manor house in the [[Varrow Forest]], the [[Duchy of Telham]]): ancient preserved manor and overgrown estate claimed by [[Lord Hulda]], beautiful and decrepit in equal measure. Session context includes: grounds, entry hall, upper floors, kitchen, guest quarters, basement, root cellar, and and hidden root tunnel.
+- [[Dandelion House]] (manor house in the [[Varrow Forest]], the [[Duchy of Telham]]): ancient preserved manor and overgrown estate claimed by [[Lord Hulda]], beautiful and decrepit in equal measure. Session context includes: grounds, entry hall, upper floors, kitchen, guest quarters, basement, root cellar, and hidden root tunnel.

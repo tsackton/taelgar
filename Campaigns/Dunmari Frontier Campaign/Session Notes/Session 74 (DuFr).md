@@ -1,4 +1,6 @@
 ---
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
 campaign: Dunmari Frontier
 sessionNumber: 74
@@ -9,6 +11,7 @@ players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
 tagline: in which Vindristjarna is restored
 descTitle: Skyship Repair
 name: Dunmari Frontier - Session 74
+POV: 1748
 ---
 # Dunmari Frontier - Session 74
 
@@ -37,11 +40,11 @@ The [[Dunmar Fellowship]] successfully repairs the skyship [[Vindristjarna]].
 - (DR:: 1748-11-29): Finish work on [[Vindristjarna]]. [[Seeker]] attunes to the phasing stone, and begins to practice flying. Shadow dogs attack at midnight.
 
 ## Narrative
-We begin at dusk, at site of the crashed [[Vindristjarna|airship]], as the party settles in for the night and begins to determine what is necessary to repair [[Vindristjarna]]. From the notes and information gleaned in [[Hralgar]]'s library, [[Seeker]], [[Riswynn]], and [[Delwath]] are able to determine that three steps are necessary to repair the ship: the construction of an [[adamantine]] harness for the phasing stone; the construction of stone console to hold the phasing stone apparatus; and the construction of a gold and silver focus to channel the energy. 
+We begin at dusk, at the site of the crashed [[Vindristjarna|airship]], as the party settles in for the night and begins to determine what is necessary to repair [[Vindristjarna]]. From the notes and information gleaned in [[Hralgar]]'s library, [[Seeker]], [[Riswynn]], and [[Delwath]] are able to determine that three steps are necessary to repair the ship: the construction of an [[adamantine]] harness for the phasing stone; the construction of a stone console to hold the phasing stone apparatus; and the construction of a gold and silver focus to channel the energy.
 
 ![[dufr-074-vindristjarna-crash-location.png]]
 
-Over the next two days, [[Seeker]] and [[Riswynn]] work to construct the [[adamantine]] harness and the stone console to mount the phasing stone to, guided by [[Riswynn]]'s magic and the knowledge of both the [[Dwarves]]. During these days of work, [[Wellby]] and [[Kenzo]] tend the camp and keep watch, and Delawth scrys, seeing [[Kadmos]] and company marching in the desert to the south, in the heart of the [[Garamjala Desert|Garamjala]]. 
+Over the next two days, [[Seeker]] and [[Riswynn]] work to construct the [[adamantine]] harness and the stone console to mount the phasing stone to, guided by [[Riswynn]]'s magic and the knowledge of both the [[Dwarves]]. During these days of work, [[Wellby]] and [[Kenzo]] tend the camp and keep watch, and Delwath scries, seeing [[Kadmos]] and company marching in the desert to the south, in the heart of the [[Garamjala Desert|Garamjala]].
 
 On the third day, November 27th, [[Riswynn]] and [[Seeker]] construct considerable quantities of gold and silver thread with [[Riswynn]]'s magic, to shape and forge the final piece of the control apparatus for [[Vindristjarna]]. [[Wellby]], however, sees a rider on the horizon, and heads to scout, finding [[Alesh]] riding towards the former site of the [[Stormcaller Tower]].
 
@@ -61,4 +64,4 @@ That evening, the night of Nov 28th, [[Seeker]] has a dream, a shadow hunter thr
 
 The next day, Nov 29th, is spent finishing the work on [[Vindristjarna]]. By evening, the ship is ready for flight, and [[Seeker]] attunes to the phasing stone and begins to practice flying. 
 
-The session ends around midnight, as the party is awakened by the howls of hunting dogs, lead by the shadow hunter from [[Seeker]]'s dreams. 
+The session ends around midnight, as the party is awakened by the howls of hunting dogs, led by the shadow hunter from [[Seeker]]'s dreams.

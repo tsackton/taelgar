@@ -1,6 +1,7 @@
 ---
-tags: [session-note]
-name: Dunmari Frontier - Session 128
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [session-note, status/check/lint]
 campaign: Dunmari Frontier
 sessionNumber: 128
 realWorldDate: 2025-07-31
@@ -10,6 +11,8 @@ players: [Delwath, Kenzo, Wellby, Seeker]
 companions: [Seeker 3]
 tagline: in which the party shatters a chalyte death ray
 descTitle: Dhurkmir’s Fall
+name: Dunmari Frontier - Session 128
+POV: 1749
 ---
 # Dunmari Frontier - Session 128
 
@@ -24,11 +27,11 @@ The party infiltrates [[Dhrukmir]]'s tower, destroys the deadly death ray, and d
 
 ### Summary
 - The [[Dunmar Fellowship]] teleports into the lightning-chained tower housing [[Dhrukmir]]’s [[chalyte]] death ray, overcoming vigilant stone [[Giants|giant]] guards amidst deafening lightning; during the battle an animated [[chalyte]] husk of a stone [[Giants|giant]] petrified [[Delwath]]. 
-- [[Seeker]] uses a Wish spell to restore [[Delwath]], while [[Kenzo]] and [[Wellby]] scout below, finding an empty living quarters with detailed murals and runes depicting the creation of the death ray around a massive polished [[chalyte]] mirror. 
+- [[Seeker]] uses a Wish spell to restore [[Delwath]], while [[Kenzo]] and [[Wellby]] scout below, finding empty living quarters with detailed murals and runes depicting the creation of the death ray around a massive polished [[chalyte]] mirror.
 - In the control room, the party fights a [[chalyte]] sorcerer [[Giants|giant]] while [[Kenzo]] and the [[Ladder]] enter the lightning pillar and destroy the [[chalyte]] mirror, causing a magical explosion and the tower’s catastrophic collapse.
 - Amidst the chaos, the party rescued a chained [[Giants|giant]] prisoner and escaped the collapsing tower using a variety of magic.
-- From the mines below, the 70-foot tall form of [[Dhrukmir]] emerged, armored in chaylte crystal, sparking a brutal final battle in which the party, aided by magic and summoned creatures, ultimately slew the [[Giants|giant]] despite [[Kenzo]] being nearly killed. 
-- With their foes defeated and allies scattered, the party regrouped, battered but alive, amidst the ruins of the [[Ulgrathar|giants's settlement]] and the crashed tower. 
+- From the mines below, the 70-foot tall form of [[Dhrukmir]] emerged, armored in chalyte crystal, sparking a brutal final battle in which the party, aided by magic and summoned creatures, ultimately slew the [[Giants|giant]] despite [[Kenzo]] being nearly killed.
+- With their foes defeated and allies scattered, the party regrouped, battered but alive, amidst the ruins of the [[Ulgrathar|giants’ settlement]] and the crashed tower.
 
 ### Timeline
 - (DR::1749-07-04), evening: Rest on [[Vindristjarna]] and plan for the attack the following morning.
@@ -36,7 +39,7 @@ The party infiltrates [[Dhrukmir]]'s tower, destroys the deadly death ray, and d
 
 ## Narrative
 
-Our session begins on [[Vindristjarna]], as the [[Dunmar Fellowship]] gathered at dawn on the deck of [[Vindristjarna]], preparing to assault [[Dhrukmir]]'s lightning tower that houses a [[chalyte]] death ray. After yesterday’s parlay with [[Brunnar]], a disaffected stone giant, the group had gleaned critical details: [[Dhrukmir]] Skybreaker, the colossus ruling this valley, drew his power from chaylte; his death ray, powered by the lightning pillars holding up the floating tower, disintegrated intruders before they could approach the mine below. [[Octavia Antussus]] and [[Tristan Brighteyes]], allies of the [[Mitus Verina Auratan|Magistros]] with the party on [[Vindristjarna]], prepared for the day's events: Octavia would take command of the legion in [[Argento]] when the death ray was destroyed, while Tristan prepared to relay updates to the [[Mitus Verina Auratan|Magistros]] via his Windcaller magic. 
+Our session begins on [[Vindristjarna]], as the [[Dunmar Fellowship]] gathered at dawn on the deck of [[Vindristjarna]], preparing to assault [[Dhrukmir]]'s lightning tower that houses a [[chalyte]] death ray. After yesterday’s parley with [[Brunnar]], a disaffected stone giant, the group had gleaned critical details: [[Dhrukmir]] Skybreaker, the colossus ruling this valley, drew his power from chalyte; his death ray, powered by the lightning pillars holding up the floating tower, disintegrated intruders before they could approach the mine below. [[Octavia Antussus]] and [[Tristan Brighteyes]], allies of the [[Mitus Verina Auratan|Magistros]] with the party on [[Vindristjarna]], prepared for the day's events: Octavia would take command of the legion in [[Argento]] when the death ray was destroyed, while Tristan prepared to relay updates to the [[Mitus Verina Auratan|Magistros]] via his Windcaller magic.
 
 With preparations settled, [[Seeker]]’s magic shifted the party through space. Their arrival was precise, thanks to [[Seeker]]’s practiced hand, still having never failed to bring the party to their goal via his Teleportation magic. The party arrived in a vast, thunder-racked chamber. The place shook constantly from a huge pillar of lightning that dominated the center of the room, its thunder deafening and disorienting. They spotted two stone [[Giants]] posted on opposite balconies, distracted and facing outward. Giant statues inlaid with glowing purple veins, possibly [[chalyte]], stood nearby. A ladder led to the roof, and stairs descended to a lower floor.
 
@@ -46,7 +49,7 @@ As the first giant toppled, the second sounded the alarm and retreated down the 
 
 During the chaos, [[Delwath]] was seized by spreading chalyte crystals growing from the blow struck by the animated chalyte husk of a giant, restraining him and then petrifying him completely despite his frantic efforts to break free. The chalyte giant stepped into battle, but [[Seeker]], thinking quickly, cast a spell to unravel the giant’s magic, causing it to revert to lifeless stone. Meanwhile, [[Kenzo]] engaged the fleeing spellcaster and managed to stun him, allowing the party to inflict heavy damage before [[Wellby]] finished the job with well-placed arrows.
 
-With the immediate foes defeated, the group gathered, thunder still echoing in the chamber. [[Delwath]] stood unmoving -- stone to the core. Seeing no better option, [[Seeker]] evoked powerful Wish-magic, restoring [[Delwath]] to life and flesh. Amid the fading tumult, the adventurers caught their breath, warily eyeing the remains of their petrifying foe and considering their next steps. Seeker examined a crackling conduit of energy, avoiding the jolts that leapt outward whenever he drew near. Through his arcane goggles, he observed veins of purplish gemstone -- chalyte -- hreading through the pillar and vanishing both above and below, the lightning visibly channeling through them. No apparent spell or ritual anchored the effect; instead, the structure itself seemed to perpetuate the magic. Dispel Magic was unlikely to have any effect.
+With the immediate foes defeated, the group gathered, thunder still echoing in the chamber. [[Delwath]] stood unmoving -- stone to the core. Seeing no better option, [[Seeker]] evoked powerful Wish-magic, restoring [[Delwath]] to life and flesh. Amid the fading tumult, the adventurers caught their breath, warily eyeing the remains of their petrifying foe and considering their next steps. Seeker examined a crackling conduit of energy, avoiding the jolts that leapt outward whenever he drew near. Through his arcane goggles, he observed veins of purplish gemstone -- chalyte -- threading through the pillar and vanishing both above and below, the lightning visibly channeling through them. No apparent spell or ritual anchored the effect; instead, the structure itself seemed to perpetuate the magic. Dispel Magic was unlikely to have any effect.
 
 Meanwhile, Wellby and Kenzo descended the broad stairs, the crashes of thunder ensuring their approach went unnoticed. The lower level proved to be living quarters, with giant-sized beds and a table holding several obsidian bird sculptures. One, a five-foot-tall obsidian hawk, was stowed away in their portable hole. The walls were covered in elaborate Giant runes, which Delwath translated. The mural detailed the legend of the [[Dauthleiptr|Dauðleiptr]], literally "Death Lightning" in Giant, and the installation of a great chalyte mirror at the tower’s base, which harnessed and projected the tower’s formidable power.
 
@@ -56,11 +59,11 @@ Launching their attack, Kenzo charged first, landing a stunning blow and dislodg
 
 Determined to shatter the chamber's defenses and destroy [[Dauthleiptr|Dauðleiptr]] itself, the Ladder advanced into the pillar of lightning, suffering immensely but landing a solid blow on the mirror as it began to crack. Kenzo, battered but resolute, made the decision to brave the wall of crackling lightning to help destroy the mirror. He dashed across the chaotic chamber, enduring a severe jolt as magical energy seared through him. Ignoring the pain, he brought his staff down on the towering chalyte mirror, widening the cracks first split by their enchanted ladder and siege equipment. Striking again, the glass gave way; the mirror buckled, then burst apart in a spray of deadly shards. For a heartbeat, silence held—then deafening thunder erupted, joined by arcs of uncontrolled lightning engulfing everything nearby.
 
-Kenzo, caught within the storm, barely clung to consciousness as the magical backlash ripped through the chamber. The heroic ladder was shattered, but happy, its enmity against mirrors satisfied. As the last echoes faded, the group realized that, with the lightning vanquished, the enchanted tower was beginning to fall from 150 feet above ground. Acting swiftly, Wellby used the Chime of Opening to free the imprisoned giant, and everyone used magic and flight to escape the fall, as the ruined tower crashed to rubble. With the sounds of [[Dhrukmir]] emerging from the depths below beginning, Delwath used a prayer to the tanshi to give the party a moment to breath and recover before facing the chalyte colossus. 
+Kenzo, caught within the storm, barely clung to consciousness as the magical backlash ripped through the chamber. The heroic ladder was shattered, but happy, its enmity against mirrors satisfied. As the last echoes faded, the group realized that, with the lightning vanquished, the enchanted tower was beginning to fall from 150 feet above ground. Acting swiftly, Wellby used the Chime of Opening to free the imprisoned giant, and everyone used magic and flight to escape the fall, as the ruined tower crashed to rubble. With the sounds of [[Dhrukmir]] emerging from the depths below beginning, Delwath used a prayer to the tanshi to give the party a moment to breathe and recover before facing the chalyte colossus.
 
-After making their preparations, the party faced [[Dhrukmir]] himself, an immense 70-foot tall giant climbing from a deep pit, his body armored in chalyte crystal. Wellby summoned a magical triceratops to aid them, while Kenzo, fighting in astral form, launched a fierce assault of unarmed strikes, inflicting serious blows. [[Dhrukmir]]  retaliated with crushing sweeps of an enormous crystal club, blinding Kenzo with radiant energy, but Kenzo managed to shake off the effects with trained focus.
+After making their preparations, the party faced [[Dhrukmir]] himself, an immense 70-foot tall giant climbing from a deep pit, his body armored in chalyte crystal. Wellby summoned a magical triceratops to aid them, while Kenzo, fighting in astral form, launched a fierce assault of unarmed strikes, inflicting serious blows. [[Dhrukmir]] retaliated with crushing sweeps of an enormous crystal club, blinding Kenzo with radiant energy, but Kenzo managed to shake off the effects with trained focus.
 
-Wellby loosed enchanted arrows, using a seeking arrow to strike the giant in the head. Daleth invoked dark magic, landing a series of hexed strikes, while Seeker unleashed psychic and elemental powers, forcing [[Dhrukmir]]  to expend his magical resistances. Throughout the clash, the giant’s chalyte armor pulsed with bursts of harmful energy, bathing the battlefield in blinding radiance and hurling boulders that battered the party and healed [[Dhrukmir]] ’s wounds.  [[Dhrukmir]]  focused his fury on Kenzo, bringing him down after a relentless barrage. But Wellby and Delwath concentrated their fire on the already-wounded giant, who finally collapsed in a titanic explosion of stone and lightning. Debris buried Kenzo, but Seeker rushed to revive him amid the rubble.
+Wellby loosed enchanted arrows, using a seeking arrow to strike the giant in the head. Daleth invoked dark magic, landing a series of hexed strikes, while Seeker unleashed psychic and elemental powers, forcing [[Dhrukmir]] to expend his magical resistances. Throughout the clash, the giant’s chalyte armor pulsed with bursts of harmful energy, bathing the battlefield in blinding radiance and hurling boulders that battered the party and healed [[Dhrukmir]]’s wounds. [[Dhrukmir]] focused his fury on Kenzo, bringing him down after a relentless barrage. But Wellby and Delwath concentrated their fire on the already-wounded giant, who finally collapsed in a titanic explosion of stone and lightning. Debris buried Kenzo, but Seeker rushed to revive him amid the rubble.
 
 As the dust settled in the cold mountain air, the party found themselves on a devastated field, victorious but battered, while ogres and other foes scattered in confusion—the mountain quiet once more, at least for now.
 
@@ -132,3 +135,26 @@ As the dust settled in the cold mountain air, the party found themselves on a de
 - With the giant slain and its body crumbling into rubble, the party stands battered but victorious as ogres and other enemies are left stunned amid the ruins.
 
 %%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Recorded the session viewpoint as DR 1749. Normalized frontmatter formatting.
+- Corrected the following in the visible recap: “an empty living quarters” to “empty living quarters”, “chaylte” to “chalyte”, “giants's settlement” to “giants’ settlement”, “hreading through” to “threading through”, “moment to breath” to “moment to breathe”, “yesterday’s parlay” to “yesterday’s parley”, “[[Dhrukmir]]  retaliated” to “[[Dhrukmir]] retaliated”, “[[Dhrukmir]]  to expend” to “[[Dhrukmir]] to expend”, “[[Dhrukmir]] ’s wounds.  [[Dhrukmir]]  focused” to “[[Dhrukmir]]’s wounds. [[Dhrukmir]] focused”.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Suggestion — campaign.noncanonical_name:** The campaign registry recognizes “Dunmari Frontier” as an alias. Use the canonical long name in this field: `campaign: Dunmar Frontier`.
+
+- [ ] **Suggestion — editorial.prose_clarity:** The title spells the ruler “Dhurkmir” while the article and [[Dhrukmir]] use “Dhrukmir.” Use “Dhrukmir’s Fall” for descTitle and the matching callout.
+
+- [ ] **Warning — editorial.attribution:** The opening attributes the teleport to Seeker. The session 128 polished transcript (u0225–u0228) records agreement to use his simulacrum. Proposed opening for that paragraph: “With preparations settled, Seeker 3 teleported the party into the tower. They arrived in a vast, thunder-racked chamber.”
+
+- [ ] **Suggestion — editorial.prose_clarity:** “Daleth invoked dark magic” introduces a name absent from the roster. The recorded turn beginning at u3250 identifies Delwath applying Hexblade’s Curse and striking three times. Use “Delwath invoked dark magic, landing a series of hexed strikes.”
+
+- [ ] **Suggestion — editorial.shared_material_redundant:** The closing “Detailed Summary” comment repeats the tower assault, petrification, mirror destruction and final battle. Remove the duplicated outline after retaining separately any unique source-checking notes; verify divergent attributions and spellings against the session record first.
+%%^End%%

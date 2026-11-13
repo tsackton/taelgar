@@ -1,14 +1,17 @@
 ---
-tags: [session-note]
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [session-note, status/check/lint]
 campaign: Dunmari Frontier
 sessionNumber: 95
 realWorldDate: 2024-03-26
 DR: 1749-04-15
 DR_end: 1749-05-03
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
-name: Dunmari Frontier - Session 95
 tagline: in which the party navigates Urskan politics and faces a crucial choice
 descTitle: Decisions at Voknaz Manor
+name: Dunmari Frontier - Session 95
+POV: 1749
 ---
 # Dunmari Frontier - Session 95
 
@@ -18,7 +21,7 @@ descTitle: Decisions at Voknaz Manor
 > *On Earth: Tuesday Mar 26, 2024*
 > *[[Zvervinka]] to [[Voknaz Manor]]*
 
-The [[Dunmar Fellowship]], after engaging with local politics and acquiring new magic, must choose between a perilous resurrection mission or assassinating a vampire lord.
+The [[Dunmar Fellowship]], after engaging with local politics and acquiring new magic, must choose between a perilous resurrection mission and assassinating a vampire lord.
 ## Session Info
 
 ### Media
@@ -32,7 +35,7 @@ A popular Urskan folk song, sung at the campfire while traveling with [[Karel]],
 - They learn of the [[Rodnya]] factions and tensions, specifically the low status of [[Rodnya Voknaz]] after mismanaged dragon attacks.
 - Traveling south with a merchant caravan, they reach [[Volya]] and then turn west towards [[Yamgov]] and [[Voknaz Manor]].
 - [[Kenzo]] dreams of [[Apollyon]]'s escape, signaling a dark omen.
-- At [[Voknaz Manor]], [[Branek Mirov]] offers a mission to [[Frostfell]] resurrect the Rodnya leader, but an invisible visitor, [[Olen Vrask]], proposes an alternative: to kill the vampire lord, [[Rhodar von Glauer]].
+- At [[Voknaz Manor]], [[Branek Mirov]] offers a mission to [[Frostfell]] to resurrect the Rodnya leader, but an invisible visitor, [[Olen Vrask]], proposes an alternative: to kill the vampire lord, [[Rhodar von Glauer]].
 ### Timeline
 - (DR:: 1749-04-15), afternoon: Speak with [[Roman]] about magic items, travel plans; arrange horses, food, and some meetings in town.
 - (DR:: 1749-04-16): Explore [[Zvervinka]]
@@ -61,7 +64,7 @@ Over the afternoon and the next day, the party explores [[Zvervinka]]. It is a t
 
 Before departing [[Zvervinka]], the party acquires new magic from the monster market, in exchange for their dragon and ice worm treasure, and also speaks again with [[Lena Sorokina]], from whom they acquire their travel papers. [[Lena Sorokina|Lena]] advises them to always keep their travel papers, and also to be careful as they get further west, as the giant bats of the vampire lord [[Rhodar von Glauer]] are dangerous. But, she mentions, negotiations are underway that should see peace on the western borders soon. 
 
-Departing [[Zvervinka]] on April 20th, the party joins a merchant caravan led by [[Karel]], traveling south along the main road, muddy albeit passable. Over the next few days, they continued their journey, eventually reaching [[Volya]], a small trading post where they parted ways with [[Karel]]. From here, the party turned west, following the [[Leis]] to the outskirts of [[Vedmakov]], and then across the [[Dalinka]] river valley to [[Yamgov]]. The party approached the [[Voknaz Manor]] on May 1st, when they camped about 20 miles away. That evening, [[Kenzo]] dreamed of [[Apollyon]], slowing destroying the bonds that hold him in his tomb. 
+Departing [[Zvervinka]] on April 20th, the party joins a merchant caravan led by [[Karel]], traveling south along the main road, muddy albeit passable. Over the next few days, they continued their journey, eventually reaching [[Volya]], a small trading post where they parted ways with [[Karel]]. From here, the party turned west, following the [[Leis]] to the outskirts of [[Vedmakov]], and then across the [[Dalinka]] river valley to [[Yamgov]]. The party approached the [[Voknaz Manor]] on May 1st, when they camped about 20 miles away. That evening, [[Kenzo]] dreamed of [[Apollyon]], slowly destroying the bonds that hold him in his tomb.
 
 The afternoon of the following day, the party arrived at [[Voknaz Manor]], the headquarters of the [[Rodnya Voknaz]]. Here, they were greeted by a serving woman, and led to rooms prepared for them, to get ready for dinner with [[Branek Mirov]]. During dinner, he proposed a mission to the party, which they could undertake in exchange for the [[Jade Piece of Rai's Hand]] possessed by the [[Rodnya Voknaz]]: bring the body of the dead leader of the [[Rodnya Voknaz]] to the [[Frostfell]], quench the elemental fire burning in his chest at one of the frost pools, and resurrect him. After some discussion about the dangers of the [[Frostfell]], the party agreed, making plans to meet Branek the next morning and enter the portal to [[Frostfell]]. 
 
@@ -72,9 +75,9 @@ After some discussion, we end as the party decides that, despite the risks of ki
 
 ### At the Sign of the Silver Wolf
 
-- The party discusses travel plans at the Silver Wolf inn, considering their options to cross Ursk from east to west: either direct overland journey of approximately 300 miles, with no maintained roads, or a longer route via a more circuitous road to [[Vedmakov]] and and then Yamgov.
+- The party discusses travel plans at the Silver Wolf inn, considering their options to cross Ursk from east to west: either direct overland journey of approximately 300 miles, with no maintained roads, or a longer route via a more circuitous road to [[Vedmakov]] and then Yamgov.
 
-- **Dewalth** suggests gathering local advice for their journey, considering their local fame might aid in acquiring useful information.
+- **Delwath** suggests gathering local advice for their journey, considering their local fame might aid in acquiring useful information.
 
 - The party debates the merits of taking the road versus striking through less traveled paths, considering safety, visibility, and the political implications of their route.
 
@@ -98,7 +101,7 @@ After some discussion, we end as the party decides that, despite the risks of ki
 
 - Kenzo attempts a broad 'soul sight' to gauge the general aura of the marketplace, finding nothing unusual beyond the extraordinary items for sale, such as dragon parts.
 
-- Dewalth expresses a desire to subtly connect with members of the Rodnya, indicating an interest in the local political and arcane landscape.
+- Delwath expresses a desire to subtly connect with members of the Rodnya, indicating an interest in the local political and arcane landscape.
 
 - The DM provides information on the Rodnya, painting them as a secretive, politically aligned group with a focus on arcane magic, mentioning that everyone in the inner circle has some magical ability.
 
@@ -120,7 +123,7 @@ After some discussion, we end as the party decides that, despite the risks of ki
 
 - The party receives letters of transit from Lena, granting them permission to travel freely across Ursk for a month, with restrictions on city entry.
 
-- Dewalth expresses concern about safety and learns about ongoing peace negotiations with the shadowy kingdom to the west from Lena, hinting at a decrease in danger along the western border.
+- Delwath expresses concern about safety and learns about ongoing peace negotiations with the shadowy kingdom to the west from Lena, hinting at a decrease in danger along the western border.
 
 - The group discusses the possibility of encountering giant bats and is reassured by Lena that either a Rodnya patrol will assist or no questions will be asked about their use of magic in self-defense.
 
@@ -160,7 +163,7 @@ After some discussion, we end as the party decides that, despite the risks of ki
 
 - **Branek** welcomes the party, offering them wine and food levitated by unseen servants, demonstrating significant magical ability.
 
-- **Kenzo** and **Dewalth** discuss **Branek's** power level, concluding he is a high-level wizard, possibly the most powerful they've encountered.
+- **Kenzo** and **Delwath** discuss **Branek's** power level, concluding he is a high-level wizard, possibly the most powerful they've encountered.
 
 - Casual conversation ensues, where **Branek** shows interest in the party's adventures. **Kenzo** shares their encounter with a white dragon.
 
@@ -206,7 +209,7 @@ After some discussion, we end as the party decides that, despite the risks of ki
 
 **At the Sign of the Silver Wolf**
 
-In the session, the party strategizes their journey across Ursk, weighing the advantages of different travel routes and means while waiting for their letters of transit. Discussions include travel logistics, safety concerns, and the potential for encounters along the way. They also plan to gather more information and resources by interacting with locals and making preparations with the help the innkeeper, Roman.
+In the session, the party strategizes their journey across Ursk, weighing the advantages of different travel routes and means while waiting for their letters of transit. Discussions include travel logistics, safety concerns, and the potential for encounters along the way. They also plan to gather more information and resources by interacting with locals and making preparations with the help of the innkeeper, Roman.
 
   
 
@@ -218,7 +221,7 @@ The party engages with the local town of Zvervinka, exploring its social and eco
 
 **Into Ursk**
 
-The party receives letters of transit from Lena, allowing them to travel across Ursk while learning about peace negotiations and arcane safeguards. They join Carol's caravan, part ways to expedite their journey, and encounter various social and magical peculiarities, finally nearing the Rodney Vocanaz headquarters.
+The party receives letters of transit from Lena, allowing them to travel across Ursk while learning about peace negotiations and arcane safeguards. They join Karel's caravan, part ways to expedite their journey, and encounter various social and magical peculiarities, finally nearing the Rodnya Voknaz headquarters.
 
   
 
@@ -233,3 +236,19 @@ The party meets Branek Mirov, who tasks them with quenching the elemental fire w
 **A Nighttime Intruder**
 
 The party is awoken by an invisible figure who reveals a political crisis involving vampires to the west of Ursk, urging them to assassinate a vampire to prevent an alliance. After intense debate, considering risks and ethics, the party leans towards intervening in the vampire situation, seeing it as a crucial action for the greater good, even if it carries larger risks for the failure of their quest to obtain the jade hand.
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added the session viewpoint in DR 1749. Normalized frontmatter order.
+- Corrected “between a perilous resurrection mission or” to “between a perilous resurrection mission and”, “[[Frostfell]] resurrect” to “[[Frostfell]] to resurrect”, “slowing destroying” to “slowly destroying”, “and and then” to “and then”, “Dewalth” to “Delwath”, “Carol's caravan” to “Karel's caravan”, “Rodney Vocanaz headquarters” to “Rodnya Voknaz headquarters”, “with the help the innkeeper” to “with the help of the innkeeper”.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Suggestion — campaign.noncanonical_name:** The campaign field uses the recognized alias “Dunmari Frontier”. Adopt the registry spelling with `campaign: Dunmar Frontier`.
+- [ ] **Warning — correctness.internal_date_ambiguity:** The header ends on May 2. The timeline records the invisible visitor before dawn on May 3 and frontmatter gives May 3 as the end. If the timeline stands, update the displayed range to “Apr 15, 1749 DR to May 03, 1749 DR”.
+%%^End%%

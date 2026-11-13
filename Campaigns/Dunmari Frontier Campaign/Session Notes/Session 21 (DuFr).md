@@ -1,4 +1,6 @@
 ---
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
 campaign: Dunmari Frontier
 sessionNumber: 21
@@ -6,10 +8,11 @@ realWorldDate: 2021-03-13
 DR: 1748-05-05
 DR_end: 1748-05-11
 players: [Kenzo, Wellby, Delwath, Seeker]
-companions: [Havdar's Warband]
+companions: ["Havdar's Warband"]
 tagline: in which the party uncovers orcish plots and learns of Grash
 descTitle: Rumors of the East
 name: Dunmari Frontier - Session 21
+POV: 1748
 ---
 # Dunmari Frontier - Session 21
 
@@ -42,7 +45,7 @@ The Dunmar Fellowship interrogates an [[Gorkil|orc cleric]], attends a funeral f
 ## Narrative
 We begin as the battle with the [[Orcs|orcs]] ends, the party collecting themselves after a tough fight, and deciding to deal with their captive, one of the [[Orcs|orc]] clerics named [[Gorkil]]. There is little to note among the wreckage of the battle, although the party does take note of the symbol that seems to be painted on these orc faces and gear: a rising sun, below a screaming face. 
 
-Heading into [[Havdar]]’s camp, they speak briefly with [[Havdar]], and [[Aram]], a holy warrior and healer of [[Aagir]]. [[Havdar]] lost four of his warriors in the fight, which was tougher and more deadly than expected, both because of the sophistication of the [[Orcs]] battle plan and their magic. 
+Heading into [[Havdar]]’s camp, they speak briefly with [[Havdar]], and [[Aram]], a holy warrior and healer of [[Aagir]]. [[Havdar]] lost four of his warriors in the fight, which was tougher and more deadly than expected, both because of the sophistication of the [[Orcs]]’ battle plan and their magic.
 
 As they prepare to interrogate the [[Orcs|orc]], [[Aram]] touches him to revive him. The [[Orcs|orc]] is a servant of [[Grash]], the Blighted One, whom he believes will bring him back ten times stronger if he dies. He rants continually on [[Grash]]’s power and how if you serve [[Grash]], you will never die, and the battle is not yet over, which prompts the party to suggest that the bodies of the [[Orcs]] be burned. As [[Havdar]] leaves to take care of that task, the party continues their questioning. They learn that [[Grash]] is in [[Kharsan]], and that the [[Orcs]] found him perhaps a year ago. [[Grash]] demands that they seek treasure and tribute, especially that they seek to take the treasure of the other group of [[Orcs]], [[Uzgash]]’s brats [[Gorkil]] calls them, dismissively. He says they ([[Uzgash]]’s brats) are peaceful, farming and raising animals, although where exactly he does not say. As the interrogation continues, [[Gorkil]] suddenly demands that [[Seeker]] kill him, adding a magical command to his voice that compels [[Seeker]] to lunge forward and cut his throat. 
 

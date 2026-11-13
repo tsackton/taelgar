@@ -1,6 +1,8 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [session-note, status/check/lint]
 campaign: Into the Chasm
 sessionNumber: 1
 realWorldDate: 2025-11-17
@@ -8,11 +10,12 @@ DR: 1730-01-25
 DR_end: 1730-01-25
 players: [Finnan, Jrain, Eolo, Ekko, Justas]
 companions: []
-name: Into the Chasm - Episode 1
 descTitle: Into the Chasm
-tagline: in which a storm flings five strangers into Zeyfa's maze
+tagline: "in which a storm flings five strangers into Zeyfa's maze"
 sessionKey: into-the-chasm-session-1
 session-template: into-the-chasm-template.md
+name: Into the Chasm - Episode 1
+POV: "1730"
 ---
 # Into the Chasm - Episode 1
 
@@ -47,7 +50,7 @@ Drawn by omens around the [[Great Chasm]], five adventurers and a terrified Zimk
 ## Places
 
 - [[Great Chasm]] (chasm in [[Zimkova]], [[Greater Sembara]]): vast chasm where the worsening omens culminate in the storm that sweeps the party away.
-- [[Zeyfa's Labyrinth]] (*ZAY-fahz LAB-uh-rinth*; labyrinth in [[Zeyfa's Realm]]): hostile maze of ice, wind, bridges, and snow tunnels that begins with the floating platform where the party wakes after the fall. Session context includes: floating ice platform suspended in darkness and with bridges leading deeper into a maze..
+- [[Zeyfa's Labyrinth]] (*ZAY-fahz LAB-uh-rinth*; labyrinth in [[Zeyfa's Realm]]): hostile maze of ice, wind, bridges, and snow tunnels that begins with the floating platform where the party wakes after the fall. Session context includes: floating ice platform suspended in darkness and with bridges leading deeper into a maze.
 
 ## Narrative
 
@@ -61,8 +64,23 @@ After the last wisp is gone, quiet falls on the ice platform. With the last of h
 
 As the woman steadies herself by the illusory, but calming, hearth, [[Finnan Oakstride|Finnan]] turns from her to the others, introduces himself as [[Finnan Oakstride]], and retells her tale: before Drankor, when much of the land was [[Urtzabala|swamp]], as [[The Downfall]] reshaped the world her people fled into this place, and became trapped in its maze. The strangers then speak of their own journeys that brought them here, before the conversation turns to what the group knows of the chasm, Kemeko, the [[Kestavo]], and [[Zeyfa]]. When [[Jrain Fanlish|Jrain]] asks the woman what appeases the West Wind, [[Finnan Oakstride|Finnan]] gently draws her back into the conversation, calming her confusion over what he is and then receiving the answer: when the sun sets and the new ones are old enough, the West Wind demands that one of her people be sent into its labyrinth as a sacrifice.
 
-The conversation stretches into a short rest. [[Finnan Oakstride|Finnan]] looks for magic, but apart from Justas's shield nothing on the platform or in the false sky gives a clean signature. Meanwhile the cloud presses lower, the wind howls harder, and the woman curls in on herself, saying the beast does not like waiting. The group tests the platform for means of escape, but are rebuffed. An object dropped straight down is blown violently back; [[Eolo]] and [[Ekko]] leaping into the void only confirms that the updraft makes escape by flight impossible. With little choice, the party decides to brave the bridges, the maze, and the beast. When [[Finnan Oakstride|Finnan]] asks, the woman introduces herself as [[Kalima]], and tells the party that all paths lead to the beast. She only escaped by luck, after finding an earthen tunnel and digging through it. [[Justas Rhostrin|Justas]] and [[Finnan Oakstride|Finnan]] argue that she is safer with them than left on the platform alone; she agrees to come if she can stay between them, and the group sets out across the bridge into the snowy maze.
+The conversation stretches into a short rest. [[Finnan Oakstride|Finnan]] looks for magic, but apart from Justas's shield nothing on the platform or in the false sky gives a clean signature. Meanwhile the cloud presses lower, the wind howls harder, and the woman curls in on herself, saying the beast does not like waiting. The group tests the platform for means of escape, but is rebuffed. An object dropped straight down is blown violently back; [[Eolo]] and [[Ekko]] leaping into the void only confirm that the updraft makes escape by flight impossible. With little choice, the party decides to brave the bridges, the maze, and the beast. When [[Finnan Oakstride|Finnan]] asks, the woman introduces herself as [[Kalima]], and tells the party that all paths lead to the beast. She only escaped by luck, after finding an earthen tunnel and digging through it. [[Justas Rhostrin|Justas]] and [[Finnan Oakstride|Finnan]] argue that she is safer with them than left on the platform alone; she agrees to come if she can stay between them, and the group sets out across the bridge into the snowy maze.
 
 ## Combat
 
 **Ice Platform Battle.** The fight erupts when the frozen wolves awaken and escalates through wind-shades and chasm wisps before the party stabilizes [[Kalima]] and secures the platform.
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Recorded the session-year POV, normalized frontmatter order, and corrected a doubled period and verb agreement.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Warning — source.internal_conflict:** The opening summary says the party chooses to leap into the maze. The final paragraph distinguishes the unsuccessful jumps from the party’s departure with Kalima across a bridge. Suggested summary ending: “before they choose to cross a bridge into the maze that may be the only way out.”
+- [ ] **Suggestion — metadata.companions:** The empty companions field omits [[Rala]], identified in the cast as Jrain’s bird companion and described scouting for the party. Suggested field: `companions: [Rala]`.
+%%^End%%

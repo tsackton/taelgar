@@ -1,9 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [meta]
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [meta, status/check/lint]
 noPublish: true
+name: Campaign Inventory
 dm_owner: none
 dm_notes: none
+POV: modern
 ---
 # Campaign Inventory
 
@@ -19,7 +23,7 @@ The following is a comprehensive list of all campaigns, mini-campaigns, and sing
 
 ### Full Campaigns
 
-Games that are, or at least were designed as, full length campaigns, consisting of multiple adventures linked in some way. 
+Games that are, or at least were designed as, full-length campaigns, consisting of multiple adventures linked in some way.
 
 #### Fully Canonical
 
@@ -56,7 +60,7 @@ Single adventures, typically running between one and six sessions.
 #### Fully Canonical
 
 - [[Labyrinths of the Lost]] *(Finished, three sessions, level 2-3)*. Set October 17–19, DR 1748. Campaign code: lablost.
-- [[Into the Chasm]]. *(Finished, six session, level 6)*. Sat in January DR 1730. Campaign code: itc. 
+- [[Into the Chasm]]. *(Finished, six sessions, level 6)*. Set in January DR 1730. Campaign code: itc.
 - [[Lost in the Feywild]]. *(Finished, seven sessions, level 3)*. Set in October DR 1740. Campaign code: feywild.
 
 #### Partially Canonical
@@ -69,3 +73,19 @@ Single adventures, typically running between one and six sessions.
 - Informatics One Shot. Set in an ambiguous DR 1700s time frame, in the Sembara Highlands. Two sessions, finished. Level 2-3. Some notes exist in OneNote, based on a mishmash of two published adventures. 
 - Tollen One Shots. Not canonical, primarily because details are poorly recorded. Set in an ambiguous 1700s time frame. Two sessions (one D&D, one FATE), finished. Low level. Episode 1 is recorded and could be transcribed and made canonical. Other notes exist in OneNote. 
 - Taelgar 2.0 Alexandria One Shot. Not canonical, although possibly canonical in an alternate timeline. Run in Alexandria in 2019, set in an alternate version of the Blood Years. GURPS rules, self-insert characters. Finished. Some notes might exist on paper. 
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added the explicit title and modern POV. Corrected “six session,” “Sat in January,” and the compound modifier “full-length.”
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Warning — coverage.established_fact_missing:** The inventory calls its list comprehensive but omits [[Dragonets Campaign]], which has two session notes and the registered code dgnt. Add “[[Dragonets Campaign]] follows Heska, Sculpit, Little Tony, and Zeno on the Circular Island. Campaign code: dgnt.” Confirm its intended length and canon category when placing the entry.
+- [ ] **Warning — coverage.later_material_change:** The Cleenseau entry still gives DR 1720 as current. [[Cleenseau - Session 38]] records February 1, 1721 as its endpoint. Replace “Currently sometime in DR 1720” with “Session 38 ended on February 1, DR 1721.”
+- [ ] **Warning — coverage.later_material_change:** The Mawar entry dates Episode 5 a year earlier than [[Mawar Adventures Episode 05]], whose header and timeline agree on May 27, DR 1749. Replace “currently (DR::1748-05-27)” with “Episode 5 ended on (DR:: 1749-05-27)”.
+%%^End%%

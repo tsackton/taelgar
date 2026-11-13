@@ -1,11 +1,16 @@
 ---
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [meta]
 hide: [toc]
+campaign: Mawar Adventures
+name: Mawar Adventures
+POV: 1740s
 ---
 
 The Mawar Adventures is a series of episodic adventures united by a shared setting, the sparsely populated land of rocky coasts and dense forests known as the [[Mawakel Peninsula]], and a [[Adventurers of Mawar|common cast of characters]]. 
 
-The Mawar Adventures have largely taken place around the port town of [[Hamri]], on the western coast of the peninsula, and a significant port within the [[Mawar Confederacy]]. Hamri is the home of many adventurers, some of have been here for years, others who are only passing through or have recently returned, who collectively make up the [[Adventurers of Mawar]]. They included:
+The Mawar Adventures have largely taken place around the port town of [[Hamri]], on the western coast of the peninsula, and a significant port within the [[Mawar Confederacy]]. Hamri is the home of many adventurers, some of whom have been here for years, others who are only passing through or have recently returned, who collectively make up the [[Adventurers of Mawar]]. They included:
 - [[Ryu]], a hunter and ranger with a shapeshifting beast companion known as Turk, in shark form; Blu, in osprey form; and Geo in bear form. 
 - [[Trok]], a tattooed lizardfolk warrior, estranged from his village
 - [[Wazir]], an artificer and scholar, trained in Chardon, now owner of the [[Leviathan Inn]]

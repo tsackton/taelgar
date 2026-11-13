@@ -1,19 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [session-note, status/check/lint]
 campaign: Addermarch
 sessionNumber: 18
 realWorldDate: 2026-01-02
 DR: 1715-05-26
 DR_end: 1715-05-27
 players: [Yvan Greenrabbit, Drou, Fazoth de Brune]
-name: Addermarch Campaign - Session 18
-tagline: in which the fights skeletons and finds the mine blocked
+tagline: in which the party fights skeletons and finds the mine blocked
 descTitle: Into the Mine
+name: Addermarch Campaign - Session 18
+POV: 1715
 ---
 # Addermarch Campaign - Session 18
 
->[!info] Into the Mine: in which the fights skeletons and finds the mine blocked
+>[!info] Into the Mine: in which the party fights skeletons and finds the mine blocked
 > *Featuring: [[Yvan Greenrabbit]], [[Drou]], [[Fazoth de Brune]]*
 > *In Taelgar: (DR:: 1715-05-26) - (DR:: 1715-05-27)*
 > *On Earth: Friday January 2, 2026*
@@ -47,7 +50,7 @@ At [[Serethwyn Tor]], the party clears the officer's barracks and pushes into th
 
 We begin in the late afternoon, as the party fights a group of skeletons in the officer's barracks. Several of them are immune to fire, which Yvan realizes after attempting to hit them with a sorcerous burst. Though this initially confounds Yvan's strategy, with Drou's giant constrictor snake and Fazoth's fey ally, the party avoids taking many hits from the skeletons. However, the snake is badly wounded in the fight, as skeletons keep exploding in shards of fire or bone when they die, though Drou is able to turn it back into a staff before it dies.
 
-After a quick search reveals no more enemies (along with signs of ancient fire damage, and some possible bodies of Rangers buried under collapsed stone), the party takes a breather. After a quick rest, and a short walk through the barracks uncovers nothing more interesting than [[avatus-symbol-sketch.png|Avatus' symbol]] on some gear, the party enters the mine area. Here, they quickly explore a work shed, finding what is probably Duncan's camp, before heading into the mine.
+After a quick search reveals no more enemies (along with signs of ancient fire damage, and some possible bodies of Rangers buried under collapsed stone), the party takes a breather. After a quick rest and a short walk through the barracks that uncovers nothing more interesting than [[avatus-symbol-sketch.png|Avatus' symbol]] on some gear, the party enters the mine area. Here, they quickly explore a work shed, finding what is probably Duncan's camp, before heading into the mine.
 
 The mine cuts horizontally into the hill for a few hundred feet before it dead-ends in a massive cave-in. In the cave-in chamber, the party encounters skeletons and [[Serpentine|serpentine]] wights. Drou's _Hypnotic Pattern_ puts most of them to sleep as the battle opens, and Yvan's wild magic surge summons a unicorn, who makes quick work of the undead. Though the unicorn quickly departs, she shares that she can sense no more undead in these upper mine chambers, and suggests this would be a safe place to rest.
 
@@ -74,3 +77,18 @@ obvious signs after the battle that the cave-in was intentional, and recent sign
 session ends the next morning, in the mine, after a long rest.
 
 %%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Recorded the session viewpoint as DR 1715 and normalized frontmatter order.
+- Restored the missing subject in the tagline and its callout and repaired the grammar of the barracks search.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Suggestion — editorial.shared_material_redundant:** The ordinary comment headed “RAW notes” repeats the barracks fight, rest, mine entrance, cave-in, and unicorn intervention already covered by the timeline and narrative. Trim those repeated beats and retain the distinct play details as source notes, including the scout’s fate, the unicorn’s healing, and the direction of the footprints.
+%%^End%%

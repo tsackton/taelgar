@@ -1,14 +1,17 @@
 ---
-tags: [session-note]
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [session-note, status/check/lint]
 campaign: Dunmari Frontier
 sessionNumber: 91
 realWorldDate: 2024-01-12
 DR: 1749-03-09
 DR_end: 1749-03-18
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
-name: Dunmari Frontier - Session 91
 tagline: in which the party negotiates with frost giants
 descTitle: Into the Cold
+name: Dunmari Frontier - Session 91
+POV: 1749
 ---
 # Dunmari Frontier - Session 91
 
@@ -34,7 +37,7 @@ The [[Dunmar Fellowship]] defeats more shadow hunters, traverses the [[Svinjo Mo
 - (DR:: 1749-03-14): Fly across [[Vostok]]
 - (DR:: 1749-03-15), evening: Reach [[Svinjo Mountains]] amid gathering clouds and a threatened storm 
 - (DR:: 1749-03-16): Wait out snowstorm on the ground
-- (DR:: 1749-03-17), morning: Cross [[Svinjo Mountains]] mountains
+- (DR:: 1749-03-17), morning: Cross the [[Svinjo Mountains]]
 - (DR:: 1749-03-17), afternoon: See frost giants watching over dwarven miners. Speak to giants, and dwarves. Learn about [[Brimskarda]], King of the Frost Giants. Send lynx messenger with letter of introduction ahead. Travel to [[Brimskarda]]'s steading, [[Isenborg]].
 - (DR:: 1749-03-18), afternoon: Arrive at [[Brimskarda]]'s steading
 
@@ -48,13 +51,13 @@ The next morning, the party discussed their route north with [[Kecha]], the [[Ke
 
 The morning of March 13th, the party departed Tollen after nearly a month in town, with a refitted ship. The journey across [[Vostok]] was largely uneventful, the weather cold but clear as the [[Svinjo Mountains]] neared. The evening of March 15th, however, brought storm clouds, and March 16th was a day of whiteout snow, forcing the party to remain sheltered. 
 
-Once the storm cleared, they debated their route, considering the rumored [[Giants|frost giant]] presence. [[Wellby]] communicated with birds, learning about the dangers north, including giant wolves and giant people's settlements. Driven by curiosity, the party headed in the direction of these giant's territory. 
+Once the storm cleared, they debated their route, considering the rumored [[Giants|frost giant]] presence. [[Wellby]] communicated with birds, learning about the dangers north, including giant wolves and giant people's settlements. Driven by curiosity, the party headed in the direction of these giants’ territory.
 
 Mid-afternoon the next day, on March 17th, the party spotted a group of dwarves emerging from a mine, under the watchful eye of two frost giants mounted on woolly mammoths. 
 
 ![[dufr-091-frost-giant-on-mammoth.jpeg]]
 
-The party debated what to do, as [[Kenzo]]'s communion with nature suggested that while the frost giants were indigenous to this land, they were not wholly in harmony with it. Deciding to talk, [[Delwath]] sent his lynx messenger with a note requesting parlay. The giant -- curious but also on edge -- approached to speak as [[Wellby]] snuck off under an invisibility spell to try to talk to the dwarves. 
+The party debated what to do, as [[Kenzo]]'s communion with nature suggested that while the frost giants were indigenous to this land, they were not wholly in harmony with it. Deciding to talk, [[Delwath]] sent his lynx messenger with a note requesting parley. The giant -- curious but also on edge -- approached to speak as [[Wellby]] snuck off under an invisibility spell to try to talk to the dwarves.
 
 [[Delwath]], understanding the giant's language through a spell, negotiated. The giant revealed they were on [[Brimskarda]]'s land, a powerful frost giant king. [[Delwath]] shared tales of their adventures, impressing the giant, who suggested a meeting with [[Brimskarda]]. The giant wrote an introduction note for [[Delwath]] to Brimskarda. [[Delwath]] sent a lynx with the note, planning to follow for a proper introduction and potentially negotiate or gather intelligence.
 
@@ -91,7 +94,7 @@ Our session ends the next afternoon, as the party approached the steading of the
 - Kenzo reflects on time spent with a lady friend and his spiritual outreach efforts in Tollen, including open house events to engage with locals interested in 'cool monk shit'.
 - Delwath spends time talking to Sura, as part of his informal support group for those disoriented by time spent in cursed dimensions.
 - The group prepares to depart Tollen, focusing on their ship's readiness and ensuring they have adequate supplies for the cold. They aim to fly over risky areas to avoid vampires and potentially engage with giants and changelings.
-- Delwath attempts to harrass Fausto using the Dream spell, realizing Fausto might be in another plane of existence due to the spell's failure.
+- Delwath attempts to harass Fausto using the Dream spell, realizing Fausto might be in another plane of existence due to the spell's failure.
 - The party, along with their newly recruited mapmaker and an elf gardener, depart. Discussions about the future, preparations for the cold, and potential encounters in the north dominate as they leave Tollen.
 
 #### Scene 3
@@ -132,9 +135,9 @@ Our session ends the next afternoon, as the party approached the steading of the
 - Delwath shares tales of their adventures to match the giants' boasting, highlighting their encounters with formidable foes like Grash.
 - The giant, impressed by Delwath's stories, suggests Brimskarda would be interested in meeting them, and discusses possible introductions.
 - Wellby and Delwath gather information from the dwarves and the giant about Brimskarda kingdom, including the nature of the giants' rule and the dwarves' situation.
-- Although the dwawrves are closed and don't speak extensively to Wellby, he learns that the dwarves are basically indentured servants, who work for the giants in exchange for protection, and feel somewhat trapped with no good alternatives. 
+- Although the dwarves are closed and don't speak extensively to Wellby, he learns that the dwarves are basically indentured servants, who work for the giants in exchange for protection, and feel somewhat trapped with no good alternatives.
 - The party learns about Brimskarda's deeds, including dragon slayings, and the opulence of his reign, deciding to approach him for a meeting.
-- The giant writes a note of introduction for Delwath  to Brimskarda, indicating his interest in the elf warrior's stories.
+- The giant writes a note of introduction for Delwath to Brimskarda, indicating his interest in the elf warrior's stories.
 - Delwath sends a lynx with the note to Brimskarda, planning to follow after to ensure a proper introduction and possibly negotiate or gather intelligence.
 - The scene ends as the party approaches Brimskarda's steading the next afternoon, with plans to speak with the king
 ### Short Summary
@@ -148,3 +151,19 @@ The party strategizes on how to approach two giants guarding a mining operation 
 
 The party, using peaceful and diplomatic means, communicates with giants and dwarves to navigate the complexities of their situation. They gather information about Brimskarda and his kingdom, and Delwath secures a note of introduction, setting the stage for a direct meeting with the frost giant king.
 
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added `POV: 1749` for the dated session.
+- Removed the duplicated “mountains” and corrected “parley,” the giants’ possessive, two misspellings, and a doubled space.
+- Normalized frontmatter formatting.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Suggestion — campaign.noncanonical_name:** The campaign field uses the registered alias “Dunmari Frontier.” Use the canonical field value `campaign: Dunmar Frontier`.
+- [ ] **Warning — consistency.internal_conflict:** The session timeline and closing scene end on March 18, but the separate Mirror of the Past entry records March 27. [[Phasing Stone Vision]] independently gives March 27. Confirm whether the entry is intended as a later reference. If so, label its heading `### Mirror of the Past (after this session)` and keep the dates intact.
+%%^End%%

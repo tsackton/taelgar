@@ -1,5 +1,7 @@
 ---
-tags: [session-note]
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [session-note, status/check/lint]
 campaign: Dunmari Frontier
 sessionNumber: 44
 realWorldDate: 2022-04-14
@@ -10,6 +12,7 @@ companions: [Johar, Justan, Copper Hill Bandits]
 tagline: in which bitter battles are fought with Chardonians
 descTitle: Charm and Conflict
 name: Dunmari Frontier - Session 44
+POV: 1748
 ---
 # Dunmari Frontier - Session 44
 
@@ -19,13 +22,13 @@ name: Dunmari Frontier - Session 44
 > *On Earth: Thursday Apr 14, 2022*
 > *[[Vandar]], [[Copper Hills]]*
 
-The[[ Dunmar Fellowship]] engages in combat with charmed allies and adversaries, leading to a tense negotiation, a failed theft attempt, and a bitter truce in [[Vandar]].
+The [[Dunmar Fellowship]] engages in combat with charmed allies and adversaries, leading to a tense negotiation, a failed theft attempt, and a bitter truce in [[Vandar]].
 ## Session Info
 ### Summary
 - [[Kenzo]] attacks [[Kadmos]] but is knocked unconscious by [[Hektor]].
 - [[Kenzo]] breaks [[Wellby]]'s charm; Chardonians speculate on the [[Scepter of Command]]'s influence.
 - Negotiations fail, but violence is averted as Chardonians and party rest separately.
-- The party arrives at [[Vandar]], searching for the wyvern's lair, and camp in a ruined temple. 
+- The party arrives at [[Vandar]], searching for the wyvern's lair, and camps in a ruined temple.
 - A nighttime theft attempt by [[Marcella]] escalates into a battle, ending with a bitter truce and reparations.
 
 ### Timeline
@@ -48,3 +51,19 @@ That evening, after midnight, a group of the Chardonians attempts to stealthily 
 As everyone approaches the end of their resources and health, and the battle threatens to leave one or more people on both sides dead, [[Marcella]] approaches from down the path, battered but miraculously and luckily recovered. She implores everyone to stop fighting, and [[Kadmos]], badly wounded and nearing death, does not argue. While the conversation is bitter, the parties eventually agree that [[Kadmos]] will take the [[Ever Spinning Top]], and [[Casian]] will pay a wereguild of 25 gold per bandit killed, a total of 175 gp, but [[Marcella]]’s weapons and ring of haste will be returned to her. 
 
 While these negotiations are happening, [[Wellby]] and [[Marcella]] grab a private moment out of sight behind the Wall of Fire summoned by [[Casian]]. After a whispered conversation, [[Marcella]] turns disdainfully away and looks back at [[Wellby]] with anger. But [[Wellby]] has a thoughtful look on his face.
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Recorded the session’s DR 1748 viewpoint.
+- Repaired spacing at the opening party link and subject–verb agreement in the summary.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Suggestion — campaign.noncanonical_name:** The frontmatter uses the recognized alias `Dunmari Frontier`. [[Campaign Registry]] lists the canonical long name for this field. Use `campaign: Dunmar Frontier`.
+- [ ] **Warning — temporal.internal_conflict:** The narrative calls the attack “after midnight,” while the timeline records the attack on July 23 after the party arrived that evening. [[Session 45 (DuFr)]] also dates the immediate aftermath to the night of July 23. Confirm whether “after midnight” denotes July 24 or is a loose description of that night. If the July 23 date stands, use “Late that night” in the narrative; otherwise reconcile the midnight boundary in the two timelines and session date ranges.
+%%^End%%

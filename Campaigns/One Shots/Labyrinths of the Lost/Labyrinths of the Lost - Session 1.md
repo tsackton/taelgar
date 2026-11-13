@@ -1,23 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - session-note
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [session-note, status/check/lint]
 campaign: Labyrinths of the Lost
 sessionNumber: 1
 realWorldDate: 2023-11-12
 DR: 1748-10-17
 DR_end: 1748-10-17
-players:
-  - Acescale
-  - Gaudin
-  - Loria
-  - Dilion
+players: [Acescale, Gaudin, Loria, Dilion]
 companions: []
-name: Labyrinths of the Lost - Session 1
 descTitle: The Smithy Escape
 tagline: in which four captives escape their goblin jailers
 sessionKey: labyrinths-of-the-lost-session-1
 session-template: lablost-template.md
+name: Labyrinths of the Lost - Session 1
+POV: 1748
 ---
 # Labyrinths of the Lost - Session 1
 
@@ -74,3 +72,18 @@ Once the immediate danger has passed, the party searches the goblin room thoroug
 The moment the goblins move to grab [[Loria Underbough|Loria]], she panics and throws a _Fog Cloud_ across the path and hedgerow, triggering a vicious fight. Fighting through the mist, [[Loria Underbough|Loria]] cuts down the goblin grappling her, [[Gaudin]] slips clear and starts firing from range, [[Dilion]] and his steel defender press forward from behind the hedge, and [[Acescale]] drops another guard with his crossbow. The last path goblin is knocked unconscious, [[Folcan]] is battered and taken alive, and the party retreats to the smithy to question him.
 
 Back in the forge, the party interrogates [[Folcan]]. [[Folcan]] threatens that his pack of 10 loyal goblins will come save him if they aren't careful, and rants about [[Ulgna]] being too cowardly and useless. Acescale's attempts at intimidation don't go too well, until [[Gaudin]] blasts him with an eldritch blast, and then [[Acescale]] revives him with a cure wounds. This shakes [[Folcan]] to the core, and terrified, he talks. He explains about [[Grimstone]], who appears each week in black robes and a white marble mask, and takes one prisoner into the manor. He lets the goblins keep loot, though he takes the best treasure for himself. The manor, though, is guarded by hobgoblins, who also guard the road. The best way in, he says, is tunnels: from the barracks and kitchen, and maybe the chapel, tunnels lead toward the wine cellar. He then promises to return to the goblin barracks and tell everyone he has dealt with the situation. If [[Folcan]] is true to his word, no one will be coming to bother the party for at least a day. No goblins, at least.
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Recorded `POV: 1748` for the dated session.
+- Normalized frontmatter order and collection formatting.
+
+### Validated judgments
+- The repeated “ha ha” is laughter in quoted dialogue.
+
+### Open findings
+
+- [ ] **Warning — editorial.prose_clarity:** The opening and timeline say two groups were killed, but the narrative distinguishes a guard knocked unconscious and Folcan captured. Clarify the collective wording in both places: “defeat two groups of goblin guards.” In the combat entry use “defeat the exposed guards” for the same reason.
+%%^End%%

@@ -1,6 +1,8 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [session-note, status/check/lint]
 websiteSessionView: zoomable
 campaign: Dunmar Frontier
 arc: "Arc 1: Dangers in the Desert"
@@ -10,11 +12,12 @@ DR: 1748-03-25
 DR_end: 1748-03-26
 players: [Kenzo, Wellby, Delwath, Seeker]
 companions: []
-name: "Dunmari Frontier - Session 3"
-descTitle: "Curses and Cockatrices"
-tagline: "in which an old fort reveals its secrets"
+descTitle: Curses and Cockatrices
+tagline: in which an old fort reveals its secrets
 sessionKey: dunmari-frontier-session-3
 session-template: dunmar-frontier-template.md
+name: Dunmari Frontier - Session 3
+POV: 1748
 ---
 # Dunmari Frontier - Session 3
 
@@ -96,10 +99,26 @@ After defeating the undead, the party realizes the obsidian staff must be the so
 
 ## Treasure and Things
 
-- [[Aagir's Everlight]] (Dunmari magic wonderous item): silver spearpoint statuette with an unconsuming flame, later used as a wedge against the obsidian, kept by [[Kenzo]].
+- [[Aagir's Everlight]] (Dunmari magic wondrous item): silver spearpoint statuette with an unconsuming flame, later used as a wedge against the obsidian, kept by [[Kenzo]].
 - Dunmari temple relics: including chalices, candlesticks, amulets, and other sacred objects, gathered by the party.
 - [[Horn of Silent Alarm (Dunmari)]] (common Dunmari magic horn): magical ram's horn decorated with silver filigree in a running-horse design, kept by [[Kenzo]].
 - [[Floating Disc Coin]] (magic coin): heavy old Chardonian coin that unfolds into a hovering disc when flipped, kept by [[Seeker]].
 - Black Iron Staff: weapon crowned with malignant obsidian that radiated rage even after its bearer died, carved with a quote in Draconic: "I bind you to the black wind. I bind you to my flame. I bind you in my power until the sun fails and the moon is dead." Kept by the party.
 - Cha'mutte symbol necklace: silver wing-and-flame necklace with a black pearl, tentatively associated with Cha'mutte's armies, kept by the party.
 - Obsidian shards: mundane fragments collected after the staff's magical crown was shattered.
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Recorded the article viewpoint as `POV: 1748`.
+- Normalized frontmatter ordering.
+- Corrected “magic wonderous item” to “magic wondrous item”.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Warning — consistency.internal_conflict:** The narrative counts three buildings with standing walls but lists the headquarters, temple and two gate towers. The later search visits both towers. If the towers are counted together as the gate, replace “only three buildings still have walls” with “walls remain at the headquarters, temple, and gate.”
+%%^End%%

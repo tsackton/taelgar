@@ -1,5 +1,7 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
 campaign: Lost in the Feywild
 sessionNumber: 7
@@ -7,12 +9,13 @@ realWorldDate: 2026-08-04
 DR: 1740-10-06
 DR_end: 1740-10-06
 players: [Kaito Min, Edric, Tarek, Ayveen, Txarro]
-name: "Lost in the Feywild: Episode 07"
-descTitle: "The Bottom of the Bottomless Well"
-tagline: "in which stories teach the prisoner to let go"
+descTitle: The Bottom of the Bottomless Well
+tagline: in which stories teach the prisoner to let go
 sessionKey: lost-in-the-feywild-session-7
 session-template: feywild-template.md
 websiteSessionView: zoomable
+name: "Lost in the Feywild: Episode 07"
+POV: 1740
 ---
 # Lost in the Feywild: Episode 07
 
@@ -66,4 +69,4 @@ The prisoner opens its hands. A hundred captive souls scatter like milkweed seed
 ## Places
 
 - [[27th House|27th Room]] (manor in the [[Twilight Kingdom]], the [[Feywild]]): shifting central prison chamber built to confine the telepathic soul collector and conceal its position in space and time. Session context includes: lightless central prison chamber inside [[Dandelion House]].
-- [[Twilight Promontory]] (promotory in the [[Twilight Kingdom]], the [[Feywild]]): twilight slope revealed when [[Dandelion House]] collapses, where the party watches the prisoner return home through a low stone well. Session context includes: the central prison and [[Dandelion House]] collapse and exposing the hillside and a low stone well.
+- [[Twilight Promontory]] (promontory in the [[Twilight Kingdom]], the [[Feywild]]): twilight slope revealed when [[Dandelion House]] collapses, where the party watches the prisoner return home through a low stone well. Session context includes: the central prison and [[Dandelion House]] collapse and expose the hillside and a low stone well.

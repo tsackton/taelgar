@@ -1,4 +1,6 @@
 ---
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
 campaign: Dunmari Frontier
 sessionNumber: 4
@@ -7,8 +9,9 @@ DR: 1748-03-26
 DR_end: 1748-03-29
 players: [Kenzo, Wellby, Delwath, Seeker]
 tagline: in which the party uncovers dire truths
-descTitle: Shakun's Wane
-name: "Dunmari Frontier - Session 4"
+descTitle: "Shakun's Wane"
+name: Dunmari Frontier - Session 4
+POV: 1748
 ---
 # Dunmari Frontier - Session 4
 
@@ -25,7 +28,7 @@ The [[Dunmar Fellowship]] arrives in [[Karawa]] and discovers that the [[Shakun'
 ### Summary
 - The [[Dunmar Fellowship]] departs the fort with various artifacts and heads to Karawa.
 - In [[Karawa]], they learn from Elder [[Kisa]] about past disturbances and the [[Summer of Red Storms]].
-- The party learns more about [[Arcus]], attacked herders, and the upcoming [[Festival of Rebirth]]  from [[Ikram]], [[Jasu]], and [[Alesh]].
+- The party learns more about [[Arcus]], attacked herders, and the upcoming [[Festival of Rebirth]] from [[Ikram]], [[Jasu]], and [[Alesh]].
 - The [[Charmhearts]], a group of halflings, provide an unsettling encounter with a [[Ander Charmheart|disheveled halfling]] speaking of a 'master'.
 - [[Candrosa]] of the [[Temple of Shakun]] reveals the weakening of [[Shakun's Protection|magical protections]] and seeks the party's help.
 ### Timeline
@@ -41,7 +44,7 @@ The session began with the party waking up in the intact temple of the ruined fo
 
 Traveling back to [[Karawa]] took about 3 days at a fast, but not exhausting, pace. Arriving in the early afternoon on March 29th, the town has changed. Lots of people -- not just Dunmari -- have arrived for the Festival, and the markets and games that accompany it, and a large tent city has grown up on the outskirts of town. The caravanserai is bustling, and there is more activity and trade happening in [[Karawa]] than any of you had seen since arriving in what was a sleepy town. 
 
-RIght away, the party finds Elder [[Kisa]], and reports to her that they seem to have destroyed the source of the disturbances. [[Kisa]] has been quite worried, as news of several more attacks have come into town with travelers returning for the festival. [[Kisa]] is not able to tell them much about the staff, and seems taken aback by the Draconic writing on it, directing them to [[Candrosa]]. She does, however, talk about the [[Summer of Red Storms]], a time about 40 years ago when some half-human, half-hyena creatures rampaged across the border for two months before they were stopped. She also tells them the sketch of the [[Arcus|petrified explorer]] is not someone from [[Karawa]], and directs them to [[Ikram]] to learn more about him. As they leave, she tells them that the town will pay for their stay at [[Ikram's]] while they are here, in thanks for the aid they provided the town.
+Right away, the party finds Elder [[Kisa]], and reports to her that they seem to have destroyed the source of the disturbances. [[Kisa]] has been quite worried, as news of several more attacks has come into town with travelers returning for the festival. [[Kisa]] is not able to tell them much about the staff, and seems taken aback by the Draconic writing on it, directing them to [[Candrosa]]. She does, however, talk about the [[Summer of Red Storms]], a time about 40 years ago when some half-human, half-hyena creatures rampaged across the border for two months before they were stopped. She also tells them the sketch of the [[Arcus|petrified explorer]] is not someone from [[Karawa]], and directs them to [[Ikram]] to learn more about him. As they leave, she tells them that the town will pay for their stay at [[Ikram's]] while they are here, in thanks for the aid they provided the town.
 
 Heading to the [[Ikram's|caravanserai]], the party meets [[Ikram]], who is eager to sit and talk and share stories and meet new people. [[Ikram]] tells them a bit about the petrified explorer. His name was [[Arcus]], and he passed through town maybe a month ago. Kept to himself, and didn’t stay long (and wasn’t the first stranger to come through over the winter; several other quiet, silent types had passed through). [[Ikram]] recalls that [[Arcus]] spoke with a foreign accent, and paid with unusual coin that [[Kenzo]] recognized from the description as Chardonian. [[Arcus]] was interested in artifacts and was asking who might be able to identify them, and was directed to [[Jasu]], the smith. From [[Ikram]], they also learned that [[Alesh]] is considered the local expert in Dunmari history and especially artifacts people turn up on the road, and they heard more news of people who were attacked by beasts. [[Akan]], who the party met at the [[Gomat]] oasis, made it safely to town with his surviving family. Another herder, [[Devana]] and his family, were attacked by axebeaks and lost several family members.
 

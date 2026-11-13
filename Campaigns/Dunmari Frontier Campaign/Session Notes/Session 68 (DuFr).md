@@ -1,5 +1,7 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
 campaign: Dunmari Frontier
 sessionNumber: 68
@@ -10,6 +12,7 @@ players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
 tagline: in which the party reunites and shares tales
 descTitle: Reunion
 name: Dunmari Frontier - Session 68
+POV: 1748
 ---
 # Dunmari Frontier - Session 68
 
@@ -23,13 +26,13 @@ The [[Dunmar Fellowship]] reunites, shares their extraordinary experiences, and 
 ## Session Info
 
 ### Summary
-- The[[ Dunmar Fellowship]] reunites after a lengthy separation, sharing their separate adventures.
+- The [[Dunmar Fellowship]] reunites after a lengthy separation, sharing their separate adventures.
 - [[Delwath]], with allies, sought to restore the lost and trapped [[Tanshi]] in the Forest of Nightmares.
 - [[Riswynn]] and her dwarven allies uncovered the history of the [[Chalice of the Runepriest]] in the [[Shadowfolds]] realm of [[Morkalan]].
 - [[Kenzo]] restored balance in [[Orekatu]] by healing the spirit creature [[Motua]] at the [[Azta Lekua|Footprint of the Gods]]
-- [[Wellby]], after fleeing pirates, solved kidnappings in the[[ Vermillion Isles]] and sought to rescue a wizard.
+- [[Wellby]], after fleeing pirates, solved kidnappings in the [[Vermillion Isles]] and sought to rescue a wizard.
 - [[Seeker]] entered the [[Feywild]], calmed a wild magic storm, and was guided to the fey crossing at [[Lastlight Falls]].
-- The party discusses impending threats, including Dunmar's potential civil war and Grash's march east, and decide to restore Hralgar and then pursue the Cloak of Rainbows to prevent Grash's acquisition.
+- The party discusses impending threats, including Dunmar's potential civil war and Grash's march east, and decides to restore Hralgar and then pursue the Cloak of Rainbows to prevent Grash's acquisition.
 
 ### Timeline
 - (DR:: 1748-11-15): [[Wellby]], [[Seeker]], and [[Kenzo]] exit the [[Feywild]] at sunset, and are reunited with [[Delwath]] and [[Riswynn]].
@@ -64,7 +67,7 @@ We begin as the party meets again, all together after a long absence. Everyone r
 
 During the conversation, the party reads letters from [[Tokra]] and elsewhere, and [[Delwath]] reports on the information he has learned from scrying in [[Scrying Delwath Oct 21|mid October]], [[Scrying Delwath Oct 26|late October]], and [[Scrying Delwath Nov 15|mid November]], and from a [[Interlude (Delwath Postscript)#Dunmar Rumors|week spent on the plains of Dunmar]]. The key facts include:
 
-- [[Dunmar]] is on the bring of civil war: [[Nayan Karnas]] has seemingly not spoken to [[Johar]]; [[Havdar]] is turning bloodthirsty under the sway of a cursed sword; and the Lakan monks have not done anything yet.
+- [[Dunmar]] is on the brink of civil war: [[Nayan Karnas]] has seemingly not spoken to [[Johar]]; [[Havdar]] is turning bloodthirsty under the sway of a cursed sword; and the Lakan monks have not done anything yet.
 - [[Kadmos]] and company, now traveling with a subdued [[Vola]] (whether due to mundane or magical coercion is not entirely clear), are crossing [[Dunmar]].
 - [[Grash]] is preparing to march east, and soon, with a large army of [[Orcs]] and undead, presumably to recover the [[Cloak of Rainbows]] which was, according to [[Govir]]'s research, lost in a fortification of the [[Aagir Mystai]] to the east during the [[Great War]]. 
 - A man in [[Ursk]] named [[Radomir]] found a [[Jade Piece of Rai's Hand]], and it is now apparently in the possession of someone or something called [[Rodnya Voknaz]].

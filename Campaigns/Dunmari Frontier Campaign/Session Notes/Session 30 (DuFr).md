@@ -1,5 +1,7 @@
 ---
-tags: [session-note]
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [session-note, status/check/lint]
 campaign: Dunmari Frontier
 sessionNumber: 30
 realWorldDate: 2021-09-10
@@ -8,8 +10,9 @@ DR_end: 1748-06-04
 players: [Kenzo, Wellby, Delwath, Seeker, Drikod]
 companions: [Garret Tealeaf]
 tagline: in which the party outsmarts magical traps
-descTitle: Agata's Enchanted Lair
+descTitle: "Agata's Enchanted Lair"
 name: Dunmari Frontier - Session 30
+POV: 1748
 ---
 # Dunmari Frontier - Session 30
 
@@ -27,7 +30,7 @@ The [[Dunmar Fellowship]] navigates magical defenses and loots [[Agata's Lair]],
 ### Summary
 - The [[Dunmar Fellowship]] leaves [[Karawa]], caches supplies in [[Bas Udda]], and heads south.
 - They avoid a battle and fly over deadly trees to reach Agata's lair.
-- At the lair,Seeker dispels a scarecrow's enchantment, revealing it to be a trapped halfling named [[Garret Tealeaf]]. 
+- At the lair, Seeker dispels a scarecrow's enchantment, revealing it to be a trapped halfling named [[Garret Tealeaf]].
 - They overcome a [[Mirror of Soul Trapping]], freeing trapped members, and then looting treasures from the lair. 
 - The party retreats to a nearby canyon with their loot, planning to return after preparing.
 ### Timeline
@@ -35,7 +38,7 @@ The [[Dunmar Fellowship]] navigates magical defenses and loots [[Agata's Lair]],
 - (DR:: 1748-06-03): Arrive in Bas Udda. Spend the night.
 - (DR:: 1748-06-04), morning: Leave Bas Udda heading south, looking for [[Agata's Lair]]. 
 - (DR:: 1748-06-04), midday: Loot [[Agata's Lair]].
-- (DR:: 1748-06-04), evening: Retreat mile or so north for the night. Camp. 
+- (DR:: 1748-06-04), evening: Retreat a mile or so north for the night. Camp.
 
 
 ## Narrative
@@ -52,3 +55,22 @@ After [[Delwath]], [[Drikod]], and [[Wellby]] are freed from the mirror, the par
 The party decides to retreat for the evening with the loot before returning to destroy the house in the morning with more resources. Taking all the magic and valuable treasure they could find, as well as the nice wooden table and chair in the kitchen they suspect are actually the last two trapped people, they fly back using [[Seeker]]’s animated boulder and [[Delwath]]’s magic. 
 
 As the session ends, the party is setting up camp in a small canyon about 1 ½ miles north of [[Agata]]’s lair. [[Seeker]] attempts to break the enchantment on both the chair and the table, succeeding only on one, the table, which turns into an [[Shandar|old Dunmari man]], catatonic and rocking back and forth in confusion and fear.
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Recorded the session’s dated viewpoint in frontmatter.
+- Normalized frontmatter order and formatting.
+- Corrected “At the lair,Seeker” to “At the lair, Seeker”, “Retreat mile or so” to “Retreat a mile or so”.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Suggestion — campaign.noncanonical_name:** The campaign registry recognizes “Dunmari Frontier” as an alias. Use the registered long name in this field: `campaign: Dunmar Frontier`.
+- [ ] **Warning — chronology.source_conflict:** The frontmatter and header start June 1, while the first timeline entry places departure on June 2. The transcript opens at dawn and records two overnight stops, allowing June 1–3 or June 2–4. [[Garret Tealeaf]] also dates the rescue differently. Reconcile the start, rescue, and closing dates together. Pending review: “The party rides out at dawn, reaches Bas Udda on the second day, and enters the lair on the third.”
+- [ ] **Warning — chronology.source_conflict:** The timeline puts the final retreat in the evening. The Session 30 transcript puts arrival at camp at about 1:30–2 p.m. Verify the intended watch before replacing “evening” with “early afternoon.”
+- [ ] **Warning — correctness.source_conflict:** The closing paragraph frees an old man from the table and leaves the chair enchanted. In the Session 30 transcript (u3441–u3509), the man is freed from the chair and the table stays enchanted. Confirm the furniture identities against [[Shandar]] and [[Kaya]] before revising the linked names. A neutral interim wording is “Seeker breaks one enchantment, freeing an old Dunmari man. The other piece of furniture remains enchanted.”
+%%^End%%

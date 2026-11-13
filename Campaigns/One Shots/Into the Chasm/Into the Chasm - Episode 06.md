@@ -1,6 +1,8 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [session-note, status/check/lint]
 campaign: Into the Chasm
 sessionNumber: 6
 realWorldDate: 2026-02-04
@@ -8,11 +10,12 @@ DR: 1730-01-29
 DR_end: 1730-01-29
 players: [Finnan, Jrain, Eolo, Ekko, Justas]
 companions: []
-name: Into the Chasm - Episode 6
 descTitle: The Chasm Restored
 tagline: in which the willing flee Melusa
 sessionKey: into-the-chasm-session-6
 session-template: into-the-chasm-template.md
+name: Into the Chasm - Episode 6
+POV: 1730
 ---
 # Into the Chasm - Episode 6
 
@@ -67,3 +70,19 @@ Over the next few days, the rescue takes shape. [[Eidrikas]] also shares what he
 **Breakout at the White Portal.** The party emerges inside a dense swarm of portal wisps and fights clear without casualties, leaving the creatures clustered around the gateway.
 
 **The Last Crossing.** [[Justas Rhostrin|Justas]], [[Ekko]], and Finnan's summoned fey draw the portal wisps away while [[Jrain Fanlish|Jrain]] and [[Eolo]] move the refugees through, allowing the last willing villager to escape before [[Eidrikas]] restores the keystone.
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Recorded `POV: 1730` from the dated session account.
+- Normalized frontmatter field order.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Warning — metadata.pronunciation_mismatch:** The cast lists “for-KWAH-ree-on” after “Malquin the Vaqar.” [[Forquarion]] assigns that pronunciation to Forquarion; its documented Malquin alias has no pronunciation. Use “[[Forquarion|Malquin the Vaqar]] (he/him, fey lord): missing ruler of [[Melusa]].”
+- [ ] **Suggestion — metadata.companions_mismatch:** The session recap’s cast identifies Kalima as a companion and the generated session-info component lists her under companions. The published frontmatter has `companions: []` and the narrative identifies her as one of the refugees. Decide whether she counts as a traveling companion here. If so, use `companions: [Kalima]`; otherwise align the source recap’s cast role with the published account.
+%%^End%%

@@ -1,15 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [session-note, status/check/lint]
 campaign: Addermarch
 sessionNumber: 15
 realWorldDate: 2025-11-16
 DR: 1715-05-19
 DR_end: 1715-05-21
 players: [Yvan Greenrabbit, Drou, Fazoth de Brune]
-name: Addermarch Campaign - Session 15
 tagline: in which the party confronts a ghost and gathers clues
 descTitle: The Haunted Cottage
+name: Addermarch Campaign - Session 15
+POV: 1715
 ---
 
 # Addermarch Campaign - Session 15
@@ -63,7 +66,7 @@ The party then gathers information. First they talk to [[Alewyn]], who is excite
 
 Duncan's cottage is a simple one room stone and thatch affair, with a hearth, a table, and a straw bed. There is blood on the doorframe, though, that [[Yvan Greenrabbit|Yvan]] notices, while [[Drou]] finds smeared ash from the hearth suggesting a struggle and a heavy body being dragged, and [[Fazoth de Brune|Fazoth]] notices that the shepherd's crook is broken and hastily mended. Concluding that there was a fight in the cottage, but the body was dragged out, the party goes to search the root cellar. The latch on the door is broken, and inside are the signs of a fire: burned apples, turnips, and straw. Beneath the burned straw is a dead body, from which a vengeful spirit rises to attack. Though it immolates Yvan at the beginning of combat, it cannot leave the root cellar and between Fazoth and Yvan's _Witch Bolt_ spells and Drou's _Shatter_ spell, it is defeated, though [[Yvan Greenrabbit|Yvan]] is nearly killed. 
 
-After the haunt is killed, the party searches the body. [[Fazoth de Brune|Fazoth]] deduces it was likely killed by an axe, though there is also evidence of blunt force trauma. The party also finds scattered ancient coins and treasure (120 ancient gold coins, 300 ancient silver coins, a pendant that looks like a amulet of [[The Warlord]]), and burned scraps of notes, which they take. [[Yvan Greenrabbit|Yvan]], with his painter skills, makes a painting of the dead body. 
+After the haunt is killed, the party searches the body. [[Fazoth de Brune|Fazoth]] deduces it was likely killed by an axe, though there is also evidence of blunt force trauma. The party also finds scattered ancient coins and treasure (120 ancient gold coins, 300 ancient silver coins, a pendant that looks like an amulet of [[The Warlord]]), and burned scraps of notes, which they take. [[Yvan Greenrabbit|Yvan]], with his painter skills, makes a painting of the dead body.
 
 That evening, the party warns the town and gets a good night's rest.
 
@@ -82,3 +85,17 @@ The party returns to [[Roscombe]], and meets with Owen Tavish before dinner. He 
 %% Note: this is a misidentification - the coins are actually older [[House of Entranca]] coins, but Derik I and Avatus are commonly associated so it is an easy mistake to make. %%
 
 We end as the party returns to [[The Traveler's Rest]] to sleep.
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Recorded the DR 1715 viewpoint, normalized frontmatter, and corrected the article before “amulet.”
+
+### Validated judgments
+- The two hidden annotations distinguish private knowledge from what the group heard. The narrative attributes the coin identification to Owen.
+
+### Open findings
+
+- [ ] **Warning — correctness.internal_conflict:** The opening summary locates the conversation with [[Caradoc]] in [[Roscombe]]. The May 21 timeline and narrative place it at his cottage outside [[Brantor]], followed by the meeting with [[Owen Tavish]] in Roscombe. Replace “and returns to [[Roscombe]] to speak with [[Caradoc]]” with “and visits [[Caradoc]] near [[Brantor]] before returning to [[Roscombe]] to speak with [[Owen Tavish]].”
+%%^End%%

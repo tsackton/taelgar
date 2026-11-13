@@ -1,9 +1,14 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [meta]
 hide: [toc]
+campaign: Lost in the Feywild
+name: Lost in the Feywild
 dm_owner: none
 dm_notes: none
+POV: 1740
 ---
 # Lost in the Feywild
 
@@ -75,4 +80,3 @@ Lost in the Feywild is a seven-episode adventure about the [[Tollen Misfits]], a
 ![[feywild-05-27th-house-library.png]]
 
 **[[27th House|The 27th House]]:** A shifting prison of numbered rooms and a prisoner waiting in the dark.
-

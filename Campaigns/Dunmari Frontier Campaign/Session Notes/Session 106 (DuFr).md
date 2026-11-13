@@ -1,5 +1,7 @@
 ---
-tags: [session-note]
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [session-note, status/check/lint]
 campaign: Dunmari Frontier
 sessionNumber: 106
 realWorldDate: 2024-09-12
@@ -7,9 +9,10 @@ DR: 1749-05-16
 DR_end: 1749-05-18
 players: [Seeker, Delwath, Kenzo, Wellby]
 companions: [Tilly Brineheart, Milo Thistlefoot]
-name: Dunmari Frontier - Session 106
 tagline: in which the party battles corruption
-descTitle: The Eldest Tree's Awakening
+descTitle: "The Eldest Tree's Awakening"
+name: Dunmari Frontier - Session 106
+POV: 1749
 ---
 # Dunmari Frontier - Session 106
 
@@ -104,7 +107,7 @@ The party travels to the coast to meet the monkeys and learn more about the jade
 The party takes to the sea in [[Vindristjarna]], following the direction the monkeys pointed towards the jade.
 - The journey across the [[sea of storms]] is initially calm, with strange conditions where waves crash violently despite the lack of strong winds. The party travels for about 7-8 hours, covering 80 miles off the coast.
 - As evening falls, the party encounters a massive storm—a dome of clouds rising hundreds of feet into the air and merging into a thick cloud bank, with the sea below churning violently.
-- Faldrick, captaining [[Vindristjarna]], pauses as the storm comes into view, and the party discusses their options—whether to proceed into the storm or find another way around it.
+- Faldrak, captaining [[Vindristjarna]], pauses as the storm comes into view, and the party discusses their options—whether to proceed into the storm or find another way around it.
 - They decide against entering the storm in the dark, instead flying up to 10,000 feet to get a clearer view. From above, they see that the storm forms a dome, covering a vast area tens of miles in diameter.
 - Unable to detect the jade within the storm, they speculate that it might be hidden somewhere inside or further beyond. The storm’s appearance is unnatural, and its center seems to contain something unknown.
 - The party decides to rest and strategize, flying 20 miles past the storm before turning back to find a safer location for the night. They plan to return at first light to attempt a more thorough investigation.
@@ -132,6 +135,21 @@ The party, led by Milo, decides to sail through the storm using a folding boat, 
 - Emerging from the storm, the party finds themselves in front of an island surrounded by black cliffs in a perfect circle. The island appears strange, with a central mountain, a forest that grows on its slopes, and cascading rivers that vanish into the forest. High above, at the mountain's peak, the party spots mysterious structures.
 - Milo agrees to drop the party on the beach, but he and the halfling crew will stay on the ship, unwilling to risk further dangers. The session ends as the party prepares to set foot on the island, ready to uncover the mysteries it holds.
 
+%%^Lint%%
+## Taelgar note lint
 
+### Applied changes
+- Recorded `POV: 1749` from the dated session account.
+- Normalized frontmatter field order.
+- Corrected “Faldrick, captaining” to “Faldrak, captaining”.
 
+### Validated judgments
+- No additional validated judgments.
 
+### Open findings
+
+- [ ] **Suggestion — campaign.noncanonical_name:** [[Campaign Registry]] recognizes “Dunmari Frontier” as an alias. Use the canonical frontmatter value `campaign: Dunmar Frontier`.
+- [ ] **Suggestion — metadata.header_mismatch:** The callout opens with “Journey to the Mysterious Island,” while descTitle gives “The Eldest Tree’s Awakening”; the two taglines also differ. Both episodes occur. Choose the title and tagline used by the index and visible header. To keep the present header, set `descTitle: Journey to the Mysterious Island` and `tagline: in which the party battles corruption and sails a storm`.
+- [ ] **Warning — correctness.internal_conflict:** “Awakening the Eldest Tree” says the session ends on May 16, though this same session continues through May 18. Replace “The session ends with the party resting for the night” with “The party rests for the night.”
+- [ ] **Suggestion — editorial.prose_clarity:** The summary states that a magical barrier dispelled the spell as a fact. Both the Narrative and “Underwater Exploration Attempt” present it as the party’s explanation. Suggested summary: “Seeker’s transformation ends underwater. The party suspects a magical barrier.”
+%%^End%%

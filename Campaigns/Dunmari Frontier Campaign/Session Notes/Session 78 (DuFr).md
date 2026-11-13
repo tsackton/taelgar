@@ -1,4 +1,6 @@
 ---
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
 campaign: Dunmari Frontier
 sessionNumber: 78
@@ -9,6 +11,7 @@ players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
 tagline: in which Kadmos is defeated
 descTitle: Palace Attack
 name: Dunmari Frontier - Session 78
+POV: 1748
 ---
 # Dunmari Frontier - Session 78
 
@@ -18,7 +21,7 @@ name: Dunmari Frontier - Session 78
 > *On Earth: Thursday Jun 01, 2023*
 > *[[Uzgukhar]]*
 
-The[[ Dunmar Fellowship]] successfully defend the palace against [[Kadmos]]'s attack and secure the [[Cloak of Rainbows]].
+The [[Dunmar Fellowship]] successfully defend the palace against [[Kadmos]]'s attack and secure the [[Cloak of Rainbows]].
 
 ## Session Info
 ### Summary

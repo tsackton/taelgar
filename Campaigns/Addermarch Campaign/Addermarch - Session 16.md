@@ -1,15 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [session-note, status/check/lint]
 campaign: Addermarch
 sessionNumber: 16
 realWorldDate: 2025-11-30
 DR: 1715-05-22
 DR_end: 1715-05-24
 players: [Yvan Greenrabbit, Drou, Fazoth de Brune]
-name: Addermarch Campaign - Session 16
 tagline: in which old records point toward a cursed hill-fort
 descTitle: Trail to Serethwyn Tor
+name: Addermarch Campaign - Session 16
+POV: 1715
 ---
 # Addermarch Campaign - Session 16
 
@@ -19,7 +22,7 @@ descTitle: Trail to Serethwyn Tor
 > *On Earth: Sunday November 30, 2025*
 > *[[Roscombe]] and environs*
 
-Research in Roscombe and a visit to the ranger [[Arvanko]] uncovers information about ancient sites from the [[Serpentine Wars|wars with Avatus]] and points the party toward the ruined hill-fort of [[Serethwyn Tor]].
+Research in Roscombe and a visit to the ranger [[Arvanko]] uncover information about ancient sites from the [[Serpentine Wars|wars with Avatus]] and point the party toward the ruined hill-fort of [[Serethwyn Tor]].
 
 ## Timeline
 
@@ -57,7 +60,7 @@ Research in Roscombe and a visit to the ranger [[Arvanko]] uncovers information 
 
 ### Saturday, May 22nd, 2 Robert I
 
-The party wakes at [[The Traveler's Rest]] in [[Roscombe]] and begins the day by chasing the trail of Geoffrey, the stranger dead in Duncan's cottage and connected to the [[Serpentine Battleaxe]]. After making a lunchtime appointment to meet [[Elowen Duval]], they stop at to speak with [[Colette du Bois]], who remembers Geoffrey staying at the inn, having a brief audience with [[Elowen Duval]], and giving off a dubious, secretive air.
+The party wakes at [[The Traveler's Rest]] in [[Roscombe]] and begins the day by chasing the trail of Geoffrey, the stranger dead in Duncan's cottage and connected to the [[Serpentine Battleaxe]]. After making a lunchtime appointment to meet [[Elowen Duval]], they stop to speak with [[Colette du Bois]], who remembers Geoffrey staying at the inn, having a brief audience with [[Elowen Duval]], and giving off a dubious, secretive air.
 
 Back at the inn, they speak with [[Bertrand LeBlanc]], who recalls Geoffrey arriving from [[Valcroix]] in the fall. The man mostly kept to his room, eating alone and disappearing for days at a time into the [[Highmoor]]. In March he departed in earnest, outfitted for a serious venture: ropes, ladders, and the gear of someone planning to climb or delve. [[Emma Cole]], Bertrand’s niece and the inn’s chambermaid, shares that once, while tidying Geoffrey’s room, she glimpsed a map spread on his table, crammed with annotations in a strange language. One word she recognized—[[Avatus]]—and she recalls several spots circled, especially in the mountains north of the [[Umber]].
 
@@ -77,7 +80,7 @@ Arvanko also speaks of the [[Serpentine Register]], a set of records listing kno
 
 ### Monday, May 24th, 2 Robert I
 
-The next day, the party reaches [[Caradoc]]'s by midday, and pick up their commissioned dose of [[Trueflame]]. They then turn northeast, heading into the Highmoor towards  [[Serethwyn Tor]], walking for the rest of the afternoon before camping for the night.
+The next day, the party reaches [[Caradoc]]'s by midday and picks up their commissioned dose of [[Trueflame]]. They then turn northeast, heading into the Highmoor towards [[Serethwyn Tor]], walking for the rest of the afternoon before camping for the night.
 
 %% RAW notes
 wake up at inn on Sat 5/22
@@ -119,3 +122,19 @@ XP awarded:
 - Getting Arvanko to talk / trust them - 125 XP
 
 %%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Recorded the dated session viewpoint as `POV: 1715`. Normalized frontmatter order.
+- Corrected “uncovers information” to “uncover information”, “and points the party” to “and point the party”, “they stop at to speak” to “they stop to speak”, “by midday, and pick up” to “by midday and picks up”, “towards  [[Serethwyn Tor]]” to “towards [[Serethwyn Tor]]”.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Suggestion — editorial.shared_material_redundant:** The dated portion of the final “RAW notes” comment retells the inn interviews, research, ranger visit, and return to Caradoc already covered in Narrative. Keep the original as a session source if needed. In the article comment, retain just the unique details and the closing table notes.
+- [ ] **Warning — correctness.internal_conflict:** Places describes Arvanko’s homestead as the starting point of the march toward Serethwyn Tor. Timeline and Narrative have the party return to Caradoc before setting out. Replace “starting point for the party’s march toward Serethwyn Tor” with “where Arvanko marks Serethwyn Tor on the party’s map”.
+%%^End%%

@@ -1,4 +1,6 @@
 ---
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
 campaign: Dunmari Frontier
 sessionNumber: 24
@@ -9,6 +11,7 @@ players: [Kenzo, Wellby, Delwath, Seeker]
 tagline: in which the party spies on Grash and flees from orcs
 descTitle: Flight from Kharsan
 name: Dunmari Frontier - Session 24
+POV: 1748
 ---
 # Dunmari Frontier - Session 24
 
@@ -31,7 +34,7 @@ The Dunmar Fellowship explores a desecrated temple, evades revived orc enemies, 
 ### Timeline
 - (DR:: 1748-05-11), evening: Depart [[Hall of Stories]], explore the Temple of Bhishma. Find shadows lurking, and retreat to camp for the evening.
 - (DR:: 1748-05-12), morning: Awake to realization that the [[Orcs|orcs]] killed and imprisoned the day before have revived and escaped, bringing news to Grash. 
-- (DR:: 1748-05-12), mid-morning: Flee south, hoping confuse anyone tracking them in the desert.
+- (DR:: 1748-05-12), mid-morning: Flee south, hoping to confuse anyone tracking them in the desert.
 - (DR:: 1748-05-12), afternoon: Turn west. Camp for the night. 
 - (DR:: 1748-05-13), morning: Depart camp heading north and east, back towards Kharsan.
 - (DR:: 1748-05-13), late morning: Arrive at road and canyon of the Samraat Tombs. Hide horses and gear. [[Delwath]] scouts [[Kharsan]] while invisible; [[Seeker]] spies with clairvoyance on [[Grash]].
@@ -46,7 +49,7 @@ During the night, [[Delwath]] hears something, a distant clink of armor. As morn
 
 After considering a variety of options, the party decides to turn south, and ride fast, not trying to hide their trail, but then cut west and north on the rockier terrain of the cliffs and canyons west of the now-dry [[Kharja]] river, to try to circle back towards [[Kharsan]]. Pushing hard and into the night, they seem to have lost the trail of the [[Orcs]] in the rocky lands to the west, as the night of May 12th is quiet in the desert.
 
-Heading north, the party circles back to the old Dunmari road that cuts through the Samraat Tombs above the city. After hiding the horses with [[Seeker]]’s magical assistance, the party creeps east, to the old bridge, just under a mile fro the palace, with [[Delwath]] and [[Seeker]] traveling invisibly and [[Kenzo]] and [[Wellby]] sneaking. Despite thinking they may have been spotted during the last desperate dash across 100 yards of open ground, the party gathers in the shelter of the bridge, seemingly safe. Here, [[Delwath]] goes to scout the city, and [[Seeker]] casts clairvoyance targeting the middle of the palace, seeing a [[Grash May 13th|vision of Grash]].
+Heading north, the party circles back to the old Dunmari road that cuts through the Samraat Tombs above the city. After hiding the horses with [[Seeker]]’s magical assistance, the party creeps east, to the old bridge, just under a mile from the palace, with [[Delwath]] and [[Seeker]] traveling invisibly and [[Kenzo]] and [[Wellby]] sneaking. Despite thinking they may have been spotted during the last desperate dash across 100 yards of open ground, the party gathers in the shelter of the bridge, seemingly safe. Here, [[Delwath]] goes to scout the city, and [[Seeker]] casts clairvoyance targeting the middle of the palace, seeing a [[Grash May 13th|vision of Grash]].
 
 Meanwhile, [[Delwath]] is scouting the city, looking through the ruins of the northern part of [[Kharsan]]. Much has been destroyed here, either long ago, or more recently mined for stone to reconstruct the palace and the [[Orcs|orc]]’s fort to the south. As [[Delwath]] travels through the city, all is quiet save voices in the distance, speaking in Dunmari and calling for help, but seeming to never come nearer even when [[Delwath]] walks towards the sound. In his explorations, he finds some ruins from a glassblower’s shop, some old tools and shattered glasswork, that he brings back with him. 
 

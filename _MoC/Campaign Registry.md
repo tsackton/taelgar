@@ -18,6 +18,7 @@ The authoritative machine-readable campaign registry is `_scripts/session_note_c
 | Into the Chasm         | `itc`         |
 | Labyrinths of the Lost | `lablost`     |
 | Lost in the Feywild    | `feywild`     |
+| Oskar's Adventures     | `oskar`       |
 
 Campaign codes are always lowercase. Aliases in the registry exist only to recognize older spellings, mixed-case codes, folder terminology, and command-line input; they are not canonical authored values.
 

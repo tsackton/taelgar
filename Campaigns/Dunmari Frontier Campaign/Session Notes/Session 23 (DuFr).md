@@ -1,4 +1,6 @@
 ---
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
 campaign: Dunmari Frontier
 sessionNumber: 23
@@ -6,9 +8,10 @@ realWorldDate: 2021-04-23
 DR: 1748-05-11
 DR_end: 1748-05-11
 players: [Kenzo, Wellby, Delwath, Seeker]
-tagline: in which the party travels through mystic memories and learns of the Order's past
+tagline: "in which the party travels through mystic memories and learns of the Order's past"
 descTitle: The Hall of Stories
 name: Dunmari Frontier - Session 23
+POV: 1748
 ---
 # Dunmari Frontier - Session 23
 
@@ -28,7 +31,7 @@ name: Dunmari Frontier - Session 23
 - They meet [[Karmana]]'s ghost, who informs them of a growing darkness and a pivotal event a year prior.
 
 ### Timeline
-- (DR:: 1748-05-11), late afternoon: [[Kenzo]] and [[Seeker]] return and share Kenzo's vision hinting that the [[Heart of Shakun]] is missing from [[Karawa]]. Explore, learning the history of the [[Order of the Awakened Soul ]]by controlling the chaotic memories contained in the Hall of Stories. Meet the ghost of [[Karmana]], the last master of the monastery. Learn that [[Sajan]], the keeper of stories, went mad long ago, trapped in evil dreams in the [[Hall of Stories]].
+- (DR:: 1748-05-11), late afternoon: [[Kenzo]] and [[Seeker]] return and share Kenzo's vision hinting that the [[Heart of Shakun]] is missing from [[Karawa]]. Explore, learning the history of the [[Order of the Awakened Soul]] by controlling the chaotic memories contained in the Hall of Stories. Meet the ghost of [[Karmana]], the last master of the monastery. Learn that [[Sajan]], the keeper of stories, went mad long ago, trapped in evil dreams in the [[Hall of Stories]].
 
 
 ## Narrative
@@ -42,7 +45,7 @@ The doors to the [[Hall of Stories]] are protected by magic, and the tower is gu
 
 The party proceeds through the tower, passing the library and study on the first floor, to the [[Hall of Stories]]. It is a vast open room, the ceiling supported by columns reaching three stories high and carved with many, many names, light shining from the windows set high on the walls. For a brief moment, the room is clear, but then the room itself fades, and the party is taken into the memories of the stories of Dunmari:
 
-- First, via a brief memory of [[Seeker]] as a young dwarf, studying, a memory of a acolyte of the monastery preparing for initiation, studying in the library and then proceeding to the hall of initiation
+- First, via a brief memory of [[Seeker]] as a young dwarf, studying, a memory of an acolyte of the monastery preparing for initiation, studying in the library and then proceeding to the hall of initiation
 
 - Then, via [[Delwath]]’s memory of the last battle he fought before he vanished to the shadow realm, everybody dead but him, to a monk, fighting a horde of undead, 30, 40, 50 skeletal creatures in front of the tower, his companions falling around him, then feeling the killing blow, but also the determination in your soul that the monastery will not fall, and rising from your body as a ghost to strike down the invaders
 
@@ -62,4 +65,4 @@ The party passes quickly through the fourth floor -- a council chamber -- to the
 
 From [[Karmana]], the party learns that darkness started growing in the land 30 years ago, after the attempt to close the portal failed. He has trouble remembering or even thinking about anything beyond the safety of the tower, and protecting the [[Hall of Stories]], which is his sole purpose now. He does say, however, that maybe nine months ago, or perhaps a year, something changed, a wave of darkness like a shadow ocean washed across the tower, presumably when [[Grash]] arrived. 
 
-As the sun nears the horizon and darkness and night approaches, the party leaves the tower.
+As the sun nears the horizon and darkness and night approach, the party leaves the tower.

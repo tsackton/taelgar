@@ -1,4 +1,6 @@
 ---
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
 campaign: Dunmari Frontier
 sessionNumber: 12
@@ -10,6 +12,7 @@ companions: [Vola]
 tagline: in which the party repels a gnoll attack
 descTitle: Desperate Defense
 name: Dunmari Frontier - Session 12
+POV: 1748
 ---
 # Dunmari Frontier - Session 12
 
@@ -20,7 +23,7 @@ name: Dunmari Frontier - Session 12
 > *On Earth: Sunday Nov 08, 2020*
 > *[[Raven's Hold]]*
 
-The [[Dunmar Fellowship]] successfully repels waves of gnoll attacks, and then investigate [[Raven's Hold]], finding clues to its history. 
+The [[Dunmar Fellowship]] successfully repels waves of gnoll attacks, and then investigates [[Raven's Hold]], finding clues to its history.
 ## Session Info
 ### Summary
 - The [[Dunmar Fellowship]] is awakened after a restless night marked by bad dreams by approaching gnolls and a bat-like demon.

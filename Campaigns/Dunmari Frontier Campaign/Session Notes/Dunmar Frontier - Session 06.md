@@ -1,6 +1,8 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [session-note, status/check/lint]
 websiteSessionView: zoomable
 campaign: Dunmar Frontier
 arc: "Arc 1: Dangers in the Desert"
@@ -10,11 +12,12 @@ DR: 1748-04-04
 DR_end: 1748-04-07
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
 companions: []
-name: "Dunmari Frontier - Session 6"
-descTitle: "The Festival of Rebirth"
-tagline: "in which Karawa’s festival becomes a fight for survival"
+descTitle: The Festival of Rebirth
+tagline: in which Karawa’s festival becomes a fight for survival
 sessionKey: dunmari-frontier-session-6
 session-template: dunmar-frontier-template.md
+name: Dunmari Frontier - Session 6
+POV: 1748
 ---
 # Dunmari Frontier - Session 6
 
@@ -45,7 +48,7 @@ session-template: dunmar-frontier-template.md
 
 - (DR:: 1748-04-04), afternoon: After [[The Council|the council]] meeting, the party prepares to set out for [[Raven's Hold]].
 - (DR:: 1748-04-04), evening: [[Alesh]] leaves to scout the borders with two companions; the party plans defenses for the [[Temple of Shakun]].
-- (DR:: 1748-04-05): [[Seeker]] works to fortify the [[Temple of Shakun]]. [[Riswynn]] joins the party. The party and all of [[Karawa]] attends the burning of Jeevali's shrine to begin the [[Festival of Rebirth]].
+- (DR:: 1748-04-05): [[Seeker]] works to fortify the [[Temple of Shakun]]. [[Riswynn]] joins the party. The party and all of [[Karawa]] attend the burning of Jeevali's shrine to begin the [[Festival of Rebirth]].
 - (DR:: 1748-04-06): During the procession celebrating Jeevali's rebirth, gnolls and monsters attack [[Karawa]]; the party comes to the town's defense.
 - (DR:: 1748-04-07), morning: The Dunmari begin to evacuate west, while the party follows gnoll tracks north towards [[Raven's Hold]].
 
@@ -76,7 +79,7 @@ session-template: dunmar-frontier-template.md
 
 ## Narrative
 
-After [[The Council|the council]] meeting, the party reviews the outcome of the discussion: [[Havdar]] will lead Karawa's people west toward Tokra, and hopefully safety; [[Alesh]] will scout south, trying to find information about the cause of these attacks; and the party will investigate [[Raven's Hold]], a journey they expect to take six or seven days. Rumors are starting to circulate around [[Karawa]], and the celebratory atmosphere of the fesetival is fading into worry and fear. 
+After [[The Council|the council]] meeting, the party reviews the outcome of the discussion: [[Havdar]] will lead Karawa's people west toward Tokra, and hopefully safety; [[Alesh]] will scout south, trying to find information about the cause of these attacks; and the party will investigate [[Raven's Hold]], a journey they expect to take six or seven days. Rumors are starting to circulate around [[Karawa]], and the celebratory atmosphere of the festival is fading into worry and fear.
 
 In the afternoon, the party splits up to take care of errands and preparation. [[Wellby]] visits the halfling camp to talk to the [[Charmhearts]] again, learning that they had a hard time at the market, as [[Ander]] is not improving, and disrupted some of their selling days. [[Callie Charmheart|Callie]] tells [[Wellby]] a bit more about [[Raven's Hold]]: it is set in a river valley a few miles east of the road, near where a small river flows out from the mountains. Probing Ander's thoughts, [[Wellby]] glimpses his passage through water, a waterfall, ruined walls, a tower, and vines, followed by overwhelming hunger and pain. 
 
@@ -88,7 +91,7 @@ In the afternoon, the party splits up to take care of errands and preparation. [
 
 Meanwhile, refugees from [[Bas Udda]] crowd into [[Karawa]], survivors of the gnoll attacks there.
 
-That evening, [[Alesh]] arrives with two mounted scouts to say farewell, before she heads out past [[Bas Udda]] and toward the [[Garamjala Desert]]. The party plans to meet her again in [[Karawa]] in three weeks time, after their respective scouting missions. [[Alesh]] also explains that [[Raven's Hold]] is a holdfast from before the [[Great War]], and once the site of a trading outpost of the [[dwarves]] of the southern mountains. She and her companions ride south before dark.
+That evening, [[Alesh]] arrives with two mounted scouts to say farewell, before she heads out past [[Bas Udda]] and toward the [[Garamjala Desert]]. The party plans to meet her again in [[Karawa]] in three weeks’ time, after their respective scouting missions. [[Alesh]] also explains that [[Raven's Hold]] is a holdfast from before the [[Great War]], and once the site of a trading outpost of the [[dwarves]] of the southern mountains. She and her companions ride south before dark.
 
 In the morning, the party's attention turns to fortifications of the [[Temple of Shakun]]. [[Seeker]] combines masonry with earth-shaping magic to reinforce doors and walls and create a dry moat. This work takes much of the day; it is early evening when the party returns to Ikram's for a meal before the [[Festival of Rebirth]].
 
@@ -122,7 +125,7 @@ After the battle is over, [[Kenzo]] meditates silently, and the party deals with
 
 At sunset [[Delwath]] finds tracks showing that the gnolls and maw creatures approached together from the north.
 
-After a night's rest, the party sets of at first light, following the tracks north. Meanwhile, while [[Karawa]] empties, a thousand people or more and at least twice as many animals streaming westward from the village, with [[Havdar]] and his warband guarding the rear.
+After a night's rest, the party sets off at first light, following the tracks north. Meanwhile, [[Karawa]] empties, a thousand people or more and at least twice as many animals streaming westward from the village, with [[Havdar]] and his warband guarding the rear.
 
 > [!image|figure standard]
 > ![[dufr-006-exodus-from-karawa.webp]]
@@ -137,3 +140,20 @@ After a night's rest, the party sets of at first light, following the tracks nor
 - Riswynn's map of [[Raven's Hold]]: Eberk's remembered plan of the ruins, which [[Riswynn]] expects to orient on arrival.
 - [[Shield of the Brawnanvil Clan]] (dwarven magical shield): The ancestral treasure [[Riswynn]] seeks at [[Raven's Hold]].
 - [[Intrusions From the Darker Planes]]: A book [[Seeker]] recalls when considering a possible planar origin for the mouth creatures.
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Recorded the session’s dated viewpoint in frontmatter.
+- Normalized frontmatter order and formatting.
+- Corrected “all of [[Karawa]] attends” to “all of [[Karawa]] attend”, “the fesetival” to “the festival”, “three weeks time” to “three weeks’ time”, “the party sets of at” to “the party sets off at”, “Meanwhile, while [[Karawa]] empties, a thousand people or more and at least twice as many animals streaming” to “Meanwhile, [[Karawa]] empties, a thousand people or more and at least twice as many animals streaming”.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Warning — links.wrong_target:** All bare `[[Ander]]` links here resolve to the Mawaran human. Bree’s grandson and the afflicted caravan scout identified in the NPC list is [[Ander Charmheart]]. Replace each bare link with `[[Ander Charmheart|Ander]]`.
+- [ ] **Warning — correctness.internal_conflict:** The narrative says Delwath kills “the last gnoll,” but Combat records one sleeping gnoll still alive for questioning. The encounter distinguishes the two awake gnolls from the sleeper. Suggested narrative wording: “[[Delwath]] kills the last conscious gnoll with a well-placed strike.”
+%%^End%%

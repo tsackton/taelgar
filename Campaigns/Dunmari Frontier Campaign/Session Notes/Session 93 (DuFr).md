@@ -1,14 +1,17 @@
 ---
-tags: [session-note]
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [session-note, status/check/lint]
 campaign: Dunmari Frontier
 sessionNumber: 93
 realWorldDate: 2024-02-11
 DR: 1749-03-21
 DR_end: 1749-03-21
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
-name: Dunmari Frontier - Session 93
 tagline: in which a dragon threat to the Vargaldi is vanquished
-descTitle: Dragon's Defeat
+descTitle: "Dragon's Defeat"
+name: Dunmari Frontier - Session 93
+POV: 1749
 ---
 # Dunmari Frontier - Session 93
 
@@ -36,9 +39,9 @@ We begin as the party arrives in dramatic fashion at the [[Vargaldi]] camp, nest
 
 ![[dufr-093-vargald-camp.jpg]]
 
-In the ensuing interactions, [[Delwath]] and [[Jotha]] delved into discussions about her origins, while [[Wellby]] telepathically conversed with Vargald halfling siblings about their ancestral ties and dragon lore. [[Kenzo]]'s inquiries led him to discuss the animal spirits the [[Vargaldi]] worship, known as the [[Zariya]], and to learn  the recent dragon incursions were from Vimfrost's mountains—a region abandoned by frost giants. [[Seeker]] and the party pondered the dragons' motives, while [[Jotha]] shared her puzzling displacement in time since her abduction two years prior. The party, assessing the potential dragon threat, explored the camp's defenses and engaged with the Vargald on various fronts, from discussing evacuation plans to the logistics of trade and the valuation of dragon parts.
+In the ensuing interactions, [[Delwath]] and [[Jotha]] delved into discussions about her origins, while [[Wellby]] telepathically conversed with Vargald halfling siblings about their ancestral ties and dragon lore. [[Kenzo]]'s inquiries led him to discuss the animal spirits the [[Vargaldi]] worship, known as the [[Zariya]], and to learn the recent dragon incursions were from Vimfrost's mountains—a region abandoned by frost giants. [[Seeker]] and the party pondered the dragons' motives, while [[Jotha]] shared her puzzling displacement in time since her abduction two years prior. The party, assessing the potential dragon threat, explored the camp's defenses and engaged with the Vargald on various fronts, from discussing evacuation plans to the logistics of trade and the valuation of dragon parts.
 
-By late afternoon, the sighting of a dragon circling nearby mountains catapulted the party into strategic debates. They weighed the dragon's diurnal patterns, their ability to outrun it, and the merits of a confrontational approach versus a strategic retreat. Opting for caution, they invited the Vargald to seek refuge on their ship while planning an ambush. As twilight descended, the party, having spread out in preparation, faced the dragon and its unexpected allies—two giant snow constructs. Despite the complexity of the battle, marred by debate over the efficacy of stealth and invisibility against such a formidable foe, they emerged victorious. The dragon's defeat was marked by a collective effort, culminating in [[Riswynn]]'s decisive Guiding Bolt, while Dewalth and Wellby managed the threat posed by the self-destructive snow constructs.
+By late afternoon, the sighting of a dragon circling nearby mountains catapulted the party into strategic debates. They weighed the dragon's diurnal patterns, their ability to outrun it, and the merits of a confrontational approach versus a strategic retreat. Opting for caution, they invited the Vargald to seek refuge on their ship while planning an ambush. As twilight descended, the party, having spread out in preparation, faced the dragon and its unexpected allies—two giant snow constructs. Despite the complexity of the battle, marred by debate over the efficacy of stealth and invisibility against such a formidable foe, they emerged victorious. The dragon's defeat was marked by a collective effort, culminating in [[Riswynn]]'s decisive Guiding Bolt, while Delwath and Wellby managed the threat posed by the self-destructive snow constructs.
 
 In the aftermath, as they harvested valuable parts from their fallen adversary, the party reflected on the battle's dynamics and the advantages conferred by aerial combat. With the dragon and constructs dispatched, and valuable resources in hand, they turned their attention to the Vargald community, who welcomed them back as heroes.
 
@@ -49,35 +52,35 @@ The subsequent interaction with the Vargald was a blend of celebration and strat
 ### Detailed Summary
 
 #### Arriving at the Vargald Camp
-- The party arrivals at the Vargald camp, noting the landscape and history of the northern forests, including the threats that inhabit it.
+- The party arrives at the Vargald camp, noting the landscape and history of the northern forests, including the threats that inhabit it.
 - The party lands their flying castle, drawing attention from the locals who transform from animals into humanoid forms.
-- As the party descends to meet the Vargald, **Dewalth** attempts communication in Common and then Deno'qai, eventually using the spell Tongues to be understood.
-- **Dewalth** introduces the party, highlighting their peaceful intentions and the return of lost Vargald members they rescued.
-- **Johta**, a woman from the Vargald camp, engages **Dewalth** in conversation about their arrival bringing potential danger, referencing a dragon that might now notice their camp due to the ship's visibility.
-- **Dewalth** uses magic to camouflage the ship, making it blend into the surrounding environment, easing some concerns from the Vargald about being discovered by threats.
+- As the party descends to meet the Vargald, **Delwath** attempts communication in Common and then Deno'qai, eventually using the spell Tongues to be understood.
+- **Delwath** introduces the party, highlighting their peaceful intentions and the return of lost Vargald members they rescued.
+- **Jotha**, a woman from the Vargald camp, engages **Delwath** in conversation about their arrival bringing potential danger, referencing a dragon that might now notice their camp due to the ship's visibility.
+- **Delwath** uses magic to camouflage the ship, making it blend into the surrounding environment, easing some concerns from the Vargald about being discovered by threats.
 - The Vargald express gratitude for the return of their people but remain cautious about the party's presence and the potential dangers it brings.
-- **Dewalth** offers the party's assistance in defense or evacuation should their arrival bring any danger to the Vargald camp.
+- **Delwath** offers the party's assistance in defense or evacuation should their arrival bring any danger to the Vargald camp.
 
 #### Speaking with the Vargald
-- Dewalth engages Johta, a quiet Deno'qai woman, in conversation, expressing curiosity about her far-off origins.
-- Wellby communicates telepathically two halfings, a brother and sister of the Vargald, discussing their ancestral connections to the land and their history with dragons.
+- Delwath engages Jotha, a quiet Deno'qai woman, in conversation, expressing curiosity about her far-off origins.
+- Wellby communicates telepathically with two halflings, a brother and sister of the Vargald, discussing their ancestral connections to the land and their history with dragons.
 - Kenzo inquires about the source of the recent influx of dragons, learning they come from Vimfrost's mountains in the north, once guarded by frost giants, but no longer.
 - Seeker and the party discuss the nature of dragons’ attacks and their motives, pondering if the dragons seek treasure, food, or something else.
-- Johta reveals she was taken from her people only 2 years ago, leading to a conversation about time perception and her mysterious arrival in the Vargald camp.
-- Dewalth offers Johta a place on their ship and mentions maintaining a shrine to Tanshi, revealing a deep connection to another realm.
+- Jotha reveals she was taken from her people only 2 years ago, leading to a conversation about time perception and her mysterious arrival in the Vargald camp.
+- Delwath offers Jotha a place on their ship and mentions maintaining a shrine to Tanshi, revealing a deep connection to another realm.
 - The party speculates on the dragons’ motives and the safety of the Vargald camp, considering whether they need to prepare for an immediate dragon attack.
 - Kenzo explores the camp, sensing a primal energy unique to the forest and observing that many Vargaldi appear as animals through his soul-sight.
 - Seeker uses stone sense to scout the camp, finding it to be a temporary, camouflaged settlement with no significant valuables or permanent structures.
 - Wellby learns from the halflings about a dragon patrolling the north bank of the [[Ket]], discussing its size, behavior, and the halflings' knowledge of dragons.
-- Dewalth questions the Vargald camp leaders Torsten and Zora about practical matters concerning the dragon, the Vargald's ability to trade with Ursk, and the value of dragon parts.
-- Kenzo engages in a deep conversation about the Zaria, animal protectors of the Vargald, revealing a kinship based on his own connections to animal spirits.
+- Delwath questions the Vargald camp leaders Torsten and Zora about practical matters concerning the dragon, the Vargald's ability to trade with Ursk, and the value of dragon parts.
+- Kenzo engages in a deep conversation about the Zariya, animal protectors of the Vargald, revealing a kinship based on his own connections to animal spirits.
 - Wellby uses his ancestral memory to learn about the origins and history of the halflings in the area, discovering their long-standing relationship with the land and its magic.
 
 #### Debating the Dragon Danger
 - The party reconvenes in the afternoon to plan and discuss their next steps after noticing a dragon circling the mountains 10-15 miles away.
 - Wellby uses a spyglass to confirm it's definitely a dragon circling the mountains.
 - The group debates whether dragons are nocturnal or diurnal and learns this particular dragon is most active around sunset and sunrise.
-- Dewalth calculates that their ship can potentially outrun the dragon, leading to discussions about either fleeing or confronting the dragon.
+- Delwath calculates that their ship can potentially outrun the dragon, leading to discussions about either fleeing or confronting the dragon.
 - The party considers inviting the Vargaldi onto their ship for safety, presenting the option to fight the dragon in the morning after a rest.
 - The Vargald people express a preference to stay on the party's ship overnight as a precaution.
 - Discussions about the party's readiness to fight the dragon ensue, with some members lacking high-level spell slots and others feeling prepared.
@@ -92,7 +95,7 @@ The subsequent interaction with the Vargald was a blend of celebration and strat
 - As twilight sets in, the party spreads out to prepare for the dragon's approach, utilizing the dim light and natural cover to their advantage.
 - The party spots the dragon approaching from a distance, quickly closing in on their position.
 - Despite initial preparations, the party debates the effectiveness of stealth and invisibility against the dragon.
-- Dewalth questions the benefit of invisibility if it doesn't grant an advantage in the upcoming fight.
+- Delwath questions the benefit of invisibility if it doesn't grant an advantage in the upcoming fight.
 - A visible dragon descends upon the party, prompting a stealth check from everyone.
 - Kenzo attacks the dragon, leveraging the party's prepared tactics.
 - The dragon's presence triggers the appearance of two giant snow constructs, adding to the party's threats.
@@ -100,17 +103,17 @@ The subsequent interaction with the Vargald was a blend of celebration and strat
 - Seeker and Kenzo specifically manipulate the dragon's actions and disadvantages through spells and physical attacks.
 - The dragon retaliates fiercely, causing significant damage to the party with its cold breath and physical strikes.
 - The party's combined efforts eventually lead to the dragon's defeat, as Riswynn delivers the final blow with a powerful Guiding Bolt.
-- Following the dragon's death, Dewalth and Wellby focus on the melting snow constructs, swiftly eliminating them before they self-destruct.
+- Following the dragon's death, Delwath and Wellby focus on the melting snow constructs, swiftly eliminating them before they self-destruct.
 - The explosion from the snow constructs' demise knocks Seeker unconscious, prompting immediate healing from Riswynn.
 
 #### Harvesting Monster Parts from the Dragon
 - The party gathers around the defeated dragon to harvest parts, recalling past battles and discussing strategies that aided in their victory.
-- **Dewalth** and **Kenzo** boast about their contributions to the dragon's defeat, while **Wellby** remarks on the dangers they faced, including the dragon's breath attack.
+- **Delwath** and **Kenzo** boast about their contributions to the dragon's defeat, while **Wellby** remarks on the dangers they faced, including the dragon's breath attack.
 - The **DM** and the party engage in a meta-discussion about the advantages of flight in combat against dragons, referencing a previous encounter where the lack of flight significantly increased the encounter's difficulty.
 - **Kenzo** humorously inquires about using acrobatics and insight for harvesting, but the **DM** suggests using dexterity or survival instead.
-- **Seeker** opts to harvest using survival, aiming for the dragon's venom sack used for its cold breath, navigating into the dragon's mouth to retrieve it.
-- **Wellby** chooses to harvest dragon scales with his sword, while **Dewalth** targets the dragon's internal organs, notably interested in the heart or anything unusual.
-- The party learns the dragon had been consuming ice, causing an unexpected geyser of ice to erupt during Dewalth's examination.
+- **Seeker** opts to harvest using survival, aiming for the dragon's venom sac used for its cold breath, navigating into the dragon's mouth to retrieve it.
+- **Wellby** chooses to harvest dragon scales with his sword, while **Delwath** targets the dragon's internal organs, notably interested in the heart or anything unusual.
+- The party learns the dragon had been consuming ice, causing an unexpected geyser of ice to erupt during Delwath's examination.
 - The party discusses the value of different dragon parts, with a focus on a special organ related to the dragon's legendary resistance.
 - **Kenzo** explores the metaphysical, questioning what happens to the dragon's spirit upon death, but learns he lacks the power to capture it.
 - The party successfully harvests various parts from the dragon, including teeth, claws, heart, and a unique detoxification organ.
@@ -126,7 +129,7 @@ The subsequent interaction with the Vargald was a blend of celebration and strat
 - Seeker and Kenzo debate the merits of sneaking into Ursk via the mountains or entering through the trade city for reconnaissance.
 - The party contemplates the logistics of approaching Ursk with their ship, considering visibility and the need for invisibility or a cloud generator to avoid detection.
 - Discussion turns to the potential risks and strategies for entering Ursk, including learning the language and finding allies within the city.
-- Dewalth raises concerns about the plan's specifics, especially regarding their ultimate goal in Ursk.
+- Delwath raises concerns about the plan's specifics, especially regarding their ultimate goal in Ursk.
 - The group ultimately decides to approach the trade city for reconnaissance, planning to hide the ship and take time to prepare, including training and learning Urskan.
 - The session concludes with the party agreeing to spend two weeks with the Vargald to prepare for their journey to Ursk.
 
@@ -142,4 +145,18 @@ The party successfully ambushed and defeated an approaching dragon and two snow 
 After defeating the dragon, the party engages in harvesting its parts, with discussions about past battles, the strategic value of flight, and the metaphysics of dragon spirits. They successfully gather valuable materials and ponder their next steps as they prepare to return to their ship.
 Following their victory over the dragon, the party interacts with the Vargald community, discussing potential assistance and gathering information for their next move towards Ursk. They debate entry strategies, ultimately deciding to spend two weeks preparing with the Vargald before heading to the trade city for reconnaissance.
 
+%%^Lint%%
+## Taelgar note lint
 
+### Applied changes
+- Recorded the session viewpoint as DR 1749 and normalized frontmatter order.
+- Corrected transposed names for Delwath and Jotha, the spelling of Zariya, and several local spelling, spacing, and grammar errors in the encounter account.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Suggestion — campaign.noncanonical_name:** The registry recognizes the current “Dunmari Frontier” as an alias. Use the canonical frontmatter entry `campaign: Dunmar Frontier`.
+- [ ] **Warning — continuity.internal_conflict:** The fighting summary says the constructs were eliminated “before they self-destruct” and then says their explosion knocked Seeker unconscious. Check whether one or both exploded. Pending that distinction, the first bullet can end “Delwath and Wellby focus on the melting snow constructs.”
+%%^End%%

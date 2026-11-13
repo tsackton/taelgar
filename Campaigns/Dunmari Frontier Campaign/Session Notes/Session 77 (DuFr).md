@@ -1,4 +1,6 @@
 ---
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
 campaign: Dunmari Frontier
 sessionNumber: 77
@@ -9,6 +11,7 @@ players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
 tagline: in which the secrets are revealed and plans made
 descTitle: Strategic Alliances
 name: Dunmari Frontier - Session 77
+POV: 1748
 ---
 # Dunmari Frontier - Session 77
 
@@ -23,7 +26,7 @@ The [[Dunmar Fellowship]] discusses strategies and learns of the history and pow
 ## Session Info
 
 ### Summary
-- The [[Dunmar Fellowship]] engages with Loremaster [[Azogar]] and General [[Murook]] aboard the skyship, discussing the [[ phasing stones|phasing stone]], the [[Feywild]], and crystallized magic.
+- The [[Dunmar Fellowship]] engages with Loremaster [[Azogar]] and General [[Murook]] aboard the skyship, discussing the [[Phasing Stones|phasing stone]], the [[Feywild]], and crystallized magic.
 - [[Azogar]] and [[Murook]] depart, and the party learns through scrying that [[Kadmos]] is separated from the main army.
 - At dinner, Chief [[Lubash]] reveals the [[Cloak of Rainbows|cloak]]'s protective power against [[Thark]]'s influence and expresses uncertainty about the effect on undead orcs.
 - The party learns the history of the cloak, crafted by an archfey now missing, and hears of a previous Chardonian party's espionage.
@@ -31,17 +34,17 @@ The [[Dunmar Fellowship]] discusses strategies and learns of the history and pow
 - A messenger lynx delivers a letter to Kenzo, and the party frees an orc from a [[Mirror of Soul Trapping|mirror prison]] and entrusts her to [[Lubash]].
 
 ### Timeline
-- (DR:: 1748-12-05), afternoon: Give General [[Murook]] and Loremaster [[Azogar]] tour of skyship. Dinner and conversation with [[Lubash]]. Plan for possible attack from [[Kadmos]] and company. 
+- (DR:: 1748-12-05), afternoon: Give General [[Murook]] and Loremaster [[Azogar]] a tour of skyship. Dinner and conversation with [[Lubash]]. Plan for possible attack from [[Kadmos]] and company.
 ### Letters
 - [[Kenzo]] receives [[Lakan Monk Letter]].
 ## Narrative
 We begin as the party returns to the skyship [[Vindristjarna]], to discuss and plan while awaiting the arrival of Loremaster [[Azogar]] and General [[Murook]], who are expecting a tour of the ship. After some discussion of the events of earlier in the day, and the magic of the [[Cloak of Rainbows]], conversation stops as the orcish visitors arrive. 
 
-Loremaster [[Azogar]] is very curious about the magic of the skyship, and quickly catches [[Seeker]]'s attention with his questioning. [[Seeker]] explains about the phasing stone, holding little back, as the conversation drifts among topics, touching on the origin of the phasing stone, the [[Feywild]] and its connection to cloak, and the idea of crystallized magic connecting to many different planes. [[Azogar]] speaks of the various rumors and tales he has collected, from the time before the founding of [[Xurkhaz]], when the [[Orcs]] wandered widely, hiding where they could from [[Thark]]'s raiders. In particular, a tale of a hero of his people, who used the crystalized magic of the [[Elemental Plane of Water]] to create fog that hid his tribe for years. During the conversation, [[Murook]] asks about the tactical uses of the skyship, as well, and quizzes the party on exactly what happens to the dead, reanimated [[Orcs]]. 
+Loremaster [[Azogar]] is very curious about the magic of the skyship, and quickly catches [[Seeker]]'s attention with his questioning. [[Seeker]] explains about the phasing stone, holding little back, as the conversation drifts among topics, touching on the origin of the phasing stone, the [[Feywild]] and its connection to the cloak, and the idea of crystallized magic connecting to many different planes. [[Azogar]] speaks of the various rumors and tales he has collected, from the time before the founding of [[Xurkhaz]], when the [[Orcs]] wandered widely, hiding where they could from [[Thark]]'s raiders. In particular, a tale of a hero of his people, who used the crystalized magic of the [[Elemental Plane of Water]] to create fog that hid his tribe for years. During the conversation, [[Murook]] asks about the tactical uses of the skyship, as well, and quizzes the party on exactly what happens to the dead, reanimated [[Orcs]].
 
 [[Murook]] and [[Azogar]] depart, reminding the party they are due at the palace for dinner shortly, and leave the party to plan. During this time, the party discusses options, and [[Delwath]] scries on [[Hektor]], seeing [[Kadmos]] and his companions hunched over a map or piece of paper, discussing in low voices, seeming separated for the moment from the main army of [[Grash]]'s forces. 
 
-At dinner, Chief [[Lubash]] seems more open, talking more freely. He explains the nature of the cloak's protection: within the borders of [[Xurkhaz]], [[Thark]]'s voice cannot be heard. [[Orcs]] bound to [[Thark]] will suddenly have that connection severed, and few will be able to fight effectively after that happens. But, he does not know if the undead [[Orcs]] raised by [[Grash]] remain connected to [[Thark]]: if they do, he does not fear them, but if they don't, then they would not be affected by the cloak's magic. This protection has taken years to create, and maintain, pacing the borders of the country, which is a large part of the [[Orcs|orc]]'s reluctance to abandon [[Xurkhaz]], even though they have refuges prepared in the broken hills to the east. 
+At dinner, Chief [[Lubash]] seems more open, talking more freely. He explains the nature of the cloak's protection: within the borders of [[Xurkhaz]], [[Thark]]'s voice cannot be heard. [[Orcs]] bound to [[Thark]] will suddenly have that connection severed, and few will be able to fight effectively after that happens. But, he does not know if the undead [[Orcs]] raised by [[Grash]] remain connected to [[Thark]]: if they do, he does not fear them, but if they don't, then they would not be affected by the cloak's magic. This protection has taken years to create, and maintain, pacing the borders of the country, which is a large part of the [[Orcs|orcs]]' reluctance to abandon [[Xurkhaz]], even though they have refuges prepared in the broken hills to the east.
 
 The party also learns some more history of the cloak. It was created by the [[Cloudspinner]], the Lady of Sunsets, the archfey ruler of the fey domain of [[Amberglow]], now gone, her domain abandoned. With her missing, the cloak is irreplaceable. 
 

@@ -1,10 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [session-note, status/check/lint]
 campaign: Great Library
 DR: 1747-07-29
 DR_end: 1747-10-06
 name: Chronicles of the War Against Grumella
+POV: 1747
 ---
 # Chronicles of the War Against Grumella
 
@@ -20,11 +23,11 @@ At night, the party is attacked by some kind of shadow creature while [[Samso]] 
 
 ### Session 32 
 
-After resting in the mountains, they follow an orc trail to the manticore hideout. Using the immovable rod, the party climbed down and surprised a manticore, hellhound, and several two-headed death dogs, and defeated them, with [[Adrik]] blocking their chance to raise the alarm. Unfortunately, [[Brelith]]’s thunderwave had alerted the others, and so they hid in the water and among the corpses to set an ambush. After dealing with the scout, they headed deeper, finding the manticore leader and his henchman. [[Brelith]] conjured a thunderstorm, [[Samso]] summoned a flock of giant birds, [[Aglath]] fought against them with magic and javelins, while the others balanced on the leader’s back while striking him in a risky but deadly position. After a hard fight, the manticore succumbed to the heroes attacks, and even wounded, they quickly slew the others. With the manticores dead, the cave was silent- save for a distant cry of help.
+After resting in the mountains, they follow an orc trail to the manticore hideout. Using the immovable rod, the party climbed down and surprised a manticore, hellhound, and several two-headed death dogs, and defeated them, with [[Adrik]] blocking their chance to raise the alarm. Unfortunately, [[Brelith]]’s thunderwave had alerted the others, and so they hid in the water and among the corpses to set an ambush. After dealing with the scout, they headed deeper, finding the manticore leader and his henchman. [[Brelith]] conjured a thunderstorm, [[Samso]] summoned a flock of giant birds, [[Aglath]] fought against them with magic and javelins, while the others balanced on the leader’s back while striking him in a risky but deadly position. After a hard fight, the manticore succumbed to the heroes’ attacks, and even wounded, they quickly slew the others. With the manticores dead, the cave was silent- save for a distant cry of help.
 
 ### Session 33
 
-The party followed the sound and found two ragged villagers caged and being attacked by ravenous young manticores. Despite [[Samso]]’s intervention, [[Adrik]] and [[Aelar]] easily disposed of the small beasts, and they freed the imprisoned shepherds. With the rescues in tow, they went deeper into the caves, finding several druidic spell scrolls, a magic snake circlet (which fit awkwardly on [[Samso]]), a mysterious potion, and lots of coins. With the new treasure they left the caves, but ran into an orc patrol, bringing prisoners to the (now-dead) manticores. They fight them off, with [[Aglath]] swinging through orcs like jelly, [[Brelith]] striking down attackers and saving the prisoners, [[Aelar]] chasing down war wolves with supernatural speed, [[Adrik]] going one on one with a orcish mage-warrior, and [[Samso]] finally used heat metal, with less than spectacular results, before transforming and dueling down a dire wolf. They freed the prisoners, and returned to the centaurs with the good news. The session ended as they set off to fulfill their deal with the [[Silverstorm|roc]] and return his egg in exchange for his help.
+The party followed the sound and found two ragged villagers caged and being attacked by ravenous young manticores. Despite [[Samso]]’s intervention, [[Adrik]] and [[Aelar]] easily disposed of the small beasts, and they freed the imprisoned shepherds. With the rescues in tow, they went deeper into the caves, finding several druidic spell scrolls, a magic snake circlet (which fit awkwardly on [[Samso]]), a mysterious potion, and lots of coins. With the new treasure they left the caves, but ran into an orc patrol, bringing prisoners to the (now-dead) manticores. They fight them off, with [[Aglath]] swinging through orcs like jelly, [[Brelith]] striking down attackers and saving the prisoners, [[Aelar]] chasing down war wolves with supernatural speed, [[Adrik]] going one on one with an orcish mage-warrior, and [[Samso]] finally used heat metal, with less than spectacular results, before transforming and dueling down a dire wolf. They freed the prisoners, and returned to the centaurs with the good news. The session ended as they set off to fulfill their deal with the [[Silverstorm|roc]] and return his egg in exchange for his help.
 
 ### Events
 
@@ -37,7 +40,7 @@ The party followed the sound and found two ragged villagers caged and being atta
 ## Adventure 13: Roc and Roll
 ### Session 34
 
-Aided by a spell scroll given to them by [[Theopheia]], the party sets off for the mountains in  the north, where the roc [[Silverstorm|Silver Feathers of the Storm Cloud, Thunder and Lightning]], is waiting anxiously. The party learns that a band of [[Kobolds]] may know the location of the stolen egg, and go speak with them. After some negotiation, they give the [[Kobolds]] 500 gp in exchange for information, and are led to a cave entrance. The [[Kobolds]] guides flee while the party fights off an earth elemental solider and two gargoyles. Entering the cave, they proceed to a chamber filled with purple crystals and a pulsing, oozing stone of some kind. Emerging from the ground to attack is a dao, an earth genie, who wants to petrify the roc egg, as petrified roc eggs are prized by the dao. After a tough fight, the party drives him back to his native plane, the [[Elemental Plane of Earth]].
+Aided by a spell scroll given to them by [[Theopheia]], the party sets off for the mountains in  the north, where the roc [[Silverstorm|Silver Feathers of the Storm Cloud, Thunder and Lightning]], is waiting anxiously. The party learns that a band of [[Kobolds]] may know the location of the stolen egg, and go speak with them. After some negotiation, they give the [[Kobolds]] 500 gp in exchange for information, and are led to a cave entrance. The [[Kobolds]] guides flee while the party fights off an earth elemental soldier and two gargoyles. Entering the cave, they proceed to a chamber filled with purple crystals and a pulsing, oozing stone of some kind. Emerging from the ground to attack is a dao, an earth genie, who wants to petrify the roc egg, as petrified roc eggs are prized by the dao. After a tough fight, the party drives him back to his native plane, the [[Elemental Plane of Earth]].
 ### Session 35
 
 Exploring the crystal chamber, the party destroys the pulsing stone, collapsing the portal to the [[Elemental Plane of Earth]]. They then search for the roc egg, finding it in a chamber north of the purple stone chamber. Turning to leave, they encounter mephits and earth elementals in the passageway to the surface who attempt to steal the egg and flee. Despite a few close moments they are killed and driven off without damage to the egg itself. As the party emerges from the caves, the rocs fly down to reclaim the egg, and leave the party with a feather of thanks, allowing them to summon the roc at need, once only.
@@ -57,7 +60,7 @@ The party spends a day constructing a wooden raft, the "S.S. Kill Grumella", in 
 
 The morning the orc armies arrive, the plan is launched. [[Mehrangeesa]], the djinni, summons a wind of epic proportions that keeps arrows from reaching the walls, and keeps the manticores grounded. The [[Silverstorm|roc]] arrives, and the dwarves and centaurs prepare to drive off ogre support so the party can kill the hill giants. The hill giants, it turns out, have split into three groups, with one hill giant in each group, and so the party divides as well: [[Adrik]] and [[Aris]] take one, [[Aglath]] and [[Samso]] another, and [[Brelith]] and [[Aelar]] the last. Everyone succeeds, and the hill giants are defeated. While the party is healing and taking a short rest, the orc army starts launching diseased orcs into the city, bringing pestilence and poison. Worried that flying to clear the catapults would leave the roc and the party exposed, they decide instead to take the fight to [[Grumella]] herself, seeking a decisive end to the conflict. 
 
-The roc takes the party to [[Grumella]]’s command center, where they attack her and her guards and lieutenants. Although many guards die quickly, [[Grumella]] herself seems resistance to death and each time she falls, she rises again, until in the end a lightning strike from [[Samso]]’s storm, miraculously maintained through many hits during the battle, and boosted by the djinn’s winds and thunder, brings her down permanently. 
+The roc takes the party to [[Grumella]]’s command center, where they attack her and her guards and lieutenants. Although many guards die quickly, [[Grumella]] herself seems resistant to death and each time she falls, she rises again, until in the end a lightning strike from [[Samso]]’s storm, miraculously maintained through many hits during the battle, and boosted by the djinn’s winds and thunder, brings her down permanently.
 
 After the battle, the party celebrates in [[Voltara]], and is promised rewards and fame. As the dwarves and centaurs return to home, they learn that [[Brelith]]’s homeland has been suffering from dangers on its southern border, and they decide to go investigate next.
 
@@ -67,4 +70,19 @@ After the battle, the party celebrates in [[Voltara]], and is promised rewards a
 - (DR:: 1747-09-30): Party buffs [[Aelar]] to scout the [[Orcs|orc]] war camp. 
 - (DR:: 1747-10-01): Party returns to [[Voltara]] with information and prepares for war. 
 - (DR:: 1747-10-03): Dwarven and centaur troops arrive in [[Voltara]]. The reinforcements from the [[Chardonian Legion|imperial legions]] are still weeks away. 
-- (DR:: 1747-10-06): The [[Battle of Voltara]], also know as the [[Battle of Voltara|Battle of Lightning's Wrath]]. [[Adrik]], [[Aelar]], [[Aglath]], [[Samso]], and [[Brelith]] gather allies, defend the city from hill giants trying to breach the gates, and finally kill [[Grumella]]. 
+- (DR:: 1747-10-06): The [[Battle of Voltara]], also known as the [[Battle of Voltara|Battle of Lightning's Wrath]]. [[Adrik]], [[Aelar]], [[Aglath]], [[Samso]], and [[Brelith]] gather allies, defend the city from hill giants trying to breach the gates, and finally kill [[Grumella]].
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Recorded `POV: 1747` for the events recounted here.
+- Corrected the possessive in “heroes’ attacks,” the article before “orcish,” and the wording “soldier,” “resistant” and “also known as.”
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Warning — chronology.internal_conflict:** Session 36 describes the dwarven army as already present at the war council. The timeline places the council on September 28 and the dwarven and centaur troops’ arrival on October 3. Confirm whether the leaders preceded their troops. If so, replace “war leader of the dwarf army that has arrived” with “war leader of the expected dwarf army.”
+%%^End%%

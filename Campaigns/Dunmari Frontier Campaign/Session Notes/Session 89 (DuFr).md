@@ -1,4 +1,6 @@
 ---
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
 campaign: Dunmari Frontier
 sessionNumber: 89
@@ -9,6 +11,7 @@ players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
 tagline: in which the party explores Kharsan and recruits followers
 descTitle: Cleansing Kharsan
 name: Dunmari Frontier - Session 89
+POV: 1749
 ---
 # Dunmari Frontier - Session 89
 
@@ -50,10 +53,10 @@ The next day, January 25th, the party receives another message from the [[Ancien
 
 [[Kharsan]] seems relatively quiet. The party explores the palace, which was once Grash's headquarters, but now seems abandoned. The stables and great hall are ruined and cleared out; further searching uncovers a few restless haunted spirits of the plague dead in the old kitchens, which are easily dispatched. The remains of Grash's looting operation are also in the palace, along with a few treasures missed or destroyed. The most informative find is what looks like a planning room, with a map table and slate to draw on. It has been smashed, but from the available pieces and clues it seems pretty clear that [[Grash]] was planning on attacking [[Dunmar]] had he succeeded in getting the [[Cloak of Rainbows]]. 
 
-Exploring the rest of the city, the party casually slays a few more specters, and stumbles across the library, which is now a giant wasp nest, but the wasps are immediately destroyed by [[Delwath]]'s sickening radiance spell. Although most of the paper has been shredded and turned to giant wasp nesting material, something might be salvageable, and it is packed for transport to [[Vindristjarna]] where perhaps [[Nuzkar]] will see what she can decipher from it. The party also briefly explores the orc warren, which is empty, but the central building contains a series of gruesome murals depicting [[Grash]] is battle, slaughtering defenseless innocents as the avatar of [[Thark]].   
+Exploring the rest of the city, the party casually slays a few more specters, and stumbles across the library, which is now a giant wasp nest, but the wasps are immediately destroyed by [[Delwath]]'s sickening radiance spell. Although most of the paper has been shredded and turned to giant wasp nesting material, something might be salvageable, and it is packed for transport to [[Vindristjarna]] where perhaps [[Nuzkar]] will see what she can decipher from it. The party also briefly explores the orc warren, which is empty, but the central building contains a series of gruesome murals depicting [[Grash]] in battle, slaughtering defenseless innocents as the avatar of [[Thark]].
 
 The next morning, on January 26th, the party briefly returns to [[Kharsan]] with the orcs [[Nuzkar]] and [[Aygul]]. [[Nuzkar]] is deeply saddened by the orc warren, mourning the hundreds of orcs who must have been born and bound to [[Thark]] here, and asks the party to burn it all. [[Kenzo]] and [[Riswynn]], as the orc warren burns, cleanse the spirits of the place as well, and see not just the orcs, but many others, especially the Dunmari who died in the [[Great War]], trapped between the plague consuming [[Kharsan]] and a wall of fire summoned to prevent them from reaching the safety of the [[Monastery of Bhishma]] nearby. As the fire burns, [[Kenzo]] feels [[Bhishma]]'s hand freeing the trapped, lost souls still stuck here, and [[Wellby]] briefly sees again the [[Land of the Dead|river of souls]] where he spent an hour before being resurrected by [[Riswynn]]'s magic. 
 
-That afternoon, before departing [[Kharsan]], the party looks at the [[Broken Dunmari Sword Vision|broken Dunmari sword]] in [[Mirror of the Past]]. The next day the party travels west, and arrives at [[Pava and Avaras' House]] on January 28th. Here, they meet [[Kethra]], a dwarven smith and great-grandaughter of [[Nora Silverspark]], who has traveled far searching for [[Riswynn]], hoping she'll be her mentor. They also speak at length with [[Pava]] and [[Avaras]], who are very happy to see everyone looking so well. [[Pava]] wishs to record [[Delwath]]'s story, and is amazed at how [[Kenzo]] has started to reinterpret and expand the [[Bhishma]] traditions of storytelling in new ways, asking if [[Kenzo]] would take [[Amil]] with him as an apprentice. The party spends the next day just catching up and resting at [[Pava and Avaras' House]].
+That afternoon, before departing [[Kharsan]], the party looks at the [[Broken Dunmari Sword Vision|broken Dunmari sword]] in [[Mirror of the Past]]. The next day the party travels west, and arrives at [[Pava and Avaras' House]] on January 28th. Here, they meet [[Kethra]], a dwarven smith and great-granddaughter of [[Nora Silverspark]], who has traveled far searching for [[Riswynn]], hoping she'll be her mentor. They also speak at length with [[Pava]] and [[Avaras]], who are very happy to see everyone looking so well. [[Pava]] wishes to record [[Delwath]]'s story, and is amazed at how [[Kenzo]] has started to reinterpret and expand the [[Bhishma]] traditions of storytelling in new ways, asking if [[Kenzo]] would take [[Amil]] with him as an apprentice. The party spends the next day just catching up and resting at [[Pava and Avaras' House]].
 
 As they prepare to leave on January 30th, with [[Amil]] and [[Kethra]] joining the crew of [[Vindristjarna]], [[Pava]] updates them on the situation in [[Dunmar]], between [[Sura]] and [[Nayan Karnas]]. We end as the party considers intervening. 

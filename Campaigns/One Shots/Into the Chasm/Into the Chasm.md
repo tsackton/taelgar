@@ -1,6 +1,9 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [meta]
+campaign: Into the Chasm
 hide: [toc]
 name: Into the Chasm
 dm_owner: mike
@@ -12,7 +15,7 @@ POV: 1730
 > ![[itc-overview-runic-plaform.jpg]]
 > *Ancient machinery hangs in the depths of the Great Chasm, holding the planes in balance.*
 
-Into the Chasm is a six-episode adventure about five strangers, a village trapped beyond the world, and the failing runic machinery hidden in the depths the [[Great Chasm]]. The game begins as an impossible storm casts the travelers into [[Zeyfa's Labyrinth]], where their search for a way home leads them to a fogbound village in another dimension, and a frightened ruler who no longer trusts that the outside world is real.
+Into the Chasm is a six-episode adventure about five strangers, a village trapped beyond the world, and the failing runic machinery hidden in the depths of the [[Great Chasm]]. The game begins as an impossible storm casts the travelers into [[Zeyfa's Labyrinth]], where their search for a way home leads them to a fogbound village in another dimension, and a frightened ruler who no longer trusts that the outside world is real.
 
 > [!abstract] Campaign Information
 >
@@ -28,7 +31,7 @@ Into the Chasm is a six-episode adventure about five strangers, a village trappe
 | [[Into the Chasm - Episode 01\|1 — Into the Chasm]]           | November 17, 2025 | An impossible storm casts five strangers and Kalima onto an ice platform guarded by wolves, shades, and wisps.               |
 | [[Into the Chasm - Episode 02\|2 — The Labyrinth]]            | December 3, 2025  | The party crosses shifting tunnels, questions a dead sacrifice, and slides into the white beast's chamber.                   |
 | [[Into the Chasm - Episode 03\|3 — The Beast and the Palace]] | December 16, 2025 | Defeating the beast opens a path to Melusa, where Kalima's family shelters the strangers beneath the gaze of the Ice Palace. |
-| [[Into the Chasm - Episode 04\|4 — Escape from Melusa]]       | January 8, 2026   | Malquin grants passage out, and the party finds Eidrikas maintaining a damaged runic mechanism in the Great Chasm            |
+| [[Into the Chasm - Episode 04\|4 — Escape from Melusa]]       | January 8, 2026   | Malquin grants passage out, and the party finds Eidrikas maintaining a damaged runic mechanism in the Great Chasm.           |
 | [[Into the Chasm - Episode 05\|5 — Descent into Battle]]      | January 15, 2026  | The explorers descend through warped gravity and broken machinery to confront the orcs who stole the runic keystone.         |
 | [[Into the Chasm - Episode 06\|6 — The Chasm Restored]]       | February 4, 2026  | The party recovers the keystone, returns for Melusa's willing refugees, and restores the chasm machinery.                    |
 

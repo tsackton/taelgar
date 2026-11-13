@@ -1,18 +1,21 @@
 ---
-tags: [session-note]
-name: Dunmari Frontier - Session 131
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [session-note, status/check/lint]
 campaign: Dunmari Frontier
 sessionNumber: 131
 realWorldDate: 2025-09-11
 DR: 1749-08-08
 DR_end: 1749-08-10
 players: [Delwath, Kenzo, Wellby, Seeker]
-tagline: in which the hobgoblins are harrassed on their march
+tagline: in which the hobgoblins are harassed on their march
 descTitle: Guerilla Warfare
+name: Dunmari Frontier - Session 131
+POV: 1749
 ---
 # Dunmari Frontier - Session 131
 
->[!info] Guerilla Warfare: in which the hobgoblins are harrassed on their march
+>[!info] Guerilla Warfare: in which the hobgoblins are harassed on their march
 > *Featuring: [[Delwath]], [[Kenzo]], [[Wellby]], [[Seeker]]*
 > *In Taelgar: Aug 08, 1749 DR to Aug 10, 1749 DR*
 > *On Earth: Thursday Sep 11, 2025*
@@ -29,9 +32,9 @@ Across three days, the party battered the Iron Fang—tsunami, earthquake, infil
 - Confirming the Empress inside the Scourge, they used Dimension Door to strike with sunburst, fireball, and sickening radiance before extracting under fire, then scryed chaos-sorcerers shoring morale among roughly 3,000 survivors as Vindristjarna neared and the host pushed toward the escarpment and Heartroot.
 
 ### Timeline
-- (DR:: 1749-08-08), dawn: [[Kenzo]] communes with the [[Heartroot]] near [[Three Wells]], sensing a fertile mind exiled from the [[Istaros]]. party consults [[Revaka]], who counsels that hobgoblins follow only proven strength
+- (DR:: 1749-08-08), dawn: [[Kenzo]] communes with the [[Heartroot]] near [[Three Wells]], sensing a fertile mind exiled from the [[Istaros]]. The party consults [[Revaka]], who counsels that hobgoblins follow only proven strength
 - (DR:: 1749-08-08), dusk: As eagles the party approaches the marching column of hobgoblins; [[Seeker]] uses Wish to cast a tsunami, smashing the vanguard; they Teleport out and later scry heavy casualties.
-- (DR:: 1749-08-09): Observe hobgoblin camp under an ash cap; an earthquake tears along its edge as [[Delwath]] broadcasts a  challenge, before the party withdraws.
+- (DR:: 1749-08-09): Observe hobgoblin camp under an ash cap; an earthquake tears along its edge as [[Delwath]] broadcasts a challenge, before the party withdraws.
 - (DR:: 1749-08-09), evening: Scrying the march, they witness the Empress’s speech promising day-and-night advance under Limbo’s power; morale wavers but the column pushes on.
 - (DR:: 1749-08-10): Party attacks army inside centipede, then quickly flee. Scrying reveals chaos-sorcerers shoring morale among roughly 3,000 survivors as the host drives toward the escarpment and the [[Heartroot]].
 
@@ -39,13 +42,13 @@ Across three days, the party battered the Iron Fang—tsunami, earthquake, infil
 
 Our session begins at first light, after a night of dreams of the [[Fox and Hunter]]. At first light, as the rest of the party made preparations for the battle campaign of the day ahead, Kenzo walked north and reached for the [[Heartroot]]. Warm bread, rain, yeast; the spring of moss underfoot. He felt an ancient fecund mind, bent and constrained, straining toward home, safe but out of place in this land away from the [[Istaros]]. 
 
-Back at camp in [[Three Wells]], the party spoke again with [[Revaka]], asking for council on their plan of attacks against the marching hobgoblin army of the [[Empress of Chaos]]. Revaka counseled that hobgoblins follow only proven strength, and that if they wanted to dislodge her from control of her army, they must show that she could not protect and lead. 
+Back at camp in [[Three Wells]], the party spoke again with [[Revaka]], asking for counsel on their plan of attacks against the marching hobgoblin army of the [[Empress of Chaos]]. Revaka counseled that hobgoblins follow only proven strength, and that if they wanted to dislodge her from control of her army, they must show that she could not protect and lead.
 
-That morning, under [[Seeker]]'s shapeshift spell, the party crossed the [[Plaguelands]] as eagles, then waited on the arid flats a couple miles off from the hobgoblin's camp, watching a rough oval of billowing ash where the army lay. As dusk approached, metal booms rolled across the waste and the centipede-line began to creep forward. The party rose as well, and closed the distance to the now-moving army. From seven hundred feet, [[Seeker]] bent Wish to call a towering tsunami, placing the wall just ahead so its first surge already covered the vanguard.
+That morning, under [[Seeker]]'s shapeshift spell, the party crossed the [[Plaguelands]] as eagles, then waited on the arid flats a couple miles off from the hobgoblins’ camp, watching a rough oval of billowing ash where the army lay. As dusk approached, metal booms rolled across the waste and the centipede-line began to creep forward. The party rose as well, and closed the distance to the now-moving army. From seven hundred feet, [[Seeker]] bent Wish to call a towering tsunami, placing the wall just ahead so its first surge already covered the vanguard.
 
 Water slammed into ash, turning it to black slurry as the wave advanced in rolling panes. [[Wellby]] slipped ahead and shot the [[Empress of Chaos]] as her flying armor speared skyward; she answered by crossing the distance with terrifying speed, then broke off and hung back to watch. Below, the ash stopped falling where the water passed. Giant plates along the creature’s back clamped shut as hobgoblins dove for safety. The first hundred and fifty feet lay choked with many bodies, thinning sharply beyond. Daylight blossomed around the party, and Delwath’s amplified condemnation rang over the field; a handful of stragglers bolted away from the centipede. With their point made, Seeker took them out in a flash of Teleport, leaving the battlefield awash and eerily quiet. At sunset in [[Three Wells]], Delwath scried the battlefield they had just left. The centipede still crawled, its spines curled tight to seal the army within; ash no longer billowed, and the Empress rode at its head. The ground behind was littered with perhaps a thousand bodies. 
 
-After a night's sleep in camp, during which Kenzo dreaming of heavy vines and sweet earth, the party flew again at dawn to harry the column. They found a new camp: a tight circle under a low ash cap, patrolled wide by silver‑metallic giant hawks with hobgoblin riders. From a hidden blind wrought by Hallucinatory Terrain, Seeker placed a clairvoyant eye inside the camp, seeing a wide, 150-foot circle, survivors packed beneath a lattice “basket” grown from the centipede’s spines, crude metal bunks stacked, many sleeping. The party advanced to a thousand feet, and again used Seeker's Wish to bring down an Earthquake along the camp’s edge. The desert heaved; soldiers pitched; fissures ripped open, one plunging a hundred feet. Over the tremor, Delwath’s projected voice set terms: the Empress to meet them at noon, five hundred feet from her host, or expect more strikes. Then they withdrew and teleported back to Three Wells. 
+After a night's sleep in camp, during which Kenzo dreamed of heavy vines and sweet earth, the party flew again at dawn to harry the column. They found a new camp: a tight circle under a low ash cap, patrolled wide by silver‑metallic giant hawks with hobgoblin riders. From a hidden blind wrought by Hallucinatory Terrain, Seeker placed a clairvoyant eye inside the camp, seeing a wide, 150-foot circle, survivors packed beneath a lattice “basket” grown from the centipede’s spines, crude metal bunks stacked, many sleeping. The party advanced to a thousand feet, and again used Seeker's Wish to bring down an Earthquake along the camp’s edge. The desert heaved; soldiers pitched; fissures ripped open, one plunging a hundred feet. Over the tremor, Delwath’s projected voice set terms: the Empress to meet them at noon, five hundred feet from her host, or expect more strikes. Then they withdrew and teleported back to Three Wells.
 
 They waited, then cast scry again on the march. The woven basket of the centipede flowed off as the construct stretched to full length while hobgoblins mustered below. The [[Empress of Chaos]] hovered sixty to seventy feet up, giving a speech that promised a day-and-night advance under the protection of the magic and power of [[Limbo]], boasting that Chaos preceded any god. The ranks wavered—half inspired, half skeptical—but none defied her. After some discussion of the effects of their attacks and the next steps, the party slept for the night. 
 
@@ -55,7 +58,7 @@ They appeared among the spikes and catwalks. Seeker hurled Sunburst down‑tunne
 
 Through scrying, they watched the living siege-thing still flowing forward, its interior reformed into ordered sections where hobgoblins tended the wounded. Disfigured chaos sorcerers patrolled the aisles, colors whirling about their heads, eyes flashing, thin streamers of fire trailing from their arms. They preached that suffering birthed power, chaos lay within, and pain would unlock it; flame demonstrations curled harmlessly past their own. Many straightened under the exhortations, yet doubt lingered—roughly a third resisted the creed.
 
-Their strikes had bitten deep: the tsunami erased nearly a quarter of the host, the earthquake sowed further losses and confusion; perhaps three thousand remained. The assault, however, had hastened the hobgoblin's march. Our session ends the evening of August 10th as the party withdrew to camp. [[Vindristjarna]] was expected to arrive by morning, with the hobgoblin army reaching the escarpment by the following evening, and then the [[Heartroot]] less than a day later. 
+Their strikes had bitten deep: the tsunami erased nearly a quarter of the host, the earthquake sowed further losses and confusion; perhaps three thousand remained. The assault, however, had hastened the hobgoblins’ march. Our session ends the evening of August 10th as the party withdrew to camp. [[Vindristjarna]] was expected to arrive by morning, with the hobgoblin army reaching the escarpment by the following evening, and then the [[Heartroot]] less than a day later.
 
 %%
 
@@ -116,3 +119,21 @@ Their strikes had bitten deep: the tsunami erased nearly a quarter of the host, 
 - The company set an escarpment ambush for tomorrow using Erupting Earth, eagles dropping boulders, an ice turret, and [[Kenzo]]’s astral strike as Vindristjarna arrived.
 
 %%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Recorded the DR 1749 viewpoint.
+- Normalized frontmatter field order and formatting.
+- Corrected the spelling of “harassed” in the tagline.
+- Corrected the visible callout spelling of “harassed,” the timeline’s sentence opening and spacing, “asking for counsel,” the verb in Kenzo’s dream passage and the plural possessives for the hobgoblins’ camp and march.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Suggestion — campaign.noncanonical_name:** The campaign field uses the registered alias `Dunmari Frontier`. Adopt the canonical field `campaign: Dunmar Frontier`.
+- [ ] **Suggestion — editorial.shared_material_redundant:** The hidden “Detailed Summary” repeats the tsunami, earthquake, attack inside the centipede and final scrying already described in the narrative and timeline. Trim those repeated action summaries. Retain the distinct preparatory decisions and prospective plans in the comment for separate review.
+%%^End%%

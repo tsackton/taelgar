@@ -1,6 +1,7 @@
 ---
-tags: [session-note]
-name: Dunmari Frontier - Session 122
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [session-note, status/check/lint]
 campaign: Dunmari Frontier
 sessionNumber: 122
 realWorldDate: 2025-04-03
@@ -10,6 +11,8 @@ players: [Delwath, Kenzo, Wellby, Riswynn, Seeker]
 companions: [Valeris]
 tagline: in which the party banishes ancient darkness
 descTitle: Shadows Beneath Redsun Watch
+name: Dunmari Frontier - Session 122
+POV: 1749
 ---
 # Dunmari Frontier - Session 122
 
@@ -33,7 +36,7 @@ The [[Dunmar Fellowship]] overcomes supernatural darkness and deadly foes to cle
 - (DR:: 1749-06-13), later: Infiltrate [[Redsun Watch]], avoiding or defeating the minions of [[Harrow]] and [[Wend]], and light the [[Cloudspinner]]'s beacon. 
 ## Narrative
 
-Our session begins at the  edge of night in the [[Feywild]], with the party paused on the border of [[Amberglow]] near [[Redsun Watch]]. Here, the night of [[Hollowdark]] had breached the [[Sunset Gate]], forming a river of impenetrable shadow. The only sign of light is a distant tower, faintly glowing with a lingering ember of sunset. The group, wary of the dangers ahead, discusses the possibility of finding a clue about or beacon or guide to the [[Prismwell]], a place tied to the [[Cloudspinner]]’s lost power, hidden within the keep, as [[Count Vashan]] had described in a moment of lucidity. 
+Our session begins at the edge of night in the [[Feywild]], with the party paused on the border of [[Amberglow]] near [[Redsun Watch]]. Here, the night of [[Hollowdark]] had breached the [[Sunset Gate]], forming a river of impenetrable shadow. The only sign of light is a distant tower, faintly glowing with a lingering ember of sunset. The group, wary of the dangers ahead, discusses the possibility of finding a clue about or beacon or guide to the [[Prismwell]], a place tied to the [[Cloudspinner]]’s lost power, hidden within the keep, as [[Count Vashan]] had described in a moment of lucidity.
 
 ![[dufr-122-redsun-watch-in-shadow.png]]
 
@@ -41,9 +44,9 @@ Scouting, [[Kenzo]] reached out with his senses, detecting a powerful, malevolen
 
 Wary and seeking more information, [[Seeker]] cast clairvoyance targeting the lit tower. Through the sensor, he saw an open platform bathed in gentle golden light, untouched by the surrounding darkness, empty, save for rubble and a trapdoor from which slow, root-like tendrils of shadow crept. No source for the light was visible, and the silence was unbroken, leaving the party to ponder their next move. Deciding to head for the lit tower, the party advanced quietly into the darkness, avoiding patrols, though [[Seeker]] nearly stumbled into a bush before correcting course.
 
-As they reach the outer wall of [[Redsun Watch]], the darkness deepened, resisting even [[Delwath]]'s magical sight, and the sense of something lurking just out of view grew stronger. Unable to see further, the group decided to bypass the courtyard’s dangers by magical means. The party arrived atop the ruined tower by means of [[Delwath]] and [[Seeker]]’s magic, with [[Wellby]] flying up to join them moments later. The platform was bathed in a strangely peaceful, shifting light, which lulled [[Riswynn]], [[Seeker]], and [[Wellby]] into a sense of perfect safety, dulling their sense of danger. [[Delwath]], more wary, used his arcane sight to peer through a trapdoor, glimpsing a collapsed floor and a stairway descending into thick darkness below. As the group investigated, a massive shadowy cerature—part flying beast, part rider—approached from above, bearing two smaller, clinging creatures. [[Delwath]] and [[Kenzo]], unclouded by the light’s charm, quickly roused [[Seeker]] and [[Wellby]] from their stupor—[[Kenzo]] using his cleansing touch, [[Delwath]] with urgent persuasion. The party braced for battle.
+As they reach the outer wall of [[Redsun Watch]], the darkness deepened, resisting even [[Delwath]]'s magical sight, and the sense of something lurking just out of view grew stronger. Unable to see further, the group decided to bypass the courtyard’s dangers by magical means. The party arrived atop the ruined tower by means of [[Delwath]] and [[Seeker]]’s magic, with [[Wellby]] flying up to join them moments later. The platform was bathed in a strangely peaceful, shifting light, which lulled [[Riswynn]], [[Seeker]], and [[Wellby]] into a sense of perfect safety, dulling their sense of danger. [[Delwath]], more wary, used his arcane sight to peer through a trapdoor, glimpsing a collapsed floor and a stairway descending into thick darkness below. As the group investigated, a massive shadowy creature—part flying beast, part rider—approached from above, bearing two smaller, clinging creatures. [[Delwath]] and [[Kenzo]], unclouded by the light’s charm, quickly roused [[Seeker]] and [[Wellby]] from their stupor—[[Kenzo]] using his cleansing touch, [[Delwath]] with urgent persuasion. The party braced for battle.
 
-The battle began with [[Wellby]] loosing an arrow at the great shadow, dazing it. Combat was joined as [[Kenzo]] activated his magical tattoo,  landing heavy blows. The shadowy beast swept overhead, its riders dropping to the stone and exuding an aura that stifled speech and sapped strength. One grappled [[Wellby]], restraining him, while the other lashed at [[Kenzo]]. [[Delwath]] banished one of the riders, and [[Seeker]] conjured a clay construct to batter the main foe. As combat progressed, unnoticed by the party, a grotesque, many-toothed creature with a single glaring eye clambered over the wall, slashing [[Wellby]] and attempting to terrify [[Riswynn]], who resisted its gaze. The battle intensified: [[Wellby]] broke free and retreated, [[Kenzo]] pummeled the shadow beast, and the creature unleashed a deathly wail, marking several party members for death and felling [[Wellby]] with a brutal assault. 
+The battle began with [[Wellby]] loosing an arrow at the great shadow, dazing it. Combat was joined as [[Kenzo]] activated his magical tattoo, landing heavy blows. The shadowy beast swept overhead, its riders dropping to the stone and exuding an aura that stifled speech and sapped strength. One grappled [[Wellby]], restraining him, while the other lashed at [[Kenzo]]. [[Delwath]] banished one of the riders, and [[Seeker]] conjured a clay construct to batter the main foe. As combat progressed, unnoticed by the party, a grotesque, many-toothed creature with a single glaring eye clambered over the wall, slashing [[Wellby]] and attempting to terrify [[Riswynn]], who resisted its gaze. The battle intensified: [[Wellby]] broke free and retreated, [[Kenzo]] pummeled the shadow beast, and the creature unleashed a deathly wail, marking several party members for death and felling [[Wellby]] with a brutal assault.
 
 The battle reached its climax with [[Wellby]] lying unconscious and near death, while a wounded, flying monster hovered thirty feet above him. [[Riswynn]], unable to reach [[Wellby]] in time, advanced and struck the creature with her hammer, [[Shatterstorm]]. The blow shattered the monster’s aura, releasing a wave of thunder that left several party members deafened and wounded, and forced [[Wellby]] closer to death. However, [[Riswynn]]’s attack, empowered by Searing Smite, engulfed the creature in flames, destroying it and ending its suffocating magic. [[Kenzo]] then leapt upward, using his reach to strike at another airborne foe. After several missed blows, he landed two decisive hits with a flurry of strikes, bringing the creature down. [[Delwath]] finished the combat, landing a critical strike and unleashing a powerful smite that left the one-eyed humanoid bloodied and prone, and quickly dispatched. As the dust settled, [[Riswynn]] rushed to [[Wellby]]’s side to halt his slide toward death. The party, battered but alive, took a moment to recover, their enemies defeated and [[Wellby]] saved from the brink. 
 
@@ -53,7 +56,7 @@ Before descending further, the party debates their next move. They experiment wi
 
 The party descended in single file down the spiraling staircase clinging to the outer wall of the ruined tower, [[Delwath]] leading with a rope, [[Kenzo]] behind, and [[Riswynn]] and [[Wellby]] near the rear. The stairs clung to the edge of a vast, empty shaft, and the group moved slowly, wary of the drop and blind in the darkness. As they crept downward, [[Wellby]] and [[Riswynn]] began to hear unsettling whispers and footsteps behind them. The sense of being pursued grew until [[Riswynn]], overcome by fear, broke from the line and rushed forward, knocking [[Seeker]] and the construct from the stairs. Only the rope and [[Wellby]]’s quick thinking—securing it with the immovable rod—kept them from falling into the void. The construct, strong and unafraid, climbed back up with [[Seeker]] in tow, and the group regrouped.
 
-Eventually, the stairs ended in darkness, and the party found themselves at the tower’s base, unable to see or find an exit. [[Seeker]] transformed into a giant scorpion to scout, guiding the others as they searched for a way down. Amidst the rubble, they discovered a section of floor that seemed hollow beneath. As spectral terrors pressed in from outside, [[Riswynn]] cast Passwall, opening a passage into a tunnel below. The party leapt through, escaping the darkness above as it began to seep after them. [[Seeker]], transforming back from a scorpion, used his magic to seal the entrance: he conjured a massive stone block, blocking the opening created by Paswall and cutting off most of the darkness seeping in from above.
+Eventually, the stairs ended in darkness, and the party found themselves at the tower’s base, unable to see or find an exit. [[Seeker]] transformed into a giant scorpion to scout, guiding the others as they searched for a way down. Amidst the rubble, they discovered a section of floor that seemed hollow beneath. As spectral terrors pressed in from outside, [[Riswynn]] cast Passwall, opening a passage into a tunnel below. The party leapt through, escaping the darkness above as it began to seep after them. [[Seeker]], transforming back from a scorpion, used his magic to seal the entrance: he conjured a massive stone block, blocking the opening created by Passwall and cutting off most of the darkness seeping in from above.
 
 The group advanced through vaulted stone corridors, their magical lights strangely ineffective against the gloom. They reached a central chamber where three tunnels met beneath the courtyard. In the center stood the remains of an ancient fountain: a ring of stone at their feet, with a deep, empty basin below, and a collapsed pillar above. Darkness trickled down from the ceiling, drifting toward the passage leading to the dark tower. Exploring further, they found the other tunnels led only to collapsed or blocked chambers, with no sign of recent passage. Attempts to interact with the basin—pouring water, casting light—had no effect. Investigation revealed no hidden doors or magical auras, only the remnants of old plumbing and cracked stone. With few options left, the party debated whether to risk the tunnel beneath the dark tower, wary of the dangers that might await, but recognizing it as the only unexplored path.
 
@@ -140,3 +143,23 @@ The group debated how to disperse the darkness—considering airlocks, pressure 
 - Party reflects on their strategic avoidance of combat and creative use of Passwall and blindsight.
 
 %%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Recorded the session’s dated viewpoint in frontmatter.
+- Normalized frontmatter order and formatting.
+- Corrected “at the  edge” to “at the edge”, “shadowy cerature” to “shadowy creature”, “tattoo,  landing” to “tattoo, landing”, “opening created by Paswall” to “opening created by Passwall”.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Suggestion — campaign.noncanonical_name:** The campaign registry recognizes “Dunmari Frontier” as an alias. Use the registered long name in this field: `campaign: Dunmar Frontier`.
+- [ ] **Warning — correctness.internal_conflict:** The Summary calls Seeker’s form a giant centipede, while the Narrative says giant scorpion. In the recorded exchange the DM considers both, then explicitly corrects centipede to scorpion (Session 122 polished transcript, u2170–u2175). Suggested summary wording: “[[Seeker]], transforming into a giant scorpion, uses blindsight to help find an entrance to ancient underground tunnels.”
+- [ ] **Suggestion — editorial.shared_material_redundant:** The hidden “Detailed Summary,” from “Scouting the Amberglow Keep and Lit Tower” through “Confronting Darkness Beneath Redsun Watch,” repeats the visible narrative from the approach to the lighting of the beacon. Remove the repeated scene outline after retaining any distinct table or adjudication details needed for future reference in a short private comment.
+- [ ] **Warning — temporal.watch_uncertain:** The header labels the Feywild watch “Evening.” The sunset light at the border with Hollowdark describes geography, and the isolated clock reference has no confirmed watch (Session 122 time markers, t10). Confirm the watch or use “In the Feywild: at the boundary of Amberglow and Hollowdark.”
+- [ ] **Suggestion — editorial.prose_clarity:** “a clue about or beacon or guide to the Prismwell” leaves the object of “about” unclear. Suggested wording: “a clue about the [[Prismwell]], or a beacon or guide leading to it.”
+%%^End%%

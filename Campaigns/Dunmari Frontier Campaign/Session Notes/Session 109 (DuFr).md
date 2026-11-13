@@ -1,4 +1,6 @@
 ---
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
 campaign: Dunmari Frontier
 sessionNumber: 109
@@ -6,17 +8,18 @@ realWorldDate: 2024-09-27
 DR: 1749-05-19
 DR_end: 1749-05-19
 players: [Seeker, Delwath, Kenzo, Wellby]
-name: Dunmari Frontier - Session 109
 tagline: in which the party confronts dark secrets
-descTitle: Assault on Apollyon's Tower
+descTitle: "Assault on Apollyon's Tower"
+name: Dunmari Frontier - Session 109
+POV: 1749
 ---
 # Dunmari Frontier - Session 109
 
->[!info] Asssault on Apollyon's Tower: in which the party confronts dark secrets
+>[!info] Assault on Apollyon's Tower: in which the party confronts dark secrets
 > *Featuring: [[Seeker]], [[Delwath]], [[Kenzo]], [[Wellby]]*
 > *In Taelgar: May 19, 1749 DR*
 > *On Earth: Friday Sep 27, 2024*
-> *[[Apollyon's Tower]] on the [[Circular Island]] *
+> *[[Apollyon's Tower]] on the [[Circular Island]]*
 
 The [[Dunmar Fellowship]] infiltrates [[Apollyon's tower]], uncovers its secrets, and returns with valuable treasures and knowledge.
 ## Session Info
@@ -45,7 +48,7 @@ Upon arriving near the top of [[Apollyon's tower]], they encounter unexpected de
 
 Inside the tower, the group finds themselves in a ritual space and is soon pursued by magical constructs. They use strategic positioning on the narrow stairs to hold back the advancing constructs. [[Kenzo]] showcases his defensive skills, [[Delwath]] casts Sanctuary to protect them, and [[Wellby]] blinds the constructs repeatedly. Eventually, the group manages to bring down the constructs, securing a moment of calm.
 
-After the battle, the party heals and continues exploring the tower, first exploring what appears to be [[Apollyon]]'s lich transformation room, seeing a vision of [[Apollyon's Soulbinding Manacles Vision]]. Descending, the discoverworkshops, libraries, and living quarters in various states of decay. They find magical books related to necromancy and divination, as well as scraps of [[Adamantine]] and other valuable items. They collect a variety of treasures, including gold rings, a gold platter, and Drankorian coins, before moving further down into the tower.
+After the battle, the party heals and continues exploring the tower, first exploring what appears to be [[Apollyon]]'s lich transformation room, seeing a vision of [[Apollyon's Soulbinding Manacles Vision]]. Descending, they discover workshops, libraries, and living quarters in various states of decay. They find magical books related to necromancy and divination, as well as scraps of [[Adamantine]] and other valuable items. They collect a variety of treasures, including gold rings, a gold platter, and Drankorian coins, before moving further down into the tower.
 
 The party descends to the ground floor of the tower and enters a grand entrance hall, where they discover a throne room with a throne adorned with gemstones. They encounter a group of animated skeletons and use Sickening Radiance to clear them out. During this process, [[Seeker]] is briefly affected by a curse, attacking [[Delwath]], but the influence is subdued. After neutralizing the threat, they decide to leave the throne behind for now and continue exploring.
 
@@ -82,7 +85,7 @@ The party faces off against the magical constructs as they descend into [[Apolly
 - [[Kenzo]] uses his deflection abilities to mitigate damage from the constructs' attacks, showcasing impressive defensive skills.
 - [[Delwath]] casts Sanctuary on the animated rope [[ladder]] to help block the constructs, effectively using the environment to their advantage.
 - [[Wellby]] consistently targets the constructs' eyes, successfully blinding them multiple times to gain the upper hand.
-- The party uses a combination of melee attacks and defensive spells, with Wellby effectively blinding the constructs to slow their advance, despite the constructs seeming immunity to many spells. 
+- The party uses a combination of melee attacks and defensive spells, with Wellby effectively blinding the constructs to slow their advance, despite the constructs’ seeming immunity to many spells. 
 - After a prolonged battle, [[Kenzo]] and [[Delwath]] deliver the final blows, bringing the constructs down and securing a moment of calm.
 
 ### Descending the Tower
@@ -138,7 +141,7 @@ The party prepares to leave [[Apollyon's tower]], making important decisions abo
 - The party rests, preparing to plan their approach to [[Ra'ghemdros]] in the morning.
 ## Raw Notes
 - Kenzo senses area again; party decides to go west to [[Apollyon's Tower]]
-- use Animals Shapes to turn into ospreys
+- use Animal Shapes to turn into ospreys
 - fly to tower; attacked by constructs at the top, fall out of osprey form
 - land at top of tower; constructs surprise, wellby + kenzo still get the jump; party flees into lich chamber
 - fight constructs on stairs

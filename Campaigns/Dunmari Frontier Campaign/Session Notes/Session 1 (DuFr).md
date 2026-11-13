@@ -1,4 +1,6 @@
 ---
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
 campaign: Dunmari Frontier
 sessionNumber: 1
@@ -8,7 +10,8 @@ DR_end: 1748-03-22
 players: [Kenzo, Wellby, Delwath, Seeker]
 tagline: in which the party confronts chaos in Karawa
 descTitle: Hyena Rampage
-name: "Dunmari Frontier - Session 1"
+name: Dunmari Frontier - Session 1
+POV: 1748
 ---
 # Dunmari Frontier - Session 1
 
@@ -18,7 +21,7 @@ name: "Dunmari Frontier - Session 1"
 > *On Earth: Friday May 29, 2020*
 > *[[Karawa]] and [[Gomat|Gomat Oasis]]*
 
-The newly formed [[Dunmar Fellowship]] rescues [[Karawa]] from hyenas and begins investigating a string of attacks, leading them to a concerning discovery at the [[Gomat|Gomat Oasis]]
+The newly formed [[Dunmar Fellowship]] rescues [[Karawa]] from hyenas and begins investigating a string of attacks, leading them to a concerning discovery at the [[Gomat|Gomat Oasis]].
 ## Session Info
 
 ***Kenzo, Seeker, Wellby, and Delwath meet, and our campaign begins.***
@@ -31,7 +34,7 @@ The newly formed [[Dunmar Fellowship]] rescues [[Karawa]] from hyenas and begins
 - (DR:: 1748-03-22), morning: [[Kenzo]] arrives in [[Karawa]]. Giant hyena attack. Village elders, including [[Candrosa]] and Elder [[Kisa]], ask [[Delwath]] and companions to help. 
 - (DR:: 1748-03-22), afternoon: The party heads into the desert, where they meet [[Alesh]] on the road.  Turn east to the [[Gomat|Gomat Oasis]], where they find three giant lizards ripping into sheep carcasses.
 ## Narrative
-[[Seeker]] of Highkeep, [[Wellby]] Goodbarrel, [[Kenzo]], and [[Delwath]] the [[Elves|Elf]] all meet as they rush in to save the villagers of [[Karawa]] from two rampaging giant hyenas. They defeat the hyenas (one killed by [[Kenzo]], with staff and bare hands, and the other attacked with magical flames by [[Delwath]], distracted by an illusory baby antelope and tripped into a hole in the ground by [[Seeker]], then stabbed by [[Wellby]]), managing to keep all the villagers alive; one of the villages, a woman with a touch of divine magic named [[Beli]], helps in the battle. Afterward, they talk in the tea room below [[Delwath]]'s house, while the server [[Badya]] helps tend the wounded. Speaker [[Candrosa]], the leader of the [[Shakun Mystai]], and Elder [[Kisa]], leader of [[Karawa]], arrive and discuss the attacks -- these are the latest and most dangerous in a string of mysterious attacks. [[Kisa]] asks [[Delwath]] to investigate the problem, and he gets everyone else to help.
+[[Seeker]] of Highkeep, [[Wellby]] Goodbarrel, [[Kenzo]], and [[Delwath]] the [[Elves|Elf]] all meet as they rush in to save the villagers of [[Karawa]] from two rampaging giant hyenas. They defeat the hyenas (one killed by [[Kenzo]], with staff and bare hands, and the other attacked with magical flames by [[Delwath]], distracted by an illusory baby antelope and tripped into a hole in the ground by [[Seeker]], then stabbed by [[Wellby]]), managing to keep all the villagers alive; one of the villagers, a woman with a touch of divine magic named [[Beli]], helps in the battle. Afterward, they talk in the tea room below [[Delwath]]'s house, while the server [[Badya]] helps tend the wounded. Speaker [[Candrosa]], the leader of the [[Shakun Mystai]], and Elder [[Kisa]], leader of [[Karawa]], arrive and discuss the attacks -- these are the latest and most dangerous in a string of mysterious attacks. [[Kisa]] asks [[Delwath]] to investigate the problem, and he gets everyone else to help.
 
 Investigating the beasts, they seemed to have fought other battles before arriving in the village. Some skillful tracking from [[Delwath]] and [[Wellby]] allowed the party to pick up the trail of the beasts, leading a bit north of due east, into the desert.
 

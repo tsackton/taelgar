@@ -1,12 +1,15 @@
 ---
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
-name: "Interlude: Downtime in Tollen"
 campaign: Dunmari Frontier
 DR: 1749-02-04
 DR_end: 1749-03-09
 players: [Delwath, Seeker, Wellby, Kenzo, Riswynn]
 descTitle: Tollen Downtime
 tagline: in which Vindristjarna is refitted and information learned
+name: "Interlude: Downtime in Tollen"
+POV: 1749
 ---
 
 During the journey from the [[Copper Hills]] to [[Orenlas]] and then to [[Tollen]], and during the time in Tollen while work is done on [[Vindristjarna]], the party spends time gathering information.
@@ -46,7 +49,7 @@ Reported here: [[Scrying Delwath Tollen Downtime]]
 ## Philosopher's Guild Information
 
 - Letter about the [[Rodnya Voknaz]], received in trade for the silver wand from the Elemental Forge: [[Philosopher's Information Concerning Rodnya Voknaz]]
-- Letter about Ursk and its cities and ways to access them, received in trade for the gem of demon summoning taking from Kadmos: [[Philosopher's Information Concerning Ursk]]
+- Letter about Ursk and its cities and ways to access them, received in trade for the gem of demon summoning taken from Kadmos: [[Philosopher's Information Concerning Ursk]]
 
 ## Mirror Visions
 - [[Magical Pale Blue Dye Vision]]

@@ -1,4 +1,6 @@
 ---
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
 campaign: Dunmari Frontier
 sessionNumber: 49
@@ -9,6 +11,7 @@ players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
 tagline: in which deals are struck and betrayals unfold
 descTitle: The Chalice and the Eyes
 name: Dunmari Frontier - Session 49
+POV: 1748
 ---
 # Dunmari Frontier - Session 49
 
@@ -22,11 +25,11 @@ The [[Dunmar Fellowship]] engages in treacherous negotiations for powerful artif
 
 ## Session Info
 
-***The party levels Fausto's tower with the [[Mace of Terror]], [[Hralgar's Eyes]], and the [[Binding Stones]]. 
+***The party leaves Fausto's tower with the [[Mace of Terror]], [[Hralgar's Eyes]], and the [[Binding Stones]].***
 
 ***Character advancement: the party reaches level 9 as they flee Chardon, having recovered Hralgar's Eyes and survived Fausto's ambush.***
 ### Summary
-- The[[ Dunmar Fellowship]] visits scholar [[Gnaeus]] to learn about the [[Elderwood]]'s [[Deno'qai]] tribes.
+- The [[Dunmar Fellowship]] visits scholar [[Gnaeus]] to learn about the [[Elderwood]]'s [[Deno'qai]] tribes.
 - They discuss artifacts and adventurers with [[Roscelia]] and her archivist friend, [[Lyra]], who distrust [[Fausto]].
 - [[Galen]] agrees to sell the [[Chalice of the Runepriest]] to [[Riswynn]].
 - Fausto betrays the party after trading the [[Pandemonium Scroll]] for [[Hralgar's Eyes]], leading to a dangerous escape, with [[Riswynn]] disappearing via the [[Chalice of the Runepriest|chalice]] and [[Seeker]] teleporting the rest to safety.
@@ -43,7 +46,7 @@ We start as the party makes their way through the [[University of Chardon]] area
 
 After lunch, the party goes to speak with [[Roscelia]], meeting her for tea at her estate. She introduces them to a friend, [[Lyra]], an archivist at the [[Great Library]], who is interested in stories of adventurers. After introductions and some small talk, they speak about the [[Chalice of the Runepriest]] and the [[Hralgar's Eyes|Giant’s Eyes]], and adventures. [[Roscelia]] and [[Lyra]] are not particularly fond of [[Fausto]], and give the impression that he spends money freely to buy favor and influence. He is, for example, always outbidding the [[Great Library]] to acquire the services of adventurers. [[Lyra]], in particular, is annoyed with him because she sees the [[Society of the Open Scroll]] as an amateur explorer’s club that encourages careless adventuring, not a careful and serious academic endeavor like the [[Great Library]]. But according to [[Lyra]] and [[Roscelia]], probably both [[Galen]], who has the chalice, and [[Fausto]], who has the eyes, can be bargained with. 
 
-The next day, the party splits up for errands: [[Delwath]] sells art and buys supplies for the journey to the [[Elderwood]], and [[Seeker]] returns to Uflgar’s and reads the book about magic mirrors to try to learn more command words for the [[Mirror of Soul Trapping]]. Everyone meets in the late afternoon for [[Galen]]’s lecture on the wonders of the elemental planes. It an impressive show, mostly of illusion, but also involving the summoning of a real air elemental under [[Galen]]’s control. 
+The next day, the party splits up for errands: [[Delwath]] sells art and buys supplies for the journey to the [[Elderwood]], and [[Seeker]] returns to Uflgar’s and reads the book about magic mirrors to try to learn more command words for the [[Mirror of Soul Trapping]]. Everyone meets in the late afternoon for [[Galen]]’s lecture on the wonders of the elemental planes. It is an impressive show, mostly of illusion, but also involving the summoning of a real air elemental under [[Galen]]’s control.
 
 After the show, the party speaks with [[Galen]], who seems disappointed with the [[Chalice of the Runepriest]] – despite a clear connection to the outer planes he cannot get it to do anything. He is willing to part with it for a small premium over what he paid the [[Great Library]] for it, only 10,000 gp, or perhaps a bit less if the party will throw in some small magical trinket of interest. Eventually, they agree to 8,000 gp plus the Black Light Candle from [[Agata's Treasure]] that gives off darkness when burned. [[Riswynn]] will get the money from the [[Dwarves]] in the morning and return to [[Galen]] to finish the deal.
 
