@@ -1,4 +1,6 @@
 ---
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
 campaign: Dunmari Frontier
 sessionNumber: 86
@@ -10,6 +12,7 @@ companions: [Faldrak Bronzehammer]
 tagline: in which an ancient elemental is freed
 descTitle: Elemental Liberation
 name: Dunmari Frontier - Session 86
+POV: 1749
 ---
 # Dunmari Frontier - Session 86
 
@@ -24,11 +27,11 @@ The [[Dunmar Fellowship]] frees an elemental from ancient bindings in the [[Elem
 
 ## Session Info
 
-***Recover the [[Elemental Forge Hoard]] from the [[Elemental Forge|Drankoian ruins]]***
+***Recover the [[Elemental Forge Hoard]] from the [[Elemental Forge|Drankorian ruins]]***
 ### Summary
 - The [[Dunmar Fellowship]] explores the ruined Drankorian [[Elemental Forge]]
-- They communicate with a boy named [[Lucius]] via a found in the ruins.
-- The party uses 'Speak with Dead' to learn about the elemental's binding from a [[Fides Lucaris ]]member's skeleton.
+- They communicate with a boy named [[Lucius]] via a sending stone found in the ruins.
+- The party uses 'Speak with Dead' to learn about the elemental's binding from a [[Fides Lucaris]] member's skeleton.
 - A battle ensues to free an [[Sh’shethis|elemental being]], with each party member contributing to the effort.
 - [[Faldrak Bronzehammer|Faldrak]] plans to use the brief remaining magic of the forge to enhance items before its power fades.
 ### Timeline
@@ -37,9 +40,9 @@ The [[Dunmar Fellowship]] frees an elemental from ancient bindings in the [[Elem
  - (DR:: 1749-01-08) [[Mirror of the Past]] used to look at the [[Fides Lucaris]] sending stone, seeing the [[Fides Lucaris Sending Stone Vision]]. (recharge:: mirror)
 
 ## Narrative
-We begin in the [[Elemental Forge|underground Drankorian ruins]], in the antechamber of the elemental forge and workshop, as the party contemplates three doors: one, an elegant bronze door leading to the forge itself, where a manacled skeleton lays on the ground; another, a rotten wooden door leading to living chambers; and the third, a solid stone door. Deciding to explore before entering the forge chamber, the party first scouts the living quarters. 
+We begin in the [[Elemental Forge|underground Drankorian ruins]], in the antechamber of the elemental forge and workshop, as the party contemplates three doors: one, an elegant bronze door leading to the forge itself, where a manacled skeleton lies on the ground; another, a rotten wooden door leading to living chambers; and the third, a solid stone door. Deciding to explore before entering the forge chamber, the party first scouts the living quarters.
 
-The living quarters are mostly decayed away to nothing over the thousand years since this set of rooms were occupied, with very little left to find. [[Seeker]] and [[Faldrak Bronzehammer|Faldrak]] find themselves quite distracted by a crack in the wall of the storeroom, through which they can see a tunnel leading away from this area, with some strange out-of-place rocks on the ground, while [[Wellby]] and [[Kenzo]] search the other rooms, finding very little except for a small book (entitled "The [[Enchiridion of the Occulta Ludum]]", otherwise blank, and clearly magical) and a silver water pitcher, also magical. [[Delwath]] manages to keep the [[Dwarves]] from venturing down the tunnel, and the party regroups to discuss in the storeroom. [[Delwath]] also notes a magical stone chest, in which 1000 year old venison is perfectly preserved. 
+The living quarters are mostly decayed away to nothing over the thousand years since this set of rooms was occupied, with very little left to find. [[Seeker]] and [[Faldrak Bronzehammer|Faldrak]] find themselves quite distracted by a crack in the wall of the storeroom, through which they can see a tunnel leading away from this area, with some strange out-of-place rocks on the ground, while [[Wellby]] and [[Kenzo]] search the other rooms, finding very little except for a small book (entitled "The [[Enchiridion of the Occulta Ludum]]", otherwise blank, and clearly magical) and a silver water pitcher, also magical. [[Delwath]] manages to keep the [[Dwarves]] from venturing down the tunnel, and the party regroups to discuss in the storeroom. [[Delwath]] also notes a magical stone chest, in which 1000-year-old venison is perfectly preserved.
 
 Seeking more information about this place, and hoping to avoid dangerous and unexpected encounters, the party leaves the tunnel and heads through the stone door, which leads to a workshop. This is clearly a well-maintained and well-stocked jeweler's workshop; not only are there tools but there are a number of strange components that appear to be materials used in the construction of magic items, in addition to mundane tools and materials. 
 
@@ -51,6 +54,6 @@ After some more discussion, the party decides the next step to sorting out the m
 
 At this point, the party prepares for combat as the elemental storm that has been rising through the floor erupts. [[Wellby]], with the universal solvent, focuses on dissolving the two remaining silver wires connecting the forge to the floor. Meanwhile, [[Seeker]] uses Psychic Lance to keep the emerging elemental storm incapacitated, while [[Kenzo]] communes with the creature to attempt to calm it, and [[Delwath]] handles the elementals that emerge from the dissolved silver threads. Although [[Seeker]] is nearly knocked unconscious, the party manages to free and calm the elemental. 
 
-In the aftermath of the battle, [[Kenzo]] reaches into the mind of the elemental, and glimpses bits of its story. Long ago, many hundreds of years, it was living on the [[Elemental Plane of Air]]. A vision of an impossible staircase of clouds, stretching to infinity, children of air and cloud running, throwing bits of cloudstuff at eachother as a game. A vision of a palace made of lightning, a creature studying in a grand hall, images appearing in the crackling electricity. A vision of a creature of air and smoke, exploring a strange landscape of dark mist and ash drifting through the sky, with three companions. Finally, a vision of the same group of air creatures encountering [[Humans]], flying through the air; one of the [[Humans]] speaks in Drankorian, his words taking on an impossible tone as reality is reshaped by his very commands, and at his wish silver threads appear and bind the elemental. And then the elemental drifts away, a last parting jolt of energy charging the forge. As it vanishes, it whispers it's name: "[[Sh’shethis]]".
+In the aftermath of the battle, [[Kenzo]] reaches into the mind of the elemental, and glimpses bits of its story. Long ago, many hundreds of years, it was living on the [[Elemental Plane of Air]]. A vision of an impossible staircase of clouds, stretching to infinity, children of air and cloud running, throwing bits of cloudstuff at each other as a game. A vision of a palace made of lightning, a creature studying in a grand hall, images appearing in the crackling electricity. A vision of a creature of air and smoke, exploring a strange landscape of dark mist and ash drifting through the sky, with three companions. Finally, a vision of the same group of air creatures encountering [[Humans]], flying through the air; one of the [[Humans]] speaks in Drankorian, his words taking on an impossible tone as reality is reshaped by his very commands, and at his wish silver threads appear and bind the elemental. And then the elemental drifts away, a last parting jolt of energy charging the forge. As it vanishes, it whispers its name: "[[Sh’shethis]]".
 
-With the elemental freed and gone, the magic of the forge only lingers for a few days: enough time for [[Faldrak Bronzehammer|Faldrak]] to enhance his stone bird, improve [[Seeker]]'s glove, and construct two improvements for [[Vindristjarna]]. We end as crating begins. 
+With the elemental freed and gone, the magic of the forge only lingers for a few days: enough time for [[Faldrak Bronzehammer|Faldrak]] to enhance his stone bird, improve [[Seeker]]'s glove, and construct two improvements for [[Vindristjarna]]. We end as crafting begins.

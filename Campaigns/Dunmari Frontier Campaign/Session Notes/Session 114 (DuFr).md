@@ -1,14 +1,17 @@
 ---
-tags: [session-note]
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [session-note, status/check/lint]
 campaign: Dunmari Frontier
 sessionNumber: 114
 realWorldDate: 2024-12-05
 DR: 1749-05-22
 DR_end: 1749-05-23
 players: [Seeker, Delwath, Kenzo, Riswynn]
-name: Dunmari Frontier - Session 114
-tagline: in which tokens of Apollyon's victims are uncovered
+tagline: "in which tokens of Apollyon's victims are uncovered"
 descTitle: Mementos of the Past
+name: Dunmari Frontier - Session 114
+POV: 1749
 ---
 # Dunmari Frontier - Session 114
 
@@ -23,7 +26,7 @@ The Dunmar Fellowship secures crucial mementos of trapped souls in Drankor, enco
 ### Summary
 - The Dunmar Fellowship plans to free souls trapped in Apollyon's phylactery by securing mementos tied to each soul's identity.
 - They travel through Drankor, evading undead threats and finding [[Seraphina Appleblossom]]'s tavern, where they secure two mementos.
-- After battling spirits at the docks, they retrieve fireworks casing linked to Seraphina.
+- After battling spirits at the docks, they retrieve firework casings linked to Seraphina.
 - At the Custom House, they recover a shipping manifest related to [[Khemut of Targu]] and scrolls detailing Drankorian commerce.
 - Kenzo finds a scroll identifying Minarith as a faculty member of The [[University of the Blessed Waters|Thalorian]], leading to their next mission.
 
@@ -33,9 +36,9 @@ The Dunmar Fellowship secures crucial mementos of trapped souls in Drankor, enco
 - (DR:: 1749-05-23), midday: The party returns to the Temple of the Eight Divines. 
 
 ## Narrative
-Our session begins as night falls over the[[ Temple of the Eight Divines]] in [[Drankor]]. Within the temple’s hallowed walls, the party takes refuge from the encroaching darkness of the ruined city. The divine aura of the temple offers a rare moment of solace as the group contemplates the daunting task ahead: freeing the seven souls trapped within Apollyon’s phylactery and destroying the artifact.
+Our session begins as night falls over the [[Temple of the Eight Divines]] in [[Drankor]]. Within the temple’s hallowed walls, the party takes refuge from the encroaching darkness of the ruined city. The divine aura of the temple offers a rare moment of solace as the group contemplates the daunting task ahead: freeing the seven souls trapped within Apollyon’s phylactery and destroying the artifact.
 
-Seeker’s research has confirmed that unraveling the phylactery’s magic requires traveling to the [[Land of the Dead]], bringing physical mementos tied to each soul, to allow the souls to remember themselves, unraveling [[Apollyon's Phylactery]]. Four such mementos have already been secured: three death masks recovered from the Chapel of the Father and a silver pen nib from [[Valanthe]]’s courtyard. The party identifies their remaining targets as [[Seraphina Appleblossom]], a halfling tavern owner near the docks; [[Khemut of Targu]] a foreign sailor or traveler likely tied to the docks; and [[Minarith]], an elf of the peronar lineage, about whom little is known.
+Seeker’s research has confirmed that unraveling the phylactery’s magic requires traveling to the [[Land of the Dead]], bringing physical mementos tied to each soul, to allow the souls to remember themselves, unraveling [[Apollyon's Phylactery]]. Four such mementos have already been secured: three death masks recovered from the Chapel of the Father and a silver pen nib from [[Valanthe]]’s courtyard. The party identifies their remaining targets as [[Seraphina Appleblossom]], a halfling tavern owner near the docks; [[Khemut of Targu]], a foreign sailor or traveler likely tied to the docks; and [[Minarith]], an elf of the peronar lineage, about whom little is known.
 
 As the group debates their approach to the [[Land of the Dead]], various logistical and ethical concerns arise. _Plane Shift_ will require the body of a recently deceased individual whose soul still lingers in the [[Land of the Dead]], prompting discussions about where such a body might be obtained. The group resolves to prioritize recovering the remaining mementos before finalizing their plan, and as dawn breaks, they fortify themselves with _Heroes’ Feast_ before setting out toward the docks. [[Wellby]] remains behind to guard the phylactery.
 
@@ -105,7 +108,7 @@ Among the recovered scrolls are trade records and manifests detailing [[Drankori
 - They identify the likely location of [[Seraphina Appleblossom]]’s tavern, "The Laughing Wave," marked by an archway with stone carvings of curling waves.
 - Entering the tavern, the party notices an eerie mist filling the interior. The sunlight outside dims to a reddish hue.
 - A twisted conglomeration of spirits, bound together and floating, dominates the space. The spirits’ presence emanates sorrow and unease.
-- Despite their invisibility, the party’s movement draws the attention of the spirits, which separate into 20 individual entities and converge on the noise, starting a combat. Delwath casting *Synaptic Static*, destroying half the spirits; Kenzo uses precise attacks and aura strikes, stunning and eliminating multiple enemies; Riswynn invokes divine power to sear the undead, banishing many with radiant energy, and Seeker uses of *Erupting Earth* to further thin the enemy ranks.
+- Despite their invisibility, the party’s movement draws the attention of the spirits, which separate into 20 individual entities and converge on the noise, starting a combat. Delwath casts *Synaptic Static*, destroying half the spirits; Kenzo uses precise attacks and aura strikes, stunning and eliminating multiple enemies; Riswynn invokes divine power to sear the undead, banishing many with radiant energy, and Seeker uses *Erupting Earth* to further thin the enemy ranks.
 - A larger, more solid entity, composed of conjoined spirits but invisible, rises from below. This entity emits psychic despair, causing damage and unsettling memories.
 - Delwath’s *Sickening Radiance* reveals the entity to all, dealing significant radiant damage.
 - Kenzo’s relentless attacks and Riswynn’s holy power ultimately destroy the greater spirit.
@@ -149,3 +152,18 @@ Among the recovered scrolls are trade records and manifests detailing [[Drankori
 - Kenzo grabs the scroll and flees. The scroll references [[Minarith]], listed as a faculty member of the [[University of the Blessed Waters|Thalorian]], providing a crucial lead for the party.
 - With key information secured, the party decides to return to the temple to regroup and prepare for their next move: locating the Thalorian and finding a memento of [[Minarith]].
 
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Recorded `POV: 1749` for the session account. Normalized frontmatter formatting.
+- Corrected link spacing, a missing appositive comma, two verb errors, and the casing plural.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Suggestion — campaign.noncanonical_name:** The campaign field uses the registry alias Dunmari Frontier. Replace the field with `campaign: Dunmar Frontier`.
+- [ ] **Warning — consistency.internal_conflict:** The Featuring line includes Wellby, but the players field and session participant roster list four players. Wellby stays behind in the narrative. Align the roster line with the session participants: `> *Featuring: [[Seeker]], [[Delwath]], [[Kenzo]], [[Riswynn]]*`.
+%%^End%%

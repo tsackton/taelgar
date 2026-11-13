@@ -1,4 +1,6 @@
 ---
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
 campaign: Addermarch
 sessionNumber: 2
@@ -6,9 +8,10 @@ realWorldDate: 2024-09-15
 DR: 1715-04-28
 DR_end: 1715-05-01
 players: [Yvan Greenrabbit, Drou, Fazoth de Brune]
-name: Addermarch Campaign - Session 2
 tagline: in which a cursed dagger wreaks havoc
-descTitle: The Cursed Dagger's Tale
+descTitle: "The Cursed Dagger's Tale"
+name: Addermarch Campaign - Session 2
+POV: 1715
 ---
 # Addermarch Campaign - Session 2
 
@@ -28,7 +31,7 @@ The party discovers and grapples with the dangers of a cursed dagger, leading to
 - **(DR:: 1715-04-29):** The caravan travels without incident along the uneven forest road through the [[Torvaine Forest]].
 - **(DR:: 1715-04-30), morning:** South of [[Roscombe]] the party meets Sir **[[Gareth Howell]]** and a troop sent by Lady **[[Elowen Duval]]** to investigate the silence at the watch; [[Fazoth de Brune|Fazoth]]’s account of the curse persuades Gareth to let the dagger remain in his care.
 - **(DR:: 1715-04-30), evening:** The companions reach **[[Roscombe]]** and secure lodging.
-- **(DR:: 1715-05-01):** Fare-welling Oona, they report to Lady Duval, claim a bounty for recovered arms, and are asked to consult priest **[[Owen Tavish]]** of **[[The Sibyl]]** regarding the dagger; Duval also relates a rider’s full tale of the tomb-found blade and the massacre at [[Torvaine Watch]].
+- **(DR:: 1715-05-01):** Farewelling Oona, they report to Lady Duval, claim a bounty for recovered arms, and are asked to consult priest **[[Owen Tavish]]** of **[[The Sibyl]]** regarding the dagger; Duval also relates a rider’s full tale of the tomb-found blade and the massacre at [[Torvaine Watch]].
 ## Cast of Characters
 
 - **[[Drou]]** – [[Elves|elf]] adventurer from [[Orenlas]]
@@ -57,9 +60,9 @@ The party discovers and grapples with the dangers of a cursed dagger, leading to
 
 Continuing down the stairs to the lowest level, the party entered the smithy, encountering the undead remains of [[Bartoz]], the smith. As he turned to attack with his giant maul, [[Fazoth de Brune|Fazoth]] wrestled for the weapon with his mage hand while [[Yvan Greenrabbit|Yvan]] made fire appear and [[Drou]] hit him with a starry wisp. As [[Fazoth de Brune|Fazoth]] struggled for the maul, the smith attacked, off-balance, missing, and giving [[Fazoth de Brune|Fazoth]] an opening to stab him with both daggers, pinning him to the wall and then killing him.
 
-After the fight, the party finally finds the winch room, but realizes that it requires operating from both sides as once to raise the gates. Now that it is clear how the winches operate, though, it is easy enough for [[Fazoth de Brune|Fazoth]] and [[Drou]] to cross over and coordinate raising the winches.
+After the fight, the party finally finds the winch room, but realizes that it requires operating from both sides at once to raise the gates. Now that it is clear how the winches operate, though, it is easy enough for [[Fazoth de Brune|Fazoth]] and [[Drou]] to cross over and coordinate raising the winches.
 
-*Late afternoon.* After raising the gates, but before deciding to leave the Watch, the group decides to explore the top of the tower, where the the Watch commander Sir Enrik Aarpad's quarters probably are. Ascending the stairs, the first thing the party finds is the dead body of Marshal [[Hildo Brask]], apparently prevented from turning into a zombie by his holy symbol of [[The Mother]]. As the air gets colder and the lights dimmer, the party continues towards the ghost of Sir [[Einrik Arpaad]]. They pass through his study (where they find a locked chest, with coins and items marked with the Aarpad falcon crest) before finding the ghost in the bedroom, where they see the dead body of Sir Aarpad, a [[Serpentine Dagger|strange dagger]] with a bejeweled hilt lying next to his hand.
+*Late afternoon.* After raising the gates, but before deciding to leave the Watch, the group decides to explore the top of the tower, where the Watch commander Sir Einrik Arpaad's quarters probably are. Ascending the stairs, the first thing the party finds is the dead body of Marshal [[Hildo Brask]], apparently prevented from turning into a zombie by his holy symbol of [[The Mother]]. As the air gets colder and the lights dimmer, the party continues towards the ghost of Sir [[Einrik Arpaad]]. They pass through his study (where they find a locked chest, with coins and items marked with the Arpaad falcon crest) before finding the ghost in the bedroom, where they see the dead body of Sir Arpaad, a [[Serpentine Dagger|strange dagger]] with a bejeweled hilt lying next to his hand.
 
 The [[undead|ghost]] initially ignores them, but when the party asks about the dagger, it becomes enraged, turning with a shriek that frightened [[Yvan Greenrabbit|Yvan]], who flees. While the ghost is focused on the fleeing Yvan, Fazoth subtly manages to grasp the dagger with mage hand, and then both he and Drou run as they are pelted with flying debris.
 
@@ -78,7 +81,7 @@ With that, the soldiers continue south, and the party continues to [[Roscombe]],
 
 In [[Roscombe]], the party says farewell to [[Oona Stonebridge]], and meets with [[Elowen Duval]] to discuss the dagger and the events at [[Torvaine Watch]], as well as receive a bounty for the weapons and treasure recovered from the watch.
 
-Lady Duval asks that [[Fazoth de Brune|Fazoth]] meet with [[Owen Tavish]], a priest of [[The Sibyl]] is [[Roscombe]], who may be able to help with the [[Serpentine Dagger]]. She also says that a rider has come in from the watch, with news, and she reports the full story to the party:
+Lady Duval asks that [[Fazoth de Brune|Fazoth]] meet with [[Owen Tavish]], a priest of [[The Sibyl]] in [[Roscombe]], who may be able to help with the [[Serpentine Dagger]]. She also says that a rider has come in from the watch, with news, and she reports the full story to the party:
 
 It seems that a soldier, foraging in the woods just before the recent storms, stumbled across the tomb of a forgotten warrior from the days when the [[Dominion of Avatus]] subjugated these hills. In the tomb, he found some coins and a strange dagger which carried a deadly curse. Returning to the watch, he turned the dagger over to the smith, [[Bartoz]], who after discussion with the temple steward, [[Wulfram]], felt the deadly magic of the dagger must be contained and feared its influence on the watch, especially with the storm. The second-in-command, Marshal [[Hildo Brask]], brought the dagger to the attention of the commander of the watch, Sir [[Einrik Arpaad]], who sadly was overcome by the curse. Sir Arpaad killed Brask and then slaughtered the entire watch, before being mortally wounded by the smith [[Bartoz]]. The evil of his act bound his soul to the earth, and he rose as a ghost.
 We end the session that evening, at [[the Traveler's Rest]] in [[Roscombe]].

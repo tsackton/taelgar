@@ -1,6 +1,11 @@
 ---
-tags: [meta]
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [meta, status/check/lint]
 noPublish: true
+campaign: Labyrinths of the Lost
+name: Labyrinths - Player Background
+POV: 1748
 ---
 
 The *Labyrinths of the Lost* is a 3-4 session, D&D 5e adventure set in the world of Taelgar, my homebrew setting. 
@@ -29,7 +34,7 @@ This is a short adventure and characters don't need a lot of backstory for it. T
 
 The only crucial details you'll need to invent are:
 
-- How did you get kidnapped? Where you searching for trouble? Traveling somewhere? Just passing through western Cymea on a different adventure, and got unlucky? I can fill a bit of detail as needed here, so you don't need to invent exactly how things went down, but a general sense of how you ended up in this iron cage is important. 
+- How did you get kidnapped? Were you searching for trouble? Traveling somewhere? Just passing through western Cymea on a different adventure, and got unlucky? I can fill a bit of detail as needed here, so you don't need to invent exactly how things went down, but a general sense of how you ended up in this iron cage is important.
 - Why are you an adventurer - what motivates you? You are only second level, so you haven't been an adventurer for long, possibly as little as a few days. But still you must have been motivated to leave your old life by something. Maybe you are from western Cymea, and are searching for a friend who was kidnapped. Maybe you left your home in the lizardfolk swamp of Latazaro because you were bored and wanted to see the world. This does not need to be more than a few sentences. 
 - Obviously 
 
@@ -37,7 +42,7 @@ You are more than welcome to make up much more backstory if you'd like, and ther
 
 All backstories and characters must be shared with me and approved before the first session, please. 
 ### Alignment
-I don't really use alignment in my games. I mostly prefer to run games for heroic characters who are motived by virtuous, or at least neutral, aims. I am open to characters with a shady past, or who got caught in a bad situation and did things they regret. However, I don't allow evil characters in my games - no secretly working with the kidnappers to betray the party, for example.
+I don't really use alignment in my games. I mostly prefer to run games for heroic characters who are motivated by virtuous, or at least neutral, aims. I am open to characters with a shady past, or who got caught in a bad situation and did things they regret. However, I don't allow evil characters in my games - no secretly working with the kidnappers to betray the party, for example.
 # Sessions
 
 We will do a short session 0 as part of the first session. 
@@ -45,3 +50,20 @@ We will do a short session 0 as part of the first session.
 [[Labyrinths of the Lost - Session 1|Session 1]]: November 12th, 2023, 7 pm Eastern Time, [on Zoom](https://harvard.zoom.us/j/97882884286?pwd=cmVQWjNneEkzeFl5ajk4ZDlUSm5VZz09)
 [[Labyrinths of the Lost - Session 2|Session 2]]: November 25th, 2023, 8 pm Eastern Time, [on Zoom](https://harvard.zoom.us/j/97882884286?pwd=cmVQWjNneEkzeFl5ajk4ZDlUSm5VZz09)
 [[Labyrinths of the Lost - Session 3|Session 3]]: December 10th, 2023, 7 pm Eastern Time, [on Zoom](https://harvard.zoom.us/j/97882884286?pwd=cmVQWjNneEkzeFl5ajk4ZDlUSm5VZz09)
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Recorded `POV: 1748` for the opening of the adventure, dated in [[Labyrinths of the Lost - Session 1]].
+- Recorded the campaign and made the document’s filename-derived name explicit.
+- Corrected “Where you searching” and “motived.”
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Suggestion — editorial.prose_clarity:** The third bullet under “Backstory and Lore” reads only “Obviously”. Remove the unfinished bullet if the two preceding questions are the complete instructions, or supply the intended third question.
+- [ ] **Suggestion — editorial.prose_clarity:** “Details on character creation can be found on the Character Creation Guide page” gives players no link to that guide. Attach the intended page to “Character Creation Guide” so players can follow the instruction.
+%%^End%%

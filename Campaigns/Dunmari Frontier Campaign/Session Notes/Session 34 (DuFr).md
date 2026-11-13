@@ -1,4 +1,6 @@
 ---
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
 campaign: Dunmari Frontier
 sessionNumber: 34
@@ -9,6 +11,7 @@ players: [Kenzo, Wellby, Delwath, Seeker]
 tagline: in which the party tames extraplanar chaos
 descTitle: The Essence of Arborea
 name: Dunmari Frontier - Session 34
+POV: 1748
 ---
 # Dunmari Frontier - Session 34
 
@@ -31,7 +34,7 @@ The Dunmar Fellowship collects extraplanar energy from a connection to [[Arborea
 - [[Seeker]] turns a giant velvet worm guarding the [[Extraplanar Weak Point]] into an earthworm, allowing the collection of extraplanar energy.
 
 ### Timeline
-- (DR:: 1748-06-30), evening: Speak with [[Rishi]] at the[[ Lakan Monastery]]. Meet [[Basu]] at dinner, who gripes about the overflowing energy of Arborea in the elven ruins below the Lakan monastery. Meet [[Kassi]], the head librarian at the monastery. Dinner discuss events in [[Tokra]] with [[Johar]], Kenzo's old friend. Spend the night at the monastery. 
+- (DR:: 1748-06-30), evening: Speak with [[Rishi]] at the [[Lakan Monastery]]. Meet [[Basu]] at dinner, who gripes about the overflowing energy of Arborea in the elven ruins below the Lakan monastery. Meet [[Kassi]], the head librarian at the monastery. At dinner, discuss events in [[Tokra]] with [[Johar]], Kenzo's old friend. Spend the night at the monastery.
 - (DR:: 1748-07-01), morning: Enter [[Elven Arborea Workshop|ancient elven ruins]]. Defeat slimes and oozes and confront massive velvet worm near the [[Extraplanar Weak Point]], which is tamed by Seeker's magic. Return to surface with three vials filled with the essence of [[Arborea]]'s extraplanar energy.
 
 
@@ -44,12 +47,12 @@ After dinner, they discuss the [[Tokra]] [[Archives]] with [[Johar]]; the clues 
 
 The next morning, after breakfast, the party meets [[Basu]] at his workshop and are led to the entrance to the [[Elven Arborea Workshop]] beneath the monastery, with three vials of prepared oil that must be placed near the leakage from [[Arborea]] to charge, before they can be used to construct magic items with extradimensional spaces. 
 
-Proceeding down the pitch black corridor, the party emerges in a room lit by the dim glow of bioluminescent fungi, with pillars decorated in Elvish script running down both sides of the cavern. What was once an entrance is blocked by a cave in at the far end. After dealing with some poisonous mold that launches a cloud of toxic spores, and an ooze that looks like wet stone, they read enough of the script on the pillars to learn one side of the room discusses [[Arborea]], of nature untamed and wild, and the other [[Pandemonium]], the plane of madness, said to be the home of [[Jinnik]]. 
+Proceeding down the pitch black corridor, the party emerges in a room lit by the dim glow of bioluminescent fungi, with pillars decorated in Elvish script running down both sides of the cavern. What was once an entrance is blocked by a cave-in at the far end. After dealing with some poisonous mold that launches a cloud of toxic spores, and an ooze that looks like wet stone, they read enough of the script on the pillars to learn one side of the room discusses [[Arborea]], of nature untamed and wild, and the other [[Pandemonium]], the plane of madness, said to be the home of [[Jinnik]].
 
 Continuing through the doors, the party comes to an open room with three passages, one straight ahead, one to the left, and one to the right. The right hand side of the chamber is filled with slightly pulsating red fungal-looking protrusions. As the party enters, the protrusions seem to be safe and friendly, until they attack [[Seeker]] and [[Wellby]], stealing memories from each of them. [[Wellby]] stays to fight while [[Kenzo]] and [[Delwath]], still under its charm, continue, prompting [[Seeker]] to try to use Suggestion on [[Wellby]] to get him to leave well enough alone. 
 
 Eventually [[Wellby]] relents, and the party moves down the corridor to the weak point, when they are attacked by oozing slime molds that drop from the ceiling. The acidic slimes corrode their weapons as they attack, leaving [[Seeker]]’s armor damaged and [[Kenzo]]’s staff nearly destroyed. 
 
-Finally, the party reaches the room where the energy of [[Arborea]] is strongest, a point surrounded by pillars of stone. [[Seeker]] uses Clairvoyance to see a giant worm-like creature with antenna and many little legs (a giant velvet worm) curled up around the weak point, waiting in ambush. Approaching cautiously, [[Wellby]] manages to catch a glimpse of it through the cracks and reach into its mind, sensing its desperate hunger for a giant cricket. In a moment of brilliance, he tosses the [[Obsidian Fly]] from [[Agata]]’s lair out, speaking the command word as he does. The velvet worm attacks the fly, encasing it in some glue-like substance and moving in to feed. While it is distracted, [[Seeker]] turns it into a regular earthworm, giving the party time to charge the vials and run before it shifts back. As the vials charge, the moisture and oppressive, heavy air of the place seem to lift, and the party returns to the surface, although without investigating the rest of the chambers. 
+Finally, the party reaches the room where the energy of [[Arborea]] is strongest, a point surrounded by pillars of stone. [[Seeker]] uses Clairvoyance to see a giant worm-like creature with antennae and many little legs (a giant velvet worm) curled up around the weak point, waiting in ambush. Approaching cautiously, [[Wellby]] manages to catch a glimpse of it through the cracks and reach into its mind, sensing its desperate hunger for a giant cricket. In a moment of brilliance, he tosses the [[Obsidian Fly]] from [[Agata]]’s lair out, speaking the command word as he does. The velvet worm attacks the fly, encasing it in some glue-like substance and moving in to feed. While it is distracted, [[Seeker]] turns it into a regular earthworm, giving the party time to charge the vials and run before it shifts back. As the vials charge, the moisture and oppressive, heavy air of the place seem to lift, and the party returns to the surface, although without investigating the rest of the chambers. 
 
 We end as the party emerges, successful, with the vials of extraplanar energy, into the morning sun in the [[Lakan Monastery]]. 

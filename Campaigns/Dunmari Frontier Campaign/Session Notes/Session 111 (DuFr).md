@@ -1,18 +1,21 @@
 ---
-tags: [session-note]
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [session-note, status/check/lint]
 campaign: Dunmari Frontier
 sessionNumber: 111
 realWorldDate: 2024-10-24
 DR: 1749-05-21
 DR_end: 1749-05-22
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
-name: Dunmari Frontier - Session 111
-tagline: in which the party plans their attack on their dopplegangers
+tagline: in which the party plans their attack on their doppelgangers
 descTitle: Approaching Drankor
+name: Dunmari Frontier - Session 111
+POV: 1749
 ---
 # Dunmari Frontier - Session 111
 
->[!info] Approaching Drankor: in which the party plans their attack on their dopplegangers
+>[!info] Approaching Drankor: in which the party plans their attack on their doppelgangers
 > *Featuring: [[Seeker]], [[Delwath]], [[Kenzo]], [[Wellby]], [[Riswynn]]*
 > *In Taelgar: May 21, 1749 DR to May 22, 1749 DR*
 > *On Earth: Thursday Oct 24, 2024*
@@ -29,7 +32,7 @@ The [[Dunmar Fellowship]] prepares to cautiously enter Drankor and deal with und
 
 ### Timeline
 - (DR:: 1749-05-21), evening: Set course for [[Drankor]], and discuss plans. 
-- (DR:: 1749-05-22), morning: Arrive on the outskirts of [[Drankor]]. Scout in [[Vindristjarna]] Prepare to attack dopplengagers. 
+- (DR:: 1749-05-22), morning: Arrive on the outskirts of [[Drankor]]. Scout in [[Vindristjarna]]. Prepare to attack doppelgangers.
 
 ## Narrative
 The party returned to [[Vindristjarna]] after their recent adventures, bringing with them a massive crystal block containing the [[Cloudspinner]] in suspended animation, among [[Ra'ghemdros' Hoard|other treasure]] from the black dragon [[Ra'ghemdros]]. They reunited with [[Riswynn]], and the crew of [[Vindristjarna]], who were eager to hear about their exploits. They unloaded their treasure and discussed dividing it, while joking about potential uses for the magical items.
@@ -38,7 +41,7 @@ After sorting through the treasure, the party began making preparations for thei
 
 As they approached [[Drankor]], the party discussed their strategy for entering the city. They considered scouting and scrying to gather information, recalling that the city was overgrown and potentially inhabited by skeletal undead. They also weighed the risks of flying over the river versus approaching from the west. They discussed how to deal with Apollyon's doppelgangers, deciding to use scrying to better understand their enemies' positions and to minimize risk as much as possible.
 
-The party finalized their preparations for approaching Drankor, deciding on their tactics. [[Riswynn]] cast Hero's Feast, granting themselves and key crew members immunity to fear, and [[Delwath]] scryed on their doppelgangers, locating them at the docks. The party planned to use invisibility and misdirection to gain an advantage, hoping to defeat the doppelgangers one by one rather than facing them all at once. They decided to maintain a cautious approach while preparing for potential confrontation.
+The party finalized their preparations for approaching Drankor, deciding on their tactics. [[Riswynn]] cast Hero's Feast, granting themselves and key crew members immunity to fear, and [[Delwath]] scried on their doppelgangers, locating them at the docks. The party planned to use invisibility and misdirection to gain an advantage, hoping to defeat the doppelgangers one by one rather than facing them all at once. They decided to maintain a cautious approach while preparing for potential confrontation.
 
 Upon reaching the outskirts of Drankor, the party spotted notable landmarks, such as the Teeth of Drankor and the Temple of the [[Mos Numena|Eight Divines]]. They used scrying to locate [[Delwath]]'s doppelganger on one of the towers and considered teleporting directly to confront him. Meanwhile, [[Kenzo]] sensed Wellby's presence near the docks, preparing an ambush. The party debated their options, eventually deciding to move cautiously to avoid triggering the city's defenses while they strategized how best to isolate and confront their enemies. The session ended as the party made their final preparations for a confrontation in [[Drankor]].
 
@@ -109,3 +112,18 @@ The party makes final preparations for their confrontation in Drankor, deciding 
 - Ultimately, they agree on a strategy that involves using the Rainbow Bridge to make their presence known and waiting to see if the doppelgangers come after them, hoping to lure them into an ambush.
 - The session ends with Seeker preparing to use Chance Weaver's dice for a teleportation attempt into the lightning tower, with the party ready to strike as soon as they have an opportunity.
 
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Recorded the session viewpoint as DR 1749 and normalized frontmatter order.
+- Corrected the spelling of doppelgangers and scried and separated the scouting and attack preparations in the timeline.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Suggestion — campaign.noncanonical_name:** The registry recognizes the current “Dunmari Frontier” as an alias. Use the canonical frontmatter entry `campaign: Dunmar Frontier`.
+- [ ] **Suggestion — editorial.prose_clarity:** The departure summary and detailed account call Willow’s husband “Micah”, while the narrative links [[Mica Copperharp]]. Confirm the preferred spelling for the session record. If the reference-page spelling is intended, use “Mica” in the two summaries.
+%%^End%%

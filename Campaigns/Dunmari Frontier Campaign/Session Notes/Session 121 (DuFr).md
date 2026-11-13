@@ -1,5 +1,7 @@
 ---
-tags: [session-note]
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [session-note, status/check/lint]
 campaign: Dunmari Frontier
 sessionNumber: 121
 realWorldDate: 2025-03-25
@@ -7,9 +9,10 @@ DR: 1749-06-08
 DR_end: 1749-06-13
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
 companions: [Valeris, Ismara]
-name: Dunmari Frontier - Session 121
 tagline: in which the party faces wolf riders
 descTitle: Clash Along the Sunset Gate
+name: Dunmari Frontier - Session 121
+POV: 1749
 ---
 # Dunmari Frontier - Session 121
 
@@ -41,7 +44,7 @@ Our session begins as the party soars over [[Emberwine]] on exotic griffins with
 
 During the journey, troubling news reaches [[Riswynn]] through the [[Crown of Purity]], which she continues to struggle to wrest from the taint of generations of control by members of [[The Cleansed]]. Chardon has fallen into chaos, with riots led by a group calling themselves the [[Eightfold Flame]] and preaching the evil of [[chalyte]], and a power vacuum left by the absent [[Mitus Verina Auratan|Magistros]], who is negotiating [[Nayan Karnas]]' surrender in [[Darba]]. 
 
-Encouraged by [[Seeker]]'s questions, [[Ismara]] explains that unlike the mundane world (what she calls the [[Material Plane]]), the [[Feywild]] changes through the will of the archfey rather than natural processes and cataclysm. She speaks of [[Fate's Ruin]], a fey realm near of her home in [[Gleamwater]], transformed by the [[Rust Baron]] from artistic mountains into decay, and how [[Amberglow]] lost its color after the disappearance of the [[Cloudspinner]]. 
+Encouraged by [[Seeker]]'s questions, [[Ismara]] explains that unlike the mundane world (what she calls the [[Material Plane]]), the [[Feywild]] changes through the will of the archfey rather than natural processes and cataclysm. She speaks of [[Fate's Ruin]], a fey realm near her home in [[Gleamwater]], transformed by the [[Rust Baron]] from artistic mountains into decay, and how [[Amberglow]] lost its color after the disappearance of the [[Cloudspinner]].
 
 The party reaches the [[Sunset Gate]], a massive, shimmering wall capturing all the colors of sunset, stretching endlessly upward. Parts reflect light brilliantly while others appear as crystal or frozen oil paint, constantly shifting and warm to the touch. Although the party notes some cracks in the wall through which a person might attempt to pass, [[Valeris]] and [[Ismara]] warn that time flows differently through the gate: those who enter might emerge in seconds—or in years.
 
@@ -55,7 +58,7 @@ The battle unfolds dramatically: [[Wellby]] rains arrows from above, [[Delwath]]
 
 After the battle, [[Seeker]] identifies the fallen enemies as [[Duskhounds]]—lieutenants of [[Lord Umbraeth]], the Gloomshaper, whose realm of [[Duskmire]] has expanded into the edges of [[Amberglow]] since [[Cloudspinner]]'s disappearance. [[Seeker]] recalls that [[Lord Umbraeth]]'s servants had captured at least one [[Amberlight]], potentially allowing them to track the [[Cloudspinner]].
 
-As they continue northward, they spot a strange, unnaturally white river surrounded by dead trees. Beyond it lies their ultimate destination: [[Redsun Watch]]. From a distance, all that can be seen among the river of darkness flowing from [[Hollowdark]] is the upper third of one tower, still catching sunlight while the rest of the keep has been swallowed by inky night, coming from massive tear in the [[Sunset Gate]]. Our session ends as the party halts to plan their approach.
+As they continue northward, they spot a strange, unnaturally white river surrounded by dead trees. Beyond it lies their ultimate destination: [[Redsun Watch]]. From a distance, all that can be seen among the river of darkness flowing from [[Hollowdark]] is the upper third of one tower, still catching sunlight while the rest of the keep has been swallowed by inky night, coming from a massive tear in the [[Sunset Gate]]. Our session ends as the party halts to plan their approach.
 
 ## Detailed Outline
 
@@ -171,3 +174,25 @@ The party takes a short rest to recover from the battle before continuing their 
 Drawing closer, they observe that the darkness varies in density, with some areas appearing as impenetrable black fog while others allow feeble rays of light to penetrate through like mist. Rising above this sea of darkness stands their destination: Red Sun Watch, a partially visible tower with tarnished golden decorations, its upper third still catching sunlight while the rest of the structure has been swallowed by the encroaching darkness.
 
 %%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Recorded POV 1749 from the session chronology.
+- Normalized frontmatter order.
+- Corrected “near of her home” to “near her home”, “coming from massive tear” to “coming from a massive tear”.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Suggestion — campaign.noncanonical_name:** The campaign field uses the registry alias “Dunmari Frontier.” Use `campaign: Dunmar Frontier`.
+- [ ] **Suggestion — editorial.shared_material_redundant:** The closing “LONG NARRATIVE” comment retells the flight, confrontation with the riders, and arrival at Redsun Watch already recorded in the narrative and Scenes 1–7. Remove the duplicate retelling after checking its distinct recollections against the record of play.
+- [ ] **Warning — correctness.internal_conflict:** Scene 3 assigns the planned Ice Storm to Kenzo, while Scene 4 and the narrative assign the spell to Delwath. If the plan referred to the spell he subsequently cast, use “The party plans to use Delwath’s Ice Storm at extended range.”
+- [ ] **Warning — correctness.internal_conflict:** The June 13 timeline describes a dry river while the narrative and Scene 7 describe an unnaturally white river. If its water level is uncertain, use “Travel north past a white river surrounded by dead trees to Redsun Watch.”
+- [ ] **Warning — correctness.internal_conflict:** The narrative places the psychic howl before Kenzo falls and is healed, while Scene 5 places it after Riswynn heals him. Confirm the sequence or leave the order open by recording the howl separately from his fall and recovery.
+- [ ] **Warning — correctness.internal_conflict:** The closing draft reverses the duel outcome recorded in Scene 1 and [[Session 120 (DuFr)]]. If retaining that passage, use “Arendel defeated Delwath, who paid by telling stories for two days.” The draft also gives different distances for Kenzo’s charge and conflicts with the narrative on how time passes in the gate. Check those details before using the draft.
+- [ ] **Suggestion — editorial.prose_clarity:** Scene 7 calls the same lord “Umbriath” and the same destination “Red Sun Watch” that the narrative links as [[Lord Umbraeth]] and [[Redsun Watch]]. Use the linked spellings throughout the outline, including “Cloudspinner” and “chalyte,” so readers can identify those references.
+%%^End%%

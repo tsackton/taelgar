@@ -1,4 +1,6 @@
 ---
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
 campaign: Dunmari Frontier
 sessionNumber: 119
@@ -6,9 +8,10 @@ realWorldDate: 2025-02-14
 DR: 1749-05-30
 DR_end: 1749-05-31
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
-name: Dunmari Frontier - Session 119
 tagline: in which the party enters the Feywild
 descTitle: Journey to Emberwine
+name: Dunmari Frontier - Session 119
+POV: 1749
 ---
 # Dunmari Frontier - Session 119
 
@@ -44,7 +47,7 @@ As the party approaches the tree, they hear distant music and laughter, with voi
 
 The party finds themselves emerging onto a sunlit hill in the [[Feywild]], where [[Wellby]] is already enthusiastically dancing with a group of satyrs playing pipes. The setting is bathed in perfect golden-hour sunlight, surrounded by vineyards and filled with the scent of grapes and crushed flowers.
 
-As each member arrives, the satyrs attempt to pull them into the dance. [[Tarviel|One satyr]], who seems to speak for the dancers, addresses [[Riswynn]] with surprise, asking who she is that "carries a fragment of the impossible," but quickly dismisses this mystery in favor of revelry. Another satyr steals [[Seeker]]'s book when he tries to avoid dancing, forcing him to engage before [[Delwath]] retrieves it with Mage Hand. When [[Seeker]] mentions their quest to reach [[Amberglow]] and the [[Cloudspinner]], [[Tarviel]] become uncomfortable. The music briefly stops when [[Delwath]] speaks of bringing change, as they insists there is "no change in [[Emberwine]]." [[Kenzo]] cleverly initiates a conga line, allowing the party to travel while still dancing.
+As each member arrives, the satyrs attempt to pull them into the dance. [[Tarviel|One satyr]], who seems to speak for the dancers, addresses [[Riswynn]] with surprise, asking who she is that "carries a fragment of the impossible," but quickly dismisses this mystery in favor of revelry. Another satyr steals [[Seeker]]'s book when he tries to avoid dancing, forcing him to engage before [[Delwath]] retrieves it with Mage Hand. When [[Seeker]] mentions their quest to reach [[Amberglow]] and the [[Cloudspinner]], [[Tarviel]] becomes uncomfortable. The music briefly stops when [[Delwath]] speaks of bringing change, as they insist there is "no change in [[Emberwine]]." [[Kenzo]] cleverly initiates a conga line, allowing the party to travel while still dancing.
 
 ![[dufr-119-emberwine-satyrs.jpg|600]]
 
@@ -62,9 +65,9 @@ Casting the spell, [[Seeker]]'s magical senses rise a mile above the landscape. 
 
 "There's a campfire to the north," [[Seeker]] reports. "I'll teleport us there." As [[Seeker]] begins the spell, the companions feel themselves being dragged through what seems like an invisible wall. The magic twists and distorts around them, before violently collapsing. A burst of arcane force slams through the group, inflicting painful injuries to everyone. "Teleportation doesn't work here," [[Seeker]] gasps, blaming the strangeness of the [[Feywild]] for the failure of his usually reliable magic, although the spell does bring the party to their destination. 
 
-Tthe party finds themselves in a small clearing with a cottage. Its roof is woven from amber-colored vines, and apple trees laden with fruit stand nearby. A fire pit with a large iron pot sits outside, and the air smells of soup and freshly baked pie. [[Wellby]] is immediately suspicious of this idyllic scene, but before they can retreat, the cottage door opens. A strange humanoid rabbit creature emerges, cheerfully greeting them and offering pie. After some hesitation, [[Kenzo]] examines her with Soul Sight and determines she's genuinely curious and happy, though this does little to ease the group's wariness.
+The party finds themselves in a small clearing with a cottage. Its roof is woven from amber-colored vines, and apple trees laden with fruit stand nearby. A fire pit with a large iron pot sits outside, and the air smells of soup and freshly baked pie. [[Wellby]] is immediately suspicious of this idyllic scene, but before they can retreat, the cottage door opens. A strange humanoid rabbit creature emerges, cheerfully greeting them and offering pie. After some hesitation, [[Kenzo]] examines her with Soul Sight and determines she's genuinely curious and happy, though this does little to ease the group's wariness.
 
-The rabbit woman introduces herself as [[Auntie Mulberry]], and through conversation, she gradually presses the party about their true purpose in [[Emberwine]]. When they mention seeking allies and heading to [[Everlight's Bloom]] to bring news of [[Lirien]]'s death to [[Prince Aurelian]], she becomes skeptical, noting that the Golden Prince cares little for those who leave his realm. After an extending conversation about allies and guides, the party's desire for them, and Auntie Mullbery's accusation they haven't tried to find allies, so why should they expect them to drop from the sky, the conversation turns to bringing change to the [[Feywild]]. Auntie Mulberry grows indignant as she pieces together that the party is referring to potentially returning the [[Cloudspinner]] to [[Amberglow]], upset that anyone would assume the people of [[Emberwine]] prefer the darkness of [[Harrow]] and [[Wend]] to the [[Cloudspinner]]. 
+The rabbit woman introduces herself as [[Auntie Mulberry]], and through conversation, she gradually presses the party about their true purpose in [[Emberwine]]. When they mention seeking allies and heading to [[Everlight's Bloom]] to bring news of [[Lirien]]'s death to [[Prince Aurelian]], she becomes skeptical, noting that the Golden Prince cares little for those who leave his realm. After an extended conversation about allies and guides, the party's desire for them, and Auntie Mulberry's accusation they haven't tried to find allies, so why should they expect them to drop from the sky, the conversation turns to bringing change to the [[Feywild]]. Auntie Mulberry grows indignant as she pieces together that the party is referring to potentially returning the [[Cloudspinner]] to [[Amberglow]], upset that anyone would assume the people of [[Emberwine]] prefer the darkness of [[Harrow]] and [[Wend]] to the [[Cloudspinner]].
 
 However, in thanks for [[Delwath]]'s story, well-told, Auntie Mulberry eventually reveals that a refugee from Cloudspinner's Court might be found at [[Sunwine Hall]], the Court of the [[Lord Soven|Master of Revels]]. She provides a small flute-like whistle that will guide them there if they follow its melody while dancing. As the rabbit woman retreats into her cottage, [[Lady Eventide]] reveals that she remembers the Master of Revels visiting the [[Cloud Palace]] once - a handsome fellow with golden antlers who was an exceptional dancer. With this new lead, the party prepares to follow the melody to [[Sunwine Hall]], hoping to find the refugee who might help them locate the [[Prismwell]].
 
@@ -91,8 +94,8 @@ However, in thanks for [[Delwath]]'s story, well-told, Auntie Mulberry eventuall
 - The party reaches the banks of the red river and observes a barge with elegant humanoid figures drifting downstream.
 - They decide to use [[Lirien]]'s death as a cover story, claiming they need to bring news to Everlight's Bloom.
 - As the barge draws near, they see about 20 passengers with glowing eyes and reddish hair, drinking from the river.
-- Delwath hails the barge and explains their mission to bring news of [[Lirien]]'s death to Everlake's Bloom.
-- The barge master, disappointed they won't join his voyage to the Sunwine Halls, grows suspicious of their story.
+- Delwath hails the barge and explains their mission to bring news of [[Lirien]]'s death to Everlight's Bloom.
+- The barge master, disappointed they won't join his voyage to Sunwine Hall, grows suspicious of their story.
 - He questions why the Golden Prince would care about [[Lirien]]'s death, and why they would be chosen as messengers.
 - Despite his skepticism, the barge master gives directions, telling them to follow the river and that "if your mission is true, your steps will be quick."
 - The barge continues downstream, with the master muttering about "foolish mortals" as he departs.
@@ -120,7 +123,7 @@ However, in thanks for [[Delwath]]'s story, well-told, Auntie Mulberry eventuall
 - Lady Eventide recognizes the Master of Revels as someone who once visited the Cloud Palace.
 - The party decides to head to [[Sunwine Hall]] to seek the refugee from Amberglow.
 
-## Auntie Mullbery Extended Narrative
+## Auntie Mulberry Extended Narrative
 *Claude 3.7 Sonnet with some careful prompting and corrections*
 
 The cottage door swung open to reveal a strange-looking creature—roughly five feet tall with rabbit ears and a face that blended human and lagomorph features. She wore an apron and carried a freshly baked pie, which she promptly handed to Wellby.

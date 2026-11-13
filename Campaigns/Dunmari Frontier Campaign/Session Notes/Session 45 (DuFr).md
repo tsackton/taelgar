@@ -1,4 +1,6 @@
 ---
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
 campaign: Dunmari Frontier
 sessionNumber: 45
@@ -7,9 +9,10 @@ DR: 1748-07-23
 DR_end: 1748-08-08
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
 companions: [Johar]
-tagline: in which the party recovers from battle, and finally reaches Darba
+tagline: "in which the party recovers from battle, and finally reaches Darba"
 descTitle: Onward to Darba
 name: Dunmari Frontier - Session 45
+POV: 1748
 ---
 # Dunmari Frontier - Session 45
 
@@ -23,11 +26,11 @@ The [[Dunmar Fellowship]], after a narrow escape, traps a poison troll, and jour
 
 ## Session Info
 
-***The party departs Vondar with some treasures from the wyvern's lair.***
+***The party departs Vandar with some treasures from the wyvern's lair.***
 ### Summary
 - The [[Dunmar Fellowship]] escapes a fiery battle and seeks refuge near abandoned mines.
 - They learn of the [[Society of the Open Scroll]]'s dark influence from [[Marcella]] and gift her [[Boots of False Tracks (Agata)]] to help her escape.
-- They task [[Johar]] with distributing blood money to bandits' families. and inspect magical items
+- They task [[Johar]] with distributing blood money to bandits' families and inspect magical items.
 - The party scouts the ruins, traps a poison troll in the [[Mirror of Soul Trapping]], and travels towards Darba.
 
 ### Timeline
@@ -58,6 +61,6 @@ The conversation turns to the situation in [[Dunmar]], and speculation as to how
 
 After discussing the scenes in the mirror and the various evidence for ancient Drankorian magic, the party decides to scout the ruins a bit more before turning west to [[Darba]]. [[Wellby]], [[Delwath]], and [[Kenzo]] proceed invisibly to collect the coins and treasure from the lair, and notice while they are doing so the poison troll is awake, and seemingly looking for the wyverns, poking at their lair with a stick. Deciding to sneak up on it and catch it in the [[Mirror of Soul Trapping]], they succeed despite a few mishaps.
 
-With the poison troll trapped, the party headed for the road again, reaching the next waystation and outpost, run by a woman named [[Padma]] in a few days time. Here, they brought welcome news of the wyvern’s demise, and then continued west towards [[Darba]]. Passing through the increasingly settled and lush land of the [[Darba]] hinterlands, in less that two weeks they reached the outskirts of the city, where our session ends. 
+With the poison troll trapped, the party headed for the road again, reaching the next waystation and outpost, run by a woman named [[Padma]] in a few days’ time. Here, they brought welcome news of the wyvern’s demise, and then continued west towards [[Darba]]. Passing through the increasingly settled and lush land of the [[Darba]] hinterlands, in less than two weeks they reached the outskirts of the city, where our session ends. 
 
 Along the way, they looked at one more object in the mirror, the valuable diamond [[Agata]] carried on her person, again [[Extravagant Diamond Vision|seeing a vision of its past]]. 

@@ -1,5 +1,7 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
 websiteSessionView: zoomable
 campaign: Dunmar Frontier
@@ -10,11 +12,12 @@ DR: 1748-03-23
 DR_end: 1748-03-25
 players: [Kenzo, Wellby, Delwath, Seeker]
 companions: []
-name: "Dunmari Frontier - Session 2"
-descTitle: "Into the Wilds"
-tagline: "in which the party follows signs of unnatural violence into the Nashtkar"
+descTitle: Into the Wilds
+tagline: in which the party follows signs of unnatural violence into the Nashtkar
 sessionKey: dunmari-frontier-session-2
 session-template: dunmar-frontier-template.md
+name: Dunmari Frontier - Session 2
+POV: 1748
 ---
 # Dunmari Frontier - Session 2
 
@@ -31,7 +34,7 @@ After defeating the giant lizards and securing [[Gomat|Gomat Oasis]], the party 
 > [!quote] [[Akan]]
 > *I do not know why they were so enraged, so bloodthirsty. We thought we could scare them off. My family, there was eleven of us. Only seven now remain.*
 
-**The party reaches [[Daraar Canyon]] and gazes at the dangerous wilds beyond.:** 
+**The party reaches [[Daraar Canyon]] and gazes at the dangerous wilds beyond:**
 ![[assets/session-audio/dunmari-frontier-session-2/dunmari-frontier-session-2-audio-003.m4a]]
 
 ## Timeline

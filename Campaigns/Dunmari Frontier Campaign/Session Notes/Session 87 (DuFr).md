@@ -1,5 +1,7 @@
 ---
-tags: [session-note]
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [session-note, status/check/lint]
 campaign: Dunmari Frontier
 sessionNumber: 87
 realWorldDate: 2023-11-08
@@ -7,8 +9,9 @@ DR: 1749-01-08
 DR_end: 1749-01-16
 players: [Seeker, Delwath, Kenzo, Wellby]
 tagline: in which the party uncovers hidden lore in Erelion
-descTitle: Erelion's Secrets
+descTitle: "Erelion's Secrets"
 name: Dunmari Frontier - Session 87
+POV: 1749
 ---
 # Dunmari Frontier - Session 87
 
@@ -24,7 +27,7 @@ In the elven city of [[Erelion]], the [[Dunmar Fellowship]] learns about [[Cha'm
 
 ***Character advancement: reach level 13 at the end of the session***
 ### Summary
-- The[[ Dunmar Fellowship]] returns to [[Vindristjarna]] after constructing magic items at the Elemental Forge.
+- The [[Dunmar Fellowship]] returns to [[Vindristjarna]] after constructing magic items at the Elemental Forge.
 - Using the planar prism, they construct a rainbow bridge to [[Orenlas]], where they experience dreamlike visions.
 - They are welcomed in [[Erelion]] and explore fey gardens and the elder tree.
 - An elder elf named [[Arheste]], ill and cared for by [[Ealwen]], shares ancient tales with the party after being soothed by [[Kenzo]]'s ki.
@@ -52,10 +55,10 @@ This story is told from [[Arheste]]'s point of view [[Arheste#Arheste's Story|he
 - After the Drankorian civil war, [[Omnis Pura]] and [[Cha'mutte]] became allies, and when [[Apollyon|Apollyon]] came to power, he continued to ally with [[Cha'mutte]]. 
 - However, [[Cha'mutte]] became angry when [[Apollyon|Apollyon]] stole the [[Cloak of Rainbows|Cloak of Rainbows]] from the free [[Orcs]], as [[Cha'mutte]]'s goal was to free all species from the "shackles" of their divine creators, whether they wished it or not. The cloak was a step in that direction. You saw part of this in the [[Mantle of Protection Vision]]. 
 - As [[Apollyon|Apollyon]] grew in power, he began systematically slaughtering the peronar, the [[Elves]] who had allied with [[Humans]] long ago on [[Hkar]]. He used powerful magic to turn the people of [[Drankorian Empire|Drankor]] into slavishly devoted subjects, hoping to further his dream of an empire of only the "purest" of humanity. 
-- Using the [[Cloak of Rainbows|Cloak of Rainbows]], [[Apollyon|Apollyon]] was able to defeat the [[Elves]] of [[Rostaure|Rostaurë]] ([[Arheste]]'s home), as the cloak prevented the divine power of [[Aldanor]] and[[Elmerca]] from protecting the land. He brought [[Arheste]], captured back to [[Drankor]], where she saw his rise to power firsthand. You saw some of this in the [[Scepter of Command Vision]]. 
+- Using the [[Cloak of Rainbows|Cloak of Rainbows]], [[Apollyon|Apollyon]] was able to defeat the [[Elves]] of [[Rostaure|Rostaurë]] ([[Arheste]]'s home), as the cloak prevented the divine power of [[Aldanor]] and [[Elmerca]] from protecting the land. He brought [[Arheste]], captured back to [[Drankor]], where she saw his rise to power firsthand. You saw some of this in the [[Scepter of Command Vision]].
 - [[Cha'mutte]] fully turned on [[Apollyon|Apollyon]] when [[Apollyon|Apollyon]] attempted to ascend to godhood, in defiance of [[Cha'mutte]]'s plans and hopes for the world. At the moment [[Apollyon|Apollyon]] attempted to claim divine power, he was struck down by the [[First Plague]], a devastating magical force of [[Cha'mutte]]'s creation. 
 - [[Arheste]] survived the plague, but at great cost. It left her sick and weakened, and stripped her of her formidable magic.
-- [[Apollyon|Apollyon]] also survived the plague, by drinking of vial of a pure black substance. [[Arheste]] later learned that this was the key ingredient in a ritual of undeath, and had turned [[Apollyon|Apollyon]] into a lich.
+- [[Apollyon|Apollyon]] also survived the plague, by drinking a vial of a pure black substance. [[Arheste]] later learned that this was the key ingredient in a ritual of undeath, and had turned [[Apollyon|Apollyon]] into a lich.
 - However, [[Apollyon|Apollyon]] was trapped by [[Cha'mutte]], who for unexplained reasons did not seek to destroy [[Apollyon|Apollyon]] utterly. Whether it was because he couldn't, or because he didn't want to, [[Arheste]] never learned. 
 - When [[Cha'mutte]] was killed, [[Apollyon|Apollyon]] began to break free, until [[Rai]] teleported to [[Drankor]], warned by [[Arheste]], and sought to maintain the bonds. [[Arheste]] never learned how [[Rai]] did this, but speculated it was as simple as grasping [[Apollyon|Apollyon]]'s phylactery in his magical [[Jade Piece of Rai's Hand|jade]] hand. 
 - At the beginning of this leya, around 1720 as [[Humans]] reckon time, [[Arheste]] felt something change. A break, a shift, in [[Apollyon|Apollyon]]'s bonds, letting him break free and slowly gain power, recovering from the weakness of his long imprisonment. 
@@ -70,16 +73,32 @@ We begin on [[Vindristjarna]], as the party has returned to the skyship after se
 
 The next day, the ship arrives at the edge of [[Orenlas]]. The forest is shrouded in mists, and the party is forced to land outside, on the shores of the large lake, using the [[Vindristjarna Mechanics#Planar Prism|planar prism]] for the first time to construct a rainbow bridge from the ship to the ground. While Faldrak stays behind, the party ventures into the forest.
 
-The paths open up as they walk, revealing visions and fragments of dreams of possible futures: Kenzo, mediating in an alien place of impossible depth; Delwath, traveling across the planes, protecting those in need across the multiverse; Seeker, writing a book in his home full of the laughter of his children and visions of his friends across the multiverse; Wellby, at sea, leagues and leagues west of any known land, perhaps, just perhaps glimpsing sight of a mountain rising from the horizon in the distance. You feel, as you walk, that this is Aldanor testing your desires, your hopes, and accepting you.
+The paths open up as they walk, revealing visions and fragments of dreams of possible futures: Kenzo, meditating in an alien place of impossible depth; Delwath, traveling across the planes, protecting those in need across the multiverse; Seeker, writing a book in his home full of the laughter of his children and visions of his friends across the multiverse; Wellby, at sea, leagues and leagues west of any known land, perhaps, just perhaps glimpsing sight of a mountain rising from the horizon in the distance. You feel, as you walk, that this is Aldanor testing your desires, your hopes, and accepting you.
 
 The party arrives at the gates of [[Erelion]], where they are greeted by Caretaker [[Erdhin]]. He settles the party in a guest house of a sort; plans are made for a dinner party; and then the group leaves to experience the wonders of the city. 
 
-The party strolls through the fey gardens where silver grows in delicate flowers, where vines are laden with fruit at all seasons, where oysters grown from the roots of lily pads. They find their way to the massive elder tree, the tree of dreaming, the sacred space where the echoes of the footsteps of [[Aldanor]] on the land, that created the first forests, can still be heard. Kenzo communes with the forest, and is gently guided to safer paths, told he is not ready for this, the original forest, the place that still retains some of the magic of the days of myth when the world was young. 
+The party strolls through the fey gardens where silver grows in delicate flowers, where vines are laden with fruit at all seasons, where oysters grow from the roots of lily pads. They find their way to the massive elder tree, the tree of dreaming, the sacred space where the echoes of the footsteps of [[Aldanor]] on the land, that created the first forests, can still be heard. Kenzo communes with the forest, and is gently guided to safer paths, told he is not ready for this, the original forest, the place that still retains some of the magic of the days of myth when the world was young.
 
-After an afternoon exploring, the party returns and hosts guests for dinner, cooked by [[Delwath]]. In addition to Caretaker [[Erdhin]], the guests are a young gardener named [[Ealwen]], a retired solider named[[Vahaiya]], and a poet named [[Cirdore]]. As conversation flows, the party learns there is an elder here who could speak of Apollyon and Drankor; her name is [[Arheste]], and unlike nearly any other elf her age, she is very sick. [[Ealwen]], her caretaker, is reluctant to disturb her, but relents after speaking at length about herbs and ki and healing powers with [[Kenzo]]. While [[Ealwen]] does not feel she can leave [[Erelion]], she does say she has a few people in mind who might want to join the ship as a gardener. 
+After an afternoon exploring, the party returns and hosts guests for dinner, cooked by [[Delwath]]. In addition to Caretaker [[Erdhin]], the guests are a young gardener named [[Ealwen]], a retired soldier named [[Vahaiya]], and a poet named [[Cirdore]]. As conversation flows, the party learns there is an elder here who could speak of Apollyon and Drankor; her name is [[Arheste]], and unlike nearly any other elf her age, she is very sick. [[Ealwen]], her caretaker, is reluctant to disturb her, but relents after speaking at length about herbs and ki and healing powers with [[Kenzo]]. While [[Ealwen]] does not feel she can leave [[Erelion]], she does say she has a few people in mind who might want to join the ship as a gardener.
 
 The next morning, the party travels with [[Ealwen]] to visit [[Arheste]], outside the city. [[Arheste]] is clearly ill, unable to sit without wheezing, and struggles to tell her story until [[Kenzo]] uses some of his precious ki from the jungles of [[Orekatu]] to ease her damaged soul. While not strong enough to completely undo the evils done to her, it helps, tremendously. 
 
 For the rest of the day, Arheste tells her story, about Drankor and Apollyon and Cha'mutte, which is recorded [[Arheste#Arheste's Story|here]].
 
 As evening comes, the party receives a desperate plea for help from Riswynn: [[Grash]] is nearly done constructing a massive trebuchet, and if they do not arrive to help soon, the city will be destroyed. 
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Recorded the dated session viewpoint as `POV: 1749`. Normalized frontmatter order.
+- Corrected “The[[ Dunmar Fellowship]]” to “The [[Dunmar Fellowship]]”, “and[[Elmerca]]” to “and [[Elmerca]]”, “drinking of vial of” to “drinking a vial of”, “where oysters grown” to “where oysters grow”, “retired solider named[[Vahaiya]]” to “retired soldier named [[Vahaiya]]”, “Kenzo, mediating” to “Kenzo, meditating”.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Suggestion — campaign.noncanonical_name:** The registry recognizes the existing alias `Dunmari Frontier`. Use the canonical long name in frontmatter: `campaign: Dunmar Frontier`.
+- [ ] **Warning — correctness.internal_ambiguity:** Summary reads as though the planar prism carries the party to Orenlas. Narrative says they fly there, land on the lakeshore, then use the bridge to disembark. Candidate: “At the edge of Orenlas, they use the planar prism to construct a rainbow bridge from the ship to the lakeshore. In the forest they experience dreamlike visions.”
+%%^End%%

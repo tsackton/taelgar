@@ -1,14 +1,17 @@
 ---
-tags: [session-note]
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [session-note, status/check/lint]
 campaign: Dunmari Frontier
 sessionNumber: 98
 realWorldDate: 2024-05-02
 DR: 1749-05-05
 DR_end: 1749-05-07
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
-name: Dunmari Frontier - Session 98
 tagline: in which alliances are formed and clues found
 descTitle: Voyage to Castrella
+name: Dunmari Frontier - Session 98
+POV: 1749
 ---
 # Dunmari Frontier - Session 98
 
@@ -41,8 +44,8 @@ The party heard three songs about merfolk:
 [[Merfolk Fortunes]]
 ### Key Rumors
 - From [[Juliana Maris]], the party learned that no one has returned from the [[Merfolk]] territory in the west in 20 years, except for the halfling captain [[Milo Thistlefoot]] and his crew, and genuine merfolk artifacts are becoming difficult to find. 
-- From rumors among sailors and people drinking in the taverns in [[Castrella]], the party learned that if you want to breath water, there are two people you might seek. One, the [[Stoneborn]] alchemist [[Kazuro]], lives in an isolated cave up the coast, and can brew potions. The other, a man obsessed with merfolk named [[Dorian Almare]], touched by magic, left [[Castrella]] to find the merfolk 15 years ago and has not been seen since, but rumors persist of the "Mystic of Tamaro Bay" that might be Dorian. 
-- From [[Isabetta]], a young singer drawing a crowd at the [[The Drunken Dolphin]], a rowdy sailor's tavern in [[Castrella]], the party heard the [[Ballad of the Jade Garden]], which seemed to spell out the location of the jade garden mentioned by [[Thomas Hawke]] and likely where the [[Jade Piece of Rai's Hand]] is located. 
+- From rumors among sailors and people drinking in the taverns in [[Castrella]], the party learned that if you want to breathe water, there are two people you might seek. One, the [[Stoneborn]] alchemist [[Kazuro]], lives in an isolated cave up the coast, and can brew potions. The other, a man obsessed with merfolk named [[Dorian Almare]], touched by magic, left [[Castrella]] to find the merfolk 15 years ago and has not been seen since, but rumors persist of the "Mystic of Tamaro Bay" that might be Dorian.
+- From [[Isabetta]], a young singer drawing a crowd at [[The Drunken Dolphin]], a rowdy sailor's tavern in [[Castrella]], the party heard the [[Ballad of the Jade Garden]], which seemed to spell out the location of the jade garden mentioned by [[Thomas Hawke]] and likely where the [[Jade Piece of Rai's Hand]] is located.
 
 
 ## Narrative
@@ -50,11 +53,11 @@ We begin on the morning of May 5th, 1749, in the vibrant city of [[Nevium]], sit
 
 ![[dufr-098-nevium.jpg]]
 
-Aiming for a discrete and quick escape from the city of [[Nevium]], the party unfolds their folding boat, and, [[Wellby]] skillfully maneuvered the vessel out of [[Nevium]], evading detection by naval patrols, setting a course northwest across the vast [[Gulf of Chardon]]. The journey by sea was marked by strategic conversations, as the he party sailed throughout the day, navigating the challenges of open water travel, until they sighted the remote shores of the [[Apporia|Apporian Peninsula]] by evening. Opting for caution, they anchored in a secluded cove to rest and plan their approach to the local settlements.
+Aiming for a discreet and quick escape from the city of [[Nevium]], the party unfolded their folding boat, and [[Wellby]] skillfully maneuvered the vessel out of [[Nevium]], evading detection by naval patrols, setting a course northwest across the vast [[Gulf of Chardon]]. The journey by sea was marked by strategic conversations, as the party sailed throughout the day, navigating the challenges of open water travel, until they sighted the remote shores of the [[Apporia|Apporian Peninsula]] by evening. Opting for caution, they anchored in a secluded cove to rest and plan their approach to the local settlements.
 
 ![[dufr-098-apporia-coast.jpg]]
 
-The following day, May 6th, [[Delwath]] ventured into [[Artevus]], a quiet and somewhat tired and run down  fishing village on the coast, in the province of [[Portalia]], under the effects of an Alter Self spell to disguise his appearance. Posing a treasure hunter, he quickly learned that many local sailors had been pressed into naval service recently, but a local tavernkeeper pointed him to [[Martino]], a retired fisherman and skilled navigator. Meanwhile, the rest of the party approached cautiously by boat, encountering [[Pippa Goodbarrow]], captain of the [[Summer's Breeze]]. 
+The following day, May 6th, [[Delwath]] ventured into [[Artevus]], a quiet and somewhat tired and run-down fishing village on the coast, in the province of [[Portalia]], under the effects of an Alter Self spell to disguise his appearance. Posing as a treasure hunter, he quickly learned that many local sailors had been pressed into naval service recently, but a local tavernkeeper pointed him to [[Martino]], a retired fisherman and skilled navigator. Meanwhile, the rest of the party approached cautiously by boat, encountering [[Pippa Goodbarrow]], captain of the [[Summer's Breeze]].
 
 After a few brief moments of confusion as [[Delwath]] returned to his usual appearance, negotiations with Captain Goodbarrow proved fruitful, as the party convinced her and her crew to embark on an extended voyage northward, joined by [[Martino]] as a navigator and guide. Their newly formed alliance set sail that afternoon, enjoying favorable winds and the camaraderie of the sea. Their journey continued into the night, arriving at the bustling port of [[Castrella]], in the hilly coastal province of [[Cedrano]], after sunset.
 
@@ -62,9 +65,9 @@ In [[Castrella]], the party split their efforts to gather information. [[Delwath
 
 ![[dufr-098-castrella-overview.jpg]]
 
-As the day drew to a close, the party gathered at the docks, immersing themselves in the local culture. The local tavern, [[The Drunken Dolphin]], was alive with music and tales. [[Isabetta]], a young singer, captured the crowd—and the party’s attention—with the [[Ballad of the Jade Garden]]. Her song not only entertained but also hinted at the location of the jade garden mentioned by the mysterious [[Thomas Hawke]], aligning serendipitously with their quest. Asking about sources of magic to allow them to breath water, they learned of two possible people who could help: the stoneborn hermit and alchemist [[Kazuro]], and the Mystic of Tamaro Bay, possibly the human known as [[Dorian Almare]], who left [[Castrella]] years ago. 
+As the day drew to a close, the party gathered at the docks, immersing themselves in the local culture. The local tavern, [[The Drunken Dolphin]], was alive with music and tales. [[Isabetta]], a young singer, captured the crowd—and the party’s attention—with the [[Ballad of the Jade Garden]]. Her song not only entertained but also hinted at the location of the jade garden mentioned by the mysterious [[Thomas Hawke]], aligning serendipitously with their quest. Asking about sources of magic to allow them to breathe water, they learned of two possible people who could help: the stoneborn hermit and alchemist [[Kazuro]], and the Mystic of Tamaro Bay, possibly the human known as [[Dorian Almare]], who left [[Castrella]] years ago.
 
-The session ended in evening, as the party convinced the crew of [[Summer's Breeze]] to rise in the predawn light and set sail north, moving fast and sailing around the clock, to hopefully find Milo, who the party suspected may be in danger. 
+The session ended in the evening, as the party convinced the crew of [[Summer's Breeze]] to rise in the predawn light and set sail north, moving fast and sailing around the clock, to hopefully find Milo, who the party suspected may be in danger.
 
 ## Transcript
 
@@ -116,7 +119,7 @@ The session ended in evening, as the party convinced the crew of [[Summer's Bree
 - **Delwath** inquires about Juliana Maris, a collector known for her interest in merfolk artifacts, leading to plans to visit her.
 - **Kenzo** chooses to relax at a cafe, attempting to gather information through casual observation, but becomes distracted.
 - **Wellby** seeks maps of the peninsula at a local shop, paying in coin for a collection of maps and charts. 
-- Delwath and Seeker meet Juliana Maris, attempting to negotiate information or guidance on merfolk artifacts by offering potential future treasures for her right of first refusal.**
+- Delwath and Seeker meet Juliana Maris, attempting to negotiate information or guidance on merfolk artifacts by offering potential future treasures for her right of first refusal.
 - **Delwath** and **Seeker** fail to make a significant impression on Juliana Morris but do learn that no one except Milo Thistlefoot, a daring halfling captain, has sailed to the west in 20 years, and genuine merfolk artifacts are becoming very rare.
 - **Riswynn**, without finding dwarven kinship, resorts to sightseeing and contemplation of the party's next moves.
 - The party reconvenes, discussing their findings and planning their next steps, including underwater exploration and finding Milo Thistlefoot.
@@ -132,7 +135,7 @@ The session ended in evening, as the party convinced the crew of [[Summer's Bree
 ### Short Summary
 
 #### Escaping Nevium
-The party arrives in Nevium via teleportation, aiming to find a piece of jade guided by legends. After evading Chardonnian guards, they discuss transportation and navigation plans, deciding to sail northwest in a small boat, with Wellby navigating.
+The party arrives in Nevium via teleportation, aiming to find a piece of jade guided by legends. After evading Chardonian guards, they discuss transportation and navigation plans, deciding to sail northwest in a small boat, with Wellby navigating.
 #### Exploring the Cedrano Coast
 The party successfully navigates towards a rocky coast, plans to recruit a crew from a nearby fishing town under the guise of treasure hunters, and debates the best approach to entering the town without drawing attention from the Chardonian Legion.
 #### Finding Transport in Artevus
@@ -141,3 +144,21 @@ The party navigates the challenges of recruiting a crew in Artevus, eventually e
 The party arrives in Castrella, exploring the town and gathering information about the Merfolk and local collector Juliana Morris. They consider their next steps for underwater exploration, and learn about Milo Thistlefoot, a halfling captain who has not been heard from for a year or more. 
 #### Rumors and Songs on the Docks
 In Castrella, the party hears rumors and songs of the merfolk, discovering leads on breathing underwater and the significance of jade. They convince a halfling crew to join their quest by promising a grand celebration and expressing concern for the missing Milo Thistlefoot.
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Recorded the session viewpoint as DR 1749.
+- Reordered the frontmatter fields.
+- Corrected “breathe,” “discreet,” and “Chardonian,” removed duplicated words and stray emphasis marks, and repaired grammar and punctuation in the voyage narrative.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Suggestion — campaign.noncanonical_name:** The current campaign value is the recognized alias “Dunmari Frontier.” The canonical field in [[Campaign Registry]] is `campaign: Dunmar Frontier`.
+- [ ] **Warning — correctness.internal_conflict:** Both transcript summaries use “Juliana Morris,” while the key rumors, narrative and [[Juliana Maris]] identify the Castrella collector as Juliana Maris. If this is a transcription variant, use “Juliana Maris” in both summaries.
+- [ ] **Warning — correctness.internal_conflict:** The timeline and two “Exploring the Cedrano Coast” headings place the first landing in Cedrano. The narrative places nearby [[Artevus]] in Portalia, consistent with the town note. Confirm the cove’s province before assigning it; “Exploring the Apporian Coast” and “Sight land along the Apporian coast” preserve the geographic uncertainty.
+%%^End%%

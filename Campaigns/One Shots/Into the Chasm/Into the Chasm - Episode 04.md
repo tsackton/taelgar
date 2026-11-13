@@ -1,6 +1,8 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [session-note, status/check/lint]
 campaign: Into the Chasm
 sessionNumber: 4
 realWorldDate: 2026-01-08
@@ -8,11 +10,12 @@ DR: 1730-01-26
 DR_end: 1730-01-29
 players: [Finnan, Jrain, Eolo, Ekko, Justas]
 companions: []
-name: Into the Chasm - Episode 4
 descTitle: Escape from Melusa
 tagline: in which the party bargains with Malquin for a way home
 sessionKey: into-the-chasm-session-4
 session-template: into-the-chasm-template.md
+name: Into the Chasm - Episode 4
+POV: 1730
 ---
 # Into the Chasm - Episode 4
 
@@ -63,3 +66,17 @@ Inside the Ice Palace, the party comes face to face with Malquin. The audience i
 Malquin's permission proves real enough for the ice wolf to let them approach, and the party steps through the mirror-world gash. The portal opens onto a sheer cliff in the true [[Great Chasm]]. Below them, the party sees strange carved floating platforms in the Chasm, flickering with unstable light. [[Eolo]] and [[Ekko]] help the others reach the stones, where they see a person below. Clairvoyance reveals this is [[Eidrikas]], alive but in agony as he uses his body to complete a damaged runic circuit in the stone platform. He tells [[Ekko]] that [[Orcs|orcs]] overran the site, killed [[Pakrinek]], and carried a vital stone key down through the platform network, presumably trying to escape. His count of days also reveals that several extra days passed outside while the party was trapped in [[Melusa]], leaving only a narrow window to recover the stolen piece before the mechanism cracks entirely with unknown consequences.
 
 ## Combat
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Recorded `POV: 1730` for the session account. Normalized frontmatter formatting.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Suggestion — editorial.prose_clarity:** The cast pairs “Malquin the Vaqar” with the pronunciation of Forquarion, making it read as the pronunciation of the Melusan name. In the cast entry, use “[[Forquarion|Forquarion the Frostbinder]] (*for-KWAH-ree-on*; he/him, fey lord): ruler of the demiplane, known in Melusa as Malquin the Vaqar.”
+%%^End%%

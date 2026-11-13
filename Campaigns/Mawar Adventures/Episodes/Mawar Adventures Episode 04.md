@@ -1,22 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - session-note
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [session-note, status/check/lint]
 campaign: Mawar Adventures
 sessionNumber: 4
 realWorldDate: 2021-12-27
 DR: 1747-11-08
 DR_end: 1747-11-09
-players:
-  - Ryu
-  - Nerissa
-  - Ander
-name: Mawar Adventures Episode 04
+players: [Ryu, Nerissa, Ander]
 descTitle: The Chained Beast
-tagline: In which Ander, Nerissa, and Ryu battle to save a captive dragon turtle.
+tagline: "In which Ander, Nerissa, and Ryu battle to save a captive dragon turtle."
 sessionKey: mawar-adventures-session-4
 session-template: mawar-template.md
 websiteSessionView: zoomable
+name: Mawar Adventures Episode 04
+POV: 1747
 ---
 # Mawar Adventures Episode 04
 
@@ -72,3 +71,18 @@ With the fire mage dead, [[Nerissa]] heals [[Chaessenth]] and translates a calme
 
 - Marsh Tunnel Ambush: steam imps, fire cult guardian. The party defeats the steam imps and fire cult guardian at the tunnel mouth, but the guardian's death blast leaves them wounded.
 - Freeing [[Chaessenth]]: fire mage. The party removes the black spear, breaks the fire mage's control, and [[Chaessenth]] kills the mage.
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Recorded the session viewpoint as DR 1747.
+- Normalized frontmatter ordering and collection formatting.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Warning — correctness.internal_conflict:** The November 9 morning timeline says the party kills the fire mage. The narrative and Combat section give the final blow to [[Chaessenth]] after the party breaks the spell. Align the timeline with that attribution: “The party frees [[Chaessenth]], who kills the fire mage.”
+%%^End%%

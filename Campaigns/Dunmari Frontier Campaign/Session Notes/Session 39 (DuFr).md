@@ -1,4 +1,6 @@
 ---
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
 campaign: Dunmari Frontier
 sessionNumber: 39
@@ -9,6 +11,7 @@ players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
 tagline: in which the party ends the werewolf threat in Tokra
 descTitle: Pandemonium Confrontation
 name: Dunmari Frontier - Session 39
+POV: 1748
 ---
 # Dunmari Frontier - Session 39
 
@@ -48,10 +51,10 @@ The party quickly engages these new threats, which seem to fight in large part b
 
 As the fog of combat clears, the party searches the camp, finding another seven ritual spears, and retreats a bit, out of sight of the fogs of the [[Pandemonium]] rift, to interrogate the prisoners. 
 
-The [[Avani|woman]] was apparently a Dunmari, a refugee living in the camps outside [[Tokra]], an unwilling convert cursed with lycanthropy a few months ago, and brought into the cult by convincing her their was no cure, she had no choice. Promised a cure, she is willing to speak with the party. She says there was one other recent convert, a man named [[Umber of Dunmar]], also a Dunmari, but the rest were from the east. She also seems to feel like when the one who cursed her is near, she cannot think as clearly and the curse is stronger in her mind. She tells them a bit of the plan, that the mad one who killed himself was meant to be the sacrifice that would summon [[Jinnik]]’s avatar, give the curse of lycanthropy new strength and power. 
+The [[Avani|woman]] was apparently a Dunmari, a refugee living in the camps outside [[Tokra]], an unwilling convert cursed with lycanthropy a few months ago, and brought into the cult by convincing her there was no cure, she had no choice. Promised a cure, she is willing to speak with the party. She says there was one other recent convert, a man named [[Umber of Dunmar]], also a Dunmari, but the rest were from the east. She also seems to feel like when the one who cursed her is near, she cannot think as clearly and the curse is stronger in her mind. She tells them a bit of the plan, that the mad one who killed himself was meant to be the sacrifice that would summon [[Jinnik]]’s avatar, give the curse of lycanthropy new strength and power. 
 
 The man is less cooperative. He was one of the members of the cult that traveled from the east, and is not willing to speak, until [[Seeker]]’s magic turns his mind and he opens up, [[The Werewolf Prisoner's Tale|speaking of his history]].
 
-As the party finishes interrogating the captives, the story of the past few months becomes clear. The leader of the [[Fraternity of the Empty Moon]] found the [[Scepter of Command|scepter]], somewhere near or in [[Kharsan]], and traded it to [[Agata]] in exchange for her help getting them unnoticed into [[Tokra]]. This required two things: a way to create a refugee crises, and a way past [[Shakun]]’s maze. [[Agata]] gave the werewolf cult leader a scroll to summon a demon in order to provoke a border crises, and implemented her plan to lure [[Cintra]] out of [[Karawa]] with [[Heart of Shakun]] in order to lower [[Shakun]]’s defenses and allow the werewolves, and the gnolls created by the demon, into [[Dunmar]]. While the prisoner did not know all the details, you recall that [[Agata]] had a deal with the [[Centaurs]] to not travel or interfere in the north, and probably wanted to meet the letter, if not the spirit, of that agreement by putting as much distance between her and the gnolls as possible (although she also obviously twisted some for her own purposes, such as guarding the entrance to [[Shakun’s Wellspring]]).
+As the party finishes interrogating the captives, the story of the past few months becomes clear. The leader of the [[Fraternity of the Empty Moon]] found the [[Scepter of Command|scepter]], somewhere near or in [[Kharsan]], and traded it to [[Agata]] in exchange for her help getting them unnoticed into [[Tokra]]. This required two things: a way to create a refugee crisis, and a way past [[Shakun]]’s maze. [[Agata]] gave the werewolf cult leader a scroll to summon a demon in order to provoke a border crisis, and implemented her plan to lure [[Cintra]] out of [[Karawa]] with [[Heart of Shakun]] in order to lower [[Shakun]]’s defenses and allow the werewolves, and the gnolls created by the demon, into [[Dunmar]]. While the prisoner did not know all the details, you recall that [[Agata]] had a deal with the [[Centaurs]] to not travel or interfere in the north, and probably wanted to meet the letter, if not the spirit, of that agreement by putting as much distance between her and the gnolls as possible (although she also obviously twisted some for her own purposes, such as guarding the entrance to [[Shakun’s Wellspring]]).
 
 With the sun climbing towards noon, the party escorted the prisoners back to [[Tokra]]. We end as the party splits up, [[Riswynn]] staying in [[Tokra]] in charge of the prisoners, while [[Delwath]], [[Kenzo]], [[Wellby]], and [[Seeker]] get their gear and mounts and head north in search of [[Saka]]. 

@@ -1,4 +1,6 @@
 ---
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
 campaign: Dunmari Frontier
 sessionNumber: 115
@@ -6,9 +8,10 @@ realWorldDate: 2024-12-22
 DR: 1749-05-23
 DR_end: 1749-05-24
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
-name: Dunmari Frontier - Session 115
-tagline: in which Apollyon's phylactery is destroyed in the Land of the Dead
+tagline: "in which Apollyon's phylactery is destroyed in the Land of the Dead"
 descTitle: Freeing the Seven Souls
+name: Dunmari Frontier - Session 115
+POV: 1749
 ---
 # Dunmari Frontier - Session 115
 
@@ -52,7 +55,7 @@ Inside the Faculty of Natural History, the ruins of the building tell a story of
 
 Inside, they discover a palm-sized wooden and metal bird, intricately carved with silver eyes and a marble body. The bird radiates faint transmutation magic and contains a hidden compartment. Inside the compartment, they find a tightly rolled piece of paper, a note written in Elvish and addressed to [[Maglar]], reading: 
 
-*"I hope this message finds you. I am trusting to luck and this magic trinket to bring this note to you. I finally... They're coming. I can hide no longer. I know not what will happen to me, but few, if any, of our people have survived the [[Ashen Cloaks]]. I thought maybe my unimportance might protect me, for who really cares about the study of plants when down the hall there is the study of great magics and fire, and the planes and the gods that can reshape reality themselves. But it was always the case, I guess, that he would never let any of our people survive, and I have nowhere left to flee. Run if you can."
+*"I hope this message finds you. I am trusting to luck and this magic trinket to bring this note to you. I finally... They're coming. I can hide no longer. I know not what will happen to me, but few, if any, of our people have survived the [[Ashen Cloaks]]. I thought maybe my unimportance might protect me, for who really cares about the study of plants when down the hall there is the study of great magics and fire, and the planes and the gods that can reshape reality themselves. But it was always the case, I guess, that he would never let any of our people survive, and I have nowhere left to flee. Run if you can."*
 
 Both the bird and the note resonate strongly with [[Minarith]]’s soul, marking them as vital mementos for the ritual to destroy the phylactery.
 
@@ -67,7 +70,7 @@ Summoned to the [[Ancient and Honorable Guild of Philosophers|Philosopher's Guil
 - The realm saps the vitality of the living; food and water disintegrate, and wounds cannot heal.
 - Time in the [[Land of the Dead]] erodes the connection between soul and body, making prolonged stays perilous.
 - The plane moves travelers like a river, guiding souls to their destination. Interfering with this flow risks curses.
-- The Giardi, guardians of the [[Land of the Dead]], protect those with pure intentions and discern truth from deception.
+- The Gidari, guardians of the [[Land of the Dead]], protect those with pure intentions and discern truth from deception.
 - To free the seven bound souls, the party must provide them with context and clues to help them remember their identities and fates.
 
 The voice gives parting advice to act swiftly and ensure they have the means to leave the [[Land of the Dead]] before its effects take hold. After speaking with the guild, the party rests for the night, preparing for the final leg of their journey: confronting Apollyon’s phylactery in the [[Land of the Dead]].
@@ -107,7 +110,7 @@ Uncertain as to why the ship has turned and traveled so far from [[Drankor]], bu
 - The party returns to the Temple of the Eight Divines after traversing parts of Drankor, collecting mementos for two of the seven souls bound to Apollyon’s phylactery.
 - Wellby remained at the temple, guarding the dagger containing Apollyon’s soul.
 - The group recounts their journey, including:
-	- Visiting the Laughing Wave, a halfling tavern once owned by Serafina Apple Blossom.
+	- Visiting the Laughing Wave, a halfling tavern once owned by Seraphina Appleblossom.
 	- Fighting undead that cursed them with sorrowful visions of the tavern being raided by gray-cloaked mages.
 	- Discovering a punch bowl and fireworks casings connected to Seraphina’s joyful memories of halflings celebrating on the tavern’s roof.
 	- Finding a foreign coin tied to [[Khemut of Targu]] in the tavern’s cellar.
@@ -116,7 +119,7 @@ Uncertain as to why the ship has turned and traveled so far from [[Drankor]], bu
 - Wellby shares news from Sura, indicating that Chardonian forces have begun attacking Dunmar. Sura’s army faces shadowy assassins and advancing legions, creating a dire situation.
 - While concerned about Fausto, a recurring adversary, potentially targeting [[Vindristjarna]], and the situation in Dunmar, the group decides to focus on finding the last memento and accessing the [[Land of the Dead]], reasoning that destroying Apollyon is the most effective way to help Dunmar.
 - [[Wellby]] uses his magical bow to locate the [[University of the Blessed Waters]], firing an arrow that vanishes and reveals a path visible only to him.
-- The university is approximately a mile away to the southeast. The party prepares to follow Welby’s lead, moving swiftly through the ruins of Drankor.
+- The university is approximately a mile away to the southeast. The party prepares to follow Wellby’s lead, moving swiftly through the ruins of Drankor.
 
 
 ### Entering the Garden of Statues
@@ -144,7 +147,7 @@ Uncertain as to why the ship has turned and traveled so far from [[Drankor]], bu
 - The party carefully climbs over the rubble, reaching what appears to have been a row of offices. Kenzo identifies one as [[Minarith]]’s, overgrown with vines and debris.
 - Inside the office, they discover a palm-sized wooden and metal bird, partially buried in dirt. The bird is intricately carved, with inlaid silver eyes and a marble body. It exudes faint transmutation magic.
 - The bird contains a hidden compartment, which the party opens to find a tightly rolled piece of paper.
-- The note, written in Elvish and addressed to Maglar, reads: *"I hope this message finds you. I am trusting to luck and this magic trinket to bring this note to you. I finally... They're coming. I can hide no longer. I know not what will happen to me, but few, if any, of our people have survived the [[Ashen Cloaks]]. I thought maybe my unimportance might protect me, for who really cares about the study of plants when down the hall there is the study of great magics and fire, and the planes and the gods that can reshape reality themselves. But it was always the case, I guess, that he would never let any of our people survive, and I have nowhere left to flee. Run if you can."
+- The note, written in Elvish and addressed to Maglar, reads: *"I hope this message finds you. I am trusting to luck and this magic trinket to bring this note to you. I finally... They're coming. I can hide no longer. I know not what will happen to me, but few, if any, of our people have survived the [[Ashen Cloaks]]. I thought maybe my unimportance might protect me, for who really cares about the study of plants when down the hall there is the study of great magics and fire, and the planes and the gods that can reshape reality themselves. But it was always the case, I guess, that he would never let any of our people survive, and I have nowhere left to flee. Run if you can."*
 - Both the bird and the note are suffused with [[Minarith]]’s soul energy, marking them as significant mementos for the ritual to free Apollyon’s bound souls.
 - With all seven mementos secured, the group teleports to [[Tollen]] to locate a recently deceased soul for the Plane Shift spell required to reach the [[Land of the Dead]].  
 
@@ -182,7 +185,7 @@ Uncertain as to why the ship has turned and traveled so far from [[Drankor]], bu
 	- **Mortality:** Time spent in the [[Land of the Dead]] gradually erodes the connection between soul and body. Prolonged stays are perilous, even for the strong.
 	- **Souls’ Journey:** The plane moves travelers towards their destination, like a river. Souls should not be interfered with, or curses may follow.
 	- **Magic and Binding:** Powerful magic can confuse souls, causing them to become lost, but no magic can truly trap a soul permanently.
-	- **Interaction with the Giardi:** The Giardi, guardians of the [[Land of the Dead]], will protect those with pure intentions. They can see into the soul and discern truth, so deception is impossible.The party is warned to avoid interference with souls unless restoring them to their rightful fate.
+	- **Interaction with the Gidari:** The Gidari, guardians of the [[Land of the Dead]], will protect those with pure intentions. They can see into the soul and discern truth, so deception is impossible. The party is warned to avoid interference with souls unless restoring them to their rightful fate.
 	- The voice explains that the phylactery may confuse the seven bound souls, making it difficult for them to remember their past lives.
 	- To free the souls, the party must provide clues and context, helping them recall their identities and original fates.
 - The voice offers parting advice:
@@ -201,31 +204,31 @@ Uncertain as to why the ship has turned and traveled so far from [[Drankor]], bu
 - [[Seraphina Appleblossom]]
 	- Wellby recounts vivid tales of the Laughing Wave tavern and the joy of fireworks on its roof.
 	- Using Insight (natural 20), Wellby bridges her connection to her past, helping her recall her name.
-	- Serafina steps forward, recognizing her identity, and departs with the phrase, "There’s always another party to go to."
+	- Seraphina steps forward, recognizing her identity, and departs with the phrase, "There’s always another party to go to."
 - [[Minarith]]
-	- Delwath engages Minareth with botanical questions, mimicking a curious student to invoke a teaching response.
-	- Using Persuasion (19), Delwath helps Minareth remember their scholarly identity.
-	- Minareth recalls their name and remarks, "I see the stars," before departing with a dignified bow.
+	- Delwath engages Minarith with botanical questions, mimicking a curious student to invoke a teaching response.
+	- Using Persuasion (19), Delwath helps Minarith remember their scholarly identity.
+	- Minarith recalls their name and remarks, "I see the stars," before departing with a dignified bow.
 - [[Floria of Aphasium]]
 	- Riswynn connects with Floria through her devotion to family and aiding others.
-	- Using Insight, Riswynn’s heartfelt words evoke memories of Gloria’s mission to care for those in need.
-	- Gloria hears the call of [[The Father]] and departs, her surroundings subtly shifting as she vanishes.
+	- Using Insight, Riswynn’s heartfelt words evoke memories of Floria’s mission to care for those in need.
+	- Floria hears the call of [[The Father]] and departs, her surroundings subtly shifting as she vanishes.
 - [[Marius of Drankor]]
 	- Kenzo speaks of shared struggles against oppression, aligning Marius’s rebellion with his own fight for justice.
 	- Using Insight (18 after reroll), Kenzo helps Marius regain his sense of purpose.
 	- Marius acknowledges his past with a nod and departs, encouraging Kenzo to "keep fighting."
 - [[Valanthe]]
 	- Seeker recalls Valanthe’s satirical plays that mocked Apollyon, using humor to restore her sense of identity.
-	- Employing *Vicious Mockery* (19), Seeker’s clever taunts bring laughter to Valente, rekindling her spirit.
-	- Valente departs, thanking Seeker and urging the party to "remember my works."
+	- Employing *Vicious Mockery* (19), Seeker’s clever taunts bring laughter to Valanthe, rekindling her spirit.
+	- Valanthe departs, thanking Seeker and urging the party to "remember my works."
 - [[Khemut of Targu]]
-	- Wellby invokes the sights, sounds, and freedom of maritime trade to reconnect Kemet to her life as a sailor and merchant.
-	- Using Nature, Wellby’s evocative descriptions prompt Kemet to recall her ship, the Sword of the Wind.
+	- Wellby invokes the sights, sounds, and freedom of maritime trade to reconnect Khemut to her life as a sailor and merchant.
+	- Using Nature, Wellby’s evocative descriptions prompt Khemut to recall her ship, the Sword of the Wind.
 	- She departs with the whisper, "The wind, the best part of the ocean," as a phantom breeze stirs.
 - [[Antonius Patrius]]
 	- Delwath describes the rituals and responsibilities of pilgrimage paths, aligning Antonius’s organizational skills with sacred stewardship.
 	- Using Perception (successfully inspired to meet DC 15), Delwath's vivid imagery helps Antonius find his direction, albeit haltingly and somewhat confused.
-	- Antonius departs hesitantly, guided by one of the Giardi, as a final snap echoes through the expanse.
+	- Antonius departs hesitantly, guided by one of the Gidari, as a final snap echoes through the expanse.
 - With the liberation of all seven souls, the dagger disintegrates into threads of metal, which unravel and vanish.
 - A wailing, screeching sound erupts from the phylactery, symbolizing the breaking of its hold, before it fades into silence.
 
@@ -239,7 +242,6 @@ Uncertain as to why the ship has turned and traveled so far from [[Drankor]], bu
 - Kenzo breaks the enchantment with his cleanse soul ability. 
 - Faldrak regains clarity, questioning why he believed in the city’s existence and admitting that Fausto manipulated them into leaving Drankor.
 - The crew reports that Fausto stayed aboard for a day with seven companions, including a heavily armored figure and several mages.
-- A thorough search reveals no major thefts, though minor items might be missing. Crucially, the entombed Cloud Spinner, remains untouched.
+- A thorough search reveals no major thefts, though minor items might be missing. Crucially, the entombed Cloud Spinner remains untouched.
 - The party decides to teleport back to the Temple of the Eight Divines, reasoning that their quest to defeat Apollyon must take precedence.
 - Upon arriving at the temple, the party is confronted by Fausto himself, who exclaims, "You fools! What have you done?"
-

@@ -1,10 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [session-note, status/check/lint]
 campaign: Great Library
 DR: 1747-02-16
 DR_end: 1747-07-28
 name: Chronicles of the Quest for the Elemental Scrolls
+POV: 1747
 ---
 # Chronicles of the Quest for the Elemental Scrolls
 
@@ -22,11 +25,11 @@ We begin on the road to [[Chardon]], as two aspiring adventurers meet...
 ## Adventure 1: The Flamekeeper Scroll
 ### Session 1
 
-Our adventure starts on the road: [[Brelith]], [[Adrik]] , [[Samso]], and [[Alton]] have traveled north towards [[Voltara]] to meet Archivist [[Lyra]], in the service of the [[Great Library]]. On the road [[Goblins]] of the [[Red Knife Tribe]] attack; they slay two and let the other two live, after learning that [[Hobgoblins]] and [[Goblins]] live in this area. The goblins are told to flee and not attack them again.
+Our adventure starts on the road: [[Brelith]], [[Adrik]], [[Samso]], and [[Alton]] have traveled north towards [[Voltara]] to meet Archivist [[Lyra]], in the service of the [[Great Library]]. On the road [[Goblins]] of the [[Red Knife Tribe]] attack; they slay two and let the other two live, after learning that [[Hobgoblins]] and [[Goblins]] live in this area. The goblins are told to flee and not attack them again.
 
-In [[Lyra]]’s camp, the party learns their mission: search for the [[Elemental Scrolls of Airion|scrolls of elemental power]]. The location of the [[Flamekeeper Scroll]] and the [[Stonemaster Scroll]] are known, while the location of the [[Skyborn Scroll]] and the [[Deepwater Scroll]] are not. 
+In [[Lyra]]’s camp, the party learns their mission: search for the [[Elemental Scrolls of Airion|scrolls of elemental power]]. The locations of the [[Flamekeeper Scroll]] and the [[Stonemaster Scroll]] are known, while the locations of the [[Skyborn Scroll]] and the [[Deepwater Scroll]] are not.
 
-Our heroes decide to head to the [[Goldpeak Mines|Forge of Fire]], a part of an [[Goldpeak Mines|ancient Dwarven mine complex]] that once extended through much of the [[Fiatara Mountains]], where the [[Flamekeeper Scroll]] is thought to be. They find it is now a kobold shrine to the “fire god”, which is a rune protecting the [[Flamekeeper Scroll]]. After killing some [[Kobolds]] and convincing others they are the fire god made flesh, they get the scroll, and leave, but not before triggering a magma eruption which destroys forge and probably all the [[Kobolds]]. 
+Our heroes decide to head to the [[Goldpeak Mines|Forge of Fire]], a part of an [[Goldpeak Mines|ancient Dwarven mine complex]] that once extended through much of the [[Fiatara Mountains]], where the [[Flamekeeper Scroll]] is thought to be. They find it is now a kobold shrine to the “fire god”, which is a rune protecting the [[Flamekeeper Scroll]]. After killing some [[Kobolds]] and convincing others they are the fire god made flesh, they get the scroll, and leave, but not before triggering a magma eruption which destroys the forge and probably all the [[Kobolds]].
 #### Events
 
 - (DR:: 1747-04-04): [[Samso]], [[Brelith]], [[Adrik]], and [[Alton]] are attacked by [[Goblins]] on the road to [[Voltara]], and then meet Archivist [[Lyra]] at her camp. 
@@ -55,7 +58,7 @@ In the abbey, the party encounters ghouls and zombies, and the talkative ghost o
 ## Adventure 4: The Deepwater Scroll
 ### Session 4
 
-[[Adrik]], [[Samso]], [[Brelith]], and [[Aelar]] set out from [[The Purple Pig]], armed with the location of the [[Deepwater Scroll]], deciphered from the notes they found in the [[Pietravola Abbey]]. The [[Drowned Tower]], a place where the [[Elemental Plane of Water]] is close to the [[Material Plane]], is their destination. After several days of travel across the [[Erbalta Plains|plains]], the party reaches the tower, where the swimming ability of [[Samso]] comes in handy. After battling blights outside and making their way through the flooded, diseased tower, the party finds and cures an awakened tree, and the defeats a cursed water weird living in the corrupted fountain at the top of the tower. After removing the corruption from the water, they recover the scroll and other treasure from its hiding place, anchored in the [[Elemental Plane of Water]] with an immovable rod.
+[[Adrik]], [[Samso]], [[Brelith]], and [[Aelar]] set out from [[The Purple Pig]], armed with the location of the [[Deepwater Scroll]], deciphered from the notes they found in the [[Pietravola Abbey]]. The [[Drowned Tower]], a place where the [[Elemental Plane of Water]] is close to the [[Material Plane]], is their destination. After several days of travel across the [[Erbalta Plains|plains]], the party reaches the tower, where the swimming ability of [[Samso]] comes in handy. After battling blights outside and making their way through the flooded, diseased tower, the party finds and cures an awakened tree, and then defeats a cursed water weird living in the corrupted fountain at the top of the tower. After removing the corruption from the water, they recover the scroll and other treasure from its hiding place, anchored in the [[Elemental Plane of Water]] with an immovable rod.
 ### Events
 
 - (DR:: 1747-05-03): [[Adrik]], [[Samso]], [[Brelith]], and [[Aelar]] leave [[The Purple Pig]] to search for the [[Deepwater Scroll]]. 
@@ -85,11 +88,11 @@ Back in town, [[Adrik]], [[Samso]], [[Aglath]], and [[Brelith]], joined by [[Sco
 
 - (DR:: 1747-06-06): [[Samso]], [[Adrik]], [[Brelith]], [[Scordith]], and [[Aglath]] visit [[Quintus Percomia]] and learn of the problems of the [[Centaurs]] to the south. 
 - (DR:: 1747-06-08): [[Samso]], [[Adrik]], [[Brelith]], [[Scordith]], and [[Aglath]] arrive at the centaur camp and deal with the poisoned water by placating [[Xameia|Xameia the Forsworn]], a paladin of the [[Order of Twilight]] who broke her oath. They promise to restore the temple of her order in 30 days. 
-- (DR:: 1747-06-09): [[Scordith]] leaves to returns to Voltara and is never seen from again, while the others rest in the centaur camp.
+- (DR:: 1747-06-09): [[Scordith]] leaves to return to Voltara and is never seen from again, while the others rest in the centaur camp.
 ## Adventure 7: Orcs at the Lonely Watchtower
 ### Session 8
 
-Returning from the centaur camp, [[Adrik]], [[Samso]], [[Brelith]], and [[Aglath]] are attacked on the road by bandits, where they are joined by [[Oskar]]. The bandits are desperate for treasure to pay off demands of tribute from orc raiders, but quickly surrender when it is clear they are overmatched. After gathering some information, the party heads to the [[Lonely Watchtower]], the raiding base of this [[Grumella's Horde|group of orcs]]. There, the party makes their way through the tangleweed around the tower, defeats the orc guards, and ultimately kill [[Raluhk|Raluhk the Orog]] the leader of this raiding band. Exploring the rest of the outpost, they rescue [[Ralvaz]], a mine captain working north of [[Voltara]] who reports orc raids on numerous caravans bringing treasure from the mines to [[Voltara]]. The party then returns to [[Voltara]] with this news.
+Returning from the centaur camp, [[Adrik]], [[Samso]], [[Brelith]], and [[Aglath]] are attacked on the road by bandits, where they are joined by [[Oskar]]. The bandits are desperate for treasure to pay off demands of tribute from orc raiders, but quickly surrender when it is clear they are overmatched. After gathering some information, the party heads to the [[Lonely Watchtower]], the raiding base of this [[Grumella's Horde|group of orcs]]. There, the party makes their way through the tangleweed around the tower, defeats the orc guards, and ultimately kills [[Raluhk|Raluhk the Orog]] the leader of this raiding band. Exploring the rest of the outpost, they rescue [[Ralvaz]], a mine captain working north of [[Voltara]] who reports orc raids on numerous caravans bringing treasure from the mines to [[Voltara]]. The party then returns to [[Voltara]] with this news.
 ### Events
 
 - (DR:: 1747-06-10): On the road back to [[Voltara]], [[Adrik]], [[Samso]], [[Brelith]], and [[Aglath]] are attacked by bandits, and are joined by [[Oskar]]. Subdue the bandits, and learn they need money to pay off [[Orcs]] raiding from the [[Lonely Watchtower]]. 
@@ -99,7 +102,7 @@ Returning from the centaur camp, [[Adrik]], [[Samso]], [[Brelith]], and [[Aglath
 ## Adventure 8: Iara’s Plea
 ### Session 9
 
-After returning to [[Voltara]] from the orc camp in a ruined watchtower, [[Samso]] is approached by a troubled [[Lizardfolk]] woman named [[Iara]] who is looking for help after the people of her village to the west [[Lizardfolk Village Disappearances|mysteriously disappeared]]. Joining with [[Brelith]], [[Aelar]], and [[Adrik]], the group heads to investigate. Traveling west, they find an empty lizardfolk village, and are attacked by shadowy creatures that look like evil echos of lizardfolk. They find the lair of these shadow creatures, where [[Aelar]] surprises and kills two guards with poisoned darts. In the lair, they confront and kill the leader of these shadow creatures.
+After returning to [[Voltara]] from the orc camp in a ruined watchtower, [[Samso]] is approached by a troubled [[Lizardfolk]] woman named [[Iara]] who is looking for help after the people of her village to the west [[Lizardfolk Village Disappearances|mysteriously disappeared]]. Joining with [[Brelith]], [[Aelar]], and [[Adrik]], the group heads to investigate. Traveling west, they find an empty lizardfolk village, and are attacked by shadowy creatures that look like evil echoes of lizardfolk. They find the lair of these shadow creatures, where [[Aelar]] surprises and kills two guards with poisoned darts. In the lair, they confront and kill the leader of these shadow creatures.
 
 ### Session 10
 
@@ -118,11 +121,11 @@ Returning to [[Voltara]] with news of kidnappings of messengers from [[Chardon]]
 
 ### Session 12  
 
-Approaching the temple, [[Brelith]], [[Aelar]], [[Adrik]], and [[Samso]] find an area of death where nothing seems to grow. Continuing to explore, they come upon the approach to the [[Order of Twilight Temple (Voltara)|temple]] itself, and defeat several maw demons guarding the path. Continuing, they find the temple swarming with demonic influences, and face off against more demons in the ruins itself. 
+Approaching the temple, [[Brelith]], [[Aelar]], [[Adrik]], and [[Samso]] find an area of death where nothing seems to grow. Continuing to explore, they come upon the approach to the [[Order of Twilight Temple (Voltara)|temple]] itself, and defeat several maw demons guarding the path. Continuing, they find the temple swarming with demonic influences, and face off against more demons in the ruins themselves.
 
 ### Session 13
 
-After defeating the demons guarding the ruins, the [[Brelith]], [[Aelar]], [[Adrik]], and [[Samso]] explore and find an entrance to a crypt below, which seems to be the source of the demonic influence. Climbing into the crypt, they are attacked by a cambion. After a challenging battle, they manage to prevail, and learn that the temple is the location of a portal to the [[Abyss]], which must be closed before the temple can be cleansed. Gathering some treasures and items remaining in the crypt (including a necklace of spell storing and a cloak of twilight), they return to town to consider their next move. 
+After defeating the demons guarding the ruins, [[Brelith]], [[Aelar]], [[Adrik]], and [[Samso]] explore and find an entrance to a crypt below, which seems to be the source of the demonic influence. Climbing into the crypt, they are attacked by a cambion. After a challenging battle, they manage to prevail, and learn that the temple is the location of a portal to the [[Abyss]], which must be closed before the temple can be cleansed. Gathering some treasures and items remaining in the crypt (including a necklace of spell storing and a cloak of twilight), they return to town to consider their next move.
 
 ### Session 14
 
@@ -138,7 +141,7 @@ Continuing to defend the temple, in the middle of the night the remnants of the 
 - (DR:: 1747-06-29): [[Samso]], [[Brelith]], [[Aelar]], and [[Adrik]] return to [[Voltara]] with news of the kidnappings. 
 - (DR:: 1747-06-30): [[Brelith]] finds information about the location of the ruined [[Order of Twilight Temple (Voltara)|temple]] of the [[Order of Twilight]] and the party leaves to fulfill their promise to [[Xameia]].  
 - (DR:: 1747-07-01): [[Brelith]], [[Aelar]], [[Adrik]], and [[Samso]] are ambushed in the hills on the way to the temple.  
-- (DR:: 1747-07-02): The party arrives at the temple and fights demons, and realize they need powerful magic to cleanse the [[Abyss|Abyssal]] portal at this temple. 
+- (DR:: 1747-07-02): The party arrives at the temple and fights demons, and realizes they need powerful magic to cleanse the [[Abyss|Abyssal]] portal at this temple.
 - (DR:: 1747-07-04): The party arrives back in [[Voltara]] and convinces a priest, [[Galius Filuso]], to come with them to help end the Abyssal curse on the temple. 
 - (DR:: 1747-07-06): The party arrives at the temple and defends [[Galius Filuso]] for 24 hours while he casts Hallow to end the Abyssal corruption and close the portal. 
 - (DR:: 1747-07-07): The portal is closed and an avatar of [[The Night Queen]] appears to reward the party.  
@@ -166,11 +169,11 @@ The party decides to move on quickly, after only a brief rest, trying to put som
 
 ### Session 19
 
-After bargaining with the giant eagle, [[Oskar]] and [[Stoneclaw]] return to the plains, while [[Aelar]], [[Aglath]], [[Brelith]], [[Adrik]], and [[Samso]] travel along the Dwarven road towards [[Blacksilver Peak]]. On the way, they defeat a hunting party of basilisks. They find the entrance to an [[Goldpeak Mines|old Dwarven complex]], which now seems to be inhabited by some other kind of beast or creature based on the piles of cast of bits of armor and clothes from dead victims in the entryway. 
+After bargaining with the giant eagle, [[Oskar]] and [[Stoneclaw]] return to the plains, while [[Aelar]], [[Aglath]], [[Brelith]], [[Adrik]], and [[Samso]] travel along the Dwarven road towards [[Blacksilver Peak]]. On the way, they defeat a hunting party of basilisks. They find the entrance to an [[Goldpeak Mines|old Dwarven complex]], which now seems to be inhabited by some other kind of beast or creature based on the piles of cast-off bits of armor and clothes from dead victims in the entryway.
 
 ### Session 20
 
-Pressing further into the cave, the party finds it is now the lair of a pair of trolls, who are eventually defeated by [[Aglath]]’s burning hands. After navigating a chamber of regenerating stirges, the party finds a stair climbing up through the center of the mountain, and begin the long ascent to the top of [[Blacksilver Peak]] and hopefully [[Airion's Floating Tower]] and the scroll. During the ascent, they navigate (eventually) around a partial collapse of the stairs by use of the climbing abilities of [[Samso]]’s giant spider form.
+Pressing further into the cave, the party finds it is now the lair of a pair of trolls, who are eventually defeated by [[Aglath]]’s burning hands. After navigating a chamber of regenerating stirges, the party finds a stair climbing up through the center of the mountain, and begins the long ascent to the top of [[Blacksilver Peak]] and hopefully [[Airion's Floating Tower]] and the scroll. During the ascent, they navigate (eventually) around a partial collapse of the stairs by use of the climbing abilities of [[Samso]]’s giant spider form.
 
 ### Session 21
 
@@ -178,7 +181,7 @@ Continuing to ascend the endless stairs, the party arrives in a broken chamber, 
 
 ### Session 22  
 
-Using summoned giant spiders to help explore the flash of light in the ceiling nearly 400’ above, the party faces predictably bad results, but do learn that there is a snowy landscape outside, although no way to access it from this small skylight. After a bit more aimless exploring, they find themselves face to face with some spirits of past wars, sword wraiths who are upset their stories have been forgotten, guarding what seems to be the exit from [[Goldpeak Mines|the Dwarven fortress]]. An attempted negotiation fails as the sword wraiths are not inclined to let them exit, but they are eventually defeated, and the party finds themselves looking out at a stormy glacier.
+Using summoned giant spiders to help explore the flash of light in the ceiling nearly 400’ above, the party faces predictably bad results, but does learn that there is a snowy landscape outside, although no way to access it from this small skylight. After a bit more aimless exploring, they find themselves face to face with some spirits of past wars, sword wraiths who are upset their stories have been forgotten, guarding what seems to be the exit from [[Goldpeak Mines|the Dwarven fortress]]. An attempted negotiation fails as the sword wraiths are not inclined to let them exit, but they are eventually defeated, and the party finds themselves looking out at a stormy glacier.
 
 ### Session 23
 
@@ -190,17 +193,17 @@ The party crosses the ice bridge, and encounters the guardians of [[Airion's Flo
 
 ### Session 25
 
-The party begins to explore [[Airion's Floating Tower|the tower]], passing through the grand illusion of the sky in the entrance room, and defeating a pair of animated suits of plate armor guarding the library. In the library they find some clues and treasure, and then proceed up, to the ruins of an alchemical laboratory. Here, they meet [[Mehrangeesa]] of [[Sulmana]], a djinni trapped here with enchanted manacles. Mehrangeesa tells them some of the history of [[Airion]], how different factions on the [[Elemental Plane of Air]] saw him as relatively harmless or a great evil to be destroyed, and told them of [[Zadkai]], a warlock devoted to a great power on the [[Elemental Plane of Air|Plane of Air]] who wanted to see all humans who would interfere with the [[Elemental Plane of Air|Plane of Air]] destroyed. After being freed, he tells them he will be listening if they find a way to get in touch, gifts [[Aelar]] with the power of whirlwind punches, and disappears.
+The party begins to explore [[Airion's Floating Tower|the tower]], passing through the grand illusion of the sky in the entrance room, and defeating a pair of animated suits of plate armor guarding the library. In the library they find some clues and treasure, and then proceed up, to the ruins of an alchemical laboratory. Here, they meet [[Mehrangeesa]] of [[Sulmana]], a djinni trapped here with enchanted manacles. Mehrangeesa tells them some of the history of [[Airion]], how different factions on the [[Elemental Plane of Air]] saw him as relatively harmless or a great evil to be destroyed, and tells them of [[Zadkai]], a warlock devoted to a great power on the [[Elemental Plane of Air|Plane of Air]] who wanted to see all humans who would interfere with the [[Elemental Plane of Air|Plane of Air]] destroyed. After being freed, he tells them he will be listening if they find a way to get in touch, gifts [[Aelar]] with the power of whirlwind punches, and disappears.
 
 ### Session 26
 
-Ascending to the final floor of the tower, the party encounters [[Airion|Airion Mistspeaker]] himself, trapped in a magic circle and unable to retrieve the scroll. Tricked into helping him extract the scroll from the chest near him, [[Samso]] (in opposum form) hands the scroll over, only to have the illusion of [[Airion]] fade, and the ruined, undead form of [[Zadkai]] appear in his place. After summoning four dust mephits, [[Zadkai]] casts dimension door and vanishes onto the icy bridge. The dust mephits are easy to destroy, after which the party rushes to the ceiling where the perceptive eyes of [[Samso]], guided by [[Brelith]]’s magic, pick out a small, running figure far below: [[Zadkai]] fleeing. Quickly conjuring two giant eagles to carry most of the party, while [[Aelar]] uses his monk magic to glide down the side of the tower, the party gives chase. In a climatic battle on the icy outskirts of the glacier, the [[Adrik]] manages to retrieve the air scroll from [[Zadkai]]’s grasp, but despite a well-placed stunning strike from [[Aelar]], [[Zadkai]] vanishes just before he can be killed.
+Ascending to the final floor of the tower, the party encounters [[Airion|Airion Mistspeaker]] himself, trapped in a magic circle and unable to retrieve the scroll. Tricked into helping him extract the scroll from the chest near him, [[Samso]] (in opossum form) hands the scroll over, only to have the illusion of [[Airion]] fade, and the ruined, undead form of [[Zadkai]] appear in his place. After summoning four dust mephits, [[Zadkai]] casts dimension door and vanishes onto the icy bridge. The dust mephits are easy to destroy, after which the party rushes to the ceiling where the perceptive eyes of [[Samso]], guided by [[Brelith]]’s magic, pick out a small, running figure far below: [[Zadkai]] fleeing. Quickly conjuring two giant eagles to carry most of the party, while [[Aelar]] uses his monk magic to glide down the side of the tower, the party gives chase. In a climactic battle on the icy outskirts of the glacier, [[Adrik]] manages to retrieve the air scroll from [[Zadkai]]’s grasp, but despite a well-placed stunning strike from [[Aelar]], [[Zadkai]] vanishes just before he can be killed.
 
 ### Session 27
 
 Spent after the battle, the adventurers decide to rest in the tower and head to [[Dinia]]’s after, when the sun is down and the glacier less prone to melt beneath their feet. As they rest, a glowing rune appears, growing and pulsing. Curiously and somewhat foolishly, [[Adrik]] and [[Aelar]] sit by it, noticing that it grows faster when they get closer. After half an hour, two living lightning bolts appear and attack. The party rushes into combat, and although [[Aelar]] is knocked out, they win and resume their rest. 
 
-After a full sleep, the rune appears again, and they leave before it is activated, resources refreshed. They make it across the glacier without much trouble due to [[Samso]] and [[Brelith]]’s skills, and make it past a shifting crevice with [[Adrik]]’s (a little late) help. Before they reach [[Dinia]]’s, they encounter a wolf pack. [[Samso]] negotiates with his druidic and [[Lizardfolk]] abilities, and [[Aelar]] suggests leading them to the frozen yeti corpse to eat. However, intelligent, magical alpha’s appear, interrupting. After tense bargaining, they get away, but not before [[Aelar]] acts foolishly and provokes a single parting attack. They reach [[Dinia]]’s and chat with her, learning more about [[Chardon]]’s history and the air scroll itself. Empowering by her stories, they leave on a route that the bard suggested, heading down the mountain. The session ends as an orc sentry from [[Grumella's Horde]] -- also chasing the scroll -- sees them and blows their horn.
+After a full sleep, the rune appears again, and they leave before it is activated, resources refreshed. They make it across the glacier without much trouble due to [[Samso]] and [[Brelith]]’s skills, and make it past a shifting crevice with [[Adrik]]’s (a little late) help. Before they reach [[Dinia]]’s, they encounter a wolf pack. [[Samso]] negotiates with his druidic and [[Lizardfolk]] abilities, and [[Aelar]] suggests leading them to the frozen yeti corpse to eat. However, intelligent, magical alphas appear, interrupting. After tense bargaining, they get away, but not before [[Aelar]] acts foolishly and provokes a single parting attack. They reach [[Dinia]]’s and chat with her, learning more about [[Chardon]]’s history and the air scroll itself. Empowered by her stories, they leave on a route that the bard suggested, heading down the mountain. The session ends as an orc sentry from [[Grumella's Horde]] -- also chasing the scroll -- sees them and blows their horn.
 
 ### Session 28
 
@@ -215,7 +218,7 @@ After a brief interrogation with the orc leader, [[Aglath]] kills him after he t
 - (DR:: 1747-07-12): The party decides to immediately head north to find the [[Skyborn Scroll]], leaving [[Voltara]] in a hurry.  
 - (DR:: 1747-07-15): On the plains north of [[Voltara]], heading for the rumored location of the [[Skyborn Scroll]], the party is attacked and nearly killed by a hobgoblin patrol from the mountains. 
 - (DR:: 1747-07-16): The party encounters [[Oskar]] on the plains, who joins them for a time. 
-- (DR:: 1747-07-19): The party finds [[Blacksilver Peak]] and begin the ascend. Part way up, they fight a frost giant who hates dwarves, and bargain with a giant eagle for passage down a cliff to the old Dwarven Road. 
+- (DR:: 1747-07-19): The party finds [[Blacksilver Peak]] and begins the ascent. Part way up, they fight a frost giant who hates dwarves, and bargain with a giant eagle for passage down a cliff to the old Dwarven Road.
 - (DR:: 1747-07-20): After defeating a group of basilisks, the party arrives at the entrance to the [[Goldpeak Mines|old Dwarven mines]], and kills the trolls that now occupy it. They begin the ascent up the long stairs to the summit of the mountain. 
 - (DR:: 1747-07-21): After resting on the stairs, the party emerges into a [[Goldpeak Mines|ruined Dwarven waystation]], finding the exit after some shenanigans and defeating some sword wraiths. 
 - (DR:: 1747-07-22): The party meets [[Dinia]], and deals with her yeti problem. 
@@ -224,3 +227,21 @@ After a brief interrogation with the orc leader, [[Aglath]] kills him after he t
 - (DR:: 1747-07-25): The party heads down [[Blacksilver Peak]], and encounters an [[Orcs|orc]] patrol coming to find the [[Skyborn Scroll]] for [[Grumella]]. The orcs are defeated after a tough fight, although one gets away. 
 - (DR:: 1747-07-26): Experimenting with magic items from the tower, [[Adrik]] summons a [[Silverstorm|roc]], who flies the party back to [[Voltara]]. Defeat a pack of wyverns from roc-back. 
 - (DR:: 1747-07-28): The party returns to [[Voltara]] triumphant on the back of a [[Silverstorm|giant roc]]. 
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Recorded the session viewpoint as DR 1747.
+- Corrected “[[Adrik]] ,” to “[[Adrik]],”, “The location of the [[Flamekeeper Scroll]]” to “The locations of the [[Flamekeeper Scroll]]”, “while the location of the [[Skyborn Scroll]]” to “while the locations of the [[Skyborn Scroll]]”, “which destroys forge” to “which destroys the forge”, “and the defeats” to “and then defeats”, “leaves to returns” to “leaves to return”, “ultimately kill [[Raluhk” to “ultimately kills [[Raluhk”, “evil echos” to “evil echoes”, “ruins itself” to “ruins themselves”, “the ruins, the [[Brelith]]” to “the ruins, [[Brelith]]”, “and realize they need” to “and realizes they need”, “piles of cast of bits” to “piles of cast-off bits”, “and begin the long ascent” to “and begins the long ascent”, “but do learn” to “but does learn”, “and told them of [[Zadkai]]” to “and tells them of [[Zadkai]]”, “opposum form” to “opossum form”, “In a climatic battle” to “In a climactic battle”, “the glacier, the [[Adrik]]” to “the glacier, [[Adrik]]”, “magical alpha’s appear” to “magical alphas appear”, “Empowering by her stories” to “Empowered by her stories”, “and begin the ascend” to “and begins the ascent”.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Warning — consistency.internal_conflict:** Session 16 says the party recovers the scroll in the ambush. The July 11 entry identifies the prize as the map, and Session 26 describes recovering the scroll itself. If the events list is correct, use “the ambush is a success and the map is recovered.”
+- [ ] **Warning — editorial.prose_clarity:** Session 2 says “they find the scroll is a large stone chest.” Confirm whether the chest contains the scroll. If so, use “they find the scroll in a large stone chest.”
+- [ ] **Warning — consistency.internal_conflict:** The July 12 event says the party leaves Voltara in a hurry, but Session 17 begins in camp outside the kobold lair. If they head north from that camp, use “The party decides to head north immediately to find the Skyborn Scroll.”
+- [ ] **Suggestion — editorial.prose_clarity:** The June 9 entry says Scordith “is never seen from again.” Choose “is never seen again” if later appearances are at issue, or “is never heard from again” if the point is that he sends no word.
+%%^End%%

@@ -1,14 +1,17 @@
 ---
-tags: [session-note]
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [session-note, status/check/lint]
 campaign: Dunmari Frontier
 sessionNumber: 120
 realWorldDate: 2025-03-05
 DR: 1749-05-31
 DR_end: 1749-06-07
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
-name: Dunmari Frontier - Session 120
 tagline: in which the party mingles at Sunwine Hall
 descTitle: The Revel in Emberwine
+name: Dunmari Frontier - Session 120
+POV: 1749
 ---
 # Dunmari Frontier - Session 120
 
@@ -51,9 +54,9 @@ As the party splits up to gather information, [[Kenzo]] meditates at the periphe
 
 [[Delwath]] meets [[Arendel]], a renowned but cheerful and friendly duelist who challenges him on the spot. Their duel draws a crowd, including drawing back other members of the party who had wandered off. [[Arendel]] ultimately wins but acknowledges Delwath's skill. As payment, [[Delwath]] must entertain [[Arendel]] with stories for two days.
 
-After the duel, the goes to find [[Count Vashan]], who is now calling himself "the broken mask". He is slumped at the edge of festivities, clearly deep in drink. [[Delwath]] boldly declares that [[Cloudspinner]] is alive, and [[Lady Eventide]] recognizes Vashan as one of Cloudspinner's most trusted servants, but the Count does not deign to speak of the past. Suspecting the fey wine is clouding his memories, [[Kenzo]] channels his ki to temporarily suppress the magic afflicting Vashan's mind, jolting him to awareness of his past. 
+After the duel, the party goes to find [[Count Vashan]], who is now calling himself "the broken mask". He is slumped at the edge of festivities, clearly deep in drink. [[Delwath]] boldly declares that [[Cloudspinner]] is alive, and [[Lady Eventide]] recognizes Vashan as one of Cloudspinner's most trusted servants, but the Count does not deign to speak of the past. Suspecting the fey wine is clouding his memories, [[Kenzo]] channels his ki to temporarily suppress the magic afflicting Vashan's mind, jolting him to awareness of his past.
 
-The effect is immediate. [[Count Vashan]]'s eyes clear as the truth emerges: he betrayed [[Cloudspinner]], bringing [[Cha'mutte]] to the [[Cloud Palace]] during a moment of vulnerability, though whether intentionally or by accident, he can no longer remember. Though ashamed and angry, he offers crucial information: each of the keeps along the [[Sunset Gate]] contain hidden chambers allowing them to connect to the [[Prismwell]], once used as a means of communication, defense, and perhaps more--[[Count Vashan]] does not know. However, the connection to the [[Prismwell]] can only be activated by the light of pure sunset. 
+The effect is immediate. [[Count Vashan]]'s eyes clear as the truth emerges: he betrayed [[Cloudspinner]], bringing [[Cha'mutte]] to the [[Cloud Palace]] during a moment of vulnerability, though whether intentionally or by accident, he can no longer remember. Though ashamed and angry, he offers crucial information: each of the keeps along the [[Sunset Gate]] contains hidden chambers allowing them to connect to the [[Prismwell]], once used as a means of communication, defense, and perhaps more--[[Count Vashan]] does not know. However, the connection to the [[Prismwell]] can only be activated by the light of pure sunset.
 
 After deliberation, the party decides to take the direct route, traveling west to the [[Sunset Gate]] and north to [[Redsun Watch]] (where they hope that [[Riswynn]]'s magic can activate the connection to the [[Prismwell]]), rather than seeking the [[Shrouded Archive]] and negotiating for access to the secrets kept within (which, one presumes, include the secret location of the [[Prismwell]]). They secure griffins from [[Lord Soven]], and prepare to set off. 
 
@@ -296,3 +299,23 @@ The most spectacular preparation came when Wellby attempted to tame the Wyvern t
 The Satyr Valeris agreed to join their expedition with wry enthusiasm: "Anything to get out of here. Just don't let me die, please." When questioned about the mortality rate of their companions, the party optimistically described it as "single-digit numbers," prompting Wellby to quip, "You think of death in such a binary way." As their departure day arrived, the seven travelers gathered outside Sunwine Hall—two fey allies accompanying five adventurers. Wellby and Kenzo mounted their partially-tamed Wyvern while Riswynn, Seeker, Delwath, Valeris, and Ismara each settled onto their brilliantly colored griffins. With a final story from Delwath about Wellby's Wyvern-taming exploits fresh in the minds of the revelers, the session ended as the unusual procession launched into the sky, leaving the perpetual celebration of Emberwine behind as they set course for the mysteries of the Sunset Gate and the ruins of Amber Glow beyond.
 
 %%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added `POV: 1749`.
+- Restored canonical frontmatter order.
+- Restored the missing subject after the duel and corrected verb agreement in the account of the keeps.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Suggestion — campaign.noncanonical_name:** The registry recognizes “Dunmari Frontier” as an alias. Use `campaign: Dunmar Frontier` in frontmatter.
+- [ ] **Suggestion — editorial.shared_material_redundant:** The ordinary comment beginning “LONG VERSION” retells the celebration, duel, interviews, and departure already covered by the narrative and detailed outline. Compare the draft for unique wording worth retaining, then remove the duplicate account.
+- [ ] **Warning — correctness.internal_conflict:** The narrative requires Delwath to tell stories for two days, while the detailed outline gives the agreed stakes as one day. Verify the terms against the played exchange before harmonizing the two passages.
+- [ ] **Warning — correctness.internal_conflict:** The extended conversation identifies Kenzo’s necklace as Cloudspinner’s prison, while the detailed outline identifies Wellby as showing the necklace. Check who was wearing or carrying it in each exchange.
+- [ ] **Suggestion — editorial.prose_clarity:** The detailed outline uses “Lord Sovin,” “Count Vashen,” and “Artwood Grove” where the linked narrative uses “Lord Soven,” “Count Vashan,” and “Heartwood Grove.” Use the linked names in the outline for the same host, refugee, and grove.
+%%^End%%

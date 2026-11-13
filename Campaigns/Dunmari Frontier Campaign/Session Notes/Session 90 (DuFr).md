@@ -1,5 +1,7 @@
 ---
-tags: [session-note]
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [session-note, status/check/lint]
 campaign: Dunmari Frontier
 sessionNumber: 90
 realWorldDate: 2023-12-22
@@ -9,6 +11,7 @@ players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
 tagline: in which peace negotiations begin
 descTitle: Diplomatic Ventures
 name: Dunmari Frontier - Session 90
+POV: 1749
 ---
 # Dunmari Frontier - Session 90
 
@@ -49,7 +52,7 @@ The [[Dunmar Fellowship]] engages in intricate diplomacy to reconcile siblings [
 - (DR:: 1749-02-16) - (DR_end:: 1749-03-08): [[Interlude (Tollen Downtime)|Downtime in Tollen]].
 - (DR:: 1749-03-09): Meet the [[Kenku|kenku]] scout [[Kecha]] on [[Vindristjarna]]. Shadow hunter attack well after midnight. 
 ### Mirror of the Past
-- (DR:: 1749-02-02): The history of [[Nayan Marathu's Letter]] is reveled in [[Nayan Marathu's Letter Vision]] (recharge:: mirror)
+- (DR:: 1749-02-02): The history of [[Nayan Marathu's Letter]] is revealed in [[Nayan Marathu's Letter Vision]] (recharge:: mirror)
 - (DR:: 1749-02-17): The history of magical pale blue dye from [[Ursk]] is revealed in [[Magical Pale Blue Dye Vision]] (recharge:: mirror)
 - (DR:: 1749-03-01): The history of a white dragon tooth from [[Ursk]] is revealed in [[Cecilia's White Dragon Tooth Vision]] (recharge:: mirror)
 
@@ -58,14 +61,14 @@ We begin as the party departs [[Pava and Avaras' House]], heading west to [[Sura
 
 Here, they begin by speaking to Sura. They give her news of the [[War of the Cloak]], the [[Battle for Uzgukhar]], and the defeat of [[Grash]]. Sura passes along the news of the [[Battle of Tokra]], and [[Havdar]]'s activities to fortify the northwestern border of [[Dunmar]], along the [[Myraeni Gap]]. Then, the conversation turns to Karnas and the current situation. Karnas is convinced that [[Agata]] has silenced the gods using the [[Cloak of Rainbows]], and corrupted Sura to be her pawn. The party learns from Sura that [[Johar]], Kenzo's friend from the [[Lakan Monastery]], has been taking letters between the camps, and the [[Sonkar Mystai]] [[Abha]] is Karnas' closest advisor, although currently he is convinced that nothing she says can be trusted, because of Agata's meddling with the gods. 
 
-The conversation turns to meeting with [[Nayan Karnas|Karnas]], and to Sura's feelings. [[Sura]] asks [[Delwath]] if he has ever been trapped in a mirror for eight years, which, between Delwath's skill and [Seeker]'s inspiration, leads to her breaking down and talking about how angry she is with Karnas for doing nothing. As the conversation continues, Sura agrees to come meditate with [[Kenzo]] in the evening, and also hears the whole story of [[Apollyon]] from the party. 
+The conversation turns to meeting with [[Nayan Karnas|Karnas]], and to Sura's feelings. [[Sura]] asks [[Delwath]] if he has ever been trapped in a mirror for eight years, which, between Delwath's skill and [[Seeker]]'s inspiration, leads to her breaking down and talking about how angry she is with Karnas for doing nothing. As the conversation continues, Sura agrees to come meditate with [[Kenzo]] in the evening, and also hears the whole story of [[Apollyon]] from the party.
 
 That afternoon, the party speaks with [[Johar]]. He is nervous, and reports on the evidence of Agata's meddling in Dunmari history that Karnas has found. Most notable is a letter, written by the Samraat [[Marathu]], who was Sura's mentor and killed in the attack when Sura was kidnapped. The letter, according to Karnas, states that Marathu had visited Agata in his youth, and was compelled now to deliver Sura to her, for training and apprenticeship. Johar lists a bunch of other evidence he has found of Agata's meddling. The discussion also turns to the [[Cloak of Rainbows]], which has definitely been with the orcs of [[Xurkhaz]] since shortly after the [[Great War]], and so can't have been used by Agata. Johar is convinced, but he warns the party Karnas will not be easy to deal with. 
 
 The meeting with Johar ends with Johar arranging a meeting with [[Abha]], who will speak with the party the following day around lunchtime, near Karnas' camp. The rest of the day and evening is spent in discussion, and in prayer and meditation with Sura. Delwath also speaks with the tanshi, asking:
 
 - Can Agatha influence Dunmar from where she is now? *Probably not*
-- Did Agatha leave behind magical traps and tricks still active in Dunmar. *No*
+- Did Agatha leave behind magical traps and tricks still active in Dunmar? *No*
 - Was Sura in the mirror for eight years? *Yes*
 - Was Samraat Nayan Marathu truthful in the letter he wrote to be opened after his death? *What letter?*
 - Does Abha have Dunmar's best interests at heart? *Yes*
@@ -87,3 +90,19 @@ During this time, the party recruits a [[Egnir|gardener]] in [[Orenlas]], and [[
 On March 9th, in Tollen, the party meets [[Kecha]], the kenku scout who has volunteered to lead them across the northern wilds, to the inland border of [[Ursk]]. He tells them of the dangers they may face: frost giants in the mountains; dragons in the icy north; rumors of a vampire kingdom; ice worms that tear through the forest; and changelings who turn into bears. 
 
 In the early morning hours, as the party sleeps on Vindristjarna, they are awakened by screams. 
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Recorded POV 1749 from the session chronology.
+- Corrected “is reveled in” to “is revealed in”, “and [Seeker]'s inspiration” to “and [[Seeker]]'s inspiration”, “still active in Dunmar. *No*” to “still active in Dunmar? *No*”.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Suggestion — campaign.noncanonical_name:** The campaign field uses the registry alias “Dunmari Frontier.” Use `campaign: Dunmar Frontier`.
+- [ ] **Warning — correctness.internal_conflict:** The March 9 timeline places the attack “well after midnight” after the daytime meeting with Kecha, although the recorded end date is March 9. [[Session 91 (DuFr)]] places the attack late on March 9. Confirm the intended night. If the March 9 encounter date governs, use “Shadow hunter attack late that night.”
+%%^End%%

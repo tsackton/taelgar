@@ -1,6 +1,7 @@
 ---
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
-name: Dunmari Frontier - Seeker Solo Session 2
 campaign: Dunmari Frontier
 sessionNumber: 63
 realWorldDate: 2022-11-05
@@ -9,6 +10,8 @@ DR_end: 1748-10-12
 players: [Seeker, Raven, Spirala, Mikasa]
 tagline: in which a wild magic storm is quelled
 descTitle: Crystal Peak Chaos
+name: Dunmari Frontier - Seeker Solo Session 2
+POV: 1748
 ---
 # Dunmari Frontier - Seeker Solo Session 2
 
@@ -37,15 +40,15 @@ We begin in the court of the [[Prince of Luck|Chanceweaver]], as [[Seeker]] meet
 
 ![[crystal-peak.png|500]]
 
-After some time traveling through the wonders of the [[Feywild]], the party approaches the Crystal Peak, a mountain entirely made of gems and crystals. Between [[Spirala]]’s flight, [[Raven]] and [[Mikasa]]’s ability to scale sheer walls, and [[Seeker]] polymorphing into a dragonfly getting to the top is easy. Except for when [[Seeker]] casts Polymorph, something breaks off from the top of the mountain and a giant round stone comes hurling down the mountainside. [[Raven]] and [[Mikasa]] are able to dodge out of the way, fortunately. 
+After some time traveling through the wonders of the [[Feywild]], the party approaches the Crystal Peak, a mountain entirely made of gems and crystals. Between [[Spirala]]’s flight, [[Raven]] and [[Mikasa]]’s ability to scale sheer walls, and [[Seeker]] polymorphing into a dragonfly, getting to the top is easy. Except for when [[Seeker]] casts Polymorph, something breaks off from the top of the mountain and a giant round stone comes hurtling down the mountainside. [[Raven]] and [[Mikasa]] are able to dodge out of the way, fortunately. 
 
 The top of the mountain has a giant crater, as if something crashed into it, leaving an open gash that leads down into a cave structure below. The cave is almost like a massive bubble in the mountain, and at the bottom is a crashed geode, split open. Descending to investigate, giant dragonfly [[Seeker]] is swarmed and attacked by an animated cloud of crystal fragments. [[Raven]] and [[Mikasa]] run down the walls of the cave, trying to draw the attention of the clouds of crystal fragments, while [[Spirala]] and [[Seeker]] fly down. 
 
 As the party deals with the crystal shards, [[Seeker]] casts Catapult to try to break one of the swarms to pieces, and vanishes, appearing in another cave, that looks inhabited. The rest of the party manages to deal with the crystal fragments, and find their way to the room [[Seeker]] is in, on the next level down.
 
-Here, the party meets [[Illaran]], a strange fey creature with wild hair, a multicolored frizzy mess, and clearly a master of this crystal mountain domain. [[Illaran]] is somewhat shifty, and not completely straightforward with the party. But it seems that after the crash, which leaked some kind of uncontrolled magic, [[Illaran]] summoned a creature with a nose for gems to help, and it ended up swallowing the shards of the geode. After which things started to go heywire, and magic got weird. [[Illaran]] tried to kill the creature with magic, but it fled, deeper into the mountain. Somehow, the creature needs to be destroyed, and the geode shards retrieved and destroyed, to end the chaos. Unfortunately, [[Illaran]] admits, the spells he cast came alive (some aftereffect of the geode, he thinks), and might be waiting for the party. Still, it is the only way, he says, so the party proceeds.
+Here, the party meets [[Illaran]], a strange fey creature with wild hair, a multicolored frizzy mess, and clearly a master of this crystal mountain domain. [[Illaran]] is somewhat shifty, and not completely straightforward with the party. But it seems that after the crash, which leaked some kind of uncontrolled magic, [[Illaran]] summoned a creature with a nose for gems to help, and it ended up swallowing the shards of the geode. After which things started to go haywire, and magic got weird. [[Illaran]] tried to kill the creature with magic, but it fled, deeper into the mountain. Somehow, the creature needs to be destroyed, and the geode shards retrieved and destroyed, to end the chaos. Unfortunately, [[Illaran]] admits, the spells he cast came alive (some aftereffect of the geode, he thinks), and might be waiting for the party. Still, it is the only way, he says, so the party proceeds.
 
-[[Illaran]] leads them to another cave, with polished reflective crystal walls, where they find a portal to the deep cave where the creature, a xorn, can be found. The creature has been petrified by the chaotic magic, turned to a statue of stone - surrounded by living versions of all the spells that [[Illaran]] or the party cast in the mountain, which immediately attack. While [[Raven]], [[Spirala]], and [[Seeker]] try to hold off the wild magic, [[Mikasa]] lunges for the statute, attempting to crack it in two to shatter the magic crystal and end the wild magic storm. 
+[[Illaran]] leads them to another cave, with polished reflective crystal walls, where they find a portal to the deep cave where the creature, a xorn, can be found. The creature has been petrified by the chaotic magic, turned to a statue of stone - surrounded by living versions of all the spells that [[Illaran]] or the party cast in the mountain, which immediately attack. While [[Raven]], [[Spirala]], and [[Seeker]] try to hold off the wild magic, [[Mikasa]] lunges for the statue, attempting to crack it in two to shatter the magic crystal and end the wild magic storm. 
 
 [[Spirala]] manages to temporarily paralyze one of the spells with Dispel Magic, and [[Raven]] holds off a number of smaller, weaker spells, along with the echo of the giant dragonfly [[Seeker]] polymorphed into. However, [[Illaran]]’s lightning bolt and force hand, as well as [[Seeker]]’s catapult, are real trouble. Fortunately, [[Mikasa]] is able to crack open the statue. As it cracks, the room vibrates for a moment, and with a last wild burst of chaotic magic energy, the storm ends and magic begins to rebalance.
 

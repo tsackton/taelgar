@@ -1,5 +1,7 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
 websiteSessionView: zoomable
 campaign: Dunmar Frontier
@@ -10,11 +12,12 @@ DR: 1748-03-30
 DR_end: 1748-04-04
 players: [Kenzo, Wellby, Delwath, Seeker]
 companions: []
-name: "Dunmari Frontier - Session 5"
-descTitle: "Karawa at the Crossroads"
-tagline: "in which a council debates how to save the village"
+descTitle: Karawa at the Crossroads
+tagline: in which a council debates how to save the village
 sessionKey: dunmari-frontier-session-5
 session-template: dunmar-frontier-template.md
+name: Dunmari Frontier - Session 5
+POV: 1748
 ---
 # Dunmari Frontier - Session 5
 
@@ -99,7 +102,7 @@ That afternoon, the party returns to Jasu’s workshop to inspect the two silver
 
 Over the next several days, [[Karawa]] settles into the games and festivities leading up to the [[Festival of Rebirth]]. [[Ikram]] delivers gifts of silver and trade goods from the grateful town, and an anonymous benefactor leaves [[Seeker]] an apparently blank Dwarven volume titled [[The Runes of Creation]]. [[Seeker]] spends time studying his new book.
 
-As [[Delwath]] listens for news, he finds a town mostly eager to celebrate. Many believe the danger ended with the defeat of the rampaging beasts, and dismiss stories of hyena-like raiders to the south as confused accounts of that attack. Yet the festivities carry an undercurrent of grief for those lost, and some wonder whether news of strange storms that don't move, and spreading violence, mean the gods have abandoned them. Many rumors involve ruins and artifacts: the name [[Raven's Hold]] is mentioned, as is the claim that the [[Temple of Shakun]] hides a number of ancient artifacts, and the angry fear that [[Chardon]] is trying to steal [[Dunmar]]’s heritage. 
+As [[Delwath]] listens for news, he finds a town mostly eager to celebrate. Many believe the danger ended with the defeat of the rampaging beasts, and dismiss stories of hyena-like raiders to the south as confused accounts of that attack. Yet the festivities carry an undercurrent of grief for those lost, and some wonder whether news of strange storms that don't move, and spreading violence, means the gods have abandoned them. Many rumors involve ruins and artifacts: the name [[Raven's Hold]] is mentioned, as is the claim that the [[Temple of Shakun]] hides a number of ancient artifacts, and the angry fear that [[Chardon]] is trying to steal [[Dunmar]]’s heritage.
 
 [[Kenzo]] enters the staff-dancing tournament, in which contestants fight with quarterstaffs on a balance beam and the first to fall loses. He draws a growing crowd as he advances through its early rounds. In the final he faces the swift and balanced [[Jayden]], then bursts forward and sweeps her from the beam, earning his victory, then honoring her skill. [[Seeker]] begins transforming the contest into an illustrated sequence called The Legendary Staff of [[Kenzo]], naming his new art form the "graphic novel."
 
@@ -113,7 +116,7 @@ The axebeak race brings another burst of celebration, and some of the largest cr
 > - ![[dufr-005-alesh-havdar-return.jpg]]
 >   *[[Alesh]] and [[Havdar]] bring troubling news from the frontier.*
 
-The next morning, at [[The Council|the council]] meeting, the scouts reveal their news. [[Havdar]] describes armed hyena-like raiders destroying settlements to the south and argues for an immediate a counterattack, while [[Alesh]] reports a stationary storm, a black stream that smells of blood, and dangerous bands moving elsewhere along the border. She urges an appeal to Samraat [[Nayan Karnas]]. [[Kisa]] and [[Candrosa]] favor fortification and defense, [[Suma]] favors flight toward Tokra, and the leaders turn to the party to break the deadlock. Their questions expose the limits of every choice: [[Karawa]] can muster riders and endure a siege for a time, but Tokra is weeks away and royal aid may take months. [[Seeker]] offers to raise earthworks, but [[Candrosa]] quietly admits that he is no longer certain Shakun's power can protect the ancient temple.
+The next morning, at [[The Council|the council]] meeting, the scouts reveal their news. [[Havdar]] describes armed hyena-like raiders destroying settlements to the south and argues for an immediate counterattack, while [[Alesh]] reports a stationary storm, a black stream that smells of blood, and dangerous bands moving elsewhere along the border. She urges an appeal to Samraat [[Nayan Karnas]]. [[Kisa]] and [[Candrosa]] favor fortification and defense, [[Suma]] favors flight toward Tokra, and the leaders turn to the party to break the deadlock. Their questions expose the limits of every choice: [[Karawa]] can muster riders and endure a siege for a time, but Tokra is weeks away and royal aid may take months. [[Seeker]] offers to raise earthworks, but [[Candrosa]] quietly admits that he is no longer certain Shakun's power can protect the ancient temple.
 
 [[Seeker]] spreads his map across the table and conjures glowing, moving figures above it, representing the fleeing population, their defenders, the storm, and the bloody stream. [[Kenzo]] shapes the competing proposals into a plan centered on survival and information. After [[Delwath]] warns that a reckless attack might result in Havdar's own riders returning transformed to enemies, the war leader accepts the need for caution. [[Suma]] argues that "[[Karawa]] is its people" and urges them to protect those who can flee, though [[Candrosa]] refuses to abandon the temple and its history.
 

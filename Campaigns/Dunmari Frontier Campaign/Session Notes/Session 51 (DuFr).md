@@ -1,5 +1,7 @@
 ---
-tags: [session-note]
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [session-note, status/check/lint]
 campaign: Dunmari Frontier
 sessionNumber: 51
 realWorldDate: 2022-07-22
@@ -9,6 +11,7 @@ players: [Kenzo, Wellby, Delwath, Seeker]
 tagline: in which the party meets a mysterious elf who is not what he seems
 descTitle: The God Tree
 name: Dunmari Frontier - Session 51
+POV: 1748
 ---
 # Dunmari Frontier - Session 51
 
@@ -41,7 +44,7 @@ Generation 1
 %%
 ## Session Info
 ### Summary
-- The[[ Dunmar Fellowship]] battles a shadow hunter, rescues [[Seeker]], and uncovers the hunter's human form and dire warning about Chardon.
+- The [[Dunmar Fellowship]] battles a shadow hunter, rescues [[Seeker]], and uncovers the hunter's human form and dire warning about Chardon.
 - They arrive in [[Arendum]], gather information, and spread rumors of their journey to mislead potential followers.
 - Traveling invisibly, they reach the [[Elderwood]] where [[Kenzo]] connects with a God Tree but senses a disturbing corruption.
 - In the [[Bek'eni]] village, they meet [[Theba]], learn of [[Mezzar]]'s influence, and retrieve Theba's magical gear despite dangers.
@@ -73,16 +76,37 @@ Over the next two days, the party makes their way to [[Arendum]], arriving late 
 
 The next day, the party heads north, before turning east and south at the confluence with the [[Kayan]] river, turning invisible as they depart the [[Chasa]]. For the next two days, the party travels along the [[Kayan]], invisible, passing pastures and dairy farmers, the occasional forester, and a Chardonian patrol returning from the eave of the woods. Traveling slowly to maintain invisibility during daylight, it takes two days to get into the depths of the [[Elderwood]]. 
 
-By September 4th, the party is deep in the woods, following the [[Kayan]] river under the eaves of the giant redwoods of the forest. Around mid-morning, [[Kenzo]] begins straying from the path along the river, his staff seeming to lead him deeper into the woods. Deciding to follow, the party arrives as a massive clearing, at least 400 feet across. In the center stands a huge tree, towering over the forest itself, stretching maybe 400 feet into the sky, with a 50 foot diameter trunk. [[Kenzo]], drawn to the tree, goes into a trance, becoming one with the forest itself, feeling his perception extend and merge with the network of trees, experiencing the forest as a web of relationships between ancient entities. As [[Kenzo]] goes deeper in this trance, he touches something sour, an acidic corruption covered by a sickly sweet taste. Trying to probe deeper into the corruption, [[Kenzo]] is ejected from his trance, dazed. 
+By September 4th, the party is deep in the woods, following the [[Kayan]] river under the eaves of the giant redwoods of the forest. Around mid-morning, [[Kenzo]] begins straying from the path along the river, his staff seeming to lead him deeper into the woods. Deciding to follow, the party arrives at a massive clearing, at least 400 feet across. In the center stands a huge tree, towering over the forest itself, stretching maybe 400 feet into the sky, with a 50-foot-diameter trunk. [[Kenzo]], drawn to the tree, goes into a trance, becoming one with the forest itself, feeling his perception extend and merge with the network of trees, experiencing the forest as a web of relationships between ancient entities. As [[Kenzo]] goes deeper in this trance, he touches something sour, an acidic corruption covered by a sickly sweet taste. Trying to probe deeper into the corruption, [[Kenzo]] is ejected from his trance, dazed.
 
-Meanwhile, the rest of the party has encountered a patrol from a Deno’qai village, led by [[Zevi of the Bek'eni]], a warrior from the [[Bek'eni]] tribe. He questions why they are in the [[Bek'eni]] forest, wonders at the behavior of [[Kenzo]], and asks the party to come with his band of warriors to their village, to meet [[Mezzar]], an [[Elves]] who has been advising and aiding the [[Bek'eni]] for the past 10 years. The party agrees to go, helps [[Kenzo]] stand and walk, and heads 5 miles east with the [[Bek'eni]].
+Meanwhile, the rest of the party has encountered a patrol from a Deno’qai village, led by [[Zevi of the Bek'eni]], a warrior from the [[Bek'eni]] tribe. He questions why they are in the [[Bek'eni]] forest, wonders at the behavior of [[Kenzo]], and asks the party to come with his band of warriors to their village, to meet [[Mezzar]], an [[Elves|elf]] who has been advising and aiding the [[Bek'eni]] for the past 10 years. The party agrees to go, helps [[Kenzo]] stand and walk, and heads 5 miles east with the [[Bek'eni]].
 
-Arriving at the village, the party meets [[Zaro]], the chief of the village, and [[Itar]], the Godcaller. [[Delwath]] is treated like a lord, offered a place of honor at dinner, while the rest of the party is relegated to meager accommodations. [[Zaro]] and especially [[Itar]] talk a lot about [[Mezzar]], saying he is expected in the next couple of days and he will be eager to meet [[Delwath]]. [[Itar]] knows little about the tanshi, but is eager to talk about [[Elves|elves]] and [[Mezzar]], and dresses in an imitation of the elven style. The party learns that [[Mezzar]] is trying to deal with the corruption of the [[Te'kula]], and has been taking villagers from the [[Bek'eni]] and training them for this purpose. The party goes to sleep, a little suspicious of [[Mezzar]] but also eager to meet another [[Elves]], especially [[Delwath]]. 
+Arriving at the village, the party meets [[Zaro]], the chief of the village, and [[Itar]], the Godcaller. [[Delwath]] is treated like a lord, offered a place of honor at dinner, while the rest of the party is relegated to meager accommodations. [[Zaro]] and especially [[Itar]] talk a lot about [[Mezzar]], saying he is expected in the next couple of days and he will be eager to meet [[Delwath]]. [[Itar]] knows little about the tanshi, but is eager to talk about [[Elves|elves]] and [[Mezzar]], and dresses in an imitation of the elven style. The party learns that [[Mezzar]] is trying to deal with the corruption of the [[Te'kula]], and has been taking villagers from the [[Bek'eni]] and training them for this purpose. The party goes to sleep, a little suspicious of [[Mezzar]] but also eager to meet another [[Elves|elf]], especially [[Delwath]].
 
-The next morning, while [[Kenzo]] is discussing his experience with the God tree (having been incoherent the day before), [[Wellby]] catches a woman, apparently not well-treated by the tribe, listening in. She introduces herself as [[Theba]], the former Godcaller, ousted by [[Mezzar]]. She tries to convince the party to help her recover her magic gear, taken by [[Mezzar]] (who claimed it belonged to the tribe, not her), and then flee with her to investigate what is really going on with the [[Te'kula]] (she offers to guide the party if they help her recover her stuff). [[Theba]] tells them of another [[Elves]], [[Belegor]], who stayed for a while and then vanished after speaking with [[Mezzar]], and does not want the party to suffer that fate. 
+The next morning, while [[Kenzo]] is discussing his experience with the God tree (having been incoherent the day before), [[Wellby]] catches a woman, apparently not well-treated by the tribe, listening in. She introduces herself as [[Theba]], the former Godcaller, ousted by [[Mezzar]]. She tries to convince the party to help her recover her magic gear, taken by [[Mezzar]] (who claimed it belonged to the tribe, not her), and then flee with her to investigate what is really going on with the [[Te'kula]] (she offers to guide the party if they help her recover her stuff). [[Theba]] tells them of another [[Elves|elf]], [[Belegor]], who stayed for a while and then vanished after speaking with [[Mezzar]], and does not want the party to suffer that fate.
 
 Suspicious but not swayed, the party goes to the God tree. [[Delwath]] scries [[Belegor]] from a drawing [[Seeker]] makes based on [[Theba]]’s description, but the scry fails. [[Kenzo]] communes more with the God tree, reaching out and feeling two [[Elves|elves]] in the forest (one here, one to the south), which the party assumes are [[Mezzar]] and [[Delwath]], despite learning that [[Mezzar]] is supposed to come from the East. 
 
 After returning to the [[Bek'eni]] village, the party debates what to do. Still uncertain, they decide to at least get [[Theba]]’s gear for her. Clairvoyance reveals the layout of the house, and a basement with a small treasure pile (including [[Theba]]’s gear), plus two things that look like patrolling clouds of poisonous gas. [[Delwath]] scouts and encounters large poisonous snakes hiding in the trees, and learns the two statues by the front door are magic and probably trapped. [[Seeker]] and [[Delwath]] dimension door into the stairs to the basement, where [[Delwath]] dashes to grab [[Theba]]’s gear (taking an attack from the poison cloud), and then both [[Seeker]] and [[Delwath]] flee with teleportation magic. 
 
 That night, the party decides in the morning they will meet [[Mezzar]] by the God tree, but be ready for a fight. The next morning, the chief [[Zaro]] is reluctant to let them leave for the God tree until [[Seeker]] uses Suggestion on him. The party then proceeds to the God tree to wait for [[Mezzar]]. 
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Recorded `POV: 1748` for the dated session.
+- Corrected the spacing around the Fellowship link, the arrival at the clearing, the compound measurement, and the singular display of “elf.”
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Suggestion — campaign.noncanonical_name:** The registry recognizes “Dunmari Frontier” as an alias. Replace the campaign field with `campaign: Dunmar Frontier`.
+
+- [ ] **Suggestion — editorial.shared_material_redundant:** The “Other Generations / Generation 1” comment offers an alternate generated title and summary of events covered in the public narrative. Remove that comment if the discarded draft is no longer needed.
+
+- [ ] **Warning — editorial.prose_clarity:** The tagline says the party meets the mysterious elf, but this session ends as they wait and [[Session 52 (DuFr)]] records his arrival. Align the tagline and its header display with the session boundary. Suggested wording: “in which the party hears conflicting accounts of a mysterious elf.”
+
+- [ ] **Suggestion — editorial.prose_clarity:** The August 29 timeline reads “two yeth hounds around Kill shadow hunter.” The narrative supplies the sequence but no missing time. Suggested replacement: “Attacked by a shadow hunter and two yeth hounds. Kill the shadow hunter. Manage to sleep.”
+%%^End%%

@@ -1,6 +1,11 @@
 ---
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [meta]
 hide: [toc]
+campaign: Great Library
+name: Great Library Campaign
+POV: modern
 ---
 
 The Great Library Campaign tells the story of the adventures of the [[Silver Tempests]], set primarily in the [[Northern Provinces]] of the [[Chardonian Empire]], around the town of [[Voltara]] and its environs. 

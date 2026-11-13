@@ -1,5 +1,7 @@
 ---
-tags: [session-note]
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [session-note, status/check/lint]
 campaign: Dunmari Frontier
 sessionNumber: 75
 realWorldDate: 2023-04-10
@@ -9,6 +11,7 @@ players: [Seeker, Kenzo, Wellby, Riswynn]
 tagline: in which the party repels an ambush and heads east
 descTitle: Shadow Assault
 name: Dunmari Frontier - Session 75
+POV: 1748
 ---
 # Dunmari Frontier - Session 75
 
@@ -23,19 +26,19 @@ The [[Dunmar Fellowship]] successfully defends against shadow attackers, strateg
 ## Session Info
 ### Summary
 - The [[Dunmar Fellowship]] is attacked by shadow dogs and a shadow assassin sent by [[Fausto]], with [[Kenzo]] briefly captured.
-- [[Seeker]] transforms into a yeti to fight off attackers while [Wellby]'s precise shot kills the fleeing shadow assassin, saving [[Kenzo]].
+- [[Seeker]] transforms into a yeti to fight off attackers while [[Wellby]]'s precise shot kills the fleeing shadow assassin, saving [[Kenzo]].
 - After surviving the night, [[Seeker]] and [[Kenzo]] practice piloting the skyship [[Vindristjarna]].
 - [[Sura]] contacts the party via Sending Stone, discussing strategic moves against [[Tokra]] and the impending [[Day of Atonement]]
 - [[Riswynn]] seeks divine guidance, interpreting the advice as a need to build a strong foundation; [[Kenzo]] sends a letter to the Lakan monks via [[Delwath]]'s spirit messenger.
 - The party travels east, switching pilots to cover significant ground, and sights orc territory from the air.
 
 ### Timeline
-- (DR:: 1748-11-29), midnight: Shadow hunters attack at midnight. Defeated, but not before the shadow assassin knocked [[Kenzo]] unconscious and attempts to flee with him.
+- (DR:: 1748-11-29), midnight: Shadow hunters attack at midnight. Defeated, but not before the shadow assassin knocks [[Kenzo]] unconscious and attempts to flee with him.
 - (DR:: 1748-11-30): [[Seeker]] spends the day learning to control and fly [[Vindristjarna]], while the rest of the party prepares for the journey east.
 - (DR:: 1748-12-01): [[Kenzo]] attunes to the phasing stone and spends the day learning to control and fly [[Vindristjarna]]; speak with [[Sura]] via Sending Stone
-- (DR:: 1748-12-02): [[Riswynn]] asks the Baharazel about their chosen course of action; [[Delwath]]'s lynx spirit leaves to take letters to Lakan monks; take off flying east, with [[Kenzo]] and [[Seeker]] alternating piloting; fly 22 hours
+- (DR:: 1748-12-02): [[Riswynn]] asks the Bahrazel about their chosen course of action; [[Delwath]]'s lynx spirit leaves to take letters to Lakan monks; take off flying east, with [[Kenzo]] and [[Seeker]] alternating piloting; fly 22 hours
 - (DR:: 1748-12-03): Continue flying east, [[Kenzo]] and [[Seeker]] alternating over 22 hours
-- (DR:: 1748-12-04), dawn: See the edge of the [[Orcs|orcs]] territory from the air, maybe 40-50 miles distant, in the early morning light.
+- (DR:: 1748-12-04), dawn: See the edge of the [[Orcs|orcs]]’ territory from the air, maybe 40-50 miles distant, in the early morning light.
 
 ## Narrative
 The session begins as the party is awakened by the howls of shadow dogs, the same chalyte zombie assassins created by [[Fausto]] that chased [[Kenzo]], [[Seeker]], [[Wellby]], and [[Delwath]] down on the flight from [[Chardon]]. 
@@ -61,3 +64,19 @@ Over the next two days, the party falls into a routine. [[Seeker]] pilots the sh
 On the morning of Dec 4th, the party spies a fertile green crescent along the edge of banks of a river, cattle grazing, and orderly wheat fields watched over by a colorful guard tower on the banks of the river. We end, in the pre-dawn light, as the party considers their course of action, maybe 50 miles from the homeland of the [[Orcs|orcs]] they have come to find.
 
 ![[dufr-075-orc-lands.png|800]]
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Recorded the campaign events’ reading year as `POV: 1748`.
+- Repaired Wellby’s link, the mixed tense in the ambush timeline, the spelling of Bahrazel, and the possessive in the approach to orc territory.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Suggestion — campaign.noncanonical_name:** The registry recognizes “Dunmari Frontier” as an alias. Use `campaign: Dunmar Frontier` in frontmatter.
+- [ ] **Warning — metadata.session_header_conflict:** The header gives Tuesday, April 11 and features Delwath. Frontmatter and the registered session YAML give April 10 and list four participating PCs. Delwath acts in the narrative, but his player is absent from the registered participants. Refresh the two header lines to “On Earth: Monday Apr 10, 2023” and “Featuring: Seeker, Kenzo, Wellby, Riswynn” while preserving the character’s actions in the recap.
+%%^End%%

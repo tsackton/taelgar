@@ -1,5 +1,7 @@
 ---
-tags: [session-note]
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [session-note, status/check/lint]
 campaign: Dunmari Frontier
 sessionNumber: 52
 realWorldDate: 2022-07-23
@@ -8,8 +10,9 @@ DR_end: 1748-09-30
 players: [Kenzo, Wellby, Delwath, Seeker]
 companions: [Theba]
 tagline: in which a tyrant dragon is vanquished
-descTitle: Grimbaskal's End
+descTitle: "Grimbaskal's End"
 name: Dunmari Frontier - Session 52
+POV: 1748
 ---
 # Dunmari Frontier - Session 52
 
@@ -24,7 +27,7 @@ The [[Dunmar Fellowship]] flees from [[Mezzar]], who is revealed to be a dragon 
 
 ***Character advancement: the party reaches level 10 upon killing Grimbaskal***
 
-***The party recovers Grimbaksal's Hoard***
+***The party recovers Grimbaskal's Hoard***
 ### Summary
 - The [[Dunmar Fellowship]] sets an ambush for [[Mezzar]], who is revealed as an adult green [[Dragons|dragon]]; after a skirmish, the party flees into the [[Elderwood]].
 - After mourning the dead, they meet [[Theba]] who guides them through the forest to the [[Te'kula]] territory.
@@ -39,7 +42,7 @@ The [[Dunmar Fellowship]] flees from [[Mezzar]], who is revealed to be a dragon 
 - (DR:: 1748-09-07) - (DR_end:: 1748-09-09): Travel through the [[Elderwood]], following [[Theba]].
 - (DR:: 1748-09-10), morning: Travel through the [[Elderwood]]. 
 - (DR:: 1748-09-10), noon: Arrive at outskirts of [[Te'kula]] land. Pass through dream boundary, see visions. 
-- (DR:: 1748-09-10): Arrive in the [[Neshet|Te'kula village]]. Meet [[Yota]], chief of the [[Te'kula]], and Ayalah, Godcaller of the [[Te'kula]]. [[Kenzo]] and Ayalah talk, jades touch, experience vision of [[Rai]]. 
+- (DR:: 1748-09-10): Arrive in the [[Neshet|Te'kula village]]. Meet [[Yota]], chief of the [[Te'kula]], and Alayah, Godcaller of the [[Te'kula]]. [[Kenzo]] and Alayah talk, jades touch, experience vision of [[Rai]].
 - (DR:: 1748-09-10), evening: Dinner in the village. Meet [[Belegor]]. [[Delwath]] prays to [[Yezali|Aaviskar]]. [[Theba]] prays to the [[Tanshi]]. [[Alayah]] and [[Kenzo]] dream together overnight. 
 - (DR:: 1748-09-11): [[Theba]] proposes killing [[Mezzar|Grimbaskal]], the dragon. General agreement. War planning at the [[Neshet|Te'kula village]]. Convince Obel, an old hunter whose parents and family were killed by Grimbaskal to join. Get blessings from the [[Tanshi]].
 - (DR:: 1748-09-12): Leave the village for the dragon's lair, guided by [[Theba]] and the [[Tanshi]]. Travel through the [[Elderwood]].
@@ -68,7 +71,7 @@ The party then sets an ambush: [[Wellby]] is hiding behind a minor illusion of a
 
 After the [[Dragons|dragon]] leaves to go back to the village, the party takes the time to bury the dead, leave a letter explaining what has happened, and construct a crude stone monument with Wall of Stone, before leaving for the clearing to the south where [[Theba]] said she would meet them the following day. 
 
-[[Theba]] arrives early the next morning, after [[Delwath]] has spent the pre-dawn and early morning hours scrying, learning that the [[Bek'eni]] are out hunting for the party (presumably), and the letter they left describing what happened has been torn up. [[Theba]] leads the party quickly through the forest to the [[Te'kula]] territory, covering the 110 mile journey in a little more than 3 days, thanks to [[Theba]]’s guidance. 
+[[Theba]] arrives early the next morning, after [[Delwath]] has spent the pre-dawn and early morning hours scrying, learning that the [[Bek'eni]] are out hunting for the party (presumably), and the letter they left describing what happened has been torn up. [[Theba]] leads the party quickly through the forest to the [[Te'kula]] territory, covering the 110-mile journey in a little more than 3 days, thanks to [[Theba]]’s guidance. 
 
 On the afternoon of September 10th, the party arrives at the boundary of the [[Te'kula]] village, which has been shifting into a pocket dimension. [[Theba]] warns the party not to leave the path, which twists and turns through dense forest. Despite seeing scenes of fears (whether actually occurring or imagined) and other images, the party enters the village of the [[Te'kula]]. 
 
@@ -76,7 +79,7 @@ In the village they are greeted by [[Yota]], the chief of the village, and [[Ala
 
 After the vision, the party has dinner with the village. From [[Alayah]], they learn the story of the [[Te'kula]]. Thirty years ago, [[Jordo]] found the [[Jade Piece of Rai's Hand]] embedded in a fallen God tree, and took it, starting to have dreams of [[Rai]]. When [[Mezzar|Grimbaskal]] came asking to trade for the [[Jade Piece of Rai's Hand]], he refused, defiantly, and for his refusal the village was attacked. Many died, but in desperation [[Jordo]] called out to the tanshi, and miraculously the [[Te'kula]] were sheltered in a pocket dimension.
 
-Later, [[Delwath]] and the [[Elves]] [[Belegor]] have a chance to speak. He talks of what happened to the [[Elves|elves]]: many were killed in the battles against [[Cha'mutte]]’s lieutenants during the [[Great War]], and many of the survivors turned inward, to isolationist, hiding their settlements away in secret places, or even in the [[Feywild]]. However, many [[Elves|elves]] also vanished, and [[Belegor]] does not know exactly where they went. Some think they were pulled away to other planes, as [[Cha'mutte]] died and his attempted unraveling of the separation of the planes failed. Others think they left to fight evil across the dimensions, or they fled, teleporting whole cities to other planes. 
+Later, [[Delwath]] and the [[Elves|elf]] [[Belegor]] have a chance to speak. He talks of what happened to the [[Elves|elves]]: many were killed in the battles against [[Cha'mutte]]’s lieutenants during the [[Great War]], and many of the survivors turned inward, to isolationism, hiding their settlements away in secret places, or even in the [[Feywild]]. However, many [[Elves|elves]] also vanished, and [[Belegor]] does not know exactly where they went. Some think they were pulled away to other planes, as [[Cha'mutte]] died and his attempted unraveling of the separation of the planes failed. Others think they left to fight evil across the dimensions, or they fled, teleporting whole cities to other planes. 
 
 [[Belegor]] returned from the wars to have children, but did not want to stay hidden forever, so when his children were grown old enough to join their generation-mates he left the hidden town of their birth to wander. He found the Deno’qai, and spent some time with the [[Bek'eni]], but when he met [[Mezzar]], he was suspicious. [[Mezzar]] attempted to geas him, and when he resisted, turned to a dragon and drove him off. He found the [[Te'kula]], and has been hiding here ever since. 
 
@@ -86,16 +89,34 @@ That night, [[Kenzo]] and [[Alayah]] also [[Second Dream of Rai|dream]] together
 
 The next morning, [[Delwath]] speaks with the old woman [[Ariel]], who remembers the lost tanshi and tells him they can be found in the [[Forest of Dreams]], to the north. Then [[Theba]] approaches, telling the party she has been praying all night and decided they must fight the dragon. 
 
-War planning then commences, with [[Theba]] and the [[Tanshi]] offering blessings to help, and [[Obel]], an old ranger whose parents and brother were killed by the original attack volunteering to join as well. 
+War planning then commences, with [[Theba]] and the [[Tanshi]] offering blessings to help, and [[Obel]], an old ranger whose parents and brother were killed by the original attack, volunteering to join as well. 
 
 The next morning, on Sept 12th, the party leaves for [[Mezzar|Grimbaskal]]’s lair, traveling with the guidance of [[Obel]], [[Theba]], and the [[Tanshi]] for the next three days, arriving at the lair on September 15th. The forest is warm, almost tropical, dense and close here, the tang of saccharine sweetness in the air covering the rot, the only animals snakes that stare at the party as they pass. The lair itself is a cave underground, in the rotted out root complex of a God tree. A massive banyan tree grows around where the trunk of the God tree once was, forming a tunnel the dragon can fly out of. Shafts in the earth provide light and ventilation for the cave below. 
 
 The party prepares for the fight, and enters the lair both above and from the main entrance. Although the dragon is waiting for them, and has four snake-person minions with him, careful planning helps ensure the battle goes well for the party. A well-placed Wall of Stone traps the snake minions, and the metal anchor chain animated by [[Seeker]] manages to grapple the dragon, keeping it pinned to the ground for a few rounds, until it is also destroyed. [[Delwath]], [[Theba]], and [[Kenzo]] fly around the dragon, getting consistent solid hits despite its high Constitution making stun almost impossible to pull off, and [[Wellby]] is able to pincushion it with arrows. Finally, [[Kenzo]] manages to bring the dragon down with a massive magical punch, and it comes crashing down on its hoard. 
 
-After a breather, the party spends the next day gathering [[Mezzar|Grimbaskal]]'s treasure hoard, with many thousands of coins, plentiful gems, and beautiful objects of art and magical items. Spending three days to return to the [[Te'kula]], the party then enjoys some well deserved rest and downtime to train, while the treasure is gathered and divided up, and the bodies of the Deno’qai transformed by [[Mezzar|Grimbaskal]] are collected and given a proper burial. Messengers go out to the other tribes, and [[Theba]] organizes a diplomatic mission to break the news of [[Mezzar]]’s deception and the other corrupting influences the [[Dragons|dragon]] had on the forest. [[Kenzo]] speaks with [[Alayah]], who turns over her [[Jade Piece of Rai's Hand]] to him at the fallen God tree, where he also takes some wood to carve into figurines to give to people whose stories he collects. 
+After a breather, the party spends the next day gathering [[Mezzar|Grimbaskal]]'s treasure hoard, with many thousands of coins, plentiful gems, and beautiful objects of art and magical items. Spending three days to return to the [[Te'kula]], the party then enjoys some well-deserved rest and downtime to train, while the treasure is gathered and divided up, and the bodies of the Deno’qai transformed by [[Mezzar|Grimbaskal]] are collected and given a proper burial. Messengers go out to the other tribes, and [[Theba]] organizes a diplomatic mission to break the news of [[Mezzar]]’s deception and the other corrupting influences the [[Dragons|dragon]] had on the forest. [[Kenzo]] speaks with [[Alayah]], who turns over her [[Jade Piece of Rai's Hand]] to him at the fallen God tree, where he also takes some wood to carve into figurines to give to people whose stories he collects. 
 
 During this time, the party also looks at two items in the [[Mirror of the Past|mirror of Eudomes]], seeing the [[Mace of Terror Vision]] and the [[Hralgar's Eyes Vision]].
 
-Finally, on September 30th, the party leaves, with [[Theba]], a diplomatic mission, and the [[Elves]] [[Belegor]], to go to visit the rest of the Deno’qai tribes. As [[Kenzo]] leaves the pocket dimension with both jades, the portal allowing the [[Tanshi]] to reach the world disappears, and the [[Te'kula]] territory returns to the [[Material Plane]]. 
+Finally, on September 30th, the party leaves, with [[Theba]], a diplomatic mission, and the [[Elves|elf]] [[Belegor]], to go to visit the rest of the Deno’qai tribes. As [[Kenzo]] leaves the pocket dimension with both jades, the portal allowing the [[Tanshi]] to reach the world disappears, and the [[Te'kula]] territory returns to the [[Material Plane]]. 
 
 As the pocket dimension closes, the party is caught in the backlash. For a moment, briefly, they can see each other being pulled in different directions: [[Wellby]], to a ship approaching the jagged coastline of an island far across [[Green Sea]]; [[Delwath]], to a campfire hidden in the [[Forest of Dreams]]; [[Seeker]], to a meadow of butterflies with two satyrs frolicking across it; [[Kenzo]], to a dense, tropical forest, the wooden paths of a [[Lizardfolk]] village just visible amongst the greenery. In this moment, you realize what is happening and you all think to each other, find a way to the [[Feywild]], to the portal near [[Stormcaller Tower]], we will meet again there. And then, you are falling. 
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Recorded the session’s dated viewpoint in frontmatter.
+- Normalized frontmatter order and formatting.
+- Corrected “110 mile journey” to “110-mile journey”, “[[Elves]] [[Belegor]]” to “[[Elves|elf]] [[Belegor]]”, “to isolationist, hiding” to “to isolationism, hiding”, “well deserved rest” to “well-deserved rest”, “Grimbaksal's Hoard” to “Grimbaskal's Hoard”, “Ayalah” to “Alayah”, “brother were killed by the original attack volunteering” to “brother were killed by the original attack, volunteering”.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Suggestion — campaign.noncanonical_name:** The campaign registry recognizes “Dunmari Frontier” as an alias. Use the registered long name in this field: `campaign: Dunmar Frontier`.
+- [ ] **Warning — correctness.internal_conflict:** The Summary identifies chief [[Yota]] as a companion in the attack, but the Narrative names the old ranger [[Obel]] as the volunteer and guide. Obel’s entry and the Session 52 combat record confirm his participation. Suggested summary: “Joined by [[Theba]] and [[Obel]], the party attacks [[Mezzar|Grimbaskal]] in his lair and defeats him.”
+- [ ] **Warning — chronology.source_conflict:** The September 6–30 chronology agrees with the session YAML, but the spoken date at u3479–u3481 is August 6. Preserve both until the intended month is confirmed. Suggested note: “The written session chronology uses September. An August 6 date spoken at the table remains unreconciled.”
+%%^End%%

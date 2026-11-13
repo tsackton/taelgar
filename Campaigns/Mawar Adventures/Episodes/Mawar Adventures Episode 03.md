@@ -1,23 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - session-note
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [session-note]
 campaign: Mawar Adventures
 sessionNumber: 3
 realWorldDate: 2021-11-27
 DR: 1747-10-23
 DR_end: 1747-10-28
-players:
-  - Ryu
-  - Trok
-  - Kaleho
-  - Nerissa
-name: Mawar Adventures Episode 03
+players: [Ryu, Trok, Kaleho, Nerissa]
 descTitle: The Tomb of Yerkir-khor
 tagline: in which a missing treasure hunter leads to a hidden tomb
 sessionKey: mawar-adventures-session-3
 session-template: mawar-template.md
 websiteSessionView: zoomable
+name: Mawar Adventures Episode 03
+POV: 1747
 ---
 # Mawar Adventures Episode 03
 

@@ -1,5 +1,7 @@
 ---
-tags: [session-note]
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [session-note, status/check/lint]
 campaign: Dunmari Frontier
 sessionNumber: 73
 realWorldDate: 2023-03-17
@@ -9,6 +11,7 @@ players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
 tagline: in which the party braves the dreamworld to acquire the phasing stone
 descTitle: Dreamworld Quest
 name: Dunmari Frontier - Session 73
+POV: 1748
 ---
 # Dunmari Frontier - Session 73
 
@@ -39,13 +42,13 @@ We begin as the party finishes a short rest, warmed by [[Delwath]]'s hot drinks.
 
 *The wind blows harshly, the gusts carrying swirling bits of ice and snow, the shattered remains of the ice maiden's heart, carrying her memories of winters past.*
 
-*You see light snow blowing around a man walking alone, struggling to climb the sloping road - track, really - zigzagging up the side of the mountains towards the high pass. His horse is favoring her left side, and the man walks at her side. Although dressed in a heavy cloak and warm boots, he shivers occasionally, looking up at the mountains. The weather is not a serious threat to him, not yet, but as you begin to blow on the ice in your hand, it crackles, hissing and spattering, and the air begins to freeze. A gentle breath and a wave, and the frozen air drifts, growing and gathering into a stormcloud, then a blizzard. The traveler looks with dismay as the weather turns, the snow picking up, visibility dropping. Soon his body will be frozen on the road, and the slithering shadows below will have their fill of his last dreams of despair before his peaceful slide to a never ending sleep. 
+*You see light snow blowing around a man walking alone, struggling to climb the sloping road - track, really - zigzagging up the side of the mountains towards the high pass. His horse is favoring her left side, and the man walks at her side. Although dressed in a heavy cloak and warm boots, he shivers occasionally, looking up at the mountains. The weather is not a serious threat to him, not yet, but as you begin to blow on the ice in your hand, it crackles, hissing and spattering, and the air begins to freeze. A gentle breath and a wave, and the frozen air drifts, growing and gathering into a stormcloud, then a blizzard. The traveler looks with dismay as the weather turns, the snow picking up, visibility dropping. Soon his body will be frozen on the road, and the slithering shadows below will have their fill of his last dreams of despair before his peaceful slide to a never-ending sleep.*
 
 *Another memory, another image of a traveler, freezing in the mountains. Again, and again, the years drifting back, until the crackle of the fire shakes you awake, and you look around at your companions, glad to see living flesh and blood and not frozen corpses.*
 
 As the rest ends, [[Seeker]] has wandered off from the fire, and is enjoying a meal of the remnants of magical ice that linger where the ice maiden was destroyed. The manages to quickly get everyone oriented, however, and heads into the darkness of the library, where even the powerful daylight of the driftglobes sheds only a weak, dim light. 
 
-In the library, the party does not find the phasing stone, but does find a strange doorway that shifts appearance based on whomever looks at it. When [[Delwath]]'s moth scout enters but does not return, the party ventures into the doorway, which opens into a long hallway that seems to continue endlessly in both directions. 
+In the library, the party does not find the phasing stone, but does find a strange doorway that shifts appearance based on whoever looks at it. When [[Delwath]]'s moth scout enters but does not return, the party ventures into the doorway, which opens into a long hallway that seems to continue endlessly in both directions.
 
 ![[dufr-073-nightmare-maze-corridor.png]]
 
@@ -53,7 +56,7 @@ The corridor leads to an empty throne room, with an empty small side chamber nex
 
 [[Kenzo]] leads the group in meditation, and one by one the party clears their minds, except for [[Seeker]], who is having trouble focusing on emptiness. The throne room vanishes, the ice melts, and all that is left is an empty expanse with small pools of silver water. A clockwork cat approaches one of the pools, and begins to drink. The mechanical cat approaches [[Seeker]], and falls into a pile of gears at his touch; as the cat collapses, a wind picks up, cold with the taste of ice. A giant hand emerges from the ground, pointing in the direction of the wind.
 
-[[Seeker]], along with the heroic [[Ladder]] now sporting a dozen or more medals of honor, leaps to head in that direction, and the party follows. As the wind grows more intense, flashes of imagines can be seen, people struggling against snow and ice, freezing slowly until a round pulsating stone, the phasing stone, falls out of one of their hands. 
+[[Seeker]], along with the heroic [[Ladder]] now sporting a dozen or more medals of honor, leaps to head in that direction, and the party follows. As the wind grows more intense, flashes of images can be seen, people struggling against snow and ice, freezing slowly until a round pulsating stone, the phasing stone, falls out of one of their hands.
 
 ![[dufr-073-phasing-stone.png]]
 
@@ -61,6 +64,22 @@ The party dives through the floor into an empty space, in which the phasing ston
 
 ![[dufr-073-nightmare-empty.png]]
 
-After a few failed attempts to capture it, the party realizes that working together is the only way to outdream [[Kurome]]. [[Seeker]] dreams a storm of hail and snow pelting the stone, which bursts into flame; [[Delwath]] dreams a giant hunting bird of water, dowsing the stone, which turns to ice; [[Riswynn]] then dreams a wall of fire scorching the ice, and [[Kenzo]] adds a lightning storm with flying boulders crushing it. The stone turns to solid volcanic rock, and falls through the water bird, into [[Wellby]]'s dreaming: the [[Portable Hole]]. 
+After a few failed attempts to capture it, the party realizes that working together is the only way to outdream [[Kurome]]. [[Seeker]] dreams a storm of hail and snow pelting the stone, which bursts into flame; [[Delwath]] dreams a giant hunting bird of water, dousing the stone, which turns to ice; [[Riswynn]] then dreams a wall of fire scorching the ice, and [[Kenzo]] adds a lightning storm with flying boulders crushing it. The stone turns to solid volcanic rock, and falls through the water bird, into [[Wellby]]'s dreaming: the [[Portable Hole]].
 
 With that, the party seems to be awake in the library. Using the Dream Mirror, they realize that they are still dreaming, but quickly find their freezing bodies at the campsite, and wake themselves up. After another round of warming drinks, the party spends the last few hours of the afternoon copying notes and finding books in [[Hralgar]]'s library before returning to the crashed airship via cloud travel at dusk.
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Recorded `POV: 1748` for the session account.
+- Corrected a missing emphasis marker, compound-adjective punctuation, pronoun case, and two misspellings.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Suggestion — campaign.noncanonical_name:** The campaign field uses the registry alias Dunmari Frontier. Replace the field with `campaign: Dunmar Frontier`.
+- [ ] **Suggestion — editorial.prose_clarity:** “The manages to quickly get everyone oriented” lacks a subject. Confirm who takes the lead. If it is the party acting together, use “The party manages to quickly get everyone oriented, however, and heads into the darkness of the library.”
+%%^End%%

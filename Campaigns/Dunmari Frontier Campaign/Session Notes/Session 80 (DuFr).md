@@ -1,4 +1,6 @@
 ---
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
 campaign: Dunmari Frontier
 sessionNumber: 80
@@ -9,6 +11,7 @@ players: [Seeker, Delwath, Kenzo, Wellby]
 tagline: in which the party gathers rumors and makes connections in Tollen
 descTitle: Arrival in Tollen
 name: Dunmari Frontier - Session 80
+POV: 1748
 ---
 # Dunmari Frontier - Session 80
 
@@ -25,7 +28,7 @@ The Dunmar Fellowship arrives in [[Tollen]], seeking allies and information.
 - They encounter and survive an acidic ooze attack in the ruined city [[Isingue]].
 - Arriving in Tollen, they negotiate safe harbor and split up to pursue various interests across the city: [[Wellby]] reconnects with mapmaker [[Guy Marchand]], [[Delwath]] shops for skyship needs and gathers local rumors, [[Kenzo]] seeks out a magical tattoo.
 - They end the day at [[The Windward Sail]], learning about local figures and rumors from [[Wendel Quickstep]] and [[Nika Hyne]]
-- The party meets with the elf [[Melindir]] who advises caution with [[Caelynn]] and speaks of a a potential quest from the [[Skaer]].
+- The party meets with the elf [[Melindir]] who advises caution with [[Caelynn]] and speaks of a potential quest from the [[Skaer]].
 
 ### Timeline
 - (DR:: 1748-12-10): Leave [[Uzgukhar]], flying north on [[Vindristjarna]]
@@ -38,13 +41,13 @@ The Dunmar Fellowship arrives in [[Tollen]], seeking allies and information.
 - (DR:: 1748-12-17), morning: Speak with [[Melindir]]
 
 ## Narrative
-We begin as the party departs [[Uzgukhar]], north to find a volcano in which to destroy the [[Scepter of Command]]. Flying nearly 24 hours, the party covers more than 200 miles per day. The first three days are spend crossing the [[Plaguelands]], including a brief flyover of [[Isingue]], a ruined trading city south of [[Sembara]]. In [[Isingue]], [[Seeker]] brings the ship lower, noting that the entire ground of the city seems to be teeming with a strange black squirming mold. Which attacks, launched a black globule of acidic ooze that begins to burn through the stone of the ship, until it is burned out by [[Wellby]].
+We begin as the party departs [[Uzgukhar]], north to find a volcano in which to destroy the [[Scepter of Command]]. Flying nearly 24 hours, the party covers more than 200 miles per day. The first three days are spent crossing the [[Plaguelands]], including a brief flyover of [[Isingue]], a ruined trading city south of [[Sembara]]. In [[Isingue]], [[Seeker]] brings the ship lower, noting that the entire ground of the city seems to be teeming with a strange black squirming mold. It attacks, launching a black globule of acidic ooze that begins to burn through the stone of the ship, until it is burned out by [[Wellby]].
 
-Continuing north, the party crosses the [[Western Gulf]], hearing [[Wellby]]'s stories of his childhood on the ocean (including the tale of seeing a giant underwater dragon when he was 9). [[Kenzo]] also communes with the nature of the gulf, feeling the teaming life on the surface, and the strange dark canyon depths where giant crabs scuttle beneath the reach of sunlight.
+Continuing north, the party crosses the [[Western Gulf]], hearing [[Wellby]]'s stories of his childhood on the ocean (including the tale of seeing a giant underwater dragon when he was 9). [[Kenzo]] also communes with the nature of the gulf, feeling the teeming life on the surface, and the strange dark canyon depths where giant crabs scuttle beneath the reach of sunlight.
 
 On the morning of Dec 16th, the party reaches [[Tollen]], where they are met by a harbor launch with a dozen guards and one of the harbor masters. She welcomes them to [[Tollen]], but insists a guard be posted on the airship to keep the city safe. This negotiation done, the party heads to the busy, cold docks of [[Tollen]] in winter, where they split up.
 
-[[Wellby]] and [[Seeker]] head north, to [[Scrollwright Street]], heading for the shop of [[Guy Marchand]], a mapmaker who [[Wellby]] knew from his childhood, who sold [[Wellby]] some of his early books and maps. Guy is happy to see [[Wellby]], and they talk about his journeys and life. Guy recounts how the first time he met [[Wellby]], he tried to shoo him away, but [[Wellby]] walked up to a giant map, pointed to the further place (an island north and east of the [[Mawakel Peninsula]]), and asked "What's there?" Guy also tells [[Wellby]] he is happy to introduce him to a university student he knows, [[Sarah de Gray]], a fellow Isinguer. Guy also shows [[Wellby]] a fragment of a map recovered from some abandoned fort north up the [[Volta]], that shows the elevations of a section of the central mountain chain. 
+[[Wellby]] and [[Seeker]] head north, to [[Scrollwright Street]], heading for the shop of [[Guy Marchand]], a mapmaker who [[Wellby]] knew from his childhood, who sold [[Wellby]] some of his early books and maps. Guy is happy to see [[Wellby]], and they talk about his journeys and life. Guy recounts how the first time he met [[Wellby]], he tried to shoo him away, but [[Wellby]] walked up to a giant map, pointed to the furthest place (an island north and east of the [[Mawakel Peninsula]]), and asked "What's there?" Guy also tells [[Wellby]] he is happy to introduce him to a university student he knows, [[Sarah de Gray]], a fellow Isinguer. Guy also shows [[Wellby]] a fragment of a map recovered from some abandoned fort north up the [[Volta]], that shows the elevations of a section of the central mountain chain.
 
 While [[Wellby]] and [[Seeker]] speak with Guy, [[Delwath]] wanders through the markets of the [[Bridgeward]] district, looking for furniture makers, blacksmiths, carpenters, and other artisans to outfit the skyship, buying some kitchen supplies and basic furniture, and getting quotes for larger construction projects. [[Delwath]] also collects rumors and news, hearing especially about [[Melindir]], an elf from [[Orenlas]], and [[Caelynn]] the Seer, a [[Fey]] woman variously claimed to be 4000 years old, or the last in a long line of [[Caelynn]] the Seers, who accumulates many conflicting stories and rumors.
 
@@ -56,6 +59,6 @@ Despite not making a plan to meet up, the party manages to meet together at [[Th
 
 The next morning, the party heads to speak with [[Melindir]], the elf, right after breakfast. On the walk, [[Delwath]] talks about his feelings meeting an elf and feeling like he has missed so much of his generation; he is slightly cheered by the thought that perhaps there is another elf somewhere trapped in another shadow realm, who he might still find companionship with. 
 
-[[Melindir]] lives in the nice part of town, [[Gold Street]], near many guild headquarters, the new Temple to [[The Warlord]] being constructed by the shipwright's guild where [[Guildgate]] and [[Godshome]] meet. From [[Melindir]], the party learns a little more about [[Orenlas]], and makes plans to visit there, finding an old elf who might remember [[Apollyon|Apollyon]]. [[Melindir]] also tells them that the Skaer have been looking for adventurers, to help deal with some curse, and tells them to be cautious around Caerlynn. 
+[[Melindir]] lives in the nice part of town, [[Gold Street]], near many guild headquarters, the new Temple to [[The Warlord]] being constructed by the shipwright's guild where [[Guildgate]] and [[Godshome]] meet. From [[Melindir]], the party learns a little more about [[Orenlas]], and makes plans to visit there, finding an old elf who might remember [[Apollyon|Apollyon]]. [[Melindir]] also tells them that the Skaer have been looking for adventurers, to help deal with some curse, and tells them to be cautious around Caelynn.
 
 The session ends with the party leaving [[Melindir]]'s apartments, heading to the [[Temple of Kaikkea]]. 

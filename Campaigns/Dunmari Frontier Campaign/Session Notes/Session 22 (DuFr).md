@@ -1,4 +1,6 @@
 ---
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
 campaign: Dunmari Frontier
 sessionNumber: 22
@@ -9,6 +11,7 @@ players: [Kenzo, Wellby, Delwath, Seeker]
 tagline: in which the party fights manticores and orcs who lurk in the Monastery of Bhishma
 descTitle: Monastery Battles
 name: Dunmari Frontier - Session 22
+POV: 1748
 ---
 # Dunmari Frontier - Session 22
 
@@ -21,7 +24,7 @@ name: Dunmari Frontier - Session 22
 The [[Dunmar Fellowship]] defeats manticores and orcs at the [[Monastery of Bhishma]] and uncovers the secrets of the [[Order of the Awakened Soul]].
 ## Session Info
 
-***Character advancement: Kenzo dies for the first time, journeying to the [[Land of the Dead]], where he encounters Bhishma and becomes an initiate into the [[Order of the Awakened Soul]]. 
+***Character advancement: Kenzo dies for the first time, journeying to the [[Land of the Dead]], where he encounters Bhishma and becomes an initiate into the [[Order of the Awakened Soul]].***
 ### Summary
 - The [[Dunmar Fellowship]] rests then scouts the [[Monastery of Bhishma]], discussing past events and connections to the [[Order of the Awakened Soul]].
 - They decide to explore during the day; [[Wellby]], as a hawk, hears manticores and orcs nearby.
@@ -40,9 +43,9 @@ We begin around noon at camp, about 5 miles south of the [[Monastery of Bhishma]
 
 After some discussion of the past, the party turns to [[Wellby]]’s scouting report and map. They decide that during the heat of the day, while everything is quiet, may be a better time to explore than dusk, and so head for the monastery. Making a small camp and leaving horses and gear at the foot of the cliffs, the party heads around the bend in the river to approach the monastery from the west. 
 
-As the party scouts the monastery, passing through the gardens and slopes leading down the river, [[Wellby]], scouting ahead, hears the sounds of evil childlike laughter and what might be a sleeping lion’s soft growling coming from a large one story building ahead. Deciding to scout invisibly, [[Delwath]] goes through the kitchens, and [[Kenzo]] and [[Wellby]] look through the crumbling wall. In the large common room and dining area of the monastery, two large creatures -- with the body of lions, leathery wings, and humanoid faces -- are sleeping, while smaller young are taunting each other. 
+As the party scouts the monastery, passing through the gardens and slopes leading down the river, [[Wellby]], scouting ahead, hears the sounds of evil childlike laughter and what might be a sleeping lion’s soft growling coming from a large one-story building ahead. Deciding to scout invisibly, [[Delwath]] goes through the kitchens, and [[Kenzo]] and [[Wellby]] look through the crumbling wall. In the large common room and dining area of the monastery, two large creatures -- with the bodies of lions, leathery wings, and humanoid faces -- are sleeping, while smaller young are taunting each other. 
 
-After some debate, the party decides they cannot let the manticores live, as they will be a threat to [[Baxter]] and the horses if they wake up and go hunting. They concoct a plan to drop a [[Dwarven Driftglobe|Driftglobe]] while invisible to lure the little ones away, then surprise the parents. Although they start with some bad luck, the combination of [[Seeker]]’s metal heat heating and searing one of the manticores, and a well placed, if very loud, shatter spell makes relatively quick work of the beasts. While they don’t have any treasure to speak of, the bones and refuse in their lair does contain some relatively fresh gnoll skeletons. 
+After some debate, the party decides they cannot let the manticores live, as they will be a threat to [[Baxter]] and the horses if they wake up and go hunting. They concoct a plan to drop a [[Dwarven Driftglobe|Driftglobe]] while invisible to lure the little ones away, then surprise the parents. Although they start with some bad luck, the combination of [[Seeker]]’s metal heat heating and searing one of the manticores, and a well placed, if very loud, shatter spell makes relatively quick work of the beasts. While they don’t have any treasure to speak of, the bones and refuse in their lair do contain some relatively fresh gnoll skeletons. 
 
 The very loud sounds of the battle draw the attention of an [[Orcs|orc]] patrol, who had been resting in the nearby bathhouse, out of the sun. [[Seeker]] enlarges [[Kenzo]], and between the giant monk and [[Delwath]]’s usual skill with the sword, the [[Orcs]] are dispatched without much danger. As the last surviving [[Orcs|orc]] turns to flee, a well-placed suggestion from [[Seeker]] compels him to surrender and talk to save his life. 
 
@@ -50,4 +53,4 @@ From the [[Orcs|orc]] captive, the party learns that the only other creatures in
 
 Returning to the dining hall that was the manticore’s lair, the party examines the large door in the far wall, painted with images of [[Bhishma]] and the words, “Let those who would enter my presence and accept my grace kneel before me and offer their prayers.” As [[Kenzo]] kneels and prays, the door swings open, revealing an antechamber of sorts, undisturbed by [[Orcs]] or beasts but worn down by time. A wardrobe holds rotting robes, and a chest contains holy water. The room reminds [[Kenzo]] of the preparation for initiation into the [[Lakan Mystai]], with the robes and holy water especially. 
 
-Proceeding through another small room into a long corridor, the lights go out and all is dark for a moment, until, down the hallway, a scene on the wall is illuminated, a large group of people, carrying all their worldly possessions, pulling carts and livestock, fleeing from some tangled mass of darkness. You can feel the wind in your hair, and remember the feeling, the ache of leaving home and having to flee to new lands. Sensing a choice as to whether to continue down this path into the mysteries of [[Bhishma]], or turn back, [[Seeker]] and [[Kenzo]] choose to continue and experience the [[Order of the Awakened Soul Initiation|ritual of initiation to Bhishma's myseries]], while [[Wellby]] and [[Delwath]] turn back to the entry room to wait.
+Proceeding through another small room into a long corridor, the lights go out and all is dark for a moment, until, down the hallway, a scene on the wall is illuminated, a large group of people, carrying all their worldly possessions, pulling carts and livestock, fleeing from some tangled mass of darkness. You can feel the wind in your hair, and remember the feeling, the ache of leaving home and having to flee to new lands. Sensing a choice as to whether to continue down this path into the mysteries of [[Bhishma]], or turn back, [[Seeker]] and [[Kenzo]] choose to continue and experience the [[Order of the Awakened Soul Initiation|ritual of initiation to Bhishma's mysteries]], while [[Wellby]] and [[Delwath]] turn back to the entry room to wait.

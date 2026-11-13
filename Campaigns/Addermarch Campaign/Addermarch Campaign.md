@@ -1,13 +1,18 @@
 ---
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [meta]
 hide: [toc]
+campaign: Addermarch
+name: Addermarch Campaign
+POV: 1715
 ---
 
 The Addermarch Campaign tells the story of [[Drou]], [[Fazoth de Brune|Fazoth]], and [[Yvan Greenrabbit|Yvan]], for now known as the [[Addermarch Mercenaries]], three adventurers blown together by chance. They met on the road to [[Roscombe]], a village in [[Addermarch]], all seeking to join the service of [[Caradoc]], a mysterious alchemist and recluse. 
 
 The game begins in the 2nd year of the reign of [[Robert I]] of [[Sembara]], recorded as the year 1715 after the founding of Drankor (1715 DR) by scholars, at a time of uncertainty in the [[Western Green Sea]]. Less than two years ago, Queen [[Cece I]] of [[Sembara]] and [[Tyrwingha]], ally to [[Addermarch]], and victor against the [[Hobgoblins|hobgoblins]] in the [[Third Hobgoblin War (Sembara)|Third Hobgoblin War]], died. With her, seemingly, 65 years of peace and prosperity also died, for since [[Robert I]] took the throne, [[Sembara]] has been beset by troubles. 
 
-In [[Addermarch]], thought, the worries of distant kings and queens often seem remote, and it is the late snows and cold spring that are on the minds of  farmers, hoping for a good apple crop this year. 
+In [[Addermarch]], though, the worries of distant kings and queens often seem remote, and it is the late snows and cold spring that are on the minds of farmers, hoping for a good apple crop this year.
 ## Chapters
 
 The story of the eventful journey to [[Roscombe]], uncovering the mystery of [[Torvaine Watch]], is told in:

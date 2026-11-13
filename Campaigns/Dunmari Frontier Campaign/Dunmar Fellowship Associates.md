@@ -1,5 +1,10 @@
 ---
-tags: [meta]
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [meta, status/check/lint]
+campaign: Dunmar Frontier
+name: Dunmar Fellowship Associates
+POV: 1749
 ---
 
 # Associates of the Dunmar Fellowship
@@ -8,7 +13,7 @@ The [[Dunmar Fellowship]] has many followers, associates, companions, and friend
 
 ## Vindristjarna Crew
 
-The rotating cast of character that serve as the crew of Vindristjarna. 
+The rotating cast of characters that serve as the crew of Vindristjarna.
 
 <div class="grid cards" markdown>
 
@@ -73,7 +78,7 @@ Although most of the hirelings, crew, and followers associated with the [[Dunmar
 
     ---
     ![[aygul-small.png|120]]
-     An orc from [[Uzgukhar]], twin sister of [[Nuzkar]], a brawler and fighter and a bit of loner, with no family but her sister. Currently traveling with [[Riswynn]] on her quest to free more orcs from [[Thark]]. 
+     An orc from [[Uzgukhar]], twin sister of [[Nuzkar]], a brawler and fighter and a bit of a loner, with no family but her sister. Currently traveling with [[Riswynn]] on her quest to free more orcs from [[Thark]].
      
 -   [[Adam Gower]]
 
@@ -111,14 +116,14 @@ People who have traveled with the [[Dunmar Fellowship]] in various contexts.
 
 - ![[vola.png|left|120]][[Vola]], a Chardonian adventurer rescued from [[Raven's Hold]]. She traveled with the party until parting ways outside [[Stormcaller Tower]]; later, she was mind controlled by [[The Cleansed]] using the [[Crown of Purity]], forced to fight the party, and captured in the [[Mirror of Soul Trapping]]. She was freed when [[Riswynn]] claimed the [[Crown of Purity]] and is currently on [[Vindristjarna]]. 
 - ![[havdar.jpg|left|120]][[Havdar]] and his [[Havdar's Warband|warband]] travelled with the [[Dunmar Fellowship]] for a time in the [[Garamjala Desert]], while investigating rumors of orcs and other strange happenings. 
-- ![[cintra.jpg|left|120]][[Cintra]], the Supreme Oracle of [[Shakun]], was rescued from[[Agata|Agata Dustmother]]'s trap at [[Shakun’s Wellspring]] by the [[Dunmar Fellowship]], and traveled with the party back to [[Karawa]]. 
+- ![[cintra.jpg|left|120]][[Cintra]], the Supreme Oracle of [[Shakun]], was rescued from [[Agata|Agata Dustmother]]'s trap at [[Shakun’s Wellspring]] by the [[Dunmar Fellowship]], and traveled with the party back to [[Karawa]].
 - ![[jumi.jpg|left|120]][[Jumi]], the young daughter of [[Cintra]], was freed from [[Agata]]'s curse by [[Seeker]] and traveled with the party back to [[Karawa]]. 
 - ![[garret-tealeaf.jpg|left|120]][[Garret Tealeaf]] was rescued by the [[Dunmar Fellowship]] from [[Agata|Agata Dustmother]], who had imprisoned him as a puppet. He traveled with the party from [[Karawa]] to [[Tokra]]. 
 - ![[johar.jpg|left|120]][[Johar]], a Dunmari member of the [[Lakan Mystai]] and a friend of [[Kenzo]]'s from his days at the [[Lakan Monastery]], traveled with the party from [[Tokra]] to [[Darba]] on orders from [[Lara]] to negotiate with [[Nayan Karnas|Karnas]]. 
 - ![[justan.jpg|left|120]][[Justan]], a Dunmari bandit hiding in the [[Copper Hills]], was convinced by [[Delwath]] to join the party and fight a dragon (which turned out to be a wyvern); he was killed by [[Casian]] soon after.
 - ![[theba.jpg|left|120]][[Theba]] is a [[Deno'qai]] paladin; the [[Dunmar Fellowship]] helped her escape from her village, which had fallen under the sway of [[Mezzar]]. Later, she joined with the party to help them defeat [[Mezzar|Grimbaskal]].
-- ![[tilly-brineheart.jpg|left|120]][[Tilly Brineheart]], a halfling sailor and adventurer and wife of [[Milo Thistlefoot]], was rescued from imprisonment on the [[Elemental Plane of Water]] by the [[Dunmar Fellowship]]. She traveled with the party to the [[Circular Island]] and helped defeat [[Ra'ghemdros]] before setting of to explore. 
-- ![[milo-thistlefoot.jpg|left|120]][[Milo Thistlefoot]], a halfling sailor and adventurer and husband of [[Tilly Brineheart]], was rescued from imprisonment on the [[Elemental Plane of Water]] by the [[Dunmar Fellowship]]. He traveled with the party to the [[Circular Island]] and helped defeat [[Ra'ghemdros]] before setting of to explore. 
+- ![[tilly-brineheart.jpg|left|120]][[Tilly Brineheart]], a halfling sailor and adventurer and wife of [[Milo Thistlefoot]], was rescued from imprisonment on the [[Elemental Plane of Water]] by the [[Dunmar Fellowship]]. She traveled with the party to the [[Circular Island]] and helped defeat [[Ra'ghemdros]] before setting off to explore.
+- ![[milo-thistlefoot.jpg|left|120]][[Milo Thistlefoot]], a halfling sailor and adventurer and husband of [[Tilly Brineheart]], was rescued from imprisonment on the [[Elemental Plane of Water]] by the [[Dunmar Fellowship]]. He traveled with the party to the [[Circular Island]] and helped defeat [[Ra'ghemdros]] before setting off to explore.
  - ![[ismara.jpg|left|120]][[Ismara]], a fey traveler and scholar from [[Gleamwater]], joined the party for a short time in [[Emberwine]], guiding them east to the [[Sunset Gate]] before parting ways.
  - ![[valeris.jpg|left|120]][[Valeris]], a satyr musician and gambler, part of the court of [[Lord Soven]], cursed to always speak the blunt, honest truth, joined the party in their quest to free [[Cloudspinner]] in the hopes that a selfless act could release him from his curse.
 
@@ -145,3 +150,19 @@ These people have been released and are recovering on [[Vindristjarna]], or sent
  - ![[vargus.png|left|120]][[Vargus]], a warrior ensnared by the machinations of [[Fausto]], and the twin brother of [[Valius]], was released by the [[Dunmar Fellowship]] outside [[Tokra]] to make a new life with his brother. 
 
 </div>
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Recorded the DR 1749 viewpoint.
+- Added the canonical campaign and made the existing filename-based display name explicit.
+- Corrected the plural in the crew introduction, the missing article in Aygul’s entry, the spacing before Agata’s link, and “setting off” in the two sailors’ entries.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Warning — coverage.later_material_change:** The released-captives heading includes Hektor, but his entry still places him in the mirror. [[Session 129 (DuFr)]] dates his joining the crew to August 1, 1749 and Vola’s departure for Apporia to August 2. Choose whether to update the roster, defer with `status/gameupdate/dufr`, or date it explicitly as an earlier snapshot and separate Hektor from those already released. For an update, move Hektor’s card to the crew and replace the two current-location claims with “After [[Wellby]] helped him recover his memories, Hektor joined the crew of [[Vindristjarna]].” and “After her release, Vola left [[Chardon]] for [[Apporia]].” [[Session 130 (DuFr)]] also adds a captive to the roster: “[[Szoltar|Szoltár]], an Iron Fang rider captured in the Plaguelands, shares [[Revaka]]’s cell.”
+%%^End%%

@@ -1,5 +1,7 @@
 ---
-tags: [session-note]
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [session-note, status/check/lint]
 campaign: Dunmari Frontier
 sessionNumber: 47
 realWorldDate: 2022-05-26
@@ -10,6 +12,7 @@ companions: [Emerald Song, Oswalt Tealeaf, Jasmine Sunmeadow]
 tagline: in which the party sails northward
 descTitle: Voyage to Chardon
 name: Dunmari Frontier - Session 47
+POV: 1748
 ---
 # Dunmari Frontier - Session 47
 
@@ -58,12 +61,28 @@ Lyle's chart:
 
 ![[dufr-047-halfling-chart.png|500]]
 
-The next days pass quietly in the routine of the ship. While a few vessels are spotted – Chardonians and other traders – none come close or threaten to board. After a few days sailing, the [[Emerald Song]] approaches the [[Old Chardon Canal]] that connects the [[Nevos Sea]] to the [[Endless Ocean]] to the north, and cuts many weeks off the sailing time between [[Dunmar]] and [[Chardon]]. Originally built by the Drankorians, it is now managed and run by the [[Chardonian Empire]]. 
+The next days pass quietly in the routine of the ship. While a few vessels are spotted – Chardonians and other traders – none come close or threaten to board. After a few days’ sailing, the [[Emerald Song]] approaches the [[Old Chardon Canal]] that connects the [[Nevos Sea]] to the [[Endless Ocean]] to the north, and cuts many weeks off the sailing time between [[Dunmar]] and [[Chardon]]. Originally built by the Drankorians, it is now managed and run by the [[Chardonian Empire]]. 
 
 Before arriving, [[Riswynn]] magically constructs a small lead box, for [[Wellby]] to store the [[Portable Hole]] in. Everyone but [[Wellby]] climbs into the mirror; [[Wellby]] then stores it in the [[Portable Hole]], which he keeps in the lead box. So only [[Wellby]] sees the scenes of the next day, the journey through the canal.
 
-Before dawn, [[Wellby]] is awakened by an unnatural wind in the sails, and sees on deck an individual wearing sky blue robes with a deep hood shadowing their face. This person has constructed a circle of some powder, and is sitting in the middle of it chanting. As they chant, the powder in the circle floats to the sky and fills the sails. The morning passes this way, watching the landscape flow past, until the ship enters a deep canyon, completely smooth sided, and eventually passes into an open lake that seems to be filling a bowl of stone. Here, the person is the sky blue robes leaves, and another takes their place. With the light of midday, [[Wellby]] catches a brief glimpse of their eyes, which have no iris and are just a sky blue color. By the time the ship exits the canal, it is full dark, the stars emerging. 
+Before dawn, [[Wellby]] is awakened by an unnatural wind in the sails, and sees on deck an individual wearing sky blue robes with a deep hood shadowing their face. This person has constructed a circle of some powder, and is sitting in the middle of it chanting. As they chant, the powder in the circle floats to the sky and fills the sails. The morning passes this way, watching the landscape flow past, until the ship enters a deep canyon, completely smooth sided, and eventually passes into an open lake that seems to be filling a bowl of stone. Here, the person in the sky blue robes leaves, and another takes their place. With the light of midday, [[Wellby]] catches a brief glimpse of their eyes, which have no iris and are just a sky blue color. By the time the ship exits the canal, it is full dark, the stars emerging. 
 
-During the next few days sail to [[Chardon]], [[Riswynn]] sends another message to [[Marcella]]. She says, “I’m trapped in a cave. [[Kadmos]] thinks its [[Kobolds]], but I don’t know how long the deception can last. He thinks I was captured.” 
+During the next few days’ sail to [[Chardon]], [[Riswynn]] sends another message to [[Marcella]]. She says, “I’m trapped in a cave. [[Kadmos]] thinks it’s [[Kobolds]], but I don’t know how long the deception can last. He thinks I was captured.” 
 
 As the [[Emerald Song]] pulls into the [[Chardon]] docks in the midafternoon, on the 13th day after departing [[Darba]], the session ends. 
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Recorded the session’s dated viewpoint in frontmatter.
+- Corrected “After a few days sailing” to “After a few days’ sailing”, “the person is the sky blue robes” to “the person in the sky blue robes”, “the next few days sail” to “the next few days’ sail”, “[[Kadmos]] thinks its” to “[[Kadmos]] thinks it’s”.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Suggestion — campaign.noncanonical_name:** The campaign registry recognizes “Dunmari Frontier” as an alias. Use the registered long name in this field: `campaign: Dunmar Frontier`.
+- [ ] **Warning — chronology.source_conflict:** The timeline places the Illoria passage on August 14. The voyage begins August 9 and the Session 47 transcript places the sighting on the morning of sailing day five, which gives August 13 counting departure as day one. Verify the day count before adopting “August 13, morning: Sight Illoria off the starboard bow.”
+%%^End%%

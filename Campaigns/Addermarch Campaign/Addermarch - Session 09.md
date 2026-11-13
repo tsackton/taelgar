@@ -1,14 +1,17 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
 campaign: Addermarch
 sessionNumber: 9
 realWorldDate: 2025-01-19
 DR: 1715-05-13
 players: [Yvan Greenrabbit, Drou, Fazoth de Brune]
-name: Addermarch Campaign - Session 9
 tagline: in which the party aids Zibzig Sparkscale
 descTitle: An Unexpected Meeting Underground
+name: Addermarch Campaign - Session 9
+POV: 1715
 ---
 # Addermarch Campaign - Session 9
 
@@ -22,8 +25,8 @@ The party explores dangerous caverns, retrieves [[uligium]], meets [[Zibzig Spar
 
 ## Timeline
 
-- **(DR:: 1715-05-13), mid-afternoon:** Leaving the ooze chamber, the party enters a rubble-strewn cavern; the floor collapses under [[Yvan Greenrabbit|Yvan]], revealing a mushroom-lit farm below. After scouting the party slides down the flowstone to a large oblong cave. A crawl-tunnel high in the wall leads to a poison-filled nook rich in **[[uligium]]**.
-- **(DR:: 1715-05-13), late afternoon:** While wandering through twisting passages, [[Yvan Greenrabbit|Yvan]]’s mapwork proving unreliable, a booming voice claims the domain of the “Master of Light and Shadow.” Parley reveals **[[Zibzig Sparkscale]]**, a kobold inventor.
+- **(DR:: 1715-05-13), mid-afternoon:** Leaving the ooze chamber, the party enters a rubble-strewn cavern; the floor collapses under [[Yvan Greenrabbit|Yvan]], revealing a mushroom-lit farm below. After scouting, the party slides down the flowstone to a large oblong cave. A crawl-tunnel high in the wall leads to a poison-filled nook rich in **[[uligium]]**.
+- **(DR:: 1715-05-13), late afternoon:** As the party wanders through twisting passages, [[Yvan Greenrabbit|Yvan]]’s mapwork proving unreliable, a booming voice claims the domain of the “Master of Light and Shadow.” Parley reveals **[[Zibzig Sparkscale]]**, a kobold inventor.
 - **(DR:: 1715-05-13), evening:** Agreeing to help [[Zibzig Sparkscale]] defeat the monster blocking the river, the party fights a huge cave-fisher crab. Dodging its sticky filament, they slay the monster quickly. They spend the night in Zibzig’s cozy, gadget-filled two-room lair, resting for further exploration.
 
 ## Cast of Characters
@@ -51,4 +54,4 @@ After returning to the party, the group continues exploring, shortly finding the
 
 Leaving the main cavern, the party gets slightly lost due to [[Yvan Greenrabbit|Yvan]]'s poor attempt at a map. They find themselves in a cavern, from which a booming voice yells, asking who dares disturb the home of the Master of Light and Shadow! The voice argues briefly, and the party talks, eventually convincing the owner of the voice, a [[Kobolds|kobold]] named [[Zibzig Sparkscale]] who describes himself as a brilliant inventor working to create novel magic, to reveal himself. 
 
-From Zibzig, the party learns that there is a predator -- a giant cave fisher, a crab-like creature -- hanging over the river, preventing Zibzig from traveling the underground river in his boat. The party agrees to destroy the predator for Zibzig. A fight ensues, but the party is able to relatively easily dodge the dangling snare of the cave fisher, and dispatches it quickly. We end as the battle wraps up and the party spends the night with Zibzig in his cozy two-room furnished lair. 
+From Zibzig, the party learns that there is a predator -- a giant cave fisher, a crab-like creature -- hanging over the river, preventing Zibzig from traveling the underground river in his boat. The party agrees to destroy the predator for Zibzig. A fight ensues, but the party is able to relatively easily dodge the dangling snare of the cave fisher, and dispatches it quickly. We end as the battle wraps up and the party spends the night with Zibzig in his cozy two-room furnished lair.

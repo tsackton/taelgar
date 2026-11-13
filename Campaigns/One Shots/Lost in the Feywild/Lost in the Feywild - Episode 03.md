@@ -1,18 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [session-note, status/check/lint]
 campaign: Lost in the Feywild
 sessionNumber: 3
 realWorldDate: 2026-06-02
 DR: 1740-10-05
 DR_end: 1740-10-05
 players: [Kaito Min, Edric, Tarek, Ayveen, Txarro]
-name: "Lost in the Feywild: Episode 03"
-descTitle: "Mr. Blue Sky"
-tagline: "in which the party follows the numbers"
+descTitle: Mr. Blue Sky
+tagline: in which the party follows the numbers
 sessionKey: lost-in-the-feywild-session-3
 session-template: feywild-template.md
 websiteSessionView: zoomable
+name: "Lost in the Feywild: Episode 03"
+POV: 1740
 ---
 # Lost in the Feywild: Episode 03
 
@@ -43,7 +46,7 @@ The party reconstructs the working theory for Kaito. When the clock strikes zero
 
 The party crosses the ballroom to [[Lord Endless Ending]], an elegant fey lord attended by an anxious [[Endless Ending's Butler|badger butler]]. Kaito reads the butler's surface thoughts and finds a servant almost overwhelmed by work needed to clean up the household disorder: broken glass, wine stains, interrupted duties, and the frustration of waiting beside his Lord when there is cleaning to do.
 
-The badger presents the group and asks what gifts they have brought. [[Txarro]] offers the haunting sound of a loon from the mortal world, [[Edric]] gives a vial of holy water blessed by [[The Night Queen|the Night Queen]], Kaito turns his entrance into a showy musical performance, [[Tarek]] makes a mouse skull vanish as a fragment of death, and [[Ayveen]] presents her decorated moonrise composition. [[Lord Endless Ending]] answers the each gift with couplets of poetry and welcomes the mortals into his home.
+The badger presents the group and asks what gifts they have brought. [[Txarro]] offers the haunting sound of a loon from the mortal world, [[Edric]] gives a vial of holy water blessed by [[The Night Queen|the Night Queen]], Kaito turns his entrance into a showy musical performance, [[Tarek]] makes a mouse skull vanish as a fragment of death, and [[Ayveen]] presents her decorated moonrise composition. [[Lord Endless Ending]] answers each gift with couplets of poetry and welcomes the mortals into his home.
 
 [[Txarro]] tells [[Lord Endless Ending]] that the party came through a door that closed behind them and does not know how to leave. The Lord says there is a way home through his nearest neighbor's house to the north -- the same direction as the woman who just left. He explains that a mortal wizard tricked him into an agreement he did not intend: he must send mortal guests through that house whenever the magical clock brought by the wizard and her entourage (of whom one still remains) strikes zero. Through various portents, he has learned that the bargain can be undone if a glass key from the lock of the cold-iron door to the [[27th House|27th Room]] is brought back to him and broken. Kaito warns him about the bodies on the road, but he answers that his responsibility ends at the gate.
 
@@ -57,15 +60,15 @@ In the library, the party finds the sleeping scholar later known as [[Menestheus
 
 Still looking for any other way out, [[Txarro]] dives into the river beside the manor and swims only to find himself reappearing near where he began.
 
-When the clock strikes zero again, the party waits near the gate and discovers that [[Menestheus]] is the next mortal sent. He hails them in a language only [[Ayveen]] can understand through magic and  when she answers in Old Tollish, he recognizes Northros, touches a translation ring, and begins speaking with them directly.
+When the clock strikes zero again, the party waits near the gate and discovers that [[Menestheus]] is the next mortal sent. He hails them in a language only [[Ayveen]] can understand through magic and when she answers in Old Tollish, he recognizes Northros, touches a translation ring, and begins speaking with them directly.
 
-He says he is from Drankor, came from the [[27th House]] with two or three dozen members of his order, the [[Arithrimos Lamperum]], but having a drank at the party, fell asleep, and woke just now to find everyone gone.
+He says he is from Drankor, came from the [[27th House]] with two or three dozen members of his order, the [[Arithrimos Lamperum]], but having a drink at the party, fell asleep, and woke just now to find everyone gone.
 
-The party's questions force [[Menestheus]] to confront that he is centuries out of time. Drankor has fallen, its language is no longer spoken, and Thalestria's warnings about the empire's end may have been right. He explains that for centuries the [[Arithrimos Lamperum]] his society closed or repaired the holes between worlds -- between the world, the Feywild, dream, and other realms -- that could not safely stay open. In the waning days of empire, having has presentiment of what was to come, the wizard [[Thalestria]], his master and the head of the order, redirected them toward permanently sealing those breaches which were still open.
+The party's questions force [[Menestheus]] to confront that he is centuries out of time. Drankor has fallen, its language is no longer spoken, and Thalestria's warnings about the empire's end may have been right. He explains that for centuries the [[Arithrimos Lamperum]], his society, closed or repaired the holes between worlds -- between the world, the Feywild, dream, and other realms -- that could not safely stay open. In the waning days of empire, having had a presentiment of what was to come, the wizard [[Thalestria]], his master and the head of the order, redirected them toward permanently sealing those breaches which were still open.
 
 [[Menestheus]] explains he is a mathematician and geographer. His work is as a kind of map-reader: four six-digit [[Brilliant Numbers|brilliant numbers]] together serve as encoded location keys: with the right factors memorized, they can hide maps of weak points between planes in plain sight. [[Tarek]] secretly slips the lifted book back into his satchel while [[Menestheus]] talks.
 
-With [[Menestheus]], the party presses onward to the [[27th House]] whose entry is a simple door in doorframe at the end of a narrow promontory above cliffs that fall into utter darkness below them. As they stand before it, [[Lord Endless Ending]] speaks from the manor, a sonnet which either entreats the party to a future path or describes a past path already taken by the party to bring back the key and set him free.
+With [[Menestheus]], the party presses onward to the [[27th House]] whose entry is a simple door in a doorframe at the end of a narrow promontory above cliffs that fall into utter darkness below them. As they stand before it, [[Lord Endless Ending]] speaks from the manor, a sonnet which either entreats the party to a future path or describes a past path already taken by the party to bring back the key and set him free.
 
 	Shadow walks beside you in the gloaming,
 	whisp’ring a name that you forgot to fear.
@@ -105,5 +108,21 @@ With [[Menestheus]], the party presses onward to the [[27th House]] whose entry 
 
 - The [[Twilight Kingdom]]: Feywild realm of fixed twilight, many houses, strange roads, and unstable boundaries.
 - [[27th House]] (manor in the [[Twilight Kingdom]], the [[Feywild]]): neighbor's house associated with the wizard, the [[27th House|27th room]], the glass key, and the possible way home.
-- [[Lord Endless Ending's Manor]] (fey manor in the [[Twilight Kingdom]], the [[Feywild]]): A fey manor caught in the ending of a party, where [[Lord Endless Ending]] receives guests and sends mortals away when the clock strikes zero. Session context includes: ballroom, porch, bar room, library, gate, and and river beside the grounds.
+- [[Lord Endless Ending's Manor]] (fey manor in the [[Twilight Kingdom]], the [[Feywild]]): A fey manor caught in the ending of a party, where [[Lord Endless Ending]] receives guests and sends mortals away when the clock strikes zero. Session context includes: ballroom, porch, bar room, library, gate, and river beside the grounds.
 - The Lone Door: A single isolated door on a promontory north and west of [[Lord Endless Ending's Manor|Lord Endless Ending's manor]], apparently leading toward the [[27th House|27th house]]. Session context includes: [[North Road|north road]], westward footpath, cliff-ringed promontory, and lone doorframe.
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Recorded the session viewpoint as `POV: 1740`.
+- Normalized frontmatter order.
+- Corrected “answers the each gift” to “answers each gift”, “magic and  when” to “magic and when”, “having a drank” to “having a drink”, “the [[Arithrimos Lamperum]] his society closed” to “the [[Arithrimos Lamperum]], his society, closed”, “having has presentiment” to “having had a presentiment”, “door in doorframe” to “door in a doorframe”, “gate, and and river” to “gate, and river”.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Suggestion — editorial.prose_clarity:** The cast lists they/them for [[Lord Endless Ending]], as does the biographical note, while the narrative refers to the lord as he/him. Review the narrative references to the lord, including “the bargain can be undone if a glass key … is brought back to him and broken,” for a possible change to “brought back to them and broken.” Preserve the wording of attributed speech and the sonnet.
+%%^End%%

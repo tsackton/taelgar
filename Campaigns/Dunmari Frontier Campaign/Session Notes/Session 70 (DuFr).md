@@ -1,14 +1,17 @@
 ---
-tags: [session-note]
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [session-note, status/check/lint]
 campaign: Dunmari Frontier
 sessionNumber: 70
 realWorldDate: 2023-02-02
 DR: 1748-11-23
 DR_end: 1748-11-23
 players: [Seeker, Delwath, Wellby, Riswynn]
-tagline: in which the party confronts Hralgar's dream
-descTitle: Storm's Echo
+tagline: "in which the party confronts Hralgar's dream"
+descTitle: "Storm's Echo"
 name: Dunmari Frontier - Session 70
+POV: 1748
 ---
 # Dunmari Frontier - Session 70
 
@@ -34,7 +37,7 @@ The [[Dunmar Fellowship]] follows a possessed [[Kenzo]] into the storm around [[
 - (DR:: 1748-11-23), late afternoon: Enter the storm around [[Stormcaller Tower]], chasing a possessed [[Kenzo]]. Dodge animated storm elementals protecting the approach. Reach [[Hralgar]]'s dreamscape, bring [[Hralgar]] back to himself with stories. 
 
 ## Narrative
-We begin as the party stands outside the swirling storm around [[Stormcaller Tower]], listening to the news the winds bring, while deciding what to do as [[Kenzo]] mediates and communes with the storm, trying to learn more of it. Suddenly, [[Kenzo]] is possessed, his eyes flashing lightning, and he begins to walk into the storm. Having to act quickly, [[Riswynn]] and [[Wellby]] get the animals settled while [[Delwath]] and [[Seeker]] get [[Hralgar's Eyes]] from the [[Portable Hole]], hoping to convince Hraglar-as-[[Kenzo]] to make the storm safe. To no avail, for [[Kenzo]] says that the weather is wonderful and charges ahead. Forced to chase, the party plunges into the storm. Enduring intense lightning strikes and thunderous wind that makes conversation impossible, the party  pushes through the storm, following [[Kenzo]]. 
+We begin as the party stands outside the swirling storm around [[Stormcaller Tower]], listening to the news the winds bring, while deciding what to do as [[Kenzo]] meditates and communes with the storm, trying to learn more of it. Suddenly, [[Kenzo]] is possessed, his eyes flashing lightning, and he begins to walk into the storm. Having to act quickly, [[Riswynn]] and [[Wellby]] get the animals settled while [[Delwath]] and [[Seeker]] get [[Hralgar's Eyes]] from the [[Portable Hole]], hoping to convince Hralgar-as-[[Kenzo]] to make the storm safe. To no avail, for [[Kenzo]] says that the weather is wonderful and charges ahead. Forced to chase, the party plunges into the storm. Enduring intense lightning strikes and thunderous wind that makes conversation impossible, the party pushes through the storm, following [[Kenzo]].
 
 ![[dufr-070-hralgar-storm-nov-1748-2.png]]
 
@@ -44,7 +47,7 @@ As [[Kenzo]] picks up the pace, and lightning strikes [[Riswynn]], the party fin
 
 Attempting to follow, [[Delwath]] uses the magic of the tanshi to clear some of the fog, revealing storm elementals hiding in wait. Deciding to get past them quickly, the party launches into the air, between [[Wellby]]'s wings and [[Delwath]]'s spells, and briefly harasses the elementals to keep them occupied as the party hurries past in the air. 
 
-Arriving at the tower, the party flies up to the fourth floor, where the statue of Hraglar sits. The storm seems to echo inside the tower, lightning illuminating the walls
+Arriving at the tower, the party flies up to the fourth floor, where the statue of Hralgar sits. The storm seems to echo inside the tower, lightning illuminating the walls.
 
 ![[dufr-070-stormcaller-tower-interior.png]]
 
@@ -54,7 +57,7 @@ Settling in the palace, the party proceeds to tell stories, trying to lead [[Hra
 
 ![[dufr-070-hralgar-mountain-palace.png]]
 
-Pausing in thought he turns to [[Wellby]] as he begins to speak who tells a story of a wizard who trapped a prince, building a prison for him that the prince would forget was a prison. The story resonants, but not how [[Wellby]] intended. [[Hralgar]] hears only his own shame and anger in this tale, telling [[Wellby]] that doom is coming, and there are fates worse than dreaming. 
+Pausing in thought he turns to [[Wellby]] as he begins to speak who tells a story of a wizard who trapped a prince, building a prison for him that the prince would forget was a prison. The story resonates, but not how [[Wellby]] intended. [[Hralgar]] hears only his own shame and anger in this tale, telling [[Wellby]] that doom is coming, and there are fates worse than dreaming.
 
 [[Seeker]] then tells the tale of the Heroes of the [[Great War]], how they found a flying castle, had many adventures, and eventually defeated [[Cha'mutte]]. [[Hralgar]] focuses on [[Seeker]] for the first time, sensing something about him, speaking of a phasing stone, the ancient core that powers skyships, and which apparently was the crystallized magic that crashed into the Crystal Mountain in the [[Feywild]] and eventually became [[Seeker]]'s gauntlet. He tells [[Seeker]] if anyone should carry it, it should be a [[Dwarves|dwarf]], and then speaks of the crashed skyship on the plains.
 
@@ -65,3 +68,20 @@ With [[Riswynn]]'s story, and [[Delwath]] commenting on how similar each day was
 And then [[Kenzo]] opens his eyes, confused, shaken from the possession by [[Hralgar]]'s lucidity, a [[Kenzo's Memories of Hraglar|blur of memories]] coming back to him in a rush, recalling the words of the binding spell that ensnared [[Hralgar]] and how to break it, by reciting the first lines of A Lament for Lost Thunder, an elvish poem by [[Nelawe]]. 
 
 As the party rushes down the stairs, they emerge by the statue and attempt to find a way to return the eyes while reciting the poem, but the sounds of thrashing from above quickly make it clear this is the wrong approach. We end as the party rushes back up the stairs, to the sight of the haunted, ghostly version of [[Hralgar]] attempting to strangle the giant in the [[Dreamworld]]. 
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Recorded the DR 1748 viewpoint.
+- Normalized frontmatter field order and formatting.
+- Corrected the spelling of Hralgar in the narrative, “meditates,” “resonates,” a doubled space and a missing sentence-ending period.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Suggestion — campaign.noncanonical_name:** The campaign field uses the registered alias `Dunmari Frontier`. Adopt the canonical field `campaign: Dunmar Frontier`.
+- [ ] **Suggestion — editorial.prose_clarity:** “Pausing in thought he turns to Wellby as he begins to speak who tells a story” obscures the transition between speakers. The preceding paragraph follows Hralgar’s reaction, and the following sentence attributes the story to Wellby. Candidate: “[[Hralgar]] pauses in thought and turns to [[Wellby]], who tells a story of a wizard who trapped a prince, building a prison for him that the prince would forget was a prison.”
+%%^End%%

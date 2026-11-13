@@ -1,23 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - session-note
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [session-note]
 campaign: Labyrinths of the Lost
 sessionNumber: 2
 realWorldDate: 2023-11-25
 DR: 1748-10-17
 DR_end: 1748-10-18
-players:
-  - Acescale
-  - Gaudin
-  - Loria
-  - Dilion
+players: [Acescale, Gaudin, Loria, Dilion]
 companions: []
-name: Labyrinths of the Lost - Session 2
 descTitle: Into the Manor
 tagline: in which a sneaky path leads to ghostly clues
 sessionKey: labyrinths-of-the-lost-session-2
 session-template: lablost-template.md
+name: Labyrinths of the Lost - Session 2
+POV: 1748
 ---
 # Labyrinths of the Lost - Session 2
 
@@ -65,4 +63,4 @@ After the short rest, the party finds the mechanism that opens the archive's sec
 
 Avoiding the courtyard, the search shifts from the basilisk to the nearby private chambers, where the party finds a great hall full of lifelike statues, a study with broken mirror glass and older headless statues, and a bedroom haunted by a sailor ghost. Deciding to explore a little, they search the other rooms, finding a sheaf of papers (apparently pirate maps from a generation ago), and a silver locket with a faded painting, inscribed to "[[Jacopo Marcelli|J.M.]], with love, P. Keep safe and come back." There is also a packet of love letters, apparently from whoever "P." is, suggesting that [[Jacopo Marcelli|J. M.]] and P. were perhaps both pirates. 
 
-Feeling this must be a clue, the party goes to talk to the ghost again. Initially, this does not go well, and he is angry with [[Gaudin]]. However, in a moment of panic or inspiration, [[Gaudin]] uses disguise self to make himself look like P, the woman in the locket, and claims that the white-faced man, presumably [[Grimstone]], is trying to hurt her. This finally breaks through to the ghost, who is clearly [[Jacopo Marcelli|J. M.]], who died without knowing the fate of [[Petrona]] (P.), and was promised news and rest by [[Grimstone]]. Now, convinced [[Grimstone]] has been lying, the pirate ghost says he will guard no more, and reveals that [[Grimstone's Lair|Grimstone's lair]] is below this bedroom, in the old pirate hideout under the manor. His last words as he fades away are that  that [[Grimstone]] is crazy, constantly ranting about the immortality of stone.
+Feeling this must be a clue, the party goes to talk to the ghost again. Initially, this does not go well, and he is angry with [[Gaudin]]. However, in a moment of panic or inspiration, [[Gaudin]] uses disguise self to make himself look like P, the woman in the locket, and claims that the white-faced man, presumably [[Grimstone]], is trying to hurt her. This finally breaks through to the ghost, who is clearly [[Jacopo Marcelli|J. M.]], who died without knowing the fate of [[Petrona]] (P.), and was promised news and rest by [[Grimstone]]. Now, convinced [[Grimstone]] has been lying, the pirate ghost says he will guard no more, and reveals that [[Grimstone's Lair|Grimstone's lair]] is below this bedroom, in the old pirate hideout under the manor. His last words as he fades away are that [[Grimstone]] is crazy, constantly ranting about the immortality of stone.

@@ -1,4 +1,6 @@
 ---
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
 campaign: Dunmari Frontier
 sessionNumber: 96
@@ -6,9 +8,10 @@ realWorldDate: 2024-04-14
 DR: 1749-05-03
 DR_end: 1749-05-03
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
-name: Dunmari Frontier - Session 96
 tagline: in which the party confronts dark forces
 descTitle: Shadowkeep Infiltration
+name: Dunmari Frontier - Session 96
+POV: 1749
 ---
 # Dunmari Frontier - Session 96
 
@@ -43,7 +46,7 @@ Using his clairvoyance spell, [[Seeker]] scouted inside the mausoleum adjacent t
 
 To create a diversion, the party decided to unleash a venom troll they had previously captured. This troll, released from a [[Mirror of Soul Trapping]], would hopefully provide the necessary distraction for them to infiltrate the castle. While [[Wellby]] approached the halfling’s body, discovering it was a victim of vampires, he encountered [[Putrid Agnes]], a fey hag emerging from the corpse. She offered information on [[Rhodar von Glauer]]'s coffin in exchange for a favor, which Wellby declined.
 
-[[Seeker]], using a potion to assume gaseous form, ventured into the castle undetected. He navigated through dangerous halls, dodging an acid attack and finding a treasure room, before stumbling upon a dark ritual involving a vampire, wights, and a [[Rodnya Kinzal ]]mage. However, he had to retreat as vampire spawn sensed his presence.
+[[Seeker]], using a potion to assume gaseous form, ventured into the castle undetected. He navigated through dangerous halls, dodging an acid attack and finding a treasure room, before stumbling upon a dark ritual involving a vampire, wights, and a [[Rodnya Kinzal]] mage. However, he had to retreat as vampire spawn sensed his presence.
 
 Amidst this chaos, [[Seeker]] released the venom troll, stirring a fierce battle within [[Shadowkeep]]. The party took this opportunity to press further into the castle, aiming to disrupt the ritual and confront [[Rhodar von Glauer]]. Their efforts in the ensuing fight were strategic and effective; they managed to interrupt the infernal ritual, trapping the Kinzal mage in the [[Mirror of Soul Trapping]] and ending the chant that would have sealed an infernal pact between the vampires and [[Ursk]].
 
@@ -73,7 +76,7 @@ Thus, the session concluded with the party poised for a direct encounter with th
 - The hag, Putrid Agnes, offers to make a deal, to tell Wellby the location of [[Rhodar von Glauer]]'s coffin; in exchange, Wellby will retrieve her beet necklace from the [[Voknaz Manor]]. Wellby refuses, although not before learning that the coffin can be accessed from [[Shadowkeep]]. 
 - Seeker, in invisible cloud form, enters the hall of ichor, and is attacked by an acid hand, but it cannot grapple him given his gaseous state.
 - Seeker slips under the door at the end of the hall, and finds a treasure room, where a strange black mist floats over piles of coins.
-- Departing, and dealing with acid hand again, Seeker exits the hall of ichor and passes in front of the main door, which swings wide open. 
+- Departing, and dealing with the acid hand again, Seeker exits the hall of ichor and passes in front of the main door, which swings wide open.
 - Seeker enters, and passes through the antechamber to slip under the door to the westernmost (back) tower. 
 - In this tower, a ritual is being conducted. A vampire and three wights are chanting, a burning pentagram is etched on the floor, and as they chant, words swirl around a [[Rodnya Kinzal]] mage, while shades watch from the pews. 
 - Seeker retreats, heading back to the antechamber, where vampire spawn are gathering, having sensed his presence somehow even though they cannot precisely locate him. 
@@ -88,4 +91,4 @@ Thus, the session concluded with the party poised for a direct encounter with th
 - While the party searches the room, Delwath is interrupted by sending from Lyra. "What in the nine hells is going on? In our brief meeting I didn't sense Pandemonium madness in you. But now you're a terrorist?” Delwath replies: "Lies spread by Fausto, who serves a lich - Apollyon. He has been corrupting people with chalyte. We disturbed his plans. He has been hunting us."
 - While investigating the organ, Seeker is frightened by a cursed angelic face weeping blood. Kenzo investigates, but finds nothing beyond the face. 
 - Wellby finds a secret door, leading to a dark tunnel, underneath a floor tile in the center of the room. 
-- The party follows this dark tunnel, arriving at secret underground chamber, in magical darkness. The session ends as Rhoder von Glauer appears, saying, "Fine, I'll deal with you myself."
+- The party follows this dark tunnel, arriving at a secret underground chamber, in magical darkness. The session ends as Rhodar von Glauer appears, saying, "Fine, I'll deal with you myself."

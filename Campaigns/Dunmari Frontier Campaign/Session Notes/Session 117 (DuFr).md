@@ -1,4 +1,6 @@
 ---
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
 campaign: Dunmari Frontier
 sessionNumber: 117
@@ -6,9 +8,10 @@ realWorldDate: 2025-01-02
 DR: 1749-05-24
 DR_end: 1749-05-30
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
-name: Dunmari Frontier - Session 117
 tagline: in which the party defeats Apollyon
 descTitle: The Last Emperor
+name: Dunmari Frontier - Session 117
+POV: 1749
 ---
 # Dunmari Frontier - Session 117
 
@@ -49,7 +52,7 @@ The group pries open the concealed staircase, descending into the undercrypt. Th
 
 The party’s descent leads them to a chamber illuminated by greenish _Continual Flame_ torches. Carved iconography of worshippers in reverence lines the walls, and an open corridor reveals sarcophagi in the next area. The chalyte knight, taking lead again, is momentarily dominated by magic, begins chanting in Drankorian and kneeling in praise to Apollyon before breaking free as spectral undead rise from the sarcophagi to attack. The party charges into the room, risking the traps to take on the undead spirits. 
 
-[[Riswynn]], resting the effects of Apollyon's trap, raises her holy symbol of the [[Bahrazel]] and incinerates the majority of the undead, leaving about fifteen for the others to dispatch. [[Delwath]] briefly succumbs to the magical compulsion to worship Apollyon, but quickly shakes the effect, and with [[Kenzo]] clears additional enemies with powerful strikes and spells, while [[Wellby]] provides precise support with his bow. After the battle, they find remnants of cremated remains in the sarcophagi and discover another staircase leading deeper underground.
+[[Riswynn]], resisting the effects of Apollyon's trap, raises her holy symbol of the [[Bahrazel]] and incinerates the majority of the undead, leaving about fifteen for the others to dispatch. [[Delwath]] briefly succumbs to the magical compulsion to worship Apollyon, but quickly shakes the effect, and with [[Kenzo]] clears additional enemies with powerful strikes and spells, while [[Wellby]] provides precise support with his bow. After the battle, they find remnants of cremated remains in the sarcophagi and discover another staircase leading deeper underground.
 
 Descending further, the group enters a small chamber with a side corridor leading to a larger room containing chained columns and a sarcophagus. Despite some debate, they decide to leave the side chamber unexplored for now, pressing onward to pursue Apollyon. Descending to the bottom level of the undertemple, the party finds a twisting, single-file passage lined with obsidian flooring that glows with a sickly green light. The party proceeds cautiously, the atmosphere growing heavier with each step.
 
@@ -61,7 +64,7 @@ The final battle begins. Kenzo charges, activating Lengua’s claw and unleashin
 
 Seeker counters with a powerful _Erupting Earth_, creating difficult terrain and dealing significant damage, though [[Apollyon]] twists the magic to unleash necrotic backlash. The animated [[ladder]] grabs the glowing orb from the bone table, attempting to smash it, but its magical integrity holds. [[Apollyon]] commands [[Delwath]] to die, but Delwath’s _Death Ward_ activates, protecting him and unleashing radiant light from the [[Bahrazel]], which temporarily unsettles Apollyon.
 
-Spectral guardians emerge from the rune-covered pillars, forming a defensive barrier around [[Apollyon]] and absorbing incoming attacks. Riswynn summons a radiant cylinder of light, dealing heavy damage to Apollyon while healing allies. [[Kenzo]] and [[Delwath]] exploits openings in Apollyon’s defenses, landing critical hits that visibly weaken him. [[Seeker]] uses _Catapult_ to hurl the glowing orb at Apollyon, further disrupting his composure.
+Spectral guardians emerge from the rune-covered pillars, forming a defensive barrier around [[Apollyon]] and absorbing incoming attacks. Riswynn summons a radiant cylinder of light, dealing heavy damage to Apollyon while healing allies. [[Kenzo]] and [[Delwath]] exploit openings in Apollyon’s defenses, landing critical hits that visibly weaken him. [[Seeker]] uses _Catapult_ to hurl the glowing orb at Apollyon, further disrupting his composure.
 
 ---
 
@@ -104,7 +107,7 @@ The session ends on the evening of May 30th, the final fate of the crown, and th
 ### The Sarcophagus Room
 - The party descends into a 20x30-foot chamber lit by greenish *Continual Flame* torches along the walls, which are lined with carved iconography depicting worshippers kneeling in reverence.
 - At the far end of the room, an open corridor reveals the tops of sarcophagi visible in the next area.
-- The chalyte knight steps forward and, momentarily dominated by magic, begins  kneeling and chanting in Drankorian before breaking free of the influence.
+- The chalyte knight steps forward and, momentarily dominated by magic, begins kneeling and chanting in Drankorian before breaking free of the influence.
 - As the party advances, spectral undead spirits rise from the sarcophagi, initiating combat.
 - Riswynn’s *Turn Undead* incinerates approximately two dozen minions, leaving about 15 remaining.
 - Delwath and Kenzo work together to clear additional minions, while Wellby provides precision support with his bow.
@@ -124,12 +127,12 @@ The session ends on the evening of May 30th, the final fate of the crown, and th
 ### Apollyon’s Inner Sanctum
 - At the end of the twisting corridor, the party steps into a large chamber with 15-foot vaulted ceilings.
 - The room is illuminated by an eerie green light emanating from the walls and four rune-covered pillars, each inscribed with glowing greenish symbols.
-- At the far end, Apollyon sits on a throne; opposite him is a a table made of bones bearing a glowing green crystal orb.
+- At the far end, Apollyon sits on a throne; opposite him is a table made of bones bearing a glowing green crystal orb.
 - Apollyon greets the party with mockery: "I've been waiting. Are you ready to surrender for the glory of Apollyon?"
 
 
 ### The Final Battle Begins
-- The party attacks. Kenzo activate Lengua's claw and attacks first, dealing a series of strikes but struggling against Apollyon’s shimmering force armor.
+- The party attacks. Kenzo activates Lengua's claw and attacks first, dealing a series of strikes but struggling against Apollyon’s shimmering force armor.
 - Riswynn and Delwath prepare their spells and defensive measures while Seeker positions the construct strategically.
 - Apollyon teleports across the room, avoiding Kenzo’s melee reach.
 - He unleashes necrotic energy bolts targeting multiple party members, but several save successfully, minimizing the damage.
@@ -151,7 +154,7 @@ The session ends on the evening of May 30th, the final fate of the crown, and th
 - Apollyon’s teleportation keeps him elusive, but the party manages to corner him.
 - Delwath channels divine energy of the tanshi into a critical smite, dealing massive damage to Apollyon in a single blow.
 - Apollyon begins to visibly weaken, cracks forming on his body as his energy dissipates.
-- In retaliation, Apollyon unleashing a wave of necrotic tendrils, that knock Seeker unconscious and nearly do the same to Riswynn. Apollyon commands the ladder to strike the unconscious Seeker, moving him closer to death.
+- In retaliation, Apollyon unleashes a wave of necrotic tendrils that knock Seeker unconscious and nearly do the same to Riswynn. Apollyon commands the ladder to strike the unconscious Seeker, moving him closer to death.
 - Kenzo delivers a series of unarmed strikes, weakening Apollyon significantly.
 - Delwath lands the killing blow, a blast of eldritch force guided by celestial spirits. Apollyon’s body disintegrates into moonlight, and the remaining pillars collapse.
 
@@ -170,7 +173,7 @@ The session ends on the evening of May 30th, the final fate of the crown, and th
 
 
 ### The Crown’s Legacy and Dilemmas
--  On Vindristjarna, the group greats their crew and discusses the implications of their victory over Apollyon, focusing on what to do with the crown.
+-  On Vindristjarna, the group greets their crew and discusses the implications of their victory over Apollyon, focusing on what to do with the crown.
 - Deliberation begins on whether the crown should be destroyed, hidden, or wielded to enact good.
 - The crown, removed from the [[Portable Hole]], has transformed from its previous state into a fine silver tiara adorned with dwarvish runes, seven points symbolizing the [[Bahrazel]], and gemstone motifs of hammers and forges.
 - The party uses a magical mirror to delve into the crown’s history and purpose, seeing the [[Crown of Purity Vision]]
@@ -182,4 +185,3 @@ The session ends on the evening of May 30th, the final fate of the crown, and th
 	- **Riswynn** considers acting as the crown’s steward, using it temporarily to address immediate crises before ensuring its ultimate safety.
 - The party decides to delay a final decision, acknowledging the weight of their choice and the potential consequences.
 - Riswynn continues to hold the crown, while the group prepares to explore future paths and consult allies for guidance.
-

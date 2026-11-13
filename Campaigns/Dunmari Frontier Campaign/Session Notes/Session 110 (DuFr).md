@@ -1,5 +1,7 @@
 ---
-tags: [session-note]
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [session-note, status/check/lint]
 campaign: Dunmari Frontier
 sessionNumber: 110
 realWorldDate: 2024-09-28
@@ -7,9 +9,10 @@ DR: 1749-05-19
 DR_end: 1749-05-21
 players: [Seeker, Delwath, Kenzo, Wellby]
 companions: [Tilly Brineheart, Milo Thistlefoot]
-name: Dunmari Frontier - Session 110
 tagline: in which the party frees a prisoner and defeats a dragon
-descTitle: Ra'ghemdros' Fall
+descTitle: "Ra'ghemdros' Fall"
+name: Dunmari Frontier - Session 110
+POV: 1749
 ---
 # Dunmari Frontier - Session 110
 
@@ -83,7 +86,7 @@ Within the shadowy chamber, they found a suspended crystal containing the enigma
 
 The party gathered at Dimitar's tower, weary but resolute, knowing the upcoming confrontation with [[Ra'ghemdros]] would test their strength and unity like never before. As they rested, they shared a [[The Last Jade Vision|vision]]—a vision of [[Rai]], the ancient battle with Apollyon, and the eerie bindings that still held sway over the realm.
 
-With the alarm spell triggered, the party scrambled to confront a pair of [[Dragonets]], learning that they were sent to keep search for the party and report back. Letting them go, the party worked to prepare for the inevitable fight. Seeker repaired the damaged lighthouse crystal, preparing to use it as a beacon in the battle to come. [[Tilly Brineheart]] and [[Milo Thistlefoot]] -- having been warned by the party to flee the dragon -- instead arrived to help in the battle, reporting that Ra'ghemdros and her forces were approaching—chimeras and [[Dragonets]] advancing rapidly.
+With the alarm spell triggered, the party scrambled to confront a pair of [[Dragonets]], learning that they were sent to search for the party and report back. Letting them go, the party worked to prepare for the inevitable fight. Seeker repaired the damaged lighthouse crystal, preparing to use it as a beacon in the battle to come. [[Tilly Brineheart]] and [[Milo Thistlefoot]] -- having been warned by the party to flee the dragon -- instead arrived to help in the battle, reporting that Ra'ghemdros and her forces were approaching—chimeras and [[Dragonets]] advancing rapidly.
 
 The battle with the dragon's minions was fierce, a relentless storm of claws and elemental power. Seeker's Rune of Psychic Disruption and Tilly's Ice Storm weakened their enemies, while [[Kenzo]], enlarged by magic, waited to engage directly. Together, the party fought valiantly, gradually thinning their foes, but the real test awaited them.
 
@@ -235,7 +238,7 @@ The party decides to climb up to the tower to investigate and prepare the lighth
 - They discover that the crystal at the center of the lighthouse is damaged, with two facets broken and one misaligned.
 - Seeker manages to use Mending on the misaligned piece, and uses Performance of Creation to replace missing crystal chunks.
 - The lighthouse is partially repaired, but the light will only reach a few hundred feet, perhaps a little more, perhaps a little less. The light is intended to give them early warning of the dragon's approach.
-- The party strategizes, deciding to use the light to get a few moment's notice before Ra'ghemdros is within striking distance, allowing them to cast spells and prepare defenses.
+- The party strategizes, deciding to use the light to get a few moments’ notice before Ra'ghemdros is within striking distance, allowing them to cast spells and prepare defenses.
 - They discuss their tactics, including splitting into a hiding group and an attacking group, with Seeker, Wellby, and Milo staying in cover while Delwath and Kenzo prepare for direct confrontation.
 - The party distributes potions and gear, including a Potion of Heroism for Kenzo, who will act as the primary attacker against Ra'ghemdros.
 
@@ -309,3 +312,22 @@ The party engages in an intense and chaotic battle with Ra'ghemdros, an ancient 
 - party stuffs as much treasure as can fit in the portable hole and then departs, sailing through the storm with milo and tilly to vindristjarna
 - milo and tilly take folding boat and sail off (journeying first back to Apporia to collect the rest of their crew, and then south again to explore)
 - party returns to vindristjarna where Risywnn is waiting, and prepares to face Apollyon
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added `POV: 1749` for the contemporary session account.
+- Normalized frontmatter field order.
+- Corrected “sent to keep search for the party” to “sent to search for the party”, “a few moment's notice” to “a few moments’ notice”.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Suggestion — campaign.noncanonical_name:** “Dunmari Frontier” is a recognized alias. Use the long name in [[Campaign Registry]] for this field: `campaign: Dunmar Frontier`.
+- [ ] **Warning — correctness.internal_conflict:** The header starts on May 19, but the timeline and Raw Notes both begin after the long rest on May 20. Confirm whether May 19 includes play in this session. If the session starts after the rest, use `DR: 1749-05-20` and update the displayed start date.
+- [ ] **Suggestion — editorial.prose_clarity:** The narrative and detailed summary repeatedly call the dragonet “Dimitar,” while the timeline, hoard heading, raw notes and [[Dimitaur]] use “Dimitaur.” Use “Dimitaur” for the dragonet in those sections. The detailed summary also names “Gashen and Megan” where the timeline introduces [[Ghesh]] and [[Megren]]. Confirm the message recipients before substituting “Ghesh and Megren.”
+- [ ] **Warning — correctness.internal_conflict:** The hoard summary calls Dimitaur “leader of Fakar,” while the Raw Notes call him “new emperor of hkar.” Confirm the place meant here. The title attested in the narrative is “Protector of the Forever Sunset.”
+%%^End%%

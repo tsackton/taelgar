@@ -1,5 +1,7 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
 campaign: Labyrinths of the Lost
 sessionNumber: 3
@@ -7,11 +9,12 @@ realWorldDate: 2023-12-10
 DR: 1748-10-18
 DR_end: 1748-10-19
 players: [Acescale, Gaudin, Loria, Dilion]
-name: Labyrinths of the Lost - Session 3
-descTitle: Grimstone's Last Experiment
+descTitle: "Grimstone's Last Experiment"
 tagline: in which the party defeats Grimstone and escapes the manor
 sessionKey: labyrinths-of-the-lost-session-3
 session-template: lablost-template.md
+name: Labyrinths of the Lost - Session 3
+POV: 1748
 ---
 # Labyrinths of the Lost - Session 3
 

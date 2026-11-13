@@ -1,14 +1,17 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
 campaign: Addermarch
 sessionNumber: 8
 realWorldDate: 2025-01-05
 DR: 1715-05-13
 players: [Yvan Greenrabbit, Drou, Fazoth de Brune]
-name: Addermarch Campaign - Session 8
 tagline: in which the party battles skeletons and oozes
 descTitle: Entering the Caverns
+name: Addermarch Campaign - Session 8
+POV: 1715
 ---
 # Addermarch Campaign - Session 8
 
@@ -23,7 +26,7 @@ The adventurers face battles with a skeleton and gray oozes, uncovering ancient 
 ## Timeline
 
 - **(DR:: 1715-05-13), late morning:** Deep beneath the hills the party enters a vast cavern; a giant skeleton animates and is shattered by [[Drou]]’s flurry of blows and [[Fazoth de Brune|Fazoth]]’s finishing eldritch blast, though the loose arm momentarily terrifies [[Yvan Greenrabbit|Yvan]]. [[Fazoth de Brune|Fazoth]]’s pseudodragon scouts the depths and is killed by a [[Dragons|dragon]] in the deeps. The heroes locate their first vein of [[uligium]] and pause for lunch.
-- **(DR:: 1715-05-13), early afternoon**: The party survives a piercer ambush, then push into a damp chamber rich in [[uligium]] where two gray oozes attack and are killed, but not before [[Drou]] is knocked unconscious (and subsequently revived with a healing potion). 
+- **(DR:: 1715-05-13), early afternoon**: The party survives a piercer ambush, then pushes into a damp chamber rich in [[uligium]] where two gray oozes attack and are killed, but not before [[Drou]] is knocked unconscious (and subsequently revived with a healing potion).
 
 ## Cast of Characters
 
@@ -47,4 +50,4 @@ Searching the area, the party finds several passageways leading from this cavern
 
 After lunch, the party follows the southeast exit from the main cavern. Reaching another pit -- shallower this time -- they cross, with [[Fazoth de Brune|Fazoth]] demonstrating his misty step. On the far side, piercers drop from the ceiling. While [[Drou]] is hit, [[Fazoth de Brune|Fazoth]] manages to dodge, and [[Yvan Greenrabbit|Yvan]] trips at just the right time leaving the piercer to land helplessly on the ground behind him. Continuing to explore, the party finds another small passage leading to a chamber with wet rocks and more [[uligium]]. 
 
-The wet rocks turn out to be gray oozes. [[Yvan Greenrabbit|Yvan]] fires a chromatic orb, which bounces from ooze to ooze but the cold does not seem to damage them very much. However, the magic of the spell does make the oozes vulnerable to piercing damage, prompting [[Drou]] to move in with her daggers, making several devastating attacks, as the daggers slowly corrode in the acid of the oozes. [[Fazoth de Brune|Fazoth]]'s pseudodragon contributes with its claws. [[Drou]] falls victim to the acid attacks, but is revived by [[Yvan Greenrabbit|Yvan]]'s potion, and manage to finish off the oozes with her daggers nearly disintegrated. We end the session as the battle concludes. 
+The wet rocks turn out to be gray oozes. [[Yvan Greenrabbit|Yvan]] fires a chromatic orb, which bounces from ooze to ooze but the cold does not seem to damage them very much. However, the magic of the spell does make the oozes vulnerable to piercing damage, prompting [[Drou]] to move in with her daggers, making several devastating attacks, as the daggers slowly corrode in the acid of the oozes. [[Fazoth de Brune|Fazoth]]'s pseudodragon contributes with its claws. [[Drou]] falls victim to the acid attacks, but is revived by [[Yvan Greenrabbit|Yvan]]'s potion, and manages to finish off the oozes with her daggers nearly disintegrated. We end the session as the battle concludes.

@@ -1,4 +1,6 @@
 ---
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
 campaign: Dunmari Frontier
 sessionNumber: 7
@@ -6,9 +8,10 @@ realWorldDate: 2020-08-16
 DR: 1748-04-07
 DR_end: 1748-04-12
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
-tagline: in which the party heads to Raven's Hold
+tagline: "in which the party heads to Raven's Hold"
 descTitle: Northward Bound
 name: Dunmari Frontier - Session 7
+POV: 1748
 ---
 # Dunmari Frontier - Session 7
 
@@ -29,7 +32,7 @@ The [[Dunmar Fellowship]] heads north, encountering refugees and [[Centaurs|cent
 - They meet [[Tharandros]] and his [[Centaurs]], discuss the spreading corruption, and convince them to warn [[Karawa]].
 
 ### Timeline
-- (DR:: 1748-04-07): Dunmari and festival visitors leave [[Karawa]] with [[Havdar]] and his band, moving as quicky as they can towards the relative safety of [[Tokra]]. Party leaves [[Karawa]] tracking gnolls. 
+- (DR:: 1748-04-07): Dunmari and festival visitors leave [[Karawa]] with [[Havdar]] and his band, moving as quickly as they can towards the relative safety of [[Tokra]]. Party leaves [[Karawa]] tracking gnolls.
 - (DR:: 1748-04-08): Party travels north towards [[Raven's Hold]].
 - (DR:: 1748-04-09): Party travels north. Crosses road, meets [[Shani]] and her companions, who were trapped by a large fire started by permanent lightning storm. Fight and destroy a group of gnolls late in the evening.
 - (DR:: 1748-04-11): Party travels north across the plains.

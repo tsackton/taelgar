@@ -1,14 +1,17 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
 campaign: Great Library
 DR: 1747-12-24
 DR_end: 1748-08-25
 name: Chronicles of the Silver Tempests Ascendant
+POV: 1748
 ---
 # Chronicles of the Silver Tempests Ascendant
 
-Fresh off their victory over the hag [[Morgana Stoneclaw]], the party, now calling themselves the [[Silver Tempests]], finds themselves facing some of the more terrible monsters of the land. While returning to [[Voltara]], they learn a black [[Dragons|dragon]] is disrupting the [[Northern Provinces]], causing conflict between the [[Fort Zarnato]] and a local [[Bullywugs|bullywug]] population. Proving their growing power, the [[Silver Tempests]] kill the dragon, [[Nymthrax]], and loot the riches of its lair. Returning to [[Voltara]], they leave to explore the ruins far beneath [[Goldpeak Mountain]], (re)uniting with some Chardonian explorers and finding the lair of a beholder, [[Vilaxes]]. Defeating the beholder, the [[Silver Tempests]] return to [[Voltara]], extremely wealthy and in need a long break, during which [[Brelith]] opens a restaurant and retires. Their break is interrupted, however, by the arrival of [[Mabist]] with the news that [[Dinia]] has been captured by the [[Havoc Host]]. The [[Silver Tempests]] ride forth in anger, freeing [[Dinia]] from the control of an aboleth, [[Ithu’rax]], near the village of [[Suwi]]. 
+Fresh off their victory over the hag [[Morgana Stoneclaw]], the party, now calling themselves the [[Silver Tempests]], finds themselves facing some of the more terrible monsters of the land. While returning to [[Voltara]], they learn a black [[Dragons|dragon]] is disrupting the [[Northern Provinces]], causing conflict between [[Fort Zarnato]] and a local [[Bullywugs|bullywug]] population. Proving their growing power, the [[Silver Tempests]] kill the dragon, [[Nymthrax]], and loot the riches of its lair. Returning to [[Voltara]], they leave to explore the ruins far beneath [[Goldpeak Mountain]], (re)uniting with some Chardonian explorers and finding the lair of a beholder, [[Vilaxes]]. Defeating the beholder, the [[Silver Tempests]] return to [[Voltara]], extremely wealthy and in need of a long break, during which [[Brelith]] opens a restaurant and retires. Their break is interrupted, however, by the arrival of [[Mabist]] with the news that [[Dinia]] has been captured by the [[Havoc Host]]. The [[Silver Tempests]] ride forth in anger, freeing [[Dinia]] from the control of an aboleth, [[Ithu’rax]], near the village of [[Suwi]].
 
 ## Adventure 17: What do you mean, we have to kill a dragon?!?
 
@@ -24,7 +27,7 @@ After regrouping, the party heads upriver and discovers a small [[Bullywugs|bull
 
 ### Session 53
 
-The party returns to the [[Fort Zarnato|Chardonian fort]] and leaves the problem of the nearly-exterminated bullwugs in the [[Soria Caronius|commander]]’s hands, and heads north to track the [[Dragons|dragon]]. Along the way, after about a week’s journey upriver, they meet some [[Deno'qai]], who are gathered at a council to discuss what to do about the very same dragon. 
+The party returns to the [[Fort Zarnato|Chardonian fort]] and leaves the problem of the nearly-exterminated bullywugs in the [[Soria Caronius|commander]]’s hands, and heads north to track the [[Dragons|dragon]]. Along the way, after about a week’s journey upriver, they meet some [[Deno'qai]], who are gathered at a council to discuss what to do about the very same dragon.
 
 After some discussion with the [[Deno'qai]] council, the party decides to travel with [[Izkir]], a priest of [[Bita]], a bear spirit, who will lead them to the lair. After almost 10 days, they come to the edge of the [[Blackwater Fens]], where the dragon lair is.
 
@@ -32,7 +35,7 @@ After some discussion with the [[Deno'qai]] council, the party decides to travel
 
 The party sets off into the [[Blackwater Fens]], with [[Adrik]] leading the way and [[Samso]] keeping an eye out for danger. They pass an [[Elven Treaty Stones|ancient stone marker]], about 60’ high, marking friendship between the elves and the humans, but it has fallen on its side. Continuing into the swamp, they make camp for the night.
 
-In the middle of the night, the [[Nymthrax|dragon]], scouting its territory, finds them, and surprises the camp with a blast of its acid breath. While perched on a tree and taunting them, demanding they join its service or die, [[Adrik]] and [[Aelar]] manage to get on top of it, and are hasted by [[Izkir]]’s magic. As they beat on the dragon from above – and an attempted polymorph of [[Aelar]] into a T-rex is less successful than hoped – the dragon takes to the air, watching the spellcasters and attempting to disruption their concentration. Still, [[Adrik]] and [[Aelar]] do considerable damage before [[Samso]]’s conjured air elemental turns against the party as he falls unconscious, and [[Nymthrax]] flees, wounded.
+In the middle of the night, the [[Nymthrax|dragon]], scouting its territory, finds them, and surprises the camp with a blast of its acid breath. While perched on a tree and taunting them, demanding they join its service or die, [[Adrik]] and [[Aelar]] manage to get on top of it, and are hasted by [[Izkir]]’s magic. As they beat on the dragon from above – and an attempted polymorph of [[Aelar]] into a T-rex is less successful than hoped – the dragon takes to the air, watching the spellcasters and attempting to disrupt their concentration. Still, [[Adrik]] and [[Aelar]] do considerable damage before [[Samso]]’s conjured air elemental turns against the party as he falls unconscious, and [[Nymthrax]] flees, wounded.
 
 Rather than attempt to rest here, where the dragon is alerted to their presence, the party hikes overnight to the [[Elven Treaty Stones|stone monument]], and spends the day repairing it using the plan suggested by the [[Bahrazel|Bahrâzel]], at [[Brelith]]’s questioning with the Divination spell. With the monument restored, the party finally rests safely. 
 
@@ -48,14 +51,14 @@ The party then loots [[Nymthrax's Hoard|his hoard]], finding a vast collection o
 
 The party spends a considerable amount of time organizing treasure and figuring out how to transport the entire hoard. With that accomplished, they head south, saying goodbye to [[Izkir]], and then meeting again with the [[Bullywugs]] to tell them their home is safe and return some treasure the dragon stole from them. 
 
-A few weeks later, they arrive back in [[Voltara]], greeting by [[Julius of Voltara|Julius]], their steward. 
+A few weeks later, they arrive back in [[Voltara]], greeted by [[Julius of Voltara|Julius]], their steward.
 
 ### Events
 
 - (DR:: 1748-01-06): Party leaves [[Zarkandur]] to return to [[Voltara]]. 
 - (DR:: 1748-01-07): [[Adrik]] turns to a polar werebear at camp and must be subdued. 
 - (DR:: 1748-01-08): [[Adrik]] cured of lycanthropy by [[Brelith]]. 
-- (DR:: 1748-01-17): [[Adrik]], [[Brelith]], [[Samso]], and [[Aelar]] arrive back in the [[Chardonian Empire]], stopped at the [[Fort Zarnato|border fort]]. Learn it is in dire straights, its winter food supplies being raided by something on the river. Attempt to scout unsuccessfully. 
+- (DR:: 1748-01-17): [[Adrik]], [[Brelith]], [[Samso]], and [[Aelar]] arrive back in the [[Chardonian Empire]], stopped at the [[Fort Zarnato|border fort]]. Learn it is in dire straits, its winter food supplies being raided by something on the river. Attempt to scout unsuccessfully.
 - (DR:: 1748-01-18): Head north to find out what is stealing food. 
 - (DR:: 1748-01-19): Find and attack a [[Bullywugs|bullywug]] [[Guluppa-Sog|village]]. Kill many before making peace and learning the bullywugs were driven from their home by a [[Dragons|dragon]]. Agree to kill the dragon. 
 - (DR:: 1748-01-21): Return to [[Fort Zarnato]] with news. Head north to find the dragon. 
@@ -103,7 +106,7 @@ The party confronts the beholder [[Vilaxes]] in a massive cavern dominated by a 
 
 ### Session 60
 
-Back in [[Voltara]], the [[Silver Tempests]] enjoys the rewards of their status and reputation. [[Brelith]] apprentices himself to the chef at [[Finoc Small]]’s tavern, [[The Wandering Toad]], learning to cook, and opening a restaurant, [[The Hero's Feast]]. [[Adrik]] goes on a binge of pit fighting and gambling, managing to end up with a small profit. [[Samso]] travels to visit with [[Iara]] at the [[Lizardfolk]] community near [[Lake Valandros]], and learns more about the mysterious attacks. [[Alton]] opens a boisterous tavern and dive bar outside the city walls, called the [[Rogue’s Range]], with axe throwing for patrons. 
+Back in [[Voltara]], the [[Silver Tempests]] enjoy the rewards of their status and reputation. [[Brelith]] apprentices himself to the chef at [[Finoc Small]]’s tavern, [[The Wandering Toad]], learning to cook, and opening a restaurant, [[The Hero's Feast]]. [[Adrik]] goes on a binge of pit fighting and gambling, managing to end up with a small profit. [[Samso]] travels to visit with [[Iara]] at the [[Lizardfolk]] community near [[Lake Valandros]], and learns more about the mysterious attacks. [[Alton]] opens a boisterous tavern and dive bar outside the city walls, called the [[Rogue’s Range]], with axe throwing for patrons.
 
 %% note: Rogue's Range might be removed from canon - unclear %%
 
@@ -114,7 +117,7 @@ Four months later, the [[Silver Tempests]] host a party, a grand opening for [[T
 - (DR:: 1748-03-08) - (DR_end:: 1748-03-13): In [[Voltara]], the party sells treasure to [[Quintus Percomia]] and [[Inectos Tintio]], purchases an extradimensional vault for their treasure, and employs [[Brelith]]'s and [[Galius Filuso]]' magic to protect their home base. 
 - (DR:: 1748-03-14): The party leaves [[Voltara]] for [[Goldpeak Mines]]
 - (DR:: 1748-03-15): Travel
-- (DR:: 1748-03-16): The party arrives at [[Goldpeak Mines]], fights a dwarven abberation at the camp outside, descends into the chasm, and fights a cloaker and carrion crawlers. Meet [[Cassia]] and [[Alton]]. Rest.
+- (DR:: 1748-03-16): The party arrives at [[Goldpeak Mines]], fights a dwarven aberration at the camp outside, descends into the chasm, and fights a cloaker and carrion crawlers. Meet [[Cassia]] and [[Alton]]. Rest.
 - (DR:: 1748-03-17): Travel into the depths. Fight guards, and learn that the beholder [[Vilaxes]] has taken over a kobold den. Briefly imprisoned. Fight beholder, and win after [[Samso]] draws the beholder's attacks by attempting to destroy a massive statue of [[Vilaxes]]. [[Samso]] and [[Cassia]] die, and are revived by [[Brelith]]. Rest.
 - (DR:: 1748-03-18): Return to the surface. Rest.
 - (DR:: 1748-03-19): Travel back to [[Voltara]].
@@ -131,11 +134,11 @@ Four months later, the [[Silver Tempests]] host a party, a grand opening for [[T
 
 The next morning the party travels upriver to the [[Lake Suwi|lake]]. Finding the logging camp where [[Mikel|Clara’s brother]] was taken, they follow a trail along the lakeshore, coming to a rocky clearing where the ruins of a castle overlook the lake. The party manages to ambush a group of slimy minions, and quickly dispatch them, knocking them out and binding them. 
 
-Searching the ruins, [[Samso]] finds a concealed tunnel leading underground. Following the tunnel, the party emerges into the barracks of the [[Havoc Host]]. [[Mabist]] is disguised as a slimy minion; [[Samso]] turns into an earth elemental; and [[Adrik]] busts down the door. A battle ensues, in which the [[Havoc Host]] are soundly beaten. Convinced that [[Mabist]] is one of the [[Ithu’rax]]’s servants, the mercenaries are reluctant to surrender, until [[Mabist]] attempts to surrender himself, convincing them that something strange is going on. At this point, the mercenaries surrender, and are disarmed and convinced to make a better life for themselves opening a franchise of Brelith’s restaurant by [[Adrik]] and [[Mabist]]. 
+Searching the ruins, [[Samso]] finds a concealed tunnel leading underground. Following the tunnel, the party emerges into the barracks of the [[Havoc Host]]. [[Mabist]] is disguised as a slimy minion; [[Samso]] turns into an earth elemental; and [[Adrik]] busts down the door. A battle ensues, in which the [[Havoc Host]] are soundly beaten. Convinced that [[Mabist]] is one of [[Ithu’rax]]’s servants, the mercenaries are reluctant to surrender, until [[Mabist]] attempts to surrender himself, convincing them that something strange is going on. At this point, the mercenaries surrender, and are disarmed and convinced to make a better life for themselves opening a franchise of Brelith’s restaurant by [[Adrik]] and [[Mabist]].
 
 The party learns the layout of the tunnels from the mercenaries, and begins to explore, carefully navigating around cracking parts of the tunnels that drop rocks on their heads with a misstep. After navigating through the tunnels for some time, [[Samso]] hears sobbing from a room to the south. Here, the party discovers the dead body of an adventurer, and the ghost of [[Milo Kentbrush]], who was sure he could kill the aboleth, but was ambushed by the annoying slime servants. The party finds his arrow of aberration slaying, and takes it with them. Milo follows, tied to the arrow.
 
-The party manages to quietly navigate the flooded caverns, emerging into the aboleth’s lair, where they see a psychically controlled [[Dinia]] waiting for them. She attacks, and [[Ithu’rax]] the aboleth emerges from a central pool, joining the battle. The battle is a challenge. [[Ithu’rax]] manipulates his foes physical form, turning ligaments to jelly and lungs to gills, all of which make it difficult for the party to land a blow. [[Alton]], although set up with the arrow of aboleth slaying, misses his shot; [[Mabist]] manages to grapple the aboleth with a giant force hand, but is targeted by the aboleth’s anger and eventually knocked unconscious and dropped into the cursed waters at the center of the cave. [[Samso]] spends the combat as an earth elemental; while he does not sustain much damage, he is also repeatedly driven back and unable to land a solid blow. It is only [[Samso]]’s conjured dragon, and [[Adrik]]’s seemingly endless ability to absorb the strikes of the aboleth’s tentacles, that save the party and lead to victory. 
+The party manages to quietly navigate the flooded caverns, emerging into the aboleth’s lair, where they see a psychically controlled [[Dinia]] waiting for them. She attacks, and [[Ithu’rax]] the aboleth emerges from a central pool, joining the battle. The battle is a challenge. [[Ithu’rax]] manipulates his foes’ physical form, turning ligaments to jelly and lungs to gills, all of which make it difficult for the party to land a blow. [[Alton]], although set up with the arrow of aboleth slaying, misses his shot; [[Mabist]] manages to grapple the aboleth with a giant force hand, but is targeted by the aboleth’s anger and eventually knocked unconscious and dropped into the cursed waters at the center of the cave. [[Samso]] spends the combat as an earth elemental; while he does not sustain much damage, he is also repeatedly driven back and unable to land a solid blow. It is only [[Samso]]’s conjured dragon, and [[Adrik]]’s seemingly endless ability to absorb the strikes of the aboleth’s tentacles, that save the party and lead to victory.
 
 With the aboleth killed, [[Dinia]] returns to herself, and appoints herself the caretaker of the now slowly recovering slime servants. 
 

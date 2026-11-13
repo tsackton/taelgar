@@ -1,22 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - session-note
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [session-note]
 campaign: Mawar Adventures
 sessionNumber: 1
 realWorldDate: 2021-07-24
 DR: 1747-07-23
 DR_end: 1747-07-23
-players:
-  - Ryu
-  - Wazir
-  - Trok
+players: [Ryu, Wazir, Trok]
 companions: []
-name: Mawar Adventures Episode 01
 descTitle: The Merfolk Visitor
 tagline: in which a stolen drop of ocean is returned
 sessionKey: mawar-adventures-session-1
 session-template: mawar-template.md
+name: Mawar Adventures Episode 01
+POV: 1747
 ---
 # Mawar Adventures Episode 01
 
@@ -48,7 +47,7 @@ The morning of July 23, 1747 comes in the middle of a strange summer in [[Hamri]
 
 As morning turns to afternoon, a strange ship races into [[Hamri]] against the tide, under attack by water elementals. Intercepted by [[Wazir]], the owner of the Leviathan, [[Trok]], a tattooed [[Lizardfolk]] outcast, and [[Ryu]], a noted fisherman and deep sea diver, the ship was a vessel for a merfolk expedition sent to recover a drop of [[Sentient Ocean]] stolen from their home, now carrying only a sole survivor, [[Illius]]. [[Ryu]], [[Wazir]], and [[Trok]] drive off the water elementals and twisted fish-things assailing it while [[Turk]], Ryu's shark companion, helps steer the ship to safety.
 
-Soon after the harbor rescue, Illius's compass leads [[Ryu]], [[Wazir]], and [[Trok]] from [[Hamri]] to a tidal cave in the [[North Cliffs]], across the sheltered bay from the port, connecting to the ruins of a long-abandoned seawatch tower. The party defeats the remaining water elementals, recovers the bottled drop of the [[Sentient Ocean]], and returns it safely to [[Illius]]. He explains that marids from the [[Elemental Plane of Water]] have hunted the ocean for generations and believes one of them finally found a way through its defenses.
+Soon after the harbor rescue, Illius's compass leads [[Ryu]], [[Wazir]], and [[Trok]] from [[Hamri]] to a tidal cave in the [[North Cliffs]], across the sheltered bay from the port, connecting to the ruins of a long-abandoned seawatch tower. The party defeats the remaining water elementals, recovers the bottled drop of the [[Sentient Ocean]], and returns it safely to [[Illius]]. They explain that marids from the [[Elemental Plane of Water]] have hunted the ocean for generations and believe one of them finally found a way through its defenses.
 
 In the chest with the vial of [[Sentient Ocean]] was also a scroll of written notes, in some kind of code, and a silver amulet of a strange design. [[Wazir]] took the scroll to attempt to decipher its meaning, wondering if indeed the phantom ship brought someone new to town involved in the schemes of the marids of the plane of water.
 

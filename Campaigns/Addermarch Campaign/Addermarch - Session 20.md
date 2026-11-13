@@ -1,15 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [session-note, status/check/lint]
 campaign: Addermarch
 sessionNumber: 20
 realWorldDate: 2026-03-08
 DR: 1715-05-27
 DR_end: 1715-05-28
 players: [Yvan Greenrabbit, Drou, Fazoth de Brune]
-name: Addermarch Campaign - Session 20
 tagline: in which the axe is unmade
 descTitle: The Heart Beneath Serethwyn Tor
+name: Addermarch Campaign - Session 20
+POV: 1715
 ---
 # Addermarch Campaign - Session 20
 
@@ -38,7 +41,7 @@ The party defeats the serpentine warlock beneath [[Serethwyn Tor]], recovers [[D
 - **[[Geoffrey]], the Stranger** - Named in Duncan's letters as a serpentine seeker backed by an unknown patron.
 - **[[Kelvyn]]** - Addressee of Duncan's letters, said to be a guard in the Earl of [[Adderfell]]'s household.
 - **Dead ranger of Serethwyn Tor** - Questioned with _Speak with Dead_ about the [[Serpentine Wars|Avatus wars]] and the [[Serpentine Register]].
-- **[[Arvanko]]** - Ranger whose earlier mention of the [[Serpentine Register]] is confirmed by the dead ranger
+- **[[Arvanko]]** - Ranger whose earlier mention of the [[Serpentine Register]] is confirmed by the dead ranger.
 - **[[Caradoc]]** - Alchemist and advisor; the party heads for his cottage at session's end.
 
 ## Places
@@ -97,3 +100,17 @@ end the next morning as the party sets out for [[Caradoc]]'s to try to find a wa
 
 
 RAW NOTES END %%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Recorded the session viewpoint as DR 1715 and normalized frontmatter order. Completed the Arvanko cast entry with a period.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Suggestion — editorial.shared_material_redundant:** The RAW NOTES comment repeats the public account from the warlock fight through the departure for Caradoc. If these working notes can be retired, retain the distinct campsite identification as a short comment: “The upper mine campsite is the unicorn cave.”
+%%^End%%

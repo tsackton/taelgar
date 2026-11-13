@@ -1,4 +1,6 @@
 ---
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
 campaign: Dunmari Frontier
 sessionNumber: 33
@@ -10,6 +12,7 @@ companions: [Garret Tealeaf]
 tagline: in which the party encounters magic and peril
 descTitle: The Road West
 name: Dunmari Frontier - Session 33
+POV: 1748
 ---
 # Dunmari Frontier - Session 33
 
@@ -36,11 +39,11 @@ The [[Dunmar Fellowship]]'s journey to [[Tokra]] is marked by a conversation wit
 - (DR:: 1748-06-23): Travel uneventfully west towards [[Tokra]].
 - (DR:: 1748-06-24): Travel west towards [[Tokra]]. Stop to examine the ruins of ancient Drankorian aqueduct along the [[Stoneway]], with a lingering enchantment to purify water, and increase it, duplicating what is already flowing. Meet a family of Dunmari goat herders camped for a few days near the aqueduct. Stay the afternoon and evening.
 - (DR:: 1748-06-25) - (DR_end:: 1748-06-29): Continue west towards [[Tokra]].
-- (DR:: 1748-06-30), early afternoon: Arrive at the outskirts of Tokra. Cross the bridge, pay the toll. [[Wellby]] takes Garrett to the halfling inn in town, [[The Red Lily Inn]]. Rest of party continues south to the [[Lakan Monastery]],  where they are welcomed by an ancient monk, [[Rishi]], [[Kenzo]]'s master and teacher.
+- (DR:: 1748-06-30), early afternoon: Arrive at the outskirts of Tokra. Cross the bridge, pay the toll. [[Wellby]] takes Garret to the halfling inn in town, [[The Red Lily Inn]]. Rest of party continues south to the [[Lakan Monastery]],  where they are welcomed by an ancient monk, [[Rishi]], [[Kenzo]]'s master and teacher.
 
 ### Mirror of the Past
 - (DR:: 1748-06-21): See a vision of the [[Floating Disc Coin]] in the [[Mirror of the Past]]: [[Floating Disc Coin Vision]]. (recharge:: mirror)
-- (DR:: 1748-06-28): Use the Mirror of the Past to see a dried scorpion taken from [[Agata]], and watch is begin to come alive in the magic of the mirror: [[Dried Scorpion Vision]]. Wellby shoots it before it can fully transform. (recharge:: mirror)
+- (DR:: 1748-06-28): Use the Mirror of the Past to see a dried scorpion taken from [[Agata]], and watch it begin to come alive in the magic of the mirror: [[Dried Scorpion Vision]]. Wellby shoots it before it can fully transform. (recharge:: mirror)
 
 
 
@@ -55,4 +58,4 @@ On the fifth day of travel, the party passes a ruined aqueduct in the distance, 
 
 On the ninth day of travel, a few days out from [[Tokra]], the mirror has recharged again. After some discussion, the party decides to carefully, using mage hand, show the four dried scorpions from [[Agata]]’s belt pouch to the mirror. As they do, they can see, [[Dried Scorpion Vision|reflected in the mirror]], a giant scorpion, wiggling and struggling against some force that is holding it still, struggling to free itself. As [[Wellby]] spots the dried scorpion begin to wiggle in response, he takes careful aim and pierces the scorpion with an arrow that obliterates it. Realizing these are trapped items that grow into giant scorpions when handled or subjected to strong magic, the party destroys the other three quickly and thoroughly. 
 
-On the eleventh day after leaving [[Karawa]], the party arrives at the outskirts of [[Tokra]]. After riding across the great bridge over the [[Hara]] river, and paying the toll to the Dunmari guards, the party decides their first stop will be the [[Lakan Monastery]]. [[Kenzo]] has sent word ahead he is returning, and is expected. The session ends as [[Wellby]] escorts Garrett across town to [[The Red Lily Inn]], a halfling inn near the western gate run by [[Wes Strongbones]] and his teenage boys [[Tye Strongbones]] and [[Cade Strongbones]], and the remainder of the party arrives at the monastery and is greeted by [[Kenzo]]’s old master, [[Rishi]].
+On the eleventh day after leaving [[Karawa]], the party arrives at the outskirts of [[Tokra]]. After riding across the great bridge over the [[Hara]] river, and paying the toll to the Dunmari guards, the party decides their first stop will be the [[Lakan Monastery]]. [[Kenzo]] has sent word ahead he is returning, and is expected. The session ends as [[Wellby]] escorts Garret across town to [[The Red Lily Inn]], a halfling inn near the western gate run by [[Wes Strongbones]] and his teenage boys [[Tye Strongbones]] and [[Cade Strongbones]], and the remainder of the party arrives at the monastery and is greeted by [[Kenzo]]’s old master, [[Rishi]].

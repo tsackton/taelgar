@@ -1,4 +1,6 @@
 ---
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
 campaign: Dunmari Frontier
 sessionNumber: 14
@@ -10,6 +12,7 @@ companions: [Vola]
 tagline: in which the party braves the unending storm and discovers a mysterious tower
 descTitle: Into the Storm
 name: Dunmari Frontier - Session 14
+POV: 1748
 ---
 # Dunmari Frontier - Session 14
 
@@ -56,7 +59,7 @@ Pressing forward, the storm grows more intense, as visibility drops and the rain
 
 Some time later -- distance and time being hard to judge in the endless storm -- the weather gets darker and wetter, lightning flashes more frequently, and eventually the party reaches what seems to be a wall of wind. [[Riswynn]]’s horse cannot take any more, and bolts. The sound is deafening, and as the party attempts to push through the wind, [[Riswynn]] and [[Kenzo]] are blown off their feet, eventually rescued by [[Wellby]]’s telepathy, [[Kenzo]]’s [[Dwarven Driftglobe|Driftglobe]], and a rope. 
 
-Inside the storm, there is a circle of dead calm stretching several hundred feet across. In the middle of this calm area, a jagged piece of blue granite juts out of the ground, almost as if it were the prow of a boat, tilted at an angle rising out of the land. Rising from the granite is a [[Stormcaller Tower|tall white marble tower]], 4 or 5 stories high, with a platform stretching out across the land below from the top. All seems silent and still, with no lights or movement coming from the tower. However, in the shelter of the granite rock, a small campsite and grave marker can be found, carved crudely with the symbol of the [[The Sibyl]], the goddess of knowledge and magic, one of the [[Mos Numena|Eight Divines]] worshipped in [[Chardon]] and many other places influenced by the [[Drankorian Empire]]. These are weeks, but not months old. 
+Inside the storm, there is a circle of dead calm stretching several hundred feet across. In the middle of this calm area, a jagged piece of blue granite juts out of the ground, almost as if it were the prow of a boat, tilted at an angle rising out of the land. Rising from the granite is a [[Stormcaller Tower|tall white marble tower]], 4 or 5 stories high, with a platform stretching out across the land below from the top. All seems silent and still, with no lights or movement coming from the tower. However, in the shelter of the granite rock, a small campsite and grave marker can be found, carved crudely with the symbol of [[The Sibyl]], the goddess of knowledge and magic, one of the [[Mos Numena|Eight Divines]] worshipped in [[Chardon]] and many other places influenced by the [[Drankorian Empire]]. These are weeks, but not months old.
 
 [[Stormcaller Tower]] itself seems to be of considerable interest. [[Seeker]] notes valuable metal (gold and silver) near the top, as well as something hard to describe or place running through the walls, and another unusual mineral inside the granite rock. There is also a substantial ley line node directly under the tower. [[Delwath]] decides to turn invisible and go investigate the tower. There are old, worn stairs switchbacking up the side of the granite rock to the tower entrance. The doors have been blasted apart, leaving only twisted remains of a door frame intact, little bits of wrought iron and silverwork. Inside, it looks like a tornado struck the first floor. Perhaps once a main hall, there is a fireplace but otherwise little survives but tangled rubble and a curving staircase leading up. While this destruction is recent, [[Stormcaller Tower]] itself seems very, very old. As [[Delwath]] investigates, every now and then little sparks run up and down the walls, seeming to concentrate wherever [[Delwath]] is poking around the rubble. 
 
@@ -64,4 +67,4 @@ The second floor is not nearly as destroyed, and appears to be a living space, w
 
 Struggling to his feet, [[Delwath]] returns to the group and reports on his experience, including hearing something whispering in his mind, asking him what he wanted to know as he approached the doorway. Asking it what [[Agata]] Dustmother wanted, he got the answer: “I see a power growing in the desert, I see it reaching out to betray the people of the plains. I see it wanting power above all, and revenge.” Thinking perhaps this is the same force as was behind the runes in the storm, the party takes a moment to rest and refresh while debating what to do next, and talking about runes and [[Giants]].
 
-As the sunset sets and the stars begin to come out during their brief rest, we end with the dawning realization that something is wrong with the night sky. The [[Fox and Hunter]], faithful companions in the stars, are missing...
+As the sun sets and the stars begin to come out during their brief rest, we end with the dawning realization that something is wrong with the night sky. The [[Fox and Hunter]], faithful companions in the stars, are missing...

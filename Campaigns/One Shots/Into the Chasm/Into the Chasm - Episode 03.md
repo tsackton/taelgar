@@ -1,5 +1,7 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
 campaign: Into the Chasm
 sessionNumber: 3
@@ -8,11 +10,12 @@ DR: 1730-01-25
 DR_end: 1730-01-26
 players: [Finnan, Jrain, Eolo, Ekko, Justas]
 companions: []
-name: Into the Chasm - Episode 3
 descTitle: The Beast and the Palace
-tagline: in which the explorers defeat a beast, and reach the strange village of Melusa
+tagline: "in which the explorers defeat a beast, and reach the strange village of Melusa"
 sessionKey: into-the-chasm-session-3
 session-template: into-the-chasm-template.md
+name: Into the Chasm - Episode 3
+POV: 1730
 ---
 # Into the Chasm - Episode 3
 
@@ -41,7 +44,7 @@ The party kills the shaggy white beast, allowing them to escape [[Zeyfa's Labyri
 
 ## Places
 
-- [[Zeyfa's Labyrinth]] (*ZAY-fahz LAB-uh-rinth*; labyrinth in [[Zeyfa's Realm]]): Ice-and-stone labyrinth, including the black-stone chamber where the party defeats the beast and opens a passage toward [[Melusa]]. Session context includes: Black-stone lair of Zeyfa's beast..
+- [[Zeyfa's Labyrinth]] (*ZAY-fahz LAB-uh-rinth*; labyrinth in [[Zeyfa's Realm]]): Ice-and-stone labyrinth, including the black-stone chamber where the party defeats the beast and opens a passage toward [[Melusa]]. Session context includes: Black-stone lair of Zeyfa's beast.
 - [[Melusa]] (*meh-LOO-sah*; village in [[Zeyfa's Realm]]): Fog-bound cliff village with a waterfall-fed pond, ledge houses, guarded planar gashes, and the nearby Ice Palace. Session context includes: lower cliffside paths, ledge village, and [[Nura]] and Khaled's house.
 
 ## Narrative
@@ -66,4 +69,4 @@ After the village settles under the gong, [[Ekko]] slips out as a gray cat to sc
 
 ## Combat
 
-**Zeyfa's Beast and the Living Snow Echoes.** The party faces the shaggy white beast, Zeyfa's monster feared by [[Kalima]], who is using living snow echoes of the party to protect itself.  The [[Chasm Explorers]] keep [[Kalima]] hidden, break the Living Snow echoes, and kill the beast.
+**Zeyfa's Beast and the Living Snow Echoes.** The party faces the shaggy white beast, Zeyfa's monster, which [[Kalima]] fears and which uses living snow echoes of the party to protect itself. The [[Chasm Explorers]] keep [[Kalima]] hidden, break the Living Snow echoes, and kill the beast.

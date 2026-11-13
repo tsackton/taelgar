@@ -1,5 +1,7 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
 campaign: Into the Chasm
 sessionNumber: 5
@@ -8,11 +10,12 @@ DR: 1730-01-29
 DR_end: 1730-01-29
 players: [Finnan, Jrain, Eolo, Ekko, Justas]
 companions: []
-name: Into the Chasm - Episode 5
 descTitle: Descent into Battle
-tagline: in which the party chases orcs through the Great Chasm's floating platforms
+tagline: "in which the party chases orcs through the Great Chasm's floating platforms"
 sessionKey: into-the-chasm-session-5
 session-template: into-the-chasm-template.md
+name: Into the Chasm - Episode 5
+POV: 1730
 ---
 # Into the Chasm - Episode 5
 

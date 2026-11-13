@@ -1,5 +1,7 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
 campaign: Lost in the Feywild
 sessionNumber: 2
@@ -7,12 +9,13 @@ realWorldDate: 2026-05-26
 DR: 1740-10-05
 DR_end: 1740-10-05
 players: [Kaito Min, Edric, Tarek, Ayveen, Txarro]
-name: "Lost in the Feywild: Episode 02"
-descTitle: "Тёмная ночь (Dark is the Night)"
-tagline: "in which the party finds the Endless Ending"
+descTitle: Тёмная ночь (Dark is the Night)
+tagline: in which the party finds the Endless Ending
 sessionKey: lost-in-the-feywild-session-2
 session-template: feywild-template.md
 websiteSessionView: zoomable
+name: "Lost in the Feywild: Episode 02"
+POV: 1740
 ---
 # Lost in the Feywild: Episode 02
 
@@ -37,19 +40,19 @@ The party emerges in the [[Twilight Kingdom]], enters [[Lord Endless Ending's Ma
 
 ## Narrative
 
-We begin as the party crawls through the narrow tunnel, debating what they can still trust the contract, Hulda, or even the premise of the job. Suddenly, the wood surrounding them gives way to bones -- as if they crawled through the center of an enormous hollow root-bone. The party climbs up and out through a ruined house made of the same root-bone material and finds themselves under pale blue twilight twenty minutes after sunset. A river wends quietly through rolling grassy hills under the first unfamiliar stars of twilight, and they take the path forward from this ruined, skeletal echo of [[Dandelion House]] onto a road passing through hill and hollow to an estate in the distance.
+We begin as the party crawls through the narrow tunnel, debating what they can still trust: the contract, Hulda, or even the premise of the job. Suddenly, the wood surrounding them gives way to bones -- as if they crawled through the center of an enormous hollow root-bone. The party climbs up and out through a ruined house made of the same root-bone material and finds themselves under pale blue twilight twenty minutes after sunset. A river wends quietly through rolling grassy hills under the first unfamiliar stars of twilight, and they take the path forward from this ruined, skeletal echo of [[Dandelion House]] onto a road passing through hill and hollow to an estate in the distance.
 
 > [!image|figure standard]
 > ![[feywild-02-the-coral-bone-house.jpg]]
 > *The root-bone echo of the [[Dandelion House]]*
 
-[[Txarro]] finds the first body just off the roadside: human, shot from behind by three beautifully-made green-feathered arrows, its head smashed into nothingness after it hit the ground. Tracks show it was running toward the echo-house, its killers wore heavy boots and the hoof-prints of elk. [[Tarek]] searches the pockets, finds a writing kit, and spell components -- keeping a mouse skull for himself. Farther down the road, the party smells smoke and finds human bones in a burned pyre, then farther on, another arrow-shot corpse missing its head entirely.
+[[Txarro]] finds the first body just off the roadside: human, shot from behind by three beautifully-made green-feathered arrows, its head smashed into nothingness after it hit the ground. Tracks show it was running toward the echo-house. Its killers wore heavy boots and the hoof-prints of elk. [[Tarek]] searches the pockets, finds a writing kit, and spell components -- keeping a mouse skull for himself. Farther down the road, the party smells smoke and finds human bones in a burned pyre, then farther on, another arrow-shot corpse missing its head entirely.
 
 The mood turns from treasure-hungry excitement to fear. Kaito, suddenly sincere, asks [[Edric]] to call on [[The Night Queen|the Night Queen]] and [[The Wanderer|the Wanderer]] for a way out. [[Txarro]] pauses to ask the ancestors whether approaching the manor, introducing themselves, and asking the Lord about the treaty is wise. The omen comes back as both weal and woe.
 
 As they near the manor, the road runs beside a high hedge and the sounds of a party grow clearer: voices, glasses, and string music from beyond the grounds. The party considers sending [[Tarek]] in under invisibility, but decides first on safer reconnaissance: [[Txarro]] summons an owl familiar. Through its eyes, he sees an open silver gate through the hedge, broad lawns, gardens, patios, guests, musicians, and a tall lithe figure at the manor door who looks directly at the owl before withdrawing.
 
-The guards at the gate seem caught between old men acting like dogs and dogs acting like elderly, wrinkled men. The guard sniff the party, and greet them in heavily accented Common: "well met and welcome, mortals."  They say the party is just in time because the party is ending, but they also make clear that they belong to the road rather than to the celebration inside.
+The guards at the gate seem caught between old men acting like dogs and dogs acting like elderly, wrinkled men. The guards sniff the party and greet them in heavily accented Common: "well met and welcome, mortals."  They say the party is just in time because the party is ending, but they also make clear that they belong to the road rather than to the celebration inside.
 
 Their answers are strange but useful. The bodies on the road did not come from this house, but from farther along the road, where travelers sometimes pick up a contagious bad smell that must be kept from spreading. They identify the realm as the [[Twilight Kingdom]], a place of a dozen dozen houses with the sun fixed just below the horizon, and say the Lord of this house instructed them to let in any mortal who wanted entrance. Instead of a conventional gift, the guards accept stories of dreams: Txarro's bittern and snake, Edric's grave and six-pointed crown, and Kaito's single long elven dream.
 
@@ -59,7 +62,7 @@ Past the gate, the manor grounds are all sloping lawns, open doors, low lanterns
 
 The two half-drunk halflings argue cheerfully with each other on the lawn, and they are astonished that [[Txarro]] is an actual lizardfolk from Taelgar rather than a fey in lizard shape. They come from near Chardon, speak as if Chardon is still an imperial frontier, and laugh in confusion at the question of which empire they mean -- which means that when they woke up this morning, the year was likely somewhere in the seventh century of the [[Drankorian Empire]]. They do not understand references to later history, and the party cannot place some of theirs.
 
-The halflings speak of their journey thorugh the Feywild: arriving in the morning, riding a rabbit the size of a pony, "liberating" a boat and coming down river, arriving at the party in full swing.  Kaito joins with a flask to coax more from them, and they describe the Lord of the Manor as serious, sad, prone to brain teasers, not someone to hug, and perhaps afraid of neighbors he claims only to respect. [[Txarro]] concludes they may have been here for centuries and tries to guide them toward wine while looking for another mortal.
+The halflings speak of their journey through the Feywild: arriving in the morning, riding a rabbit the size of a pony, "liberating" a boat and coming down river, arriving at the party in full swing.  Kaito joins with a flask to coax more from them, and they describe the Lord of the Manor as serious, sad, prone to brain teasers, not someone to hug, and perhaps afraid of neighbors he claims only to respect. [[Txarro]] concludes they may have been here for centuries and tries to guide them toward wine while looking for another mortal.
 
 > [!image|hero]
 > ![[the-endlessly-ending-party.jpg]]

@@ -1,15 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [session-note, status/check/lint]
 campaign: Addermarch
 sessionNumber: 22
 realWorldDate: 2026-10-11
 DR: 1715-05-30
 DR_end: 1715-05-31
 players: [Yvan Greenrabbit, Drou, Fazoth de Brune]
-name: Addermarch Campaign - Session 22
 tagline: in which the party finds a guide
 descTitle: Gwydren of the Old Paths
+name: Addermarch Campaign - Session 22
+POV: 1715
 ---
 # Addermarch Campaign - Session 22
 
@@ -67,13 +70,13 @@ After vegetable stew, roasted carrots, and honeycomb, the party spends the night
 
 ### Monday, May 31st, 2 Robert I
 
-The next morning, a wolf's baying and hunting horns announce the [[Lord Umbraeth|Gloomshaper]]'s hunters, seeking the heart, presumably to chaos in the Feywild for their own malicious reasons. Gwydren hurries the party towards a shortcut through [[Old Brindlethorn]]'s tunnels, warning them to be polite and leave her bedrooms alone. They find the cottage-sized badger blocking the entrance, thrashing in an enchanted nightmare that seems aggravated by the Singing Tree's corruption and increases in violence when Fazoth, carrying the fey heart of the Singing Tree, approaches. 
+The next morning, a wolf's baying and hunting horns announce the [[Lord Umbraeth|Gloomshaper]]'s hunters, seeking the heart, presumably to cause chaos in the Feywild for their own malicious reasons. Gwydren hurries the party towards a shortcut through [[Old Brindlethorn]]'s tunnels, warning them to be polite and leave her bedrooms alone. They find the cottage-sized badger blocking the entrance, thrashing in an enchanted nightmare that seems aggravated by the Singing Tree's corruption and increases in violence when Fazoth, carrying the fey heart of the Singing Tree, approaches.
 
 > [!image|figure standard]
 > ![[adma-022-old-brindlethorn-tunnels.webp]]
 > *Old Brindlethorn asleep across the entrance to her tunnels.*
 
-Yvan tries to push her aside or wake her, but catches a flailing claw; Drou's rousing music has no effect, though suggests she can sense the party around her in her dreams. Realizing they cannot wake her, the party changes tack and tries to soothe her instead. Drou plays soothing music while Yvan uses _Prestidigitation_ to create the scent of fresh soil. As she calms, Yvan slips past with the heart and carries it farther down the tunnel, hoping that moving the fey heart far from her will lessen her distress. This, combined with Drou's soothing music, seems to be working until Yvan tries to sneak into her bedroom. He does this loudly and obviously, provoking another burst of agitation that catches Drou with a claw, but is short-lived, for after the swipe, she calms enough for everyone to get through.
+Yvan tries to push her aside or wake her, but catches a flailing claw; Drou's rousing music has no effect, though it suggests she can sense the party around her in her dreams. Realizing they cannot wake her, the party changes tack and tries to soothe her instead. Drou plays soothing music while Yvan uses _Prestidigitation_ to create the scent of fresh soil. As she calms, Yvan slips past with the heart and carries it farther down the tunnel, hoping that moving the fey heart far from her will lessen her distress. This, combined with Drou's soothing music, seems to be working until Yvan tries to sneak into her bedroom. He does this loudly and obviously, provoking another burst of agitation that catches Drou with a claw, but is short-lived, for after the swipe, she calms enough for everyone to get through.
 
 We end as the party and Gwydren enter Old Brindlethorn's tunnels.
 
@@ -96,3 +99,19 @@ Okay. So the story of Aurenxis. Um... we begin- Okay, so the party knows that Au
 Okay, so the last scene, the next morning Um, they wake up with some urgency because uh Gwydren has heard while everybody has heard, um, the- baying of- a wolf and the sound of the horns of the Gloomshaper hunters. Now, the Gloomshaper is another arch Fay who is also... trying to get the heart, that the party is returning, just because he wants to cause chaos. But Gwydren is like, "Okay, we gotta go, we gotta go." Another short cut. I'll take you to. the tunnel- um- Old Brindlethorn, Old Brindlethorn is a massive like- cottage-sized... badger who... um- digs- dig-dig a gigantic set, like a gigantic but apartment. that SECTP has been, like, yeah, houses at the den. Um, around the Feywild, which goes in the know, used to travel. And Gwydren is like, "Well, I know how to navigate her tunnels. All we have to do is like, be nice and not bother her bedrooms, um, and she'll let us pass." When they arrive... they find her in some enchanted sleep, having a nightmare, and... struggling and kicking- blocking the entrance to her tunnels. And this seems to be cause... agitation is caused by the proximity of the Fay heart. This is an effect of the... Singing Tree's corruption So the party tries to figure out how to... calm her enough... to- get past, um... first thing they do is Yvan, the halfling, goes to try and um... push her, or like, prop her up somehow. Uh, he is small and does not do well on this, and-gets... wailed by her... flailing claw. Um... and then try and wake her up and fail, too. Uh, they then realize that she can... hear- she can still- sense what they're doing. but waking her up doesn't seem to be possible, so they switch to calming music, ascent of... fresh soil from prestidigitation from- Yvan, and the sort of- um- soothing music from Drou and this begins to calm her. I do this again. They then realize that they'll Fay heart itself is causing some agitation and so um, Yvan, who's the halfling, slips through, with the Fay heart and runs away, down the tunnel so that um- Fay heart will be farther from her and uh, shall calm down. This... mostly works. um- except that he was- at this, sneak into her bedroom, where the Fay heart uh- and does not do this stealthily enough, and so causes her a burst of violent agitation, which leads to Drou getting... gored by her claw. Um... but- we end as- they do succeed in- getting the whole party, including Gwydren the guide, past the sleeping badger into the tunnels. that's the end of the session there
 
 %%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Recorded the session viewpoint as DR 1715.
+- Normalized frontmatter ordering and collection formatting.
+- Restored “cause” in the hunters’ presumed motive and the missing subject in the sentence about Drou’s music.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Suggestion — editorial.shared_material_redundant:** The closing “raw notes” comment repeats the route, river crossing, meeting with Gwydren and passage into the sett already covered by the narrative. Preserve the complete dictation as a session source before considering removal of the duplicate account from this note. If it is already preserved separately, replace the comment with a pointer to that source.
+%%^End%%

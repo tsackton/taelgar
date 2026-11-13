@@ -1,4 +1,6 @@
 ---
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
 campaign: Dunmari Frontier
 sessionNumber: 108
@@ -6,9 +8,10 @@ realWorldDate: 2024-09-27
 DR: 1749-05-18
 DR_end: 1749-05-19
 players: [Seeker, Delwath, Kenzo, Wellby]
-name: Dunmari Frontier - Session 108
 tagline: in which the party discovers possible allies on the island
 descTitle: Meeting Dragonets
+name: Dunmari Frontier - Session 108
+POV: 1749
 ---
 # Dunmari Frontier - Session 108
 
@@ -34,7 +37,7 @@ The [[Dunmar Fellowship]] navigates alliances with [[Dragonets]], explores ancie
 
 
 ## Narrative
-The session began with the [[Kenzo]] and [[Wellby]] ascending a massive statue of [[The Wanderer]] to get a comprehensive view of the surrounding island. From the vantage point at the top, [[Kenzo]] and [[Wellby]] were able to identify several other statues of the [[Mos Numena|Eight Divines]], evenly placed around the perimeter of the island, as well as the full expanse of the local terrain, and a ruined town to the north, surrounded by collapsed towers and estates. Exploring the statue complex, the party found the remnants of a ruined pier at the feet of [[The Wanderer]]. Although the party briefly considered using clairvoyance to scout ahead, they ultimately decided to explore the ruined town directly, hoping to uncover useful information.  
+The session began with [[Kenzo]] and [[Wellby]] ascending a massive statue of [[The Wanderer]] to get a comprehensive view of the surrounding island. From the vantage point at the top, [[Kenzo]] and [[Wellby]] were able to identify several other statues of the [[Mos Numena|Eight Divines]], evenly placed around the perimeter of the island, as well as the full expanse of the local terrain, and a ruined town to the north, surrounded by collapsed towers and estates. Exploring the statue complex, the party found the remnants of a ruined pier at the feet of [[The Wanderer]]. Although the party briefly considered using clairvoyance to scout ahead, they ultimately decided to explore the ruined town directly, hoping to uncover useful information.
 
 The party made their way toward a ruined manor and tower, where they encountered small [[Dragons|dragon]]-like creatures engaged in a dice game. [[Kenzo]] and [[Wellby]] moved ahead to scout while [[Delwath]] and [[Seeker]] stayed hidden, keeping watch for any threats. They discovered an elegant manor with a cracked tower and found four [[Dragonets|dragonet]] creatures playing dice near the base of the tower. Kenzo approached, introducing himself as a wandering monk collecting stories, offering to play and holding out coins. Although wary of strangers, the [[Dragonets]] let him join -- one, in particular, seemed to be the leader of this group -- and were quite happy when he lost the first few rounds. 
 
@@ -54,9 +57,9 @@ Choosing to continue onward, they discussed their next steps, including the poss
 
 On the journey through the forest, the party came upon a clearing where two unusually tall trees stood, with a curving piece of pale gray stone growing between them. The stone bore hundreds of names inscribed in Elvish script, the letters appearing to drift through the stone like a living memorial. When [[Delwath]] touched the stone, one of the names drifted towards his hand, and he experienced a vivid vision of an [[Elves|elven]] warrior in battle, offering a glimpse into the [[Downfall Wars]].
 
-Kenzo then spoke to the trees, learning that there had been no pilgrims for many, many years, since the fall of [[Drankorian Empire|Drankor]]. The trees remembered those who died in battle and offered glimpses into their past lives. The party learned that the memorial had been created by elves who were once part of the Drankorian society, a society that welcomed many different species before its decline. [[Kenzo]] spoke to the trees further, gaining their trust and receiving a memory of a time when the island was vibrant, filled with pilgrims of different species visiting this memorial dedicated to the ancient [[Hkar]] and the dead of the [[Downfall Wars]]. The trees spoke as one organism, telling of their arrival when the island stopping being a refuge and became a memorial. 
+Kenzo then spoke to the trees, learning that there had been no pilgrims for many, many years, since the fall of [[Drankorian Empire|Drankor]]. The trees remembered those who died in battle and offered glimpses into their past lives. The party learned that the memorial had been created by elves who were once part of the Drankorian society, a society that welcomed many different species before its decline. [[Kenzo]] spoke to the trees further, gaining their trust and receiving a memory of a time when the island was vibrant, filled with pilgrims of different species visiting this memorial dedicated to the ancient [[Hkar]] and the dead of the [[Downfall Wars]]. The trees spoke as one organism, telling of their arrival when the island stopped being a refuge and became a memorial.
 
-Continuing up the mountain, The party arrived at the summit clearing where eight temples stood in a circle, each dedicated to a different deity. The temples were arranged around a central courtyard, with a bell tower that had a lighthouse-like top and several administrative buildings nearby. They found a large hostel where pilgrims would stay, along with a mess hall featuring stone benches and arcane circles for communal meals, suggesting the area once supported up to 100 people.
+Continuing up the mountain, the party arrived at the summit clearing where eight temples stood in a circle, each dedicated to a different deity. The temples were arranged around a central courtyard, with a bell tower that had a lighthouse-like top and several administrative buildings nearby. They found a large hostel where pilgrims would stay, along with a mess hall featuring stone benches and arcane circles for communal meals, suggesting the area once supported up to 100 people.
 
 Identifying the Temple of the Sibyl, dedicated to the deity of magic, knowledge, song, and love, the party noted that each temple had a single entrance facing the courtyard. [[Wellby]] carefully investigated the entrance to the Temple of [[The Sibyl]] and discovered a tripwire trap connected to a massive stone block that would swing down if triggered. Using a rope to maintain tension, the group successfully disarmed the trap, allowing them to enter the temple safely.
 
@@ -157,21 +160,21 @@ The party reunites to discuss their options for dealing with Ra'ghemdros, weighi
 - The party considers four main strategies: sneaking into Ra'ghemdros's lair, fighting her directly, trading for the jade, or ignoring the dragon for now and gathering more information.
 - The idea of sneaking in and using magic, such as clairvoyance or dimension door, to bypass the dangers is debated, but concerns about the treacherous acidic environment and shadowy tendrils make it risky.
 - They discuss the potential of offering a large quantity of treasure to trade for the jade, though they fear Ra'ghemdros may simply kill them and take the treasure instead.
-- Kenzo proposes a plan to lure Ra'ghemdros out of her lair by flaunting the jade pieces they already possess, but the group is wary of the dragon's power and the risk of her sending dragonettes after them.
+- Kenzo proposes a plan to lure Ra'ghemdros out of her lair by flaunting the jade pieces they already possess, but the group is wary of the dragon's power and the risk of her sending dragonets after them.
 - The party also talks about the possibility of forming alliances with other dragonets to help mitigate Ra'ghemdros's forces during an encounter, focusing on winning over those dissatisfied with her leadership.
 - Ultimately, the group decides to head into the elvish forest to gather more information about the nature of Ra'ghemdros's entrapment and to see if they can learn more about the mysterious Elder who may hold important knowledge.
 
 
 ### Journey to the Elvish Forest
 The party travels invisibly to the elvish forest, facing new challenges and making key observations.
-- They move across the landscape, making their way to the edge of the forest while invisible, avoiding detection by a pair of dragonettes flying overhead.
+- They move across the landscape, making their way to the edge of the forest while invisible, avoiding detection by a pair of dragonets flying overhead.
 - The terrain they pass through is dry and arid, with occasional springs, scrubby grasses, and little sign of life apart from small lizards and insects.
 - Upon reaching the forest, the group finds it open and airy, with tall trees, flowers, and sunlight filtering through the canopy, creating an almost serene atmosphere.
 - They begin walking along a pilgrim's path that seems to lead deeper into the forest, passing by open clearings and noticing that the path is well-kept with no sign of plant growth disrupting the paved road.
 - As the sun sets, they hear the sound of running water and come across a mysterious pool, where reflections of people with hollow eyes appear to be staring at them from the water's surface.
 - Kenzo inspects the pool but senses no immediate threat, although the unsettling reflections give the group pause.
-- The party decides to continue onward, avoiding potential dangers and discussing their next steps, including the possibility of sending a message to the Elder dragonette they seek.
-- During a short rest, Delwath sends a lynx messenger to announce their approach to Dimitaur, requesting an audience with the Elder dragonette.
+- The party decides to continue onward, avoiding potential dangers and discussing their next steps, including the possibility of sending a message to the Elder dragonet they seek.
+- During a short rest, Delwath sends a lynx messenger to announce their approach to Dimitaur, requesting an audience with the Elder dragonet.
 - Delwath also uses scrying to locate Dimitaur, seeing him inside a temple setting up a trap.
 
 
@@ -189,7 +192,7 @@ The party encounters an ancient memorial at the edge of the forest, gaining insi
 The party arrives at a mountaintop clearing where eight temples stand in a circle, each dedicated to a different deity, and they investigate the area.
 - The temples are arranged around a central courtyard, with a bell tower that has a lighthouse-like top and several administrative buildings nearby.
 - They find a large hostel where pilgrims would stay, along with a mess hall featuring stone benches and arcane circles for communal meals, suggesting the area once supported up to 100 people.
-- The party identifies the Temple of the Sibyl, dedicated to the deity of magic, knowledge, song, and love, and note that each temple has a single entrance facing the courtyard.
+- The party identifies the Temple of the Sibyl, dedicated to the deity of magic, knowledge, song, and love, and notes that each temple has a single entrance facing the courtyard.
 - Wellby investigates the temple entrance and discovers a tripwire trap connected to a massive stone block that would swing down if triggered.
 - The group disarms the trap using a rope to maintain tension, allowing them to safely enter the temple.
 - Inside, they hear a booming voice speaking from the statue of the Sibyl, demanding proof of their allegiance to Rai, challenging the party before they can proceed.
@@ -225,5 +228,3 @@ The party encounters the elderly dragonet Dimitaur, who tests their intentions a
 - After some conversation, made friends with Dimitaur, who spoke more about Rai, the island, and the dragonets.
 - Before bed: Used clairvoyance to see the basic layout of Ra’ghemdros’ lair, noting chimeras sleeping.
 - Long rest.
-
-

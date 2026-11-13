@@ -77,6 +77,16 @@
       "notePattern": "Lost in the Feywild - Episode {session_padded}.md",
       "defaultTemplate": "composable-session-note.md"
     },
+    "oskars-adventures": {
+      "name": "Oskar's Adventures",
+      "code": "oskar",
+      "aliases": [],
+      "partyPage": "Oskar's Companions",
+      "sessionRoot": "oskars-adventures",
+      "campaignRoot": "Campaigns/One Shots/Oskar's Adventures",
+      "notePattern": "Oskar's Adventures - Session {session_padded}.md",
+      "defaultTemplate": "composable-session-note.md"
+    },
     "dragonets": {
       "name": "Dragonets",
       "code": "dgnt",

@@ -1,5 +1,7 @@
 ---
-tags: [session-note]
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [session-note, status/check/lint]
 campaign: Dunmari Frontier
 sessionNumber: 88
 realWorldDate: 2023-11-21
@@ -9,6 +11,7 @@ players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
 tagline: in which Grash is defeated and the Ring of Undying is destroyed
 descTitle: The Battle for Uzgukhar
 name: Dunmari Frontier - Session 88
+POV: 1749
 ---
 # Dunmari Frontier - Session 88
 
@@ -18,7 +21,7 @@ name: Dunmari Frontier - Session 88
 > *On Earth: Tuesday Nov 21, 2023*
 > *[[Uzgukhar]]*
 
-The[[ Dunmar Fellowship]] destroys a trebuchet, defeats [[Grash]], and ends the undead siege on [[Uzgukhar]], with [[Wellby]] being killed and resurrected.
+The [[Dunmar Fellowship]] destroys a trebuchet, defeats [[Grash]], and ends the undead siege on [[Uzgukhar]], with [[Wellby]] being killed and resurrected.
 
 ## Session Info
 ### Summary
@@ -28,9 +31,9 @@ The[[ Dunmar Fellowship]] destroys a trebuchet, defeats [[Grash]], and ends the 
 - [[Wellby]] is killed by [[Grash]] but is resurrected by [[Riswynn]] using a powerful spell and a perfect diamond.
 - With the [[Siege of Uzgukhar]] broken and [[Grash]] defeated, the party aids in clearing remaining threats and celebrates victory in the [[War of the Cloak]] with the people of [[Uzgukhar]].
 ### Timeline
-- (DR:: 1749-01-17): [[Vindristjarna]] flies over the [[Plaguelands]] as the party races towards Uzguhkhar
-- (DR:: 1749-01-18): [[Vindristjarna]] flies over the [[Plaguelands]] as the party races towards Uzguhkhar
-- (DR:: 1749-01-19): [[Vindristjarna]] flies over the [[Plaguelands]] as the party races towards Uzguhkhar
+- (DR:: 1749-01-17): [[Vindristjarna]] flies over the [[Plaguelands]] as the party races towards Uzgukhar
+- (DR:: 1749-01-18): [[Vindristjarna]] flies over the [[Plaguelands]] as the party races towards Uzgukhar
+- (DR:: 1749-01-19): [[Vindristjarna]] flies over the [[Plaguelands]] as the party races towards Uzgukhar
 - (DR:: 1749-01-20): The party arrives in [[Uzgukhar]] soon after sunrise. [[Riswynn]] rejoins the group. Together, they destroy a massive trebuchet, fight off specters, and kill [[Grash]] in the [[Battle for Uzgukhar]]. [[Wellby]] is killed, and resurrected. The people of [[Uzgukhar]] celebrate survival. 
 ## Narrative
 We begin on [[Vindristjarna]], racing towards [[Uzgukhar]]. The party uses the few days of travel to learn what they can about [[Grash]], and the [[Ring of Undying]], from the various stories collected by [[Kenzo]] and the maps and lore and [[Halflings|halfling]] memories maintained by [[Wellby]]. 
@@ -45,10 +48,27 @@ With the trebuchet destroyed, the party fights off a group of shades and specter
 
 While [[Seeker]] hides on the deck of [[Vindristjarna]] slinging spells from a distance, the rest of the party engages. [[Grash]] fights viciously with his wicked glaive, every slash leaving a bleeding wound that makes movement painful, and his cloak of shadows protecting him and retaliating when cut or pierced. With the [[Ring of Undying]], he summons cursed chains that bind the arms of his enemies, weakening them and binding them closer to death. The party fights back with [[Delwath]]'s sword, [[Wellby]]'s bow, [[Kenzo]]'s fists, [[Riswynn]]'s divine sunbeam, and [[Seeker]]'s incapacitating lance of psychic energy. [[Grash]] stumbles, but cannot die: when it seems he might die, the ring draws the life force of those around him to restore him to life again. 
 
-As the battle progresses, and [[Grash]] slows, finally there is an opening to cut off his hand and take, and destroy, the [[Ring of Undying]]. Wounded and close to unconsciousness, and bound in place by shadowy claws summoned by [[Grash]], [[Kenzo]], who has channeled [[Motua]] and dodged [[Grash]]'s glaive the whole battle, summons the claws of [[Lengau]], and slashes as [[Grash]]'s wrist, severing his hand. With an off-balance throw, he tosses the hand to [[Wellby]], who barely grabs it, as the shadow claws slash at [[Kenzo]], dragging him to unconsciousness. [[Wellby]], the [[Ring of Undying]] in hand, takes out a vial of [[Universal Solvent]], and uses the last drop to dissolve the binds of the [[Land of the Dead]] that are wrapped around the ring, disintegrating it and unleashing a burst of necrotic energy that knocks [[Wellby]] unconscious. [[Grash]], overcome with rage, shadow steps to [[Wellby]], who is standing on a stone arch above the desert, and strikes him, once, twice with his glaive, and then pushed him to the ground below, dead. [[Delwath]], seeing the ring destroyed, teleports to [[Grash]] and then, with a cut of his sword, kills him. 
+As the battle progresses, and [[Grash]] slows, finally there is an opening to cut off his hand and take, and destroy, the [[Ring of Undying]]. Wounded and close to unconsciousness, and bound in place by shadowy claws summoned by [[Grash]], [[Kenzo]], who has channeled [[Motua]] and dodged [[Grash]]'s glaive the whole battle, summons the claws of [[Lengau]], and slashes at [[Grash]]'s wrist, severing his hand. With an off-balance throw, he tosses the hand to [[Wellby]], who barely grabs it, as the shadow claws slash at [[Kenzo]], dragging him to unconsciousness. [[Wellby]], the [[Ring of Undying]] in hand, takes out a vial of [[Universal Solvent]], and uses the last drop to dissolve the binds of the [[Land of the Dead]] that are wrapped around the ring, disintegrating it and unleashing a burst of necrotic energy that knocks [[Wellby]] unconscious. [[Grash]], overcome with rage, shadow steps to [[Wellby]], who is standing on a stone arch above the desert, and strikes him, once, twice with his glaive, and then pushes him to the ground below, dead. [[Delwath]], seeing the ring destroyed, teleports to [[Grash]] and then, with a cut of his sword, kills him.
 
 The party retreats to [[Vindristjarna]] as the [[Undead]] hordes begin to waver, and fall, every zombie, shade, or skeleton brought back by the power of the ring now unmade and returned to death. [[Riswynn]] prays to the [[Bahrazel]], channeling her magic through a perfect diamond, which sparkles and shatters with images of [[Wellby]]: a map, a compass, a ship on the open ocean searching for distant lands. As the spell completes, [[Wellby]] is brought back to life, shaken. 
 
 For the rest of the day, the party helps the [[People of the Rainbow|orcs]] of [[Uzgukhar]] destroy the few [[Undead]] and other creatures left in [[Grash's Horde|Grash's armies]], as [[Xurkhaz]] is saved and the [[Cloak of Rainbows]] protected. 
 
 We end that evening, as the celebrations of survival and mourning for the dead last long into the night in [[Uzgukhar]], as the party hears stories of the [[People of the Rainbow]] from [[Murook]], [[Lubash]], and [[Azogar]], among many others. 
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Set `POV: 1749`.
+- Repaired spacing around the Fellowship link, corrected the city spelling in the timeline, and corrected two verbs in the battle narrative.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Suggestion — campaign.noncanonical_name:** The registry recognizes Dunmari Frontier as an alias. Its canonical field value is `campaign: Dunmar Frontier`.
+
+- [ ] **Warning — correctness.internal_conflict:** The narrative opens the battle on January 20, 1748. The header, timeline, and [[Battle for Uzgukhar]] date it to January 20, 1749. Confirm the intended year; if the timeline governs, replace “January 20, 1748” with “January 20, 1749” in the narrative.
+%%^End%%

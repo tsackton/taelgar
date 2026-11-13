@@ -1,5 +1,7 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
 websiteSessionView: zoomable
 campaign: Dunmar Frontier
@@ -10,11 +12,12 @@ DR: 1748-03-22
 DR_end: 1748-03-23
 players: [Kenzo, Wellby, Delwath, Seeker]
 companions: []
-name: "Dunmari Frontier - Session 1"
-descTitle: "Hyena Rampage"
-tagline: "in which the party meets and confronts dangers in Karawa"
+descTitle: Hyena Rampage
+tagline: in which the party meets and confronts dangers in Karawa
 sessionKey: dunmari-frontier-session-1
 session-template: dunmar-frontier-template.md
+name: Dunmari Frontier - Session 1
+POV: 1748
 ---
 # Dunmari Frontier - Session 1
 

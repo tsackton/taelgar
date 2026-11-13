@@ -1,4 +1,6 @@
 ---
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
 campaign: Dunmari Frontier
 sessionNumber: 31
@@ -10,6 +12,7 @@ companions: [Garret Tealeaf]
 tagline: in which the party frees a lost heir
 descTitle: Mirror of Liberation
 name: Dunmari Frontier - Session 31
+POV: 1748
 ---
 # Dunmari Frontier - Session 31
 
@@ -25,7 +28,7 @@ The Dunmar Fellowship thwarts an attack by Agata's allies, safeguards treasure, 
 ### Summary
 - The [[Dunmar Fellowship]] is attacked by orcs and other creatures allied with the hag [[Agata]]; while the attackers are defeated, some treasure and a horse are stolen.
 - The party travels to [[Bas Udda]], where they hide treasure and free prisoners from living wood.
-- On route to [[Karawa]], they destroy cursed items from [[Agata]] before crossing [[Shakun's Protection]]
+- En route to [[Karawa]], they destroy cursed items from [[Agata]] before crossing [[Shakun's Protection]]
 - The party arrives in [[Karawa]] and consults [[Cintra]], then frees Nayan [[Sura]] and other prisoners from the [[Mirror of Soul Trapping]].
 - [[Sura]]'s liberation hints at potential political upheaval in [[Dunmar]].
 
@@ -53,8 +56,8 @@ The party arrives at the outskirts of [[Karawa]] a few days later, not wanting t
 
 As the scene fades, while [[Seeker]] and [[Drikod]] puzzle over the architecture of the castle in the last scene, eventually placing it as pre-[[Great War]] hobgoblin architecture from the eastern side of the mountains, [[Cintra]] stands by, shocked. She tells the party that the first Dunmari woman they saw is Nayan [[Sura]], the woman who should be Samraat of [[Dunmar]]. [[Sura]] was supposed to be the heir to the throne, but she vanished 8 years ago, leading her brother to take the throne in her place. 
 
-The party quickly frees her quickly after that. She does not know [[Agata]], remembering only a giant spiked club (perhaps [[Samerki]]’s weapon, which you recall was also a giant spiked club) and then a faint memory of being half-awake in a smoky room, staring at her bloody head in a mirror before she vanished into a strange blank foggy mist. 
+The party quickly frees her after that. She does not know [[Agata]], remembering only a giant spiked club (perhaps [[Samerki]]’s weapon, which you recall was also a giant spiked club) and then a faint memory of being half-awake in a smoky room, staring at her bloody head in a mirror before she vanished into a strange blank foggy mist.
 
-During the brief conversation that follows, the party recalls some of the political rumors they have heard, that [[Sura]] was seen as a unifying force, someone who could unite the eastern and western factions into Greater [[Dunmar]]. When she vanished, her brother [[Nayan Karnas]] turned to the west and abandoned the eastern Dunmari, recently refusing to sent troops to help with the gnolls, for example. [[Sura]] insists that the other two Dunmari ([[Isha]] and [[Selkan]]) are freed, and after seeing the tortures they have suffered gives the party a writ of travel (not so useful at the moment) and thanks them for their work. 
+During the brief conversation that follows, the party recalls some of the political rumors they have heard, that [[Sura]] was seen as a unifying force, someone who could unite the eastern and western factions into Greater [[Dunmar]]. When she vanished, her brother [[Nayan Karnas]] turned to the west and abandoned the eastern Dunmari, recently refusing to send troops to help with the gnolls, for example. [[Sura]] insists that the other two Dunmari ([[Isha]] and [[Selkan]]) are freed, and after seeing the tortures they have suffered gives the party a writ of travel (not so useful at the moment) and thanks them for their work.
 
-The session ends as [[Sura]] tells them to keep her reappearance quiet until the [[Feast of Bhishma]], [[Cintra]] takes the broken Dunmari mystai freed from the mirror back to the temple, and the party turns to [[Karawa]], to take care of loose ends and other business until the [[Feast of Bhishma]] in 9 days time. 
+The session ends as [[Sura]] tells them to keep her reappearance quiet until the [[Feast of Bhishma]], [[Cintra]] takes the broken Dunmari mystai freed from the mirror back to the temple, and the party turns to [[Karawa]], to take care of loose ends and other business until the [[Feast of Bhishma]] in 9 days’ time.

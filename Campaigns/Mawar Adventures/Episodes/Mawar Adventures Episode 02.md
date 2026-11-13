@@ -1,5 +1,7 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
 campaign: Mawar Adventures
 sessionNumber: 2
@@ -7,12 +9,13 @@ realWorldDate: 2021-08-19
 DR: 1747-08-03
 DR_end: 1747-08-09
 players: [Ryu, Wazir, Trok, Kaleho]
-name: Mawar Adventures Episode 02
 descTitle: The Tragedy of Azar
 tagline: in which a grieving killer is unmasked
 sessionKey: mawar-adventures-session-2
 websiteSessionView: zoomable
 session-template: mawar-template.md
+name: Mawar Adventures Episode 02
+POV: 1747
 ---
 # Mawar Adventures Episode 02
 
@@ -58,7 +61,7 @@ Clues from [[The Ciphered Scroll|the Ciphered Scroll]] and the people of [[Hamri
 
 ## Narrative
 
-At the Leviathan, [[Wazir]] finally lays out what he has learned from [[The Ciphered Scroll]]. Its author, later identified as Azar, sought to restore his dead wife [[Nadine]]. To do so, he experimented on vulnerable people whose bodies filled with water, and eventually sought clues from the  legends of [[Airion]] the Mistspeaker, leading to summoning a [[marid]], [[Nimessa]], and making sacrifices to [[Gazankoa]]. [[Ryu]], [[Trok]], [[Kaleho]], and [[Wazir]] debate resurrection lore, [[Gatza|gatza]] visions, and Airion's ruined tower in the [[North Cliffs]] above the old sea cave before agreeing to rest and investigate the tower in the morning.
+At the Leviathan, [[Wazir]] finally lays out what he has learned from [[The Ciphered Scroll]]. Its author, later identified as Azar, sought to restore his dead wife [[Nadine]]. To do so, he experimented on vulnerable people whose bodies filled with water, and eventually sought clues from the legends of [[Airion]] the Mistspeaker, leading to summoning a [[marid]], [[Nimessa]], and making sacrifices to [[Gazankoa]]. [[Ryu]], [[Trok]], [[Kaleho]], and [[Wazir]] debate resurrection lore, [[Gatza|gatza]] visions, and Airion's ruined tower in the [[North Cliffs]] above the old sea cave before agreeing to rest and investigate the tower in the morning.
 
 The next morning, the group climbs to Airion's ruined tower in the [[North Cliffs]], above the sea cave, and finds evidence that someone has surreptitiously been living there. The tower proves older than the surrounding watchtower ruin, and its interior throws them into a convincing water realm where [[Wazir]], [[Trok]], and [[Kaleho]] contend with the sensation of drowning, swimming, and being trapped in a bubble of force. While the illusion fades back to a shallow flooded chamber, it leaves the party shaken and wondering about the connection to [[Azar the Lost]].
 
@@ -66,7 +69,7 @@ Seeking more information, the party fans out across [[Hamri]] for local witnesse
 
 Around midday, the party regroups at the fish market and learns from [[Benat]] that Airion's tower belongs to a much older magical history around [[Hamri]] and its water-linked extraplanar weak spots. The party splits again: [[Kaleho]] and [[Trok]] visit [[Ovina]], who admits that the old man paid with a valuable gold-and-sapphire ring for a sealed, lead-lined box, and [[Wazir]] and [[Ryu]] climb to Glitter Cliff to ask [[Sulfi Mahadra|Sulfi]] about the phantom boat. [[Sulfi Mahadra|Sulfi]] declines to meet directly, but her servant reports that she knows of no strange ship and wants any such vessel reported for proper fees and duties.
 
-In the late afternoon, the party regroups at Shark's Dock. [[Wazir]] tests the [[Airion's Ring of Elemental Binding|dismantled ring]] and the lead-lined box at Ovina's shop; the group theorizes that the lead-lined box may be a way to contain the strange  [[Blood Knife|magical knife]] associated with Azar. [[Ryu]] and [[Trok]] speak with [[Yaz]] after dark about the living ocean and the [[Splinters]], and the group returns to the Leviathan to plan. They decide that one person will approach Azar when he comes to collect the box in the morning, while the others remain hidden near the dock.
+In the late afternoon, the party regroups at Shark's Dock. [[Wazir]] tests the [[Airion's Ring of Elemental Binding|dismantled ring]] and the lead-lined box at Ovina's shop; the group theorizes that the lead-lined box may be a way to contain the strange [[Blood Knife|magical knife]] associated with Azar. [[Ryu]] and [[Trok]] speak with [[Yaz]] after dark about the living ocean and the [[Splinters]], and the group returns to the Leviathan to plan. They decide that one person will approach Azar when he comes to collect the box in the morning, while the others remain hidden near the dock.
 
 At dawn, the party waits around Shark's Dock while [[Ryu]] watches the harbor and spots the phantom boat coming in fast from the north. Azar arrives in oilskin cloaks, collects the lead-lined box from [[Ovina]], and tries to walk back to the dock without answering Ryu's questions about the tower, the deaths, and the [[Sentient Ocean]]. Invisible [[Wazir]] whispers Nadine's name through a coin, Azar reveals himself and insists [[Gazankoa]] is helping him save his family, and [[Ryu]] realizes the invitation onto the boat is a trap as weapons come out.
 

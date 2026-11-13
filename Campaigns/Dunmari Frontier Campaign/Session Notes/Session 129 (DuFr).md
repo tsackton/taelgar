@@ -1,14 +1,17 @@
 ---
-tags: [session-note]
-name: Dunmari Frontier - Session 129
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [session-note, status/check/lint]
 campaign: Dunmari Frontier
 sessionNumber: 129
 realWorldDate: 2025-08-11
 DR: 1749-07-05
 DR_end: 1749-08-07
 players: [Delwath, Kenzo, Wellby, Seeker]
-tagline: in which grave danger threatens Aurbez 
+tagline: in which grave danger threatens Aurbez
 descTitle: Desperate Pleas
+name: Dunmari Frontier - Session 129
+POV: 1749
 ---
 # Dunmari Frontier - Session 129
 
@@ -22,7 +25,7 @@ After reshaping [[Chardon]]'s [[chalyte]] order, the party receives a desperate 
 
 ## Session Info
 ### Summary
-- News of [[Dhrukmir]]’s death and the opening of a new [[chalyte]] source triggered  sweeping reforms in [[Chardon]]: the [[Mitus Verina Auratan|Magistros]] chartered the [[Imperial Chalyte Mining Company]], seized refineries, and created the [[Chalyte Refining Corporation]].
+- News of [[Dhrukmir]]’s death and the opening of a new [[chalyte]] source triggered sweeping reforms in [[Chardon]]: the [[Mitus Verina Auratan|Magistros]] chartered the [[Imperial Chalyte Mining Company]], seized refineries, and created the [[Chalyte Refining Corporation]].
 - [[Kenzo]] and [[Delwath]] engaged in tense negotiations to ensure rights for [[chalyte]] workers and fair positions in the leadership of the [[Chalyte Refining Corporation]], while [[Seeker]] researched information about the [[Elemental Plane of Fire]] and [[Wellby]] got back in touch with his halfling roots.
 - Weeks later, [[Sura]]’s urgent message drew the party east; they teleported to the [[Aursen Marshes|marshes]] of the upper [[Aursen]] to aid [[Marcella]].
 - Night recon as great eagles led to an ash cloud masking a 400‑foot-long, shifting‑metal centipede behemoth venting ash and carrying thousands of [[Hobgoblins]]; a [[Empress of Chaos|silver‑clad commander]] radiated a reality‑warping aura.
@@ -35,7 +38,7 @@ After reshaping [[Chardon]]'s [[chalyte]] order, the party receives a desperate 
 - (DR:: 1749-07-05), evening: On [[Vindristjarna]], [[Octavia Antussus]] departs for [[Argento]] and [[Tristan Brighteyes]] for [[Darba]]; [[Kenzo]] bargains by dream with the [[Mitus Verina Auratan|Magistros]], who outlines plans for a new [[Chalyte Refining Corporation]].
 - (DR:: 1749-07-06) – (DR_end:: 1749-07-08):  [[Vindristjarna]] flies to Chardon.
 - (DR:: 1749-07-09): Arrival in [[Chardon]]; [[Mitus Verina Auratan|Magistros]] proclaims the [[Imperial Chalyte Mining Company]], seizes oligarch lands, and grants [[Kenzo]] ruined properties in [[Ragwater Basin]] and the [[Riverside Quarter]].
-- (DR:: 1749-07-10) – (DR_end:: 1749-08-06): [[Kenzo]] helps found the[[ Chalyte Refining Corporation]] with equal seats for the [[Guild of Chalyte Workers]] and [[Windcallers]]; [[Delwath]] pursues rumors of the elves, [[Seeker]] and [[Wellby]] study the [[Elemental Plane of Fire|Plane of Fire]].
+- (DR:: 1749-07-10) – (DR_end:: 1749-08-06): [[Kenzo]] helps found the [[Chalyte Refining Corporation]] with equal seats for the [[Guild of Chalyte Workers]] and [[Windcallers]]; [[Delwath]] pursues rumors of the elves, [[Seeker]] and [[Wellby]] study the [[Elemental Plane of Fire|Plane of Fire]].
 - (DR:: 1749-07-25): Peace treaty with [[Dunmar]] concluded: [[Darba]] ceded as free port, [[Chardonian Empire]] pays reconstruction fee, realm split between [[Sura]] and [[Nayan Karnas|Karnas]].
 - (DR:: 1749-08-01): [[Hektor]], recovered enough from his long mind control ordeal, joins the crew of [[Vindristjarna]].
 - (DR:: 1749-08-02): [[Vola]] departs [[Chardon]] for [[Apporia]], seeking healing from her betrayal.
@@ -46,7 +49,7 @@ After reshaping [[Chardon]]'s [[chalyte]] order, the party receives a desperate 
 
 ## Narrative
 
-Our session begins among the shattered remains of [[Dhrukmir]]'s lair, the dead body of the massive titan and his discarded, [[chalyte]]-studded club scattered across ruined buildings, as ogres flee and chaos reigns. In a circle of calm around the [[Dunmar Fellowship]], [[Brunnar]] of the stone giants speaks for those now free of [[Dhrukmir]]'s rule: his people would disperse, some heading east across the [[Myraeni Gap]] and others finding into solitary holds in [[Ulgrathar]]. They only asked only to be left alone. [[Seeker]] gathered [[chalyte]] shards, and the party retreated to [[Vindristjarna]], where [[Octavia Antussus]] was preparing to depart for [[Argento]] to bring the [[Chardonian Legion]] to secure the chalyte mines, while [[Tristan Brighteyes]] prepared to travel across the mountains and make contact with the Chardonian Navy in [[Darba]]. 
+Our session begins among the shattered remains of [[Dhrukmir]]'s lair, the dead body of the massive titan and his discarded, [[chalyte]]-studded club scattered across ruined buildings, as ogres flee and chaos reigns. In a circle of calm around the [[Dunmar Fellowship]], [[Brunnar]] of the stone giants speaks for those now free of [[Dhrukmir]]'s rule: his people would disperse, some heading east across the [[Myraeni Gap]] and others finding their way into solitary holds in [[Ulgrathar]]. They asked only to be left alone. [[Seeker]] gathered [[chalyte]] shards, and the party retreated to [[Vindristjarna]], where [[Octavia Antussus]] was preparing to depart for [[Argento]] to bring the [[Chardonian Legion]] to secure the chalyte mines, while [[Tristan Brighteyes]] prepared to travel across the mountains and make contact with the Chardonian Navy in [[Darba]].
 
 That evening, [[Kenzo]] spoke to the [[Mitus Verina Auratan|Magistros]] by dream-message, seeking guarantees that the power of the [[Chalyte Oligarchs of Chardon]] would be broken and their land turned over to him, as promised. The [[Mitus Verina Auratan|Magistros]] answered with his gambit against the [[Curia of 42]], claiming the monopoly rights over [[chalyte]] refining for the new [[Chalyte Refining Corporation]], to be jointly controlled by the chalyte worker's guilds and the [[Windcallers]]. It would take time, he said, for plans to be settled, but he was eager to begin. The next morning, the party set off for [[Chardon]] in [[Vindristjarna]], to lend their weight to the work. 
 
@@ -54,11 +57,11 @@ That evening, [[Kenzo]] spoke to the [[Mitus Verina Auratan|Magistros]] by dream
 
 Weeks of work followed. [[Kenzo]] shuttled between [[Windcallers]], guild workers, and the [[Mitus Verina Auratan|Magistros]], insisting the workers gain real footing. The settlement set equal seats for [[Windcallers]] and the new [[Guild of Chalyte Workers|worker's guilds]] on the corporation’s board, with the [[Mitus Verina Auratan|Magistros]] appointing members following [[Kenzo]]'s advice, and holding the tie-breaking vote, but agreeing to abstain from any decisions concerning profit-sharing. The [[Chalyte Refining Corporation]] took control of three of the safest and highest quality [[chalyte]] refineries, to continue [[chalyte]] production in the city, with the board controlling how profits would be reinvested. [[Kenzo]], now owner and landlord of vast swaths of ruined territory, began planning how to reinvigorate the community of his youth, while also helping establish and cement the power of the [[Guild of Chalyte Workers]]. 
 
-Elsewhere, [[Delwath]] lent a silver tongue to talks and quietly chased rumors of the vanished [[Elves]]. [[Seeker]] studied refinery craft and the [[Elemental Plane of Fire|Plane of Fire]]. [[Wellby]] mapped dangers of the [[Elemental Plane of Fire|Plane of Fire]] and set the Saga of Apollyon to verse with halfling storytellers. In late July, news came of the settlement of a peace treaty with [[Dunmar]]: [[Darba]] ceded as a free port, with the [[Chardonian Empire]] paying a transfer fee to aid in reconstruction; the realm itself split in two between [[Sura]] and [[Nayan Karnas|Karnas]]. Also in late July, the [[Chataan Mountains]], the [[Imperial Chalyte Mining Company]] readied its first exploratory expeditions, [[Dhrukmir]]'s ogres having been quelled by the legions. By early August, [[Chardon]] steadied, though negotiations continued apace, a sense of normalcy returned to the city after months of turmoil and chaos. 
+Elsewhere, [[Delwath]] lent a silver tongue to talks and quietly chased rumors of the vanished [[Elves]]. [[Seeker]] studied refinery craft and the [[Elemental Plane of Fire|Plane of Fire]]. [[Wellby]] mapped dangers of the [[Elemental Plane of Fire|Plane of Fire]] and set the Saga of Apollyon to verse with halfling storytellers. In late July, news came of the settlement of a peace treaty with [[Dunmar]]: [[Darba]] ceded as a free port, with the [[Chardonian Empire]] paying a transfer fee to aid in reconstruction; the realm itself split in two between [[Sura]] and [[Nayan Karnas|Karnas]]. Also in late July, in the [[Chataan Mountains]], the [[Imperial Chalyte Mining Company]] readied its first exploratory expeditions, [[Dhrukmir]]'s ogres having been quelled by the legions. By early August, [[Chardon]] steadied. Though negotiations continued apace, a sense of normalcy returned to the city after months of turmoil and chaos.
 
 On [[Vindristjarna]], [[Hektor]], recovered enough to emerge from the [[Mirror of Soul Trapping]], found himself work on [[Vindristjarna]], joining the crew. [[Vola]], still troubled by being betrayed into magical bondage, left the city for [[Apporia]] to try to gain a new perspective and clear her mind. 
 
-In early August, in the midst of tying up these loose ends, [[Wellby]]'s sending stone stirred with [[Sura]]'s voice. [[Marcella]], who had settled on the [[Aurbez Plateau]] after being freed by the party from [[Kadmos]], begged for help. Scouts in the Refounded Alliance of Arbez had seen a hobgoblin host moving out of the [[Plaguelands]] beneath a drifting shroud of ash. Numbers were unclear; more scouts had not returned. Militias were mustering, riders calling aid to every neighbor. The message was already eight days old.
+In early August, in the midst of tying up these loose ends, [[Wellby]]'s sending stone stirred with [[Sura]]'s voice. [[Marcella]], who had settled on the [[Aurbez Plateau]] after being freed by the party from [[Kadmos]], begged for help. Scouts in the Refounded Alliance of Aurbez had seen a hobgoblin host moving out of the [[Plaguelands]] beneath a drifting shroud of ash. Numbers were unclear; more scouts had not returned. Militias were mustering, riders calling aid to every neighbor. The message was already eight days old.
 
 Leaping immediately into action, the party returned to [[Vindristjarna]] and set out east, for the [[Aurbez Plateau]]. That evening, [[Delwath]] entered [[Marcella]]'s dreams. After a brief, urgent conversation, the party decided that speed was of the essence, and, using [[Marcella]]'s description of the [[Aursen Marshes]], trusted to [[Seeker]]'s unfailing ability to teleport anywhere to bring them to her immediately. Meanwhile, the crew kept [[Vindristjarna]] flying east.
 
@@ -66,11 +69,11 @@ Leaping immediately into action, the party returned to [[Vindristjarna]] and set
 
 The party immediately set off to scout, taking the shapes of great eagles to reach the ash cloud by dawn, and promising [[Marcella]] to find her the next day at the council meeting upriver at [[Three Wells]]. They flew as eagles through the night, following the river past a walled town and then over abandoned farmsteads. By dawn they were over the [[Plaguelands]], the land turned ashen and broken: torn hills, gray pools ringed with thorn-trees, and a limping seven‑legged beast that paid them no mind. Ahead lay an undulating ash cloud, wide and long, moving with arrhythmic booms like metal crushing stone.
 
-They set down five miles ahead and hid among the rocks. [[Kenzo]] and [[Wellby]] scouted. The air stung with grit; ash spilled from the top of something, leaving a trail on the stone. [[Wellby]] sent his senses into a bat and guided it into the ash cloud. Inside, the ash broke to reveal massive centipede-like behemoth, at least 400 feet long, made of some strange shifting metallic flesh, its back split by gaping vents that breathed ash, seeming to glide across the ground and even up steep cliffs, passing over all obstacles in its way. Along its flanks, ringed platforms bore ranks of hobgoblins, numbering in the thousands. On the head of the creature a captain stood, armored in the same strange metal. A rider spotted the bat, killed it, and ate it. [[Kenzo]] felt only hobgoblin souls; the engine itself was empty. The ground beneath the thing seemed unstable, reality thinned.
+They set down five miles ahead and hid among the rocks. [[Kenzo]] and [[Wellby]] scouted. The air stung with grit; ash spilled from the top of something, leaving a trail on the stone. [[Wellby]] sent his senses into a bat and guided it into the ash cloud. Inside, the ash broke to reveal a massive centipede-like behemoth, at least 400 feet long, made of some strange shifting metallic flesh, its back split by gaping vents that breathed ash, seeming to glide across the ground and even up steep cliffs, passing over all obstacles in its way. Along its flanks, ringed platforms bore ranks of hobgoblins, numbering in the thousands. On the head of the creature a captain stood, armored in the same strange metal. A rider spotted the bat, killed it, and ate it. [[Kenzo]] felt only hobgoblin souls; the engine itself was empty. The ground beneath the thing seemed unstable, reality thinned.
 
 The party let the column pass, hoping to seize a prisoner, or at least a corpse for questioning, from the end of the column. Hidden by a low blind of stacked rocks, [[Delwath]] breathed Sleep across the rear ranks. Two riders slipped and tumbled into the grit. [[Seeker]]’s unseen force hooked one and dragged him toward the blind while Delwath rewrapped allies and prisoner alike in invisibility.
 
-The silver-clad commander lifted from the centipede’s prow, metal streaming and reknitting over her skin as she circled in flight. Finding one fallen hobgoblin, she landed to rouse him, and then began to spiral outward, searching carefully for his companion. Meanwhile, still hidden in their rock blind, the party examined their captive. He was tall, muscular hobgoblin, armored in mismatched but well-maintained armor, bearing a sigil: three jagged shards of a shattered crown, with three curling blades dripping beneath. 
+The silver-clad commander lifted from the centipede’s prow, metal streaming and reknitting over her skin as she circled in flight. Finding one fallen hobgoblin, she landed to rouse him, and then began to spiral outward, searching carefully for his companion. Meanwhile, still hidden in their rock blind, the party examined their captive. He was a tall, muscular hobgoblin, armored in mismatched but well-maintained armor, bearing a sigil: three jagged shards of a shattered crown, with three curling blades dripping beneath.
 
 With the search drawing close, Delwath woke the prisoner and whispered a bent desire: come with us, step through. As the commander banked toward their cover, Seeker quickly unleashed his Teleport spell before they were spotted, the rocks and ash vanishing from around them as they reappeared on the hillock, now in the morning sun, from which they set flight hours ago. As the party prepared to interrogate their prisoner, Delwath laid careful magic upon him, making enthusiastic storytelling his favorite activity. 
 
@@ -195,3 +198,20 @@ _The hobgoblin stirs under enchantment, groggy, then sits upright. His eyes dart
 - Interrogation is paused for next week; players joke about not telling Seeker about the Chaos metal.
 
 %%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Recorded the session’s DR 1749 viewpoint.
+- Normalized frontmatter formatting.
+- Corrected spacing in the summary and corporation link, repeated “only,” missing words, a comma splice, and the spelling of Aurbez.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Suggestion — campaign.noncanonical_name:** The campaign field uses the recognized alias “Dunmari Frontier.” Use the registry’s canonical field value `campaign: Dunmar Frontier`.
+- [ ] **Suggestion — editorial.shared_material_redundant:** The hidden “Detailed Summary” repeats the visible account from the fall of Dhrukmir through Szoltár’s interrogation. Retain distinct table notes and source details in the comment and trim the repeated scene summaries.
+%%^End%%

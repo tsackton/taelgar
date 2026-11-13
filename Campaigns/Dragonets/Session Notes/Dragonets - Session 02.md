@@ -1,19 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [session-note, status/check/lint]
 websiteSessionView: zoomable
 campaign: Dragonets
 sessionNumber: 2
 realWorldDate: 2026-09-29
 DR: unknown
-DR_end: 
+DR_end: null
 players: [Heska, Sculpit, Little Tony, Zeno]
 companions: []
-descTitle: "The Hidden Heart"
-name: "Dragonets - Session 2"
-POV: undated
+descTitle: The Hidden Heart
 sessionKey: dragonets-session-2
 session-template: dragonets-template.md
+name: Dragonets - Session 2
+POV: undated
 ---
 # Dragonets - Session 2
 
@@ -59,18 +61,18 @@ Following a morning of memories and improbable breakfasts, Heska, Sculpit, Littl
 
 ### Locations
 
-- [[Circular Island]] (island in the [[Sea of Storms]]): The friends' home island, where dormant mechanisms respond to them and [[The Wanderer|the Wanderer]] awakens. Session context includes: The Wanderer's palm, the oadside food machine, Oru's tent at the Jubilee temple grounds, and inside the Wanderer's statue.
+- [[Circular Island]] (island in the [[Sea of Storms]]): The friends' home island, where dormant mechanisms respond to them and [[The Wanderer|the Wanderer]] awakens. Session context includes: The Wanderer's palm, the roadside food machine, Oru's tent at the Jubilee temple grounds, and inside the Wanderer's statue.
 
 ## Narrative
 > [!image|right standard]
 > ![[dragonets-01-wanderer.webp]]
 > *The Wanderer’s palm, where the friends wake after the vision.*
 
-Morning finds Heska, Sculpit, Little Tony, and Zeno on the Wanderer's palm, waking slowly from a strange night of dreams and visions. The egg is dark beside them, no longer glowing, and their brief taste of extraordinary abilities has faded. As each dragonet wakes, they find the strange experience has brought childhood memories into focus. Zeno drifts awake first, in his mind recalling visiting his uncle Kaz at a mountain monastery, where the monks' drone seemed to play their bodies and the building as one instrument. Heska, waking second, things to himself about a miserable dance performance nobody noticed when he was a young dragonet, and then flight out to sea to escape the embarrassment, where he discovered how to conceal himself from fish below; his great catch gave him another way to belong. Sculpit opens his eyes remembering a storm engulfing him during a youthful race, the moment he stopped struggling against its energy, and his sudden arrival on the Wanderer's palm. Now he can look toward that same storm with an unfamiliar calm. Little Tony wakes last, his mind replaying a memory from long ago, when he spared the golden-shelled King of the Hermit Crabs, wishing for the ability to 'walk to any swing' as a reward. The crab heard 'talk to anything,' and the world began speaking to him.
+Morning finds Heska, Sculpit, Little Tony, and Zeno on the Wanderer's palm, waking slowly from a strange night of dreams and visions. The egg is dark beside them, no longer glowing, and their brief taste of extraordinary abilities has faded. As each dragonet wakes, they find the strange experience has brought childhood memories into focus. Zeno drifts awake first, in his mind recalling visiting his uncle Kaz at a mountain monastery, where the monks' drone seemed to play their bodies and the building as one instrument. Heska, waking second, thinks to himself about a miserable dance performance nobody noticed when he was a young dragonet, and then his flight out to sea to escape the embarrassment, where he discovered how to conceal himself from fish below; his great catch gave him another way to belong. Sculpit opens his eyes remembering a storm engulfing him during a youthful race, the moment he stopped struggling against its energy, and his sudden arrival on the Wanderer's palm. Now he can look toward that same storm with an unfamiliar calm. Little Tony wakes last, his mind replaying a memory from long ago, when he spared the golden-shelled King of the Hermit Crabs, wishing for the ability to 'walk to any swing' as a reward. The crab heard 'talk to anything,' and the world began speaking to him.
 
-Soon after waking, hunger and talk of breakfast and possibly opening restaurant soon drive the dragonets to consider leaving the Wanderer's hand in search of food. Grandpa Jim the Cloud, an old acquaintance of Tony's with strong opinions about his usefulness, reports quite strange things across the island: all the statue eyes opening, illuminated roads, and newly active fountains and food machines. Excited by the thought of food, the friends follow the pilgrimage road to a crowd around one of the old machines. Xena is there, prompting Heska to hide; and Tony's cousin Paulie is also there, who reports that last night, Joey imagined salted salmon and the machine made what he imagined!  Zeno, excited, harmonizes with the machine's hum until steam and a waterwheel begin moving, then imagines fish inside fish inside fish. Out comes a raw bluefin with smaller fish and a raw potato inside it -- close enough to his intention for Zeno to consume hungrily, while Little Tony senses the machine's delight in having a purpose again.
+Soon after waking, hunger and talk of breakfast and possibly opening a restaurant soon drive the dragonets to consider leaving the Wanderer's hand in search of food. Grandpa Jim the Cloud, an old acquaintance of Tony's with strong opinions about his usefulness, reports quite strange things across the island: all the statue eyes opening, illuminated roads, and newly active fountains and food machines. Excited by the thought of food, the friends follow the pilgrimage road to a crowd around one of the old machines. Xena is there, prompting Heska to hide; and Tony's cousin Paulie is also there, who reports that last night, Joey imagined salted salmon and the machine made what he imagined!  Zeno, excited, harmonizes with the machine's hum until steam and a waterwheel begin moving, then imagines fish inside fish inside fish. Out comes a raw bluefin with smaller fish and a raw potato inside it -- close enough to his intention for Zeno to consume hungrily, while Little Tony senses the machine's delight in having a purpose again.
 
-Heska uses an invisible Mage Hand to sample the unfamiliar food, curious and tempted but still hiding Zena. In a fit of mischief, he drops a stringy portion of strange food onto one of Xena's fans, provoking a squabble. Meanwhile, Sculpit gathers samples with an Unseen Servant. Little Tony, wanting to see what the machine can do, calls the group over, and proposes that everyone imagine the same food, ideally the best food. Everyone, of course, choses something different. The machine manages to respond with a cacophony of food-like substances: metal spaghetti-like strands, potatoes full of fish, and tuna bones studded with clams. Little Tony considers this a great success: the restaurant will serve food on sticks, with swing seating and swing music. 
+Heska uses an invisible Mage Hand to sample the unfamiliar food, curious and tempted but still hiding Zena. In a fit of mischief, he drops a stringy portion of strange food onto one of Xena's fans, provoking a squabble. Meanwhile, Sculpit gathers samples with an Unseen Servant. Little Tony, wanting to see what the machine can do, calls the group over, and proposes that everyone imagine the same food, ideally the best food. Everyone, of course, chooses something different. The machine manages to respond with a cacophony of food-like substances: metal spaghetti-like strands, potatoes full of fish, and tuna bones studded with clams. Little Tony considers this a great success: the restaurant will serve food on sticks, with swing seating and swing music.
 
 Shortly after, Ilse interrupts with questions and a summons from Oru, then reverses her ceremonial cloak to offer business advice as the group departs to speak with Shaman Oru. She recommends displaying the bones, leaving the metal off the menu, and bringing her into the venture.
 
@@ -80,9 +82,9 @@ Shortly after, Ilse interrupts with questions and a summons from Oru, then rever
 
 Arriving at the temple grounds, Oru welcomes the four friends into his tent, with warmth and friendship, having known them all since childhood. Oru speaks, asking the group about the strangeness occurring across the island. When Zeno describes the food machine's musical resonances, the shaman produces a round artifact of shiny material and tiny moving parts, found in the temple. It started clicking last night, he says, and it grows louder and louder near Zeno. Interesting, but strange, and its purpose remains a mystery. 
 
-Between chatter about breakfast, restaurant proposals, and the strange events of the morning, the friends finally tell Oru, in bits and pieces, about the  egg and their [[The Shared Vision of Home|vision]] of the dying purple dragonet beneath a red sky. Oru, in turn, tells the group about reports of the island coming awake, seemingly somehow associated with the groups visions and dreams. The conversation, which begins to turn back to restaurants, is interrupted when Roska bursts in with a more immediate development: the Wanderer's eye is open again.
+Between chatter about breakfast, restaurant proposals, and the strange events of the morning, the friends finally tell Oru, in bits and pieces, about the egg and their [[The Shared Vision of Home|vision]] of the dying purple dragonet beneath a red sky. Oru, in turn, tells the group about reports of the island coming awake, seemingly somehow associated with the group’s visions and dreams. The conversation, which begins to turn back to restaurants, is interrupted when Roska bursts in with a more immediate development: the Wanderer's eye is open again.
 
-The dragonets, including Roska and Oru, fly back together. Oru admits that nobody understands what is happening, but believes the four friends have a part in it. Standing in wonder, the group considers what to do. Little Tony talks to the usually silent statue, hearing one deep word: 'Come.' The iris opens as he approaches. Sculpit teleports through; Heska and Zeno fly cleanly into the opening, followed by Roska, while Oru, sensibly, remains outside. With help from Zeno hyping him up, Little Tony dives through last, just missing the edge of th eye, and the iris shuts behind all five dragonets.
+The dragonets, including Roska and Oru, fly back together. Oru admits that nobody understands what is happening, but believes the four friends have a part in it. Standing in wonder, the group considers what to do. Little Tony talks to the usually silent statue, hearing one deep word: 'Come.' The iris opens as he approaches. Sculpit teleports through; Heska and Zeno fly cleanly into the opening, followed by Roska, while Oru, sensibly, remains outside. With help from Zeno hyping him up, Little Tony dives through last, just missing the edge of the eye, and the iris shuts behind all five dragonets.
 
 > [!gallery]
 > - ![[dragonets-02-shaman.webp]]
@@ -92,7 +94,7 @@ The dragonets, including Roska and Oru, fly back together. Oru admits that nobod
 
 Beyond the closed iris lies a spiraling shaft of machinery unlike anything the dragonets know. Lights brighten as they descend, and the sacred strength the four friends felt after embracing the egg returns. At the bottom of the shaft, four enormous guardian statues stand, waiting. As the group approaches, Little Tony hears 'Defend,' 'Safe,' and 'Intruder,' in his mind. Though he tries to introduce the group as friends, the guardians answer with red beams from their eyes, targeting Roska.
 
-Heska casts Fog Cloud over one guardian's head while Little Tony seeks help understanding the warnings from his seagull familiar, Glenda. Meanwhile, laser beams strike Roska, who is badly wounded. In an attempt to distract the guardians, Zeno starts a 'swing' and 'stick' call-and-response; when a guardian resists, Sculpit's Silvery Barbs gives the performance another chance, drawing the guardian into the exchange. After Roska's sword attack fails to connect, Little Tony persuades him to leave and hauls him upward, but not yet to safety. Recognizing Roska as the target of the guardian's ire,  Heska recasts Fog Cloud, hiding Little Tony and Roska from sight. Finally, Sculpit teleports Roska to safety outside, then returns. With Roska gone, the guardians stop firing and their eyes turn blue, waiting.
+Heska casts Fog Cloud over one guardian's head while Little Tony seeks help understanding the warnings from his seagull familiar, Glenda. Meanwhile, laser beams strike Roska, who is badly wounded. In an attempt to distract the guardians, Zeno starts a 'swing' and 'stick' call-and-response; when a guardian resists, Sculpit's Silvery Barbs gives the performance another chance, drawing the guardian into the exchange. After Roska's sword attack fails to connect, Little Tony persuades him to leave and hauls him upward, but not yet to safety. Recognizing Roska as the target of the guardians' ire, Heska recasts Fog Cloud, hiding Little Tony and Roska from sight. Finally, Sculpit teleports Roska to safety outside, then returns. With Roska gone, the guardians stop firing and their eyes turn blue, waiting.
 
 > [!gallery]
 > - ![[dragonets-02-mechanical-shaft.webp]]
@@ -109,3 +111,18 @@ Far beyond their sight, past the storm, a vessel hovers in the sky. Two unidenti
 > [!image|hero]
 > ![[dragonets-02-control-room.webp]]
 > *Eight seats await in the Wanderer’s heart.*
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter formatting.
+- Corrected “oadside food machine” to “roadside food machine”, “things to himself” to “thinks to himself”, “and then flight out” to “and then his flight out”, “possibly opening restaurant” to “possibly opening a restaurant”, “Everyone, of course, choses” to “Everyone, of course, chooses”, “about the  egg” to “about the egg”, “the groups visions” to “the group’s visions”, “edge of th eye” to “edge of the eye”, “guardian's ire,  Heska” to “guardians' ire, Heska”.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Warning — editorial.prose_clarity:** “still hiding Zena” makes Heska appear to conceal another character. The previous paragraph says Xena’s arrival prompts Heska to hide. If the same NPC is intended, use “curious and tempted but still hiding from Xena.”
+%%^End%%

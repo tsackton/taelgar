@@ -1,5 +1,7 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
 tags: [session-note]
 campaign: Addermarch
 sessionNumber: 7
@@ -7,9 +9,10 @@ realWorldDate: 2024-12-01
 DR: 1715-05-12
 DR_end: 1715-05-13
 players: [Yvan Greenrabbit, Drou, Fazoth de Brune]
-name: Addermarch Campaign - Session 7
 tagline: in which the party discovers a cave dweller
 descTitle: Into the Cave
+name: Addermarch Campaign - Session 7
+POV: 1715
 ---
 # Addermarch Campaign - Session 7
 
@@ -23,7 +26,7 @@ The party navigates a forest, meets Norman, and enters a cave occupied by a gian
 
 ## Timeline
 
-- **(DR:: 1715-05-12):** The party leaves [[Fontwick]], heading northwest and entering the wooded hills of the western [[Stonewolds]]. While pushing through a rocky, forested trail, [[Drou]] narrowly avoids a nearly invisible web trap; a swarm of tiny spiders assaults [[Fazoth de Brune|Fazoth]] but are burned away, and the party flees a looming giant spider deeper in the trees.
+- **(DR:: 1715-05-12):** The party leaves [[Fontwick]], heading northwest and entering the wooded hills of the western [[Stonewolds]]. While pushing through a rocky, forested trail, [[Drou]] narrowly avoids a nearly invisible web trap; a swarm of tiny spiders assaults [[Fazoth de Brune|Fazoth]] but is burned away, and the party flees a looming giant spider deeper in the trees.
 - **(DR:: 1715-05-12), late evening:** Camping a few miles from the probable location of the [[West Stonewolds Caves]], the group meets **[[Norman the Wanderer]]**, a rag-clad hermit who warns them of a “double-big man” and wolf guarding the entrance; he agrees to guide them at dawn.
 - **(DR:: 1715-05-13), morning:** Norman leads them to the cave and slips off; the ten-foot “big man” is busy butchering a cow for his stew. [[Drou]] lures him away with illusory goat sounds, [[Fazoth de Brune|Fazoth]]’s sleep spell fells the wolf, and the party rappels seventy feet into a [[West Stonewolds Caves|dark pit]]. [[Fazoth de Brune|Fazoth]]’s pseudodragon severs the upper rope to foil the furious ogre, and the adventurers descend another hundred feet, landing in the lightless depths ready to explore.
 
@@ -40,7 +43,7 @@ The party navigates a forest, meets Norman, and enters a cave occupied by a gian
 
 - **Western [[Stonewolds]]** – hilly uplands with a rugged, web-strewn forest where the party was ambushed
 - [[West Stonewolds Caves]]  – surface cavern used as kitchen and lair by the "Big Man", opening onto a deep shaft
-- **[[Fontwick]]** – small village west of Roscobome
+- **[[Fontwick]]** – small village west of Roscombe
 - **[[Roscombe]]** – home base to which the heroes will eventually return
 
 ## Narrative
@@ -49,10 +52,10 @@ We begin as the party departs [[Samantha of Fontwick]]'s farmhouse outside the s
 
 Unexpectedly, a swarm of tiny spiders crawl over [[Fazoth de Brune|Fazoth]] from the brush, stinging him, but are burned off by [[Yvan Greenrabbit|Yvan]]'s fiery burst and [[Fazoth de Brune|Fazoth]]'s flaming rebuke. As the large spider moves to investigate, [[Yvan Greenrabbit|Yvan]] burns the webs with magical flame and the party flees. 
 
-That evening, the party makes camp in a clearing, a few miles by [[Yvan Greenrabbit|Yvan]]'s reckoning from the cave they are seeking (possibly marked on the map [[Addermarch - Session 03|recovered from a dwarven explorer]] in the [[Kilrath Caves]]). During [[Yvan Greenrabbit|Yvan]]'s watch, a few hours after sunset, a strange man, wearing patched clothes with a bushy, wild beard, wanders into camp. He seems annoyed the party is camped in "his hills", but after some time is calmed by [[Yvan Greenrabbit|Yvan]] and [[Fazoth de Brune|Fazoth]], and tells them about the "big man, double-big man" who lives in the cave entrance with his pet wolf, and particularly likes to eat halflings. He introduces himself as [[Norman the Wanderer]], and agrees to lead the party to cave after breakfast.
+That evening, the party makes camp in a clearing, a few miles by [[Yvan Greenrabbit|Yvan]]'s reckoning from the cave they are seeking (possibly marked on the map [[Addermarch - Session 03|recovered from a dwarven explorer]] in the [[Kilrath Caves]]). During [[Yvan Greenrabbit|Yvan]]'s watch, a few hours after sunset, a strange man, wearing patched clothes with a bushy, wild beard, wanders into camp. He seems annoyed the party is camped in "his hills", but after some time is calmed by [[Yvan Greenrabbit|Yvan]] and [[Fazoth de Brune|Fazoth]], and tells them about the "big man, double-big man" who lives in the cave entrance with his pet wolf, and particularly likes to eat halflings. He introduces himself as [[Norman the Wanderer]], and agrees to lead the party to the cave after breakfast.
 
 ### Thursday, May 13th, 2 Robert I
-in the morning, [[Norman the Wanderer]] leads the party to the cave, and then scurries off. There is, indeed, a very big man, about 10 feet tall, bulky and poorly dressed, making the cave his home. This morning, he is cutting up a partially rotten cow, throwing pieces into a large iron cookpot and occasionally tossing something to his wolf. After a bit of investigation, [[Drou]] uses her druidcraft magic to make the sound and smell of a goat bleating in the woods, which succeeds in luring the big man out to investigate. 
+In the morning, [[Norman the Wanderer]] leads the party to the cave, and then scurries off. There is, indeed, a very big man, about 10 feet tall, bulky and poorly dressed, making the cave his home. This morning, he is cutting up a partially rotten cow, throwing pieces into a large iron cookpot and occasionally tossing something to his wolf. After a bit of investigation, [[Drou]] uses her druidcraft magic to make the sound and smell of a goat bleating in the woods, which succeeds in luring the big man out to investigate.
 
 While he is not paying attention, [[Fazoth de Brune|Fazoth]] casts Sleep on the wolf. As it falls unconscious, and then asleep, the party runs to the back of the cave, where there is a pit that drops into the darkness. The big man returns as [[Yvan Greenrabbit|Yvan]] is hammering a spike into the floor to anchor a rope, and the party quickly scrambles into the hole. 
 

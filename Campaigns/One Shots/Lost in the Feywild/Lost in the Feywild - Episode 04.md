@@ -1,18 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
+lintedAt: "2026-11-12T19:02:10-05:00"
+lintVersion: "3.5"
+tags: [session-note, status/check/lint]
 campaign: Lost in the Feywild
 sessionNumber: 4
 realWorldDate: 2026-07-06
 DR: 1740-10-05
 DR_end: 1740-10-06
 players: [Kaito Min, Edric, Tarek, Ayveen, Txarro]
-name: "Lost in the Feywild: Episode 04"
-descTitle: "The House that Moves"
-tagline: "in which the house refuses to hold still"
+descTitle: The House that Moves
+tagline: in which the house refuses to hold still
 sessionKey: lost-in-the-feywild-session-4
 session-template: feywild-template.md
 websiteSessionView: zoomable
+name: "Lost in the Feywild: Episode 04"
+POV: 1740
 ---
 # Lost in the Feywild: Episode 04
 
@@ -92,7 +95,7 @@ She also says listeners claimed there is another door inside the [[27th House|27
 
 ## Cast of Characters
 
-- [[Kallipseis]] (she/her, Drankorian dwarf): ancient, possibly insane, dwarven wizard, gardener, fungal researcher, and self-described head of [[Arithrimos Lamperum]] after the death of [[Thalestria]]. Met while in the process of fashioning a fungal golem -- she planned to transfer her soul into it and wear it like a suit. "All progress involves sacrifice.".
+- [[Kallipseis]] (she/her, Drankorian dwarf): ancient, possibly insane, dwarven wizard, gardener, fungal researcher, and self-described head of [[Arithrimos Lamperum]] after the death of [[Thalestria]]. Met while in the process of fashioning a fungal golem -- she planned to transfer her soul into it and wear it like a suit. "All progress involves sacrifice."
 - The Dreamer: voice in the second listener notebook, associated with wanting and [[The Shape of Possibility|the shape of possibility]].
 - The Child: voice recorded in the first listener journal, possibly connected to the prisoner or house-being.
 - The Prisoner: being locked inside the central [[27th House|27th Room]], described by listeners as possibly a child kept from growing up or dying.
@@ -108,3 +111,18 @@ She also says listeners claimed there is another door inside the [[27th House|27
 - [[27th House|27th Room]] (manor in the [[Twilight Kingdom]], the [[Feywild]]): Drankorian prison-house built around a locked central room, with rotating numbered chambers, listening stations, machinery, and infected or fungus-filled workrooms. Session context includes: entry room; chapel 22; mechanical rooms 17 and 15; kitchen 16; mortuary 7; sleeping quarters 20; meeting room 25; solarium 19; bathhouse 24; storeroom 27; room 18 fungal greenhouse.
 - [[Dandelion House]] (mentioned): old Drankorian manor whose basement door led the party into the Feywild.
 - [[Lord Endless Ending's Manor|Lord Endless Ending's manor]] (mentioned): fey manor where [[Lord Endless Ending]] sends mortal guests toward the [[27th House|27th Room]] when the clock strikes zero.
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Recorded the session viewpoint as DR 1740 and normalized frontmatter order.
+- Removed a duplicate full stop after Kallipseis’s quotation.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Warning — editorial.prose_clarity:** “Wants the party to bring him or to destroy the glass key” leaves both the object and the requested action unclear. In the opening recap of this session the GM says the key must be returned to the lord, who will break it. [[Lost in the Feywild - Episode 03]] records the same request. Proposed wording: “[[Lord Endless Ending]] wants the party to bring him the glass key that locks the central room so he can break it and undo the bargain.”
+%%^End%%
