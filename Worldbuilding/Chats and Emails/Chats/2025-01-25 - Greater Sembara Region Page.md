@@ -62,7 +62,7 @@
 [2025-01-25 01:43 PM] rsulfuratus: not obvious on the map but i think the idea would be that the lowland rivers have many unmapped tributaries but the "lake yellowstone" area does not
 
 [2025-01-25 01:57 PM] Deciusmus: ok so something like this:
-![[../_assets/discord/image-0873C.png]]
+![[assets/vostok-sembara-sketch.png]]
 
 [2025-01-25 01:59 PM] rsulfuratus: yeah
 

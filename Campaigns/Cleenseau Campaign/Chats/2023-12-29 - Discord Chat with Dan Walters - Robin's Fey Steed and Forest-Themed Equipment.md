@@ -24,7 +24,7 @@
 [2023-12-29 01:42 PM] Deleted User: (forest themed griffon)
 
 [2023-12-29 01:54 PM] Deleted User: 
-![[Campaigns/Cleenseau Campaign/Chats/_assets/discord/image-b45b7d7b99bfabdc.png]]
+![[assets/greymalkin-2.png]]
 
 [2023-12-29 02:07 PM] Deciusmus: That’s pretty cool
 

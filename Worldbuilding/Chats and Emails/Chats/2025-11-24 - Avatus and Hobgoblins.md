@@ -285,7 +285,7 @@
     1 - big circle - ardith
     2 - small circle - stoneborn
     3 - ardith mining colonies
-![[Worldbuilding/Chats and Emails/_assets/discord/avatus-01-3EF62.jpg]]
+![[assets/avatus-01.jpg]]
 [2025-11-24 05:31 PM] rsulfuratus: (whoops swap green 1 and green 2 - 2 is the big circle = ardith)
 [2025-11-24 05:31 PM] rsulfuratus: plus 9 = darkwood (not actually human), which no one wants a part of
 [2025-11-24 05:32 PM] rsulfuratus: this is basically the watchful peace stage. the eastern border of avatus is pretty undefined, but people don't really live here

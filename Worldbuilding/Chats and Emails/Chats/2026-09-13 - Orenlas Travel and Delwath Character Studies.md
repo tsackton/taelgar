@@ -158,4 +158,4 @@
 [2026-09-13 11:39 AM] Deciusmus: A little long. Closer to shoulder
 
 [2026-09-13 11:54 AM] rsulfuratus:
-![[../_assets/discord/exec-b6ecada2-bb80-402b-93d9-66b3b32eabe4-0d42ff49dd97c86c.png]]
+![[assets/pc-references/delwath-early-campaign-full-body-rear.png]]

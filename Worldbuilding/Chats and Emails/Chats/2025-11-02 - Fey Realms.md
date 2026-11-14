@@ -90,7 +90,7 @@
 [2025-11-02 10:57 AM] Deciusmus: so if the sunset gate runs along the red line (looking at the photoshop feyline map) it makes much of the south-eastern addermarch border more harrow/wend, right? ( I assume 4/5 are harrow and wend terriorities)
 [2025-11-02 10:58 AM] rsulfuratus: yes
 [2025-11-02 11:00 AM] rsulfuratus: rough sketch but basically
-![[Worldbuilding/Chats and Emails/_assets/discord/plaguelands-vibes-49F13.jpg]]
+![[assets/plaguelands-vibes.jpg]]
 [2025-11-02 11:00 AM] rsulfuratus: red = non-fey stuff
     purple = fey stuff
     green = people of rainbow
@@ -174,7 +174,7 @@
     The remaining young dragon survived  by fleeing north, and is now trying to gather strength before returning to reclaim their lair.
     
     Unbeknowst to the dragon, whatever the big danger was is actually gone, and all that is left is the aftermath and ruins
-![[Worldbuilding/Chats and Emails/_assets/discord/image-D1201.png]]
+![[assets/dm/dragon-arc-rough-map.png]]
 [2025-11-02 11:46 AM] rsulfuratus: (Isaac telling me about his session last night - will read in a sec)
 [2025-11-02 12:10 PM] rsulfuratus: so i think that works pretty well. i like it a lot actually. 
     

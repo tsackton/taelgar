@@ -176,6 +176,8 @@ def render(config, rows, styles, npaths, catalog):
     from catalog import write, set_aside
     by_id={r['id']:r for r in rows}
     for item in json.loads((catalog/"inventory.json").read_text()):
+        if item.get("cleanupReplacement"):
+            continue
         r=by_id.get(item.get("reviewId"))
         if r and (r["collection"],r["relativePath"]) != (item["collection"],item["relativePath"]):
             r.setdefault("aliases",[]).append(item)
@@ -221,7 +223,7 @@ def render(config, rows, styles, npaths, catalog):
            <label>Format<select id="lane"><option value="">All formats</option>{options([('illustration','Illustrations'),('other','Other formats')])}</select></label>
            <label>Discovery<select id="status"><option value="">All treatments</option><option value="candidate">New candidates</option><option value="pilot">Pilot treatments</option></select></label>
            <label>Assignment<select id="fit"><option value="">All assignments</option><option value="uncertain">Uncertain matches</option></select></label>
-           <label>Source<select id="source"><option value="">Both collections</option>{options((k,k) for k in config['roots'])}</select></label><button type="button" id="reset">Clear filters</button></div><p id="count" aria-live="polite"></p>''']
+           <label>Source<select id="source"><option value="">All collections</option>{options((k,k) for k in config['roots'])}</select></label><button type="button" id="reset">Clear filters</button></div><p id="count" aria-live="polite"></p>''']
     current_family = None
     for s in sorted(styles,key=lambda s:(s['family'],s['treatment'])):
         if current_family != s['family']:

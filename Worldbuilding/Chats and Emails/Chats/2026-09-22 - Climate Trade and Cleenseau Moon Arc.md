@@ -239,7 +239,7 @@
 [2026-09-22 09:45 PM] rsulfuratus: and Emyr of Tafolwen also wrote on planar connections and plausibly planar tides, and theoretically could even be alive in 1725, or maybe living in Twilight's Grace or something
 
 [2026-09-22 09:47 PM] rsulfuratus: btw new image from codex that i think is clearer
-![[../_assets/discord/FxRepd3g3HcAAAAASUVORK5CYII-fed10dc1d376323d.png]]
+![[assets/worldbuilding/taelgar-green-sea-summer-v2.png]]
 
 [2026-09-22 09:54 PM] Deciusmus: How about something like the following (back to the moon):
 

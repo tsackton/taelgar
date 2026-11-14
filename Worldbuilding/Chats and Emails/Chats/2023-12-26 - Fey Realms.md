@@ -143,7 +143,7 @@
 [2023-12-26 03:10 PM] rsulfuratus: Shimmersong is a hard stop on westward expansion by Umbreath but he might not really care, and might even ally with Lightdancer sometimes to defeat incursions from "scary west thing"
 [2023-12-26 03:11 PM] rsulfuratus: And, perhaps, Ethlenn never really cared much about the southwest - this was always somehow in the Cloudspinner's orbit - so she doesn't do anything after the fall of Amberglow
 [2023-12-26 03:12 PM] Deciusmus: 
-![[../_assets/discord/image-C63EB.png]]
+![[assets/duskmire-rough-map.png]]
 [2023-12-26 03:12 PM] rsulfuratus: But as Umbreath becomes more and more a thorn in her side she does make sure that ~fey realm in Sembara~ is not vulnerable
 [2023-12-26 03:12 PM] Deciusmus: So the above has Shimmersong expanded a bit and then #1 is the original duskmire
 [2023-12-26 03:13 PM] Deciusmus: 1+2 is the minimum size of Duskmire now for game reasons. Open quesiton is whether it includes 3 (and it could go a little farther west, basically, until it stopped by the "scary thing")
