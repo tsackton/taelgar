@@ -148,7 +148,7 @@ post 1560: settlement of Chasa River valley by Chardonians
 [2025-01-29 04:39 PM] rsulfuratus: right
 
 [2025-01-29 04:41 PM] rsulfuratus: so then if we look at this map
-![[../_assets/discord/west-coast-history-GreatWar-D1F1D.png]]
+![[assets/west-coast-history-GreatWar.png]]
 
 [2025-01-29 04:42 PM] rsulfuratus: i think it implies there is some kind of split early on in cha'mutte's armies basically as soon as cha'mutte dies
 
@@ -693,7 +693,7 @@ post 1560: settlement of Chasa River valley by Chardonians
 [2025-01-29 08:35 PM] Deciusmus: Then the section north of the yeraad along south of the hills is wetter and more agricultural
 
 [2025-01-29 08:37 PM] rsulfuratus: 
-![[../_assets/discord/image-E7CEE.png]]
+![[assets/yeraad-cultures-map.png]]
 
 [2025-01-29 08:38 PM] rsulfuratus: something like:
     (1) agricultural, maybe olive growing

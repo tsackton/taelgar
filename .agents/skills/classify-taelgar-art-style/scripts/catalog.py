@@ -51,6 +51,8 @@ def apply_format(row):
 
 def records(catalog):
     corrections = read(catalog / "corrections.json")
+    replacements_path = catalog / "source-replacements.json"
+    replacements = read(replacements_path) if replacements_path.exists() else {}
     rows = []
     for file in sorted((catalog / "batches").glob("*.json")):
         for raw in read(file):
@@ -58,14 +60,35 @@ def records(catalog):
             forbidden = patch.keys() - {"title","subjects","depicts","battlemap","framedToken","family","treatment","fit","statement","basis","format","relatedIds"}
             if forbidden:
                 raise ValueError(f"Unknown correction fields: {forbidden}")
-            rows.append(apply_format({**raw, **patch, "batch": file.stem}))
+            row = {**raw, **patch, "batch": file.stem}
+            replacement = replacements.get(str(raw["id"]))
+            if replacement:
+                # Keep the review identity and its thumbnail tied to the bytes originally reviewed.
+                if replacement["reviewedSha256"] != raw["sha256"]:
+                    raise ValueError(f'Stale source replacement for #{raw["id"]}')
+                row.update(collection=replacement["collection"], relativePath=replacement["relativePath"],
+                           sourceSha256=replacement["sourceSha256"])
+            rows.append(apply_format(row))
+    if set(replacements) - {str(r["id"]) for r in rows}:
+        raise ValueError("Source replacement for unknown image")
     if set(corrections) - {str(r["id"]) for r in rows}:
         raise ValueError("Correction for unknown image")
     return rows
 
 
-def scan(config):
+def scan(config, known_paths=()):
     for collection, root in config["roots"].items():
+        if collection in config.get("linkedCollections", []):
+            # External libraries contribute only cataloged originals and their registered copies.
+            for label, relative in sorted(known_paths):
+                if label != collection:
+                    continue
+                item = dict(collection=label, relativePath=relative)
+                path = source(config, item)
+                if path.is_file():
+                    stat = path.stat()
+                    yield dict(**item, bytes=stat.st_size, modifiedNs=stat.st_mtime_ns)
+            continue
         for directory, dirs, files in os.walk(root):
             dirs[:] = sorted(d for d in dirs if not d.startswith(".") and d != "node_modules"
                              and not (collection == "RPGs" and directory == root and d in config["excludedRPGsFolders"]))
@@ -83,15 +106,20 @@ def inventory(catalog, config, rows, match_copies=False):
     old_path = catalog / "inventory.json"
     old = {(v["collection"],v["relativePath"]):v for v in read(old_path)} if old_path.exists() else {}
     known_hashes = {r["sha256"]:r["id"] for r in rows}
-    by_path = {(r["collection"],r["relativePath"]):r for r in rows}
+    # Prefer the original review of this encoding where several review IDs share a file.
+    for row in sorted(rows, key=lambda r: (r["sha256"] != r.get("sourceSha256", r["sha256"]), r["id"])):
+        known_hashes.setdefault(row.get("sourceSha256", row["sha256"]), row["id"])
+    by_path = {}
+    for row in sorted(rows, key=lambda r: (r["sha256"] != r.get("sourceSha256", r["sha256"]), r["id"])):
+        by_path.setdefault((row["collection"], row["relativePath"]), row)
     reviewed_sizes = {source(config,r).stat().st_size for r in rows} if match_copies else set()
     result = []
-    for item in scan(config):
+    for item in scan(config, old.keys() | by_path.keys()):
         key = item["collection"], item["relativePath"]
         prev, review = old.get(key, {}), by_path.get(key)
         if (prev.get("bytes"),prev.get("modifiedNs")) == (item["bytes"],item["modifiedNs"]):
             digest = prev.get("sha256")
-        elif review:
+        elif review or prev.get("cleanupReplacement") or (prev.get("reviewId") and item["collection"] in config.get("linkedCollections", [])):
             digest = hashlib.sha256(source(config,item).read_bytes()).hexdigest()
         else:
             digest = None
@@ -99,7 +127,14 @@ def inventory(catalog, config, rows, match_copies=False):
             digest = hashlib.sha256(source(config,item).read_bytes()).hexdigest()
         if digest:
             item["sha256"] = digest
-        item["reviewId"] = known_hashes.get(digest)
+        if review and digest == review.get("sourceSha256", review["sha256"]):
+            item["reviewId"] = review["id"]
+        else:
+            item["reviewId"] = known_hashes.get(digest)
+        if digest and prev.get("sha256") == digest:
+            for key in ("disposition", "reason", "cleanupReplacement"):
+                if key in prev:
+                    item[key] = prev[key]
         result.append(item)
     save(old_path, result)
     return result
@@ -136,7 +171,7 @@ def plan(catalog, config, rows, args):
     if args.count < 1:
         raise ValueError("Choose a positive number of images.")
     paths = inventory(catalog, config, rows)
-    taken = {r["sha256"]:r["id"] for r in rows}
+    taken = {digest:r["id"] for r in rows for digest in (r["sha256"], r.get("sourceSha256",r["sha256"]))}
     next_id = max(taken.values(), default=0) + 1
     result = []
     for item in balanced([v for v in paths if v["reviewId"] is None], args.seed):
@@ -298,7 +333,7 @@ def main():
         assert not page.links.intersection(parked.links), "A set-aside image appears in the style gallery"
         for r in rows:
             path = f'thumbnails/{r["sha256"]}.jpg'
-            assert path in (parked.links if set_aside(r) else page.links) and hashlib.sha256(source(config,r).read_bytes()).hexdigest()==r["sha256"],r["id"]
+            assert path in (parked.links if set_aside(r) else page.links) and hashlib.sha256(source(config,r).read_bytes()).hexdigest()==r.get("sourceSha256", r["sha256"]),r["id"]
             with Image.open(catalog/path) as im:
                 im.verify()
     print(f'{args.command}: {len(rows)} unique image records, {len(styles)} treatments')

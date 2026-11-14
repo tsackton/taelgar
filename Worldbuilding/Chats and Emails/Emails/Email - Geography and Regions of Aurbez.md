@@ -4,7 +4,7 @@
 
 Tweaking the before... there are basically four regions:
 
-  ![[ardonne-old-map.png]]
+  ![[ardonne-map.png]]
 
 The ashen plains (dark red on map). Borderlands of the plaguelands. No real people, but not truly plague-filled. Biggest issue for these places is the polluted Ardonne river and the ash storms. (In 1650 this region would stretch through basically all of the light red region).
 

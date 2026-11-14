@@ -1,6 +1,6 @@
 # Taelgar Skills
 
-Last reviewed: **2026-11-12**
+Last reviewed: **2026-11-14**
 
 This guide covers the 35 skills maintained in this repository under `.agents/skills/`. It does not list personal or installed plugin skills, which can vary between machines.
 
@@ -87,7 +87,7 @@ The stages below are normally called by the session pipeline, except for the opt
 | [adventure-design](.agents/skills/adventure-design/SKILL.md) | Develops an adventure's premise, goals, challenges, outcomes, and connected structure with you, using the vault's templates. It can develop an outline, Canvas structure, and initial scene cores; detailed encounters and session preparation are separate work. | “Help me turn this adventure premise into a connected outline.” |
 | [illustrate-note](.agents/skills/illustrate-note/SKILL.md) | Offers 5–6 illustration ideas for substantial notes or recaps, with more when the content warrants, then develops selected targets into evidence-based visual briefs. Presents A/B alternatives in consistent image blocks with visible labels and versions, critiques them at reading and full size, and makes targeted revisions with you. Only approved finals are exported; insertion requires separate authorization. | “Brainstorm a broad menu of illustrations for this history,” or “Refine this recap illustration so the action reads clearly and the materials feel distinct.” |
 | [taelgar-asset-review](.agents/skills/taelgar-asset-review/SKILL.md) | Either reviews image/audio placement and applies approved directory moves, or checks and repairs frontmatter image references. A property check does not require a full asset-organization scan. Renaming, replacing asset files, conversion, maps, and generated audio need separate handling. | “Find misplaced campaign images,” or “Check the image properties on these notes.” |
-| [classify-taelgar-art-style](.agents/skills/classify-taelgar-art-style/SKILL.md) | Reviews the visual treatment of Taelgar and RPGs images in batches, maintains the private catalog of illustration, map and document families, and presents proposed illustration groups for visual review. Sets battlemaps and framed tokens aside before style classification. | “Review the next 100 images,” or “Show me examples of ink and watercolor and the nearest related treatment.” |
+| [classify-taelgar-art-style](.agents/skills/classify-taelgar-art-style/SKILL.md) | Reviews the visual treatment of Taelgar and RPGs images in batches, maintains the private catalog of illustration, map and document families, and presents proposed illustration groups for visual review. Sets battlemaps and framed tokens aside before style classification. Keeps review IDs linked to surviving originals and registered copies after duplicate cleanup or set-aside transfers. | “Review the next 100 images,” “Show me examples of ink and watercolor,” or “Repair catalog links after duplicate cleanup.” |
 
 ## Importing and organizing source material
 
