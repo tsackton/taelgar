@@ -24,6 +24,8 @@ After vanishing for several years, during which they traveled to [[Cairn Dor]] a
 The current members of the Silver Tempests are:
 - [[Adrik]] Boulderbeard, a lightning-touched barbarian from the [[Yuvanti Mountains]], far to the south, and an original member of the group.
 - [[Samso]], a lizardfolk druid from the [[Yeraad Watershed]], and an original member of the group.
+
+Currently traveling companions of the Silver Tempests are:
 - [[Mabist]], a changeling warlock from the [[Feywild]], with a mysterious past, who befriended [[Dinia]] and joined the group during [[Great Library Session Notes - Arc 4#Adventure 19 Saving Grandma Yoda (This Shit’s Kinda’ Fishy)|their rescue of Dinia from an aboleth]].
 - [[Blue]], a mysterious traveler from far to the east, who joined the group before their [[Great Library Session Notes - Arc 5|adventures in Cairn Dor]].
 

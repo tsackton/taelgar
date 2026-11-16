@@ -136,6 +136,27 @@ document.querySelectorAll('a.original').forEach(thumb => thumb.addEventListener(
 </script>"""
 
 
+def finished_card(r):
+    original = e(quote(r["original"]))
+    thumb = e(quote(r["thumbnail"]))
+    names = ", ".join(d["name"] for d in r["depicts"])
+    evidence = "".join(f'<p>{e(d["name"])} · {e(d["evidence"])}</p>' for d in r["depicts"])
+    sources = [r, *r.get("otherSources", [])]
+    paths = [f'{s["collection"]}/{s["relativePath"]}' for s in sources]
+    provenance = "".join(f'<p class="path">{e(path)}</p>' for path in paths)
+    links = ", ".join(f'<a href="#image-{i}">#{i}</a>' for i in r.get("relatedIds", []))
+    variants = f"<p>Related images · {links}</p>" if links else ""
+    search = " ".join([r["title"], str(r["id"]), r["treatment"], r["family"], r["statement"],
+                       r["basis"], names, *r["subjects"], *paths]).casefold()
+    lane = "illustration" if r["format"] == "illustration" else "other"
+    return f'''<article id="image-{r["id"]}" data-search="{e(search)}" data-lane="{lane}" data-source="{e(r["collection"])}" data-fit="{e(r["fit"])}">
+    <a class="original" aria-haspopup="dialog" href="{original}"><img loading="lazy" src="{thumb}" alt="{e(r["title"])}"></a>
+    <div class="copy"><span class="meta">#{r["id"]} · {e(r["collection"])} · {e(r["format"])}</span>
+    <h3>{e(r["title"])}</h3><p>{e(r["statement"])}</p>
+    <details><summary>Classification and source</summary><p>{e(r["treatment"])} · {e(r["fit"])}</p><p>{e(r["basis"])}</p>
+    <p>{e(", ".join(r["subjects"]))}</p>{evidence}<a class="path" href="{original}">Open full-size image</a>{provenance}{variants}</details></div></article>'''
+
+
 def card(config,r,parked_ids):
     path=Path(config["roots"][r["collection"]])/r["relativePath"]
     names = ", ".join(d['name'] for d in r.get("depicts",[]))
@@ -206,24 +227,35 @@ def render(config, rows, styles, npaths, catalog):
             parts.append('</div></section>')
         write(file.with_suffix('.html'),document(report['title'],''.join(parts)))
         reports.append(f'<a href="reviews/{quote(file.stem)}.html">{e(report["title"])}</a>')
-    def options(vals):
-        return ''.join(f'<option value="{e(k)}">{e(v)}</option>' for k,v in vals)
     reports.append(f'<a href="set-aside.html">Set-aside assets ({len(parked)})</a>')
     for sheet in reversed(config.get("reviewSheets", [])):
         reports.insert(0, f'<a href="{e(quote(sheet["path"]))}">{e(sheet["title"])}</a>')
+    heading = f'{len(rows)} style-reviewed images · {len(styles)} working treatments · {npaths:,} source paths inventoried'
+    nav = '<nav class="skip">' + ' · '.join(reports) + '</nav>'
+    return style_page(rows, styles, config["roots"], heading, nav,
+                      lambda row: card(config, row, parked_ids), parked_ids)
+
+
+def render_finished(data):
+    rows, styles = data["images"], data["styles"]
+    heading = f"{len(rows):,} images · {len(styles)} style treatments"
+    collections = sorted({r["collection"] for r in rows})
+    return style_page(rows, styles, collections, heading, "", finished_card)
+
+
+def style_page(rows, styles, collections, heading, nav, make_card, parked_ids=()):
+    def options(vals):
+        return ''.join(f'<option value="{e(k)}">{e(v)}</option>' for k,v in vals)
     families=sorted({s['family'] for s in styles})
     groups=defaultdict(list)
     for r in rows:
         groups[r['treatment']].append(r)
-    parts=[f'<header><h1>Taelgar art catalog</h1><p>{len(rows)} style-reviewed images · {len(styles)} working treatments · {npaths:,} source paths inventoried</p></header>',
-           '<nav class="skip">'+ ' · '.join(reports)+'</nav>',
+    parts=[f'<header><h1>Taelgar art catalog</h1><p>{heading}</p></header>', nav,
            f'''<div class="controls"><label>Search<input id="search" type="search" placeholder="Name, subject or brushwork"></label>
            <label>Family<select id="family"><option value="">All families</option>{options((f,f) for f in families)}</select></label>
            <label>Treatment<select id="treatment"><option value="">All treatments</option>{options((s['treatment'],s['treatment']) for s in sorted(styles,key=lambda s:s['treatment']))}</select></label>
            <label>Format<select id="lane"><option value="">All formats</option>{options([('illustration','Illustrations'),('other','Other formats')])}</select></label>
-           <label>Discovery<select id="status"><option value="">All treatments</option><option value="candidate">New candidates</option><option value="pilot">Pilot treatments</option></select></label>
-           <label>Assignment<select id="fit"><option value="">All assignments</option><option value="uncertain">Uncertain matches</option></select></label>
-           <label>Source<select id="source"><option value="">All collections</option>{options((k,k) for k in config['roots'])}</select></label><button type="button" id="reset">Clear filters</button></div><p id="count" aria-live="polite"></p>''']
+           <label>Source<select id="source"><option value="">All collections</option>{options((k,k) for k in collections)}</select></label><button type="button" id="reset">Clear filters</button></div><p id="count" aria-live="polite"></p>''']
     current_family = None
     for s in sorted(styles,key=lambda s:(s['family'],s['treatment'])):
         if current_family != s['family']:
@@ -235,7 +267,7 @@ def render(config, rows, styles, npaths, catalog):
         parts.append(f'<section data-status="{e(s["status"])}" data-family="{e(s["family"])}" data-treatment="{e(s["treatment"])}"><small>{e(s["family"])} · {e(s["status"])} · {len(members)} images</small><h3 class="treatment-heading">{e(s["treatment"])}</h3><p class="groupdesc">{e(s["description"])}</p>')
         if s['neighbor']:
             parts.append(f'<p class="groupdesc"><small>Compare with {e(s["neighbor"])}</small><br>{e(s["distinction"])}</p>')
-        parts.append('<div class="grid">'+''.join(card(config,r,parked_ids) for r in members)+'</div></section>')
+        parts.append('<div class="grid">'+''.join(make_card(r) for r in members)+'</div></section>')
     parts.append('''<script>
     const controls = document.querySelector(".controls");
     const selects = Array.from(controls.querySelectorAll("select"));
@@ -284,13 +316,9 @@ def render(config, rows, styles, npaths, catalog):
     }
     controls.addEventListener("input",filter);
     document.getElementById("reset").addEventListener("click",reset);
-    const parkedIds = new Set(PARKED_IDS);
     function revealTarget(){
       const id = location.hash.slice(1);
-      if (parkedIds.has(id)) {
-        location.replace("set-aside.html#" + id);
-        return;
-      }
+      REDIRECT_PARKED
       const target = document.getElementById(id);
       if(target?.hidden){
         reset();
@@ -300,7 +328,9 @@ def render(config, rows, styles, npaths, catalog):
     window.addEventListener("hashchange", revealTarget);
     filter();
     revealTarget();
-    </script>'''.replace('PARKED_IDS',json.dumps([f'image-{i}' for i in sorted(parked_ids)])))
+    </script>'''.replace('REDIRECT_PARKED',
+        'if (' + json.dumps([f'image-{i}' for i in sorted(parked_ids)]) + '.includes(id)) { location.replace("set-aside.html#" + id); return; }'
+        if parked_ids else ''))
     family_css = """.family-heading{font-size:clamp(2rem,4vw,3rem);margin:42px 0 10px}.treatment-heading{font-size:clamp(1.55rem,3vw,2.25rem);margin:.15em 0}"""
     parts.append(VIEWER)
     return document("Taelgar art catalog",''.join(parts),family_css + VIEWER_CSS)

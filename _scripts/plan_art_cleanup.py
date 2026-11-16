@@ -410,10 +410,13 @@ def review_markdown(plan, ledger):
     text += ['## Vault reference edits', '']
     text += table(['Note and line', 'Current target', 'New target'],
                   [(f"{r['note']} (line {r['line']})",r['old'],r['new']) for r in plan['vaultLinkEdits']])
-    text += ['## Catalog', '',
+    if catalog_plan['resultingInventoryPaths'] is None:
+        text += ['## Catalog', '', 'The style gallery owns its full-size images. No catalog links need editing.', '']
+    else:
+        text += ['## Catalog', '',
              f"{len(catalog_plan['primaryRepairs'])} primary review records point to a surviving original. "
              f"The physical-file inventory includes {catalog_plan['resultingInventoryPaths']} paths.", '']
-    text += table(['Review page', 'Original-file links repaired'],
+        text += table(['Review page', 'Original-file links repaired'],
                   [(r['page'],r['links']) for r in catalog_plan['reviewLinks']])
     text += ['## Session provenance', '',
              f"The merged [session ledger preview](session-image-provenance.preview.json) contains {len(ledger)} records. "
@@ -434,7 +437,13 @@ def main():
     ap.add_argument('--publish-catalog', action='store_true')
     args=ap.parse_args()
     root = args.catalog.resolve()
-    config = read(root/'config.json')
+    finished = (root / 'catalog.json').is_file()
+    if finished:
+        vault = Path(__file__).resolve().parents[1]
+        rpgs = Path.home() / 'Documents/RPGs'
+        config = {'roots': {'Vault': vault, 'RPGs': rpgs / 'images', 'ImageAssets': rpgs / 'image-assets'}}
+    else:
+        config = read(root/'config.json')
     roots = {k:Path(v).resolve() for k,v in config['roots'].items()}
     output = args.output.resolve()
     if any(output.is_relative_to(p) for p in [root, *roots.values()]):
@@ -450,19 +459,22 @@ def main():
         repairs = link_changes(mapping, files, roots)
         ledger_path = roots['RPGs']/'_by_session'/LEDGER
         ledger = session_ledger(mapping, roots, optional(ledger_path, []))
-        published, records, references = catalog_repairs(root, config, mapping, files, stage)
+        if finished:
+            published, records, references = [], [], []
+        else:
+            published, records, references = catalog_repairs(root, config, mapping, files, stage)
         if any((digest(root/p) if (root/p).exists() else None) != prior for p,prior in baseline.items()):
             raise ValueError('Catalog inputs changed during preparation')
         actions = [dict(retire=name(p, roots), keep=name(q, roots), retireSha256=files[p]['sha256'],
                         keepSha256=files[q]['sha256'], decisions=ids[p]) for p,q in mapping.items()]
         note_hashes = {n:digest(roots['Vault']/n) for n in sorted({r['note'] for r in repairs})}
-        target_inventory = read(stage/'inventory.json')
+        path_count = None if finished else len(read(stage/'inventory.json'))
         plan = dict(schemaVersion=1, decisionsSha256=digest(args.decisions), manifestSha256=digest(args.manifest),
                     roots={k:str(v) for k,v in roots.items()}, policy=policy, retirements=actions,
                     held=held, otherDecisions=other, vaultLinkEdits=repairs, vaultNoteHashes=note_hashes,
                     sessionLedger=str(ledger_path), sessionRecords=len(ledger),
                     catalog=dict(primaryRepairs=records, reviewLinks=references,
-                                 resultingInventoryPaths=len(target_inventory),
+                                 resultingInventoryPaths=path_count,
                                  publicationFiles=[str(p) for p in published]))
         output.mkdir(parents=True, exist_ok=True)
         catalog.save(output/'cleanup-plan.json', plan)
