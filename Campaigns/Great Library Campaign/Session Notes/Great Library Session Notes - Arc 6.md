@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-11-12T19:02:10-05:00"
 lintVersion: "3.5"
-tags: [session-note, status/check/lint]
+tags: [session-note, status/check/lint, status/check/ai]
 campaign: Great Library
 DR: 1752-06-29
 DR_end: null
@@ -81,6 +81,37 @@ A war band of air elementals allied with [[Zadkai]] is taking a short rest there
 
 Exploring the chamber, the party discovers that the stone pillars can slide upward. Two have earth gemhearts attached to their lower ends. Raising the pillars also reveals holes leading down into a massive geode. Able to fly in smoke form, the party descends into the giant crystal structure below. 
 
+### Session 68
+
+%% initial AI generated summary %%
+
+%% Editorial review:
+- Played November 14, 2026. Continues directly from Session 67 on 1752-07-03; arrival on 1752-07-05 is inferred from the explicitly recorded two nights and parts of three travel days. No additional elapsed time is assigned to the planar crossing or the invitation to stay at court.
+- Verbatim source: _sessions/great-library/great-library-session-68/sources/raw-transcript.md. Vault description supplements the dictation from [[S09 - Through the Treasury Portal]], as directed in the source; the astrolabe's full workings are not yet established as party knowledge.
+- The final blow against the crystal is recalled as probably Adrik's, but is not certain. Unclear extra names in the Dimension Door passage are not resolved here.
+- The crossing mechanism, the reason for the sparsely inhabited route, and whether any other dukes besides Orumei were driven out were not established. The source briefly calls the hideout's palace "Arion's" amid its account of Orumei's refuge; the recap describes it simply as the palace.
+%%
+
+We begin as the [[Silver Tempests]] descend in smoke form into the massive geode beneath the earth tunnels of [[Airion's Secret Lair]]. At its center stands a great crystal holding the earth key and an earth gemheart, protected by swarms of minions. Combat begins with the party still flying about a hundred and fifty feet away, as the crystal fires a powerful blast across the chamber.
+
+[[Mabist]] uses _Dimension Door_ to bring [[Adrik]] into the fight against the crystal, while [[Samso]] turns into an earth elemental, drops onto it, and then slips underground. The crystal proves immune or resistant to most of their attacks, leaving thunder, bludgeoning, and force as the useful ways to hurt it. [[Blue]] instead focuses on the minions, clearing groups with _Fireball_, which does nothing to the crystal itself. Samso also fights the minions, some of which follow him underground, while two gem oozes hidden among the crystals join the battle.
+
+The crystal summons more minions every round, and the party takes steady damage while Adrik and Mabist chip away at it. Near the end of the fight, a blast knocks Blue out of the air; she falls and loses consciousness. Adrik and Mabist finally destroy the crystal, which explodes in a shower of piercing shards, further endangering Blue. Samso, still in earth elemental form, is able to heal her with _Cure Wounds_. With the earth key recovered, the party now has all four keys.
+
+Badly battered, with Blue nearly out of spells and Adrik out of rages, the party debates resting. But leaving the earth tunnels requires the smoke form granted by the fire gemhearts, and they cannot afford to let that expire while they linger. They decide to return to the vault and open it, ready to shut and relock the door if anything dangerous waits inside. The four keys cause the shimmering metal door to slide open, revealing [[Airion]]'s treasury.
+
+The vault is full of magical experiments: worktables covered in diagrams, measuring instruments, and objects held in open frames, with a great gemstone-studded diagram of the elemental planes on one wall. A brass-and-crystal astrolabe stands beside Airion's private notebook, its nested rings turning around a tiny opening onto blue sky. The party gathers the astrolabe and notes, a flying carpet, an immovable rod, a fire essence shard, and a frost brand sword, along with the coins, ingots, and two star sapphires. They do not yet know the sapphires' value, and leave the gems embedded in the wall diagram alone.
+
+Deciding they can summon [[Silverstorm]] immediately if they need to escape, the party heads upstairs. The storm has cleared from [[Mount Graybane]], following their earlier shutdown of the lava-powered machinery. [[Zadkai]] is approaching in [[Airion's Floating Tower]], still about a quarter of a mile away, with djinn scouts coming to investigate. The party boards Silverstorm at once, and the roc climbs high into the cold sky, outpacing the tower. After searching above the clouds for a time, Silverstorm dives into the top of a great cloud and emerges on the [[Elemental Plane of Air]].
+
+There is no ground below them, and no visible sun. Instead, the sky brightens and darkens, with a glow to the east in the morning and to the west in the evening. Silverstorm carries them through a largely empty stretch of the plane, with little sign of life. They travel through the afternoon, sleep on the roc's back, fly for another full day, spend a second night on his back, and continue until late afternoon on the third day.
+
+Their destination is [[Orumei]]'s hidden refuge, a forest growing on clouds within a bank of fog. Silverstorm navigates the mist and lands on one of the great puffy cloud trees sheltering the forest below. Moss drips with fog, and birds, flying squirrels, and other animals move among the trees, the first such creatures the party has seen on the plane. A palace of clouds stands in a clearing. From outside it looks soft and indistinct, but stepping into its courtyard brings the party into clear skies and solid walls.
+
+An unnamed guard leads them to a private meeting room, where Orumei explains the recent history of [[Sulmana]]. The city was ruled by the Dukes of the Four Winds: the Returning, Vanishing, Brittle, and Singing Winds. After Zadkai returned to the plane, he urged [[Azravan]] toward war against humanity. Azravan proclaimed himself Duke of the Scouring Wind, deposed the Duke of the Brittle Wind, and claimed a place among Sulmana's rulers. As Zadkai became more active and the [[Scouring Wind]] grew stronger, Azravan drove Orumei out, and Sulmana became the cult's base.
+
+An awkward, scholarly djinn wizard takes charge of the astrolabe and Airion's notes for study. Orumei invites the party to enjoy the pleasures of the court for a few days while their assistants work out what the discoveries mean. We end with the party safe at the refuge, able to rest and recover, with the next step against the Scouring Wind still to be decided. The party levels up this session.
+
 ### Events
 
 - (DR:: 1752-06-29), afternoon: Travel to Brelith and Dinia's sanctuary on the western slopes of the [[Fiatara Mountains]], and reconnect.
@@ -89,6 +120,9 @@ Exploring the chamber, the party discovers that the stone pillars can slide upwa
 - (DR:: 1752-07-03), morning: _Wind Walk_ over the forest towards [[Mount Graybane]]. Forced out of _Wind Walk_ by the storm lingering over the mountain. Manage to struggle through, surviving wind, rain, and boulders, and arrive at the summit, where the entrance to [[Airion's Secret Lair]] stands open. 
 -  (DR:: 1752-07-03), midday: Enter the lair, descend to the vault level. Explore the air realm and defeat [[Zadkai]]'s minions, taking the key and the air gemhearts. Use the air gemhearts, enter the water realm. Descend through the water, destroy the ice plug, enter the ice cave.
 - (DR:: 1752-07-03), afternoon: Defeat the ice guardian in [[Airion's Secret Lair]], recover its elemental key and gemheart, and escape the melting caves. [[Samso]] revives [[Mabist]] with the party’s last diamonds. After a short rest, open the fire realm’s entrance and reach the fire guardian’s lair. Defeat the fire guardian, explore the fire chambers, and then enter the earth tunnel. Kill a patrol of Zadkai's warriors, then enter the crystal geode heart of the earth guardian.
+- (DR:: 1752-07-03), afternoon: Destroy the earth guardian crystal in [[Airion's Secret Lair]] and recover the fourth elemental key. Open the vault and take Airion's astrolabe, notebook, and treasure. Escape on [[Silverstorm]] before [[Zadkai]] reaches the summit in [[Airion's Floating Tower]], then pass through a cloud into the [[Elemental Plane of Air]].
+- (DR:: 1752-07-03) - (DR_end:: 1752-07-05): Travel on [[Silverstorm]] through the [[Elemental Plane of Air]] toward [[Orumei]]'s hidden refuge, spending two nights on the roc's back and flying through parts of three days.
+- (DR:: 1752-07-05), late afternoon: Arrive at [[Orumei]]'s forest refuge, hidden in fog and growing on clouds. Learn from Orumei of [[Azravan]]'s rise, the overthrow of the Duke of the Brittle Wind, and Orumei's expulsion from [[Sulmana]]. Hand Airion's astrolabe and notes to a djinn scholar for study, and accept an invitation to rest at court. The party levels up in Session 68; the next quest remains undecided.
 
 %%^Lint%%
 ## Taelgar note lint
