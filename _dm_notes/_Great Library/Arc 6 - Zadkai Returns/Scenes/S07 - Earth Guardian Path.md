@@ -81,16 +81,16 @@ Start with **12 earth sparks and 2 gem jellies**, emerging from the spokes to at
 
 Treat the crystal as an immobile construct. It has its own turn, with **+0 initiative**, and makes one Crystal Gun attack on that turn.
 
-| Statistic | Value |
-| --- | --- |
-| Armor Class | **20** |
-| Hit Points | **300** |
-| Saving throws | STR +8, DEX +0, CON +8, INT +0, WIS +5, CHA +5 |
-| Vulnerability | Thunder |
-| Resistances | Piercing, slashing |
-| Damage immunities | Acid, cold, fire, lightning, poison, necrotic, psychic |
-| Normal damage | Bludgeoning, force, radiant |
-| Conditions | Immune to most conditions; cannot be knocked prone or moved |
+| Statistic         | Value                                                       |
+| ----------------- | ----------------------------------------------------------- |
+| Armor Class       | **20**                                                      |
+| Hit Points        | **300**                                                     |
+| Saving throws     | STR +8, DEX +0, CON +8, INT +0, WIS +5, CHA +5              |
+| Vulnerability     | Thunder                                                     |
+| Resistances       | Piercing, slashing, radiant                                 |
+| Damage immunities | Acid, cold, fire, lightning, poison, necrotic, psychic      |
+| Normal damage     | Bludgeoning, force                                          |
+| Conditions        | Immune to most conditions; cannot be knocked prone or moved |
 
 **Crystal Gun.** Ranged attack, **+12 to hit** against one target. On a hit, deals **10d6 bludgeoning damage** and knocks the target prone.
 

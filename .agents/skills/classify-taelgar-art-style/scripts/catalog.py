@@ -239,6 +239,51 @@ def thumbnail(catalog, config, row):
         os.replace(f.name, dest)
 
 
+def finished_gallery(root, args):
+    from gallery import render_finished
+
+    data = read(root / "catalog.json")
+    by_id = {r["id"]: r for r in data["images"]}
+    if len(by_id) != len(data["images"]):
+        raise ValueError("Duplicate image ID")
+    if args.command == "lookup":
+        for s in data["styles"]:
+            if args.query.casefold() not in (s["treatment"] + " " + s["family"]).casefold():
+                continue
+            print(s["treatment"], s["description"], sep="\n")
+            if s["neighbor"]:
+                print(f'Nearby: {s["neighbor"]}. {s["distinction"]}')
+            for uid in s["examples"]:
+                r = by_id[uid]
+                print(f'  #{uid} {r["title"]} — {root / r["original"]}\n    {r["statement"]}')
+        return
+    page = render_finished(data)
+    if args.command == "build":
+        write(root / "index.html", page)
+        return
+    if page != (root / "index.html").read_text():
+        raise ValueError("The gallery is out of date")
+    from PIL import Image
+    hashes = {}
+    for r in by_id.values():
+        for field, folder in (("original", "originals"), ("thumbnail", "thumbnails")):
+            p = (root / r[field]).resolve()
+            if not p.is_relative_to((root / folder).resolve()) or not p.is_file():
+                raise ValueError(f'Missing or invalid {field} for #{r["id"]}')
+        p = root / r["original"]
+        if p not in hashes:
+            with p.open("rb") as f:
+                digest = hashlib.sha256()
+                for block in iter(lambda: f.read(1024 * 1024), b""):
+                    digest.update(block)
+            hashes[p] = digest.hexdigest()
+        if hashes[p] != r["sha256"]:
+            raise ValueError(f'Wrong file for #{r["id"]}')
+        with Image.open(root / r["thumbnail"]) as im:
+            im.verify()
+    print(f'{len(by_id)} images, {len(hashes)} verified originals, {len(data["styles"])} treatments')
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--catalog",type=Path,default=DEFAULT)
@@ -259,6 +304,10 @@ def main():
     cmd.add_argument("query")
     args = parser.parse_args()
     catalog = args.catalog.expanduser()
+    if (catalog / "catalog.json").is_file():
+        if args.command not in {"build", "verify", "lookup"}:
+            parser.error("Use a working catalog for batch discovery. This folder holds a finished gallery.")
+        return finished_gallery(catalog, args)
     config,rows = read(catalog/"config.json"), records(catalog)
     if args.command == "assemble":
         from PIL import Image
