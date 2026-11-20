@@ -24,7 +24,8 @@ from transcript_core import (VERSION, EDITORIAL_POLICY, WORK, STATE, LINE, MARKE
 
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[4] / '_scripts'))
-from campaign_registry import load_campaigns
+from campaign_registry import bundle_owner, containing_vault, load_campaigns
+from session_bundles import bundle_parts, select_bundle
 
 
 def resolve(vault, campaign, session):
@@ -34,13 +35,8 @@ def resolve(vault, campaign, session):
     require(len(matches) == 1, f'Campaign is unknown or ambiguous: {campaign}')
     campaign_id, item = matches[0]
     require(item.get('sessionBundleDirectory'), f'No session bundle directory for {campaign_id}')
-    candidates = []
-    for manifest in (vault / item['sessionBundleDirectory']).glob('*/cleaned/*-session.yaml'):
-        data = yaml.safe_load(manifest.read_text())
-        if str(data.get('sessionNumber')) == str(session) or str(data.get('sessionNumber')).lstrip('0') == str(session).lstrip('0'):
-            candidates.append(str(manifest.parent.parent))
-    require(len(candidates) == 1, f'Expected one existing bundle for {campaign} {session}; found {len(candidates)}. If none exists, ask whether to use prepare-session-source to create one; if ambiguous, select the intended existing bundle.')
-    return {'bundle': candidates[0], 'campaign': campaign_id, 'sessionNumber': str(session)}
+    bundle = select_bundle(vault / item['sessionBundleDirectory'], session)
+    return {'bundle': str(bundle), 'campaign': campaign_id, 'sessionNumber': bundle_parts(bundle)[1]}
 
 
 def one(root, pattern, explicit=None, required=True):
@@ -99,6 +95,9 @@ def initialize(root, args):
     metadata = yaml.safe_load(manifest_bytes.decode('utf-8-sig'))
     require(isinstance(metadata, dict), 'Session YAML must be a mapping')
     require(metadata.get('sourceType', 'transcript') == 'transcript', 'This pipeline accepts transcripts, not narrative/raw-notes bundles')
+    vault = containing_vault(root)
+    if vault and metadata.get('scope', 'session') == 'session':
+        metadata.update(campaign=bundle_owner(vault, root), sessionNumber=bundle_parts(root)[1])
     require(metadata.get('campaign') and metadata.get('sessionNumber') is not None, 'Existing session YAML needs campaign and sessionNumber; resolve intake metadata through prepare-session-source')
     original = original_path(root, metadata, args.source)
     require(original.is_file(), f'Missing archived source: {original}; use prepare-session-source to repair intake')

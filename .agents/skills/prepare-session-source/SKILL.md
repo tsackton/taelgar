@@ -16,7 +16,7 @@ Start by gathering or inferring:
 
 - recording or transcript path, usually under `/Users/tim/Documents/RPGs/sessions/recordings/`
 - campaign ID from `_sessions/campaign-registry.json`
-- vault output directory, usually `/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/<registered-bundle-directory-name>`
+- campaign bundle directory from its index note
 - session number and real-world date
 - in-world `drStart`, `drEnd`, `drStartTime`, and `drEndTime`
 
@@ -30,6 +30,14 @@ The `.m4a` recording with the same stem is inferred by `prepare_source.py` and w
 
 ## Discovery
 
+For a numbered session, resolve the destination before drafting the config. From the vault root run:
+
+```sh
+python _scripts/session_bundles.py clee 12.4
+```
+
+The command only prints a vault-relative path. An existing folder wins, even if it contains only raw sources. For a new session it reuses the prefix shared by the campaign’s numbered folders. If there are none, ask the user which prefix to use (for example, `greensea`). If several exist, present them and ask which prefix to use. Supply the choice once with `--prefix`; an interactive terminal can also prompt. Copy the printed path into `bundlePath`. On reruns use the path already in the config. A duplicate session number needs correction before preparation.
+
 Read existing nearby configs before drafting:
 
 ```bash
@@ -42,14 +50,12 @@ Use the latest prior session as the model for:
 - source-prep filename pattern, for example `feywild-ep04-source-prep.yaml`
 - speaker-mapping filename pattern, for example `feywild-ep04-speaker-mappings.json`
 - participant roster path
-- campaign ID from the index
-- output directory
 - a possible `drStart` anchor when the session continues directly; leave an unknown `drEnd` blank
 
 Do not invent dates, session numbers, player identities, or in-world dates.
 Ask the user to confirm required identity or source information that cannot be inferred from the new recording path, filename, existing configs, or prior bundle manifests. In-world dates may remain unknown for the post-annotation chronology review.
 
-For an inter-session number, quote the `sessionNumber` value in YAML (for example, `sessionNumber: '12.1'`). Source preparation preserves the fraction in the bundle and file prefix (`cleenseau-012.1`); whole numbers retain the existing three-digit prefix.
+Use three digits for the whole number (more when needed). Preserve a point-session suffix verbatim: `cleenseau-012.1` and `cleenseau-012.10` identify distinct sessions.
 
 ## Draft Files
 
@@ -67,10 +73,7 @@ The config should use this shape for transcript sessions:
 ```yaml
 sourcePath: /absolute/path/to/GMT..._Recording.transcript.vtt
 sourceType: transcript
-outputDir: "/absolute/path/to/Taelgar/_sessions/<registered-bundle-directory-name>"
-
-campaign: feywild
-sessionNumber: 4
+bundlePath: _sessions/feywild/lost-in-the-feywild-004
 realWorldDate: YYYY-MM-DD
 drStart: YYYY-MM-DD
 drEnd: YYYY-MM-DD
@@ -140,10 +143,10 @@ Use `--force` only after the user explicitly confirms overwriting an existing bu
 
 ## Expected Output
 
-For `campaign: Lost in the Feywild` and `sessionNumber: 4`, `prepare_source.py` writes:
+For `bundlePath: _sessions/feywild/lost-in-the-feywild-004`, `prepare_source.py` writes:
 
 ```text
-<outputDir>/lost-in-the-feywild-004/
+_sessions/feywild/lost-in-the-feywild-004/
   sources/
   cleaned/
     lost-in-the-feywild-004-session.yaml

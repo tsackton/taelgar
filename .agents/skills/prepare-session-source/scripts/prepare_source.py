@@ -17,7 +17,8 @@ from typing import Any, Dict, List, Optional, Sequence, Tuple
 import yaml
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[4] / '_scripts'))
-from campaign_registry import load_campaigns
+from campaign_registry import bundle_owner, containing_vault
+from session_bundles import bundle_parts, select_bundle, session_manifest
 
 
 SOURCE_TYPE_TRANSCRIPT = "transcript"
@@ -140,49 +141,14 @@ def main() -> int:
         else None
     )
 
-    bundle_stem = build_bundle_stem(
-        options["campaign"],
-        options.get("sessionNumber"),
-        scope=options["scope"],
-        source_path=source_path,
-    )
-    output_parent_dir = Path(options["outputDir"]).expanduser().resolve()
-    vault = next((parent for parent in output_parent_dir.parents
-                  if (parent / '_sessions/campaign-registry.json').is_file()), None)
-    if vault:
-        campaigns = load_campaigns(vault)
-        owners = [key for key, row in campaigns.items() if row.get('sessionBundleDirectory')
-                  and (vault / row['sessionBundleDirectory']).resolve() == output_parent_dir]
-        if len(owners) != 1:
-            raise SystemExit(f"Expected one campaign registered for {output_parent_dir}")
-        campaign_id = owners[0]
-        if options["campaign"] in campaigns and options["campaign"] != campaign_id:
-            raise SystemExit(f"Campaign {options['campaign']} does not own {output_parent_dir}")
-        # A rerun must find its original stem even when the source configuration now uses an ID.
-        matches = []
-        for manifest_path in output_parent_dir.glob("*/cleaned/*-session.yaml"):
-            prior = load_yaml_mapping(manifest_path)
-            if prior.get("scope", "session") != options["scope"]:
-                continue
-            if options["scope"] == "arc":
-                same = Path(str(prior.get("sourceConfigPath", ""))).name == config_path.name
-            else:
-                same = str(prior.get("sessionNumber")) == str(options.get("sessionNumber"))
-            if same:
-                matches.append(manifest_path.parent.parent.name)
-        if len(matches) > 1:
-            raise SystemExit(f"Multiple existing bundles match {config_path}: {matches}")
-        if matches:
-            bundle_stem = matches[0]
-        elif options["campaign"] != campaign_id:
-            raise SystemExit(f"Use campaign: {campaign_id} for a new bundle in {output_parent_dir}")
-        options["campaign"] = campaign_id
-    output_dir = output_parent_dir / bundle_stem
+    try:
+        output_dir = prep_destination(config_path, options, source_path)
+        prior_manifest = session_manifest(output_dir, required=False)
+    except (OSError, ValueError) as exc:
+        raise SystemExit(str(exc)) from exc
+    bundle_stem = prior_manifest.name.removesuffix("-session.yaml") if prior_manifest else output_dir.name
     sources_dir = output_dir / "sources"
     cleaned_dir = output_dir / "cleaned"
-    output_dir.mkdir(parents=True, exist_ok=True)
-    sources_dir.mkdir(parents=True, exist_ok=True)
-    cleaned_dir.mkdir(parents=True, exist_ok=True)
 
     session_path = cleaned_dir / f"{bundle_stem}-session.yaml"
     prepared_path = cleaned_dir / f"{bundle_stem}-source-prepared.md"
@@ -218,21 +184,17 @@ def main() -> int:
     output_paths = [session_path, prepared_path]
     if options["sourceType"] == SOURCE_TYPE_TRANSCRIPT:
         output_paths.append(speaker_stats_path)
-    source_archive_paths = [
-        archived_source_path,
-        archived_config_path,
-        archived_participants_path,
-    ]
-    if archived_speaker_mappings_path is not None:
-        source_archive_paths.append(archived_speaker_mappings_path)
-    if archived_known_mistakes_path is not None:
-        source_archive_paths.append(archived_known_mistakes_path)
-    for supplemental in archived_supplemental_sources:
-        archived_path = supplemental.get("archivedPath")
-        if archived_path is not None:
-            source_archive_paths.append(Path(archived_path))
-
-    for path in [*output_paths, *source_archive_paths]:
+    archive_pairs = [(source_path, archived_source_path), (config_path, archived_config_path),
+                     (participants_path, archived_participants_path)]
+    if speaker_mappings_path:
+        archive_pairs.append((speaker_mappings_path, archived_speaker_mappings_path))
+    if known_mistakes_path:
+        archive_pairs.append((known_mistakes_path, archived_known_mistakes_path))
+    for entry in archived_supplemental_sources:
+        if "sourcePath" in entry:
+            archive_pairs.append((Path(entry["sourcePath"]), Path(entry["archivedPath"])))
+    copies = [(src, dst) for src, dst in archive_pairs if src.resolve() != dst.resolve()]
+    for path in [*output_paths, *(dst for _, dst in copies)]:
         if path.exists() and not args.force:
             raise SystemExit(f"Refusing to overwrite existing file without --force: {path}")
 
@@ -281,19 +243,9 @@ def main() -> int:
         source_audio_path=source_audio_path,
     )
 
-    copy_file(source_path, archived_source_path)
-    copy_file(config_path, archived_config_path)
-    copy_file(participants_path, archived_participants_path)
-    if speaker_mappings_path is not None and archived_speaker_mappings_path is not None:
-        copy_file(speaker_mappings_path, archived_speaker_mappings_path)
-    if known_mistakes_path is not None and archived_known_mistakes_path is not None:
-        copy_file(known_mistakes_path, archived_known_mistakes_path)
-    for supplemental in archived_supplemental_sources:
-        source_value = supplemental.get("sourcePath")
-        archived_path = supplemental.get("archivedPath")
-        if source_value is None or archived_path is None:
-            continue
-        copy_file(Path(source_value), Path(archived_path))
+    cleaned_dir.mkdir(parents=True, exist_ok=True)
+    for src, dst in copies:
+        copy_file(src, dst)
 
     session_path.write_text(
         yaml.safe_dump(manifest, sort_keys=False, allow_unicode=True),
@@ -317,12 +269,52 @@ def load_yaml_mapping(path: Path) -> Dict[str, Any]:
     return payload
 
 
+def prep_destination(config_path: Path, options: Dict[str, Any], source_path: Path) -> Path:
+    if options["bundlePath"]:
+        path = Path(options["bundlePath"])
+        if path.is_absolute() or ".." in path.parts:
+            raise ValueError("bundlePath must be relative to the vault without parent traversal")
+        vault = containing_vault(config_path.parent) or Path(__file__).resolve().parents[4]
+        bundle = vault / path
+        campaign = bundle_owner(vault, bundle)
+        prefix, number = bundle_parts(bundle)
+        selected = select_bundle(bundle.parent, number, create=True, prefix=prefix)
+        if selected != bundle or bundle.is_symlink():
+            raise ValueError(f"Invalid bundle destination: {bundle}")
+        options.update(campaign=campaign, sessionNumber=number)
+        return bundle
+
+    # Standalone preparations and arc sources have their own naming rules.
+    directory = Path(options["outputDir"]).expanduser().resolve()
+    vault = containing_vault(directory)
+    if vault and options["scope"] == SCOPE_SESSION:
+        raise ValueError("Use bundlePath in place of outputDir, campaign and sessionNumber for a vault session.")
+    stem = build_bundle_stem(options["campaign"], options["sessionNumber"],
+                             scope=options["scope"], source_path=source_path)
+    if vault:
+        owner = bundle_owner(vault, directory / stem)
+        previous = []
+        for manifest in directory.glob("*/cleaned/*-session.yaml"):
+            data = load_yaml_mapping(manifest)
+            if data.get("scope") == SCOPE_ARC and Path(str(data.get("sourceConfigPath", ""))).name == config_path.name:
+                previous.append(manifest.parent.parent)
+        if len(previous) > 1:
+            raise ValueError(f"Multiple existing arc bundles match {config_path}: {previous}")
+        if not previous and options["campaign"] != owner:
+            raise ValueError(f"Use campaign: {owner} for a new arc in {directory}")
+        options["campaign"] = owner
+        if previous:
+            return previous[0]
+    return directory / stem
+
+
 def validate_config(config: Dict[str, Any]) -> Dict[str, Any]:
     options = {
         "sourcePath": config.get("sourcePath"),
         "sourceAudioPath": config.get("sourceAudioPath"),
         "sourceType": config.get("sourceType"),
         "scope": config.get("scope") or SCOPE_SESSION,
+        "bundlePath": config.get("bundlePath"),
         "outputDir": config.get("outputDir"),
         "campaign": config.get("campaign"),
         "sessionNumber": config.get("sessionNumber"),
@@ -340,16 +332,20 @@ def validate_config(config: Dict[str, Any]) -> Dict[str, Any]:
         "sessionNote": normalize_session_note_config(config.get("sessionNote")),
     }
 
-    required = [
-        "sourcePath",
-        "sourceType",
-        "outputDir",
-        "campaign",
-        "participantsPath",
-    ]
+    required = ["sourcePath", "sourceType", "participantsPath"]
+    if "bundlePath" in config:
+        if any(key in config for key in ("outputDir", "campaign", "sessionNumber")):
+            raise SystemExit("bundlePath replaces outputDir, campaign and sessionNumber; supply only bundlePath.")
+        if options["scope"] != SCOPE_SESSION:
+            raise SystemExit("bundlePath is for numbered sessions only.")
+        required.append("bundlePath")
+    else:
+        required.extend(["outputDir", "campaign"])
+        if options["scope"] == SCOPE_SESSION:
+            required.append("sessionNumber")
     if options["scope"] == SCOPE_SESSION:
-        required.extend(["sessionNumber", "realWorldDate"])
-    missing = [key for key in required if not options.get(key)]
+        required.append("realWorldDate")
+    missing = [key for key in required if options.get(key) in (None, "")]
     if missing:
         raise SystemExit("Missing required config fields: " + ", ".join(missing))
     if options["sourceType"] not in SOURCE_TYPE_CHOICES:
