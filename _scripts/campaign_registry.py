@@ -68,3 +68,20 @@ def load_campaigns(vault_root: Path) -> dict[str, dict[str, Any]]:
             raise ValueError(f"{campaign_id}: {target}: {exc}") from exc
         owners[path] = campaign_id
     return campaigns
+
+
+def session_campaign_id(manifest: Path, declared: str | None) -> str | None:
+    """Project a registered bundle's ID without changing its fingerprinted source."""
+    manifest = manifest.resolve()
+    directory = manifest.parent.parent.parent
+    if manifest.parent.name != "cleaned":
+        return declared
+    vault = next((p for p in directory.parents if (p / "_sessions/campaign-registry.json").is_file()), None)
+    if vault is None:
+        return declared  # Standalone bundle outside a registered vault.
+    campaigns = load_campaigns(vault)
+    owners = [key for key, row in campaigns.items() if row.get("sessionBundleDirectory")
+              and (vault / row["sessionBundleDirectory"]).resolve() == directory]
+    if len(owners) != 1 or (declared in campaigns and declared != owners[0]):
+        raise ValueError(f"Missing or conflicting campaign ownership for {manifest}")
+    return owners[0]
