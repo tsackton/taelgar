@@ -52,6 +52,7 @@ def load_campaigns(vault_root: Path) -> dict[str, dict[str, Any]]:
 
     campaigns = {}
     owners = {}
+    bundle_roots = {}
     for campaign_id, target in entries.items():
         if not re.fullmatch(r"[a-z][a-z0-9]*", campaign_id):
             raise ValueError(f"{registry_path}: invalid campaign ID {campaign_id!r}")
@@ -66,22 +67,37 @@ def load_campaigns(vault_root: Path) -> dict[str, dict[str, Any]]:
             campaigns[campaign_id] = _read_index_note(path)
         except (OSError, ValueError, yaml.YAMLError) as exc:
             raise ValueError(f"{campaign_id}: {target}: {exc}") from exc
+        directory = campaigns[campaign_id].get("sessionBundleDirectory")
+        if directory:
+            root = (vault_root / directory).resolve()
+            if Path(directory).is_absolute() or vault_root not in root.parents:
+                raise ValueError(f"{campaign_id}: invalid vault-relative bundle directory {directory!r}")
+            for other, owner in bundle_roots.items():
+                if root == other or root in other.parents or other in root.parents:
+                    raise ValueError(f"Overlapping session bundle directories for {campaign_id} and {owner}")
+            bundle_roots[root] = campaign_id
         owners[path] = campaign_id
     return campaigns
 
 
+def containing_vault(path: Path) -> Path | None:
+    return next((p for p in (path, *path.parents)
+                 if (p / "_sessions/campaign-registry.json").is_file()), None)
+
+
+def bundle_owner(vault: Path, bundle: Path) -> str:
+    directory = bundle.parent.resolve()
+    for key, row in load_campaigns(vault).items():
+        root = row.get("sessionBundleDirectory")
+        if root and (vault / root).resolve() == directory:
+            return key
+    raise ValueError(f"Unregistered session bundle directory: {directory}")
+
+
 def session_campaign_id(manifest: Path, declared: str | None) -> str | None:
-    """Project a registered bundle's ID without changing its fingerprinted source."""
+    """A registered bundle gets its campaign from its directory."""
     manifest = manifest.resolve()
-    directory = manifest.parent.parent.parent
-    if manifest.parent.name != "cleaned":
+    vault = containing_vault(manifest.parent)
+    if vault is None or manifest.parent.name != "cleaned":
         return declared
-    vault = next((p for p in directory.parents if (p / "_sessions/campaign-registry.json").is_file()), None)
-    if vault is None:
-        return declared  # Standalone bundle outside a registered vault.
-    campaigns = load_campaigns(vault)
-    owners = [key for key, row in campaigns.items() if row.get("sessionBundleDirectory")
-              and (vault / row["sessionBundleDirectory"]).resolve() == directory]
-    if len(owners) != 1 or (declared in campaigns and declared != owners[0]):
-        raise ValueError(f"Missing or conflicting campaign ownership for {manifest}")
-    return owners[0]
+    return bundle_owner(vault, manifest.parent.parent)

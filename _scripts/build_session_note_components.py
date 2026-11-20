@@ -16,6 +16,7 @@ from typing import Any, Dict, Iterable, List, Optional, Sequence, Tuple
 import yaml
 import audio_tools
 from campaign_registry import load_campaigns
+from session_bundles import select_bundle, session_manifest, session_number
 
 
 VAULT_ROOT = Path(__file__).resolve().parents[1]
@@ -210,6 +211,7 @@ def main() -> int:
     print(f"Using session manifest: {session_manifest}")
     print(f"Using reviewed recap: {session_recap}")
     session_payload = read_yaml_mapping(session_manifest)
+    session_payload.update(campaign=campaign_id, sessionNumber=args.session)
     recap_text = session_recap.read_text(encoding="utf-8")
     try:
         recap = parse_session_recap(recap_text)
@@ -294,9 +296,10 @@ def format_campaign_help(campaigns: Dict[str, Dict[str, Any]]) -> str:
 
 
 def parse_session_identifier(value: str) -> str:
-    if not re.fullmatch(r"[1-9]\d*(?:\.[1-9]\d*)?", str(value)):
-        raise argparse.ArgumentTypeError("Session number must be a positive integer or a point session such as 13.1.")
-    return str(value)
+    try:
+        return session_number(value)
+    except ValueError as exc:
+        raise argparse.ArgumentTypeError(str(exc)) from exc
 
 
 def find_session_manifest(campaign_id: str, config: Dict[str, Any], session_number: str) -> Path:
@@ -309,24 +312,10 @@ def find_session_manifest(campaign_id: str, config: Dict[str, Any], session_numb
     if not session_root.exists():
         raise SystemExit(f"Session root does not exist for campaign '{campaign_id}': {session_root}")
 
-    matches: List[Path] = []
-    for manifest_path in sorted(session_root.rglob("*-session.yaml")):
-        payload = read_yaml_mapping(manifest_path)
-        try:
-            manifest_session_number = parse_session_identifier(str(payload.get("sessionNumber")))
-        except argparse.ArgumentTypeError:
-            continue
-        if manifest_session_number == session_number:
-            matches.append(manifest_path)
-
-    if not matches:
-        raise SystemExit(f"No session manifest found for campaign '{campaign_id}' session {session_number}.")
-    if len(matches) > 1:
-        formatted = "\n".join(f"  - {path}" for path in matches)
-        raise SystemExit(
-            f"Multiple session manifests found for campaign '{campaign_id}' session {session_number}:\n{formatted}"
-        )
-    return matches[0]
+    try:
+        return session_manifest(select_bundle(session_root, session_number))
+    except ValueError as exc:
+        raise SystemExit(str(exc)) from exc
 
 
 def derive_session_recap_path(session_manifest: Path) -> Path:
