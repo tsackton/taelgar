@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:14:58-04:00"
 lintVersion: "3.5"
 displayDefaults: {partOf: "", defArt: the}
-tags: [group, status/gameupdate/grli, status/gameupdate/dufr, status/check/lint, status/check/ai]
+tags: [group, status/gameupdate/grli, status/gameupdate/dufr, status/check/lint]
 typeOf: family
 typeOfAlias: chalyte oligarch family
 partOf: Chalyte Oligarchs of Chardon

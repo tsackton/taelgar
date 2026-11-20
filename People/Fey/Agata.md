@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 displayDefaults: {boxInfo: "<subspecies> (<species:s>), <pronouns>"}
-tags: [status/cleanup/metadata, person, status/check/lint, status/check/ai]
+tags: [status/cleanup/metadata, person, status/check/lint]
 species: fey
 subspecies: hag
 campaignInfo:

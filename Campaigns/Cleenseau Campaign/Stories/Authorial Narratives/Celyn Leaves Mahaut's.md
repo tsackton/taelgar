@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 displayDefaults: {defArt: ""}
-tags: [story, status/check/ai]
+tags: [story]
 campaign: clee
 DR: 1719-06-29
 name: Celyn Leaves Mahaunt's Miracle Players

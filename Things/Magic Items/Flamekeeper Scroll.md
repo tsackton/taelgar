@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:07:38-04:00"
 lintVersion: "3.5"
-tags: [object, status/gameupdate/grli, status/check/ai]
+tags: [object, status/gameupdate/grli]
 typeOf: scroll
 campaignInfo:
   - {campaign: grli, type: recovered, date: 1747-04-05, wParty: "<met:U> by <person> on <target>"}

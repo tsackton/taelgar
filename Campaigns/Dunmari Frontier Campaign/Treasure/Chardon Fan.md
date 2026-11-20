@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:26:32-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-tags: [object, status/check/lint, status/check/ai]
+tags: [object, status/check/lint]
 typeOf: object of art
 typeOfAlias: fan
 name: Chardon Fan

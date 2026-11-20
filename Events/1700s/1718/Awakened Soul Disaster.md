@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:23:09-04:00"
 lintVersion: "3.5"
-tags: [event, status/check/lint, status/check/ai]
+tags: [event, status/check/lint]
 typeOf: disaster
 DR: 1718
 name: Awakened Soul Disaster

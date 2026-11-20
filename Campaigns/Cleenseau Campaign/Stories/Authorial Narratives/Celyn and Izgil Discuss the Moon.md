@@ -1,5 +1,5 @@
 ---
-tags: [story, status/check/ai]
+tags: [story]
 campaign: clee
 POV: 1719
 ---

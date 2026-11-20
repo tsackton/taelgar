@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-08-25T09:29:24-04:00"
 lintVersion: "3.5"
-tags: [person, status/gameupdate/grli, status/check/ai]
+tags: [person, status/gameupdate/grli]
 species: human
 ancestry: Chardonian
 gender: male

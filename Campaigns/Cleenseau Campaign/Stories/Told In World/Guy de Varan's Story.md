@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T09:49:52-04:00"
 lintVersion: "3.5"
-tags: [source, status/check/lint, status/check/ai]
+tags: [source, status/check/lint]
 DR: 1719-12-04
 campaign: clee
 name: "Guy de Varan's Story of Orc Raids"

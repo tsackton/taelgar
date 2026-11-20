@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 lintedAt: "2026-08-23T15:25:54-04:00"
 lintVersion: "3.5"
 displayDefaults: {endStatus: mysteriously vanished in}
-tags: [place, status/gameupdate/grli, status/check/ai]
+tags: [place, status/gameupdate/grli]
 typeOf: settlement
 typeOfAlias: village
 ancestry: lizardfolk

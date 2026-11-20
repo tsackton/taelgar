@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
-tags: [power, status/gameupdate/dufr, status/check/lint, status/check/ai]
+tags: [power, status/gameupdate/dufr, status/check/lint]
 typeOf: archfey
 gender: female
 name: Cloudspinner

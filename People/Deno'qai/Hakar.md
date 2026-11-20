@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: human
 ancestry: "Deno'qai"
 born: 1691

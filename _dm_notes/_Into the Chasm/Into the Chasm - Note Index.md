@@ -1,5 +1,5 @@
 ---
-tags: [meta, status/check/ai]
+tags: [meta]
 campaign: chasm
 name: Into the Chasm - Note Index
 noPublish: true

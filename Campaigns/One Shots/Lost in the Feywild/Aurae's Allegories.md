@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-08-23T12:50:50-04:00"
 lintVersion: "3.5"
-tags: [source, status/check/ai]
+tags: [source]
 campaign: feywild
 name: "Aurae's Allegories"
 POV: 1740
