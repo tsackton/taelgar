@@ -6,7 +6,7 @@ This guide covers the 35 skills maintained in this repository under `.agents/ski
 
 Describe the task in ordinary language, or name a skill explicitly with `$skill-name`. Include the relevant note, session, source, or folder and what you want done. The linked skill instructions define the actual workflow and approvals; this guide is a way to choose the right starting point.
 
-Session tools look up campaign IDs in `_sessions/campaign-registry.json` and use the bundle and note paths from the linked index notes.
+Beat and recap tools use the registered ID when reading historical bundle manifests. Session tools look up campaign IDs in `_sessions/campaign-registry.json` and use the bundle and note paths from the linked index notes.
 
 ## Session preparation
 
