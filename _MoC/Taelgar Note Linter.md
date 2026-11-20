@@ -21,7 +21,7 @@ The linter does not compress that answer into a few frontmatter fields. It recor
 This specification defines lint behavior and state. It operates alongside:
 
 - [[Metadata Specification]] and [[Note Categorization]] for general note metadata;
-- [[Campaign Registry]] and `_scripts/session_note_campaigns.json` for campaign identities and codes;
+- [[Campaign Registry]] and `_sessions/campaign-registry.json` for campaign identities and codes;
 - [[Name Metadata]] for human-curated name blocks;
 - [[Temporal POV Metadata]] for the searchable article viewpoint and `povNotes` interpretation;
 - [[Note Status]] for the meanings and lifecycle semantics of `status/*` tags;
@@ -265,7 +265,7 @@ Use adopted language rules before cultural patterns or a real-world analogue in 
 
 `knownTo` is required for people and objects; `[]` explicitly records that no campaign knowledge is known. It is optional for other subjects. `campaignInfo` on a person or object normally implies the matching `knownTo` code.
 
-`campaign` frontmatter applies only to session notes, campaign-specific meta notes, and campaign source material. It uses the registry's canonical long name. `knownTo`, `campaignInfo`, and `Campaign:*` blocks use lowercase short codes. Campaign directory placement does not make `campaign` appropriate for an in-world entity.
+`campaign` frontmatter applies only to session notes, campaign-specific meta notes, and campaign source material. It uses the registry's lowercase campaign ID. `knownTo`, `campaignInfo`, and `Campaign:*` blocks use lowercase short codes. Campaign directory placement does not make `campaign` appropriate for an in-world entity.
 
 Positive campaign lists in `audience` are not yet a universal requirement. A session backlink proves that the subject appeared, not that every character knows every fact in the note.
 

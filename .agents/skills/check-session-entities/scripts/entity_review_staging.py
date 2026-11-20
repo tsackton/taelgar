@@ -1,9 +1,14 @@
 """Empty staging-note paths, name collisions, and exclusive file creation."""
 import json
 import os
+import sys
 from pathlib import Path
 import re
 import unicodedata
+
+
+sys.path.insert(0, str(Path(__file__).resolve().parents[4] / '_scripts'))
+from campaign_registry import load_campaigns
 
 
 def normalized(value):
@@ -11,13 +16,16 @@ def normalized(value):
 
 
 def campaign_config(bundle, scenes):
-    registry = scenes.safe(bundle['vault'], '_scripts/session_note_campaigns.json')
-    if not registry.is_file():
+    vault = bundle['vault']
+    if not (vault / '_sessions/campaign-registry.json').is_file():
         return None
-    campaigns = json.loads(registry.read_bytes()).get('campaigns', {})
+    campaigns = load_campaigns(vault)
     name = normalized(bundle['data'].get('campaign', ''))
-    matches = [dict(c, registryKey=key) for key, c in campaigns.items() if name in
-               {normalized(v) for v in [key, c.get('name'), c.get('code'), *c.get('aliases', [])]}]
+    root = bundle.get('root')
+    matches = [dict(row, registryKey=key) for key, row in campaigns.items()
+               if name in (key, normalized(row['name'])) or
+               (root and row.get('sessionBundleDirectory') and
+                root.parent == vault / row['sessionBundleDirectory'])]
     scenes.require(len(matches) <= 1, 'Ambiguous campaign registry entry')
     return matches[0] if matches else None
 
@@ -37,7 +45,7 @@ def folder(bundle, scenes):
     config = campaign_config(bundle, scenes) or {}
     campaign = component(config.get('name') or bundle['data'].get('campaign', ''), scenes)
     names = [campaign, bundle['data'].get('campaign', ''), config.get('registryKey', ''),
-             config.get('code', ''), config.get('sessionRoot', ''), *config.get('aliases', [])]
+             Path(config.get('sessionBundleDirectory', '')).name]
     words = lambda text: ' '.join(re.findall(r'\w+', normalized(text)))
     identities = [words(name) for name in names if name]
     base = scenes.safe(bundle['vault'], 'Worldbuilding/Staging')

@@ -47,8 +47,7 @@ transaction data or rewrite hashes to suppress an error.
 
 The map screen has one navigation/reload/status bar and a session/date title.
 Transcript and campaign session-note links appear only for existing files. Session
-notes resolve through `_scripts/session_note_campaigns.json`, including aliases and
-the registered `campaignRoot` / `notePattern`.
+notes resolve through `_sessions/campaign-registry.json`, using the registered `campaignDirectory` and `notePattern`.
 
 The optional entity `confidenceExplanation` contains the agent's one-sentence
 explanation of medium/low confidence (and optionally high confidence). It appears
@@ -77,7 +76,7 @@ agent follow-up instructions, and history; those remain on the main map.
 For an unlinked entity, Create staging note asks the human to confirm a name and
 shows the target under `Worldbuilding/Staging/<campaign folder>/<name>.md`.
 `entity_review_staging.py` reuses an existing short folder when it uniquely matches
-the registered campaign name or aliases; otherwise it uses the canonical name.
+the registered campaign name or bundle directory; otherwise it uses the canonical name.
 It rejects unsafe filenames and vault-wide filename/name/alias collisions, then
 creates the file exclusively with zero bytes. No template, frontmatter, status
 metadata, or content is added: this action explicitly creates an empty note.

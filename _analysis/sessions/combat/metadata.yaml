@@ -1,6 +1,6 @@
 schema_version: 1
 analysis_date: '2026-11-06'
-campaign_keys: [dunmar-frontier, mawar-adventures, into-the-chasm, labyrinths-of-the-lost, lost-in-the-feywild]
+campaign_keys: [dufr, mawar, chasm, lablost, feywild]
 excluded_campaigns:
   dragonets: Excluded at the user's request on 2026-11-06.
 human_decisions:
@@ -12,7 +12,7 @@ human_decisions:
     - Into the Chasm is level 6 throughout.
     - Exclude Dragonets.
 levels:
-  dunmar-frontier:
+  dufr:
     initial: 1
     source: _DM_/_Dunmari Frontier/Leveling.md
     source_scope: The dated retrospective advancement list at the beginning. Later planning sections are excluded.
@@ -40,24 +40,24 @@ levels:
       56: {level: 8, evidence: User confirmation of Riswynn and all guests.}
       58: {level: 8, evidence: User confirmation of Riswynn and all guests.}
     split_sessions: [53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67]
-  mawar-adventures:
+  mawar:
     initial: 6
     source: User confirmation on 2026-11-06.
-  into-the-chasm:
+  chasm:
     initial: 6
     source: User confirmation on 2026-11-06.
-  labyrinths-of-the-lost:
+  lablost:
     initial: 2
     source: Campaigns/One Shots/Labyrinths of the Lost/Labyrinths - Player Background.md
     milestones:
       - {session: 1, level: 3, from_uid: u1053, evidence: 'Session 1 transcript u0900–u0911 announces advancement during the rest. u1053 resumes play after character-building. First fight is level 2, second is level 3.'}
-  lost-in-the-feywild:
+  feywild:
     initial: 3
     source: _sessions/feywild/lost-in-the-feywild-004/cleaned/lost-in-the-feywild-004-transcript.md
     evidence: 'The DM explicitly confirms third-level characters. Sessions 2 and 5 independently repeat level 3.'
 play_formats:
   # Paths are recording provenance, rather than a new fact stored in session YAML.
-  dunmar-frontier:
+  dufr:
     in_person:
       - {sessions: [50, 51, 52], gathering: Cape 2022}
       - {sessions: [80, 81], gathering: Cape 2023}

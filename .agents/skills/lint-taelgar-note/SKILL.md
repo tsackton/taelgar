@@ -33,7 +33,7 @@ Read every target completely. Read the adopted specification once per reviewing 
 - place `typeOf` vocabulary validation: `../../../_MoC/Data Categorization/Place Categories.md`; its `canonical` and `linterAliases` fields define the exact accepted values and aliases, while `Note Categorization.md` explains their semantic meaning and appropriate use;
 - non-check statuses: `../../../_MoC/Note Status.md`;
 - names or pronunciation: `../../../_MoC/Name Metadata.md` and the relevant entries supplied from `../../../_scripts/language_pronunciation_analogues.json`;
-- campaign identities: `../../../_MoC/Campaign Registry.md` and `../../../_scripts/session_note_campaigns.json`;
+- campaign identities: `../../../_MoC/Campaign Registry.md` and `../../../_sessions/campaign-registry.json`;
 - article temporality: `../../../_MoC/Temporal POV Metadata.md`.
 
 For a batch, the manifest is the reusable result of link, relationship, `_DM_`, Git-freshness, and deterministic checks. Do not rerun those searches per note unless the packet reports ambiguity, a tool failure, or a contextual question it cannot answer.

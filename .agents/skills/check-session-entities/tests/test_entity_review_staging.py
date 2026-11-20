@@ -45,14 +45,13 @@ class StagingNoteTests(unittest.TestCase):
         for path, before in self.f.source_before.items():
             self.assertEqual(path.read_bytes(), before)
 
-    def test_short_campaign_folder_is_reused_through_registry_aliases(self):
+    def test_short_campaign_folder_is_reused_through_registered_bundle_directory(self):
         folder = self.vault / 'Worldbuilding/Staging/Dunmar'
         folder.mkdir(parents=True)
-        scripts = self.vault / '_scripts'
-        scripts.mkdir()
-        registry = {'campaigns': {'dunmar-frontier': {'name': 'Dunmar Frontier',
-                    'aliases': [self.f.f.bundle['data']['campaign']], 'sessionRoot': 'dunmar-frontier'}}}
-        (scripts / 'session_note_campaigns.json').write_text(json.dumps(registry), encoding='utf8')
+        scripts = self.vault / '_sessions'
+        scripts.mkdir(exist_ok=True)
+        (scripts / 'campaign-registry.json').write_text(json.dumps({'dufr': 'Index.md'}), encoding='utf8')
+        (scripts.parent / 'Index.md').write_text('---\nname: Dunmari Frontier\nsessionBundleDirectory: _sessions/dunmar-frontier\n---\n', encoding='utf8')
         self.assertEqual(self.call()['session']['stagingFolder'], 'Worldbuilding/Staging/Dunmar')
         result = self.create('New Ally.md')
         self.assertEqual(result['document']['entities'][0]['note'], 'Worldbuilding/Staging/Dunmar/New Ally.md')

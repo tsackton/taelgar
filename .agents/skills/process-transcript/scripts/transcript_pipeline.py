@@ -23,24 +23,24 @@ from transcript_core import (VERSION, EDITORIAL_POLICY, WORK, STATE, LINE, MARKE
     render_polished)
 
 
+sys.path.insert(0, str(Path(__file__).resolve().parents[4] / '_scripts'))
+from campaign_registry import load_campaigns
+
+
 def resolve(vault, campaign, session):
-    registry = read_json(vault / '_scripts/session_note_campaigns.json')['campaigns']
-    key = re.sub(r'[^a-z0-9]', '', campaign.lower())
-    aliases = {'dunmar': 'dunmar-frontier', 'dunmari': 'dunmar-frontier', 'chasm': 'into-the-chasm', 'lab lost': 'labyrinths-of-the-lost'}
-    matches = []
-    for slug, item in registry.items():
-        names = [slug, item['name'], item['code'], item['sessionRoot'], *item.get('aliases', [])]
-        if aliases.get(campaign.lower()) == slug or any(re.sub(r'[^a-z0-9]', '', n.lower()) == key for n in names):
-            matches.append(item)
+    registry = load_campaigns(vault)
+    matches = [(key, row) for key, row in registry.items()
+               if campaign.casefold() in {key, row['name'].casefold()}]
     require(len(matches) == 1, f'Campaign is unknown or ambiguous: {campaign}')
-    item = matches[0]
+    campaign_id, item = matches[0]
+    require(item.get('sessionBundleDirectory'), f'No session bundle directory for {campaign_id}')
     candidates = []
-    for manifest in (vault / '_sessions' / item['sessionRoot']).glob('*/cleaned/*-session.yaml'):
+    for manifest in (vault / item['sessionBundleDirectory']).glob('*/cleaned/*-session.yaml'):
         data = yaml.safe_load(manifest.read_text())
         if str(data.get('sessionNumber')) == str(session) or str(data.get('sessionNumber')).lstrip('0') == str(session).lstrip('0'):
             candidates.append(str(manifest.parent.parent))
     require(len(candidates) == 1, f'Expected one existing bundle for {campaign} {session}; found {len(candidates)}. If none exists, ask whether to use prepare-session-source to create one; if ambiguous, select the intended existing bundle.')
-    return {'bundle': candidates[0], 'campaign': item['name'], 'sessionNumber': str(session)}
+    return {'bundle': candidates[0], 'campaign': campaign_id, 'sessionNumber': str(session)}
 
 
 def one(root, pattern, explicit=None, required=True):
@@ -474,7 +474,7 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     sub = parser.add_subparsers(dest='command', required=True)
     p = sub.add_parser('resolve')
-    default_vault = next((p for p in Path(__file__).resolve().parents if (p / '_scripts/session_note_campaigns.json').is_file()), Path.cwd())
+    default_vault = next((p for p in Path(__file__).resolve().parents if (p / '_sessions/campaign-registry.json').is_file()), Path.cwd())
     p.add_argument('--vault-root', type=Path, default=default_vault)
     p.add_argument('--campaign', required=True)
     p.add_argument('--session', required=True)
