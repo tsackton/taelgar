@@ -397,7 +397,7 @@ class SessionNoteComponentsTest(unittest.TestCase):
             session_payload = components.read_yaml_mapping(vault / "session.yaml")
             recap = components.parse_session_recap((vault / "session-recap.md").read_text(encoding="utf-8"))
             generated_root = vault / "Campaigns" / "Test Campaign" / "_generated" / "session-notes"
-            component_dir = generated_root / components.build_component_dir_name(
+            component_dir = generated_root / components.build_session_key(
                 session_payload,
                 fallback="session",
             )
@@ -849,6 +849,7 @@ class SessionNoteComponentsTest(unittest.TestCase):
             self.assertNotIn(b"\r\n", generated_path.read_bytes())
         note_path = vault / "Campaigns" / "Test Campaign" / "Sessions" / "Line Endings.md"
         components.ensure_base_note(
+            campaign_id="test",
             note_path=note_path,
             session_key="test-campaign-session-12",
             template_name="test-session.md",
@@ -1230,11 +1231,20 @@ class SessionNoteComponentsTest(unittest.TestCase):
         self.assertEqual(command[command.index("-ac") + 1], "1")
         self.assertEqual(Path(command[-1]), audio_output.resolve())
 
+    def test_existing_session_key_survives_campaign_id_change(self) -> None:
+        vault = self.make_workspace()
+        note = vault / "Existing Session.md"
+        manifest = {"campaign": "chasm", "sessionNumber": 1}
+        note.write_text("---\nsessionKey: into-the-chasm-session-1\n---\n", encoding="utf-8")
+        self.assertEqual(components.resolve_session_key(note, manifest, fallback="unused"), "into-the-chasm-session-1")
+        self.assertEqual(components.resolve_session_key(vault / "New.md", manifest, fallback="unused"), "chasm-session-1")
+
     def test_base_note_uses_session_template_frontmatter_key(self) -> None:
         vault = self.make_workspace()
         note_path = vault / "Campaigns" / "Test Campaign" / "Sessions" / "Session 12.md"
 
         components.ensure_base_note(
+            campaign_id="test",
             note_path=note_path,
             session_key="test-campaign-session-12",
             template_name="test-session.md",
@@ -1250,6 +1260,7 @@ class SessionNoteComponentsTest(unittest.TestCase):
         note_path.write_text("---\ntemplate: legacy-session.md\n---\nExisting body\n", encoding="utf-8")
 
         components.ensure_base_note(
+            campaign_id="test",
             note_path=note_path,
             session_key="test-campaign-session-12",
             template_name="test-session.md",

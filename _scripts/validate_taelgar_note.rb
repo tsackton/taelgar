@@ -435,47 +435,44 @@ module TaelgarNoteLint
     def campaign_for_path(path)
       normalized_path = path.to_s.tr("\\", "/")
       matches = @campaigns.select do |campaign|
-        root = campaign["campaignRoot"]
+        root = campaign["campaignDirectory"]
         root && (normalized_path == root || normalized_path.start_with?("#{root}/"))
       end
-      matches.max_by { |campaign| campaign["campaignRoot"].to_s.length }
+      matches.max_by { |campaign| campaign["campaignDirectory"].to_s.length }
     end
 
     private
 
     def load_registry
-      path = @root.join("_scripts", "session_note_campaigns.json")
+      path = @root.join("_sessions", "campaign-registry.json")
       raise ArgumentError, "Campaign registry not found: #{path}" unless path.file?
-      payload = JSON.parse(TaelgarNoteLint.read_text(path))
-      entries = payload["campaigns"]
+      entries = JSON.parse(TaelgarNoteLint.read_text(path))
       unless entries.is_a?(Hash) && !entries.empty?
-        raise ArgumentError, "Campaign registry must contain a nonempty campaigns object"
+        raise ArgumentError, "#{path}: expected a nonempty mapping of IDs to index notes"
       end
 
-      codes = {}
-      entries.each do |slug, raw|
-        unless raw.is_a?(Hash)
-          raise ArgumentError, "Campaign #{slug} must be a JSON object"
+      owners = {}
+      entries.each do |id, target|
+        unless id.match?(/\A[a-z][a-z0-9]*\z/) && target.is_a?(String) &&
+               target.end_with?(".md") && Pathname.new(target).relative?
+          raise ArgumentError, "#{path}: invalid campaign entry #{id}: #{target.inspect}"
         end
-        name = raw["name"].to_s.strip
-        code = raw["code"].to_s.strip
-        raise ArgumentError, "Campaign #{slug} is missing name" if name.empty?
-        unless code.match?(/\A[a-z][a-z0-9]*\z/)
-          raise ArgumentError, "Campaign #{slug} code must be lowercase alphanumeric: #{code.inspect}"
+        note_path = @root.join(target)
+        unless note_path.file? && note_path.realpath.to_s.start_with?(@root.realpath.to_s + "/")
+          raise ArgumentError, "#{id}: missing or external index note #{target}"
         end
-        if codes.key?(code)
-          raise ArgumentError, "Campaign code #{code} is duplicated by #{codes[code]} and #{slug}"
+        raise ArgumentError, "#{id}: duplicate index note #{target}" if owners[note_path.realpath]
+        owners[note_path.realpath] = id
+        note = ParsedNote.new(target, TaelgarNoteLint.read_text(note_path))
+        name = note.data["name"]
+        unless !note.yaml_error && name.is_a?(String) && !name.strip.empty?
+          raise ArgumentError, "#{id}: invalid index frontmatter or missing name in #{target}"
         end
-        codes[code] = slug
-
-        campaign = raw.merge("slug" => slug, "name" => name, "code" => code)
+        campaign = note.data.merge("code" => id)
         @campaigns << campaign
-        ([slug, name, code] + Array(campaign["aliases"])).each do |value|
+        [id, name].each do |value|
           key = TaelgarNoteLint.normalize(value)
-          next if key.empty?
-          if @lookup.key?(key) && @lookup[key]["code"] != code
-            raise ArgumentError, "Campaign alias #{value.inspect} resolves to more than one campaign"
-          end
+          raise ArgumentError, "#{id}: ambiguous campaign value #{value}" if @lookup.key?(key) && @lookup[key] != campaign
           @lookup[key] = campaign
         end
       end
@@ -1046,9 +1043,9 @@ module TaelgarNoteLint
         else
           campaign_code = campaign_entry["code"]
         end
-        if campaign_entry && campaign_value.to_s != campaign_entry["name"]
-          add(findings, "campaign.noncanonical_name", "suggestion", "recommended",
-              "campaign frontmatter uses the canonical long name: #{campaign_entry['name']}.",
+        if campaign_entry && campaign_value.to_s != campaign_code
+          add(findings, "campaign.noncanonical_code", "suggestion", "recommended",
+              "Use campaign ID #{campaign_code} in frontmatter.",
               line: note.field_line("campaign"), provisional: true)
         end
         unless campaign_applicable
@@ -1073,6 +1070,10 @@ module TaelgarNoteLint
             resolved = @registry.resolve(value)
             if resolved
               campaign_info_codes << resolved
+              if value.to_s != resolved
+                add(findings, "campaign.noncanonical_code", "suggestion", "recommended",
+                    "Use campaign ID #{resolved} in campaignInfo.", line: note.field_line("campaignInfo"), provisional: true)
+              end
             else
               add(findings, "campaign.info_unknown_code", "error", "required",
                   "campaignInfo contains an unknown campaign value: #{value}.",
@@ -1094,12 +1095,12 @@ module TaelgarNoteLint
       if campaign_applicable && campaign_value.to_s.strip.empty? && profile_for(note) == "session-note"
         add(findings, "campaign.session_missing", "error", "required",
             "Session notes require campaign identity.", line: 1,
-            details: path_campaign ? { "campaign" => path_campaign["name"] } : nil)
+            details: path_campaign ? { "campaign" => path_campaign["code"] } : nil)
       elsif campaign_applicable && path_campaign && campaign_value.to_s.strip.empty?
         add(findings, "campaign.document_missing", "warning", "conditional",
             "This campaign document should identify campaign #{path_campaign['name']}.",
             line: 1, provisional: true,
-            details: { "campaign" => path_campaign["name"] })
+            details: { "campaign" => path_campaign["code"] })
       elsif campaign_applicable && path_campaign && campaign_code && campaign_code != path_campaign["code"]
         add(findings, "campaign.directory_mismatch", "error", "conditional",
             "The campaign field resolves to #{campaign_code}, but the directory belongs to #{path_campaign['code']}.",

@@ -2,7 +2,6 @@
 headerVersion: 2023.11.25
 tags: [session-note]
 websiteSessionView: zoomable
-campaign: Cleenseau
 arc: {session.arc}
 sessionNumber: {session.session_number}
 realWorldDate: {session.real_date}

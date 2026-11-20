@@ -13,7 +13,7 @@
     {
       "id": "julius-of-voltara",
       "path": "People/Chardonians/Julius of Voltara.md",
-      "note": "---\nheaderVersion: 2023.11.25\ntags: [person, status/gameupdate/gl]\nname: Julius of Voltara\nancestry: Chardonian\nspecies: human\nwhereabouts:\n- {type: home, location: Voltara}\naffiliations:\n- {org: Silver Tempests, title: Steward}\ncampaignInfo:\n- {campaign: GL, type: met}\nknownTo: []\ndm_owner: none\ndm_notes: none\n---\n# Julius of Voltara\n\nJulius serves as steward at Tempest Towers.\n",
+      "note": "---\nheaderVersion: 2023.11.25\ntags: [person, status/gameupdate/gl]\nname: Julius of Voltara\nancestry: Chardonian\nspecies: human\nwhereabouts:\n- {type: home, location: Voltara}\naffiliations:\n- {org: Silver Tempests, title: Steward}\ncampaignInfo:\n- {campaign: grli, type: met}\nknownTo: []\ndm_owner: none\ndm_notes: none\n---\n# Julius of Voltara\n\nJulius serves as steward at Tempest Towers.\n",
       "expectedRuleIds": [
         "campaign.missing_known_to"
       ]

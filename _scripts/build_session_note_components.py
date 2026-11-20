@@ -15,10 +15,10 @@ from typing import Any, Dict, Iterable, List, Optional, Sequence, Tuple
 
 import yaml
 import audio_tools
+from campaign_registry import load_campaigns
 
 
 VAULT_ROOT = Path(__file__).resolve().parents[1]
-CAMPAIGN_MAP_PATH = Path(__file__).with_name("session_note_campaigns.json")
 OBSIDIAN_METADATA_PATH = VAULT_ROOT / ".obsidian" / "metadata.json"
 SESSION_NOTE_TAG = "session-note"
 SESSION_TEMPLATE_FIELD = "session-template"
@@ -189,7 +189,7 @@ def parse_args(campaigns: Dict[str, Dict[str, Any]]) -> argparse.Namespace:
         epilog=format_campaign_help(campaigns),
         formatter_class=argparse.RawDescriptionHelpFormatter,
     )
-    parser.add_argument("-c", "--campaign", required=True, help="Campaign code or alias.")
+    parser.add_argument("-c", "--campaign", required=True, choices=sorted(campaigns), help="Campaign ID.")
     parser.add_argument("-n", "--session", required=True, type=parse_session_identifier, help="Session number (for example, 13 or 13.1).")
     mode_group = parser.add_mutually_exclusive_group()
     mode_group.add_argument("--overwrite", action="store_true", help="Overwrite existing generated component files.")
@@ -198,13 +198,14 @@ def parse_args(campaigns: Dict[str, Dict[str, Any]]) -> argparse.Namespace:
 
 
 def main() -> int:
-    campaigns = load_campaigns()
+    campaigns = load_campaigns(VAULT_ROOT)
     display_metadata = load_display_metadata()
     args = parse_args(campaigns)
-    canonical_slug, config = resolve_campaign(args.campaign, campaigns)
-    print(f"Building session components for {canonical_slug} session {args.session}.")
+    campaign_id = args.campaign
+    config = campaigns[campaign_id]
+    print(f"Building session components for {campaign_id} session {args.session}.")
 
-    session_manifest = find_session_manifest(canonical_slug, config, args.session)
+    session_manifest = find_session_manifest(campaign_id, config, args.session)
     session_recap = derive_session_recap_path(session_manifest)
     print(f"Using session manifest: {session_manifest}")
     print(f"Using reviewed recap: {session_recap}")
@@ -218,8 +219,12 @@ def main() -> int:
         return 1
     print("Parsed reviewed recap.")
 
-    generated_root = (VAULT_ROOT / str(config["campaignRoot"]) / "_generated" / "session-notes").resolve()
-    component_dir = generated_root / build_component_dir_name(session_payload, fallback=session_manifest.stem)
+    note_root = VAULT_ROOT / str(config["campaignDirectory"])
+    note_filename = render_note_filename(str(config["notePattern"]), args.session)
+    note_path = note_root / note_filename
+    session_key = resolve_session_key(note_path, session_payload, fallback=session_manifest.stem)
+    generated_root = (VAULT_ROOT / str(config["campaignDirectory"]) / "_generated" / "session-notes").resolve()
+    component_dir = generated_root / session_key
     component_dir.mkdir(parents=True, exist_ok=True)
     component_paths = [component_dir / filename for filename, _title, _slot_key in COMPONENT_SPECS]
     try:
@@ -229,7 +234,6 @@ def main() -> int:
         return 1
 
     note_index = VaultNoteIndex(VAULT_ROOT, generated_root)
-    session_key = build_session_key(session_payload, fallback=session_manifest.stem)
     audio_output_root = (VAULT_ROOT / "assets" / "session-audio" / session_key).resolve()
     print(f"Building slots for session key: {session_key}")
     status_messages: List[str] = []
@@ -238,7 +242,7 @@ def main() -> int:
             recap=recap,
             note_index=note_index,
             session_payload=session_payload,
-            campaign_slug=canonical_slug,
+            campaign_slug=campaign_id,
             display_metadata=display_metadata,
             session_key=session_key,
             session_dir=session_manifest.parent,
@@ -268,22 +272,11 @@ def main() -> int:
         print(f"ERROR: {exc}")
         return 1
 
-    note_root = VAULT_ROOT / str(config["campaignRoot"])
-    note_filename = render_note_filename(str(config["notePattern"]), args.session)
-    note_path = note_root / note_filename
     template_name = str(config.get("defaultTemplate") or "composable-session-note.md").strip()
     print(f"Ensuring base session note: {note_path}")
-    status = ensure_base_note(note_path=note_path, session_key=session_key, template_name=template_name)
+    status = ensure_base_note(note_path=note_path, campaign_id=campaign_id, session_key=session_key, template_name=template_name)
     print(f"{status} {note_path}")
     return 0
-
-
-def load_campaigns() -> Dict[str, Dict[str, Any]]:
-    payload = json.loads(CAMPAIGN_MAP_PATH.read_text(encoding="utf-8"))
-    campaigns = payload.get("campaigns")
-    if not isinstance(campaigns, dict) or not campaigns:
-        raise SystemExit(f"Campaign map is missing a non-empty 'campaigns' object: {CAMPAIGN_MAP_PATH}")
-    return campaigns
 
 
 def load_display_metadata() -> Dict[str, Any]:
@@ -293,43 +286,11 @@ def load_display_metadata() -> Dict[str, Any]:
     return payload
 
 
-def build_campaign_lookup(campaigns: Dict[str, Dict[str, Any]]) -> Dict[str, str]:
-    lookup: Dict[str, str] = {}
-    for canonical_slug, config in campaigns.items():
-        keys = [
-            canonical_slug,
-            config.get("name"),
-            config.get("code"),
-            *(config.get("aliases") or []),
-        ]
-        for key in keys:
-            if key is None:
-                continue
-            normalized = slugify_text(key)
-            if normalized:
-                lookup[normalized] = canonical_slug
-    return lookup
-
-
 def format_campaign_help(campaigns: Dict[str, Dict[str, Any]]) -> str:
     lines = ["Available campaigns:"]
-    for canonical_slug in sorted(campaigns):
-        config = campaigns[canonical_slug]
-        name = config.get("name") or canonical_slug
-        code = config.get("code") or canonical_slug
-        aliases = config.get("aliases") or []
-        alias_text = f" (aliases: {', '.join(aliases)})" if aliases else ""
-        lines.append(f"  - {name} [{code}] ({canonical_slug}){alias_text}")
+    for campaign_id, fields in sorted(campaigns.items()):
+        lines.append(f"  {campaign_id}: {fields['name']}")
     return "\n".join(lines)
-
-
-def resolve_campaign(selection: str, campaigns: Dict[str, Dict[str, Any]]) -> Tuple[str, Dict[str, Any]]:
-    lookup = build_campaign_lookup(campaigns)
-    canonical = lookup.get(slugify_text(selection))
-    if canonical is None:
-        available = ", ".join(sorted(campaigns))
-        raise SystemExit(f"Unknown campaign '{selection}'. Available campaigns: {available}")
-    return canonical, campaigns[canonical]
 
 
 def parse_session_identifier(value: str) -> str:
@@ -338,10 +299,15 @@ def parse_session_identifier(value: str) -> str:
     return str(value)
 
 
-def find_session_manifest(canonical_slug: str, config: Dict[str, Any], session_number: str) -> Path:
-    session_root = VAULT_ROOT / "_sessions" / str(config["sessionRoot"])
+def find_session_manifest(campaign_id: str, config: Dict[str, Any], session_number: str) -> Path:
+    if not config.get("sessionBundleDirectory"):
+        raise SystemExit(f"Campaign '{campaign_id}' has no session bundle directory configured.")
+    for field in ("campaignDirectory", "notePattern"):
+        if not config.get(field):
+            raise SystemExit(f"Campaign '{campaign_id}' is missing {field} for building session notes.")
+    session_root = VAULT_ROOT / config["sessionBundleDirectory"]
     if not session_root.exists():
-        raise SystemExit(f"Session root does not exist for campaign '{canonical_slug}': {session_root}")
+        raise SystemExit(f"Session root does not exist for campaign '{campaign_id}': {session_root}")
 
     matches: List[Path] = []
     for manifest_path in sorted(session_root.rglob("*-session.yaml")):
@@ -354,11 +320,11 @@ def find_session_manifest(canonical_slug: str, config: Dict[str, Any], session_n
             matches.append(manifest_path)
 
     if not matches:
-        raise SystemExit(f"No session manifest found for campaign '{canonical_slug}' session {session_number}.")
+        raise SystemExit(f"No session manifest found for campaign '{campaign_id}' session {session_number}.")
     if len(matches) > 1:
         formatted = "\n".join(f"  - {path}" for path in matches)
         raise SystemExit(
-            f"Multiple session manifests found for campaign '{canonical_slug}' session {session_number}:\n{formatted}"
+            f"Multiple session manifests found for campaign '{campaign_id}' session {session_number}:\n{formatted}"
         )
     return matches[0]
 
@@ -379,6 +345,17 @@ def build_session_key(session_payload: Dict[str, Any], *, fallback: str) -> str:
     if campaign and session_number:
         return f"{slugify_text(campaign)}-{slugify_text(scope)}-{slugify_text(session_number)}"
     return slugify_text(fallback)
+
+
+def resolve_session_key(note_path: Path, session_payload: Dict[str, Any], *, fallback: str) -> str:
+    """Keep an existing note's component and audio directories on rebuild."""
+    if note_path.is_file():
+        key = read_markdown_frontmatter(note_path).get("sessionKey")
+        if key is not None:
+            if not isinstance(key, str) or not re.fullmatch(r"[a-zA-Z0-9][a-zA-Z0-9._-]*", key):
+                raise SystemExit(f"Invalid sessionKey in {note_path}: {key!r}")
+            return key
+    return build_session_key(session_payload, fallback=fallback)
 
 
 def render_note_filename(pattern: str, session_number: str) -> str:
@@ -412,7 +389,7 @@ def normalize_tags(value: Any) -> List[str]:
     return tags
 
 
-def ensure_base_note(*, note_path: Path, session_key: str, template_name: str) -> str:
+def ensure_base_note(*, note_path: Path, campaign_id: str, session_key: str, template_name: str) -> str:
     if note_path.exists():
         frontmatter, body = split_frontmatter(note_path.read_text(encoding="utf-8"))
         frontmatter = dict(frontmatter)
@@ -436,6 +413,7 @@ def ensure_base_note(*, note_path: Path, session_key: str, template_name: str) -
         body_text = ""
         status = "Created"
 
+    frontmatter["campaign"] = campaign_id
     frontmatter_text = dump_frontmatter(frontmatter)
     if body_text:
         text = f"---\n{frontmatter_text}\n---\n{body_text.rstrip()}\n"
@@ -1041,15 +1019,6 @@ def wikilink_display_name(value: str) -> str:
     if not match:
         return text
     return (match.group(2) or match.group(1) or "").strip()
-
-
-def build_component_dir_name(session_payload: Dict[str, Any], *, fallback: str) -> str:
-    campaign = normalize_optional_string(session_payload.get("campaign"))
-    session_number = normalize_optional_string(session_payload.get("sessionNumber"))
-    scope = normalize_optional_string(session_payload.get("scope")) or "session"
-    if campaign and session_number:
-        return f"{slugify_text(campaign)}-{slugify_text(scope)}-{slugify_text(session_number)}"
-    return slugify_text(fallback)
 
 
 def build_slots(

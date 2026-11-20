@@ -684,7 +684,7 @@ class OutputHandler {
             let partyLabel = campaignCode
             try {
                 let cfg = NameManager.getCampaignConfig(campaignCode)
-                if (cfg?.partyPage) partyLabel = `[[${cfg.partyPage}]]`
+                if (cfg?.partyPage) partyLabel = `[[${cfg.partyPage}|${cfg.partyPage.split("/").pop()}]]`
             } catch (e) {
                 // ignore
             }

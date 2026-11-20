@@ -457,7 +457,7 @@ class ValidateTaelgarNoteTest < Minitest::Test
     validator = TaelgarNoteLint::Validator.new(root: root, check_links: false)
     report = validator.validate_text(
       "Campaigns/Great Library Campaign/Typo.md",
-      "---\ntags: [meta]\ncampaign: GL\n---\n%%^Campagin:GL%%\nHidden text\n%%^End%%\n"
+      "---\ntags: [meta]\ncampaign: Great Library Campaign\n---\n%%^Campagin:GL%%\nHidden text\n%%^End%%\n"
     )
 
     assert_includes rule_ids(report), "syntax.unknown_content_marker"
@@ -513,7 +513,7 @@ class ValidateTaelgarNoteTest < Minitest::Test
 
     misplaced = validator.validate_text(
       "Campaigns/Great Library Campaign/Treasure/Hammer.md",
-      "---\ntags: [object]\ntypeOf: weapon\ncampaign: Great Library\n---\n# Hammer\n"
+      "---\ntags: [object]\ntypeOf: weapon\ncampaign: grli\n---\n# Hammer\n"
     )
     assert_includes rule_ids(misplaced), "campaign.unexpected_entity_field"
     refute_includes rule_ids(misplaced), "campaign.audience_unclassified"
@@ -553,7 +553,7 @@ class ValidateTaelgarNoteTest < Minitest::Test
     )
     source = validator.validate_text(
       "Campaigns/Great Library Campaign/Handouts/Letter.md",
-      "---\ntags: [source]\ncampaign: Great Library\n---\n# Letter\n"
+      "---\ntags: [source]\ncampaign: grli\n---\n# Letter\n"
     )
     placeholder = validator.validate_text(
       "People/Thomas Hawke.md",
@@ -1272,7 +1272,7 @@ class ValidateTaelgarNoteTest < Minitest::Test
 
     alias_code = validator.validate_text(
       "People/Campaign Alias.md",
-      "---\ntags: [person]\nspecies: human\naudience: [all]\n---\n# Campaign Alias\n\n%%^Campaign:gl%%\nCampaign material.\n%%^End%%\n"
+      "---\ntags: [person]\nspecies: human\naudience: [all]\n---\n# Campaign Alias\n\n%%^Campaign:GRLI%%\nCampaign material.\n%%^End%%\n"
     )
     assert_includes rule_ids(alias_code), "syntax.noncanonical_campaign_block"
     refute_includes rule_ids(alias_code), "syntax.unknown_campaign_block"
@@ -1289,7 +1289,7 @@ class ValidateTaelgarNoteTest < Minitest::Test
     write_note(
       root,
       session_path,
-      "---\ntags: [session-note]\ncampaign: Great Library\n---\n# Session 1\n\n[[Julius]] greets the party.\n"
+      "---\ntags: [session-note]\ncampaign: grli\n---\n# Session 1\n\n[[Julius]] greets the party.\n"
     )
     git(root, "init", "-q")
     git(root, "add", ".")
@@ -1345,44 +1345,41 @@ class ValidateTaelgarNoteTest < Minitest::Test
     registry = TaelgarNoteLint::CampaignRegistry.new(root)
 
     assert_equal 1, registry.campaigns.length
-    %w[grli GL great-library].each { |value| assert_equal "grli", registry.resolve(value) }
+    assert_equal "grli", registry.resolve("grli")
     assert_equal "grli", registry.resolve("Great Library Campaign")
-    assert_equal "Great Library", registry.canonical_name("GL")
-    assert_nil registry.resolve("Missing Campaign")
+    assert_equal "Great Library Campaign", registry.canonical_name("grli")
+    assert_nil registry.resolve("GL")
 
-    # Replacing the registry must change lookup behavior without any baked-in
-    # expectations about the working vault's campaigns.
-    root.join("_scripts/session_note_campaigns.json").write(JSON.generate(
-      "campaigns" => {"test-voyage" => {"name" => "Test Voyage", "code" => "test", "aliases" => ["Voyagers"]}}
-    ))
+    root.join("_sessions/campaign-registry.json").write(JSON.generate("test" => "Campaigns/_Index/Test.md"))
+    root.join("Campaigns/_Index/Test.md").write("---\nname: Test Voyage\n---\n")
     rewritten = TaelgarNoteLint::CampaignRegistry.new(root)
-    assert_equal "test", rewritten.resolve("Voyagers")
+    assert_equal "test", rewritten.resolve("test")
     assert_equal "Test Voyage", rewritten.canonical_name("TEST")
     assert_nil rewritten.resolve("GL")
 
-    root.join("_scripts/session_note_campaigns.json").delete
+    root.join("_sessions/campaign-registry.json").delete
     error = assert_raises(ArgumentError) { TaelgarNoteLint::CampaignRegistry.new(root) }
     assert_includes error.message, "Campaign registry not found"
   end
 
-  def test_campaign_frontmatter_uses_long_name_and_scoped_metadata_uses_lowercase_code
+  def test_campaign_fields_use_the_campaign_id
     root = make_vault
     validator = TaelgarNoteLint::Validator.new(root: root, check_links: false)
     canonical = validator.validate_text(
       "Campaigns/Great Library Campaign/Session Notes/Session 1.md",
-      "---\ntags: [session-note]\ncampaign: Great Library\n---\n# Session 1\n"
+      "---\ntags: [session-note]\ncampaign: grli\n---\n# Session 1\n"
     )
     aliases = validator.validate_text(
       "Campaigns/Great Library Campaign/Session Notes/Session 1.md",
-      "---\ntags: [session-note]\ncampaign: GL\n---\n# Session 1\n"
+      "---\ntags: [session-note]\ncampaign: Great Library Campaign\n---\n# Session 1\n"
     )
     known = validator.validate_text(
       "People/Julius.md",
-      "---\ntags: [person]\nspecies: human\nknownTo: [GL]\n---\n# Julius\n"
+      "---\ntags: [person]\nspecies: human\nknownTo: [GRLI]\n---\n# Julius\n"
     )
 
-    refute_includes rule_ids(canonical), "campaign.noncanonical_name"
-    assert_includes rule_ids(aliases), "campaign.noncanonical_name"
+    refute_includes rule_ids(canonical), "campaign.noncanonical_code"
+    assert_includes rule_ids(aliases), "campaign.noncanonical_code"
     assert_includes rule_ids(known), "campaign.noncanonical_code"
   end
 
@@ -1712,7 +1709,7 @@ class ValidateTaelgarNoteTest < Minitest::Test
     validator = TaelgarNoteLint::Validator.new(root: root, check_links: false)
     session = validator.validate_text(
       "Campaigns/Great Library Campaign/Session Notes/Session 1.md",
-      "---\ntags: [session-note]\ncampaign: Great Library\n---\n# Session 1\n"
+      "---\ntags: [session-note]\ncampaign: grli\n---\n# Session 1\n"
     )
     source = validator.validate_text(
       "Primary Sources/Letter.md",
@@ -1720,7 +1717,7 @@ class ValidateTaelgarNoteTest < Minitest::Test
     )
     story = validator.validate_text(
       "Campaigns/Great Library Campaign/Stories/Story.md",
-      "---\ntags: [story]\ncampaign: Great Library\nPOV: 1750\n---\n# Story\n\nAn authorial account of a scene.\n"
+      "---\ntags: [story]\ncampaign: grli\nPOV: 1750\n---\n# Story\n\nAn authorial account of a scene.\n"
     )
 
     assert_equal "session-source", session.dig("note", "authority")
@@ -1737,24 +1734,12 @@ class ValidateTaelgarNoteTest < Minitest::Test
     @temporary_roots << root
     FileUtils.mkdir_p(File.join(root, "_scripts"))
     LintFixtureVault.write_catalog(root)
-    File.write(
-      File.join(root, "_scripts", "session_note_campaigns.json"),
-      JSON.pretty_generate(
-        "schemaVersion" => 2,
-        "campaigns" => {
-          "great-library" => {
-            "name" => "Great Library",
-            "code" => "grli",
-            "aliases" => ["Great Library Campaign", "GL", "gl"],
-            "partyPage" => "Silver Tempests",
-            "sessionRoot" => "great-library",
-            "campaignRoot" => "Campaigns/Great Library Campaign",
-            "notePattern" => "Session Notes/Great Library Session Notes - Arc {session}.md",
-            "defaultTemplate" => "composable-session-note.md"
-          }
-        }
-      )
-    )
+    FileUtils.mkdir_p(File.join(root, "_sessions"))
+    FileUtils.mkdir_p(File.join(root, "Campaigns", "_Index"))
+    File.write(File.join(root, "_sessions", "campaign-registry.json"),
+               JSON.generate("grli" => "Campaigns/_Index/Library.md"))
+    File.write(File.join(root, "Campaigns/_Index/Library.md"),
+               "---\nname: Great Library Campaign\ncampaignDirectory: Campaigns/Great Library Campaign\n---\n")
     FileUtils.mkdir_p(File.join(root, ".obsidian"))
     File.write(
       File.join(root, ".obsidian", "metadata.json"),
