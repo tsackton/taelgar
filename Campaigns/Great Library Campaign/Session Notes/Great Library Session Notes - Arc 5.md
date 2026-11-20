@@ -1,82 +1,150 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-09-13T13:45:21-04:00"
+lintedAt: "2026-11-12T19:02:10-05:00"
 lintVersion: "3.5"
-tags: [session-note]
+tags: [session-note, status/check/ai]
 campaign: grli
-DR: 1748-08-26
-DR_end: 1752-06-29
-name: Chronicles of the Quest for Answers to Extraplanar Mysteries
-POV: 1752
+DR: 1747-12-24
+DR_end: 1748-08-25
+name: Chronicles of the Silver Tempests Ascendant
+POV: 1748
 ---
-# Chronicles of the Quest for Answers to Extraplanar Mysteries  
+# Chronicles of the Silver Tempests Ascendant
 
-After months of waiting, clues to the [[Lizardfolk Village Disappearances|mysterious disappearance]] of [[Urkabi]], [[Samso]]'s village, arrive with a new traveler, [[Blue]]. The [[Silver Tempests]] set off to the south to investigate, traveling to the city of [[Castrella]], and then into the mountains on a hunt for [[Yeshara]], the wolf-eyed queen of a shadowy realm called [[Cairn Dor]]. Fighting through shadowy enemies, the [[Silver Tempests]] find a portal to [[Cairn Dor]] called the [[Cleaver-Stone]], as well as a series of stone plinths that form a soul compass, facilitating the theft of mortals from the [[Material Plane]] to serve as dreamers for the [[Shemra Azem]], the sleepless, every-vigilant army of [[Cairn Dor]]. With the aid of clues found in the old Drankorian fortress guarding this place, the [[Silver Tempests]] shut down the portal and the soul compass, but retreat to [[Castrella]] to regroup before venturing into [[Cairn Dor]] itself. 
+Fresh off their victory over the hag [[Morgana Stoneclaw]], the party, now calling themselves the [[Silver Tempests]], finds themselves facing some of the more terrible monsters of the land. While returning to [[Voltara]], they learn a black [[Dragons|dragon]] is disrupting the [[Northern Provinces]], causing conflict between [[Fort Zarnato]] and a local [[Bullywugs|bullywug]] population. Proving their growing power, the [[Silver Tempests]] kill the dragon, [[Nymthrax]], and loot the riches of its lair. Returning to [[Voltara]], they leave to explore the ruins far beneath [[Goldpeak Mountain]], (re)uniting with some Chardonian explorers and finding the lair of a beholder, [[Vilaxes]]. Defeating the beholder, the [[Silver Tempests]] return to [[Voltara]], extremely wealthy and in need of a long break, during which [[Brelith]] opens a restaurant and retires. Their break is interrupted, however, by the arrival of [[Mabist]] with the news that [[Dinia]] has been captured by the [[Havoc Host]]. The [[Silver Tempests]] ride forth in anger, freeing [[Dinia]] from the control of an aboleth, [[Ithu’rax]], near the village of [[Suwi]].
 
-## Adventure 20: The Mysterious Sigil
+## Adventure 17: What do you mean, we have to kill a dragon?!?
 
-### Session 62
+### Session 51, part 2
 
-A few weeks after returning from rescuing [[Dinia]] from the [[Havoc Host]], [[Samso]] is still waiting for a response to his inquiry regarding the [[Things/Magic Items/Cairn Dor Sigil|mysterious sigil]] associated with [[Urkabi|his village's]] [[Lizardfolk Village Disappearances|disappearance]] and the [[Umbral Covenant]], sent to Archivist [[Lyra]] in [[Chardon]]. The city guards bring [[Blue]], human with blue skin and strange eyes, who claims to be carrying a message for [[Samso]], to the [[Tempest Towers]]. Blue turns over [[Letter from Chardon for Samso on the Umbral Covenant|the letter]], which she has opened and read, and mentions she is also interested in tracking down the [[Umbral Covenant]]. After reading and discussing, the party uses [[Samso]]'s Transport via Plants to go back to his hometown -- still abandoned -- and make their way to the city of [[Castrella]], where [[Lyra]] has suggested that folk tales and legends might provide more clues than official scholarly works. 
+After a few weeks, the party leaves to return to [[Voltara]]. On the way, [[Adrik]] turns to a werebear and must be knocked unconscious. [[Brelith]] cures him the next morning.
 
-From [[Urkabi]], the [[Silver Tempests]] travel down the [[Zurrua]] river, on [[Samso]]'s boat summoned by the [[Staff of the Swamplands]], finding a place to camp for the night as best they can. The next morning, with Samso's spells restored, they turn to wind and travel to [[Castrella]], where the party splits up. [[Adrik]], emerging on the docks, wanders through taverns spreading money around. At [[The Sober Seal]], he hears about [[Isabetta]], a popular singer at the [[The Drunken Dolphin]], who might have interesting folk legends to tell. [[Blue]] hids in an alley, and accidentally mugs a drunk sailor. [[Mabist]], transformed into Marigold, an old woman, finds two kids, [[Camile]] and [[Arturo]], who have fled trouble upriver, and helps find them jobs at [[The Whale's Spout]], where the owner, [[Old Leo]], has made a habit of taking in orphans. [[Samso]] finds a library, but ends up annoying [[Niccolo]], the librarian, and stealing books in wild shape. 
+After defeating were-[[Adrik]], the party arrives at a [[Fort Zarnato|Chardonian fort]] on the border of the [[Chardonian Empire]]. [[Samso]] convinces [[Soria Caronius]], the commander of the fort, that the party are amazing heroes who can turn into dragons and kill deadly enemies with a glance, so she insists they try to find out who is stealing all their cattle. Their first scouting attempt fails miserably.
 
-Regrouping at [[The Laughing Gull]] for the evening, the party discusses what they learned. Adrik picked up numerous legends of [[Yeshara]], also called the wolf queen or the wolf-eyed queen, who seemed to have lived in this area many, many years ago along with her people. The stories say that [[Yeshara]] was afraid of the dark, and used some kind of magic to create an eternally vigilant, sleepless army, called the [[Shemra Azem]]. According to folk tales, [[Yeshara]] and the [[Shemra Azem]] were behind many of the wars in this region, including the [[War of the Dark Rift]], the [[War of the Severed Dreams]], and [[Apporian Shadow War]] dating all the way back to the [[History of the Drankorian Empire|Drankorian Era]]. These folk tales speak of a Drankorian fortress that imprisoned [[Yeshara]]. The official histories, however, disagree, considering the [[Umbral Covenant]], the antagonists in the [[War of the Dark Rift]], to be different from the enemies in previous wars. From [[Mabist]], the party learns that a sleeping sickness is killing people, still, in villages in the [[Kedron]] valley, and some [[Lizardfolk Village Disappearances|villages mysteriously vanish]]. 
+### Session 52
 
-The next morning, after talking some more with [[Old Leo]], the party decides to travel upriver and investigate the rumored [[Lastgate Fort|Drankorian fort]]. With wind walk, the journey is quick, and the party camps in a ravine about five miles from the entrance to the fort to rest before the assault. 
+After regrouping, the party heads upriver and discovers a small [[Bullywugs|bullywug]] village, that appears to have been stealing the Chardonian cattle. The party attacks and nearly wipes out the entire [[Guluppa-Sog|village]] before realizing that perhaps they should have talked first. After some limited communication with drawings and diagrams – and the threat of a giant froghemoth potentially attacking them – they realize the [[Bullywugs]] were driven from their home by a [[Dragons|dragon]]. The bullywugs communicate that if the dragon is killed, all will be forgiven.
 
-The entrance to the fort is guarded by a extensive wall. The party attacks the defenders, with [[Samso]] as a giant elephant providing a platform for [[Adrik]] to leap onto the wall from. While the elephant is pinned down by minions, [[Adrik]] pushes enemies off the top of the wall, and [[Blue]] lands a crucial paralysis spell on a shadow knight guarding the gates, as well as a fireball to clear the knight's soldiers. [[Mabist]] strikes the knight with a critical hit smite, and [[Alton]], on a draconic spirit summoned by [[Samso]] rains arrows on the battlefield.
+### Session 53
 
-Although the hard fight, the party fights through the gates. [[Mabist]] searches the ruins of the fort beyond with their arcane eye. While most of the standing buildings are ruined, and the party does not do a careful search, there are ancient Drankorian scrolls in the administrative records building. Investigation reveals that many of these are instructions for locking the portal and closes the soul compass. 
+The party returns to the [[Fort Zarnato|Chardonian fort]] and leaves the problem of the nearly-exterminated bullywugs in the [[Soria Caronius|commander]]’s hands, and heads north to track the [[Dragons|dragon]]. Along the way, after about a week’s journey upriver, they meet some [[Deno'qai]], who are gathered at a council to discuss what to do about the very same dragon.
 
-Traveling deeper into the ravine from the Drankorian fort, the finds a sealed door, decorated with an incantation to [[Yeshara]] and the sleepless vigil, blocking passage. Although not locked, the party is reluctant to touch the door; [[Mabist]] sees a vision of [[Yeshara]]'s face, with no eyelids, who speaks in their mind saying "I see you, intruder. [[Cairn Dor]] will consume you." Still, the party must continue and so they pass through the door. All who pass, however, are cursed and unable to sleep. 
+After some discussion with the [[Deno'qai]] council, the party decides to travel with [[Izkir]], a priest of [[Bita]], a bear spirit, who will lead them to the lair. After almost 10 days, they come to the edge of the [[Blackwater Fens]], where the dragon lair is.
 
-On the other side, they see the remains of an ancient village, with wolf-headed stone plinths in two parallel lines leading to a longhouse. Two soldiers emerge from the longhouse, and speak of taking [[Mabist]] to [[Cairn Dor]] to join the dreamers. The party quickly attacks, and defeats the soldiers without trouble. Afterword, attempting to retreat for a short rest, several of the [[Silver Tempests]], including [[Mabist]] and [[Alton]], cannot pass back through the sealed door. When [[Adrik]] tries to drag [[Mabist]] through, the psychic toll shreds their mind, consuming their knowledge of the guidance cantrip. During the rest, [[Mabist]] sees a vision of a young girl emerging from the longhouse, and speaking to them as if they are someone named [[Ilanar]], talking about how [[Ilanar]] will not wake and it is scaring [[Yeshara]], her mom.
+### Session 54
 
-After a rest, the party continues down the increasingly dark ravine, passing murals depicting [[Yeshara]] leading her people through and under a trilith stone, as part of some rite. Continuing down this passage, the party reaches a large room, with a trilith stone in the middle, several stone plinths with obsidian and bronze mechanisms on them surrounding it, and a [[Things/Magic Items/Cairn Dor Sigil|greenish sigil]] glowing on the ceiling matching the symbol [[Samso]] found in his village years ago. The party engages in battle, as [[Shemra Azem|the soldiers]] guarding the [[Cleaver-Stone]] and the portal to [[Cairn Dor]] threaten to drag them through the portal to become dreamers and help the [[Yo'nari]]. The battle is challenging. [[Blue]] attempts to disintegrate and enemy, and fails; [[Mabist]] is clearly targeted by many of the enemies and eventually falls unconcious and is dragged through the portal. [[Samso]] hides as an earth elemental, taunting the enemies. In the end [[Adrik]] runs through the portal to rescue [[Mabist]], and [[Samso]]'s desperate, moonlight-enhanced attacks take down the commander, while [[Blue]], attempting to hide with invisibility, produces a wild magic surge of bright light and is knocked unconscious. 
+The party sets off into the [[Blackwater Fens]], with [[Adrik]] leading the way and [[Samso]] keeping an eye out for danger. They pass an [[Elven Treaty Stones|ancient stone marker]], about 60’ high, marking friendship between the elves and the humans, but it has fallen on its side. Continuing into the swamp, they make camp for the night.
 
-Still, at the end, the party emerges victorious by the skin of their teeth. With the enemies defeated, they use the instructions from the Drankorian administrative building to lock the portal and shut down the soul compass, presumably stopping, at least for now, further raids and disappearances. However, the [[Silver Tempests]] are in no shape to immediately run through the portal seeking [[Samso]]'s people. 
+In the middle of the night, the [[Nymthrax|dragon]], scouting its territory, finds them, and surprises the camp with a blast of its acid breath. While perched on a tree and taunting them, demanding they join its service or die, [[Adrik]] and [[Aelar]] manage to get on top of it, and are hasted by [[Izkir]]’s magic. As they beat on the dragon from above – and an attempted polymorph of [[Aelar]] into a T-rex is less successful than hoped – the dragon takes to the air, watching the spellcasters and attempting to disrupt their concentration. Still, [[Adrik]] and [[Aelar]] do considerable damage before [[Samso]]’s conjured air elemental turns against the party as he falls unconscious, and [[Nymthrax]] flees, wounded.
 
-Instead, they limp back to [[Castrella]], where they pay to have the sleepless curse removed by a priest of [[Mos Numena]], and regroup at [[The Laughing Gull]] before plotting their next move. 
+Rather than attempt to rest here, where the dragon is alerted to their presence, the party hikes overnight to the [[Elven Treaty Stones|stone monument]], and spends the day repairing it using the plan suggested by the [[Bahrazel|Bahrâzel]], at [[Brelith]]’s questioning with the Divination spell. With the monument restored, the party finally rests safely. 
 
-### Session 63
+The next day is spent scrying and scouting, trying to assess the situation before heading for the lair to attack and kill the dragon. 
 
-The party rests and recovers in [[Castrella]], restocking and gathering information. Mabist talks to [[Thorek Deepdweller]], an old dwarf hermit who tells of [[Enderra]] and the [[War of the Dark Rift]], and the rumors of a hidden portal to [[Cairn Dor]] among the dwarven tunnels; [[Adrik]] also searches for information but never leaves [[The Sober Seal]]. After a few weeks, the [[Silver Tempests]] gather at [[The Sober Seal]] to discuss their plans and next steps. 
+### Session 55
 
-Deciding for a direct attack, the next morning the party uses _Plane Shift_ to reach [[Cairn Dor]], arriving in a dense fog, apparently on a rocky hill top. After Mabist nearly falls off the cliff, the party explores as best they can, eventually finding a path, which they follow inward away from the edge. After passing through a trilith marked with wolf motifs, they magically emerge from the fog into clear skies, with several guards protecting the fort of [[Sarren Kir]]. 
+The party makes a plan and finally confronts [[Nymthrax]] in his lair. The battle is fiercely fought, and the party is nearly killed by the searing acid of his breath. However, in the dragon’s moment of triumph, with everyone but [[Brelith]] unconscious on the battlefield, [[Brelith]] summons lightning to strike down the dragon. 
 
-After some brief negotiation, they convince the guards to led them to the village of [[Eshlem]]. Near the cliff, they attack in the fog. The guards fall seemingly dead relatively quickly, but are brought back to life by the sigil-tattoos on their chest, seemingly unable to die while the dreamers sleep, unless the tattoo is destroyed. After discovering the weakness of the [[Shemra Azem]], the party returns, kills the last few minion guards, and enters the fort. 
+The party then loots [[Nymthrax's Hoard|his hoard]], finding a vast collection of art, gems, coin, and treasure from throughout history. 
 
-Inside, they find some human prisoners, waiting to become dreamers, and [[Yeshara]]. [[Yeshara]] questions them, speaking in archaic Common, and seems unconcerned by the threat, claiming she cannot be hurt while the dreamers sleep. During the conversation, when asked about the dreamers, she doesn't answer, but subtly glances at the barrow nearby, prompting [[Mabist]] and [[Blue]] to teleport there. Meanwhile, [[Adrik]] attacks the guards as they move to surround him. 
+### Session 56
 
-While [[Mabist]] and [[Blue]] explore the barrow, finding no dreamers, [[Adrik]] fights the guards. Though he kills several of [[Yeshara]]'s guards, he is brought down by her _Hypnotic Pattern_ spell. In the barrow, [[Mabist]] and [[Blue]] find the words "Let no dawn enter. Let no roof break. Let the sleepers lie still and keep the Queen awake." These are written in many, many languages around the edge of the barrow. But with no other clues, they teleport away, fleeing. Meanwhile, [[Samso]]'s summoned dragon manages to wake [[Adrik]], as [[Samso]] and [[Adrik]] flee into the fog. [[Yeshara]] does not give chase.
+The party spends a considerable amount of time organizing treasure and figuring out how to transport the entire hoard. With that accomplished, they head south, saying goodbye to [[Izkir]], and then meeting again with the [[Bullywugs]] to tell them their home is safe and return some treasure the dragon stole from them. 
 
-The party regroups on the road, and follows it to [[Eshlem]], arriving as dusk is falling. The village is preparing a bonfire and a party to keep everyone awake through the night; many villagers appear terrified of the idea of falling asleep. [[Blue]] finds an old veteran, [[Joram of Eshlem]], who speaks Goblin, though apparently from fighting in some ancient war from before even the [[Drankorian Empire]]. From Joram, the party learns about the [[Wolf Queen's Stillings]]: long barrows where sleepers are trapped, guarded by the [[Shemra Azem]] who keep the people of [[Cairn Dor]] safe from the contamination of sleep. After some convincing lies, he tells them the stillings are nestled around the bottom of the hill upon which the palace, [[Sarren Kir]], sits. 
-
-The party leaves the village as the sound of wolves echo from the countryside: [[Yeshara]]'s minions are after them. With [[Samso]]'s wild shape and summoned dragon, they take to the air and fly in search of barrows. Circling right around the base of the hilltop that holds [[Sarren Kir]], they find three unguarded barrows. Exploring, these appear to be old barrows full of dead dwarf dreamers from the [[War of the Dark Rift]]. Many of the dead dwarves, though, rise as undead and attack. During the battle, [[Adrik]] explores and discovers a portal leading back to the [[Material Plane]], emerging somewhere in [[Enderra]] and guarded by a dwarvish iron golem. After the undead are defeated quickly, thanks in large part to a pair of _Fireballs_ cast by [[Blue]], and with the wolves closing in, the party continues to search. 
-
-Soon after, they find the lizardfolk dreamers, guarded by [[Shemra Azem]]. A fight breaks out. The [[Silver Tempests]] quickly realize that the _Daylight_ spell, cast via their [[Dwarven Driftglobe]], wakes the dreamers. When the dreamers wake, any [[Shemra Azem]] connected to them falls dead. The fight then becomes a race to wake dreamers as fast as possible, while keeping the [[Shemra Azem]] occupied. 
-
-As the last dreamers wake and the last of the [[Shemra Azem]] falls, the wolves go silent, and all that is left is the wolf queen herself, [[Yeshara]]. The battle is fierce: the opening wave of terror from [[Yeshara]] kills [[Samso]]'s summoned dragon immediately. But [[Adrik]]'s axe and [[Mabist]]'s blade bite hard, and Adrik proves difficult to bring down even by the fiercest counterattacks, although [[Yeshara]] mostly shrugs off [[Blue]]'s spells and [[Samso]]'s attacks as an earth elemental. [[Yeshara]] locks [[Mabist]] in place with her lidless gaze, but [[Adrik]] is able to push her into his range, for a devastating smite attack. [[Blue]] retreats, and in the end is the only one who escapes [[Yeshara]]'s final barrow-summoning attack, allowing him to bring her down with a _Chromatic Orb_.
-
-As [[Yeshara]] falls, [[Blue]], [[Adrik]], and [[Mabist]] fall into sleep, along with the lizardfolk dreamers and the inhabitants of [[Cairn Dor]]. [[Samso]], transformed into an Earth Elemental, is unaffected by sleep, and realizes that months and years seem to be passing while his companions sleep. He wanders the realm for years, before eventually deciding to sleep with his companions.
-
-After some time, [[Blue]], [[Adrik]], [[Mabist]], [[Samso]], and the lizardfolk dreamers awake in [[Cairn Dor]]; the native inhabitants, including [[Yeshara]], still slumber, but the realm emerges from its stasis. The [[Silver Tempests]] escort the lizardfolk dreamers, and human would-be dreamers, away from [[Cairn Dor]] via the [[Enderra]] portal. 
-
-While escorting the surviving lizardfolk, including much of [[Samso]]'s family, to [[Urkabi]], they learn of the chaos in [[Voltara]], and the splitting of the [[Northern Provinces]] from the [[Chardonian Empire]]. [[Brelith]] has been keeping [[Samso]] informed via _Sending_, and is now in hiding with [[Dinia]]. An attempt to _Transport Via Plants_ to [[Tempest Towers]] fails, suggesting the tree that once adorned the courtyard has been felled. 
-
-The next morning, the party arrives in [[Urkabi]] with the lizardfolk rescued from [[Cairn Dor]]. [[Samso]] parts ways with his family and kin; [[Adrik]], [[Samso]], [[Mabist]], and [[Blue]] _Transport Via Plants_ to an orchard outside [[Voltara]] to face whatever is next, amidst reports that [[Airion's Floating Tower]] has returned to the [[Erbalta Plains]]. 
+A few weeks later, they arrive back in [[Voltara]], greeted by [[Julius of Voltara|Julius]], their steward.
 
 ### Events
 
-- (DR:: 1748-09-17): [[Blue]] arrives in Voltara with a [[Letter from Chardon for Samso on the Umbral Covenant|letter]] for [[Samso]] about the [[Umbral Covenant]]. The [[Silver Tempests]], with [[Blue]], transport via plants to [[Urkabi]], [[Samso]]'s village, and head downriver on Samso's magic raft. Camp along the [[Zurrua]]. 
-- (DR:: 1748-09-18): Samso turns the [[Silver Tempests]] to mist and the party wind walks to [[Castrella]], arriving around noon. The group splits up to investigate and gather information, regrouping at [[The Laughing Gull]] that evening to discuss. 
-- (DR:: 1748-09-19): The [[Silver Tempests]] speak to a group of orphans at [[The Whale's Spout]], then wind walk up the [[Kedron]] into the interior. Pass a [[Drankorian Empire|Drankorian]] mile stone pointing towards the [[Cairn Dor]] guard post. Reach a ravine with a fort, and camp for the evening.
-- (DR:: 1748-09-20): Enter the fort, fighting off shadow guardians. Explore Drankorian ruins beyond and find an archive with information about locking the portal to [[Cairn Dor]]. Continue deeper into the ravine, passing a door with the seal of [[Yeshara|the wolf-eyed queen]], which curses the party preventing sleep. Defeat two warriors of the [[Shemra Azem]] in a longhouse beyond. Find the standing stones of the soul compass (forming a light in the shape of the sigil that [[Samso]] has seen) and the [[Cleaver-Stone]], which appears to be a portal to somewhere, beyond. Fight [[Yeshara]]'s lieutenant and more [[Shemra Azem]] and nearly die. [[Mabist]] is knocked unconscious and dragged through the portal; [[Adrik]] runs through to rescue them, while [[Samso]], in earth elemental form, slays the lieutenant. Use the instructions from the Drankorian archive to lock the portal, seemingly stopping the ongoing incursion. Leave to regroup before entering [[Cairn Dor]] to try to find [[Samso]]'s village. 
-- (DR:: 1748-09-21) - (DR_end:: 1748-09-25): Limp back to [[Castrella]], still under the curse of eternal waking from passing the sealed door. 
-- (DR:: 1748-09-26) - (DR_end:: 1748-10-12): Take rooms at [[The Laughing Gull]], and recover in [[Castrella]]. Find a priest to remove the curse of eternal waking for a generous donation. Research; meet [[Thorek Deepdweller]].  
-- (DR:: 1748-10-13): Gather at [[The Sober Seal]] in the evening, to discuss plans. 
-- (DR:: 1748-10-14): Plane Shift to [[Cairn Dor]], arriving on a foggy hill near the palace. Find palace. Lure guards from the gates, kill them. Meet [[Yeshara]] and discover some human prisoners; kill minions but run away from an unwinnable fight against [[Yeshara]]. Follow road to [[Eshlem]], meet a few villagers. Talk to [[Joram of Eshlem]], an old war veteran who speaks Goblin, and learn of the [[Wolf Queen's Stillings|Stillings]] where sleep is kept contained. Return to [[Sarren Kir]], with wolves hunting them. Find old barrows with dead dwarf dreamers from the [[War of the Dark Rift]], and defeat undead; [[Adrik]] finds a portal to [[Enderra]]. Find lizardfolk dreamers. Fight [[Shemra Azem]] guards, bring _Daylight_ to barrows awakening sleepers and destroying [[Shemra Azem]]. Fight and defeat [[Yeshara]]. Fall into sleep as [[Yeshara]] falls. 
-- (DR:: 1748-10-15) - (DR_end:: 1752-06-27): [[Blue]], [[Adrik]], and [[Mabist]] sleep, along with the lizardfolk dreamers and all the inhabitants of [[Cairn Dor]], as [[Yeshara]]'s dreamless slumber puts the realm into stasis. [[Samso]], transformed to an Earth Elemental, is unaffected by sleep and wanders the realm for years, eventually deciding to sleep with his companions. 
-- (DR:: 1752-06-28): [[Blue]], [[Adrik]], and [[Mabist]], along with the lizardfolk dreamers, and [[Samso]], awake in [[Cairn Dor]]; the native inhabitants still slumber. Leave [[Cairn Dor]] via the [[Enderra]] portal. Learn of chaos in [[Voltara]] and the splitting of the [[Northern Provinces]] from the [[Chardonian Empire]]. Attempt to _Transport Via Plants_ to [[Tempest Towers]], but fail. 
-- (DR:: 1752-06-29): Arrive in [[Urkabi]] with lizardfolk rescued from [[Cairn Dor]]. [[Samso]] parts ways with his family and kin, who are eternally grateful. [[Adrik]], [[Samso]], [[Mabist]], and [[Blue]] _Transport Via Plants_ to an orchard outside [[Voltara]]. 
+- (DR:: 1748-01-06): Party leaves [[Zarkandur]] to return to [[Voltara]]. 
+- (DR:: 1748-01-07): [[Adrik]] turns to a polar werebear at camp and must be subdued. 
+- (DR:: 1748-01-08): [[Adrik]] cured of lycanthropy by [[Brelith]]. 
+- (DR:: 1748-01-17): [[Adrik]], [[Brelith]], [[Samso]], and [[Aelar]] arrive back in the [[Chardonian Empire]], stopped at the [[Fort Zarnato|border fort]]. Learn it is in dire straits, its winter food supplies being raided by something on the river. Attempt to scout unsuccessfully.
+- (DR:: 1748-01-18): Head north to find out what is stealing food. 
+- (DR:: 1748-01-19): Find and attack a [[Bullywugs|bullywug]] [[Guluppa-Sog|village]]. Kill many before making peace and learning the bullywugs were driven from their home by a [[Dragons|dragon]]. Agree to kill the dragon. 
+- (DR:: 1748-01-21): Return to [[Fort Zarnato]] with news. Head north to find the dragon. 
+- (DR:: 1748-01-29): Party encounters [[Deno'qai]] scouts at a portage on the river. Go to council, learn the Deno'qai want to kill the dragon too.
+- (DR:: 1748-02-01): Party leaves [[Deno'qai]] council with [[Izkir]], a guide and sorcerer blessed by the [[Tanshi|tanshi]], heading for the [[Blackwater Fens]], where the dragon lives.
+- (DR:: 1748-02-09): Party arrives at [[Blackwater Fens]], camps outside to plan. 
+- (DR:: 1748-02-10): Head into [[Blackwater Fens]]. Pass an [[Elven Treaty Stones|ruined stone monument]] marking a treaty between elves and humans. Camp. [[Nymthrax|Dragon]] attacks during the night. 
+- (DR:: 1748-02-11): Wounded and needing a place to rest, return to the [[Elven Treaty Stones|treaty stone]] and repair it during the day. Sleep. 
+- (DR:: 1748-02-12): Spend the day scrying and scouting, sleep at the [[Elven Treaty Stones|treaty stone]]. 
+- (DR:: 1748-02-13): Travel through [[Blackwater Fens]] to approach dragon lair. 
+- (DR:: 1748-02-15): Fight bugbear minions of [[Nymthrax]], and then fight and kill [[Nymthrax]] himself. 
+- (DR:: 1748-02-18): Depart [[Nymthrax]] lair, heading back to river. 
+- (DR:: 1748-02-19): Arrive at the [[Barzhen]], summon portable boat from [[Staff of the Swamplands]], begin to travel downriver
+- (DR:: 1748-02-22): Arrive at [[Guluppa-Sog]]; return treasure, tell stories with the Pipe of Remembrance
+- (DR:: 1748-02-24): Arrive [[Fort Zarnato]]. Spend the night
+- (DR:: 1748-02-25): Depart fort for [[Voltara]].
+- (DR:: 1748-03-07): Arrive back in [[Voltara]] 
+
+
+## Adventure 18: What’s at the Bottom of that Vast, Dark Chasm?
+### Session 57
+
+The party spends some time in [[Voltara]]. They sell treasure, decorate their manor, and purchase an extradimensional vault from an [[Eldeth Redhammer|eccentric dwarven artificer]]. They also receive letters: 
+- from [[Dinia]], saying that [[Airion's Floating Tower]] is gone; 
+- from [[Iara]], the lizardfolk, saying her people are heading south to [[Lake Valandros]]; 
+- from Archivist [[Lyra]], saying that the elemental scrolls were well-received, that should they find any more of Airion’s treasure they should come to [[Chardon]] to sell it, and also asking if they would look into the disappearance of another group of adventurers in the [[Goldpeak Mines]].
+
+With their treasure protected by magic and with [[Julius of Voltara|Julius]] paid and the manor restocked, the party heads out to [[Goldpeak Mines]], where they find a mysterious abandoned camp with dead bodies.
+
+### Session 58
+
+Hearing noises from the tent at the abandoned camp, [[Samso]] lights the fabric on fire, which is encouraged to spread by [[Adrik]]’s ability to control flames. As the fire burns, [[Brottor|a dwarf]] emerges but quickly dissolves into a pair of gibbering mouthers. The party fights them, and the tentacled rats that emerge from the dead bodies of a pair of horses. Despite [[Adrik]]’s mind being frequently overcome by the gibbering whispers calling out to [[Vilaxes]], the party defeats these creatures and heads into the [[Goldpeak Mines|mines]]. Easily descending the cliff walls, the party finds a ruined ladder of massive, thick braided rope at the bottom. Charging ahead into a rough-hewn passage, [[Adrik]] is attacked and ambushed by a cloaker, which summons two carrion crawlers to aid it. Despite its annoying grapple, the cloaker is driven off, and the carrion crawlers are killed by [[Aelar]] as they try to flee. 
+
+### Session 59
+
+The [[Silver Tempests]] continue down the passage, finding a campfire with the surviving Chardonians: [[Alton]], the halfling rogue from long ago, and [[Cassia]], a human paladin. They claim that some weird aberrations are living in the depths; [[Brottor|their companion]], a dwarf, was corrupted and went mad. After a rest, the party joins [[Cassia]] and [[Alton]] to explore further. 
+
+After traveling some distance into the depths, the party finds some guards, twisted tentacled horrors watching the passageway. Between [[Samso]]’s wall of thorns and [[Brelith]]’s shatter spell, combined with the usual strength of the melee fighters, the guards die quickly. But it does not matter that the guards do not sound the alarm, as shatter alerts the base anyway. 
+
+Entering the lair, [[Brelith]] falls into a quicksand trap and needs most of the rest of the party to rescue him; [[Aelar]] is left free to run up the wall and chase down some kobolds who are watching. One of the kobolds is pretending to be an acolyte of the fire god, and speaks freely to the party when he realizes they were the instigators of that con. From him, they learn that a beholder has taken over the kobold den, driving them to make a massive statue to his glory. 
+
+Sneaking through the lair, the party encounters a few guards, attempting to trick them into believing they are here to worship [[Vilaxes]], the beholder. This fails, and [[Adrik]], [[Brelith]], [[Cassia]], and [[Samso]] are quickly chained and tossed into pits. [[Aelar]] and [[Alton]], hidden, follow, and then launch an attack on the guards. A fight ensues, during which everyone escapes from their pits. 
+
+The party confronts the beholder [[Vilaxes]] in a massive cavern dominated by a huge statue of a beholder walking on two legs, made of precious metals, random dungeon detritus, and broken weapons and armor. The fight seems to be going badly, with [[Aelar]] and [[Alton]] charmed, and [[Adrik]] and [[Cassia]] about to succumb to petrification, when [[Adrik]] uses a wish to remove all status effects from the party. Hoping to keep the beholder’s attention in his earth elemental form, [[Samso]] begins attacking the statue, cracking it in half, and drawing the beholder’s rage. While [[Samso]] is the focus of every blast of magic, and eventually succumbs to the death ray, [[Adrik]] strikes down [[Vilaxes]] with [[Thunderbrand]]. [[Brelith]] is then able to quickly cast revivify, bringing [[Samso]] back from the dead, and later restore [[Cassia]] as well. 
+
+### Session 60
+
+Back in [[Voltara]], the [[Silver Tempests]] enjoy the rewards of their status and reputation. [[Brelith]] apprentices himself to the chef at [[Finoc Small]]’s tavern, [[The Wandering Toad]], learning to cook, and opening a restaurant, [[The Hero's Feast]]. [[Adrik]] goes on a binge of pit fighting and gambling, managing to end up with a small profit. [[Samso]] travels to visit with [[Iara]] at the [[Lizardfolk]] community near [[Lake Valandros]], and learns more about the mysterious attacks. [[Alton]] opens a boisterous tavern and dive bar outside the city walls, called the [[Rogue’s Range]], with axe throwing for patrons.
+
+%% note: Rogue's Range might be removed from canon - unclear %%
+
+Four months later, the [[Silver Tempests]] host a party, a grand opening for [[The Hero's Feast]]. Many old friends are there, thanks to [[Samso]]’s new magic ability to teleport via plants: [[Dinia]], from the north; [[Brelith]]’s parents and some other dwarves of [[Zarkandur]]; [[Aris]], who is remaining in the [[Voltara]] area; and some other centaurs, who are leaving on the next stop in their migration and have come to say goodbye. It is a big success.
+
+### Events
+
+- (DR:: 1748-03-08) - (DR_end:: 1748-03-13): In [[Voltara]], the party sells treasure to [[Quintus Percomia]] and [[Inectos Tintio]], purchases an extradimensional vault for their treasure, and employs [[Brelith]]'s and [[Galius Filuso]]' magic to protect their home base. 
+- (DR:: 1748-03-14): The party leaves [[Voltara]] for [[Goldpeak Mines]]
+- (DR:: 1748-03-15): Travel
+- (DR:: 1748-03-16): The party arrives at [[Goldpeak Mines]], fights a dwarven aberration at the camp outside, descends into the chasm, and fights a cloaker and carrion crawlers. Meet [[Cassia]] and [[Alton]]. Rest.
+- (DR:: 1748-03-17): Travel into the depths. Fight guards, and learn that the beholder [[Vilaxes]] has taken over a kobold den. Briefly imprisoned. Fight beholder, and win after [[Samso]] draws the beholder's attacks by attempting to destroy a massive statue of [[Vilaxes]]. [[Samso]] and [[Cassia]] die, and are revived by [[Brelith]]. Rest.
+- (DR:: 1748-03-18): Return to the surface. Rest.
+- (DR:: 1748-03-19): Travel back to [[Voltara]].
+- (DR:: 1748-03-20): Arrive back in [[Voltara]], victorious. 
+- (DR:: 1748-03-21) - (DR_end:: 1748-08-06): Downtime in [[Voltara]]
+- (DR:: 1748-08-07): [[Brelith]]'s [[The Hero's Feast|restaurant]] opens as the [[Silver Tempests]] host a party. 
+
+
+## Adventure 19: Saving Grandma Yoda (This Shit’s Kinda’ Fishy)
+
+### Session 61
+
+[[Mabist]] comes knocking on the door of the [[Tempest Towers]]. Both [[Samso]] and [[Adrik]] are a bit suspicious of this armored visitor before we learn [[Dinia]] was captured. We retrieve [[Alton]] from his violent dive bar. In misty forms the party flies to [[Suwi]], a distant village near the coast, where they meet the [[Elian of Suwi|village priest]], and ask about rumors of the [[Havoc Host]], a mercenary group that was involved in kidnapping [[Dinia]]. The priest introduces the party to [[Clara]], a teenaged girl whose brother was kidnapped a few days ago by the [[Havoc Host]], just upriver near a small lake.
+
+The next morning the party travels upriver to the [[Lake Suwi|lake]]. Finding the logging camp where [[Mikel|Clara’s brother]] was taken, they follow a trail along the lakeshore, coming to a rocky clearing where the ruins of a castle overlook the lake. The party manages to ambush a group of slimy minions, and quickly dispatch them, knocking them out and binding them. 
+
+Searching the ruins, [[Samso]] finds a concealed tunnel leading underground. Following the tunnel, the party emerges into the barracks of the [[Havoc Host]]. [[Mabist]] is disguised as a slimy minion; [[Samso]] turns into an earth elemental; and [[Adrik]] busts down the door. A battle ensues, in which the [[Havoc Host]] are soundly beaten. Convinced that [[Mabist]] is one of [[Ithu’rax]]’s servants, the mercenaries are reluctant to surrender, until [[Mabist]] attempts to surrender himself, convincing them that something strange is going on. At this point, the mercenaries surrender, and are disarmed and convinced to make a better life for themselves opening a franchise of Brelith’s restaurant by [[Adrik]] and [[Mabist]].
+
+The party learns the layout of the tunnels from the mercenaries, and begins to explore, carefully navigating around cracking parts of the tunnels that drop rocks on their heads with a misstep. After navigating through the tunnels for some time, [[Samso]] hears sobbing from a room to the south. Here, the party discovers the dead body of an adventurer, and the ghost of [[Milo Kentbrush]], who was sure he could kill the aboleth, but was ambushed by the annoying slime servants. The party finds his arrow of aberration slaying, and takes it with them. Milo follows, tied to the arrow.
+
+The party manages to quietly navigate the flooded caverns, emerging into the aboleth’s lair, where they see a psychically controlled [[Dinia]] waiting for them. She attacks, and [[Ithu’rax]] the aboleth emerges from a central pool, joining the battle. The battle is a challenge. [[Ithu’rax]] manipulates his foes’ physical form, turning ligaments to jelly and lungs to gills, all of which make it difficult for the party to land a blow. [[Alton]], although set up with the arrow of aboleth slaying, misses his shot; [[Mabist]] manages to grapple the aboleth with a giant force hand, but is targeted by the aboleth’s anger and eventually knocked unconscious and dropped into the cursed waters at the center of the cave. [[Samso]] spends the combat as an earth elemental; while he does not sustain much damage, he is also repeatedly driven back and unable to land a solid blow. It is only [[Samso]]’s conjured dragon, and [[Adrik]]’s seemingly endless ability to absorb the strikes of the aboleth’s tentacles, that save the party and lead to victory.
+
+With the aboleth killed, [[Dinia]] returns to herself, and appoints herself the caretaker of the now slowly recovering slime servants. 
+
+### Events
+
+- (DR:: 1748-08-22): [[Mabist]] arrives at the [[Tempest Towers]] with news of [[Dinia]]'s capture.
+- (DR:: 1748-08-23): Arrive at [[Suwi]], meet [[Elian of Suwi|village priest]], speak with [[Clara]] about the [[Havoc Host]]. 
+- (DR::1748-08-24): Travel upriver to a small lake. Fight slimy minions, find a secret passage, enter flooded caverns. In the caverns, defeat more slime minions and meet the ghost of [[Milo Kentbrush]]. Confront [[Ithu’rax]] the aboleth, and defeat it, rescuing [[Dinia]]. 
+- (DR:: 1748-08-25): Return to [[Voltara]]. 
