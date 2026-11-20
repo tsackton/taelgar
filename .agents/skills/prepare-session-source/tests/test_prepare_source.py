@@ -90,6 +90,31 @@ class PrepareSourceTest(unittest.TestCase):
             (cleaned / "cleenseau-012.1-source-prepared.md").read_text(encoding="utf-8"),
         )
 
+    def test_registered_id_preserves_existing_bundle_on_rerun(self) -> None:
+        vault = self.make_workspace()
+        directory = vault / "_sessions" / "long-directory"
+        directory.mkdir(parents=True)
+        (directory.parent / "campaign-registry.json").write_text('{"short":"Game.md"}')
+        (vault / "Game.md").write_text("---\nname: Game\nsessionBundleDirectory: _sessions/long-directory\n---\n")
+        (vault / "input.md").write_text("First turn.\n")
+        (vault / "participants.yaml").write_text("participants:\n- name: Tim\n  gameRole: DM\n")
+        old = directory / "old-game-012.1" / "cleaned"
+        old.mkdir(parents=True)
+        manifest = old / "old-game-012.1-session.yaml"
+        manifest.write_text("scope: session\ncampaign: Old Game\nsessionNumber: '12.1'\n")
+        config = vault / "source.yaml"
+        config.write_text(yaml.safe_dump({
+            "sourcePath": str(vault / "input.md"), "sourceType": "narrative",
+            "outputDir": str(directory), "narrativeUnit": "paragraph", "campaign": "short",
+            "sessionNumber": "12.1", "realWorldDate": "2024-02-16",
+            "participantsPath": str(vault / "participants.yaml"),
+        }))
+        result = subprocess.run([sys.executable, str(SKILL_ROOT / "scripts" / "prepare_source.py"),
+                                 "--config", str(config), "--force"], capture_output=True, text=True)
+        self.assertEqual(result.returncode, 0, result.stderr)
+        self.assertEqual(yaml.safe_load(manifest.read_bytes())["campaign"], "short")
+        self.assertFalse((directory / "short-012.1").exists())
+
     def make_workspace(self) -> Path:
         tmpdir = Path(tempfile.mkdtemp(prefix="prepare-source-test."))
         self.addCleanup(lambda: shutil.rmtree(tmpdir, ignore_errors=True))

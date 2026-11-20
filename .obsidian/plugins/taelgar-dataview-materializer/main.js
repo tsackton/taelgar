@@ -389,13 +389,8 @@ module.exports = class TaelgarDataviewMaterializerPlugin extends Plugin {
     const previousOverrideDate = customJS.state.overrideDate;
     const previousCoreMeta = customJS.state.coreMeta;
 
-    try {
-      const metadataPath = `${this.app.vault.configDir}/metadata.json`;
-      const metadataJson = await this.app.vault.adapter.read(metadataPath);
-      customJS.state.coreMeta = JSON.parse(metadataJson);
-    } catch (error) {
-      console.warn("Could not load .obsidian/metadata.json for materializer", error);
-    }
+    const previousRegistry = customJS.state.campaignRegistry;
+    await customJS.init.invoke();
 
     if (config.overrideDate) {
       customJS.state.overrideDate = customJS.DateManager.normalizeDate(config.overrideDate, false);
@@ -412,6 +407,7 @@ module.exports = class TaelgarDataviewMaterializerPlugin extends Plugin {
         restoreCompatibilityAliases();
         customJS.state.overrideDate = previousOverrideDate;
         customJS.state.coreMeta = previousCoreMeta;
+        customJS.state.campaignRegistry = previousRegistry;
       },
     };
   }
