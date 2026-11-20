@@ -1,9 +1,9 @@
 ---
 lintedAt: "2026-10-20T07:57:56-04:00"
 lintVersion: "3.5"
-tags: [meta, status/check/lint]
+tags: [meta, status/check/lint, status/check/ai]
 typeOf: hoard
-campaign: Dunmar Frontier
+campaign: dufr
 name: Stormcaller Tower Treasure
 POV: 1748
 ---

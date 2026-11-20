@@ -2,8 +2,8 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-11-12T19:02:10-05:00"
 lintVersion: "3.5"
-tags: [session-note, status/check/lint]
-campaign: Great Library
+tags: [session-note, status/check/lint, status/check/ai]
+campaign: grli
 DR: 1747-07-29
 DR_end: 1747-10-06
 name: Chronicles of the War Against Grumella

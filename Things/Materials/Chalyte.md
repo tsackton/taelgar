@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:07:38-04:00"
 lintVersion: "3.5"
-tags: [object, status/gameupdate/gl, status/check/lint]
+tags: [object, status/gameupdate/grli, status/check/lint, status/check/ai]
 typeOf: material
 subTypeOf: magic
 typeOfAlias: mineral

@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
-campaign: Cleenseau
+tags: [session-note, status/check/ai]
+campaign: clee
 sessionNumber: 10
 players: [Robin, Viepuck, Celyn, Izgil]
 DR: 1720-01-08

@@ -1,9 +1,9 @@
 ---
 lintedAt: "2026-10-20T07:26:32-04:00"
 lintVersion: "3.5"
-tags: [meta]
+tags: [meta, status/check/ai]
 typeOf: hoard
-campaign: Dunmar Frontier
+campaign: dufr
 name: Forge Components
 POV: 1749
 ---

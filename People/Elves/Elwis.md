@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: elf
 ancestry: null
 campaignInfo:
@@ -27,7 +27,7 @@ POV: modern
 > An [[Elves|elf]] (she/her), ([[Elven Cycle of Generations|ka]] 37)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on January 2nd, 1749 in the [[Tollen|Free City of Tollen]] %%^End%%
+>> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on January 2nd, 1749 in the [[Tollen|Free City of Tollen]] %%^End%%
 
 Elwis is a female elf and painter from [[Orenlas]]. 
 

@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:26:32-04:00"
 lintVersion: "3.5"
-tags: [object, status/check/lint]
+tags: [object, status/check/lint, status/check/ai]
 typeOf: coin
 subTypeOf: magic
 ddbLink: https://www.dndbeyond.com/magic-items/1872181-floating-coin
@@ -18,7 +18,7 @@ POV: modern
 
 A small golden coin, unusually heavy for its size, and without a recognizable mark. 
 
-%%^Campaign:DuFr%%
+%%^Campaign:dufr%%
 
 Found by the [[Dunmar Fellowship]] near the petrified form of [[Arcus]] in the fort east of [[Gomat]]. 
 
@@ -51,5 +51,5 @@ Temporal coverage: broadly modern physical description with a DR 1748 discovery 
 
 ### Open findings
 
-- [ ] **Suggestion — syntax.noncanonical_campaign_block:** The opening marker `%%^Campaign:DuFr%%` uses a registry alias. [[Campaign Registry]] specifies the lowercase short code. Replace only that opening marker with `%%^Campaign:dufr%%`, preserving its contents and closing marker; confirm the intended filtered visibility when adopting the syntax change.
+- [ ] **Suggestion — syntax.noncanonical_campaign_block:** The opening marker `%%^Campaign:dufr%%` uses a registry alias. [[Campaign Registry]] specifies the lowercase short code. Replace only that opening marker with `%%^Campaign:dufr%%`, preserving its contents and closing marker; confirm the intended filtered visibility when adopting the syntax change.
 %%^End%%

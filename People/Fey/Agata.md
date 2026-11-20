@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 displayDefaults: {boxInfo: "<subspecies> (<species:s>), <pronouns>"}
-tags: [status/cleanup/metadata, person, status/check/lint]
+tags: [status/cleanup/metadata, person, status/check/lint, status/check/ai]
 species: fey
 subspecies: hag
 campaignInfo:
@@ -27,7 +27,7 @@ POV: 1748
 >[!info]+ Biographical Info
 > hag ([[Fey|fey]]), she/her
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:DuFr%% Imprisoned by the [[Dunmar Fellowship]] on November 15th, 1748 in the [[Heartwood Grove]], [[Amberglow]], the [[Feywild]] %%^End%%
+>> %%^Campaign:dufr%% Imprisoned by the [[Dunmar Fellowship]] on November 15th, 1748 in the [[Heartwood Grove]], [[Amberglow]], the [[Feywild]] %%^End%%
 
 %% Original whereabouts annotation for {type: home, end: 1, location: Amberglow}:
 # amberglow not origin, just past home
@@ -92,7 +92,7 @@ Temporal coverage: a DR 1748 account of Agata’s desert activity, apparent deat
 - [ ] **Warning — coverage.later_material_change:** “For mysterious ends” in the Sura event leaves Agata’s defining political manipulation unresolved despite [[Session 83 (DuFr)]] attributing a deliberate effort to destroy Dunmar from within to [[Delios the Sage]], and [[Session 90 (DuFr)]] / [[Nayan Marathu's Letter Vision]] revealing her forged letter used to discredit Sura. Decide whether to incorporate these revelations, defer them with the appropriate human-managed game-update status, or intentionally retain an earlier viewpoint. A bounded replacement for the Sura event is: “Agata imprisoned Nayan [[Sura]] in the [[Mirror of Soul Trapping]], enabling [[Nayan Karnas]] to claim the throne. According to [[Delios the Sage]], she sought to destroy [[Dunmar]] from within by sowing discord. She also [[Nayan Marathu's Letter Vision|forged a letter in Marathu’s name]], later used to portray Sura as her willing apprentice.” For an account that should reveal the forgery only from its recorded discovery date, place that final sentence inside `%%^Date:1749-02-02%%` / `%%^End%%`; this visibility change requires human approval.
 - [ ] **Warning — temporal.mixed_current_state:** The overview says she “has dwelt” in the desert “for as long as anyone can remember, luring” victims, and Description presents her lair in the present tense, while the same visible article and [[Session 67 (DuFr)]] establish her November imprisonment. Preserve the historical desert account while choosing a coherent speaking position. Smallest prose proposal: replace the overview sentence with “Before her defeat in DR 1748, she dwelt at the edge of the [[Garamjala Desert]], in [[Eastern Dunmar]], for as long as anyone could remember, luring the desperate and unwary into bargains,” and begin the lair sentence “Her desert lair was a magical and seemingly un-scryable hut…”. If retaining the pre-imprisonment portrait instead, gate the later imprisonment statements with agreed `Date:*` blocks; do not use a broader POV to imply she remained active in the desert.
 - [ ] **Warning — metadata.names_unresolved_status:** Confirm the two proposed pronunciations in `Metadata:names:v1`. `AH-gah-tah DUST-muth-er` is a cautious spelling-based primary proposal: hard g, ah vowels, first-syllable stress, and ordinary English Dustmother. `dah-SOH-kleez` uses the qualified Greek naming pattern discussed for Fey in [[Languages]], with c before l read as k and a kleez ending; stress and the written final e remain uncertain. No explicit pronunciation or established name-language evidence was found. The language guidance is deliberately nonprescriptive, so neither proposal is accepted phonology; accept or replace the forms and copy an accepted primary pronunciation to frontmatter. The plain-English sobriquet needs no pronunciation.
-- [ ] **Suggestion — syntax.noncanonical_campaign_block:** The generated header still uses `%%^Campaign:DuFr%%`. [[Campaign Registry]] requires the canonical short code: replace that opening marker with `%%^Campaign:dufr%%`, preserving its entire contents and closing marker.
+- [ ] **Suggestion — syntax.noncanonical_campaign_block:** The generated header still uses `%%^Campaign:dufr%%`. [[Campaign Registry]] requires the canonical short code: replace that opening marker with `%%^Campaign:dufr%%`, preserving its entire contents and closing marker.
 
 ### DM evidence
 - [[_DM_/Brainstorming/Campaigns Overview]]

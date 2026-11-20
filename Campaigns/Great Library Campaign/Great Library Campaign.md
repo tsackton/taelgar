@@ -1,9 +1,9 @@
 ---
 lintedAt: "2026-11-12T19:02:10-05:00"
 lintVersion: "3.5"
-tags: [meta]
+tags: [meta, status/check/ai]
 hide: [toc]
-campaign: Great Library
+campaign: grli
 name: Great Library Campaign
 POV: modern
 ---

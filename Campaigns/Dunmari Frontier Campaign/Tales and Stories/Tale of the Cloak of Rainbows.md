@@ -1,8 +1,8 @@
 ---
 lintedAt: "2026-10-20T09:32:28-04:00"
 lintVersion: "3.5"
-tags: [source, status/check/lint]
-campaign: Dunmar Frontier
+tags: [source, status/check/lint, status/check/ai]
+campaign: dufr
 name: Tale of the Cloak of Rainbows
 POV: 1749
 ---

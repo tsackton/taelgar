@@ -1,8 +1,8 @@
 ---
 lintedAt: "2026-10-20T09:49:52-04:00"
 lintVersion: "3.5"
-tags: [source, status/check/lint]
-campaign: Cleenseau
+tags: [source, status/check/lint, status/check/ai]
+campaign: clee
 DR: 1720-02-07
 name: "Elizabeth of Cassen's Story"
 POV: 1720

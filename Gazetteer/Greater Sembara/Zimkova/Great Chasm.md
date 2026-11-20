@@ -3,13 +3,13 @@ headerVersion: 2023.11.25
 lintedAt: "2026-09-05T16:06:33-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
-tags: [place]
+tags: [place, status/check/ai]
 typeOf: topographical feature
 subTypeOf: gorge
 typeOfAlias: chasm
 name: Great Chasm
 whereabouts: Zimkova
-knownTo: [itc]
+knownTo: [chasm]
 dm_owner: none
 dm_notes: none
 POV: modern

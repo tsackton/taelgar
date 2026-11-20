@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: human
 ancestry: Sembaran
 campaignInfo: []
@@ -30,7 +30,7 @@ POV: 1720
 
 He has a keen interest in history, and is a competent clerk and accountant. He took over as steward from his father-in-law in 1715. His wife is a childhood friend of [[Rosalind Essford|Rosalind]] and assists him. They and their three children live at [[Essford Manor]]. 
 
- %%^Campaign:Clee%%
+ %%^Campaign:clee%%
 ### Jonathon's History Lesson
 Before [[Cleenseau - Session 08]] Jonathon shared several facts and stories about Cleenseau:
 - The hobgoblins occupied Cleenseau during the 3rd Hobgoblin War and built a motte and bailey castle / fortification here, but it was destroyed except for the actual hill of the motte by Cece's troops but a lot of rubble was left behind 
@@ -62,5 +62,5 @@ Temporal coverage: a portrait of his stewardship and family around DR 1719–172
 
 - [ ] **Warning — metadata.names_unresolved_status:** The name block proposes `JON-uh-thun HEN-win`. The English Sembaran analogue in [[Languages]] supports ordinary Jonathon and a provisional Henwyn reading with initial stress, short e, and wyn as win. The French alternative would alter the given-name consonants; the English-shaped spelling is the stronger cue, but the full pronunciation remains unconfirmed. Confirm or revise this reading; if accepted, copy it to frontmatter `pronunciation` and mark the entry documented.
 
-- [ ] **Suggestion — syntax.noncanonical_campaign_block:** The history-lesson opener uses `%%^Campaign:Clee%%`. The campaign registry gives `clee`; replace only that opener with `%%^Campaign:clee%%`, preserving the existing content and end marker.
+- [ ] **Suggestion — syntax.noncanonical_campaign_block:** The history-lesson opener uses `%%^Campaign:clee%%`. The campaign registry gives `clee`; replace only that opener with `%%^Campaign:clee%%`, preserving the existing content and end marker.
 %%^End%%

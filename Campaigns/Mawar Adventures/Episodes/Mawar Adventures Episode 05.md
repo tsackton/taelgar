@@ -2,8 +2,8 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-11-12T19:02:10-05:00"
 lintVersion: "3.5"
-tags: [session-note]
-campaign: Mawar Adventures
+tags: [session-note, status/check/ai]
+campaign: mawar
 sessionNumber: 5
 realWorldDate: 2026-03-10
 DR: 1749-05-26

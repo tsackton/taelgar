@@ -1,8 +1,8 @@
 ---
 lintedAt: "2026-10-19T11:22:11-04:00"
 lintVersion: "3.5"
-tags: [meta, status/check/lint]
-campaign: Dunmar Frontier
+tags: [meta, status/check/lint, status/check/ai]
+campaign: dufr
 name: seeker-early-campaign-reference
 POV: 1748
 ---

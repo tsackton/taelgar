@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: human
 ancestry: Dunmari
 campaignInfo:
@@ -100,7 +100,7 @@ Temporal coverage: a late-1740s portrait of Candrosa as Speaker in Karawa; the d
 - [ ] **Warning — correctness.cross_note_conflict:** In `Relationships & Resources`, “Mentors acolytes like [[Alesh]]” makes Alesh a Shakun acolyte, while [[Alesh#Relationships]] explicitly describes her as independent and not particularly associated with Candrosa or the Shakun Mystai. [[Session 32 (DuFr)]] establishes Kenzo and Drikod’s initiation, not Alesh’s. Resolve the relationship rather than adopting the draft as evidence. Supported replacement for that bullet: “**Mystai Initiates:** [[Kenzo]] and [[Drikod]] completed their initiation into the [[Shakun Mystai]] on 17 June 1748.”
 - [ ] **Warning — correctness.source_attribution:** The shared draft’s “Restored Web (Session 32)” places Candrosa’s funeral rites in the wrong session, and its `1748-06-18` entry attributes Sura’s rally and the Tokra mission to him without support from the cited session. [[Session 27 (DuFr)]] records Candrosa leading the funeral on 24 May; [[Session 32 (DuFr)]] dates Sura’s public declaration to 19 June and does not say Candrosa orchestrated it or assigned the Fellowship’s journey; [[Session 29 (DuFr)]] records the party deciding to seek lore in Tokra. Replace the “Restored Web” bullet with “**Funeral rites (Session 27):** Led the funeral for the mystai killed in the shadow attack on 24 May 1748.” Remove the `1748-06-18` bullet unless a source for Candrosa’s asserted role is supplied. Keep these corrections in the shared draft; do not promote its other claims automatically.
 - [ ] **Suggestion — temporal.date_block_proposal:** The existing `Campaign:dufr` sentence beginning “Since the Heart’s recovery” describes a state that cannot apply before its return, dated 1 June 1748 in [[Session 29 (DuFr)]]. To preserve the broader late-1740s reference frame, wrap only “Since the Heart’s recovery he is humbler, quicker to confer with allies, and intent on rebuilding a wider circle of initiates.” in `%%^Date:1748-06-01%%` and `%%^End%%`, inside the existing campaign block. This visibility change requires human approval; no date block was added.
-- [ ] **Suggestion — syntax.noncanonical_campaign_block:** Refresh the generated encounter-header entries for 22 March and 23 May 1748 from `campaignInfo`: use `%%^Campaign:dufr%%` instead of `%%^Campaign:DuFr%%`, and render the ordinals as “March 22nd, 1748” and “May 23rd, 1748”. Preserve each line’s existing two-space Markdown hard break. These two generated lines are retained exactly as authored pending the refresh.
+- [ ] **Suggestion — syntax.noncanonical_campaign_block:** Refresh the generated encounter-header entries for 22 March and 23 May 1748 from `campaignInfo`: use `%%^Campaign:dufr%%` instead of `%%^Campaign:dufr%%`, and render the ordinals as “March 22nd, 1748” and “May 23rd, 1748”. Preserve each line’s existing two-space Markdown hard break. These two generated lines are retained exactly as authored pending the refresh.
 
 ### DM evidence
 - [[_DM_/Timelines/Old Timeline (Table)]]

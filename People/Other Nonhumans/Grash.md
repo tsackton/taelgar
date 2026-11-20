@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 displayDefaults: {endStatus: killed}
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: undead
 subspecies: skeletal
 campaignInfo:
@@ -28,8 +28,8 @@ POV: modern
 > A skeletal [[Undead|undead]], he/him
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:DuFr%% Scryed by the [[Dunmar Fellowship]] on December 28th, 1748 in [[Uzgukhar]], [[Xurkhaz]], the [[Garamjala Desert]] %%^End%%
->> %%^Campaign:DuFr%% Defeated by the [[Dunmar Fellowship]] on January 20th, 1749 in [[Uzgukhar]], [[Xurkhaz]], the [[Garamjala Desert]] %%^End%%
+>> %%^Campaign:dufr%% Scryed by the [[Dunmar Fellowship]] on December 28th, 1748 in [[Uzgukhar]], [[Xurkhaz]], the [[Garamjala Desert]] %%^End%%
+>> %%^Campaign:dufr%% Defeated by the [[Dunmar Fellowship]] on January 20th, 1749 in [[Uzgukhar]], [[Xurkhaz]], the [[Garamjala Desert]] %%^End%%
 
 ![[image-grash-1.png|right|320]]Known as Grash the Undying, an undead warrior and commander of a large [[Orcs|orc]] army in Kharsan. He possessed the [[Ring of Undying]], and used it to create a large army of orcs and undead. 
 
@@ -73,7 +73,7 @@ During the [[War of the Cloak]], Grash invaded [[Xurkhaz]] to seize the [[Cloak 
 
 - [ ] **Warning — correctness.cross_note_conflict:** The first two whereabouts entries put the Kharsan-to-Garamjala transition on `1748-11-28`, while [[War of the Cloak#Events in the War]] explicitly dates Grash's departure from Kharsan to `1748-11-27`. Confirm which date governs before changing the recorded journey. If the war timeline is adopted, replace just those two entries with `{type: away, start: 1747, end: 1748-11-27, location: Kharsan}` and `{type: away, start: 1748-11-27, end: 1748-12-05, location: Garamjala}`. The same timeline dates the army's arrival at Uzgukhar to December 15, whereas Grash's whereabouts there begin December 14; verify whether his individual movement differed before adjusting that boundary.
 - [ ] **Warning — metadata.names_unresolved_status:** The new primary name entry proposes `GRASH`: one syllable, initial `gr` as in grasp, short `a` as in ash, and final `sh` as in ship. No explicit name pronunciation or established source language was found in the reviewed evidence, so this is a cautious spelling-based proposal, not an adopted language rule. Accept or correct it; if accepted, use `pronunciation: GRASH` in frontmatter and change the persistent entry to `status: documented`.
-- [ ] **Suggestion — syntax.noncanonical_campaign_block:** Both generated interaction lines use `%%^Campaign:DuFr%%`. The registry resolves that alias to `dufr`; replace each opening marker with `%%^Campaign:dufr%%`, preserving the enclosed text and closing markers. The existing generated header is otherwise left unchanged.
+- [ ] **Suggestion — syntax.noncanonical_campaign_block:** Both generated interaction lines use `%%^Campaign:dufr%%`. The registry resolves that alias to `dufr`; replace each opening marker with `%%^Campaign:dufr%%`, preserving the enclosed text and closing markers. The existing generated header is otherwise left unchanged.
 
 ### DM evidence
 - [[_DM_/Timelines/NPC Travels]]

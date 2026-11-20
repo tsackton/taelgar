@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
-tags: [person, status/cleanup/metadata, status/check/lint]
+tags: [person, status/cleanup/metadata, status/check/lint, status/check/ai]
 species: human
 ancestry: "Deno'qai"
 campaignInfo:
@@ -21,7 +21,7 @@ POV: 1747
 > A [[Deno'qai]] [[Humans|human]] (she/her)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:GL%% Met by the [[Silver Tempests]] on November 23rd, 1747 in [[Raha]], the [[Highveil Forest]] %%^End%%
+>> %%^Campaign:grli%% Met by the [[Silver Tempests]] on November 23rd, 1747 in [[Raha]], the [[Highveil Forest]] %%^End%%
 
 %% Raha does not yet have a tribal connection, but probably should %%
 
@@ -62,5 +62,5 @@ Temporal coverage: a DR 1747 portrait of Loma as a young scout, with a dated acc
 ### Open findings
 
 - [ ] **Warning — metadata.names_unresolved_status:** The new name entry proposes `loh-MAH`. This uses the Hebrew option in [[Languages]] for Deno'qai names provisionally from Loma's cultural background: ordinary l/m consonants, a pure oh vowel, ah for a, and final stress. The name's source language is unrecorded, and the alternative Arabic analogue does not uniquely resolve the vowels or stress; no exact in-world rule was found. Confirm or correct the reading. If accepted, add `pronunciation: loh-MAH` to frontmatter and change the entry to `status: documented`, retaining its derivation and `language: unknown` until the language is established.
-- [ ] **Suggestion — syntax.noncanonical_campaign_block:** The generated header uses `Campaign:GL`, which resolves to `grli` in the campaign registry. The current site exporter compares casefolded literal identifiers without expanding aliases, so changing this marker would switch which campaign exports show the header. After confirming the intended export audience and aligning its configuration, replace only the opening marker `%%^Campaign:GL%%` with `%%^Campaign:grli%%`; preserve the header text and closing marker. This remains a proposal so the existing filtering is preserved.
+- [ ] **Suggestion — syntax.noncanonical_campaign_block:** The generated header uses `Campaign:GL`, which resolves to `grli` in the campaign registry. The current site exporter compares casefolded literal identifiers without expanding aliases, so changing this marker would switch which campaign exports show the header. After confirming the intended export audience and aligning its configuration, replace only the opening marker `%%^Campaign:grli%%` with `%%^Campaign:grli%%`; preserve the header text and closing marker. This remains a proposal so the existing filtering is preserved.
 %%^End%%

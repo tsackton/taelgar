@@ -2,10 +2,10 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-09-05T16:06:33-04:00"
 lintVersion: "3.5"
-tags: [group]
+tags: [group, status/check/ai]
 typeOf: adventuring party
 name: Chasm Explorers
-knownTo: [itc]
+knownTo: [chasm]
 dm_owner: mike
 dm_notes: important
 POV: 1730

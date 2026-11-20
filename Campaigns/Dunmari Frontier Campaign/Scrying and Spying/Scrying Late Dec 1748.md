@@ -1,8 +1,8 @@
 ---
 lintedAt: "2026-10-20T09:08:30-04:00"
 lintVersion: "3.5"
-tags: [meta, status/check/lint]
-campaign: Dunmar Frontier
+tags: [meta, status/check/lint, status/check/ai]
+campaign: dufr
 name: Scrying Late Dec 1748
 POV: 1748
 ---

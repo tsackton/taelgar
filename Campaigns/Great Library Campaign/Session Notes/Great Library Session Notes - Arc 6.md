@@ -2,8 +2,8 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-11-12T19:02:10-05:00"
 lintVersion: "3.5"
-tags: [session-note]
-campaign: Great Library
+tags: [session-note, status/check/ai]
+campaign: grli
 DR: 1752-06-29
 DR_end: 1752-07-05
 name: "Chronicles of Zadkai's Return and the Scouring Wind"

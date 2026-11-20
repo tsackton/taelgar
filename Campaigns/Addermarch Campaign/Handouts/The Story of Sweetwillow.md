@@ -2,8 +2,8 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-09-28T23:44:57-04:00"
 lintVersion: "3.5"
-tags: [source]
-campaign: Addermarch
+tags: [source, status/check/ai]
+campaign: adma
 name: The Story of Sweetwillow
 POV: 1715
 ---

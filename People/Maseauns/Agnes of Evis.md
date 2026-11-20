@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: human
 ancestry: Mazeanne
 campaignInfo:
@@ -26,7 +26,7 @@ POV: 1719
 > A [[Duchy of Maseau|Maseanne]] [[Humans|human]] (she/her)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:Clee%% Met by the [[Heroes of Cleenseau]] on December 7th, 1719 in [[Cleenseau]], the [[Manor of Cleenseau]], the [[Barony of Aveil]] %%^End%%
+>> %%^Campaign:clee%% Met by the [[Heroes of Cleenseau]] on December 7th, 1719 in [[Cleenseau]], the [[Manor of Cleenseau]], the [[Barony of Aveil]] %%^End%%
 
 Agnés is a tough-as-nails but somewhat lazy caravan guard, who has struggled to find work recently. She distinguished herself in the recent [[Battle Against Wakog]].
 
@@ -52,5 +52,5 @@ Temporal coverage: a late-DR 1719 portrait of her work and recent battle service
 ### Open findings
 
 - [ ] **Warning — metadata.names_unresolved_status:** The name block proposes `ah-NYEHS uhv ay-VEE`, using the French analogues for northern Isinguese and southern Sembaran in [[Languages]] as the strongest regional guidance. This reads `gn` as /ny/, the accented vowel as close /e/, and retains the given-name final /s/ by the Agnès pattern; `Evis` is provisionally read with initial /e/ and silent final `s`. The exact local name language and place-name reading remain unconfirmed. Preserve the authored spelling `Agnés`; confirm or replace the pronunciation before copying it to frontmatter and marking the entry `documented`.
-- [ ] **Suggestion — syntax.noncanonical_campaign_block:** The generated meeting line uses `%%^Campaign:Clee%%`; the registry’s canonical code is `clee`. Copy-ready replacement opener: `%%^Campaign:clee%%`. Preserve the existing meeting text and end marker when regenerating or correcting the header.
+- [ ] **Suggestion — syntax.noncanonical_campaign_block:** The generated meeting line uses `%%^Campaign:clee%%`; the registry’s canonical code is `clee`. Copy-ready replacement opener: `%%^Campaign:clee%%`. Preserve the existing meeting text and end marker when regenerating or correcting the header.
 %%^End%%

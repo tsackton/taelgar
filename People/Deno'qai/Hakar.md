@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: human
 ancestry: "Deno'qai"
 born: 1691
@@ -26,7 +26,7 @@ POV: 1740s
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:GL%% Met by the [[Silver Tempests]] on November 21st, 1747 in [[Raha]], the [[Highveil Forest]] %%^End%%
+>> %%^Campaign:grli%% Met by the [[Silver Tempests]] on November 21st, 1747 in [[Raha]], the [[Highveil Forest]] %%^End%%
 
 Hakar is the chief of [[Raha]], a [[Deno'qai]] village in the [[Highveil Forest]]. He represents the village in local councils and manages relations with outsiders who reach Raha. 
 

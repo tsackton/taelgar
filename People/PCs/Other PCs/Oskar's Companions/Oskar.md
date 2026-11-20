@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: dwarf
 ancestry: Nardith
 gender: male
@@ -29,8 +29,8 @@ POV: 1740s
 > A [[Nardith]] [[Dwarves|dwarf]] (he/him)  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:GL%% Met by the [[Silver Tempests]] on June 2nd, 1747 in [[Goldpeak Mines]], [[Goldpeak Mountain]], the [[Fiatara Mountains]] %%^End%%  
->> %%^Campaign:DuFr%% Met by [[Riswynn]] on May 9th, 1748 in [[Tharn Todor]], [[Nardith]], the [[Yuvanti Mountains]] %%^End%%
+>> %%^Campaign:grli%% Met by the [[Silver Tempests]] on June 2nd, 1747 in [[Goldpeak Mines]], [[Goldpeak Mountain]], the [[Fiatara Mountains]] %%^End%%  
+>> %%^Campaign:dufr%% Met by [[Riswynn]] on May 9th, 1748 in [[Tharn Todor]], [[Nardith]], the [[Yuvanti Mountains]] %%^End%%
 
 Oskar grew up in [[Nardith]], in [[Tharn Todor]]. His parents were retired travelers and explorers, who now owned an inn, [[The Red Shield]]. He grew up around weapons, training with scimitars and crossbows from a young age, encouraged by his two older sisters.
 

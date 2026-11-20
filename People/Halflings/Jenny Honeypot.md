@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: halfling
 gender: female
 campaignInfo:
@@ -20,7 +20,7 @@ POV: 1740s
 >[!info]+ Biographical Info  
 > A [[Halflings|halfling]] (she/her)  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:DuFr%% Met by [[Riswynn]] on May 31th, 1748 on the [[Yuvanti Mountains|road between Tharn Todor and Nayahar]] %%^End%%
+>> %%^Campaign:dufr%% Met by [[Riswynn]] on May 31th, 1748 on the [[Yuvanti Mountains|road between Tharn Todor and Nayahar]] %%^End%%
 
 Jenny Honeypot is a halfling merchant, wife of [[Mica Honeypot]], who operates a small caravan through the [[Yuvanti Mountains]], carrying trade between the dwarves and [[Nayahar]]. Jenny is the leader of the operation.
 
@@ -46,5 +46,5 @@ Temporal coverage: a late-1740s portrait of Jenny as leader of a Yuvanti trading
 
 ### Open findings
 
-- [ ] **Suggestion — syntax.noncanonical_campaign_block:** The existing generated encounter line uses `%%^Campaign:DuFr%%`; the canonical registry code is `dufr`. Regenerate that header from the now-canonical campaignInfo entry, or replace only the opening marker with `%%^Campaign:dufr%%`, retaining the line and its boundaries. The generated header and visibility marker were preserved for human review.
+- [ ] **Suggestion — syntax.noncanonical_campaign_block:** The existing generated encounter line uses `%%^Campaign:dufr%%`; the canonical registry code is `dufr`. Regenerate that header from the now-canonical campaignInfo entry, or replace only the opening marker with `%%^Campaign:dufr%%`, retaining the line and its boundaries. The generated header and visibility marker were preserved for human review.
 %%^End%%

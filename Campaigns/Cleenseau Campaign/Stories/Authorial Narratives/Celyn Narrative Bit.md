@@ -1,6 +1,6 @@
 ---
-tags: [story,]
-campaign: Cleenseau
+tags: [story, status/check/ai]
+campaign: clee
 DR: 1720-03-01
 POV: 1720
 ---

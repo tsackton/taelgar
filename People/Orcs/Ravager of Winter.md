@@ -2,14 +2,14 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-09-05T23:30:02-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: orc
 died: 1729-08-28
 gender: female
 name: Ravager of Winter
 whereabouts:
   - {type: away, start: 1729-08-01, end: 1729-08-28, location: Zimkova}
-knownTo: [itc]
+knownTo: [chasm]
 POV: 1729
 ---
 # Ravager of Winter

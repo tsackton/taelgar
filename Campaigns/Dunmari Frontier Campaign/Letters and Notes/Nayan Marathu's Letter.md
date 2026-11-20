@@ -2,8 +2,8 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-20T09:21:00-04:00"
 lintVersion: "3.5"
-tags: [source, status/stub]
-campaign: Dunmar Frontier
+tags: [source, status/stub, status/check/ai]
+campaign: dufr
 name: "Nayan Marathu's Letter"
 POV: undated
 ---

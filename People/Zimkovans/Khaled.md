@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-09-05T23:30:02-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/mike]
+tags: [person, status/check/mike, status/check/ai]
 species: human
 ancestry: Zimka
 gender: male
@@ -11,7 +11,7 @@ pronunciation: KHAH-let
 whereabouts:
   - {type: home, location: Melusa, end: "1730-01-29"}
   - {type: away, location: Great Chasm, start: "1730-01-29"}
-knownTo: [itc]
+knownTo: [chasm]
 POV: 1730
 ---
 # Khaled

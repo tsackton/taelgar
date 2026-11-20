@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: halfling
 ancestry: null
 campaignInfo:
@@ -32,7 +32,7 @@ POV: 1748
 >> %%^Campaign:dufr%% Last seen by the [[Dunmar Fellowship]] on August 21th, 1748 in the [[Emerald Song]], [[Chardon]], the [[Chardonian Empire]] %%^End%%
 
 Oswalt Tealeaf is a halfling adventurer, archer, and scout. He grew up traveling the roads of Dunmar with the Tealeaf clan. 
-%%^Campaign:DuFr%%
+%%^Campaign:dufr%%
 After the Tealeaf clan encountered trouble with Agata Dustmother, and lost Garret Tealeaf, Oswalt decided to learn to defend himself, and picked up the shortbow. After spending several years traveling with his family on safe roads far from the frontier, he met and fell in love with Jasmine Sunmeadow in Darba, who also wanted to adventure, and they left together for the north on the [[Emerald Song]]. 
 ## Relationships
 - [[Garret Tealeaf]], cousin
@@ -75,7 +75,7 @@ Temporal coverage: a DR 1748 portrait of Oswalt as a newly married adventurer, w
 
 ### Open findings
 
-- [ ] **Suggestion — syntax.noncanonical_campaign_block:** The authored campaign section begins with `%%^Campaign:DuFr%%`; the canonical registry code is `dufr`. Replace that opening marker with `%%^Campaign:dufr%%`, retaining the existing boundaries and contents. This is proposed for human review because campaign markers control filtered visibility.
+- [ ] **Suggestion — syntax.noncanonical_campaign_block:** The authored campaign section begins with `%%^Campaign:dufr%%`; the canonical registry code is `dufr`. Replace that opening marker with `%%^Campaign:dufr%%`, retaining the existing boundaries and contents. This is proposed for human review because campaign markers control filtered visibility.
 
 - [ ] **Suggestion — editorial.shared_material_redundant:** The “old from onenote” comment substantially repeats the visible childhood, Agata attack, archery, and Jasmine account. Remove the duplicated prose while retaining its distinct kinship qualification for review. Copy-ready replacement comment: `%% Old notes describe Garret Tealeaf as Oswalt’s cousin twice removed. %%` This keeps the additional relationship detail noncanonical and nonpublic without retaining a second biography.
 

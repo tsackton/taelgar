@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:26:32-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-tags: [object, status/check/lint]
+tags: [object, status/check/lint, status/check/ai]
 typeOf: object of art
 typeOfAlias: fan
 name: Chardon Fan
@@ -19,7 +19,7 @@ POV: 1740s
 
 ![[chardon-fan.png|right|250]]A cotton and bamboo hand fan depicting the towers of [[Chardon]], the intricate design painted onto the fan by a very skilled artist.
 
-%%^Campaign:DuFr%%
+%%^Campaign:dufr%%
 Looted from [[Agata's Lair|Agata's hut]] by [[Dunmar Fellowship]]. Probably worth 10-180 gp.
 
 Carried by [[Kenzo]]. 
@@ -54,5 +54,5 @@ Temporal coverage: a campaign-era description of the fan while carried by Kenzo,
 
 ### Open findings
 
-- [ ] **Suggestion — syntax.noncanonical_campaign_block:** The opening marker `%%^Campaign:DuFr%%` uses a registry alias. [[Campaign Registry]] specifies the lowercase short code. Replace only that opening marker with `%%^Campaign:dufr%%`, preserving its contents and closing marker; confirm the intended filtered visibility when adopting the syntax change.
+- [ ] **Suggestion — syntax.noncanonical_campaign_block:** The opening marker `%%^Campaign:dufr%%` uses a registry alias. [[Campaign Registry]] specifies the lowercase short code. Replace only that opening marker with `%%^Campaign:dufr%%`, preserving its contents and closing marker; confirm the intended filtered visibility when adopting the syntax change.
 %%^End%%

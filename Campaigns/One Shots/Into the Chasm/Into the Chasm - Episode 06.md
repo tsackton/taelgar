@@ -2,8 +2,8 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-11-12T19:02:10-05:00"
 lintVersion: "3.5"
-tags: [session-note, status/check/lint]
-campaign: Into the Chasm
+tags: [session-note, status/check/lint, status/check/ai]
+campaign: chasm
 sessionNumber: 6
 realWorldDate: 2026-02-04
 DR: 1730-01-29

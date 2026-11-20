@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-09-05T16:06:33-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: beast
 subspecies: hawk
 gender: female
@@ -10,7 +10,7 @@ name: Rala
 pronunciation: RAH-lah
 affiliations: 
 - {org: Chasm Explorers, title: Companion}
-knownTo: [itc]
+knownTo: [chasm]
 player: Kate Sackton
 dm_owner: tim
 dm_notes: none

@@ -3,10 +3,10 @@ headerVersion: 2023.11.25
 lintedAt: "2026-11-12T19:02:10-05:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-tags: [session-note, status/check/lint]
+tags: [session-note, status/check/lint, status/check/ai]
 DR: 1748-04-24
 DR_end: 1748-06-03
-campaign: "Oskar's Adventures"
+campaign: "oskar"
 name: Oskar in Tharn Todor
 POV: 1748
 ---

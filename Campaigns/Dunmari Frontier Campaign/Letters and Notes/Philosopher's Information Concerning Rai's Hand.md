@@ -1,8 +1,8 @@
 ---
 lintedAt: "2026-10-20T09:21:00-04:00"
 lintVersion: "3.5"
-tags: [source]
-campaign: Dunmar Frontier
+tags: [source, status/check/ai]
+campaign: dufr
 name: "Philosopher's Information Concerning Rai's Hand"
 POV: 1749
 ---

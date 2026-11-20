@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
+tags: [session-note, status/check/ai]
 websiteSessionView: zoomable
-campaign: Cleenseau
+campaign: clee
 sessionNumber: 11.1
 realWorldDate: 2024-03-10
 DR: 1720-01-11

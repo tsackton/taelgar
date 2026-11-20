@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: fey
 subspecies: nymph
 campaignInfo:
@@ -20,7 +20,7 @@ POV: 1748
 >[!info]+ Biographical Info
 > A [[Fey|fey]] ([[Fey|nymph]]) (she/her)
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on November 15th, 1748 in [[Amberglow]], the [[Feywild]] %%^End%%
+>> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on November 15th, 1748 in [[Amberglow]], the [[Feywild]] %%^End%%
 
 A water nymph in [[Amberglow]]. She resides in a small, secluded grotto near a river, overgrown with vines and foliage. 
 
@@ -48,7 +48,7 @@ Temporal coverage: a DR 1748 snapshot of Melusine residing in her Amberglow grot
 
 - [ ] **Warning — metadata.names_unresolved_status:** Review `meh-loo-SEEN` in `Metadata:names:v1`: meh, an oo vowel, an s consonant, and final stressed seen are a cautious spelling-based proposal. [[Languages]] explicitly gives Sylvan no fixed analogue; its Greek examples and possible Polynesian or Hawaiian inspirations do not establish this name's pronunciation. Accept it into frontmatter and mark the entry documented, or supply the intended form.
 - [ ] **Warning — campaign.encounter_date_conflict:** The campaignInfo date and generated header say November 15, 1748, but the Timeline of [[Session 67 (DuFr)]] places the water-nymph meeting on November 14 and the exit from the Feywild on November 15. Confirm the intended material-plane date. If following the session timeline, use `{campaign: dufr, type: met, date: 1748-11-14}` and update the displayed encounter date to November 14; retain the current date only with a documented reason for the distinction.
-- [ ] **Suggestion — syntax.noncanonical_campaign_block:** The header block uses `%%^Campaign:DuFr%%`; the canonical registry code is `dufr`. Replace that opening marker with `%%^Campaign:dufr%%`, preserving the enclosed text and closing marker.
+- [ ] **Suggestion — syntax.noncanonical_campaign_block:** The header block uses `%%^Campaign:dufr%%`; the canonical registry code is `dufr`. Replace that opening marker with `%%^Campaign:dufr%%`, preserving the enclosed text and closing marker.
 
 ### DM evidence
 - [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Feywild (Session 61)/Session 61/Session 61]]

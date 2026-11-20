@@ -2,8 +2,8 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-11-12T19:02:10-05:00"
 lintVersion: "3.5"
-tags: [session-note]
-campaign: Great Library
+tags: [session-note, status/check/ai]
+campaign: grli
 DR: 1747-12-24
 DR_end: 1748-08-25
 name: Chronicles of the Silver Tempests Ascendant

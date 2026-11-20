@@ -2,8 +2,8 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-20T09:38:32-04:00"
 lintVersion: "3.5"
-tags: [source]
-campaign: Cleenseau
+tags: [source, status/check/ai]
+campaign: clee
 name: Report on the Bogblight
 POV: 1660s
 ---

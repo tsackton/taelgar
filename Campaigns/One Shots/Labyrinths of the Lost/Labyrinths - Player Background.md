@@ -1,9 +1,9 @@
 ---
 lintedAt: "2026-11-12T19:02:10-05:00"
 lintVersion: "3.5"
-tags: [meta, status/check/lint]
+tags: [meta, status/check/lint, status/check/ai]
 noPublish: true
-campaign: Labyrinths of the Lost
+campaign: lablost
 name: Labyrinths - Player Background
 POV: 1748
 ---

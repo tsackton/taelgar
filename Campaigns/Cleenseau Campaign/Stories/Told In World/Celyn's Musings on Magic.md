@@ -1,10 +1,10 @@
 ---
 lintedAt: "2026-10-20T09:49:52-04:00"
 lintVersion: "3.5"
-tags: [source]
+tags: [source, status/check/ai]
 DR: 1720-01-12
 DR_end: 1720-01-13
-campaign: Cleenseau
+campaign: clee
 name: "Celyn's Musings on Magic"
 POV: 1720
 ---

@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-23T16:50:31-04:00"
 lintVersion: "3.5"
-tags: [background, status/gameupdate/gl, status/gameupdate/dufr]
+tags: [background, status/gameupdate/grli, status/gameupdate/dufr, status/check/ai]
 name: Politics of Chalyte (Chardonian Empire)
 dm_owner: tim
 dm_notes: none

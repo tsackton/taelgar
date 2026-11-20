@@ -1,7 +1,7 @@
 ---
 tags: [session-note, status/check/ai]
 name: "Interlude: After the Trial"
-campaign: Cleenseau
+campaign: clee
 realWorldDate: 2025-10-09
 DR: 1720-03-24
 players: [Celyn]

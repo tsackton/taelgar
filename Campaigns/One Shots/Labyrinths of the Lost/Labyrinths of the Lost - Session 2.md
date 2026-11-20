@@ -2,8 +2,8 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-11-12T19:02:10-05:00"
 lintVersion: "3.5"
-tags: [session-note]
-campaign: Labyrinths of the Lost
+tags: [session-note, status/check/ai]
+campaign: lablost
 sessionNumber: 2
 realWorldDate: 2023-11-25
 DR: 1748-10-17

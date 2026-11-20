@@ -1,9 +1,9 @@
 ---
 lintedAt: "2026-11-12T19:02:10-05:00"
 lintVersion: "3.5"
-tags: [meta]
+tags: [meta, status/check/ai]
 hide: [toc]
-campaign: Mawar Adventures
+campaign: mawar
 name: Mawar Adventures
 POV: 1740s
 ---

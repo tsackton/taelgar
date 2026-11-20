@@ -1,8 +1,8 @@
 ---
 lintedAt: "2026-08-23T12:50:50-04:00"
 lintVersion: "3.5"
-tags: [session-note]
-campaign: Dunmar Frontier
+tags: [session-note, status/check/ai]
+campaign: dufr
 sessionNumber: 53
 realWorldDate: 2022-07-31
 DR: 1748-09-30

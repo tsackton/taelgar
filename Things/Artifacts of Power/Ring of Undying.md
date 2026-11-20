@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:07:38-04:00"
 lintVersion: "3.5"
 displayDefaults: {wPastHome: "Was owned by: <current:1>", dPast: "Destroyed by [[Wellby]] on <endDate>"}
-tags: [object, status/check/lint]
+tags: [object, status/check/lint, status/check/ai]
 typeOf: ring
 rarity: unique
 destroyed: 1749-01-20
@@ -27,7 +27,7 @@ The ring was rumored to have been created by an ancient elven wizard from the ea
 
 How this elf lost the ring is not told, but it reappeared in Drankor, during the golden age, to much consternation. The ring, it is said, would draw the life force of anyone near the wearer when the wearer died, using this life energy to keep the wearer from dying. An attempt was made to destroy it, but it failed, and the ring was lost again. 
 
-%%^Campaign:DuFr%%
+%%^Campaign:dufr%%
 The ring of undying was [[Session 88 (DuFr)|ultimately destroyed]] during the [[Battle for Uzgukhar]], by [[Wellby]] of the [[Dunmar Fellowship]]. 
 %%^End%%
 
@@ -53,7 +53,7 @@ Temporal coverage: a modern retrospective description of the ring's reported ori
 
 ### Open findings
 
-- [ ] **Suggestion — syntax.noncanonical_campaign_block:** The destruction paragraph begins with `%%^Campaign:DuFr%%`. [[Campaign Registry]] requires the canonical lowercase code. Replace only that opening marker with `%%^Campaign:dufr%%`, preserving the paragraph and its closing marker; the visibility-bearing structure remains a human proposal.
+- [ ] **Suggestion — syntax.noncanonical_campaign_block:** The destruction paragraph begins with `%%^Campaign:dufr%%`. [[Campaign Registry]] requires the canonical lowercase code. Replace only that opening marker with `%%^Campaign:dufr%%`, preserving the paragraph and its closing marker; the visibility-bearing structure remains a human proposal.
 
 ### DM evidence
 - [[_DM_/Timelines/Uncategorized Events]]

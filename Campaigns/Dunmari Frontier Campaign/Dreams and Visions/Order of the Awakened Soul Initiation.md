@@ -1,8 +1,8 @@
 ---
 lintedAt: "2026-10-20T09:08:30-04:00"
 lintVersion: "3.5"
-tags: [source]
-campaign: Dunmar Frontier
+tags: [source, status/check/ai]
+campaign: dufr
 name: Order of the Awakened Soul Initiation
 POV: 1748
 ---

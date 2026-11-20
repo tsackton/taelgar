@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: dwarf
 gender: female
 campaignInfo:
@@ -22,7 +22,7 @@ POV: 1740s
 > A [[Dwarves|dwarf]] (she/her), of the [[Shockstones]]  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:GL%% Met by the [[Silver Tempests]] on December 5th, 1747 in [[Zarkandur]], [[Am'khazar]], [[Sentinel Range|Labkhan]] %%^End%%
+>> %%^Campaign:grli%% Met by the [[Silver Tempests]] on December 5th, 1747 in [[Zarkandur]], [[Am'khazar]], [[Sentinel Range|Labkhan]] %%^End%%
 
 Diesa is a prominent and wealthy dwarf, one of the elite of [[Zarkandur]]. She is also [[Brelith]]'s mother and [[Osrik]]'s wife. 
 
@@ -48,5 +48,5 @@ Temporal coverage: a late-1740s portrait of her wealth, family relationships, an
 ### Open findings
 
 - [ ] **Warning — metadata.names_unresolved_status:** The persistent name entry proposes `DEE-eh-sah SHOK-stohn`. This uses the Tolkien Dwarvish analogue in [[Languages]] as guidance: separate i/e/a vowel sounds, plain d and s consonants, and tentative first-syllable stress; `SHOK-stohn` follows the family name in [[Brelith]]. The analogue does not establish this name’s source language or vowel grouping. Confirm or replace the proposal, then set `status: documented` and copy the accepted complete pronunciation to frontmatter.
-- [ ] **Suggestion — syntax.noncanonical_campaign_block:** The existing generated encounter line uses `%%^Campaign:GL%%`; its canonical registry code is `grli`. Regenerate the line from campaignInfo or replace only the opening marker with `%%^Campaign:grli%%`, preserving the line and its boundaries. The generated header and visibility marker were retained for human review.
+- [ ] **Suggestion — syntax.noncanonical_campaign_block:** The existing generated encounter line uses `%%^Campaign:grli%%`; its canonical registry code is `grli`. Regenerate the line from campaignInfo or replace only the opening marker with `%%^Campaign:grli%%`, preserving the line and its boundaries. The generated header and visibility marker were retained for human review.
 %%^End%%

@@ -2,8 +2,8 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-20T09:08:30-04:00"
 lintVersion: "3.5"
-tags: [source]
-campaign: Dragonets
+tags: [source, status/check/ai]
+campaign: dragonets
 name: The Shared Vision of Home
 POV: undated
 ---

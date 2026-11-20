@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
+tags: [session-note, status/check/ai]
 websiteSessionView: zoomable
-campaign: Cleenseau
+campaign: clee
 arc:
 sessionNumber: 34
 realWorldDate: 2026-05-31

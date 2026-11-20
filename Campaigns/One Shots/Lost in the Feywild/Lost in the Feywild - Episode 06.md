@@ -2,8 +2,8 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-11-12T19:02:10-05:00"
 lintVersion: "3.5"
-tags: [session-note]
-campaign: Lost in the Feywild
+tags: [session-note, status/check/ai]
+campaign: feywild
 sessionNumber: 6
 realWorldDate: 2026-07-27
 DR: 1740-10-06
