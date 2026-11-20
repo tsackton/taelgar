@@ -9,7 +9,7 @@ Guide an interactive illustration session from an existing note to explicitly ap
 
 ## 1. Read the target and select image targets
 
-Accept a note path/name, campaign and session identifier, full session note, or session recap. Resolve campaign identities and session paths through `../../../_scripts/session_note_campaigns.json`. A recap and a full session note are both valid starting points; neither requires creating the other. If both exist, identify the working source and the matching recap for possible later attachments. Preserve disagreements for review rather than silently reconciling them.
+Accept a note path/name, campaign and session identifier, full session note, or session recap. Resolve campaign identities and session paths through `../../../_sessions/campaign-registry.json`. A recap and a full session note are both valid starting points; neither requires creating the other. If both exist, identify the working source and the matching recap for possible later attachments. Preserve disagreements for review rather than silently reconciling them.
 
 Read the complete target, including comments and frontmatter. For long documents, inspect all sections before proposing coverage. For recaps, read the current accepted or human-edited file; tolerate removed or changed fields and do not validate, rebuild, or repair its generated structure. Use the source's actual headings or recap scene IDs to anchor proposals.
 

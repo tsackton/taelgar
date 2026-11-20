@@ -749,70 +749,20 @@ function scanEvidenceText({ text, sourcePath, channel, index, formMatcher, trans
 
 function loadCampaignDefinitions(root) {
   const definitions = new Map();
-  const sessionConfigPath = path.join(root, "_scripts", "session_note_campaigns.json");
-  if (fs.existsSync(sessionConfigPath)) {
-    const payload = JSON.parse(fs.readFileSync(sessionConfigPath, "utf8"));
-    for (const [slug, raw] of Object.entries(payload.campaigns || {})) {
-      definitions.set(slug, {
-        slug,
-        name: raw.name || slug,
-        aliases: new Set([slug, raw.name, raw.code, ...(raw.aliases || [])].filter(Boolean)),
-        sessionRoot: raw.sessionRoot || "",
-        campaignRoot: normalizeSlashes(raw.campaignRoot || ""),
-        notePattern: raw.notePattern || "",
-        code: raw.code || slug,
-        official: true,
-      });
-    }
-  }
-  const metadataPath = path.join(root, ".obsidian", "metadata.json");
-  if (fs.existsSync(metadataPath)) {
-    const payload = JSON.parse(fs.readFileSync(metadataPath, "utf8"));
-    for (const campaign of payload.campaigns || []) {
-      const folder = normalizeSlashes(campaign.sessionNoteFolder || "");
-      let definition = [...definitions.values()].find((candidate) =>
-        folder && candidate.campaignRoot && folder.startsWith(candidate.campaignRoot)
-      );
-      if (!definition) {
-        const aliases = [campaign.code, ...(campaign.aliases || [])].map(normalizeKey);
-        definition = [...definitions.values()].find((candidate) =>
-          [...candidate.aliases].some((alias) => aliases.includes(normalizeKey(alias)))
-        );
-      }
-      if (!definition) {
-        const baseName = (campaign.aliases || [])[0] || campaign.code || path.posix.basename(folder);
-        const slug = normalizeKey(baseName).replace(/\s+/g, "-") || `campaign-${definitions.size + 1}`;
-        definition = {
-          slug,
-          name: baseName,
-          aliases: new Set([slug]),
-          sessionRoot: "",
-          campaignRoot: folder ? path.posix.dirname(folder) : "",
-          notePattern: "",
-          code: campaign.code || slug,
-        };
-        definitions.set(slug, definition);
-      }
-      if (!definition.official) {
-        definition.code = campaign.code || definition.code;
-        definition.name = (campaign.aliases || [])[0] || definition.name;
-      }
-      definition.sessionNoteFolder = folder;
-      for (const alias of [campaign.code, ...(campaign.aliases || [])]) {
-        if (alias) definition.aliases.add(alias);
-      }
-    }
-  }
-  for (const definition of definitions.values()) {
-    if (definition.campaignRoot) {
-      const base = path.posix.basename(definition.campaignRoot)
-        .replace(/\s+Campaign$/i, "")
-        .trim();
-      if (base) definition.aliases.add(base);
-    }
-    definition.aliases.add(definition.slug);
-    definition.aliases.add(definition.name);
-    definition.aliasKeys = new Set([...definition.aliases].map(normalizeKey).filter(Boolean));
+  const indexPath = path.join(root, "_sessions", "campaign-registry.json");
+  if (!fs.existsSync(indexPath)) return definitions;
+  const index = JSON.parse(fs.readFileSync(indexPath, "utf8"));
+  for (const [id, target] of Object.entries(index)) {
+    const fields = parseFrontmatter(splitFrontmatter(fs.readFileSync(path.join(root, target), "utf8")).lines);
+    const name = fieldScalar(fields, "name");
+    if (!name) throw new Error("Missing campaign name in " + target);
+    const campaignRoot = fieldScalar(fields, "campaignDirectory");
+    const notePattern = fieldScalar(fields, "notePattern");
+    const relative = path.posix.dirname(notePattern || ".");
+    definitions.set(id, {slug:id, code:id, name, campaignRoot, notePattern,
+      sessionRoot:fieldScalar(fields, "sessionBundleDirectory").replace(/^_sessions\//, ""),
+      sessionNoteFolder: campaignRoot && (relative === "." ? campaignRoot : path.posix.join(campaignRoot, relative)),
+      aliasKeys:new Set([normalizeKey(id), normalizeKey(name)])});
   }
   return definitions;
 }
@@ -833,7 +783,7 @@ function campaignFor(value, sourcePath, definitions) {
   for (const definition of definitions.values()) {
     if (definition.aliasKeys.has(key)) return definition.slug;
   }
-  return key.replace(/\s+/g, "-");
+  return "unknown";
 }
 
 function sessionNumberFrom(...values) {

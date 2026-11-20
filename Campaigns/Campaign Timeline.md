@@ -7,6 +7,8 @@ noPublish: true
 # Campaign Session Timeline
 
 ```dataviewjs
+await customJS.init.invoke();
+const displayName = new Map(customJS.state.campaignRegistry.map(c => [c.code, c.name]));
 const { DateManager } = customJS;
 
 const frontmatterFor = page => {
@@ -63,7 +65,7 @@ const sessions = dv.pages('"Campaigns"')
 
     return {
       page,
-      campaign: String(frontmatter.campaign),
+      campaign: displayName.get(String(frontmatter.campaign)) ?? String(frontmatter.campaign),
       sessionNumber: frontmatter.sessionNumber,
       start,
       end: explicitEnd ?? start,

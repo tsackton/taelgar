@@ -16,6 +16,9 @@ from typing import Any, Dict, List, Optional, Sequence, Tuple
 
 import yaml
 
+sys.path.insert(0, str(Path(__file__).resolve().parents[4] / '_scripts'))
+from campaign_registry import load_campaigns
+
 
 SOURCE_TYPE_TRANSCRIPT = "transcript"
 SOURCE_TYPE_NARRATIVE = "narrative"
@@ -144,6 +147,36 @@ def main() -> int:
         source_path=source_path,
     )
     output_parent_dir = Path(options["outputDir"]).expanduser().resolve()
+    vault = next((parent for parent in output_parent_dir.parents
+                  if (parent / '_sessions/campaign-registry.json').is_file()), None)
+    if vault:
+        campaigns = load_campaigns(vault)
+        owners = [key for key, row in campaigns.items() if row.get('sessionBundleDirectory')
+                  and (vault / row['sessionBundleDirectory']).resolve() == output_parent_dir]
+        if len(owners) != 1:
+            raise SystemExit(f"Expected one campaign registered for {output_parent_dir}")
+        campaign_id = owners[0]
+        if options["campaign"] in campaigns and options["campaign"] != campaign_id:
+            raise SystemExit(f"Campaign {options['campaign']} does not own {output_parent_dir}")
+        # A rerun must find its original stem even when the source configuration now uses an ID.
+        matches = []
+        for manifest_path in output_parent_dir.glob("*/cleaned/*-session.yaml"):
+            prior = load_yaml_mapping(manifest_path)
+            if prior.get("scope", "session") != options["scope"]:
+                continue
+            if options["scope"] == "arc":
+                same = Path(str(prior.get("sourceConfigPath", ""))).name == config_path.name
+            else:
+                same = str(prior.get("sessionNumber")) == str(options.get("sessionNumber"))
+            if same:
+                matches.append(manifest_path.parent.parent.name)
+        if len(matches) > 1:
+            raise SystemExit(f"Multiple existing bundles match {config_path}: {matches}")
+        if matches:
+            bundle_stem = matches[0]
+        elif options["campaign"] != campaign_id:
+            raise SystemExit(f"Use campaign: {campaign_id} for a new bundle in {output_parent_dir}")
+        options["campaign"] = campaign_id
     output_dir = output_parent_dir / bundle_stem
     sources_dir = output_dir / "sources"
     cleaned_dir = output_dir / "cleaned"

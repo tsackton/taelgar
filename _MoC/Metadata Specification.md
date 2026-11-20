@@ -97,7 +97,7 @@ knownTo: [dufr]
 Session notes are expected to link to people/places/items that appear in them. A “Campaign Interactions” section on the subject page can be generated from session-note backlinks (first/most recent/other mentions) and can optionally suggest missing `knownTo` codes when it finds session links for a campaign not listed in `knownTo`.
 
 **Campaign configuration.**  
-Canonical campaign names, lowercase codes, aliases, and session paths are defined in `_scripts/session_note_campaigns.json`; see [[Campaign Registry]]. The older campaign list in `.obsidian/metadata.json` is a compatibility copy and is not authoritative for linting.
+Campaign IDs are the keys of `_sessions/campaign-registry.json`. Index notes supply display names, party pages and session paths. See [[Campaign Registry]].
 
 ### Display and header control
 

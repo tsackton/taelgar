@@ -21,7 +21,7 @@ Accept one or more note paths, note names, or campaign/session identifiers. Reso
 
 ### Session sources and recap mode
 
-Resolve campaign names, codes, aliases, and expected final-note locations using `../../../_scripts/session_note_campaigns.json`. Verify the actual files and session identity rather than assuming a constructed filename exists. Preserve fractional or otherwise distinctive session identifiers.
+Resolve campaign IDs, display names, and expected final-note locations using `../../../_sessions/campaign-registry.json`. Verify the actual files and session identity rather than assuming a constructed filename exists. Preserve fractional or otherwise distinctive session identifiers.
 
 Choose the collection source separately for each session:
 

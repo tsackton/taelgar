@@ -15,8 +15,8 @@ This skill owns bundle creation and stops at a prepared bundle. Its job is to cr
 Start by gathering or inferring:
 
 - recording or transcript path, usually under `/Users/tim/Documents/RPGs/sessions/recordings/`
-- campaign name as it should appear in `campaign`
-- vault output directory, usually `/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/<campaign-slug>`
+- campaign ID from `_sessions/campaign-registry.json`
+- vault output directory, usually `/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/<registered-bundle-directory-name>`
 - session number and real-world date
 - in-world `drStart`, `drEnd`, `drStartTime`, and `drEndTime`
 
@@ -33,7 +33,7 @@ The `.m4a` recording with the same stem is inferred by `prepare_source.py` and w
 Read existing nearby configs before drafting:
 
 ```bash
-find /path/to/vault/_sessions/<campaign-slug> -maxdepth 2 -type f \
+find /path/to/vault/_sessions/<registered-bundle-directory-name> -maxdepth 2 -type f \
   \( -name '*source-prep.yaml' -o -name '*speaker-mappings.json' -o -name '*participants.yaml' \)
 ```
 
@@ -42,7 +42,7 @@ Use the latest prior session as the model for:
 - source-prep filename pattern, for example `feywild-ep04-source-prep.yaml`
 - speaker-mapping filename pattern, for example `feywild-ep04-speaker-mappings.json`
 - participant roster path
-- campaign display name
+- campaign ID from the index
 - output directory
 - a possible `drStart` anchor when the session continues directly; leave an unknown `drEnd` blank
 
@@ -67,9 +67,9 @@ The config should use this shape for transcript sessions:
 ```yaml
 sourcePath: /absolute/path/to/GMT..._Recording.transcript.vtt
 sourceType: transcript
-outputDir: "/absolute/path/to/Taelgar/_sessions/<campaign-slug>"
+outputDir: "/absolute/path/to/Taelgar/_sessions/<registered-bundle-directory-name>"
 
-campaign: Campaign Display Name
+campaign: feywild
 sessionNumber: 4
 realWorldDate: YYYY-MM-DD
 drStart: YYYY-MM-DD
@@ -77,7 +77,7 @@ drEnd: YYYY-MM-DD
 drStartTime:
 drEndTime:
 
-participantsPath: "/absolute/path/to/Taelgar/_sessions/<campaign-slug>/<participants>.yaml"
+participantsPath: "/absolute/path/to/Taelgar/_sessions/<registered-bundle-directory-name>/<participants>.yaml"
 
 transcriptFormat: auto
 narrativeUnit: sentence

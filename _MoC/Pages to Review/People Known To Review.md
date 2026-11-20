@@ -7,8 +7,8 @@ This view includes indexed `#person` notes, including people outside the People 
 Campaigns and directories come from [[Campaign Registry]] and its configuration. See [[Metadata Specification#KnownTo Framework|KnownTo Framework]] for the meaning of the field. Requires Dataview JavaScript queries; tables update when Dataview refreshes after note edits.
 
 ```dataviewjs
-const registry = JSON.parse(await dv.app.vault.adapter.read("_scripts/session_note_campaigns.json"));
-const campaigns = Object.values(registry.campaigns).sort((a, b) => a.name.localeCompare(b.name));
+await customJS.init.invoke();
+const campaigns = [...customJS.state.campaignRegistry].sort((a, b) => a.name.localeCompare(b.name));
 const values = value => value == null ? [] : Array.isArray(value) ? value :
     typeof value.array === "function" ? value.array() : [value];
 const people = dv.pages("#person").array();
@@ -66,11 +66,11 @@ const knownText = p => {
 };
 function render() {
     const selected = campaigns.find(c => c.code === campaign.value);
-    const prefix = selected.campaignRoot.replace(/\/$/, "") + "/";
+    const prefix = (selected.campaignRoot || "").replace(/\/$/, "") + "/";
     const rows = people.map(person => {
         // Dataview resolves aliased, relative, and heading links to their target file.
         const sources = [...new Set(values(person.file.inlinks).map(l => l.path))]
-            .filter(path => path.startsWith(prefix)).sort();
+            .filter(path => selected.campaignRoot && path.startsWith(prefix)).sort();
         const known = values(person.knownTo).some(code => code === selected.code);
         const interactions = values(person.campaignInfo)
             .filter(info => info && String(info.campaign).toLowerCase() === selected.code);

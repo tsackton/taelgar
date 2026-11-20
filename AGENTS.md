@@ -87,7 +87,7 @@ Before changing metadata, review [[Note Categorization]] and [[Metadata Specific
 - Follow the exact field-group order and YAML list/dictionary formatting in [[Taelgar Note Linter#Frontmatter]]. This formatting reference does not authorize a lint or unrelated normalization.
 - Use `species` as a person’s primary classification and the documented `typeOf` for non-person subjects when required. Do not substitute `subTypeOf`.
 - Add metadata only when supported or required by the template.
-- `_scripts/session_note_campaigns.json` owns campaign identities: use its canonical long `name` for `campaign`, and lowercase `code` for `knownTo`, `campaignInfo`, and `Campaign:*` blocks. Aliases are resolution inputs, not canonical authored values. Positive `audience` semantics remain an underdeveloped design question.
+- The keys of `_sessions/campaign-registry.json` are the canonical IDs in `campaign`, `knownTo`, `campaignInfo`, and `Campaign:*` blocks. Read display names and paths from the linked index notes. Positive `audience` semantics remain an underdeveloped design question.
 
 ### Status lifecycle
 

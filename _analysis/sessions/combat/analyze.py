@@ -25,6 +25,8 @@ import yaml
 sys.dont_write_bytecode = True
 OUTPUT = Path(__file__).resolve().parent
 VAULT = OUTPUT.parents[2]
+sys.path.insert(0, str(VAULT / '_scripts'))
+from campaign_registry import load_campaigns
 sys.path.insert(0, str(VAULT / '.agents/skills/extract-session-structure/scripts'))
 import render_review as review
 
@@ -129,8 +131,9 @@ def timing_blocks(bundle, segments):
 
 
 def collect(metadata):
-    registry_path = VAULT / '_scripts/session_note_campaigns.json'
-    registry = json.loads(registry_path.read_text())['campaigns']
+    registry_path = VAULT / '_sessions/campaign-registry.json'
+    registry = load_campaigns(VAULT)
+    index = json.loads(registry_path.read_text())
     sessions, encounters = [], []
     roster_path = OUTPUT / 'enemy-rosters.yaml'
     roster_data = yaml.safe_load(roster_path.read_text())
@@ -145,7 +148,8 @@ def collect(metadata):
 
     for campaign in metadata['campaign_keys']:
         identity = registry[campaign]
-        root = VAULT / '_sessions' / identity['sessionRoot']
+        fingerprints[index[campaign]] = sha(VAULT / index[campaign])
+        root = VAULT / identity['sessionBundleDirectory']
         for manifest in sorted(root.glob('*/cleaned/*-session.yaml')):
             data = yaml.safe_load(manifest.read_text())
             session_id = manifest.name.removesuffix('-session.yaml')
@@ -376,7 +380,7 @@ def combat_table(encounters, metadata):
         'fight. This table covers the surviving extracted encounters.', '']
     for campaign in metadata['campaign_keys']:
         rows = [row for row in encounters if row['campaign_key'] == campaign]
-        name = 'Dunmari Frontier' if campaign == 'dunmar-frontier' else rows[0]['campaign']
+        name = 'Dunmari Frontier' if campaign == 'dufr' else rows[0]['campaign']
         lines += [f'## {name}', '']
         cells = []
         for row in rows:
@@ -406,11 +410,11 @@ def combat_table(encounters, metadata):
 
 
 def matched_groups(encounters, metadata):
-    eligible = [row for row in encounters if row['campaign_key'] == 'dunmar-frontier'
+    eligible = [row for row in encounters if row['campaign_key'] == 'dufr'
                 and row['include_in_speed_summary'] and not row['split_adventure']]
     results = []
     window = timedelta(days=metadata['matched_comparison']['days_either_side'])
-    for gathering in metadata['play_formats']['dunmar-frontier']['in_person']:
+    for gathering in metadata['play_formats']['dufr']['in_person']:
         name = gathering['gathering']
         local = [row for row in eligible if row['gathering'] == name]
         if not local:
@@ -442,7 +446,7 @@ def make_figures(sessions, encounters, matches):
                          'axes.grid': True, 'grid.alpha': 0.16, 'savefig.dpi': 170})
     rng = np.random.default_rng(116)
     blue, orange = '#285e7d', '#c26d36'
-    selected = [row for row in encounters if row['campaign_key'] == 'dunmar-frontier'
+    selected = [row for row in encounters if row['campaign_key'] == 'dufr'
                 and row['include_in_speed_summary']]
 
     def save(fig, name):
@@ -537,7 +541,7 @@ def make_figures(sessions, encounters, matches):
     fig.tight_layout(rect=(0, 0, 1, 0.95))
     save(fig, 'full-party-normalized-by-level.png')
 
-    timed = [row for row in sessions if row['campaign_key'] == 'dunmar-frontier'
+    timed = [row for row in sessions if row['campaign_key'] == 'dufr'
              and row['recording_minutes'] is not None]
     fig, axes = plt.subplots(2, 1, figsize=(12, 6.8), sharex=True)
     ordered = sorted(timed, key=lambda row: (row['real_world_date'], row['session_number']))
@@ -562,8 +566,8 @@ def make_figures(sessions, encounters, matches):
     save(fig, 'session-time.png')
 
     fig, axes = plt.subplots(1, 2, figsize=(12, 4.6), gridspec_kw={'width_ratios': [1.4, 1]})
-    campaign_order = ['dunmar-frontier', 'mawar-adventures', 'into-the-chasm',
-                      'labyrinths-of-the-lost', 'lost-in-the-feywild']
+    campaign_order = ['dufr', 'mawar', 'chasm',
+                      'lablost', 'feywild']
     names = ['Dunmari Frontier', 'Mawar', 'Into the Chasm', 'Labyrinths', 'Lost in the Feywild']
     for y, (key, name) in enumerate(zip(campaign_order, names)):
         rows = [row for row in encounters if row['campaign_key'] == key
@@ -594,9 +598,9 @@ def make_figures(sessions, encounters, matches):
 
 def make_report(sessions, encounters, metadata, matches):
     eligible = [row for row in encounters if row['include_in_speed_summary']]
-    dunmari = [row for row in eligible if row['campaign_key'] == 'dunmar-frontier']
+    dunmari = [row for row in eligible if row['campaign_key'] == 'dufr']
     timed = [row for row in sessions if row['recording_minutes'] is not None]
-    dsessions = [row for row in timed if row['campaign_key'] == 'dunmar-frontier']
+    dsessions = [row for row in timed if row['campaign_key'] == 'dufr']
     overall = summary(dunmari)
     pace_quartiles = statistics.quantiles([row['minutes_per_round'] for row in dunmari],
                                           n=4, method='inclusive')
@@ -644,7 +648,7 @@ def make_report(sessions, encounters, metadata, matches):
         ss = [row for row in sessions if row['campaign_key'] == key]
         ts = [row for row in ss if row['recording_minutes'] is not None]
         ee = [row for row in eligible if row['campaign_key'] == key]
-        name = 'Dunmari Frontier' if key == 'dunmar-frontier' else ss[0]['campaign']
+        name = 'Dunmari Frontier' if key == 'dufr' else ss[0]['campaign']
         combat_count = sum(row['recorded_combats'] for row in ts)
         combat_share = 100 * sum(row['combat_minutes'] for row in ts) / sum(row['recording_minutes'] for row in ts)
         coverage_rows.append([name, len(ss), len(ts), combat_count,

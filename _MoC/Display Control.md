@@ -335,7 +335,7 @@ These keys are templates for party‑meeting lines driven by `campaignInfo`:
 
 Per‑entry overrides in `campaignInfo`, using `format`, replace the defaults. 
 
-Canonical campaign codes and party-page mappings are maintained in [[Campaign Registry]] and `_scripts/session_note_campaigns.json`. `campaignInfo`, `knownTo`, and campaign blocks use the registry's lowercase codes.
+Canonical campaign codes and party-page mappings are maintained in [[Campaign Registry]] and `_sessions/campaign-registry.json`. `campaignInfo`, `knownTo`, and campaign blocks use the registry's lowercase codes.
 
 ---
 

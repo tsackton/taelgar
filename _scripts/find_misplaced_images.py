@@ -93,16 +93,21 @@ def is_source(path: Path, relative: str) -> bool:
     return not (relative.startswith(".obsidian/plugins/") and re.fullmatch(r"data .*\.json", path.name))
 
 
+from campaign_registry import load_campaigns
+
+
 def landing_pages(vault: Path) -> set[str]:
     result = {"Campaigns/Campaigns.md", "Campaigns/Current Games.md", "Campaigns/Campaign Archive.md"}
     for path in (vault / "Campaigns").rglob("*.md"):
         parts = path.relative_to(vault).parts
         if path.stem == path.parent.name and (len(parts) == 3 or len(parts) == 4 and parts[1] == "One Shots"):
             result.add(path.relative_to(vault).as_posix())
-    registry = vault / "_scripts/session_note_campaigns.json"
+    registry = vault / "_sessions/campaign-registry.json"
     if registry.exists():
-        for entry in json.loads(registry.read_text())["campaigns"].values():
-            folder = Path(entry["campaignRoot"])
+        for entry in load_campaigns(vault).values():
+            if not entry.get("campaignDirectory"):
+                continue
+            folder = Path(entry["campaignDirectory"])
             result.add((folder / (folder.name + ".md")).as_posix())
     return result
 

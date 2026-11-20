@@ -54,8 +54,8 @@ def session_metadata(bundle):
                 number = str(data['sessionNumber'])
                 whole, dot, fraction = number.partition('.')
                 pattern = campaign.get('notePattern', '').replace('{session_padded}', whole.zfill(2) + dot + fraction).replace('{session}', number)
-                if pattern and campaign.get('campaignRoot'):
-                    relative = campaign['campaignRoot'].rstrip('/') + '/' + pattern
+                if pattern and campaign.get('campaignDirectory'):
+                    relative = campaign['campaignDirectory'].rstrip('/') + '/' + pattern
                     note = scenes.safe(bundle['vault'], relative)
                     if note.is_file():
                         result['sessionNotePath'] = note.relative_to(bundle['vault']).as_posix()

@@ -41,4 +41,4 @@ To show interactions for a single campaign only:
 `$=customJS.OutputHandler.outputCampaignInteractions(dv.current().file.name, dv.current(), "dufr")`
 ```
 
-Canonical campaign names, lowercase codes, aliases, party pages, and session paths are configured in `_scripts/session_note_campaigns.json`; see [[Campaign Registry]]. `.obsidian/metadata.json` remains a compatibility input for older code and is not authoritative.
+Campaign IDs are the keys of `_sessions/campaign-registry.json`. Index notes supply display names, party pages and session paths. See [[Campaign Registry]].
