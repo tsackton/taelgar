@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-11-12T19:02:10-05:00"
 lintVersion: "3.5"
-tags: [session-note, status/check/lint, status/check/ai]
+tags: [session-note, status/check/lint]
 campaign: feywild
 sessionNumber: 4
 realWorldDate: 2026-07-06

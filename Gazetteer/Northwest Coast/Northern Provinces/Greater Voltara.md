@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 lintedAt: "2026-08-23T23:55:52-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-tags: [place, status/gameupdate/grli, status/check/lint, status/check/ai]
+tags: [place, status/gameupdate/grli, status/check/lint]
 typeOf: realm
 typeOfAlias: province
 name: Greater Voltara

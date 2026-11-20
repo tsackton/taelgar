@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-09-05T16:06:33-04:00"
 lintVersion: "3.5"
-tags: [place, status/check/mike, status/check/ai]
+tags: [place, status/check/mike]
 displayDefaults: {defArt: ""}
 typeOf: extraplanar domain
 typeOfAlias: labyrinth

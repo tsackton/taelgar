@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T09:32:28-04:00"
 lintVersion: "3.5"
-tags: [source, status/check/ai]
+tags: [source]
 campaign: dufr
 name: "The Werewolf Prisoner's Tale"
 POV: 1748

@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
-tags: [group, status/gameupdate/grli, status/check/lint, status/check/ai]
+tags: [group, status/gameupdate/grli, status/check/lint]
 typeOf: religious order
 name: Order of Twilight
 dm_owner: none

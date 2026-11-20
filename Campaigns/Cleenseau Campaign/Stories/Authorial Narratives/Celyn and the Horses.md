@@ -1,5 +1,5 @@
 ---
-tags: [story, status/check/ai]
+tags: [story]
 campaign: clee
 DR: 1720-01-25
 POV: 1720

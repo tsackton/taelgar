@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T09:49:52-04:00"
 lintVersion: "3.5"
-tags: [source, status/check/ai]
+tags: [source]
 DR: 1720-02-07
 campaign: clee
 name: "Gareth's Story"

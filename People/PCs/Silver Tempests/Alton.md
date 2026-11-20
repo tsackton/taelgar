@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-08-23T23:02:51-04:00"
 lintVersion: "3.5"
-tags: [person, status/gameupdate/grli, status/check/ai]
+tags: [person, status/gameupdate/grli]
 species: halfling
 gender: male
 born: 1722

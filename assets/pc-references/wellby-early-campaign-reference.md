@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-19T11:22:11-04:00"
 lintVersion: "3.5"
-tags: [meta, status/check/ai]
+tags: [meta]
 campaign: dufr
 name: wellby-early-campaign-reference
 POV: 1748

@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T07:57:56-04:00"
 lintVersion: "3.5"
-tags: [meta, status/check/ai]
+tags: [meta]
 typeOf: hoard
 campaign: dufr
 name: Werewolf Lair Treasure

@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-19T23:30:08-04:00"
 lintVersion: "3.5"
-tags: [source, status/check/ai]
+tags: [source]
 campaign: feywild
 name: Transcriptions from the Prisoner of The 27th Room
 POV: 1740

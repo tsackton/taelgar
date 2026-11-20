@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-19T23:30:08-04:00"
 lintVersion: "3.5"
-tags: [source, status/check/ai]
+tags: [source]
 campaign: feywild
 name: The Story of a Fey Bargain Struck
 POV: 1740

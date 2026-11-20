@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-23T14:23:24-04:00"
 lintVersion: "3.5"
-tags: [session-note, status/check/ai]
+tags: [session-note]
 campaign: dufr
 sessionNumber: 27
 realWorldDate: 2021-07-07

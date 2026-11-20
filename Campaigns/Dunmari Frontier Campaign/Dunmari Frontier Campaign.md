@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-11-12T19:02:10-05:00"
 lintVersion: "3.5"
-tags: [meta, status/check/lint, status/check/ai]
+tags: [meta, status/check/lint]
 hide: [toc]
 campaign: dufr
 name: Dunmari Frontier Campaign

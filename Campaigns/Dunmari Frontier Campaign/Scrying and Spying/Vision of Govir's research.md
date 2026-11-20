@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T09:08:30-04:00"
 lintVersion: "3.5"
-tags: [meta, status/check/lint, status/check/ai]
+tags: [meta, status/check/lint]
 campaign: dufr
 name: "Vision of Govir's research"
 POV: 1748

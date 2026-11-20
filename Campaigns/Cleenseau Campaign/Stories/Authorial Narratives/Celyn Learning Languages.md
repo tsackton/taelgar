@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-23T14:23:24-04:00"
 lintVersion: "3.5"
-tags: [story, status/check/ai]
+tags: [story]
 campaign: clee
 name: Celyn Learning Languages
 POV: 1710s
