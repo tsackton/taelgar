@@ -118,7 +118,7 @@ caches beside the skill. Commands below use `HELPER` for this skill's absolute
    Resolve a campaign/session request read-only:
 
    ```bash
-   python3 -B HELPER resolve --vault-root VAULT --campaign dunmar --session 53
+   python3 -B HELPER resolve --vault-root VAULT --campaign dufr --session 53
    ```
 
    Use the single returned bundle, or an explicitly supplied bundle path. Do not
