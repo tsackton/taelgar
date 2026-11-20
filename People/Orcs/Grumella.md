@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
-tags: [person, status/gameupdate/gl, status/check/lint]
+tags: [person, status/gameupdate/grli, status/check/lint, status/check/ai]
 species: orc
 born: null
 gender: female

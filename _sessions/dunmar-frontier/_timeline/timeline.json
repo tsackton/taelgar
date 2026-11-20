@@ -1,7 +1,7 @@
 {
   "schemaVersion": "0.1-dunmar-campaign-timeline-review",
   "status": "draft for human chronology review",
-  "campaign": "Dunmar Frontier",
+  "campaign": "dufr",
   "anchor": {
     "date": "1748-03-22",
     "source": "S1 YAML start; explicitly authorized by user"

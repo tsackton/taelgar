@@ -2,11 +2,11 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:28:01-04:00"
 lintVersion: "3.5"
-tags: [place, status/check/lint]
+tags: [place, status/check/lint, status/check/ai]
 typeOf: infrastructure
 typeOfAlias: gate
 campaignInfo:
-  - {campaign: GL, type: passed through, date: 1747-12-03, wParty: "<person:u> <met:x> on <target>"}
+  - {campaign: grli, type: passed through, date: 1747-12-03, wParty: "<person:u> <met:x> on <target>"}
 name: Thordûn
 pronunciation: THOR-doon
 whereabouts: "Am'khazar"
@@ -19,7 +19,7 @@ POV: modern
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:GL%% The [[Silver Tempests]] passed through on December 3rd, 1747 %%^End%%
+>> %%^Campaign:grli%% The [[Silver Tempests]] passed through on December 3rd, 1747 %%^End%%
 
 Thordûn (the Western Door) is the largest and most elaborate of the western gates to the dwarven kingdom of [[Am'khazar]], though not the most frequently used. It is located on the edge of the [[Sentinel Range|Sentinels]], north of the [[Crimson Forest]], in the [[Highveil Forest]].
 

@@ -2,8 +2,8 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-20T09:32:28-04:00"
 lintVersion: "3.5"
-tags: [source]
-campaign: Dunmar Frontier
+tags: [source, status/check/ai]
+campaign: dufr
 name: "Amar's Story"
 POV: 1748
 ---

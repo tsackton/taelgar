@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {linkText: "on", ltPlace: "on", defArt: the}
-tags: [place, status/check/lint]
+tags: [place, status/check/lint, status/check/ai]
 typeOf: road
 name: Stoneway
 whereabouts: Dunmar
@@ -22,7 +22,7 @@ The Stoneway is the Dunmari name for the ancient Drankorian road that once conne
 
 Since the [[Great War]] and the upheavals that followed, much of the road east of [[Gomat]] is in ruins: the [[Daraar Canyon]] cuts across the path of the Stoneway, and beyond it is in poor repair.
 
-%%^Campaign:DuFr%%
+%%^Campaign:dufr%%
 About halfway between Tokra and Karawa, a three-mile segment of an old Drankorian aqueduct still exists, carrying a faded enchantment that amplifies the volume of water flowing over it. While it cannot create water out of thin air, a gallon of water poured into the aqueduct will grow to two gallons as it travels. 
 
 [[Seeker]] built [[Session 33 (DuFr)|an earthen berm along these ruins]], to make access easier, so Dunmari can use it as a mini-oasis.

@@ -2,8 +2,8 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-08-23T14:23:24-04:00"
 lintVersion: "3.5"
-tags: [session-note]
-campaign: Addermarch
+tags: [session-note, status/check/ai]
+campaign: adma
 sessionNumber: 11
 realWorldDate: 2025-06-15
 DR: 1715-05-16

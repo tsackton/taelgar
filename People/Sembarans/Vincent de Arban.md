@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: human
 ancestry: Sembaran
 campaignInfo:
@@ -44,7 +44,7 @@ Temporal coverage: a late-DR 1719 account centered on Vincent’s November visit
 ### Applied changes
 - Normalized frontmatter formatting; added supported name and temporal review blocks, `POV`, and `knownTo`.
 - Normalized the campaignInfo code to `clee`.
-- Normalized the existing campaign-block code from `%%^Campaign:Clee%%` to `%%^Campaign:clee%%` without adding or moving content.
+- Normalized the existing campaign-block code from `%%^Campaign:clee%%` to `%%^Campaign:clee%%` without adding or moving content.
 
 ### Validated judgments
 - No additional validated judgments.

@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
-tags: [power, status/gameupdate/dufr, status/check/lint]
+tags: [power, status/gameupdate/dufr, status/check/lint, status/check/ai]
 typeOf: archfey
 gender: female
 name: Cloudspinner
@@ -26,7 +26,7 @@ POV: modern
 
 The Queen of Sunset was once the ruler of [[Amberglow]], known for spinning beautiful, magical thread from the clouds and sky. But long ago she vanished, and her realm has fallen into decay since that day.  
 
-%%^Campaign:DuFr%%
+%%^Campaign:dufr%%
 
 Her memories opened [[Session 67 (DuFr)]]:
 

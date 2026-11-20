@@ -2,9 +2,9 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-11-12T19:02:10-05:00"
 lintVersion: "3.5"
-tags: [session-note]
+tags: [session-note, status/check/ai]
 websiteSessionView: zoomable
-campaign: Dunmar Frontier
+campaign: dufr
 arc: "Arc 1: Dangers in the Desert"
 sessionNumber: 1
 realWorldDate: 2020-05-29

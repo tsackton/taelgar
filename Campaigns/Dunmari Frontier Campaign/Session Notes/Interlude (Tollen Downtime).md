@@ -1,8 +1,8 @@
 ---
 lintedAt: "2026-11-12T19:02:10-05:00"
 lintVersion: "3.5"
-tags: [session-note]
-campaign: Dunmari Frontier
+tags: [session-note, status/check/ai]
+campaign: dufr
 DR: 1749-02-04
 DR_end: 1749-03-09
 players: [Delwath, Seeker, Wellby, Kenzo, Riswynn]

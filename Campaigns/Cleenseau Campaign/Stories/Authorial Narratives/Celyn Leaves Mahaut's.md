@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.25
 displayDefaults: {defArt: ""}
-tags: [story]
-campaign: Cleenseau
+tags: [story, status/check/ai]
+campaign: clee
 DR: 1719-06-29
 name: Celyn Leaves Mahaunt's Miracle Players
 POV: 1719

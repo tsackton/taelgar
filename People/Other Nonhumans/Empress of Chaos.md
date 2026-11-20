@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: hobgoblin
 ancestry: null
 campaignInfo:
@@ -22,7 +22,7 @@ POV: 1749
 >[!info]+ Biographical Info  
 > A [[Hobgoblins|hobgoblin]] (she/her)  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on August 6th, 1749 in the [[Plaguelands]] %%^End%%
+>> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on August 6th, 1749 in the [[Plaguelands]] %%^End%%
 
 ![[emrpess-of-chaos.png|right|400]]The Empress of Chaos is the leader of the [[Iron Fang]] hobgoblin clan. 
 

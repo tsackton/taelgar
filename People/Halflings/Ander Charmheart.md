@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: halfling
 ancestry: null
 timelineDescriptor: Charmhearts
@@ -53,7 +53,7 @@ SORT choice(species, species, typeof)
 ```
 %%^End%%
 
-%%^Campaign:DuFr%%
+%%^Campaign:dufr%%
 ## Events
 In March 1748, Ander was taken with a demonic curse as a result of accidental contact with Abyssal energy during the demon summoning at [[Raven's Hold]]. The curse caused him to suffer from an overwhelming hunger for raw flesh. When the demon [[Oduk]] was killed by the [[Dunmar Fellowship]], Ander was released from the worst of the curse. As of the summer of 1748, he still suffered from occasional confusion and difficulty speaking and finding the right word, describing the feeling as the wounds left by the shrapnel from a chaotic bomb that exploded in his mind. 
 
@@ -113,7 +113,7 @@ Temporal coverage: a late-1740s portrait of a young caravan scout, with the curs
 
 - [ ] **Warning — correctness.internal_conflict:** The shared One Note comment says “Age: late 30s” in its June DR 1748 frame, but `born: 1728` implies an age of about 20. Choose the intended age; if the birth year is retained, replace that comment line with `Age: about 20 in DR 1748`. Otherwise supply the intended birth year. Neither value was silently preferred.
 - [ ] **Suggestion — editorial.shared_material_redundant:** The first two paragraphs of the shared One Note comment repeat the published Relationships and Events account, including the curse and the image of wounds remaining after the shrapnel has faded. Remove the duplicated family/curse material or retain only distinct editorial guidance; keep the separate private healing options and PC-interaction guidance nonpublic, and retain the disputed age until it is resolved. This bounded split would leave one reference account of his partial recovery.
-- [ ] **Suggestion — syntax.noncanonical_campaign_block:** The generated relationship-query block uses `%%^Campaign:None%%`, and the Events block uses `%%^Campaign:DuFr%%`. Canonical replacements are `%%^Campaign:none%%` and `%%^Campaign:dufr%%` respectively; retain all enclosed content and closing boundaries. The existing visibility markers were preserved for human review.
+- [ ] **Suggestion — syntax.noncanonical_campaign_block:** The generated relationship-query block uses `%%^Campaign:None%%`, and the Events block uses `%%^Campaign:dufr%%`. Canonical replacements are `%%^Campaign:none%%` and `%%^Campaign:dufr%%` respectively; retain all enclosed content and closing boundaries. The existing visibility markers were preserved for human review.
 
 ### DM evidence
 - [[_DM_/Timelines/Old Timeline (Table)]]

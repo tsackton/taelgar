@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-18T23:43:15-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: human
 ancestry: Zimkovan
 gender: female
@@ -11,7 +11,7 @@ name: Jrain Fanlish
 aliases: [Jrain]
 pronunciation: JRAYN FAN-lish
 affiliations: [Chasm Explorers]
-knownTo: [itc]
+knownTo: [chasm]
 dm_owner: player
 dm_notes: important
 POV: 1730s

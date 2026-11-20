@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
-tags: [person, status/gameupdate/gl, status/check/lint]
+tags: [person, status/gameupdate/grli, status/check/lint, status/check/ai]
 species: human
 gender: male
 campaignInfo:
@@ -20,7 +20,7 @@ POV: 1740s
 >[!info]+ Biographical Info  
 > A [[Humans|human]] (he/him)  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:GL%% Rescued by the [[Silver Tempests]] on June 11th, 1747 in the [[Lonely Watchtower]], the [[Chalyte Hills|North Voltara Hills]], the [[Erbalta Plains]] %%^End%%
+>> %%^Campaign:grli%% Rescued by the [[Silver Tempests]] on June 11th, 1747 in the [[Lonely Watchtower]], the [[Chalyte Hills|North Voltara Hills]], the [[Erbalta Plains]] %%^End%%
 
 Ralvaz is a mine captain from the chalyte mines near [[Voltara]]. He was caught up in the early raids by [[Grumella's Horde]] on [[Voltara]] trade, and was kept as a prisoner at the [[Lonely Watchtower]] by [[Raluhk]] until he was rescued by the [[Silver Tempests]].
 
@@ -47,5 +47,5 @@ Temporal coverage: a DR 1740s portrait of a Voltara mine captain after his rescu
 ### Open findings
 
 - [ ] **Warning — metadata.names_unresolved_status:** Review the proposed pronunciation `RAL-vaz` in the name block. No established language or accepted pronunciation was found; this cautious spelling reading uses short a in both syllables, pronounced v and final z, and initial stress. Accept or replace it before copying it to frontmatter.
-- [ ] **Suggestion — syntax.noncanonical_campaign_block:** The existing header uses `%%^Campaign:GL%%`; [[Campaign Registry]] identifies `grli` as the canonical Great Library code. Replace only that opening marker with `%%^Campaign:grli%%`, retaining its text, position, and closing marker. This visibility-sensitive marker has been left for human approval.
+- [ ] **Suggestion — syntax.noncanonical_campaign_block:** The existing header uses `%%^Campaign:grli%%`; [[Campaign Registry]] identifies `grli` as the canonical Great Library code. Replace only that opening marker with `%%^Campaign:grli%%`, retaining its text, position, and closing marker. This visibility-sensitive marker has been left for human approval.
 %%^End%%

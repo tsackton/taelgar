@@ -36,12 +36,12 @@ SORT join(split(file.path, "/", 2), "/"), BacklinkCount DESC
 
 ## Great Library
 
-`#status/gameupdate/gl`
+`#status/gameupdate/grli`
 
 ```dataview
 TABLE join(split(file.path, "/", 2), "/") as Folder, 
       length(file.inlinks) as Backlinks
-FROM #status/gameupdate/gl
+FROM #status/gameupdate/grli
 FLATTEN length(file.inlinks) AS BacklinkCount
 SORT join(split(file.path, "/", 2), "/"), BacklinkCount DESC
 ```
@@ -63,7 +63,7 @@ SORT join(split(file.path, "/", 2), "/"), BacklinkCount DESC
 ```dataview
 TABLE join(split(file.path, "/", 2), "/") as Folder, 
       length(file.inlinks) as Backlinks
-FROM #status/gameupdate and !#status/gameupdate/chasm and !#status/gameupdate/dufr and !#status/gameupdate/clee and !#status/gameupdate/gl and !#status/gameupdate/adma
+FROM #status/gameupdate and !#status/gameupdate/chasm and !#status/gameupdate/dufr and !#status/gameupdate/clee and !#status/gameupdate/grli and !#status/gameupdate/adma
 FLATTEN length(file.inlinks) AS BacklinkCount
 SORT join(split(file.path, "/", 2), "/"), BacklinkCount DESC
 ```

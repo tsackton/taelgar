@@ -1,8 +1,8 @@
 ---
 lintedAt: "2026-11-12T19:02:10-05:00"
 lintVersion: "3.5"
-tags: [meta, status/check/lint]
-campaign: Dunmar Frontier
+tags: [meta, status/check/lint, status/check/ai]
+campaign: dufr
 name: Dunmar Fellowship Associates
 POV: 1749
 ---

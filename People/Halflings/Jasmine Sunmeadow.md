@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: halfling
 ancestry: null
 campaignInfo:
@@ -31,7 +31,7 @@ POV: 1748
 >> %%^Campaign:dufr%% Last seen by the [[Dunmar Fellowship]] on August 21st, 1748 in the [[Emerald Song]], [[Chardon]], the [[Chardonian Empire]] %%^End%%
 
 Jasmine Sunmeadow is a halfling adventurer with a strong connection to the natural world. She grew up in Darba, the daughter of the innkeepers of [[The Green Leaf]], but always longed for adventure, and even as a child she could sense the weather and make flowers bloom.
-%%^Campaign:DuFr%%
+%%^Campaign:dufr%%
 Recently, she married [[Oswalt Tealeaf]], and they booked passage on the [[Emerald Song]] together, to travel north and explore the world. Jasmine has always felt a close connection to [[Jemghari]], and a stewardship over the natural places where she feels the presence of the ancestors most strongly, so now, with her new husband, she is journeying to go out in the world and find these places and tell their stories.
 ## Relationships
 - [[Oswalt Tealeaf]], husband
@@ -68,7 +68,7 @@ Temporal coverage: a DR 1748 portrait of Jasmine as a newly married adventurer b
 
 ### Open findings
 
-- [ ] **Suggestion — syntax.noncanonical_campaign_block:** The authored campaign section begins with `%%^Campaign:DuFr%%`; the canonical registry code is `dufr`. Replace that opening marker with `%%^Campaign:dufr%%`, retaining the existing boundaries and contents. This is proposed for human review because campaign markers control filtered visibility.
+- [ ] **Suggestion — syntax.noncanonical_campaign_block:** The authored campaign section begins with `%%^Campaign:dufr%%`; the canonical registry code is `dufr`. Replace that opening marker with `%%^Campaign:dufr%%`, retaining the existing boundaries and contents. This is proposed for human review because campaign markers control filtered visibility.
 
 ### DM evidence
 - [[_DM_/Timelines/Old Timeline (Table)]]

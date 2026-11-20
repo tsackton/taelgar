@@ -1,9 +1,9 @@
 ---
 lintedAt: "2026-10-20T09:49:52-04:00"
 lintVersion: "3.5"
-tags: [source]
+tags: [source, status/check/ai]
 DR: 1720-02-07
-campaign: Cleenseau
+campaign: clee
 name: "Gareth's Story"
 POV: 1720
 ---

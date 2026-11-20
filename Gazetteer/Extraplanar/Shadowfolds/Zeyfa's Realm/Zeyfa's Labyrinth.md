@@ -2,17 +2,17 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-09-05T16:06:33-04:00"
 lintVersion: "3.5"
-tags: [place, status/check/mike]
+tags: [place, status/check/mike, status/check/ai]
 displayDefaults: {defArt: ""}
 typeOf: extraplanar domain
 typeOfAlias: labyrinth
 campaignInfo:
-  - {campaign: itc, type: visited, date: 1730-01-25}
+  - {campaign: chasm, type: visited, date: 1730-01-25}
 name: "Zeyfa's Labyrinth"
 pronunciation: ZAY-fahz LAB-uh-rinth
 whereabouts:
   - {type: primary, location: Zeyfa's Realm}
-knownTo: [itc]
+knownTo: [chasm]
 dm_owner: none
 dm_notes: none
 POV: 1730

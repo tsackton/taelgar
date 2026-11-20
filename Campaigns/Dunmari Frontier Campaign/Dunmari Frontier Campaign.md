@@ -1,9 +1,9 @@
 ---
 lintedAt: "2026-11-12T19:02:10-05:00"
 lintVersion: "3.5"
-tags: [meta, status/check/lint]
+tags: [meta, status/check/lint, status/check/ai]
 hide: [toc]
-campaign: Dunmar Frontier
+campaign: dufr
 name: Dunmari Frontier Campaign
 POV: 1740s
 ---

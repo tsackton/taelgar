@@ -1,9 +1,9 @@
 ---
 lintedAt: "2026-08-23T14:23:24-04:00"
 lintVersion: "3.5"
-tags: [meta]
+tags: [meta, status/check/ai]
 typeOf: hoard
-campaign: Dunmar Frontier
+campaign: dufr
 name: Copper Hills Treasure
 POV: 1748
 ---

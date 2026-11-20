@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-tags: [place, status/check/lint]
+tags: [place, status/check/lint, status/check/ai]
 typeOf: building
 typeOfAlias: keep
 ancestry: fey
@@ -20,7 +20,7 @@ POV: modern
 
 Redsun Watch is one of several outposts established by the [[Cloudspinner]] on the eastern edge of [[Amberglow]], near the [[Sunset Gate]]. Since her disappearance, the fate of Redsun Watch and other border outposts is unknown.
 
-%%^Campaign:DuFr%%
+%%^Campaign:dufr%%
 According to [[Lirien|Lirien]], who was the Lanternkeeper of Redsun Watch, some time after the [[Cloudspinner]]'s disappearance "rivers of shadow" invaded across the [[Sunset Gate]], from [[Hollowdark]] and [[Darkfall]], and Redsun Keep was destroyed.
 %%^End%%
 
@@ -55,7 +55,7 @@ Temporal coverage: broadly modern after Cloudspinner's disappearance; the campai
 
 - [ ] **Warning — coverage.later_material_change:** The campaign paragraph ends with Lirien's report that the keep was destroyed. [[Session 121 (DuFr)]], [[Session 122 (DuFr)]], and [[Session 123 (DuFr)]] establish surviving ruined towers occupied by minions of [[Harrow]] and [[Wend]], and a beacon beneath the keep that was reignited and revealed the [[Prismwell]]. This is a material state and function, beyond an incidental visit. Choose to update the campaign account and temporal framing, defer the update with the appropriate game-update status by human action, or intentionally preserve the earlier report as history. Smallest update candidate inside the existing campaign section: “By DR 1749, the ruined keep was engulfed in darkness flowing from [[Hollowdark]] through a breach in the [[Sunset Gate]], and occupied by minions of [[Harrow]] and [[Wend]]. On DR 1749-06-13, the [[Dunmar Fellowship]] reignited a beacon beneath the keep whose light revealed the [[Prismwell]].” If adopting that update, propose `%%^Date:1749-06-13%%` before these sentences and `%%^End%%` after them. Keep Lirien's account attributed, retain the campaign restriction, and do not infer the keep's fate after Cloudspinner's restoration. The new date block and any game-update status require a human decision.
 
-- [ ] **Suggestion — syntax.noncanonical_campaign_block:** The existing opener uses `DuFr`; [[Campaign Registry]] requires lowercase `dufr`. Replace only `%%^Campaign:DuFr%%` with `%%^Campaign:dufr%%`, preserving the same campaign restriction and contents. The existing block was left intact for review.
+- [ ] **Suggestion — syntax.noncanonical_campaign_block:** The existing opener uses `DuFr`; [[Campaign Registry]] requires lowercase `dufr`. Replace only `%%^Campaign:dufr%%` with `%%^Campaign:dufr%%`, preserving the same campaign restriction and contents. The existing block was left intact for review.
 
 ### DM evidence
 - [[_DM_/_Dunmari Frontier/Session 118-123 (Cloudspinner)/Redsun Watch - DM Notes]]

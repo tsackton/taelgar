@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:23:09-04:00"
 lintVersion: "3.5"
-tags: [event, status/check/lint]
+tags: [event, status/check/lint, status/check/ai]
 typeOf: disaster
 DR: 1718
 name: Awakened Soul Disaster
@@ -16,7 +16,7 @@ POV: modern
 
 In the year DR 1718, the monks of the [[Order of the Awakened Soul]], with the aid of [[Rai]], attempted to remove the extraplanar corruption from the Plaguelands. This effort failed, and as a consequence Rai's power was diminished and the monks were scattered, perhaps to other planes or distant parts of the material plane.
 
-%%^Campaign:DuFr%%
+%%^Campaign:dufr%%
 Described, from Rai's perspective, in [[Second Dream of Rai]]. 
 %%^End%%
 

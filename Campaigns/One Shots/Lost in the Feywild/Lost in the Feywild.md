@@ -2,9 +2,9 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-11-12T19:02:10-05:00"
 lintVersion: "3.5"
-tags: [meta]
+tags: [meta, status/check/ai]
 hide: [toc]
-campaign: Lost in the Feywild
+campaign: feywild
 name: Lost in the Feywild
 dm_owner: none
 dm_notes: none

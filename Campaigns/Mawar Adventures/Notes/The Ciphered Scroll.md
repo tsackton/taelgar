@@ -1,8 +1,8 @@
 ---
 lintedAt: "2026-10-19T23:30:08-04:00"
 lintVersion: "3.5"
-tags: [source]
-campaign: Mawar Adventures
+tags: [source, status/check/ai]
+campaign: mawar
 name: The Ciphered Scroll
 POV: 1747
 ---

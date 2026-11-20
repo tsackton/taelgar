@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-08-24T09:25:51-04:00"
 lintVersion: "3.5"
-tags: [place, status/gameupdate/gl]
+tags: [place, status/gameupdate/grli, status/check/ai]
 typeOf: holy site
 typeOfAlias: temple
 name: Order of Twilight Temple (Voltara)

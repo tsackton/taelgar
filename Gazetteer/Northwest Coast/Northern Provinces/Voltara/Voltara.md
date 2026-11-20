@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-08-24T09:25:51-04:00"
 lintVersion: "3.5"
-tags: [place, status/cleanup/text, status/gameupdate/gl, status/check/lint]
+tags: [place, status/cleanup/text, status/gameupdate/grli, status/check/lint, status/check/ai]
 typeOf: settlement
 typeOfAlias: city
 campaignInfo: []

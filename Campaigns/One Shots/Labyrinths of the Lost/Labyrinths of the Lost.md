@@ -1,9 +1,9 @@
 ---
 lintedAt: "2026-11-12T19:02:10-05:00"
 lintVersion: "3.5"
-tags: [meta]
+tags: [meta, status/check/ai]
 hide: [toc]
-campaign: Labyrinths of the Lost
+campaign: lablost
 name: Labyrinths of the Lost
 POV: 1748
 ---
@@ -17,6 +17,6 @@ TABLE WITHOUT ID
   link(file.path, default(descTitle, file.name)) AS "Session",sessionNumber as Episode,
   realWorldDate AS "On Earth"
 FROM #session-note AND !"_templates" AND !"_sessions"
-WHERE campaign = "Labyrinths of the Lost"
+WHERE campaign = "lablost"
 SORT realWorldDate ASC
 ```

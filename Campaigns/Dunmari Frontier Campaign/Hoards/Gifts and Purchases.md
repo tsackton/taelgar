@@ -1,9 +1,9 @@
 ---
 lintedAt: "2026-10-20T07:57:56-04:00"
 lintVersion: "3.5"
-tags: [meta]
+tags: [meta, status/check/ai]
 typeOf: hoard
-campaign: Dunmar Frontier
+campaign: dufr
 name: Gifts and Purchases
 POV: 1740s
 ---

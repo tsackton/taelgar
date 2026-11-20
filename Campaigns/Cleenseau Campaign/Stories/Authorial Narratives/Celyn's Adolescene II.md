@@ -1,6 +1,6 @@
 ---
-tags: [story]
-campaign: Cleenseau
+tags: [story, status/check/ai]
+campaign: clee
 POV: 1710s
 ---
 

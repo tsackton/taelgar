@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:28:01-04:00"
 lintVersion: "3.5"
-tags: [place, status/cleanup/map, status/check/lint]
+tags: [place, status/cleanup/map, status/check/lint, status/check/ai]
 typeOf: region
 name: Far South
 whereabouts:
@@ -23,7 +23,7 @@ In the markets of [[Tollen]] or [[Chardon]], rumors are occasionally heard of gr
 ## Topography and Major Features
 This region is shrouded in mystery, and only a few features are rumored. Many reports of a [[Great Desert|endless desert]] stretching for thousands of miles have come west, but beyond that, few know what mysteries this region holds.
 
-%%^Campaign:DuFr%%
+%%^Campaign:dufr%%
 [[Kenzo]] brought stories of a tropical jungle called [[Orekatu]] by the [[Lizardfolk|lizardfolk]] who dwell there.
 %%^End%%
 ## Civilizations and Cultures
@@ -85,5 +85,5 @@ Temporal coverage: a broadly modern, rumor-led account of the poorly known south
 
 - [ ] **Warning — correctness.shared_nonpublic_conflict:** The first legacy private block begins “There are no real canonical details about this region’s climate,” but K29–K30 of [[Climate and Weather Constraints]] retain broad Great Desert interior aridity and tropical warmth and moisture compatible with Orekatu’s forests. Replace that obsolete blanket claim while leaving detailed seasons and boundaries open. Candidate for that first sentence only: “Canonical climate constraints establish broad desert-interior aridity and tropical warmth and forest moisture in Orekatu; detailed rainfall seasons and regional boundaries remain open.” Retain the distinct real-world analogues inside their existing private wrapper.
 
-- [ ] **Suggestion — syntax.noncanonical_campaign_block:** The note uses `%%^Campaign:DuFr%%` once and `%%^Campaign:None%%` twice. The canonical opening markers are `%%^Campaign:dufr%%` and `%%^Campaign:none%%` respectively. Confirm equivalent export visibility, then replace only these three opening markers; preserve their enclosed text, ordering, and closing markers.
+- [ ] **Suggestion — syntax.noncanonical_campaign_block:** The note uses `%%^Campaign:dufr%%` once and `%%^Campaign:None%%` twice. The canonical opening markers are `%%^Campaign:dufr%%` and `%%^Campaign:none%%` respectively. Confirm equivalent export visibility, then replace only these three opening markers; preserve their enclosed text, ordering, and closing markers.
 %%^End%%

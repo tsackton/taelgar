@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
-tags: [person, status/gameupdate/gl]
+tags: [person, status/gameupdate/grli, status/check/ai]
 species: dwarf
 born: 1711
 gender: female

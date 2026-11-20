@@ -2,12 +2,12 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:28:01-04:00"
 lintVersion: "3.5"
-tags: [place, status/check/lint]
+tags: [place, status/check/lint, status/check/ai]
 typeOf: settlement
 typeOfAlias: city
 ancestry: dwarven
 campaignInfo:
-  - {campaign: GL, type: explored, date: 1747-12-13}
+  - {campaign: grli, type: explored, date: 1747-12-13}
 name: Tumukhar
 whereabouts: "Am'khazar"
 dm_owner: none
@@ -18,7 +18,7 @@ POV: 1748
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:GL%% Explored by the [[Silver Tempests]] on December 13th, 1747%%^End%%
+>> %%^Campaign:grli%% Explored by the [[Silver Tempests]] on December 13th, 1747%%^End%%
 
 Tumukhar was a southern hold of [[Am'khazar]], lying down‑valley from [[Zarkandur]], and serving as a high mountain entrance to the underground routes and roads in [[Am'khazar]]. Before its abandonment, Tumukhar served as a way‑city for travelers and traders bound toward the Stoneborn villages and other destinations in the [[Sentinel Range|Sentinels]], with stout gateworks, tiered streets, and well‑kept cisterns fed by mountain rills. Its craftsmen were known for practical ironwork and serviceable tools destined for the frontier, and for the quiet hospitality expected of a road city: a warm seat by the brazier, a pot on the hearth, and news from the passes.
 
@@ -64,7 +64,7 @@ Temporal coverage: a DR 1748 snapshot after the cursed cold, when the article de
 
 - [ ] **Warning — metadata.map_location_missing:** The new settlement map entry has a blank `locator`. Supply Tumukhar’s verified world-map position in `Metadata:map:v1`; no coordinate was established by the reviewed evidence.
 
-- [ ] **Suggestion — syntax.noncanonical_campaign_block:** The header marker uses `%%^Campaign:GL%%`; [[Campaign Registry]] resolves that alias to `grli`. After confirming equivalent filtered visibility, replace only the opening marker with `%%^Campaign:grli%%` and use `campaign: grli` in the existing campaignInfo entry. Preserve the exploration date, text, and closing marker.
+- [ ] **Suggestion — syntax.noncanonical_campaign_block:** The header marker uses `%%^Campaign:grli%%`; [[Campaign Registry]] resolves that alias to `grli`. After confirming equivalent filtered visibility, replace only the opening marker with `%%^Campaign:grli%%` and use `campaign: grli` in the existing campaignInfo entry. Preserve the exploration date, text, and closing marker.
 
 - [ ] **Suggestion — editorial.reference_voice:** In the first paragraph, the passage beginning “and for the quiet hospitality expected of a road city” and ending “news from the passes” expands the city’s account into a generic road-city hospitality vignette. Have a human rewrite or remove this bounded passage. Preserve the distinct stated facts about the hold’s route and trade role, practical ironwork, and tools; this finding does not authorize an automatic rewrite or declare those facts false.
 %%^End%%

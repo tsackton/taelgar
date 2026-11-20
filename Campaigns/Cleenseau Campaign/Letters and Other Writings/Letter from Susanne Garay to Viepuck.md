@@ -1,8 +1,8 @@
 ---
 lintedAt: "2026-10-20T09:38:32-04:00"
 lintVersion: "3.5"
-tags: [source]
-campaign: Cleenseau
+tags: [source, status/check/ai]
+campaign: clee
 name: Letter from Susanne Garay to Viepuck
 POV: 1719
 ---

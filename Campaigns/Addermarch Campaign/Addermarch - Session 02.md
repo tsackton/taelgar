@@ -1,8 +1,8 @@
 ---
 lintedAt: "2026-11-12T19:02:10-05:00"
 lintVersion: "3.5"
-tags: [session-note]
-campaign: Addermarch
+tags: [session-note, status/check/ai]
+campaign: adma
 sessionNumber: 2
 realWorldDate: 2024-09-15
 DR: 1715-04-28

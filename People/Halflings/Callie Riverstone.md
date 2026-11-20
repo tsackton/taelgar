@@ -22,7 +22,7 @@ POV: 1720s
 
 ![[callie-riverstone.jpg|right|200]]A leatherworker specializing in fine colors.
 
-%%^Campaign:Clee%%
+%%^Campaign:clee%%
 Has a friendly relationship with [[Bartholomew Meeke]], who she hid for a time.  
 %%^End%%
 
@@ -54,7 +54,7 @@ Temporal coverage: the early-1720s portrait of Callie as an Aslain leatherworker
 
 ### Open findings
 
-- [ ] **Suggestion — syntax.noncanonical_campaign_block:** The relationship section begins with `%%^Campaign:Clee%%`; the canonical registry code is `clee`. Replace that opening marker with `%%^Campaign:clee%%`, retaining the existing boundaries and contents. This remains a proposal because campaign markers control filtered visibility.
+- [ ] **Suggestion — syntax.noncanonical_campaign_block:** The relationship section begins with `%%^Campaign:clee%%`; the canonical registry code is `clee`. Replace that opening marker with `%%^Campaign:clee%%`, retaining the existing boundaries and contents. This remains a proposal because campaign markers control filtered visibility.
 
 - [ ] **Warning — coverage.established_fact_missing:** [[01-cleenseau-blog-788697 - Original]] describes the leatherworker sheltering the messenger as deeply distrustful of humans after the previous baron killed members of her family for uncovering his embezzlement. The session's prepared recap identifies that leatherworker as Callie, but her present note omits this consequential personal history. Confirm the family attribution before adopting the bounded addition: `Callie is wary of humans after members of her family were killed by the former Baron of Aveil for uncovering his embezzlement.` The shared notes in [[Merriweathers]] associate the killings with that family, while [[Riverstones]] leaves a possible connection undecided. Preserve the Riverstone identity and do not infer an unrecorded kinship; if the played recap conflates the families, record that attribution uncertainty instead of adding the sentence as settled fact.
 %%^End%%

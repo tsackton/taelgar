@@ -1,8 +1,8 @@
 ---
 lintedAt: "2026-10-20T08:15:28-04:00"
 lintVersion: "3.5"
-tags: [meta, status/check/lint]
-campaign: Dunmar Frontier
+tags: [meta, status/check/lint, status/check/ai]
+campaign: dufr
 name: Vindristjarna Bastion Rules
 POV: 1749
 ---

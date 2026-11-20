@@ -1,7 +1,7 @@
 ---
 tags: [session-note, status/check/ai]
 name: "Interlude: After the Siege of Fellburn"
-campaign: Cleenseau
+campaign: clee
 realWorldDate: 2024-05-24
 DR: 1720-01-25
 players: [Robin, Viepuck, Celyn]

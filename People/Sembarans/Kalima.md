@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-09-05T16:06:33-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/mike]
+tags: [person, status/check/mike, status/check/ai]
 species: human
 ancestry: Zimka
 gender: female
@@ -14,7 +14,7 @@ whereabouts:
   - {type: away, start: 1730-01-25, end: 1730-01-25, location: "Zeyfa's Labyrinth"}
   - {type: away, start: 1730-01-25, end: 1730-01-29, location: Melusa}
   - {type: away, start: 1730-01-29, end: 1730-01-30, location: Great Chasm}
-knownTo: [itc]
+knownTo: [chasm]
 dm_owner: none
 dm_notes: none
 POV: 1730
