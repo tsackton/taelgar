@@ -85,7 +85,7 @@ Exploring the chamber, the party discovers that the stone pillars can slide upwa
 
 %% 
 - Played November 14, 2026. Continues directly from Session 67 on 1752-07-03; arrival on 1752-07-05 is inferred from the explicitly recorded two nights and parts of three travel days. No additional elapsed time is assigned to the planar crossing or the invitation to stay at court.
-- Verbatim source: [[_sessions/great-library/great-library-session-68/sources/raw-transcript.md]]. Vault description supplements the dictation from [[S09 - Through the Treasury Portal]], as directed in the source; the astrolabe's full workings are not yet established as party knowledge.
+- Verbatim source: [[_sessions/great-library/great-library-068/sources/raw-transcript]]. Vault description supplements the dictation from [[S09 - Through the Treasury Portal]], as directed in the source; the astrolabe's full workings are not yet established as party knowledge.
 - The party reaches level 15 at the end of this session.
 %%
 
