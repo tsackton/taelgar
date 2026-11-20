@@ -1,0 +1,2290 @@
+{
+  "schemaVersion": 3,
+  "campaigns": {
+    "addermarch": {
+      "name": "Addermarch",
+      "code": "adma",
+      "dm": "Tim Sackton",
+      "group": "family group",
+      "format": "campaign",
+      "status": "active",
+      "canon": "canonical",
+      "continuities": [
+        "main"
+      ],
+      "partyPage": "People/PCs/Addermarch/Addermarch Mercenaries.md",
+      "gamePage": "Campaigns/Addermarch Campaign/Addermarch Campaign.md",
+      "aliases": [
+        "Addermarch Campaign",
+        "ADMA"
+      ],
+      "sessionNotes": {
+        "notePattern": "Addermarch - Session {session_padded}.md",
+        "defaultTemplate": "composable-session-note.md"
+      },
+      "hasRecordings": false,
+      "directories": {
+        "campaign": "Campaigns/Addermarch Campaign",
+        "sessionBundles": "_sessions/addermarch"
+      },
+      "roster": [
+        {
+          "player": "Kate Sackton",
+          "role": "core",
+          "roleSource": "pcPages",
+          "characters": [
+            {
+              "page": "People/PCs/Addermarch/Drou.md",
+              "kind": "member",
+              "source": "affiliation"
+            }
+          ]
+        },
+        {
+          "player": "Isaac Sackton",
+          "role": "core",
+          "roleSource": "pcPages",
+          "characters": [
+            {
+              "page": "People/PCs/Addermarch/Yvan Greenrabbit.md",
+              "kind": "member",
+              "source": "affiliation"
+            }
+          ]
+        },
+        {
+          "player": "Nathaniel Sackton",
+          "role": "core",
+          "roleSource": "pcPages",
+          "characters": [
+            {
+              "page": "People/PCs/Addermarch/Fazoth de Brune.md",
+              "kind": "member",
+              "source": "affiliation"
+            }
+          ]
+        }
+      ],
+      "latestSession": {
+        "value": "23",
+        "source": "Campaigns/Addermarch Campaign/Addermarch - Session 23.md"
+      },
+      "dates": {
+        "realFirst": {
+          "value": "2024-09-08",
+          "source": "Campaigns/Addermarch Campaign/Addermarch - Session 01.md",
+          "session": "1"
+        },
+        "realLatest": {
+          "value": "2026-11-01",
+          "source": "Campaigns/Addermarch Campaign/Addermarch - Session 23.md",
+          "session": "23"
+        },
+        "worldFirst": {
+          "value": "1715-04-25",
+          "source": "Campaigns/Addermarch Campaign/Addermarch - Session 01.md",
+          "session": "1"
+        },
+        "worldCurrent": {
+          "value": "1715-06-03",
+          "source": "Campaigns/Addermarch Campaign/Addermarch - Session 23.md",
+          "session": "23"
+        }
+      },
+      "displayName": "Addermarch Campaign"
+    },
+    "cleenseau": {
+      "name": "Cleenseau",
+      "code": "clee",
+      "dm": "Mike Sackton",
+      "group": "Mike's college group",
+      "format": "campaign",
+      "status": "active",
+      "canon": "canonical",
+      "continuities": [
+        "main"
+      ],
+      "partyPage": "People/PCs/Cleenseau/Heroes of Cleenseau.md",
+      "gamePage": "Campaigns/Cleenseau Campaign/Cleenseau Campaign.md",
+      "aliases": [
+        "Cleenseau Campaign",
+        "Clee"
+      ],
+      "sessionNotes": {
+        "notePattern": "Sessions/Cleenseau - Session {session_padded}.md",
+        "defaultTemplate": "cleenseau-template.md"
+      },
+      "hasRecordings": false,
+      "directories": {
+        "campaign": "Campaigns/Cleenseau Campaign",
+        "sessionBundles": "_sessions/cleenseau"
+      },
+      "roster": [
+        {
+          "player": "Kiya Nicoll",
+          "role": "core",
+          "roleSource": "pcPages",
+          "characters": [
+            {
+              "page": "People/PCs/Cleenseau/Celyn.md",
+              "kind": "member",
+              "source": "affiliation"
+            }
+          ]
+        },
+        {
+          "player": "Dan Walters",
+          "role": "core",
+          "roleSource": "pcPages",
+          "characters": [
+            {
+              "page": "People/PCs/Cleenseau/Greymalkin.md",
+              "kind": "companion",
+              "source": "affiliation"
+            },
+            {
+              "page": "People/PCs/Cleenseau/Robin of Abenfyrd.md",
+              "kind": "member",
+              "source": "affiliation"
+            }
+          ]
+        },
+        {
+          "player": "Matt Rand",
+          "role": "core",
+          "roleSource": "pcPages",
+          "characters": [
+            {
+              "page": "People/PCs/Cleenseau/Izgil Moonseeker.md",
+              "kind": "member",
+              "source": "affiliation"
+            }
+          ]
+        },
+        {
+          "player": "Chris Kelly",
+          "role": "core",
+          "roleSource": "pcPages",
+          "characters": [
+            {
+              "page": "People/PCs/Cleenseau/Estiasilos.md",
+              "kind": "companion",
+              "source": "affiliation"
+            },
+            {
+              "page": "People/PCs/Cleenseau/Viepuck.md",
+              "kind": "member",
+              "source": "affiliation"
+            }
+          ]
+        }
+      ],
+      "latestSession": {
+        "value": "38",
+        "source": "Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 38.md"
+      },
+      "dates": {
+        "realFirst": {
+          "value": "2023-01-08",
+          "source": "Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 01.md",
+          "session": "1"
+        },
+        "realLatest": {
+          "value": "2026-11-08",
+          "source": "Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 38.md",
+          "session": "38"
+        },
+        "worldFirst": {
+          "value": "1719-10-19",
+          "source": "Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 01.md",
+          "session": "1"
+        },
+        "worldCurrent": {
+          "value": "1721-02-01",
+          "source": "Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 38.md",
+          "session": "38"
+        }
+      },
+      "displayName": "Cleenseau Campaign"
+    },
+    "dunmar-frontier": {
+      "name": "Dunmar Frontier",
+      "code": "dufr",
+      "dm": "Tim Sackton",
+      "group": "original Taelgar group",
+      "format": "campaign",
+      "status": "finished",
+      "canon": "canonical",
+      "continuities": [
+        "main"
+      ],
+      "partyPage": "People/PCs/Dunmar Fellowship/Dunmar Fellowship.md",
+      "gamePage": "Campaigns/Dunmari Frontier Campaign/Dunmari Frontier Campaign.md",
+      "displayName": "Dunmari Frontier Campaign",
+      "aliases": [
+        "Dunmari Frontier",
+        "Dunmari Frontier Campaign",
+        "Dunmar Frontier Campaign",
+        "DuFr"
+      ],
+      "sessionNotes": {
+        "notePattern": "Session Notes/Dunmar Frontier - Session {session_padded}.md",
+        "defaultTemplate": "dunmar-frontier-template.md"
+      },
+      "hasRecordings": true,
+      "directories": {
+        "campaign": "Campaigns/Dunmari Frontier Campaign",
+        "sessionBundles": "_sessions/dunmar-frontier",
+        "recordings": "sessions/recordings/dunmar"
+      },
+      "roster": [
+        {
+          "player": "Mike Sackton",
+          "role": "core",
+          "roleSource": "pcPages",
+          "characters": [
+            {
+              "page": "People/PCs/Dunmar Fellowship/Delwath.md",
+              "kind": "member",
+              "source": "affiliation"
+            },
+            {
+              "page": "People/PCs/Dunmar Fellowship/Guests/Artem Novolozek.md",
+              "kind": "guest",
+              "source": "affiliation"
+            },
+            {
+              "page": "People/PCs/Dunmar Fellowship/Guests/Caulaus.md",
+              "kind": "guest",
+              "source": "affiliation"
+            }
+          ]
+        },
+        {
+          "player": "Eric Rosenbaum",
+          "role": "core",
+          "roleSource": "pcPages",
+          "characters": [
+            {
+              "page": "People/PCs/Dunmar Fellowship/Companions/Ladder.md",
+              "kind": "companion",
+              "source": "affiliation"
+            },
+            {
+              "page": "People/PCs/Dunmar Fellowship/Companions/Taster.md",
+              "kind": "companion",
+              "source": "affiliation"
+            },
+            {
+              "page": "People/PCs/Dunmar Fellowship/Guests/Izzarak.md",
+              "kind": "guest",
+              "source": "affiliation"
+            },
+            {
+              "page": "People/PCs/Dunmar Fellowship/Guests/Rufus.md",
+              "kind": "guest",
+              "source": "affiliation"
+            },
+            {
+              "page": "People/PCs/Dunmar Fellowship/Seeker.md",
+              "kind": "member",
+              "source": "affiliation"
+            }
+          ]
+        },
+        {
+          "player": "David Kong",
+          "role": "core",
+          "roleSource": "pcPages",
+          "characters": [
+            {
+              "page": "People/PCs/Dunmar Fellowship/Guests/Mikasa.md",
+              "kind": "guest",
+              "source": "affiliation"
+            },
+            {
+              "page": "People/PCs/Dunmar Fellowship/Kenzo.md",
+              "kind": "member",
+              "source": "affiliation"
+            }
+          ]
+        },
+        {
+          "player": "David Schwartz",
+          "role": "core",
+          "roleSource": "pcPages",
+          "characters": [
+            {
+              "page": "People/PCs/Dunmar Fellowship/Companions/Baxter.md",
+              "kind": "companion",
+              "source": "affiliation"
+            },
+            {
+              "page": "People/PCs/Dunmar Fellowship/Guests/Thror.md",
+              "kind": "guest",
+              "source": "affiliation"
+            },
+            {
+              "page": "People/PCs/Dunmar Fellowship/Wellby.md",
+              "kind": "member",
+              "source": "affiliation"
+            }
+          ]
+        },
+        {
+          "player": "Kate Sackton",
+          "role": "core",
+          "roleSource": "manual",
+          "characters": [
+            {
+              "page": "People/PCs/Dunmar Fellowship/Guests/Aristaea.md",
+              "kind": "guest",
+              "source": "affiliation"
+            },
+            {
+              "page": "People/PCs/Dunmar Fellowship/Guests/Spirala.md",
+              "kind": "guest",
+              "source": "affiliation"
+            },
+            {
+              "page": "People/PCs/Dunmar Fellowship/Riswynn.md",
+              "kind": "member",
+              "source": "affiliation"
+            }
+          ]
+        },
+        {
+          "player": "John Leeker",
+          "role": "other",
+          "roleSource": "manual",
+          "characters": [
+            {
+              "page": "People/PCs/Dunmar Fellowship/Guests/Alimash.md",
+              "kind": "guest",
+              "source": "affiliation"
+            },
+            {
+              "page": "People/PCs/Dunmar Fellowship/Guests/Drikod.md",
+              "kind": "guest",
+              "source": "affiliation"
+            }
+          ]
+        },
+        {
+          "player": "Phil Grayson",
+          "role": "other",
+          "roleSource": "pcPages",
+          "characters": [
+            {
+              "page": "People/PCs/Dunmar Fellowship/Guests/Iascaire.md",
+              "kind": "guest",
+              "source": "affiliation"
+            },
+            {
+              "page": "People/PCs/Dunmar Fellowship/Guests/Rothfis.md",
+              "kind": "guest",
+              "source": "affiliation"
+            },
+            {
+              "page": "People/PCs/Dunmar Fellowship/Guests/Shoal.md",
+              "kind": "guest",
+              "source": "affiliation"
+            }
+          ]
+        },
+        {
+          "player": "Sara Smith",
+          "role": "other",
+          "roleSource": "pcPages",
+          "characters": [
+            {
+              "page": "People/PCs/Dunmar Fellowship/Guests/Merash.md",
+              "kind": "guest",
+              "source": "affiliation"
+            }
+          ]
+        },
+        {
+          "player": "Isaac Sackton",
+          "role": "other",
+          "roleSource": "pcPages",
+          "characters": [
+            {
+              "page": "People/PCs/Dunmar Fellowship/Guests/Raven.md",
+              "kind": "guest",
+              "source": "affiliation"
+            }
+          ]
+        }
+      ],
+      "latestSession": {
+        "value": "139",
+        "source": "_sessions/dunmar-frontier/dunmari-frontier-139/cleaned/dunmar-frontier-139-session.yaml"
+      },
+      "dates": {
+        "realFirst": {
+          "value": "2020-05-29",
+          "source": "Campaigns/Dunmari Frontier Campaign/Session Notes/Dunmar Frontier - Session 01.md",
+          "session": "1"
+        },
+        "realLatest": {
+          "value": "2025-10-25",
+          "source": "_sessions/dunmar-frontier/dunmari-frontier-139/cleaned/dunmar-frontier-139-session.yaml",
+          "session": "139"
+        },
+        "worldFirst": {
+          "value": "1748-03-22",
+          "source": "Campaigns/Dunmari Frontier Campaign/Session Notes/Dunmar Frontier - Session 01.md",
+          "session": "1"
+        },
+        "worldCurrent": {
+          "value": "1749-11-03",
+          "source": "_sessions/dunmar-frontier/dunmari-frontier-139/cleaned/dunmar-frontier-139-session.yaml",
+          "session": "139"
+        }
+      }
+    },
+    "great-library": {
+      "name": "Great Library",
+      "code": "grli",
+      "dm": "Tim Sackton",
+      "group": "Taelgar jr group",
+      "format": "campaign",
+      "status": "active",
+      "canon": "canonical",
+      "continuities": [
+        "main"
+      ],
+      "partyPage": "People/PCs/Silver Tempests/Silver Tempests.md",
+      "gamePage": "Campaigns/Great Library Campaign/Great Library Campaign.md",
+      "aliases": [
+        "Great Library Campaign",
+        "GL",
+        "gl"
+      ],
+      "sessionNotes": {
+        "notePattern": "Session Notes/Great Library Session Notes - Arc {session}.md",
+        "defaultTemplate": "composable-session-note.md"
+      },
+      "hasRecordings": false,
+      "directories": {
+        "campaign": "Campaigns/Great Library Campaign",
+        "sessionBundles": "_sessions/great-library"
+      },
+      "roster": [
+        {
+          "player": "Isaac Sackton",
+          "role": "core",
+          "roleSource": "pcPages",
+          "characters": [
+            {
+              "page": "People/PCs/Silver Tempests/Adrik.md",
+              "kind": "member",
+              "source": "affiliation"
+            }
+          ]
+        },
+        {
+          "player": "Mi'sol",
+          "role": "core",
+          "roleSource": "pcPages",
+          "characters": [
+            {
+              "page": "People/PCs/Silver Tempests/Brelith.md",
+              "kind": "member",
+              "source": "affiliation"
+            },
+            {
+              "page": "People/PCs/Silver Tempests/Mabist.md",
+              "kind": "member",
+              "source": "affiliation"
+            }
+          ]
+        },
+        {
+          "player": "Sasha Rosan",
+          "role": "core",
+          "roleSource": "pcPages",
+          "characters": [
+            {
+              "page": "People/PCs/Silver Tempests/Friend.md",
+              "kind": "companion",
+              "source": "affiliation"
+            },
+            {
+              "page": "People/PCs/Silver Tempests/Samso.md",
+              "kind": "member",
+              "source": "affiliation"
+            }
+          ]
+        },
+        {
+          "player": "Duncan",
+          "role": "core",
+          "roleSource": "manual",
+          "characters": [
+            {
+              "page": "People/PCs/Silver Tempests/Blue.md",
+              "kind": "member",
+              "source": "affiliation"
+            }
+          ]
+        },
+        {
+          "player": "Owen Bantham-Livermore",
+          "role": "other",
+          "roleSource": "manual",
+          "characters": [
+            {
+              "page": "People/PCs/Silver Tempests/Aelar.md",
+              "kind": "associated",
+              "source": "affiliation"
+            }
+          ]
+        },
+        {
+          "player": "Gabe Raiche",
+          "role": "other",
+          "roleSource": "manual",
+          "characters": [
+            {
+              "page": "People/PCs/Silver Tempests/Aglath.md",
+              "kind": "associated",
+              "source": "affiliation"
+            }
+          ]
+        },
+        {
+          "player": "Bryn",
+          "role": "other",
+          "roleSource": "manual",
+          "characters": [
+            {
+              "page": "People/PCs/Silver Tempests/Alton.md",
+              "kind": "associated",
+              "source": "affiliation"
+            }
+          ]
+        },
+        {
+          "player": "Abigail Raiche",
+          "role": "other",
+          "roleSource": "manual",
+          "characters": [
+            {
+              "page": "People/PCs/Silver Tempests/Scordith.md",
+              "kind": "member",
+              "source": "affiliation"
+            }
+          ]
+        },
+        {
+          "player": "Nathaniel Sackton",
+          "role": "other",
+          "roleSource": "manual",
+          "characters": [
+            {
+              "page": "People/PCs/Other PCs/Oskar's Companions/Oskar.md",
+              "kind": "guest",
+              "source": "manual"
+            },
+            {
+              "page": "People/PCs/Other PCs/Oskar's Companions/Stoneclaw.md",
+              "kind": "companion",
+              "source": "manual"
+            }
+          ]
+        }
+      ],
+      "latestSession": {
+        "value": "68",
+        "source": "Campaigns/Great Library Campaign/Session Notes/Great Library Session Notes - Arc 6.md#Session 68\n"
+      },
+      "dates": {
+        "realLatest": {
+          "value": "2026-11-14",
+          "source": "Campaigns/Great Library Campaign/Session Notes/Great Library Session Notes - Arc 6.md#Session 68\n",
+          "session": "68"
+        },
+        "worldFirst": {
+          "value": "1747-02-16",
+          "source": "Campaigns/Great Library Campaign/Session Notes/Great Library Session Notes - Arc 1.md#Session 0\n",
+          "session": "0"
+        },
+        "worldCurrent": {
+          "value": "1752-07-05",
+          "source": "Campaigns/Great Library Campaign/Session Notes/Great Library Session Notes - Arc 6.md#Session 68\n",
+          "session": "68",
+          "detail": "Arc endpoint; session 68 describes the arrival date as inferred from travel time."
+        },
+        "realFirst": {
+          "value": "2019-08-26",
+          "source": "manual",
+          "session": "0",
+          "detail": "Inferred from Tim’s recollection of a weekday adventure with Isaac and Sasha during Isaac’s camp-free week, before session 1 on August 27."
+        }
+      },
+      "displayName": "Great Library Campaign"
+    },
+    "greatwar": {
+      "name": "Heroes of the Great War",
+      "code": "greatwar",
+      "dm": "Tim Sackton",
+      "group": "original Taelgar group",
+      "format": "campaign",
+      "status": "finished",
+      "canon": "selective",
+      "canonNote": "The four heroes, the Great War, and the defeat of Cha’mutte are canonical. The broad arc survives, while individual adventure details are often uncertain.",
+      "continuities": [
+        "main"
+      ],
+      "partyPage": "People/PCs/Great War/Heroes of the Great War.md",
+      "gamePage": "Campaigns/Great War Campaign/Great War Campaign.md",
+      "hasRecordings": false,
+      "directories": {
+        "campaign": "Campaigns/Great War Campaign"
+      },
+      "roster": [
+        {
+          "player": "Mike Sackton",
+          "role": "core",
+          "roleSource": "pcPages",
+          "characters": [
+            {
+              "page": "People/PCs/Great War/Beryl.md",
+              "kind": "member",
+              "source": "affiliation"
+            },
+            {
+              "page": "People/PCs/Great War/Companions/Willow Wind.md",
+              "kind": "companion",
+              "source": "affiliation"
+            }
+          ]
+        },
+        {
+          "player": "Eric Rosenbaum",
+          "role": "core",
+          "roleSource": "pcPages",
+          "characters": [
+            {
+              "page": "People/PCs/Great War/Kyr.md",
+              "kind": "member",
+              "source": "affiliation"
+            }
+          ]
+        },
+        {
+          "player": "David Kong",
+          "role": "core",
+          "roleSource": "pcPages",
+          "characters": [
+            {
+              "page": "People/PCs/Great War/Companions/Dimitaur.md",
+              "kind": "companion",
+              "source": "affiliation"
+            },
+            {
+              "page": "People/PCs/Great War/Rai.md",
+              "kind": "member",
+              "source": "affiliation"
+            }
+          ]
+        },
+        {
+          "player": "David Schwartz",
+          "role": "core",
+          "roleSource": "pcPages",
+          "characters": [
+            {
+              "page": "People/PCs/Great War/Aerin.md",
+              "kind": "member",
+              "source": "affiliation"
+            }
+          ]
+        }
+      ],
+      "dates": {
+        "worldFirst": {
+          "value": "1544",
+          "source": "Campaigns/Campaign Inventory.md",
+          "detail": "Approximate year.",
+          "session": "1"
+        },
+        "worldCurrent": {
+          "value": "1545",
+          "source": "Campaigns/Campaign Inventory.md",
+          "detail": "Year of the final battle.",
+          "session": "110"
+        },
+        "realFirst": {
+          "value": "1993 (fall)",
+          "source": "manual",
+          "detail": "started fall of freshman year in high school (1993-1994 school year)",
+          "session": "1"
+        },
+        "realLatest": {
+          "value": "1997 (late spring)",
+          "source": "manual",
+          "detail": "ended around high school graduation, late spring or early summer 1997",
+          "session": "110"
+        }
+      },
+      "latestSession": {
+        "value": "110",
+        "source": "manual",
+        "detail": "estimated based on ~140 possible weeks during the play interval, and assuming some missed weeks and periods of every-other-week play"
+      }
+    },
+    "mawar-adventures": {
+      "name": "Mawar Adventures",
+      "code": "mawar",
+      "dm": "Tim Sackton",
+      "group": "original Taelgar group",
+      "format": "episodic",
+      "status": "finished",
+      "canon": "canonical",
+      "continuities": [
+        "main"
+      ],
+      "partyPage": "People/PCs/Mawar/Adventurers of Mawar.md",
+      "gamePage": "Campaigns/Mawar Adventures/Mawar Adventures.md",
+      "aliases": [
+        "Mawar"
+      ],
+      "sessionNotes": {
+        "notePattern": "Episodes/Mawar Adventures Episode {session_padded}.md",
+        "defaultTemplate": "mawar-template.md"
+      },
+      "hasRecordings": true,
+      "directories": {
+        "campaign": "Campaigns/Mawar Adventures",
+        "sessionBundles": "_sessions/mawar",
+        "recordings": "sessions/recordings/mawar"
+      },
+      "roster": [
+        {
+          "player": "David Kong",
+          "role": "core",
+          "roleSource": "pcPages",
+          "characters": [
+            {
+              "page": "People/PCs/Mawar/Blu.md",
+              "kind": "companion",
+              "source": "affiliation"
+            },
+            {
+              "page": "People/PCs/Mawar/Geo.md",
+              "kind": "companion",
+              "source": "affiliation"
+            },
+            {
+              "page": "People/PCs/Mawar/Ryu.md",
+              "kind": "member",
+              "source": "affiliation"
+            },
+            {
+              "page": "People/PCs/Mawar/Turk.md",
+              "kind": "companion",
+              "source": "affiliation"
+            }
+          ]
+        },
+        {
+          "player": "Mike Sackton",
+          "role": "core",
+          "roleSource": "pcPages",
+          "characters": [
+            {
+              "page": "People/PCs/Mawar/Wazir.md",
+              "kind": "member",
+              "source": "affiliation"
+            }
+          ]
+        },
+        {
+          "player": "Eric Rosenbaum",
+          "role": "core",
+          "roleSource": "pcPages",
+          "characters": [
+            {
+              "page": "People/PCs/Mawar/Trok.md",
+              "kind": "member",
+              "source": "affiliation"
+            }
+          ]
+        },
+        {
+          "player": "David Schwartz",
+          "role": "core",
+          "roleSource": "pcPages",
+          "characters": [
+            {
+              "page": "People/PCs/Mawar/Ander.md",
+              "kind": "member",
+              "source": "affiliation"
+            }
+          ]
+        },
+        {
+          "player": "Kate Sackton",
+          "role": "core",
+          "roleSource": "pcPages",
+          "characters": [
+            {
+              "page": "People/PCs/Mawar/Nerissa.md",
+              "kind": "member",
+              "source": "affiliation"
+            }
+          ]
+        },
+        {
+          "player": "John Leeker",
+          "role": "core",
+          "roleSource": "pcPages",
+          "characters": [
+            {
+              "page": "People/PCs/Mawar/Kaleho.md",
+              "kind": "member",
+              "source": "affiliation"
+            }
+          ]
+        }
+      ],
+      "latestSession": {
+        "value": "5",
+        "source": "Campaigns/Mawar Adventures/Episodes/Mawar Adventures Episode 05.md"
+      },
+      "dates": {
+        "realFirst": {
+          "value": "2021-07-24",
+          "source": "Campaigns/Mawar Adventures/Episodes/Mawar Adventures Episode 01.md",
+          "session": "1"
+        },
+        "realLatest": {
+          "value": "2026-03-10",
+          "source": "Campaigns/Mawar Adventures/Episodes/Mawar Adventures Episode 05.md",
+          "session": "5"
+        },
+        "worldFirst": {
+          "value": "1747-07-23",
+          "source": "Campaigns/Mawar Adventures/Episodes/Mawar Adventures Episode 01.md",
+          "session": "1"
+        },
+        "worldCurrent": {
+          "value": "1749-05-27",
+          "source": "Campaigns/Mawar Adventures/Episodes/Mawar Adventures Episode 05.md",
+          "session": "5"
+        }
+      }
+    },
+    "oskars-adventures": {
+      "name": "Oskar's Adventures",
+      "code": "oskar",
+      "dm": "Tim Sackton",
+      "group": "family group",
+      "format": "episodic",
+      "status": "finished",
+      "canon": "canonical",
+      "canonNote": "Oskar and Riswynn are canonical. The inventory leaves the status of some guest characters open.",
+      "continuities": [
+        "main"
+      ],
+      "partyPage": "People/PCs/Other PCs/Oskar's Companions/Oskar's Companions.md",
+      "gamePage": "Campaigns/One Shots/Oskar's Adventures/Oskar in Tharn Todor.md",
+      "sessionNotes": {
+        "notePattern": "Oskar's Adventures - Session {session_padded}.md",
+        "defaultTemplate": "composable-session-note.md"
+      },
+      "hasRecordings": false,
+      "directories": {
+        "campaign": "Campaigns/One Shots/Oskar's Adventures",
+        "sessionBundles": "_sessions/oskars-adventures"
+      },
+      "roster": [
+        {
+          "player": "Nathaniel Sackton",
+          "role": "core",
+          "roleSource": "draft",
+          "characters": [
+            {
+              "page": "People/PCs/Other PCs/Oskar's Companions/Oskar.md",
+              "kind": "member",
+              "source": "affiliation"
+            },
+            {
+              "page": "People/PCs/Other PCs/Oskar's Companions/Stoneclaw.md",
+              "kind": "companion",
+              "source": "affiliation"
+            }
+          ]
+        },
+        {
+          "player": "Kate Sackton",
+          "role": "core",
+          "roleSource": "draft",
+          "characters": [
+            {
+              "page": "People/PCs/Dunmar Fellowship/Riswynn.md",
+              "kind": "associated",
+              "source": "partyPage"
+            }
+          ]
+        },
+        {
+          "player": "Isaac Sackton",
+          "role": "core",
+          "roleSource": "draft",
+          "characters": [
+            {
+              "page": "People/PCs/Other PCs/Oskar's Companions/Agnor.md",
+              "kind": "associated",
+              "source": "affiliation"
+            },
+            {
+              "page": "People/PCs/Other PCs/Oskar's Companions/Eva.md",
+              "kind": "associated",
+              "source": "affiliation"
+            },
+            {
+              "page": "People/PCs/Other PCs/Oskar's Companions/Ken-to.md",
+              "kind": "associated",
+              "source": "affiliation"
+            }
+          ]
+        },
+        {
+          "player": "Sasha Rosan",
+          "role": "other",
+          "roleSource": "draft",
+          "characters": [
+            {
+              "page": "People/PCs/Other PCs/Oskar's Companions/Ghemdorn.md",
+              "kind": "associated",
+              "source": "affiliation"
+            }
+          ]
+        }
+      ],
+      "latestSession": {
+        "value": "3",
+        "source": "Campaigns/One Shots/Oskar's Adventures/Oskar in Tharn Todor.md#Episode 3: The Cultist's Cave"
+      },
+      "dates": {
+        "realFirst": {
+          "value": "2021-05-02",
+          "session": "1",
+          "source": "manual",
+          "detail": "Inferred by Tim as Sunday, May 2. The episode 1 Chuul note is dated Monday, May 3 and records the outcome."
+        },
+        "realLatest": {
+          "value": "2021-08-08",
+          "session": "3",
+          "source": "manual",
+          "detail": "Tim confirmed the August 8 Family D&D calendar booking was episode 3, The Cultist’s Cave."
+        },
+        "worldFirst": {
+          "value": "1748-05-09",
+          "source": "Campaigns/One Shots/Oskar's Adventures/Oskar in Tharn Todor.md",
+          "session": "1",
+          "detail": "The first played action is the May 9 meeting in Tharn Todor. The April 24 meteor fall is backstory for episode 2."
+        },
+        "worldCurrent": {
+          "value": "1748-06-03",
+          "source": "Campaigns/One Shots/Oskar's Adventures/Oskar in Tharn Todor.md",
+          "session": "3"
+        }
+      },
+      "notes": "The vault registry reserves _sessions/oskars-adventures for future session bundles. The three played episodes are documented in Oskar in Tharn Todor."
+    },
+    "into-the-chasm": {
+      "name": "Into the Chasm",
+      "code": "itc",
+      "dm": "Mike Sackton",
+      "group": "original Taelgar group",
+      "format": "mini-campaign",
+      "status": "finished",
+      "canon": "canonical",
+      "continuities": [
+        "main"
+      ],
+      "partyPage": "People/PCs/Other PCs/Into the Chasm/Chasm Explorers.md",
+      "gamePage": "Campaigns/One Shots/Into the Chasm/Into the Chasm.md",
+      "sessionNotes": {
+        "notePattern": "Into the Chasm - Episode {session_padded}.md",
+        "defaultTemplate": "into-the-chasm-template.md"
+      },
+      "hasRecordings": true,
+      "directories": {
+        "campaign": "Campaigns/One Shots/Into the Chasm",
+        "sessionBundles": "_sessions/into-the-chasm",
+        "recordings": "sessions/recordings/chasm"
+      },
+      "roster": [
+        {
+          "player": "Tim Sackton",
+          "role": "core",
+          "roleSource": "pcPages",
+          "characters": [
+            {
+              "page": "People/PCs/Other PCs/Into the Chasm/Finnan Oakstride.md",
+              "kind": "member",
+              "source": "affiliation"
+            }
+          ]
+        },
+        {
+          "player": "Kate Sackton",
+          "role": "core",
+          "roleSource": "pcPages",
+          "characters": [
+            {
+              "page": "People/PCs/Other PCs/Into the Chasm/Jrain Fanlish.md",
+              "kind": "member",
+              "source": "affiliation"
+            },
+            {
+              "page": "People/PCs/Other PCs/Into the Chasm/Rala.md",
+              "kind": "companion",
+              "source": "affiliation"
+            }
+          ]
+        },
+        {
+          "player": "Eric Rosenbaum",
+          "role": "core",
+          "roleSource": "pcPages",
+          "characters": [
+            {
+              "page": "People/PCs/Other PCs/Into the Chasm/Eolo.md",
+              "kind": "member",
+              "source": "affiliation"
+            }
+          ]
+        },
+        {
+          "player": "David Kong",
+          "role": "core",
+          "roleSource": "pcPages",
+          "characters": [
+            {
+              "page": "People/PCs/Other PCs/Into the Chasm/Ekko.md",
+              "kind": "member",
+              "source": "affiliation"
+            }
+          ]
+        },
+        {
+          "player": "David Schwartz",
+          "role": "core",
+          "roleSource": "pcPages",
+          "characters": [
+            {
+              "page": "People/PCs/Other PCs/Into the Chasm/Justas Rhostrin.md",
+              "kind": "member",
+              "source": "affiliation"
+            }
+          ]
+        }
+      ],
+      "latestSession": {
+        "value": "6",
+        "source": "Campaigns/One Shots/Into the Chasm/Into the Chasm - Episode 06.md"
+      },
+      "dates": {
+        "realFirst": {
+          "value": "2025-11-17",
+          "source": "Campaigns/One Shots/Into the Chasm/Into the Chasm - Episode 01.md",
+          "session": "1"
+        },
+        "realLatest": {
+          "value": "2026-02-04",
+          "source": "Campaigns/One Shots/Into the Chasm/Into the Chasm - Episode 06.md",
+          "session": "6"
+        },
+        "worldFirst": {
+          "value": "1730-01-25",
+          "source": "Campaigns/One Shots/Into the Chasm/Into the Chasm - Episode 01.md",
+          "session": "1"
+        },
+        "worldCurrent": {
+          "value": "1730-01-29",
+          "source": "Campaigns/One Shots/Into the Chasm/Into the Chasm - Episode 06.md",
+          "session": "6"
+        }
+      }
+    },
+    "lost-in-the-feywild": {
+      "name": "Lost in the Feywild",
+      "code": "feywild",
+      "dm": "David Schwartz",
+      "group": "original Taelgar group",
+      "format": "mini-campaign",
+      "status": "finished",
+      "canon": "canonical",
+      "continuities": [
+        "main"
+      ],
+      "partyPage": "People/PCs/Other PCs/Tollen Misfits/Tollen Misfits.md",
+      "gamePage": "Campaigns/One Shots/Lost in the Feywild/Lost in the Feywild.md",
+      "aliases": [
+        "litf"
+      ],
+      "sessionNotes": {
+        "notePattern": "Lost in the Feywild - Episode {session_padded}.md",
+        "defaultTemplate": "composable-session-note.md"
+      },
+      "hasRecordings": true,
+      "directories": {
+        "campaign": "Campaigns/One Shots/Lost in the Feywild",
+        "sessionBundles": "_sessions/feywild",
+        "recordings": "sessions/recordings/feywild"
+      },
+      "roster": [
+        {
+          "player": "Tim Sackton",
+          "role": "core",
+          "roleSource": "pcPages",
+          "characters": [
+            {
+              "page": "People/PCs/Other PCs/Tollen Misfits/Txarro.md",
+              "kind": "member",
+              "source": "affiliation"
+            }
+          ]
+        },
+        {
+          "player": "Kate Sackton",
+          "role": "core",
+          "roleSource": "pcPages",
+          "characters": [
+            {
+              "page": "People/PCs/Other PCs/Tollen Misfits/Ayveen.md",
+              "kind": "member",
+              "source": "affiliation"
+            }
+          ]
+        },
+        {
+          "player": "Eric Rosenbaum",
+          "role": "core",
+          "roleSource": "pcPages",
+          "characters": [
+            {
+              "page": "People/PCs/Other PCs/Tollen Misfits/Tarek.md",
+              "kind": "member",
+              "source": "affiliation"
+            }
+          ]
+        },
+        {
+          "player": "David Kong",
+          "role": "core",
+          "roleSource": "pcPages",
+          "characters": [
+            {
+              "page": "People/PCs/Other PCs/Tollen Misfits/Kaito Min.md",
+              "kind": "member",
+              "source": "affiliation"
+            }
+          ]
+        },
+        {
+          "player": "Mike Sackton",
+          "role": "core",
+          "roleSource": "pcPages",
+          "characters": [
+            {
+              "page": "People/PCs/Other PCs/Tollen Misfits/Edric.md",
+              "kind": "member",
+              "source": "affiliation"
+            },
+            {
+              "page": "People/PCs/Other PCs/Tollen Misfits/Mossfoot.md",
+              "kind": "companion",
+              "source": "affiliation"
+            }
+          ]
+        }
+      ],
+      "latestSession": {
+        "value": "7",
+        "source": "Campaigns/One Shots/Lost in the Feywild/Lost in the Feywild - Episode 07.md"
+      },
+      "dates": {
+        "realFirst": {
+          "value": "2026-05-14",
+          "source": "Campaigns/One Shots/Lost in the Feywild/Lost in the Feywild - Episode 01.md",
+          "session": "1"
+        },
+        "realLatest": {
+          "value": "2026-08-04",
+          "source": "Campaigns/One Shots/Lost in the Feywild/Lost in the Feywild - Episode 07.md",
+          "session": "7"
+        },
+        "worldFirst": {
+          "value": "1740-10-03",
+          "source": "Campaigns/One Shots/Lost in the Feywild/Lost in the Feywild - Episode 01.md",
+          "session": "1"
+        },
+        "worldCurrent": {
+          "value": "1740-10-06",
+          "source": "Campaigns/One Shots/Lost in the Feywild/Lost in the Feywild - Episode 07.md",
+          "session": "7"
+        }
+      }
+    },
+    "labyrinths-of-the-lost": {
+      "name": "Labyrinths of the Lost",
+      "code": "lablost",
+      "dm": "Tim Sackton",
+      "group": "other",
+      "format": "one-shot",
+      "status": "finished",
+      "canon": "canonical",
+      "continuities": [
+        "main"
+      ],
+      "partyPage": "People/PCs/Other PCs/Labyrinth Prisoners/Labyrinth Prisoners.md",
+      "gamePage": "Campaigns/One Shots/Labyrinths of the Lost/Labyrinths of the Lost.md",
+      "aliases": [
+        "ll"
+      ],
+      "sessionNotes": {
+        "notePattern": "Labyrinths of the Lost - Session {session}.md",
+        "defaultTemplate": "lablost-template.md"
+      },
+      "hasRecordings": true,
+      "directories": {
+        "campaign": "Campaigns/One Shots/Labyrinths of the Lost",
+        "sessionBundles": "_sessions/lablost",
+        "recordings": "sessions/recordings/lab-lost"
+      },
+      "roster": [
+        {
+          "player": "Dylan",
+          "role": "core",
+          "roleSource": "pcPages",
+          "characters": [
+            {
+              "page": "People/PCs/Other PCs/Labyrinth Prisoners/Dilion.md",
+              "kind": "member",
+              "source": "affiliation"
+            },
+            {
+              "page": "People/PCs/Other PCs/Labyrinth Prisoners/Pikeia.md",
+              "kind": "companion",
+              "source": "affiliation"
+            },
+            {
+              "page": "People/PCs/Other PCs/Labyrinth Prisoners/Steampup.md",
+              "kind": "companion",
+              "source": "affiliation"
+            }
+          ]
+        },
+        {
+          "player": "John Leeker",
+          "role": "core",
+          "roleSource": "pcPages",
+          "characters": [
+            {
+              "page": "People/PCs/Other PCs/Labyrinth Prisoners/Gaudin.md",
+              "kind": "member",
+              "source": "affiliation"
+            }
+          ]
+        },
+        {
+          "player": "Phil Grayson",
+          "role": "core",
+          "roleSource": "pcPages",
+          "characters": [
+            {
+              "page": "People/PCs/Other PCs/Labyrinth Prisoners/Acescale.md",
+              "kind": "member",
+              "source": "affiliation"
+            }
+          ]
+        },
+        {
+          "player": "Sara Smith",
+          "role": "core",
+          "roleSource": "pcPages",
+          "characters": [
+            {
+              "page": "People/PCs/Other PCs/Labyrinth Prisoners/Loria Underbough.md",
+              "kind": "member",
+              "source": "affiliation"
+            }
+          ]
+        }
+      ],
+      "latestSession": {
+        "value": "3",
+        "source": "Campaigns/One Shots/Labyrinths of the Lost/Labyrinths of the Lost - Session 3.md"
+      },
+      "dates": {
+        "realFirst": {
+          "value": "2023-11-12",
+          "source": "Campaigns/One Shots/Labyrinths of the Lost/Labyrinths of the Lost - Session 1.md",
+          "session": "1"
+        },
+        "realLatest": {
+          "value": "2023-12-10",
+          "source": "Campaigns/One Shots/Labyrinths of the Lost/Labyrinths of the Lost - Session 3.md",
+          "session": "3"
+        },
+        "worldFirst": {
+          "value": "1748-10-17",
+          "source": "Campaigns/One Shots/Labyrinths of the Lost/Labyrinths of the Lost - Session 1.md",
+          "session": "1"
+        },
+        "worldCurrent": {
+          "value": "1748-10-19",
+          "source": "Campaigns/One Shots/Labyrinths of the Lost/Labyrinths of the Lost - Session 3.md",
+          "session": "3"
+        }
+      }
+    },
+    "dragonets": {
+      "name": "Dragonets",
+      "code": "dragon",
+      "dm": "David Kong",
+      "group": "original Taelgar group",
+      "format": "mini-campaign",
+      "status": "finished",
+      "canon": "canonical",
+      "continuities": [
+        "taelgar-2"
+      ],
+      "gamePage": "Campaigns/Dragonets/Dragonets Campaign.md",
+      "aliases": [
+        "Dragonets Campaign",
+        "dgnt"
+      ],
+      "sessionNotes": {
+        "notePattern": "Session Notes/Dragonets - Session {session_padded}.md",
+        "defaultTemplate": "dragonets-template.md"
+      },
+      "hasRecordings": true,
+      "directories": {
+        "campaign": "Campaigns/Dragonets",
+        "sessionBundles": "_sessions/dragonets",
+        "recordings": "sessions/recordings/dragonets"
+      },
+      "roster": [
+        {
+          "player": "Tim Sackton",
+          "role": "core",
+          "roleSource": "manual",
+          "characters": [
+            {
+              "name": "Heska",
+              "kind": "member"
+            }
+          ]
+        },
+        {
+          "player": "Mike Sackton",
+          "role": "core",
+          "roleSource": "manual",
+          "characters": [
+            {
+              "name": "Sculpit",
+              "kind": "member"
+            }
+          ]
+        },
+        {
+          "player": "David Schwartz",
+          "role": "core",
+          "roleSource": "manual",
+          "characters": [
+            {
+              "name": "Little Tony",
+              "kind": "member"
+            }
+          ]
+        },
+        {
+          "player": "Eric Rosenbaum",
+          "role": "core",
+          "roleSource": "manual",
+          "characters": [
+            {
+              "name": "Zeno",
+              "kind": "member"
+            }
+          ]
+        }
+      ],
+      "latestSession": {
+        "value": "3",
+        "source": "_sessions/dragonets/dragonets-003/cleaned/dragonets-003-session.yaml"
+      },
+      "dates": {
+        "realFirst": {
+          "value": "2026-09-17",
+          "source": "Campaigns/Dragonets/Session Notes/Dragonets - Session 01.md",
+          "session": "1"
+        },
+        "realLatest": {
+          "value": "2026-10-05",
+          "source": "_sessions/dragonets/dragonets-003/cleaned/dragonets-003-session.yaml",
+          "session": "3"
+        },
+        "worldFirst": {
+          "value": "About 50 years after the Godfall",
+          "session": "1",
+          "source": "manual",
+          "detail": "Approximate campaign setting in taelgar-2, supplied by Tim. Individual session dates are unknown."
+        },
+        "worldCurrent": {
+          "value": "About 50 years after the Godfall",
+          "session": "3",
+          "source": "manual",
+          "detail": "Approximate campaign setting in taelgar-2, supplied by Tim. Individual session dates are unknown."
+        }
+      }
+    },
+    "elderwood": {
+      "name": "Elderwood Heist",
+      "code": "elderwood",
+      "dm": "Tim Sackton",
+      "group": "original Taelgar group",
+      "format": "one-shot",
+      "status": "finished",
+      "canon": "canonical",
+      "continuities": [
+        "taelgar-2"
+      ],
+      "hasRecordings": true,
+      "directories": {
+        "recordings": "sessions/recordings/elderwood-heist"
+      },
+      "roster": [
+        {
+          "player": "Eric Rosenbaum",
+          "role": "core",
+          "roleSource": "manual",
+          "characters": [
+            {
+              "name": "Kelvin",
+              "kind": "member"
+            }
+          ]
+        },
+        {
+          "player": "Mike Sackton",
+          "role": "core",
+          "roleSource": "manual",
+          "characters": [
+            {
+              "name": "Torvek Karthun",
+              "kind": "member"
+            }
+          ]
+        },
+        {
+          "player": "David Schwartz",
+          "role": "core",
+          "roleSource": "manual",
+          "characters": [
+            {
+              "name": "Aurock",
+              "kind": "member"
+            }
+          ]
+        },
+        {
+          "player": "David Kong",
+          "role": "core",
+          "roleSource": "manual",
+          "characters": [
+            {
+              "name": "Turok",
+              "kind": "member"
+            }
+          ]
+        }
+      ],
+      "dates": {
+        "realFirst": {
+          "value": "2026-10-15",
+          "source": "manual",
+          "session": "1"
+        },
+        "realLatest": {
+          "value": "2026-10-17",
+          "source": "manual",
+          "session": "4"
+        },
+        "worldFirst": {
+          "value": "About 200 years after the Godfall",
+          "session": "1",
+          "source": "manual",
+          "detail": "Approximate campaign setting in taelgar-2, supplied by Tim. Individual session dates are unknown."
+        },
+        "worldCurrent": {
+          "value": "About 200 years after the Godfall",
+          "session": "4",
+          "source": "manual",
+          "detail": "Approximate campaign setting in taelgar-2, supplied by Tim. Individual session dates are unknown."
+        }
+      },
+      "latestSession": {
+        "source": "manual",
+        "value": "4",
+        "detail": "thurs, fri part 1, fri part 2, sat"
+      }
+    },
+    "plaguelands": {
+      "name": "Plaguelands",
+      "code": "plaguelands",
+      "dm": "Tim Sackton",
+      "group": "family group",
+      "format": "campaign",
+      "status": "abandoned",
+      "canon": "noncanonical",
+      "hasRecordings": false,
+      "roster": [
+        {
+          "player": "Kate Sackton",
+          "role": "core",
+          "roleSource": "manual",
+          "characters": [
+            {
+              "name": "Meriele",
+              "description": "Elf Lore bard"
+            }
+          ]
+        },
+        {
+          "player": "Isaac Sackton",
+          "role": "core",
+          "roleSource": "manual",
+          "characters": [
+            {
+              "name": "Evendur",
+              "description": "Human Wild Magic sorcerer"
+            }
+          ]
+        },
+        {
+          "player": "Nathaniel Sackton",
+          "role": "core",
+          "roleSource": "manual",
+          "characters": [
+            {
+              "name": "Thardin Craigfire",
+              "description": "Dwarven Devotion paladin"
+            }
+          ]
+        },
+        {
+          "player": "Charli Sackton",
+          "role": "other",
+          "roleSource": "manual",
+          "characters": [
+            {
+              "name": "Arvid Starkast",
+              "description": "Stoneborn Tempest cleric"
+            }
+          ]
+        },
+        {
+          "player": "Mike Sackton",
+          "role": "other",
+          "roleSource": "manual"
+        }
+      ],
+      "continuities": [
+        "main"
+      ],
+      "dates": {
+        "realFirst": {
+          "value": "2019-07-08",
+          "session": "1",
+          "source": "manual",
+          "detail": "Assumed first date of the four Nantucket sessions in the reviewed reconstruction."
+        },
+        "realLatest": {
+          "value": "2020-09-27",
+          "session": "24",
+          "source": "manual",
+          "detail": "Assumed final played date, based on Tim’s recollection and the September 27 return-session notes."
+        }
+      },
+      "latestSession": {
+        "value": "24",
+        "source": "manual",
+        "detail": "24 played sessions in the reviewed Plaguelands session log."
+      },
+      "notes": "Mike played as a guest. His character assignments are uncertain. Tim sent him Maglor’s sheet in October 2019 and Efrin’s in April 2020."
+    },
+    "ausson": {
+      "name": "Ausson's Crossing",
+      "code": "aucross",
+      "dm": "Mike Sackton",
+      "group": "Mike's college group",
+      "format": "mini-campaign",
+      "status": "finished",
+      "canon": "selective",
+      "canonNote": "The setting, major NPCs, broad plot and three PCs are canonical, though the sessions were not recorded and are not well documented so canon is limited by memory and documentation. The fourth PC was reused for Cleenseau and was canonically absent from this adventure.",
+      "continuities": [
+        "main"
+      ],
+      "hasRecordings": false,
+      "roster": [
+        {
+          "player": "Kiya Nicoll",
+          "role": "core",
+          "roleSource": "manual",
+          "characters": [
+            {
+              "page": "People/PCs/Other PCs/Ausson's Crossing/Izar.md",
+              "kind": "member"
+            }
+          ]
+        },
+        {
+          "player": "Matt Rand",
+          "role": "core",
+          "roleSource": "manual",
+          "characters": [
+            {
+              "page": "People/PCs/Other PCs/Ausson's Crossing/Soarine.md",
+              "kind": "member"
+            }
+          ]
+        },
+        {
+          "player": "Chris Kelly",
+          "role": "core",
+          "roleSource": "manual",
+          "characters": [
+            {
+              "page": "People/PCs/Other PCs/Ausson's Crossing/Roe DoTorka.md",
+              "kind": "member"
+            }
+          ]
+        },
+        {
+          "player": "Dan Walters",
+          "role": "core",
+          "roleSource": "manual",
+          "characters": [
+            {
+              "page": "People/PCs/Cleenseau/Robin of Abenfyrd.md",
+              "kind": "member",
+              "source": "manual",
+              "description": "Dan played Robin in this adventure. His appearance here is noncanonical."
+            }
+          ]
+        }
+      ],
+      "latestSession": {
+        "value": "4",
+        "source": "Campaigns/Campaign Inventory.md",
+        "detail": "The campaign inventory records four sessions."
+      },
+      "dates": {
+        "worldFirst": {
+          "value": "1688-05-16",
+          "session": "1",
+          "source": "_dm_notes/_Ausson's Crossing/AC - Session 1.md"
+        },
+        "worldCurrent": {
+          "value": "1688",
+          "source": "Campaigns/Campaign Inventory.md",
+          "detail": "The campaign ended in DR 1688. May 25 is the last documented day, in session 3. The exact date of the fourth and final session in Taelgar is unknown."
+        },
+        "realFirst": {
+          "value": "2022-09-11",
+          "session": "1",
+          "source": "_dm_notes/_Ausson's Crossing/AC - Session 1.md"
+        },
+        "realLatest": {
+          "value": "2022-12-18",
+          "session": "4",
+          "source": "manual",
+          "detail": "December 18, 2022 is a guess, four Sundays after session 3. Mike Sackton can probably confirm or correct the date if desired."
+        }
+      },
+      "displayName": "Ausson's Crossing Mini-Campaign"
+    },
+    "stonetitan": {
+      "name": "Stone Titan Starter Adventure",
+      "code": "stonetitan",
+      "dm": "Tim Sackton",
+      "group": "original Taelgar group",
+      "format": "one-shot",
+      "status": "finished",
+      "canon": "selective",
+      "canonNote": "The basic Stone Titan incident is tentatively retained. The PCs and the details of their adventure are likely not. The adventure was run in DR 1580. Later canon discussions consider the Sentinel Range War and the First Hobgoblin War in Sembara.",
+      "continuities": [
+        "main"
+      ],
+      "hasRecordings": true,
+      "directories": {
+        "recordings": "sessions/recordings/_nc-stone-titan"
+      },
+      "roster": [
+        {
+          "player": "Mike Sackton",
+          "role": "core",
+          "roleSource": "manual"
+        },
+        {
+          "player": "Eric Rosenbaum",
+          "role": "core",
+          "roleSource": "manual"
+        },
+        {
+          "player": "David Kong",
+          "role": "core",
+          "roleSource": "manual",
+          "characters": [
+            {
+              "name": "Krunk"
+            }
+          ]
+        },
+        {
+          "player": "David Schwartz",
+          "role": "core",
+          "roleSource": "manual",
+          "characters": [
+            {
+              "name": "Bardtholemew the Competant",
+              "description": "Human bard"
+            }
+          ]
+        }
+      ],
+      "latestSession": {
+        "value": "2",
+        "source": "rpgs:sessions/recordings/_nc-stone-titan/session-02"
+      },
+      "dates": {
+        "realFirst": {
+          "value": "2020-05-01",
+          "source": "rpgs:sessions/recordings/_nc-stone-titan/session-01",
+          "session": "1",
+          "detail": "Dated recording directory."
+        },
+        "realLatest": {
+          "value": "2020-05-15",
+          "source": "rpgs:sessions/recordings/_nc-stone-titan/session-02",
+          "session": "2",
+          "detail": "Dated recording directory."
+        },
+        "worldFirst": {
+          "value": "1580",
+          "session": "1",
+          "source": "_DM_/Brainstorming/Campaigns Overview.md",
+          "detail": "Year of the adventure as run. The canonical placement of the Stone Titan incident remains open."
+        },
+        "worldCurrent": {
+          "value": "1580",
+          "session": "2",
+          "source": "_DM_/Brainstorming/Campaigns Overview.md",
+          "detail": "Year of the adventure as run. The canonical placement of the Stone Titan incident remains open."
+        }
+      },
+      "notes": "Mike and Eric each played a character. Their character names were not recorded."
+    },
+    "mikefamily": {
+      "name": "Mike's Family Game",
+      "code": "mikefam",
+      "dm": "Mike Sackton",
+      "format": "campaign",
+      "status": "abandoned",
+      "canon": "noncanonical",
+      "hasRecordings": false,
+      "roster": [
+        {
+          "player": "Tim Sackton",
+          "role": "core",
+          "roleSource": "manual",
+          "characters": [
+            {
+              "page": "Worldbuilding/Tentative/Caerwyn of Abenfyrd.md",
+              "kind": "member",
+              "source": "manual"
+            }
+          ]
+        },
+        {
+          "player": "Isaac Sackton",
+          "role": "core",
+          "roleSource": "manual"
+        },
+        {
+          "player": "Nathaniel Sackton",
+          "role": "core",
+          "roleSource": "manual"
+        },
+        {
+          "player": "Charli Sackton",
+          "role": "core",
+          "roleSource": "manual"
+        },
+        {
+          "player": "Kate Sackton",
+          "role": "core",
+          "roleSource": "manual",
+          "characters": [
+            {
+              "name": "Zoe Kothashoy",
+              "description": "Human rogue",
+              "kind": "member"
+            }
+          ]
+        },
+        {
+          "player": "Dana Sackton",
+          "role": "core",
+          "roleSource": "manual"
+        }
+      ],
+      "latestSession": {
+        "value": "2",
+        "source": "manual",
+        "detail": "Tim recalls two sessions. The older Campaign Inventory lists three."
+      },
+      "continuities": [
+        "main"
+      ],
+      "dates": {
+        "realFirst": {
+          "value": "2021-07-21",
+          "session": "1",
+          "source": "manual",
+          "detail": "Probable. Tim identifies the 2–5:30 p.m. BUSY block on his work calendar as the Nantucket game. The July 26 email confirms play on the island."
+        },
+        "realLatest": {
+          "value": "2021-09-05",
+          "session": "2",
+          "source": "manual",
+          "detail": "The family calendar names D&D (Sembara/Mike) from 2:30 to 6 p.m. Tim recalls this as the final session."
+        }
+      },
+      "group": "other",
+      "notes": "The party was level 3. Kate and Dana played in the September 5, 2021 session. Dana played an elf whose name is unknown."
+    },
+    "informatics": {
+      "name": "Informatics One Shot",
+      "code": "informatics",
+      "dm": "Tim Sackton",
+      "group": "other",
+      "format": "one-shot",
+      "status": "finished",
+      "canon": "noncanonical",
+      "hasRecordings": false,
+      "roster": [
+        {
+          "player": "Sara Smith",
+          "role": "core",
+          "roleSource": "manual",
+          "characters": [
+            {
+              "name": "Anvanya",
+              "description": "Elf Nature cleric",
+              "kind": "member"
+            }
+          ]
+        },
+        {
+          "player": "Aaron Kitzmiller",
+          "role": "core",
+          "roleSource": "manual",
+          "characters": [
+            {
+              "name": "Camillus",
+              "description": "Human fighter",
+              "kind": "member"
+            }
+          ]
+        },
+        {
+          "player": "Veronika Laine",
+          "role": "core",
+          "roleSource": "manual",
+          "characters": [
+            {
+              "name": "Ulla Ruby-Eye",
+              "description": "Dwarf fighter",
+              "kind": "member"
+            }
+          ]
+        },
+        {
+          "player": "David D'Antonio",
+          "role": "core",
+          "roleSource": "manual",
+          "characters": [
+            {
+              "name": "Darrak Redbeard",
+              "description": "Dwarf Evocation wizard",
+              "kind": "member"
+            }
+          ]
+        },
+        {
+          "player": "Alex Llanos",
+          "role": "core",
+          "roleSource": "manual",
+          "characters": [
+            {
+              "name": "Elicaryn Underfoot",
+              "description": "Halfling rogue",
+              "kind": "member"
+            }
+          ]
+        }
+      ],
+      "latestSession": {
+        "value": "2",
+        "source": "manual"
+      },
+      "continuities": [
+        "main"
+      ],
+      "dates": {
+        "realFirst": {
+          "value": "2021-08-03",
+          "source": "manual",
+          "detail": "Confirmed by Tim against the Informatics calendar dates.",
+          "session": "1"
+        },
+        "realLatest": {
+          "value": "2021-08-09",
+          "source": "manual",
+          "detail": "Confirmed by Tim against the Informatics calendar dates.",
+          "session": "2"
+        }
+      }
+    },
+    "tollenfate": {
+      "name": "Tollen One Shot (FATE)",
+      "code": "tollenfate",
+      "dm": "Tim Sackton",
+      "group": "original Taelgar group",
+      "format": "one-shot",
+      "status": "finished",
+      "canon": "noncanonical",
+      "hasRecordings": true,
+      "directories": {
+        "recordings": "sessions/recordings/_nc-haunted-clocktower/Ep1"
+      },
+      "roster": [
+        {
+          "player": "Eric Rosenbaum",
+          "role": "core",
+          "roleSource": "draft"
+        },
+        {
+          "player": "David Schwartz",
+          "role": "core",
+          "roleSource": "draft"
+        }
+      ],
+      "dates": {
+        "realFirst": {
+          "value": "2022-01-09",
+          "source": "rpgs:sessions/recordings/_nc-haunted-clocktower/Ep1/GMT20220110-015320_Recording.transcript.vtt",
+          "detail": "Date from session archive.",
+          "session": "1"
+        },
+        "realLatest": {
+          "value": "2022-01-09",
+          "source": "rpgs:sessions/recordings/_nc-haunted-clocktower/Ep1/GMT20220110-015320_Recording.transcript.vtt",
+          "detail": "Date from session archive.",
+          "session": "1"
+        }
+      },
+      "continuities": [
+        "main"
+      ],
+      "latestSession": {
+        "value": "1",
+        "source": "manual"
+      },
+      "displayName": "The Curse on the Bridge"
+    },
+    "tollendnd": {
+      "name": "Tollen One Shot (D&D)",
+      "code": "tollendnd",
+      "dm": "Tim Sackton",
+      "group": "original Taelgar group",
+      "format": "one-shot",
+      "status": "finished",
+      "canon": "noncanonical",
+      "hasRecordings": false,
+      "roster": [
+        {
+          "player": "Eric Rosenbaum",
+          "role": "core",
+          "roleSource": "draft"
+        },
+        {
+          "player": "John Leeker",
+          "role": "core",
+          "roleSource": "manual"
+        },
+        {
+          "player": "David Schwartz",
+          "role": "core",
+          "roleSource": "manual"
+        }
+      ],
+      "dates": {
+        "realFirst": {
+          "value": "2022-04-07",
+          "source": "rpgs:sessions/recordings/_nc-haunted-clocktower/2022-04-07-20.20.19-Taelgar-Revisited-asset.txt",
+          "detail": "Date from session archive.",
+          "session": "1"
+        },
+        "realLatest": {
+          "value": "2022-04-07",
+          "source": "rpgs:sessions/recordings/_nc-haunted-clocktower/2022-04-07-20.20.19-Taelgar-Revisited-asset.txt",
+          "detail": "Date from session archive.",
+          "session": "1"
+        }
+      },
+      "continuities": [
+        "main"
+      ],
+      "latestSession": {
+        "source": "manual",
+        "value": "1"
+      },
+      "displayName": "The Haunted Clocktower"
+    },
+    "alexandria": {
+      "name": "Taelgar-17 Alexandria One Shot",
+      "code": "alex2017",
+      "format": "one-shot",
+      "status": "finished",
+      "canon": "canonical",
+      "hasRecordings": null,
+      "roster": [
+        {
+          "player": "Eric Rosenbaum",
+          "role": "core",
+          "roleSource": "manual",
+          "characters": [
+            {
+              "name": "Eric Rosenbaum",
+              "kind": "member"
+            }
+          ]
+        },
+        {
+          "player": "David Kong",
+          "role": "core",
+          "roleSource": "manual",
+          "characters": [
+            {
+              "name": "David Kong",
+              "kind": "member"
+            }
+          ]
+        },
+        {
+          "player": "Mike Sackton",
+          "role": "core",
+          "roleSource": "manual",
+          "characters": [
+            {
+              "name": "Mike Sackton",
+              "kind": "member"
+            }
+          ]
+        },
+        {
+          "player": "David Schwartz",
+          "role": "core",
+          "roleSource": "manual",
+          "characters": [
+            {
+              "name": "David Schwartz",
+              "kind": "member"
+            }
+          ]
+        }
+      ],
+      "dates": {
+        "realFirst": {
+          "value": "2017-08-12",
+          "source": "manual",
+          "detail": "2017 Alexandria Reunion Weekend, 8-11 to 8-13. I believe we played Sat and part of Sun morning.",
+          "session": "1"
+        },
+        "realLatest": {
+          "value": "2017-08-13",
+          "source": "manual",
+          "detail": "2017 Alexandria Reunion Weekend, 8-11 to 8-13. I believe we played Sat and part of Sun morning.",
+          "session": "2"
+        },
+        "worldFirst": {
+          "value": "About 30 years after the Great War",
+          "session": "1",
+          "source": "manual",
+          "detail": "Approximate campaign setting in taelgar-17, supplied by Tim. Individual session dates are unknown."
+        },
+        "worldCurrent": {
+          "value": "About 30 years after the Great War",
+          "session": "2",
+          "source": "manual",
+          "detail": "Approximate campaign setting in taelgar-17, supplied by Tim. Individual session dates are unknown."
+        }
+      },
+      "continuities": [
+        "taelgar-17"
+      ],
+      "dm": "Tim Sackton",
+      "group": "original Taelgar group",
+      "latestSession": {
+        "value": "2",
+        "source": "manual"
+      },
+      "notes": "Recording status is unknown. A voice memo from the reunion weekend may survive."
+    },
+    "greensea": {
+      "name": "Green Sea Campaign",
+      "code": "grse",
+      "dm": "Tim Sackton",
+      "group": "original Taelgar group",
+      "format": "campaign",
+      "status": "planned",
+      "canon": "canonical",
+      "continuities": [
+        "main"
+      ],
+      "gamePage": "Campaigns/Green Sea Campaign/Green Sea Campaign Intro.md",
+      "hasRecordings": false,
+      "directories": {
+        "campaign": "Campaigns/Green Sea Campaign"
+      },
+      "roster": [
+        {
+          "player": "Mike Sackton",
+          "role": "core",
+          "roleSource": "draft"
+        },
+        {
+          "player": "Eric Rosenbaum",
+          "role": "core",
+          "roleSource": "draft"
+        },
+        {
+          "player": "David Kong",
+          "role": "core",
+          "roleSource": "draft"
+        },
+        {
+          "player": "David Schwartz",
+          "role": "core",
+          "roleSource": "draft"
+        },
+        {
+          "player": "Kate Sackton",
+          "role": "core",
+          "roleSource": "draft"
+        }
+      ]
+    },
+    "starsstories": {
+      "name": "Stars and Stories",
+      "code": "stars",
+      "dm": "Eric Rosenbaum",
+      "group": "original Taelgar group",
+      "format": "mini-campaign",
+      "status": "active",
+      "hasRecordings": true,
+      "directories": {
+        "recordings": "sessions/recordings/stars-stories"
+      },
+      "roster": [
+        {
+          "player": "David Kong",
+          "role": "core",
+          "roleSource": "draft",
+          "characters": [
+            {
+              "name": "Ariel"
+            }
+          ]
+        },
+        {
+          "player": "Mike Sackton",
+          "role": "core",
+          "roleSource": "draft",
+          "characters": [
+            {
+              "name": "Merrin Sweetwater"
+            }
+          ]
+        },
+        {
+          "player": "Tim Sackton",
+          "role": "core",
+          "roleSource": "draft",
+          "characters": [
+            {
+              "name": "Tevren"
+            }
+          ]
+        },
+        {
+          "player": "Kate Sackton",
+          "role": "core",
+          "roleSource": "draft",
+          "characters": [
+            {
+              "name": "Lyndria"
+            }
+          ]
+        },
+        {
+          "player": "David Schwartz",
+          "role": "core",
+          "roleSource": "draft",
+          "characters": [
+            {
+              "name": "Wasbeer Pete (“Whisper”)"
+            }
+          ]
+        }
+      ],
+      "dates": {
+        "realFirst": {
+          "value": "2026-11-17",
+          "source": "rpgs:sessions/recordings/stars-stories/GMT20261118-014206_RecordingnewChat.txt",
+          "session": "1"
+        },
+        "realLatest": {
+          "value": "2026-11-17",
+          "source": "rpgs:sessions/recordings/stars-stories/GMT20261118-014206_RecordingnewChat.txt",
+          "session": "1"
+        }
+      },
+      "review": [
+        "Which home continuity does each character come from? Main and taelgar-31 are recorded so far.",
+        "Does the meeting place in session 1 have its own in-world date?"
+      ],
+      "canon": "canonical",
+      "latestSession": {
+        "value": "1",
+        "source": "manual"
+      },
+      "continuities": [
+        "main",
+        "taelgar-31"
+      ]
+    }
+  }
+}
