@@ -19,7 +19,7 @@ def snapshot(root):
 class ExistingBundles(unittest.TestCase):
     def test_campaign_resolution_is_read_only(self):
         vault=Path(os.environ['TRANSCRIPT_TEST_VAULT']).resolve()
-        result=pipeline.resolve(vault,'dunmar','53')
+        result=pipeline.resolve(vault,'dufr','53')
         self.assertEqual(Path(result['bundle']),vault/'_sessions/dunmar-frontier/dunmari-frontier-053')
 
     def test_copy_normalization_preserves_work_and_live_sources(self):
