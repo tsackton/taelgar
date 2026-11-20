@@ -4,7 +4,6 @@ dm: Tim Sackton
 canon: canonical
 continuity: [main]
 campaignDirectory: Campaigns/One Shots/Oskar's Adventures
-sessionBundleDirectory: _sessions/oskars-adventures
 notePattern: Oskar's Adventures - Session {session_padded}.md
 partyPage: People/PCs/Other PCs/Oskar's Companions/Oskar's Companions.md
 name: Oskar's Adventures
