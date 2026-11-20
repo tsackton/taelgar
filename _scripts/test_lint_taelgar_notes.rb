@@ -1866,19 +1866,12 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     @temporary_roots << root
     FileUtils.mkdir_p(File.join(root, "_scripts"))
     LintFixtureVault.write_catalog(root)
-    File.write(
-      File.join(root, "_scripts", "session_note_campaigns.json"),
-      JSON.pretty_generate(
-        "schemaVersion" => 2,
-        "campaigns" => {
-          "great-library" => {
-            "name" => "Great Library",
-            "code" => "grli",
-            "aliases" => ["Great Library Campaign"]
-          }
-        }
-      )
-    )
+    FileUtils.mkdir_p(File.join(root, "_sessions"))
+    FileUtils.mkdir_p(File.join(root, "Campaigns", "_Index"))
+    File.write(File.join(root, "_sessions", "campaign-registry.json"),
+               JSON.generate("grli" => "Campaigns/_Index/Library.md"))
+    File.write(File.join(root, "Campaigns/_Index/Library.md"),
+               "---\nname: Great Library Campaign\ncampaignDirectory: Campaigns/Great Library Campaign\n---\n")
     FileUtils.mkdir_p(File.join(root, "Background"))
     File.write(File.join(root, "Background", "Languages.md"), "# Languages\n\n##### Common\n_Real world analog_: Modern English\n")
     File.write(

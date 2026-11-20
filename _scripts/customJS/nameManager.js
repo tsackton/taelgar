@@ -56,7 +56,7 @@ class NameManager {
 
     getCampaignConfig(codeOrAlias) {
         // `loadMetadata.js` populates this from the authoritative
-        // `_scripts/session_note_campaigns.json` registry.
+        // campaign registry.
 
         const normalize = (value) => (value ?? "").toString().trim()
         const normalizeKey = (value) => normalize(value).toLowerCase()
@@ -394,7 +394,7 @@ class NameManager {
             else if (frontmatter.name) {
                 selectedDescriptiveName = frontmatter.name
             } else if (frontmatter.campaign && frontmatter.sessionNumber) {
-                selectedDescriptiveName = frontmatter.campaign + " " + frontmatter.sessionNumber
+                selectedDescriptiveName = (this.getCampaignConfig(frontmatter.campaign)?.name || frontmatter.campaign) + " " + frontmatter.sessionNumber
             }
         }
 

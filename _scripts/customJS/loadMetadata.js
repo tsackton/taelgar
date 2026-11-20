@@ -47,17 +47,34 @@ class init {
 
     async invoke() {
         const metadataFilePath = app.vault.configDir + "/metadata.json";
-        const campaignRegistryPath = "_scripts/session_note_campaigns.json";
-        const [metadataFile, campaignRegistryFile] = await Promise.all([
+        const [metadataFile, indexFile] = await Promise.all([
             app.vault.adapter.read(metadataFilePath),
-            app.vault.adapter.read(campaignRegistryPath)
+            app.vault.adapter.read("_sessions/campaign-registry.json")
         ])
-
+        const index = JSON.parse(indexFile)
+        if (!index || typeof index !== "object" || Array.isArray(index) || !Object.keys(index).length) {
+            throw new Error("Expected a nonempty campaign index")
+        }
+        const entries = Object.create(null)
+        const seenPaths = new Set()
+        for (const [id, path] of Object.entries(index)) {
+            if (!/^[a-z][a-z0-9]*$/.test(id) || typeof path !== "string" || !path.endsWith(".md") ||
+                path.split("/").some(part => !part || part === ".." || part === ".") || seenPaths.has(path)) {
+                throw new Error(id + ": invalid or duplicate index path " + path)
+            }
+            const file = app.vault.getAbstractFileByPath(path)
+            const fields = file && app.metadataCache.getFileCache(file)?.frontmatter
+            if (typeof fields?.name !== "string" || !fields.name.trim()) {
+                throw new Error(id + ": missing index note or name in " + path)
+            }
+            seenPaths.add(path)
+            entries[id] = {
+                name: fields.name, code: id, campaignRoot: fields.campaignDirectory,
+                notePattern: fields.notePattern, partyPage: fields.partyPage?.replace(/\.md$/, "")
+            }
+        }
         const coreMeta = JSON.parse(metadataFile)
-        const campaignRegistry = this.normalizeCampaignRegistry(JSON.parse(campaignRegistryFile))
-
-        // All runtime consumers receive campaign data derived from the canonical registry.
-        // The legacy metadata.json list can remain temporarily for older external consumers.
+        const campaignRegistry = this.normalizeCampaignRegistry({ campaigns: entries })
         coreMeta.campaigns = campaignRegistry
         customJS.state.coreMeta = coreMeta
         customJS.state.campaignRegistry = campaignRegistry

@@ -18,27 +18,21 @@ async function run() {
     campaigns: [{ code: "voy", partyPage: "Wrong Party" }],
     linkmap: [{ from: "voy", to: "Wrong Party" }],
   };
-  const registry = {
-    schemaVersion: 2,
-    campaigns: {
-      "test-voyage": {
-        name: "Test Voyage",
-        code: "voy",
-        aliases: ["Voyagers"],
-        partyPage: "Fixture Fellowship",
-        campaignRoot: "Campaigns/Test Voyage/",
-        notePattern: "Records/Sessions/Session {session}.md",
-      },
-      "other-campaign": { name: "Other Campaign", code: "other" },
-    },
-  };
+  const registry = {voy: "Index/Voyage.md", other: "Index/Other.md"};
+  const fields = new Map([
+    ["Index/Voyage.md", {name: "Test Voyage", partyPage: "People/Fixture Fellowship.md",
+      campaignDirectory: "Campaigns/Test Voyage", notePattern: "Records/Sessions/Session {session}.md"}],
+    ["Index/Other.md", {name: "Other Campaign"}],
+  ]);
   const files = new Map([
     [".obsidian/metadata.json", JSON.stringify(legacyMetadata)],
-    ["_scripts/session_note_campaigns.json", JSON.stringify(registry)],
+    ["_sessions/campaign-registry.json", JSON.stringify(registry)],
   ]);
   const context = {
     app: {
+      metadataCache: { getFileCache: file => ({frontmatter: fields.get(file.path)}) },
       vault: {
+        getAbstractFileByPath: path => fields.has(path) ? {path} : null,
         configDir: ".obsidian",
         adapter: {
           async read(filePath) {
@@ -58,9 +52,9 @@ async function run() {
   const nameManager = new NameManager();
   context.customJS.NameManager = nameManager;
 
-  assert.equal(nameManager.getCampaignPartyPage("voy"), "Fixture Fellowship");
-  assert.equal(nameManager.getCampaignPartyPage("Voyagers"), "Fixture Fellowship");
-  assert.equal(nameManager.getCampaignConfig("test-voyage").code, "voy");
+  assert.equal(nameManager.getCampaignPartyPage("voy"), "People/Fixture Fellowship");
+  assert.equal(nameManager.getCampaignPartyPage("Test Voyage"), "People/Fixture Fellowship");
+  assert.equal(nameManager.getCampaignConfig("voy").code, "voy");
   assert.equal(
     nameManager.getCampaignSessionNoteFolder("voy"),
     "Campaigns/Test Voyage/Records/Sessions",
@@ -110,17 +104,17 @@ async function run() {
     },
   });
 
-  assert.equal(resolvedPerson, "Fixture Fellowship");
+  assert.equal(resolvedPerson, "People/Fixture Fellowship");
   assert.equal(meetings[0].campaign, "voy");
   // Reinitializing follows edits/deletions in the supplied registry.
-  delete registry.campaigns["test-voyage"];
-  registry.campaigns["other-campaign"].partyPage = "Replacement Party";
-  files.set("_scripts/session_note_campaigns.json", JSON.stringify(registry));
+  delete registry.voy;
+  fields.get("Index/Other.md").partyPage = "Replacement Party.md";
+  files.set("_sessions/campaign-registry.json", JSON.stringify(registry));
   await new Init().invoke();
-  assert.equal(nameManager.getCampaignConfig("Voyagers"), undefined);
+  assert.equal(nameManager.getCampaignConfig("Test Voyage"), undefined);
   assert.equal(nameManager.getCampaignPartyPage("other"), "Replacement Party");
   assert.equal(context.customJS.state.coreMeta.campaigns.length, 1);
-  files.delete("_scripts/session_note_campaigns.json");
+  files.delete("_sessions/campaign-registry.json");
   await assert.rejects(new Init().invoke(), /Unexpected read/);
 
   console.log("Header campaign registry tests passed.");
