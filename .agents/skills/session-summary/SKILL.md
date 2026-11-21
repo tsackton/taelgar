@@ -7,9 +7,9 @@ description: Build a structured machine-parseable `session-recap.md` from `sessi
 
 Run the commands below from the Taelgar vault root, using a Python environment with PyYAML installed.
 
-Use this skill when working from a cleaned session bundle with finalized:
+Use this skill when working from a cleaned, registered numbered session bundle with these inputs:
 
-- `session.yaml`
+- `cleaned/<bundle-stem>-session.yaml`
 - `beats.json`
 - `beat-facts.json`
 - a `recap-scenes.json` when scene grouping was reviewed or proposed upstream; its displayed proposal must be approved in interactive mode, or its grouping validated in auto mode

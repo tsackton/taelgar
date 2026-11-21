@@ -19,8 +19,13 @@ class PipelineTests(unittest.TestCase):
     def setUp(self):
         self.temp = tempfile.TemporaryDirectory()
         self.parent = Path(self.temp.name).resolve()
-        self.root = self.parent / 'session-001'
-        self.root.mkdir()
+        vault = self.parent / 'vault'
+        campaign_root = vault / '_sessions' / 'example'
+        self.root = campaign_root / 'session-001'
+        self.root.mkdir(parents=True)
+        (campaign_root.parent / 'campaign-registry.json').write_text('{"example":"Example.md"}')
+        (vault / 'Example.md').write_text(
+            '---\nname: Example\nsessionBundleDirectory: _sessions/example\n---\n')
         self.original = self.parent / 'raw.vtt'
         self.original.write_text('WEBVTT\n\n00:00:00.000 --> 00:00:03.000\nDM: Well, well, it got denser.\n\n00:00:03.000 --> 00:00:06.000\nPlayer: Anyways, I—I mean, are we going?\n')
         self.metadata = self.root / 'metadata.json'

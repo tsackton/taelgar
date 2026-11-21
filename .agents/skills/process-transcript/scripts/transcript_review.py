@@ -4,7 +4,6 @@ import json
 import sys
 from pathlib import Path
 import re
-import yaml
 import transcript_finalize as final
 from transcript_core import (WORK, STATE, MARKER, require, safe, sha, current_hash,
     encoded, atomic, commit, parse_units, render_units, validate_baseline,
@@ -337,6 +336,7 @@ def prepare(root, uids):
     completed = final.completion(root)
     require(completed, 'Preparing a new review requires finalized retained references; imported review Markdown can be used directly')
     manifest, record = completed
+    campaign, number = session_identity(safe(root, manifest))
     require(final.completed_status(root, manifest, record)['outputsCurrent'], 'Retained references changed; reconcile them before preparing review')
     artifacts = {k: v['path'] for k, v in record['artifacts'].items()}
     artifacts['sessionMetadata'] = manifest
@@ -348,9 +348,6 @@ def prepare(root, uids):
                    contextRange=context_range(units, uid), proposal='', alternatives=[],
                    recommendation='Narrow the target to the words requiring correction; supply supported wording or retain it.',
                    question='Supply a correction or retain the original wording?', disposition='pending') for uid in uids]
-    manifest_path = safe(root, manifest)
-    metadata = yaml.safe_load(manifest_path.read_text(encoding='utf-8'))
-    campaign, number = session_identity(manifest_path, metadata)
     meta = dict(version=1, title=f"{campaign} — Session {number}", artifacts=artifacts,
                 hashes={p: current_hash(safe(root, p)) for p in artifacts.values()}, qualityComplete=True,
                 revisionActive=True, retainedIssues=record['issues'], uncertainty=record['status']=='complete_with_uncertainty')

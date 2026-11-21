@@ -50,7 +50,9 @@ def file_hash(path):
 
 
 def read_sources(manifest, input_dir, time_path):
+    identity = session_identity(manifest, vault=VAULT)
     bundle = scene_map.load(manifest, allow_unknown_dates=True)
+    bundle['sessionIdentity'] = identity
     stem = manifest.name.removesuffix('-session.yaml')
     paths = {key: input_dir / f'{stem}-{key}.json' for key in VERSIONS}
     if time_path is not None:
@@ -376,8 +378,7 @@ def marker_ids(markers):
 def render(bundle, paths, sources, edit, output, timing):
     def link(path, label):
         return f'[{label}]({quote(os.path.relpath(path, output))})'
-    data = bundle['data']
-    campaign, number = session_identity(bundle['manifest'], data)
+    campaign, number = bundle['sessionIdentity']
     lines = [f"# {campaign} · Session {number}", '## Review flags']
     limits = [f"{k} — {v['limitations']}" for k, v in sources.items() if v.get('limitations')]
     lines.append('\n'.join(f'- {f}' for f in edit['flags']) or 'No human action requested.')

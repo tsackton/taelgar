@@ -21,21 +21,30 @@ from prepare_source import (  # noqa: E402
 
 
 class PrepareSourceTest(unittest.TestCase):
-    def test_prepares_decimal_session_bundle(self) -> None:
-        workspace = self.make_workspace()
+    def test_prepares_decimal_session_bundle_from_external_config(self) -> None:
+        scratch = self.make_workspace()
+        workspace = scratch / "vault"
         directory = workspace / "_sessions" / "cleenseau"
         directory.mkdir(parents=True)
         (directory.parent / "campaign-registry.json").write_text('{"clee":"Index.md"}')
         (workspace / "Index.md").write_text(
             "---\nname: Cleenseau\nsessionBundleDirectory: _sessions/cleenseau\n---\n"
         )
+        # The external config resolves against the vault that owns the script.
+        helper = workspace / ".agents/skills/prepare-session-source/scripts/prepare_source.py"
+        helper.parent.mkdir(parents=True)
+        shutil.copyfile(SKILL_ROOT / "scripts" / helper.name, helper)
+        shared_scripts = workspace / "_scripts"
+        shared_scripts.mkdir()
+        for filename in ("campaign_registry.py", "session_bundles.py"):
+            shutil.copyfile(SKILL_ROOT.parents[2] / "_scripts" / filename, shared_scripts / filename)
         source_path = workspace / "email.md"
         source_path.write_text("First turn.\n\nSecond turn.\n", encoding="utf-8")
         participants_path = workspace / "participants.yaml"
         participants_path.write_text(
             "participants:\n- name: Mike Sackton\n  gameRole: DM\n", encoding="utf-8"
         )
-        config_path = workspace / "source-prep.yaml"
+        config_path = scratch / "source-prep.yaml"
         config_path.write_text(
             f"sourcePath: {source_path.as_posix()}\n"
             "sourceType: narrative\n"
@@ -50,7 +59,7 @@ class PrepareSourceTest(unittest.TestCase):
         )
 
         result = subprocess.run(
-            [sys.executable, str(SKILL_ROOT / "scripts" / "prepare_source.py"),
+            [sys.executable, str(helper),
              "--config", str(config_path), "--prefix", "cleenseau"],
             capture_output=True, text=True, check=False,
         )

@@ -72,13 +72,13 @@ def numbered_bundles(directory: Path) -> Iterator[Path]:
     yield from sorted(paths[0] for paths in numbered.values())
 
 
-def session_identity(manifest: Path, metadata: dict, *, vault: Path | None = None) -> tuple:
-    """Project identity for display and lookup without changing source metadata."""
+def session_identity(manifest: Path, *, vault: Path | None = None) -> tuple[str, str]:
+    """Return the identity of a manifest's registered numbered bundle."""
     if manifest.parent.name == "cleaned":
         identity = registered_bundle_identity(manifest.parent.parent, vault=vault)
         if identity is not None:
             return identity
-    return metadata.get("campaign"), metadata.get("sessionNumber")
+    raise ValueError(f"Expected a session manifest in a registered numbered bundle: {manifest}")
 
 
 def select_bundle(directory: Path, number: str, *, create=False, prefix=None, prompt=False) -> Path:

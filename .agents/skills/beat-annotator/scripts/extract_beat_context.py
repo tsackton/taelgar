@@ -23,7 +23,7 @@ SOURCE_LINE_RE = re.compile(r"^(?P<header>\[(?P<uid>u\d{4,})(?:\s*\|[^\]]+)?\])\
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Extract beat source context for annotation.")
     parser.add_argument("--transcript", type=Path, required=True, help="Cleaned source path.")
-    parser.add_argument("--session", type=Path, required=True, help="session.yaml path.")
+    parser.add_argument("--session", type=Path, required=True, help="Registered bundle's session manifest.")
     parser.add_argument("--beats-json", type=Path, required=True, help="Finalized beats.json path.")
     parser.add_argument("--output-dir", type=Path, required=True, help="Directory for extracted context files.")
     parser.add_argument(
@@ -48,8 +48,6 @@ def main() -> int:
     beats_path = args.beats_json.expanduser().resolve()
     output_dir = args.output_dir.expanduser().resolve()
     contexts_dir = output_dir / "contexts"
-    output_dir.mkdir(parents=True, exist_ok=True)
-    contexts_dir.mkdir(parents=True, exist_ok=True)
 
     file_prefix = args.file_prefix.strip()
     if not file_prefix:
@@ -59,9 +57,13 @@ def main() -> int:
     assert_not_in_sources_dir(session_path, "--session")
     assert_not_in_sources_dir(beats_path, "--beats-json")
 
+    try:
+        campaign, number = session_identity(session_path)
+    except ValueError as exc:
+        raise SystemExit(str(exc)) from exc
+
     transcript_lines = read_source_lines(transcript_path)
     session_payload = read_yaml_mapping(session_path)
-    campaign, number = session_identity(session_path, session_payload)
     session_payload.update(campaign=campaign, sessionNumber=number)
     beats = parse_beats_payload(read_json_mapping(beats_path))
     uid_to_index = build_uid_index(transcript_lines)
@@ -99,6 +101,7 @@ def main() -> int:
         "supplementalSources": supplemental_sources,
         "contexts": contexts,
     }
+    contexts_dir.mkdir(parents=True, exist_ok=True)
     json_path.write_text(json.dumps(payload, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
     index_path.write_text(render_index(payload), encoding="utf-8")
 

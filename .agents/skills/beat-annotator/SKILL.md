@@ -7,9 +7,9 @@ description: Produce beat-facts.json from session beats and review the session c
 
 Run the commands below from the Taelgar vault root, using a Python environment with PyYAML installed.
 
-Use this skill when working from a cleaned session bundle:
+Use this skill when working from a cleaned, registered numbered session bundle:
 
-- `session.yaml`
+- `cleaned/<bundle-stem>-session.yaml`
 - cleaned source (`source.cleaned.md`, `source-cleaned.md`, or equivalent)
 - finalized `beats.json`
 - optional campaign glossary or dictionary
