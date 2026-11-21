@@ -137,7 +137,7 @@ class EntityTableTests(unittest.TestCase):
         (vault / 'Index.md').write_text(
             '---\nname: Demo Campaign\nsessionBundleDirectory: _sessions/other\n---\n', encoding='utf8'
         )
-        with self.assertRaisesRegex(ValueError, 'registered numbered session bundle'):
+        with self.assertRaisesRegex(ValueError, 'manifest in a registered numbered bundle'):
             self.call()
         self.assertEqual(path.read_bytes(), before)
 

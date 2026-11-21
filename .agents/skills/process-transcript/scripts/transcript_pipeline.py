@@ -24,7 +24,7 @@ from transcript_core import (VERSION, EDITORIAL_POLICY, WORK, STATE, LINE, MARKE
 
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[4] / '_scripts'))
-from campaign_registry import containing_vault, load_campaigns
+from campaign_registry import load_campaigns
 from session_bundles import registered_bundle_identity, resolve_bundle, session_manifest, session_number
 
 
@@ -78,30 +78,27 @@ def original_path(root, metadata, source):
     return matches[0]
 
 
-def initialize(root, args):
+def initialize(root, args, *, identity=None):
+    if identity is None:
+        identity = registered_bundle_identity(root)
+        require(identity is not None, 'Expected a registered numbered session bundle')
+    manifest = session_manifest(root, required=False)
+    require(manifest is not None, 'Missing session YAML: process-transcript requires an existing prepared bundle. Ask whether to use prepare-session-source to create one.')
     if review.portable(root) and (review.active(root) or not safe(root, STATE).exists()):
         return review.status(root)
     if safe(root, STATE).exists():
         return status(root)
-    completed = finalization.completion(root)
+    completed = finalization.completion(root, manifest=manifest)
     if completed:
         return finalization.completed_status(root, *completed)
-    manifest = one(root, 'cleaned/*-session.yaml', args.manifest) if args.manifest else session_manifest(root, required=False)
-    require(manifest is not None, 'Missing session YAML: process-transcript requires an existing prepared bundle. Ask whether to use prepare-session-source to create one.')
     prepared_path = one(root, 'cleaned/*-source-prepared.md', args.prepared, required=False)
     require(prepared_path is not None, 'Missing prepared UID transcript: use prepare-session-source to complete or repair the bundle before processing; do not rebuild from raw input here.')
-    manifest_bytes = manifest.read_bytes()
+    manifest_bytes = safe(root, str(manifest.relative_to(root))).read_bytes()
     metadata = yaml.safe_load(manifest_bytes.decode('utf-8-sig'))
     require(isinstance(metadata, dict), 'Session YAML must be a mapping')
     require(metadata.get('sourceType', 'transcript') == 'transcript', 'This pipeline accepts transcripts, not narrative/raw-notes bundles')
-    vault = containing_vault(root)
-    if vault:
-        identity = registered_bundle_identity(root, vault=vault)
-        require(identity is not None, 'Expected a registered numbered session bundle')
-        require(manifest == session_manifest(root), 'Select the registered bundle manifest')
-        campaign, number = identity
-        metadata.update(campaign=campaign, sessionNumber=number)
-    require(metadata.get('campaign') and metadata.get('sessionNumber') is not None, 'Existing session YAML needs campaign and sessionNumber; resolve intake metadata through prepare-session-source')
+    campaign, number = identity
+    metadata.update(campaign=campaign, sessionNumber=number)
     original = original_path(root, metadata, args.source)
     require(original.is_file(), f'Missing archived source: {original}; use prepare-session-source to repair intake')
     archived = str(original.relative_to(root))
@@ -489,7 +486,7 @@ def main():
             mode.add_argument('--apply', action='store_true')
             mode.add_argument('--finalize', dest='review_finalize', action='store_true')
         elif name == 'init':
-            for opt in ('source', 'manifest', 'prepared', 'cleaned'):
+            for opt in ('source', 'prepared', 'cleaned'):
                 p.add_argument('--' + opt)
             p.add_argument('--chunk-words', type=int, default=1800)
         elif name == 'work':
@@ -509,7 +506,8 @@ def main():
         else:
             root = args.bundle.expanduser().resolve()
             require(root.is_dir(), 'The prepared session bundle must already exist. Ask whether to use prepare-session-source to create one.')
-            registered_bundle_identity(root)
+            identity = registered_bundle_identity(root)
+            require(identity is not None, 'Expected a registered numbered session bundle')
             if args.command == 'status':
                 result = status(root)
             elif args.command == 'review' and not (args.prepare or args.apply or args.review_finalize):
@@ -525,7 +523,7 @@ def main():
                         else: result = review.finalize(root)
                     elif args.command == 'init':
                         require(args.chunk_words > 0, 'Chunk size must be positive')
-                        result = initialize(root, args)
+                        result = initialize(root, args, identity=identity)
                     elif args.command == 'work': result = make_work(root, args.stage, args.chunk)
                     elif args.command == 'submit': result = submit(root, args.response)
                     elif args.command == 'export': result = export(root, args.replace_exports)

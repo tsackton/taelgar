@@ -72,11 +72,16 @@ def numbered_bundles(directory: Path) -> Iterator[Path]:
     yield from sorted(paths[0] for paths in numbered.values())
 
 
-def session_identity(manifest: Path, *, vault: Path | None = None) -> tuple[str, str]:
-    """Return the identity of a manifest's registered numbered bundle."""
+def session_identity(
+    manifest: Path, *, vault: Path | None = None, campaigns: dict | None = None
+) -> tuple[str, str]:
+    """Return the identity of the sole manifest in a registered numbered bundle."""
     if manifest.parent.name == "cleaned":
-        identity = registered_bundle_identity(manifest.parent.parent, vault=vault)
+        bundle = manifest.parent.parent
+        identity = registered_bundle_identity(bundle, vault=vault, campaigns=campaigns)
         if identity is not None:
+            if session_manifest(bundle) != manifest:
+                raise ValueError(f"Select the registered bundle manifest: {manifest}")
             return identity
     raise ValueError(f"Expected a session manifest in a registered numbered bundle: {manifest}")
 

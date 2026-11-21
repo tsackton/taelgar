@@ -13,7 +13,7 @@ import entity_review_staging as staging
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[4] / '_scripts'))
 from campaign_registry import load_campaigns
-from session_bundles import registered_bundle_identity, session_manifest
+from session_bundles import session_identity
 
 scenes = maps.scenes
 require = maps.require
@@ -25,11 +25,7 @@ def context(request, vault):
     manifest = scenes.safe(vault, relative)
     campaigns = load_campaigns(vault)
     root = manifest.parent.parent
-    identity = registered_bundle_identity(root, vault=vault, campaigns=campaigns)
-    require(manifest.parent.name == 'cleaned' and identity is not None,
-            'Entity review requires a manifest in a registered numbered session bundle')
-    require(session_manifest(root) == manifest, 'Select the session bundle manifest')
-    campaign, number = identity
+    campaign, number = session_identity(manifest, vault=vault, campaigns=campaigns)
     bundle = maps.load(manifest, vault)
     # Recover before validation, using only bundle-owned paths.
     with scenes.lock(bundle['root']):

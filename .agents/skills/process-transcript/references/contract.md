@@ -2,10 +2,11 @@
 
 ## Prepared inputs
 
-Only prepare-session-source creates new bundles. Processing requires an existing
-`cleaned/*-session.yaml`, `cleaned/*-source-prepared.md`, and incoming original
-already archived under the bundle's `sources/`. The session YAML supplies identity
-and participant metadata; preserve unknown dates and existing speaker mappings.
+Only prepare-session-source creates new bundles. Processing requires a registered
+numbered bundle with one `cleaned/*-session.yaml`, a prepared source in
+`cleaned/`, and the original archived under `sources/`. The registered directory
+and folder suffix supply campaign and session identity. Use the manifest for
+participant metadata, dates, and speaker mappings.
 An absent bundle prompts an offer to use prepare-session-source, not automatic
 creation. A partial bundle needs inspected preparation repair before processing.
 
@@ -13,8 +14,8 @@ creation. A partial bundle needs inspected preparation repair before processing.
 It does not parse raw captions, assign initial UIDs, create session metadata,
 copy external inputs, or rewrite the prepared baseline. `--metadata` is removed.
 
-For ambiguous existing artifacts, `init` accepts bundle-relative `--manifest`,
-`--prepared`, and `--cleaned` overrides. `--source` selects an already archived
+For ambiguous prepared or cleaned sources, `init` accepts bundle-relative
+`--prepared` and `--cleaned` overrides. `--source` selects an already archived
 original inside this bundle's `sources/`; it cannot import an external transcript.
 Existing headers must match between prepared and cleaned inputs.
 Source/header conflicts require an inspected migration, not automatic renumbering.
