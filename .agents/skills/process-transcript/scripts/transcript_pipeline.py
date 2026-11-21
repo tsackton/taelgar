@@ -24,8 +24,8 @@ from transcript_core import (VERSION, EDITORIAL_POLICY, WORK, STATE, LINE, MARKE
 
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[4] / '_scripts'))
-from campaign_registry import campaign_bundle_directory, containing_vault, load_campaigns
-from session_bundles import bundle_parts, registered_bundle_identity, select_bundle, session_manifest
+from campaign_registry import containing_vault, load_campaigns
+from session_bundles import registered_bundle_identity, resolve_bundle, session_manifest, session_number
 
 
 def resolve(vault, campaign, session):
@@ -34,9 +34,8 @@ def resolve(vault, campaign, session):
                if campaign.casefold() in {key, row['name'].casefold()}]
     require(len(matches) == 1, f'Campaign is unknown or ambiguous: {campaign}')
     campaign_id, _ = matches[0]
-    directory = campaign_bundle_directory(vault, campaign_id, campaigns=registry)
-    bundle = select_bundle(directory, session)
-    return {'bundle': str(bundle), 'campaign': campaign_id, 'sessionNumber': bundle_parts(bundle)[1]}
+    bundle = resolve_bundle(vault, campaign_id, session, campaigns=registry)
+    return {'bundle': str(bundle), 'campaign': campaign_id, 'sessionNumber': session_number(session)}
 
 
 def one(root, pattern, explicit=None, required=True):
@@ -510,6 +509,7 @@ def main():
         else:
             root = args.bundle.expanduser().resolve()
             require(root.is_dir(), 'The prepared session bundle must already exist. Ask whether to use prepare-session-source to create one.')
+            registered_bundle_identity(root)
             if args.command == 'status':
                 result = status(root)
             elif args.command == 'review' and not (args.prepare or args.apply or args.review_finalize):
