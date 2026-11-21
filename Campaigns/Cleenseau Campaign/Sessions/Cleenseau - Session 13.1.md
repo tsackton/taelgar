@@ -14,7 +14,6 @@ companions: []
 name: Cleenseau - Session 13.1
 descTitle: An Evening in Corrine's House
 tagline: in which the party talks with Corrine after dinner
-sessionKey: cleenseau-session-13-1
 session-template: cleenseau-template.md
 POV: 1720
 ---

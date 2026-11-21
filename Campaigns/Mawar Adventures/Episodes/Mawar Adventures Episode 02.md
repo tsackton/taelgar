@@ -11,7 +11,6 @@ DR_end: 1747-08-09
 players: [Ryu, Wazir, Trok, Kaleho]
 descTitle: The Tragedy of Azar
 tagline: in which a grieving killer is unmasked
-sessionKey: mawar-adventures-session-2
 websiteSessionView: zoomable
 session-template: mawar-template.md
 name: Mawar Adventures Episode 02

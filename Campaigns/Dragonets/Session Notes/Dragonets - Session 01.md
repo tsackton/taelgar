@@ -12,7 +12,6 @@ DR_end: unknown
 players: [Heska, Sculpit, Little Tony, Zeno]
 companions: []
 descTitle: "Eight Homes, One Family"
-sessionKey: dragonets-session-1
 session-template: dragonets-template.md
 name: Dragonets - Session 1
 POV: undated

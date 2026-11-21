@@ -10,7 +10,6 @@ sourceUrl: {session.source_url}
 players: [{session.pcs_plain_inline}]
 name: "{session.title}"
 descTitle: "{session.desc_title}"
-sessionKey: {session.session_key}
 session-template: cleenseau-narrative.md
 POV: {session.pov}
 ---

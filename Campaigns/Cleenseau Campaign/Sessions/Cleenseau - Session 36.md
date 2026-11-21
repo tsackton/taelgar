@@ -14,7 +14,6 @@ companions: []
 name: "Cleenseau - Session 36"
 descTitle: "The Shadow-Weasel Labyrinth"
 tagline: "in which the party rescues some Rangers from an unstable overlap with Limbo"
-sessionKey: cleenseau-session-36
 session-template: cleenseau-template.md
 ---
 # Cleenseau - Session 36

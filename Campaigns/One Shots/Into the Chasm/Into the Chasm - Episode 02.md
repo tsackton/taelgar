@@ -12,7 +12,6 @@ players: [Finnan, Jrain, Eolo, Ekko, Justas]
 companions: []
 descTitle: The Labyrinth
 tagline: in which the party navigates an ever-shifting maze
-sessionKey: into-the-chasm-session-2
 session-template: into-the-chasm-template.md
 name: Into the Chasm - Episode 2
 POV: 1730

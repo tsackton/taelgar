@@ -12,7 +12,6 @@ players: [Finnan, Jrain, Eolo, Ekko, Justas]
 companions: []
 descTitle: The Beast and the Palace
 tagline: "in which the explorers defeat a beast, and reach the strange village of Melusa"
-sessionKey: into-the-chasm-session-3
 session-template: into-the-chasm-template.md
 name: Into the Chasm - Episode 3
 POV: 1730

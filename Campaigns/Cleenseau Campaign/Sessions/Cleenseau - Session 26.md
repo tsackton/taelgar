@@ -14,7 +14,6 @@ companions: []
 name: "Cleenseau - Session 26"
 descTitle: "Delivering the Phylactery"
 tagline: "in which the party crosses the old forest and guards a planar exchange"
-sessionKey: cleenseau-session-26
 session-template: cleenseau-template.md
 ---
 # Cleenseau - Session 26

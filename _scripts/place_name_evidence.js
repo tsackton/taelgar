@@ -796,11 +796,10 @@ function sessionNumberFrom(...values) {
   return null;
 }
 
-function sessionIdentity(campaign, number, sessionKey, sourcePath, realWorldDate = "") {
+function sessionIdentity(campaign, number, sourcePath, realWorldDate = "") {
   if (campaign && campaign !== "unknown" && number != null) {
     return `${campaign}:${number}`;
   }
-  if (sessionKey) return `key:${normalizeKey(sessionKey).replace(/\s+/g, "-")}`;
   if (campaign && campaign !== "unknown" && realWorldDate) {
     return `${campaign}:date:${realWorldDate}`;
   }
@@ -824,7 +823,6 @@ function discoverSessionRegistry(root, index, definitions) {
         id: identity,
         campaign: seed.campaign,
         number: seed.number,
-        session_key: seed.sessionKey || "",
         real_world_date: seed.realWorldDate || "",
         dr_date: seed.drDate || "",
         join: {
@@ -853,14 +851,12 @@ function discoverSessionRegistry(root, index, definitions) {
     const fieldNumber = sessionNumberFrom(fieldScalar(note.fields, "sessionNumber"));
     const filenameNumber = sessionNumberFrom(note.stem, fieldScalar(note.fields, "name"));
     const number = filenameNumber ?? fieldNumber;
-    const sessionKey = fieldScalar(note.fields, "sessionKey");
     const realWorldDate = fieldScalar(note.fields, "realWorldDate");
     const drDate = fieldScalar(note.fields, "DR") || fieldScalar(note.fields, "dr");
-    const identity = sessionIdentity(campaign, number, sessionKey, note.path, realWorldDate);
+    const identity = sessionIdentity(campaign, number, note.path, realWorldDate);
     const record = ensure(identity, {
       campaign,
       number,
-      sessionKey,
       realWorldDate,
       drDate,
       joinMethod: "published-note-identity",
@@ -906,7 +902,7 @@ function discoverSessionRegistry(root, index, definitions) {
       const metadata = parseTopLevelScalars(metadataText);
       const realWorldDate = metadata.realWorldDate || "";
       const drDate = metadata.drStart || metadata.DR || "";
-      const identity = sessionIdentity(campaign, number, "", bundleRelative);
+      const identity = sessionIdentity(campaign, number, bundleRelative);
       if (bundles.has(identity)) throw new Error("Duplicate numbered session bundle: " + identity);
       bundles.add(identity);
       const joinMethod = sessions.has(identity) ? "campaign-and-session-number" : "bundle-identity";
@@ -914,7 +910,6 @@ function discoverSessionRegistry(root, index, definitions) {
       const record = ensure(identity, {
         campaign,
         number,
-        sessionKey: metadata.sessionKey || "",
         realWorldDate,
         drDate,
         joinMethod,

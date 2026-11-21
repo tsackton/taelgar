@@ -14,7 +14,6 @@ companions: []
 name: "Cleenseau - Session 35"
 descTitle: "Between Crises"
 tagline: "in which the party studies Ianto's trophies, returns to Clawyn for Viatela, and sets out for Orenlas"
-sessionKey: cleenseau-session-35
 session-template: cleenseau-template.md
 ---
 # Cleenseau - Session 35

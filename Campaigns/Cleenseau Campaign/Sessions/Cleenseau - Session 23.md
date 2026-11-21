@@ -10,7 +10,6 @@ realWorldDate: 2025-03-16
 name: Cleenseau - Session 23
 descTitle: The Dollhouse of Peydon
 tagline: in which the party finds and destroys the Midnight Lady's refuge
-sessionKey: cleenseau-session-23
 session-template: cleenseau-template.md
 ---
 # Cleenseau - Session 23

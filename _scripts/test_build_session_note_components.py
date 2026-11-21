@@ -397,9 +397,8 @@ class SessionNoteComponentsTest(unittest.TestCase):
             session_payload = components.read_yaml_mapping(vault / "session.yaml")
             recap = components.parse_session_recap((vault / "session-recap.md").read_text(encoding="utf-8"))
             generated_root = vault / "Campaigns" / "Test Campaign" / "_generated" / "session-notes"
-            component_dir = generated_root / components.build_session_key(
-                session_payload,
-                fallback="session",
+            component_dir = generated_root / components.session_output_name(
+                "test-campaign", session_payload["sessionNumber"],
             )
             component_dir.mkdir(parents=True, exist_ok=True)
             components.ensure_component_files_writable(
@@ -419,7 +418,6 @@ class SessionNoteComponentsTest(unittest.TestCase):
                 session_payload=session_payload,
                 campaign_slug="test-campaign",
                 display_metadata=TEST_DISPLAY_METADATA,
-                session_key=components.build_session_key(session_payload, fallback="session"),
                 session_dir=vault,
                 audio_output_root=vault / "assets" / "session-audio" / "test-campaign-session-12",
                 status_messages=status_messages,
@@ -851,7 +849,7 @@ class SessionNoteComponentsTest(unittest.TestCase):
         components.ensure_base_note(
             campaign_id="test",
             note_path=note_path,
-            session_key="test-campaign-session-12",
+            number="12",
             template_name="test-session.md",
         )
         self.assertNotIn(b"\r\n", note_path.read_bytes())
@@ -937,7 +935,7 @@ class SessionNoteComponentsTest(unittest.TestCase):
         self.assertIn("The party descends into [[Zeyfa's Labyrinth]] with [[Kalima]]", narrative_text)
 
         self.assertEqual(self.slot_body(info_text, "session.pov"), "1730")
-        self.assertEqual(self.slot_body(info_text, "session.session_key"), "test-campaign-session-12")
+        self.assertNotIn("session.session_key", info_text)
 
     def test_builder_leaves_optional_source_slots_blank_when_source_url_is_absent(self) -> None:
         vault = self.make_workspace()
@@ -1143,7 +1141,7 @@ class SessionNoteComponentsTest(unittest.TestCase):
         self.assertIn("> [!image|right]\n> ![[zeyfa-labyrinth.jpg|400]]\n> *The first frozen fork.*", long_slot)
         self.assertIn("force the survivors to flee deeper into the maze.\n\n![[ambush.jpg|left|320]]", long_slot)
 
-    def test_builder_cuts_audio_and_renders_session_key_prefixed_clip_name(self) -> None:
+    def test_builder_cuts_audio_and_renders_session_prefixed_clip_name(self) -> None:
         vault = self.make_workspace()
         audio_path = vault / "source.m4a"
         audio_path.write_bytes(b"fake audio")
@@ -1231,14 +1229,6 @@ class SessionNoteComponentsTest(unittest.TestCase):
         self.assertEqual(command[command.index("-ac") + 1], "1")
         self.assertEqual(Path(command[-1]), audio_output.resolve())
 
-    def test_existing_session_key_survives_campaign_id_change(self) -> None:
-        vault = self.make_workspace()
-        note = vault / "Existing Session.md"
-        manifest = {"campaign": "chasm", "sessionNumber": 1}
-        note.write_text("---\nsessionKey: into-the-chasm-session-1\n---\n", encoding="utf-8")
-        self.assertEqual(components.resolve_session_key(note, manifest, fallback="unused"), "into-the-chasm-session-1")
-        self.assertEqual(components.resolve_session_key(vault / "New.md", manifest, fallback="unused"), "chasm-session-1")
-
     def test_base_note_uses_session_template_frontmatter_key(self) -> None:
         vault = self.make_workspace()
         note_path = vault / "Campaigns" / "Test Campaign" / "Sessions" / "Session 12.md"
@@ -1246,13 +1236,17 @@ class SessionNoteComponentsTest(unittest.TestCase):
         components.ensure_base_note(
             campaign_id="test",
             note_path=note_path,
-            session_key="test-campaign-session-12",
+            number="012.10",
             template_name="test-session.md",
         )
 
         note_text = note_path.read_text(encoding="utf-8")
         self.assertIn("session-template: test-session.md", note_text)
         self.assertNotRegex(note_text, r"(?m)^template:")
+        self.assertNotIn("sessionKey", note_text)
+        frontmatter, _ = components.split_frontmatter(note_text)
+        self.assertEqual(frontmatter["sessionNumber"], "12.10")
+        self.assertEqual(components.session_output_name("test", "012.10"), "test-session-12.10")
 
     def test_base_note_migrates_legacy_template_frontmatter_key(self) -> None:
         vault = self.make_workspace()
@@ -1262,7 +1256,7 @@ class SessionNoteComponentsTest(unittest.TestCase):
         components.ensure_base_note(
             campaign_id="test",
             note_path=note_path,
-            session_key="test-campaign-session-12",
+            number="12",
             template_name="test-session.md",
         )
 

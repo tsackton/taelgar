@@ -11,7 +11,6 @@ DR_end: 1747-11-09
 players: [Ryu, Nerissa, Ander]
 descTitle: The Chained Beast
 tagline: "In which Ander, Nerissa, and Ryu battle to save a captive dragon turtle."
-sessionKey: mawar-adventures-session-4
 session-template: mawar-template.md
 websiteSessionView: zoomable
 name: Mawar Adventures Episode 04

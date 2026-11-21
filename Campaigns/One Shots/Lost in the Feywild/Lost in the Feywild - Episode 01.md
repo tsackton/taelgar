@@ -11,7 +11,6 @@ DR_end: 1740-10-05
 players: [Kaito Min, Edric, Tarek, Ayveen, Txarro]
 descTitle: Welcome to Dandelion House
 tagline: in which the party enters a mysterious tunnel
-sessionKey: lost-in-the-feywild-session-1
 session-template: feywild-template.md
 websiteSessionView: zoomable
 name: "Lost in the Feywild: Episode 01"

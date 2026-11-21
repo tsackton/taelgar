@@ -12,7 +12,6 @@ players: [Finnan, Jrain, Eolo, Ekko, Justas]
 companions: []
 descTitle: Into the Chasm
 tagline: "in which a storm flings five strangers into Zeyfa's maze"
-sessionKey: into-the-chasm-session-1
 session-template: into-the-chasm-template.md
 name: Into the Chasm - Episode 1
 POV: "1730"

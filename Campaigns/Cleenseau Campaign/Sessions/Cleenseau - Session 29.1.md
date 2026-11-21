@@ -14,7 +14,6 @@ companions: []
 name: "Cleenseau - Session 29.1"
 descTitle: "Celyn Consults the Merriweathers"
 tagline: "in which Celyn dresses for a new role"
-sessionKey: cleenseau-session-29-1
 session-template: cleenseau-template.md
 POV: 1720
 ---

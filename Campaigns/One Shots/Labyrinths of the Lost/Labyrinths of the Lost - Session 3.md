@@ -11,7 +11,6 @@ DR_end: 1748-10-19
 players: [Acescale, Gaudin, Loria, Dilion]
 descTitle: "Grimstone's Last Experiment"
 tagline: in which the party defeats Grimstone and escapes the manor
-sessionKey: labyrinths-of-the-lost-session-3
 session-template: lablost-template.md
 name: Labyrinths of the Lost - Session 3
 POV: 1748

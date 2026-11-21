@@ -14,7 +14,6 @@ companions: []
 name: "Cleenseau - Session 27"
 descTitle: "Paranoia in Veltor"
 tagline: "in which the party gathers evidence and is accused of necromancy"
-sessionKey: cleenseau-session-27
 session-template: cleenseau-template.md
 ---
 # Cleenseau - Session 27

@@ -11,7 +11,6 @@ sourceUrl: null
 players: [Celyn]
 name: Cleenseau - Session 11.1
 descTitle: Celyn and El Share Their Stories
-sessionKey: cleenseau-session-11-1
 session-template: cleenseau-narrative.md
 POV: 1720
 ---

@@ -224,9 +224,9 @@ def main() -> int:
     note_root = VAULT_ROOT / str(config["campaignDirectory"])
     note_filename = render_note_filename(str(config["notePattern"]), args.session)
     note_path = note_root / note_filename
-    session_key = resolve_session_key(note_path, session_payload, fallback=session_manifest.stem)
-    generated_root = (VAULT_ROOT / str(config["campaignDirectory"]) / "_generated" / "session-notes").resolve()
-    component_dir = generated_root / session_key
+    output_name = session_output_name(campaign_id, args.session)
+    generated_root = (note_root / "_generated" / "session-notes").resolve()
+    component_dir = generated_root / output_name
     component_dir.mkdir(parents=True, exist_ok=True)
     component_paths = [component_dir / filename for filename, _title, _slot_key in COMPONENT_SPECS]
     try:
@@ -236,8 +236,7 @@ def main() -> int:
         return 1
 
     note_index = VaultNoteIndex(VAULT_ROOT, generated_root)
-    audio_output_root = (VAULT_ROOT / "assets" / "session-audio" / session_key).resolve()
-    print(f"Building slots for session key: {session_key}")
+    audio_output_root = (VAULT_ROOT / "assets" / "session-audio" / output_name).resolve()
     status_messages: List[str] = []
     try:
         slots = build_slots(
@@ -246,7 +245,6 @@ def main() -> int:
             session_payload=session_payload,
             campaign_slug=campaign_id,
             display_metadata=display_metadata,
-            session_key=session_key,
             session_dir=session_manifest.parent,
             audio_output_root=audio_output_root,
             status_messages=status_messages,
@@ -276,7 +274,12 @@ def main() -> int:
 
     template_name = str(config.get("defaultTemplate") or "composable-session-note.md").strip()
     print(f"Ensuring base session note: {note_path}")
-    status = ensure_base_note(note_path=note_path, campaign_id=campaign_id, session_key=session_key, template_name=template_name)
+    status = ensure_base_note(
+        note_path=note_path,
+        campaign_id=campaign_id,
+        number=args.session,
+        template_name=template_name,
+    )
     print(f"{status} {note_path}")
     return 0
 
@@ -328,24 +331,8 @@ def derive_session_recap_path(session_manifest: Path) -> Path:
     return recap_path
 
 
-def build_session_key(session_payload: Dict[str, Any], *, fallback: str) -> str:
-    campaign = normalize_optional_string(session_payload.get("campaign"))
-    session_number = normalize_optional_string(session_payload.get("sessionNumber"))
-    scope = normalize_optional_string(session_payload.get("scope")) or "session"
-    if campaign and session_number:
-        return f"{slugify_text(campaign)}-{slugify_text(scope)}-{slugify_text(session_number)}"
-    return slugify_text(fallback)
-
-
-def resolve_session_key(note_path: Path, session_payload: Dict[str, Any], *, fallback: str) -> str:
-    """Keep an existing note's component and audio directories on rebuild."""
-    if note_path.is_file():
-        key = read_markdown_frontmatter(note_path).get("sessionKey")
-        if key is not None:
-            if not isinstance(key, str) or not re.fullmatch(r"[a-zA-Z0-9][a-zA-Z0-9._-]*", key):
-                raise SystemExit(f"Invalid sessionKey in {note_path}: {key!r}")
-            return key
-    return build_session_key(session_payload, fallback=fallback)
+def session_output_name(campaign_id: str, number: str) -> str:
+    return f"{campaign_id}-session-{session_number(number)}"
 
 
 def render_note_filename(pattern: str, session_number: str) -> str:
@@ -379,13 +366,12 @@ def normalize_tags(value: Any) -> List[str]:
     return tags
 
 
-def ensure_base_note(*, note_path: Path, campaign_id: str, session_key: str, template_name: str) -> str:
+def ensure_base_note(*, note_path: Path, campaign_id: str, number: str, template_name: str) -> str:
     if note_path.exists():
         frontmatter, body = split_frontmatter(note_path.read_text(encoding="utf-8"))
         frontmatter = dict(frontmatter)
         frontmatter["headerVersion"] = frontmatter.get("headerVersion") or "2023.11.25"
         frontmatter["tags"] = normalize_tags(frontmatter.get("tags"))
-        frontmatter["sessionKey"] = session_key
         if not str(frontmatter.get(SESSION_TEMPLATE_FIELD) or "").strip():
             legacy_template = str(frontmatter.get("template") or "").strip()
             frontmatter[SESSION_TEMPLATE_FIELD] = legacy_template or template_name
@@ -397,13 +383,14 @@ def ensure_base_note(*, note_path: Path, campaign_id: str, session_key: str, tem
         frontmatter = {
             "headerVersion": "2023.11.25",
             "tags": [SESSION_NOTE_TAG],
-            "sessionKey": session_key,
             SESSION_TEMPLATE_FIELD: template_name,
         }
         body_text = ""
         status = "Created"
 
     frontmatter["campaign"] = campaign_id
+    number = session_number(number)
+    frontmatter["sessionNumber"] = number if "." in number else int(number)
     frontmatter_text = dump_frontmatter(frontmatter)
     if body_text:
         text = f"---\n{frontmatter_text}\n---\n{body_text.rstrip()}\n"
@@ -1018,7 +1005,6 @@ def build_slots(
     session_payload: Dict[str, Any],
     campaign_slug: str,
     display_metadata: Dict[str, Any],
-    session_key: Optional[str] = None,
     session_dir: Optional[Path] = None,
     audio_output_root: Optional[Path] = None,
     status_messages: Optional[List[str]] = None,
@@ -1053,7 +1039,7 @@ def build_slots(
             entries=recap["audioHighlights"],
             source_audio=audio_source,
             output_root=audio_output_root,
-            session_key=session_key or build_session_key(session_payload, fallback="session"),
+            filename_prefix=slugify_text(audio_output_root.name),
             base_dir=session_dir,
             vault_root=note_index.vault_root,
         )
@@ -1079,8 +1065,6 @@ def build_slots(
     if companion_names:
         featuring += f", with {info_slots['session.companions_inline']}"
     info_slots["session.featuring_inline"] = featuring
-    info_slots["session.session_number"] = render_scalar(session_payload.get("sessionNumber"))
-    info_slots["session.session_key"] = session_key or build_session_key(session_payload, fallback="session")
     dr_start = normalize_optional_string(session_payload.get("drStart")) or header.get("DR Date", "")
     dr_end = normalize_optional_string(session_payload.get("drEnd")) or ""
     info_slots["session.dr_date"] = header.get("DR Date", "")
@@ -1344,7 +1328,7 @@ def build_audio_highlight_clips(
     entries: Sequence[Dict[str, str]],
     source_audio: Path,
     output_root: Path,
-    session_key: str,
+    filename_prefix: str,
     base_dir: Optional[Path],
     vault_root: Path,
 ) -> List[Dict[str, str]]:
@@ -1368,7 +1352,7 @@ def build_audio_highlight_clips(
             raise ComponentSlotParseError(
                 f"Audio highlight {entry_id} has a non-positive duration: {source_lines}."
             )
-        output_name = prefixed_audio_output_name(session_key, entry)
+        output_name = prefixed_audio_output_name(filename_prefix, entry)
         output_path = output_root / output_name
         extract_audio_clip(source_audio, output_path, start_seconds, end_seconds)
         rendered = dict(entry)
@@ -1449,16 +1433,15 @@ def parse_timestamp_seconds(value: str) -> float:
     return hours * 3600 + minutes * 60 + seconds
 
 
-def prefixed_audio_output_name(session_key: str, entry: Dict[str, str]) -> str:
+def prefixed_audio_output_name(prefix: str, entry: Dict[str, str]) -> str:
     output = normalize_optional_string(entry.get("Output"))
     if output is None:
         entry_id = normalize_optional_string(entry.get("ID")) or "audio"
         output = f"{entry_id}.m4a"
     basename = Path(output).name
-    clean_session_key = slugify_text(session_key)
-    if basename.startswith(f"{clean_session_key}-"):
+    if basename.startswith(f"{prefix}-"):
         return basename
-    return f"{clean_session_key}-{basename}"
+    return f"{prefix}-{basename}"
 
 
 def extract_audio_clip(source_audio: Path, output_path: Path, start_seconds: float, end_seconds: float) -> None:

@@ -11,7 +11,6 @@ DR_end: 1740-10-06
 players: [Kaito Min, Edric, Ayveen, Txarro]
 descTitle: The Stories We Carry
 tagline: in which stories open the door to darkness
-sessionKey: lost-in-the-feywild-session-6
 session-template: feywild-template.md
 websiteSessionView: zoomable
 name: "Lost in the Feywild: Episode 06"
