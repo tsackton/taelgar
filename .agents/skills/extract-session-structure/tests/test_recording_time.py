@@ -3,6 +3,7 @@ from pathlib import Path
 import sys
 import tempfile
 import unittest
+from review_fixtures import registered_manifest
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'scripts'))
 import render_review as review
@@ -16,15 +17,16 @@ class RecordingTimeTest(unittest.TestCase):
     def setUp(self):
         temporary = tempfile.TemporaryDirectory()
         self.addCleanup(temporary.cleanup)
-        self.root = Path(temporary.name)
+        self.manifest = registered_manifest(Path(temporary.name), 'fixture-001', 'fixture-001-session.yaml')
+        self.root = self.manifest.parent.parent
 
     def bundle(self, rows, artifact='cleaned'):
         # Real registered UID-header format, with test-owned timing/coverage.
         raw = ''.join(f'[{uid} | {timing} | DM] Speech.\n' for uid, timing in rows).encode()
         (self.root / 'timed.md').write_bytes(raw)
-        return dict(manifest=self.root / 'fixture-001-session.yaml', root=self.root, source=self.root / 'polished.md',
-                    data=dict(campaign='Timing fixture', sessionNumber=1,
-                              transcriptProcessing=dict(artifacts={artifact: {'path': 'timed.md'}})),
+        return dict(manifest=self.manifest, sessionIdentity=review.session_identity(self.manifest),
+                    root=self.root, source=self.root / 'polished.md',
+                    data=dict(transcriptProcessing=dict(artifacts={artifact: {'path': 'timed.md'}})),
                     fingerprints={'timed.md': hashlib.sha256(raw).hexdigest()},
                     positions={uid: index for index, (uid, _) in enumerate(rows)},
                     groups=[dict(startUid=uid, endUid=uid) for uid, _ in rows])

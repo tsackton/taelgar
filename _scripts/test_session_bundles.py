@@ -15,7 +15,7 @@ class BundleSelectionTest(unittest.TestCase):
         self.addCleanup(workspace.cleanup)
         self.root = Path(workspace.name)
 
-    def test_path_identity_keeps_fractions_and_ignores_yaml_labels(self):
+    def test_manifest_identity_requires_registration_and_preserves_fractions(self):
         vault = self.root.resolve()
         campaign_directory = vault / "_sessions/cleenseau"
         campaign_directory.mkdir(parents=True)
@@ -25,12 +25,13 @@ class BundleSelectionTest(unittest.TestCase):
         )
         manifest = campaign_directory / "cleenseau-012.10/cleaned/historical-session.yaml"
         manifest.parent.mkdir(parents=True)
-        old = {"campaign": "dufr", "sessionNumber": 99}
-        self.assertEqual(session_identity(manifest, old), ("clee", "12.10"))
-        self.assertEqual(session_identity(manifest, {}), ("clee", "12.10"))
-        self.assertEqual(old, {"campaign": "dufr", "sessionNumber": 99})
-        loose = vault / "_sessions/to-process/unprepared-session.yaml"
-        self.assertEqual(session_identity(loose, old), ("dufr", 99))
+        manifest.write_text("campaign: dufr\nsessionNumber: 99\n")
+        self.assertEqual(session_identity(manifest), ("clee", "12.10"))
+        loose = vault / "_sessions/to-process/cleenseau-012.10/cleaned/loose-session.yaml"
+        loose.parent.mkdir(parents=True)
+        loose.write_text(manifest.read_text())
+        with self.assertRaisesRegex(ValueError, "manifest in a registered numbered bundle"):
+            session_identity(loose)
 
         point = campaign_directory / "cleenseau-012.1"
         point.mkdir()
@@ -39,7 +40,7 @@ class BundleSelectionTest(unittest.TestCase):
         duplicate.mkdir()
         for lookup in (
             lambda: resolve_bundle(vault, "clee", "12.10"),
-            lambda: registered_bundle_identity(manifest.parent.parent),
+            lambda: session_identity(manifest),
             lambda: registered_bundle_identity(duplicate),
             lambda: list(numbered_bundles(campaign_directory)),
         ):

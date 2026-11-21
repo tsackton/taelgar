@@ -15,6 +15,7 @@ FIXTURE_DIR = SKILL_ROOT / "tests" / "data"
 CONTEXT_BUILDER_PATH = SKILL_ROOT / "scripts" / "build_session_summary_context.py"
 RECAP_BUILDER_PATH = SKILL_ROOT / "scripts" / "build_session_recap.py"
 RECAP_VALIDATOR_PATH = SKILL_ROOT / "scripts" / "manage_session_recap.py"
+SESSION_MANIFEST = "addermarch-012-session.yaml"
 RECAP_SCENES_VALIDATOR_PATH = SKILL_ROOT / "scripts" / "manage_recap_scenes.py"
 
 
@@ -22,8 +23,15 @@ class SessionRecapBase(unittest.TestCase):
     def make_workspace(self) -> Path:
         tmpdir = Path(tempfile.mkdtemp(prefix="session-recap-test."))
         self.addCleanup(lambda: shutil.rmtree(tmpdir, ignore_errors=True))
-        shutil.copytree(FIXTURE_DIR, tmpdir / "fixture")
-        return tmpdir / "fixture"
+        campaign_root = tmpdir / "_sessions" / "addermarch"
+        cleaned = campaign_root / "addermarch-012" / "cleaned"
+        shutil.copytree(FIXTURE_DIR, cleaned)
+        (campaign_root.parent / "campaign-registry.json").write_text('{"adma":"Index.md"}')
+        (tmpdir / "Index.md").write_text(
+            "---\nname: Addermarch\nsessionBundleDirectory: _sessions/addermarch\n---\n"
+        )
+        (cleaned / "session.yaml").rename(cleaned / SESSION_MANIFEST)
+        return cleaned
 
     def load_json(self, path: Path) -> dict:
         return json.loads(path.read_text(encoding="utf-8"))
@@ -47,7 +55,7 @@ class SessionRecapBase(unittest.TestCase):
             sys.executable,
             str(CONTEXT_BUILDER_PATH),
             "--session",
-            str(workspace / "session.yaml"),
+            str(workspace / SESSION_MANIFEST),
             "--beats-json",
             str(workspace / "beats.json"),
             "--beat-facts-json",
@@ -137,6 +145,8 @@ class BuildSessionSummaryContextTest(SessionRecapBase):
 
         self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
         payload = self.load_json(workspace / "out" / "test-session-007-session-summary-context.json")
+        self.assertEqual(payload["session"]["campaign"], "adma")
+        self.assertEqual(payload["session"]["sessionNumber"], "12")
         self.assertEqual(len(payload["timelineBlocks"]), 1)
         self.assertEqual(payload["timelineBlocks"][0]["beatIds"], ["beat-001", "beat-002", "beat-003"])
 
@@ -487,7 +497,7 @@ class BuildSessionRecapTest(SessionRecapBase):
 
     def test_non_transcript_source_frontmatter_players_override_session_pcs(self) -> None:
         workspace = self.make_workspace()
-        session_path = workspace / "session.yaml"
+        session_path = workspace / SESSION_MANIFEST
         session_payload = self.load_yaml(session_path)
         source_note = workspace / "source-note.md"
         source_note.write_text(
@@ -510,7 +520,7 @@ class BuildSessionRecapTest(SessionRecapBase):
 
     def test_transcript_speaker_stats_infer_only_active_pc_roles(self) -> None:
         workspace = self.make_workspace()
-        session_path = workspace / "session.yaml"
+        session_path = workspace / SESSION_MANIFEST
         session_payload = self.load_yaml(session_path)
         session_payload["sourceType"] = "transcript"
         session_payload.pop("pcs", None)
@@ -901,7 +911,7 @@ class ManageSessionRecapTest(SessionRecapBase):
 
     def test_fallback_pc_validation_allows_subset_of_participant_roster(self) -> None:
         workspace = self.make_workspace()
-        session_path = workspace / "session.yaml"
+        session_path = workspace / SESSION_MANIFEST
         session_payload = self.load_yaml(session_path)
         session_payload.pop("pcs", None)
         session_payload["participants"] = [

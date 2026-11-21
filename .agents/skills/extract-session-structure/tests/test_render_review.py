@@ -1,7 +1,9 @@
 import copy
 from pathlib import Path
 import sys
+import tempfile
 import unittest
+from review_fixtures import registered_manifest
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'scripts'))
 import render_review as review
@@ -23,10 +25,16 @@ class ReviewRowsTest(unittest.TestCase):
                          'During March 26–29, 1748')
 
     def test_watch_link_uses_manifest_key(self):
-        self.assertIn('[Watch data](fixture-119-time-watches.json)', self.render())
+        rendered = self.render()
+        self.assertIn('# dufr · Session 119', rendered)
+        self.assertIn('[Watch data](fixture-119-time-watches.json)', rendered)
 
     def setUp(self):
         # Frozen, reduced DF119 regression scenario; never read the live bundle.
+        temp = tempfile.TemporaryDirectory()
+        self.addCleanup(temp.cleanup)
+        vault = Path(temp.name).resolve()
+        manifest = registered_manifest(vault, 'dunmari-frontier-119', 'fixture-119-session.yaml')
         self.sources = {
             'time-markers': {'markers': []},
             'location-markers': {
@@ -52,7 +60,7 @@ class ReviewRowsTest(unittest.TestCase):
             'combat': {'combats': []},
         }
         self.edit = dict(watches=[], locations=[], entities=[], combats=[], flags=[], dates='Unknown.')
-        self.bundle = {'manifest': Path('fixture-119-session.yaml'), 'data': {'campaign': 'Regression', 'sessionNumber': 119},
+        self.bundle = {'manifest': manifest, 'sessionIdentity': review.session_identity(manifest, vault=vault),
                        'source': Path('/fixture/transcript.md')}
 
     @staticmethod

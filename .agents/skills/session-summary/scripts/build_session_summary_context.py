@@ -24,7 +24,7 @@ VALID_TIME_WINDOWS = {"dawn", "morning", "midday", "afternoon", "evening", "nigh
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Build session-summary context artifacts.")
-    parser.add_argument("--session", type=Path, required=True, help="session.yaml path.")
+    parser.add_argument("--session", type=Path, required=True, help="Registered bundle's session manifest.")
     parser.add_argument("--beats-json", type=Path, required=True, help="Beat JSON path.")
     parser.add_argument("--beat-facts-json", type=Path, required=True, help="Beat-facts JSON path.")
     parser.add_argument(
@@ -45,7 +45,6 @@ def parse_args() -> argparse.Namespace:
 def main() -> int:
     args = parse_args()
     output_dir = args.output_dir.expanduser().resolve()
-    output_dir.mkdir(parents=True, exist_ok=True)
 
     file_prefix = args.file_prefix.strip()
     if not file_prefix:
@@ -62,8 +61,12 @@ def main() -> int:
     if recap_scenes_path is not None:
         assert_not_in_sources_dir(recap_scenes_path, "--recap-scenes-json")
 
+    try:
+        campaign, number = session_identity(session_path)
+    except ValueError as exc:
+        raise SystemExit(str(exc)) from exc
+
     session_payload = read_yaml_mapping(session_path)
-    campaign, number = session_identity(session_path, session_payload)
     session_payload.update(campaign=campaign, sessionNumber=number)
     beats = parse_beats_payload(read_json_mapping(beats_path))
     facts = parse_beat_facts_payload(read_json_mapping(beat_facts_path))
@@ -88,6 +91,7 @@ def main() -> int:
         recap_scenes=scene_groups(recap_scenes_payload) if recap_scenes_payload is not None else None,
     )
 
+    output_dir.mkdir(parents=True, exist_ok=True)
     context_json_path = output_dir / f"{file_prefix}-session-summary-context.json"
     context_json_path.write_text(json.dumps(context_payload, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
 

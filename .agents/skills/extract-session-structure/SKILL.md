@@ -20,7 +20,7 @@ Read these skills and their required format references before extraction. Keep a
 
 ## Prepare once
 
-Resolve the polished transcript through the session YAML. Parse its existing UID mappings once and retain exact original text for evidence and excerpt assembly. Bind all outputs to the same source revision. Inspect existing same-session outputs and durable human decisions, and earlier entity maps as required by the entity skill. Do not reread earlier transcripts as a default.
+Use a registered numbered bundle and resolve the polished transcript through its session YAML. Parse its existing UID mappings once and retain exact original text for evidence and excerpt assembly. Bind all outputs to the same source revision. Inspect existing same-session outputs and durable human decisions, and earlier entity maps as required by the entity skill. Do not reread earlier transcripts as a default.
 
 For a comparison trial, use an explicitly separate output directory and fingerprint the existing outputs before starting. Do not rewrite source manifests to register experiments. Record experimental reading measurements separately from the six output schemas. Mechanical source parsing is not a semantic read.
 

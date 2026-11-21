@@ -3,6 +3,7 @@ import sys
 import tempfile
 import unittest
 from unittest.mock import patch
+from review_fixtures import registered_manifest
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'scripts'))
 import render_review as review
@@ -31,7 +32,8 @@ class LocationContextTest(unittest.TestCase):
         self.edit = dict(flags=[], dates='', watches=[], locations=[
             dict(kind='presence', places=['room'], actors=['party'], markers=['l01'])],
             entities=[], combats=[])
-        self.bundle = dict(manifest=Path('fixture-002-session.yaml'), data=dict(campaign='Context fixture', sessionNumber=2),
+        manifest = registered_manifest(self.root, 'fixture-002', 'fixture-002-session.yaml')
+        self.bundle = dict(manifest=manifest, sessionIdentity=review.session_identity(manifest),
                            source=self.root / 'transcript.md')
 
     def render(self):
@@ -145,6 +147,11 @@ class LocationContextTest(unittest.TestCase):
 
 class IndividualEntityTest(unittest.TestCase):
     def setUp(self):
+        temporary = tempfile.TemporaryDirectory()
+        self.addCleanup(temporary.cleanup)
+        manifest = registered_manifest(Path(temporary.name), 'fixture-002', 'fixture-002-session.yaml')
+        self.bundle = dict(manifest=manifest, sessionIdentity=review.session_identity(manifest),
+                           source=Path('/fixture/transcript.md'))
         self.sources = {'time-markers': {'markers': []}, 'location-markers': {'places': {}, 'markers': []},
                         'entity-map': {'entities': [
                             dict(id='e01', label='Silver locket', importance='supporting'),
@@ -164,9 +171,8 @@ class IndividualEntityTest(unittest.TestCase):
             dict(ids=['e01'], summary='Found inside the altar.'),
             dict(ids=['e02'], summary='Read for clues to the pirate hideout.')])
         review.check_rows(self.edit, self.sources, {})
-        bundle = dict(manifest=Path('fixture-002-session.yaml'), data=dict(campaign='Entity fixture', sessionNumber=2), source=Path('/fixture/transcript.md'))
         paths = {key: Path('/fixture') / f'{key}.json' for key in review.VERSIONS}
-        result = review.render(bundle, paths, self.sources, self.edit, Path('/fixture'), dict(recording=None, notes=[]))
+        result = review.render(self.bundle, paths, self.sources, self.edit, Path('/fixture'), dict(recording=None, notes=[]))
         self.assertIn('| Silver locket | supporting | Found inside the altar. | e01 |', result)
         self.assertIn('| Pirate documents | supporting | Read for clues to the pirate hideout. | e02 |', result)
         self.assertEqual(result.count('| e02 |'), 1)
@@ -192,9 +198,8 @@ class IndividualEntityTest(unittest.TestCase):
             dict(ids=['e03'], summary='Bargains for the locket.'),
             dict(ids=['e01'], summary='Found inside the altar.')])
         review.check_rows(self.edit, self.sources, {})
-        bundle = dict(manifest=Path('fixture-002-session.yaml'), data=dict(campaign='Entity fixture', sessionNumber=2), source=Path('/fixture/transcript.md'))
         paths = {key: Path('/fixture') / f'{key}.json' for key in review.VERSIONS}
-        result = review.render(bundle, paths, self.sources, self.edit, Path('/fixture'), dict(recording=None, notes=[]))
+        result = review.render(self.bundle, paths, self.sources, self.edit, Path('/fixture'), dict(recording=None, notes=[]))
         self.assertIn('| Entity | Importance | Role in this session | IDs |', result)
         self.assertIn('| Manor ghost | star | Bargains for the locket. | e03 |', result)
         self.assertIn('| Silver locket | supporting | Found inside the altar. | e01 |', result)

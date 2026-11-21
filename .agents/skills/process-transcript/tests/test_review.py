@@ -168,6 +168,7 @@ class ReviewTests(unittest.TestCase):
         self.f.init();a=self.f.complete()['artifacts'];self.f.finalize()
         manifest=self.root/a['sessionMetadata'];manifest.write_text(manifest.read_text()+'# preserve trailing comment\nextra: unchanged\n')
         with core.lock(self.root):review.prepare(self.root,['u0001'])
+        self.assertEqual(review.read(self.root)[1]['title'], 'example — Session 1')
         self.decide(['correction'],{0:'Well, well, it got darker.'},'Well, well, it got darker.')
         self.apply();self.finalize()
         self.assertIn('# preserve trailing comment\nextra: unchanged',manifest.read_text())
