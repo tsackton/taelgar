@@ -6,7 +6,7 @@ import yaml
 from transcript_core import WORK, VERSION, require, safe, sha, current_hash, atomic, encoded, read_json
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[4] / '_scripts'))
-from session_bundles import registered_bundle_identity, session_manifest
+from session_bundles import session_manifest
 
 PLAN = 'cleaned/transcript-finalization.json'
 KEY = 'transcriptProcessing'
@@ -14,28 +14,19 @@ RETAINED = ('original', 'prepared', 'cleaned', 'polishedMarkdown')
 DISPOSABLE = ('polishedJson', 'polishedHtml', 'entities', 'review')
 
 
-def completion(root):
-    """Locate completion in existing metadata, including explicitly named manifests."""
-    if registered_bundle_identity(root) is not None:
+def completion(root, *, manifest=None):
+    """Read transcript completion from the bundle's session manifest."""
+    if manifest is None:
         manifest = session_manifest(root, required=False)
-        if manifest is None:
-            return None
-        candidates = [manifest]
-    else:
-        # Explicitly opened standalone copies can have a separately named manifest.
-        candidates = sorted({*root.rglob('*.yaml'), *root.rglob('*.yml')})
-    matches = []
-    for path in candidates:
-        relative = path.relative_to(root).as_posix()
-        if relative.startswith(WORK + '/'):
-            continue
-        data = safe(root, relative).read_bytes()
-        if re.search(rb'^transcriptProcessing:', data, re.M):
-            record = yaml.safe_load(data).get(KEY)
-            if record:
-                matches.append((relative, record))
-    require(len(matches) <= 1, 'Multiple transcript completion records; select the intended session bundle')
-    return matches[0] if matches else None
+    if manifest is None:
+        return None
+    relative = manifest.relative_to(root).as_posix()
+    data = safe(root, relative).read_bytes()
+    if re.search(rb'^transcriptProcessing:', data, re.M):
+        record = yaml.safe_load(data).get(KEY)
+        if record:
+            return relative, record
+    return None
 
 
 def completed_status(root, manifest, record, finalizing=False):

@@ -124,10 +124,10 @@ caches beside the skill. Commands below use `HELPER` for this skill's absolute
    Use the single returned bundle, or an explicitly supplied bundle path. Do not
    create another copy during an ordinary processing run. If no bundle exists, offer
    prepare-session-source as described above. Resolve duplicate bundle folders
-   before processing. Creating a new bounded review, including through audio
-   review, requires a registered numbered bundle. For development, copy the
-   bundle into a temporary test vault with a registry entry for its campaign and
-   pass only the copy to mutating commands.
+   before processing. Use a registered numbered bundle with a single session
+   manifest for processing and review, including new audio reviews. For
+   development, copy the bundle into a temporary test vault with a registry entry
+   for its campaign and pass only the copy to mutating commands.
 
 2. Inspect existing artifacts and local changes. If a readable transcript and review
    Markdown already exist, use [the Markdown review workflow](references/review.md)

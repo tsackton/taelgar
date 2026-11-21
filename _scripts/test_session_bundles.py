@@ -27,6 +27,15 @@ class BundleSelectionTest(unittest.TestCase):
         manifest.parent.mkdir(parents=True)
         manifest.write_text("campaign: dufr\nsessionNumber: 99\n")
         self.assertEqual(session_identity(manifest), ("clee", "12.10"))
+        config = manifest.with_name("source-prep.yaml")
+        config.write_text(manifest.read_text())
+        with self.assertRaisesRegex(ValueError, "Select the registered bundle manifest"):
+            session_identity(config)
+        extra = manifest.with_name("backup-session.yaml")
+        extra.write_text(manifest.read_text())
+        with self.assertRaisesRegex(ValueError, "Multiple session manifests"):
+            session_identity(manifest)
+        extra.unlink()
         loose = vault / "_sessions/to-process/cleenseau-012.10/cleaned/loose-session.yaml"
         loose.parent.mkdir(parents=True)
         loose.write_text(manifest.read_text())

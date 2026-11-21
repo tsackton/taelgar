@@ -5,6 +5,7 @@ import argparse
 import copy
 import json
 import re
+import shutil
 from pathlib import Path
 import tempfile
 import unittest
@@ -58,7 +59,7 @@ class PipelineTests(unittest.TestCase):
 
     def init(self, **kwargs):
         self.prepare_fixture()
-        args = argparse.Namespace(source=None, manifest=None, prepared=None, cleaned=None, chunk_words=1800)
+        args = argparse.Namespace(source=None, prepared=None, cleaned=None, chunk_words=1800)
         for k, v in kwargs.items(): setattr(args, k, v)
         with core.lock(self.root):
             return pipeline.initialize(self.root, args)
@@ -410,7 +411,7 @@ class PipelineTests(unittest.TestCase):
         self.assertFalse((self.root/'cleaned/second.json').exists())
 
     def test_unprepared_and_partial_bundles_are_rejected_without_writes(self):
-        args = argparse.Namespace(source=None, manifest=None, prepared=None, cleaned=None, chunk_words=1800)
+        args = argparse.Namespace(source=None, prepared=None, cleaned=None, chunk_words=1800)
         def snapshot():
             return {p: p.read_bytes() for p in self.root.rglob('*') if p.is_file()}
         before = snapshot()
@@ -436,6 +437,32 @@ class PipelineTests(unittest.TestCase):
         self.assertEqual(before, {p: p.read_bytes() for p in inputs})
         self.assertTrue(pipeline.status(self.root)['pending']['clean'])
 
+    def test_processing_refuses_unregistered_bundle_before_writes(self):
+        import subprocess
+        self.prepare_fixture()
+        unregistered = self.parent / 'session-001'
+        shutil.copytree(self.root, unregistered)
+        before = {p: p.read_bytes() for p in unregistered.rglob('*') if p.is_file()}
+        args = argparse.Namespace(source=None, prepared=None, cleaned=None, chunk_words=1800)
+        with self.assertRaisesRegex(core.PipelineError, 'registered numbered session bundle'):
+            pipeline.initialize(unregistered, args)
+        result = subprocess.run(
+            [sys.executable, '-B', pipeline.__file__, 'init', '--bundle', str(unregistered)],
+            capture_output=True, text=True,
+        )
+        self.assertEqual(result.returncode, 1)
+        self.assertIn('registered numbered session bundle', result.stderr)
+        self.assertEqual(before, {p: p.read_bytes() for p in unregistered.rglob('*') if p.is_file()})
+
+    def test_completion_uses_only_the_unique_session_manifest(self):
+        (self.root / 'legacy.yml').write_text('transcriptProcessing:\n  version: 1\n')
+        self.assertIsNone(finalization.completion(self.root))
+        self.prepare_fixture()
+        self.assertIsNone(finalization.completion(self.root))
+        (self.root / 'cleaned/extra-session.yaml').write_text('sourceType: transcript\n')
+        with self.assertRaisesRegex(ValueError, 'Multiple session manifests'):
+            finalization.completion(self.root)
+
     def test_external_original_cannot_be_imported_by_initialization(self):
         self.prepare_fixture()
         archived = self.root/'sources/raw.vtt'
@@ -446,7 +473,7 @@ class PipelineTests(unittest.TestCase):
         self.assertEqual(before, {p: p.read_bytes() for p in self.root.rglob('*') if p.is_file()})
         self.assertFalse(archived.exists())
 
-    def test_cli_refuses_missing_bundle_and_removed_metadata_option(self):
+    def test_cli_refuses_missing_bundle_and_removed_manifest_options(self):
         import subprocess
         helper = str(Path(pipeline.__file__))
         missing = self.parent/'not-created'
@@ -454,9 +481,12 @@ class PipelineTests(unittest.TestCase):
         self.assertNotEqual(result.returncode, 0)
         self.assertIn('prepare-session-source', result.stderr)
         self.assertFalse(missing.exists())
-        result = subprocess.run([sys.executable, '-B', helper, 'init', '--bundle', str(self.root), '--metadata', str(self.metadata)], capture_output=True, text=True)
-        self.assertNotEqual(result.returncode, 0)
-        self.assertIn('unrecognized arguments', result.stderr)
+        for option in ('--metadata', '--manifest'):
+            with self.subTest(option=option):
+                result = subprocess.run([sys.executable, '-B', helper, 'init', '--bundle', str(self.root),
+                                         option, str(self.metadata)], capture_output=True, text=True)
+                self.assertNotEqual(result.returncode, 0)
+                self.assertIn('unrecognized arguments', result.stderr)
         self.assertFalse((self.root/'cleaned').exists())
 
     def test_real_prepare_session_source_handoff(self):
@@ -486,7 +516,7 @@ class PipelineTests(unittest.TestCase):
         before = {p: p.read_bytes() for p in bundle.rglob('*') if p.is_file()}
         self.assertFalse((bundle/core.STATE).exists())
         self.assertFalse(list((bundle/'cleaned').glob('*-source-cleaned.md')))
-        args = argparse.Namespace(source=None, manifest=None, prepared=None, cleaned=None, chunk_words=1800)
+        args = argparse.Namespace(source=None, prepared=None, cleaned=None, chunk_words=1800)
         with core.lock(bundle):
             result = pipeline.initialize(bundle, args)
         self.assertEqual(result['status'], 'needs_work')

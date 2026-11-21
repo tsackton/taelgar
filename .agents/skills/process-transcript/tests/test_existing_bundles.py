@@ -2,6 +2,7 @@
 import sys
 sys.dont_write_bytecode=True
 import argparse
+import json
 import os
 from pathlib import Path
 import shutil
@@ -24,11 +25,18 @@ class ExistingBundles(unittest.TestCase):
 
     def test_copy_normalization_preserves_work_and_live_sources(self):
         vault=Path(os.environ['TRANSCRIPT_TEST_VAULT']).resolve()
+        registry = Path('_sessions/campaign-registry.json')
+        index_notes = json.loads((vault / registry).read_text())
         for case in CASES:
             with self.subTest(bundle=case), tempfile.TemporaryDirectory() as tmp:
                 live=vault/'_sessions'/case;before=snapshot(live)
-                root=Path(tmp).resolve()/live.name;shutil.copytree(live,root)
-                args=argparse.Namespace(source=None,manifest=None,prepared=None,cleaned=None,chunk_words=1800)
+                copy_vault = Path(tmp).resolve()
+                for source in [registry, *index_notes.values()]:
+                    destination = copy_vault / source
+                    destination.parent.mkdir(parents=True, exist_ok=True)
+                    shutil.copy2(vault / source, destination)
+                root=copy_vault/'_sessions'/case;shutil.copytree(live,root)
+                args=argparse.Namespace(source=None,prepared=None,cleaned=None,chunk_words=1800)
                 with core.lock(root):result=pipeline.initialize(root,args)
                 if result['finalized']:
                     self.assertTrue(result['outputsCurrent'])
