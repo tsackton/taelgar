@@ -60,7 +60,8 @@ class StagingNoteTests(unittest.TestCase):
     def test_chasm_folder_matches_a_campaign_word(self):
         folder = self.vault / 'Worldbuilding/Staging/Chasm'
         folder.mkdir(parents=True)
-        bundle = dict(self.f.f.bundle, data={'campaign': 'Into the Chasm'})
+        bundle = dict(self.f.f.bundle, campaignId='chasm',
+                      campaignConfig={'name': 'Into the Chasm', 'sessionBundleDirectory': '_sessions/into-the-chasm'})
         self.assertEqual(api.staging.folder(bundle, api.scenes), 'Worldbuilding/Staging/Chasm')
 
     def test_cached_note_identities_avoid_reopening_vault_notes(self):

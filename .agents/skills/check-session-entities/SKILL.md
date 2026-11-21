@@ -5,7 +5,7 @@ description: Identify NPCs, divine beings, significant items, and organizations 
 
 # Check Session Entities
 
-Use with a polished transcript or prepared narrative registered in session YAML. Resolve who or what
+Use with a polished transcript or prepared narrative in a registered numbered session bundle. Resolve who or what
 is referred to, whether it belongs in the inventory, which vault page matches,
 and how important the entity is in this session.
 This stage does not generate interactions, quotes, biographies,
@@ -13,7 +13,9 @@ recaps, final `session.json`, or new vault notes.
 
 ## Inputs and boundary
 
-Follow repository branch/worktree instructions. Resolve one session YAML and read
+Follow repository branch/worktree instructions. Use `_scripts/session_bundles.py` with the
+campaign ID and session number to locate the bundle. Verify that the directory
+exists and open its single `cleaned/*-session.yaml` manifest. Read
 its **complete polished transcript**, in order, using bounded UID windows. No scene
 map or reduction draft is required. Reuse the helper's source reader and YAML-owned
 PC roles; do not build another source registry or PC list. Preserve material time
@@ -65,9 +67,9 @@ approval or silently replays comments against changed records.
 ## Prior entity maps as context
 
 Before inventorying the current session, inspect its existing entity map, if any,
-and discover earlier entity maps in the **same campaign**. Resolve campaign and
-session order from their session YAMLs, not filenames or file modification times;
-use the repository campaign registry for aliases. Start with the nearest earlier
+and discover earlier entity maps in the **same campaign**. Use the registered
+campaign directory and the numbered bundle folder suffixes to find earlier
+sessions. Preserve point-session identifiers. Start with the nearest earlier
 session and look farther back for recurring identities, useful source names,
 unresolved candidates, or relevant exclusions. If none exist, proceed from the
 current source and vault notes; do not generate missing maps as a prerequisite.
@@ -224,7 +226,7 @@ Strange events are context for identifying referents, not a new entity kind.
 Reconsider borderline exclusions under this rule rather than requiring an
 already established name, direct encounter, or demonstrated later payoff.
 
-**Dunmari Frontier exception:** when YAML identifies that campaign, track the
+**Dunmari Frontier exception:** for registered `dufr` bundles, track the
 party's ladders as `npc` companions, including equipment use. This does not assert
 animation or action. Match the Ladder page when supported and distinguish current
 and destroyed ladders; a passing predecessor joke need not create a record.

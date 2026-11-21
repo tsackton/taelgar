@@ -13,6 +13,11 @@ class EntityReviewTests(unittest.TestCase):
         self.f = fixtures.EntityMapTests()
         self.f.setUp()
         self.addCleanup(self.f.doCleanups)
+        vault = self.f.fixture.vault
+        (vault / '_sessions/campaign-registry.json').write_text('{"demo":"Index.md"}', encoding='utf8')
+        (vault / 'Index.md').write_text(
+            '---\nname: Demo Campaign\nsessionBundleDirectory: _sessions/dunmar-frontier\n---\n', encoding='utf8'
+        )
         api.maps.save(self.f.bundle, self.f.proposal)
         self.yaml = self.f.bundle['sessionYaml']
         self.source_before = {p: p.read_bytes() for p in (self.f.fixture.yaml, self.f.fixture.source, self.f.note)}

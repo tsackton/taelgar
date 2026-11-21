@@ -17,8 +17,8 @@ from typing import Any, Dict, List, Optional, Sequence, Tuple
 import yaml
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[4] / '_scripts'))
-from campaign_registry import bundle_owner, containing_vault
-from session_bundles import bundle_parts, select_bundle, session_manifest
+from campaign_registry import campaign_bundle_directory, containing_vault
+from session_bundles import select_bundle, session_manifest, session_number
 
 
 SOURCE_TYPE_TRANSCRIPT = "transcript"
@@ -31,8 +31,6 @@ SOURCE_TYPE_CHOICES = [
 ]
 
 SCOPE_SESSION = "session"
-SCOPE_ARC = "arc"
-SCOPE_CHOICES = [SCOPE_SESSION, SCOPE_ARC]
 
 TRANSCRIPT_FORMAT_AUTO = "auto"
 TRANSCRIPT_FORMAT_LINES = "speaker_lines"
@@ -114,6 +112,7 @@ def parse_args() -> argparse.Namespace:
         action="store_true",
         help="Prompt for unresolved transcript speakers using participant game roles.",
     )
+    parser.add_argument("--prefix", help="Folder prefix when the campaign has no single established prefix.")
     parser.add_argument("--force", action="store_true", help="Overwrite existing outputs.")
     return parser.parse_args()
 
@@ -142,9 +141,9 @@ def main() -> int:
     )
 
     try:
-        output_dir = prep_destination(config_path, options, source_path)
+        output_dir = prep_destination(config_path, options, prefix=args.prefix, prompt=sys.stdin.isatty())
         prior_manifest = session_manifest(output_dir, required=False)
-    except (OSError, ValueError) as exc:
+    except (OSError, ValueError, EOFError) as exc:
         raise SystemExit(str(exc)) from exc
     bundle_stem = prior_manifest.name.removesuffix("-session.yaml") if prior_manifest else output_dir.name
     sources_dir = output_dir / "sources"
@@ -269,43 +268,10 @@ def load_yaml_mapping(path: Path) -> Dict[str, Any]:
     return payload
 
 
-def prep_destination(config_path: Path, options: Dict[str, Any], source_path: Path) -> Path:
-    if options["bundlePath"]:
-        path = Path(options["bundlePath"])
-        if path.is_absolute() or ".." in path.parts:
-            raise ValueError("bundlePath must be relative to the vault without parent traversal")
-        vault = containing_vault(config_path.parent) or Path(__file__).resolve().parents[4]
-        bundle = vault / path
-        campaign = bundle_owner(vault, bundle)
-        prefix, number = bundle_parts(bundle)
-        selected = select_bundle(bundle.parent, number, create=True, prefix=prefix)
-        if selected != bundle or bundle.is_symlink():
-            raise ValueError(f"Invalid bundle destination: {bundle}")
-        options.update(campaign=campaign, sessionNumber=number)
-        return bundle
-
-    # Standalone preparations and arc sources have their own naming rules.
-    directory = Path(options["outputDir"]).expanduser().resolve()
-    vault = containing_vault(directory)
-    if vault and options["scope"] == SCOPE_SESSION:
-        raise ValueError("Use bundlePath in place of outputDir, campaign and sessionNumber for a vault session.")
-    stem = build_bundle_stem(options["campaign"], options["sessionNumber"],
-                             scope=options["scope"], source_path=source_path)
-    if vault:
-        owner = bundle_owner(vault, directory / stem)
-        previous = []
-        for manifest in directory.glob("*/cleaned/*-session.yaml"):
-            data = load_yaml_mapping(manifest)
-            if data.get("scope") == SCOPE_ARC and Path(str(data.get("sourceConfigPath", ""))).name == config_path.name:
-                previous.append(manifest.parent.parent)
-        if len(previous) > 1:
-            raise ValueError(f"Multiple existing arc bundles match {config_path}: {previous}")
-        if not previous and options["campaign"] != owner:
-            raise ValueError(f"Use campaign: {owner} for a new arc in {directory}")
-        options["campaign"] = owner
-        if previous:
-            return previous[0]
-    return directory / stem
+def prep_destination(config_path: Path, options: Dict[str, Any], *, prefix=None, prompt=False) -> Path:
+    vault = containing_vault(config_path.parent) or Path(__file__).resolve().parents[4]
+    directory = campaign_bundle_directory(vault, options["campaign"])
+    return select_bundle(directory, options["sessionNumber"], create=True, prefix=prefix, prompt=prompt)
 
 
 def validate_config(config: Dict[str, Any]) -> Dict[str, Any]:
@@ -314,8 +280,6 @@ def validate_config(config: Dict[str, Any]) -> Dict[str, Any]:
         "sourceAudioPath": config.get("sourceAudioPath"),
         "sourceType": config.get("sourceType"),
         "scope": config.get("scope") or SCOPE_SESSION,
-        "bundlePath": config.get("bundlePath"),
-        "outputDir": config.get("outputDir"),
         "campaign": config.get("campaign"),
         "sessionNumber": config.get("sessionNumber"),
         "realWorldDate": config.get("realWorldDate"),
@@ -332,26 +296,23 @@ def validate_config(config: Dict[str, Any]) -> Dict[str, Any]:
         "sessionNote": normalize_session_note_config(config.get("sessionNote")),
     }
 
-    required = ["sourcePath", "sourceType", "participantsPath"]
-    if "bundlePath" in config:
-        if any(key in config for key in ("outputDir", "campaign", "sessionNumber")):
-            raise SystemExit("bundlePath replaces outputDir, campaign and sessionNumber; supply only bundlePath.")
-        if options["scope"] != SCOPE_SESSION:
-            raise SystemExit("bundlePath is for numbered sessions only.")
-        required.append("bundlePath")
-    else:
-        required.extend(["outputDir", "campaign"])
-        if options["scope"] == SCOPE_SESSION:
-            required.append("sessionNumber")
-    if options["scope"] == SCOPE_SESSION:
-        required.append("realWorldDate")
+    if "bundlePath" in config or "outputDir" in config:
+        raise SystemExit("Use campaign and sessionNumber in the preparation YAML. The registry supplies the directory.")
+    required = ["sourcePath", "sourceType", "participantsPath", "campaign", "sessionNumber", "realWorldDate"]
     missing = [key for key in required if options.get(key) in (None, "")]
     if missing:
         raise SystemExit("Missing required config fields: " + ", ".join(missing))
     if options["sourceType"] not in SOURCE_TYPE_CHOICES:
         raise SystemExit(f"Unsupported sourceType: {options['sourceType']}")
-    if options["scope"] not in SCOPE_CHOICES:
-        raise SystemExit(f"Unsupported scope: {options['scope']}")
+    if options["scope"] != SCOPE_SESSION:
+        raise SystemExit("Preparation requires a numbered session.")
+    number = options["sessionNumber"]
+    if type(number) not in (int, str):
+        raise SystemExit("Use an integer or a quoted point session for sessionNumber, such as '12.10'.")
+    try:
+        options["sessionNumber"] = session_number(number)
+    except ValueError as exc:
+        raise SystemExit(str(exc)) from exc
     if options["transcriptFormat"] not in TRANSCRIPT_FORMAT_CHOICES:
         raise SystemExit(f"Unsupported transcriptFormat: {options['transcriptFormat']}")
     if options["narrativeUnit"] not in NARRATIVE_UNIT_CHOICES:
@@ -611,35 +572,6 @@ def infer_source_audio_path(source_path: Path) -> Optional[Path]:
         )
     )
     return matches[0].resolve() if matches else None
-
-
-def build_bundle_stem(
-    campaign: Any,
-    session_number: Any,
-    *,
-    scope: str,
-    source_path: Path,
-) -> str:
-    campaign_slug = slugify_text(str(campaign))
-    if not campaign_slug:
-        raise SystemExit("Campaign must contain at least one alphanumeric character.")
-    if scope == SCOPE_ARC and session_number in (None, ""):
-        source_slug = slugify_text(source_path.stem) or "arc"
-        return f"{campaign_slug}-{source_slug}"
-    session_number_text = str(session_number).strip()
-    match = re.fullmatch(r"(\d+)(?:\.(\d+))?", session_number_text)
-    if match is None:
-        raise SystemExit(
-            f"sessionNumber must be a whole or x.y number, got {session_number!r}"
-        )
-    whole = int(match.group(1))
-    fraction = f".{match.group(2)}" if match.group(2) is not None else ""
-    return f"{campaign_slug}-{whole:03d}{fraction}"
-
-
-def slugify_text(value: str) -> str:
-    slug = re.sub(r"[^a-z0-9]+", "-", value.lower()).strip("-")
-    return re.sub(r"-{2,}", "-", slug)
 
 
 def copy_file(source: Path, destination: Path) -> None:

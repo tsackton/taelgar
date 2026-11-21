@@ -3,7 +3,7 @@ import unittest
 from pathlib import Path
 from unittest.mock import patch
 
-from session_bundles import bundle_parts, select_bundle, session_manifest
+from session_bundles import bundle_parts, select_bundle, session_identity, session_manifest
 
 
 class BundleSelectionTest(unittest.TestCase):
@@ -11,6 +11,22 @@ class BundleSelectionTest(unittest.TestCase):
         workspace = tempfile.TemporaryDirectory()
         self.addCleanup(workspace.cleanup)
         self.root = Path(workspace.name)
+
+    def test_path_identity_keeps_fractions_and_ignores_yaml_labels(self):
+        vault = self.root.resolve()
+        campaign_directory = vault / "_sessions/cleenseau"
+        campaign_directory.mkdir(parents=True)
+        (vault / "_sessions/campaign-registry.json").write_text('{"clee":"Index.md"}')
+        (vault / "Index.md").write_text(
+            "---\nname: Cleenseau\nsessionBundleDirectory: _sessions/cleenseau\n---\n"
+        )
+        manifest = campaign_directory / "cleenseau-012.10/cleaned/historical-session.yaml"
+        old = {"campaign": "dufr", "sessionNumber": 99}
+        self.assertEqual(session_identity(manifest, old), ("clee", "12.10"))
+        self.assertEqual(session_identity(manifest, {}), ("clee", "12.10"))
+        self.assertEqual(old, {"campaign": "dufr", "sessionNumber": 99})
+        loose = vault / "_sessions/to-process/unprepared-session.yaml"
+        self.assertEqual(session_identity(loose, old), ("dufr", 99))
 
     def test_first_prefix_then_reuse(self):
         with self.assertRaisesRegex(ValueError, "--prefix"):

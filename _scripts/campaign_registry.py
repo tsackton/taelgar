@@ -85,19 +85,25 @@ def containing_vault(path: Path) -> Path | None:
                  if (p / "_sessions/campaign-registry.json").is_file()), None)
 
 
-def bundle_owner(vault: Path, bundle: Path) -> str:
+def campaign_bundle_directory(
+    vault: Path, campaign: str, *, campaigns: dict | None = None
+) -> Path:
+    if campaigns is None:
+        campaigns = load_campaigns(vault)
+    if campaign not in campaigns:
+        raise ValueError(f"Unknown campaign ID: {campaign}")
+    directory = campaigns[campaign].get("sessionBundleDirectory")
+    if not directory:
+        raise ValueError(f"No sessionBundleDirectory configured for {campaign}")
+    return vault / directory
+
+
+def bundle_owner(vault: Path, bundle: Path, *, campaigns: dict | None = None) -> str | None:
     directory = bundle.parent.resolve()
-    for key, row in load_campaigns(vault).items():
+    if campaigns is None:
+        campaigns = load_campaigns(vault)
+    for key, row in campaigns.items():
         root = row.get("sessionBundleDirectory")
         if root and (vault / root).resolve() == directory:
             return key
-    raise ValueError(f"Unregistered session bundle directory: {directory}")
-
-
-def session_campaign_id(manifest: Path, declared: str | None) -> str | None:
-    """A registered bundle gets its campaign from its directory."""
-    manifest = manifest.resolve()
-    vault = containing_vault(manifest.parent)
-    if vault is None or manifest.parent.name != "cleaned":
-        return declared
-    return bundle_owner(vault, manifest.parent.parent)
+    return None

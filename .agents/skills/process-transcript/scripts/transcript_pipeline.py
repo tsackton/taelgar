@@ -24,8 +24,8 @@ from transcript_core import (VERSION, EDITORIAL_POLICY, WORK, STATE, LINE, MARKE
 
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[4] / '_scripts'))
-from campaign_registry import bundle_owner, containing_vault, load_campaigns
-from session_bundles import bundle_parts, select_bundle
+from campaign_registry import campaign_bundle_directory, containing_vault, load_campaigns
+from session_bundles import bundle_parts, registered_bundle_identity, select_bundle, session_manifest
 
 
 def resolve(vault, campaign, session):
@@ -33,9 +33,9 @@ def resolve(vault, campaign, session):
     matches = [(key, row) for key, row in registry.items()
                if campaign.casefold() in {key, row['name'].casefold()}]
     require(len(matches) == 1, f'Campaign is unknown or ambiguous: {campaign}')
-    campaign_id, item = matches[0]
-    require(item.get('sessionBundleDirectory'), f'No session bundle directory for {campaign_id}')
-    bundle = select_bundle(vault / item['sessionBundleDirectory'], session)
+    campaign_id, _ = matches[0]
+    directory = campaign_bundle_directory(vault, campaign_id, campaigns=registry)
+    bundle = select_bundle(directory, session)
     return {'bundle': str(bundle), 'campaign': campaign_id, 'sessionNumber': bundle_parts(bundle)[1]}
 
 
@@ -87,7 +87,7 @@ def initialize(root, args):
     completed = finalization.completion(root)
     if completed:
         return finalization.completed_status(root, *completed)
-    manifest = one(root, 'cleaned/*-session.yaml', args.manifest, required=False)
+    manifest = one(root, 'cleaned/*-session.yaml', args.manifest) if args.manifest else session_manifest(root, required=False)
     require(manifest is not None, 'Missing session YAML: process-transcript requires an existing prepared bundle. Ask whether to use prepare-session-source to create one.')
     prepared_path = one(root, 'cleaned/*-source-prepared.md', args.prepared, required=False)
     require(prepared_path is not None, 'Missing prepared UID transcript: use prepare-session-source to complete or repair the bundle before processing; do not rebuild from raw input here.')
@@ -96,8 +96,12 @@ def initialize(root, args):
     require(isinstance(metadata, dict), 'Session YAML must be a mapping')
     require(metadata.get('sourceType', 'transcript') == 'transcript', 'This pipeline accepts transcripts, not narrative/raw-notes bundles')
     vault = containing_vault(root)
-    if vault and metadata.get('scope', 'session') == 'session':
-        metadata.update(campaign=bundle_owner(vault, root), sessionNumber=bundle_parts(root)[1])
+    if vault:
+        identity = registered_bundle_identity(root, vault=vault)
+        require(identity is not None, 'Expected a registered numbered session bundle')
+        require(manifest == session_manifest(root), 'Select the registered bundle manifest')
+        campaign, number = identity
+        metadata.update(campaign=campaign, sessionNumber=number)
     require(metadata.get('campaign') and metadata.get('sessionNumber') is not None, 'Existing session YAML needs campaign and sessionNumber; resolve intake metadata through prepare-session-source')
     original = original_path(root, metadata, args.source)
     require(original.is_file(), f'Missing archived source: {original}; use prepare-session-source to repair intake')
@@ -417,7 +421,7 @@ def export(root, replace_exports=False):
     title = f"{state['session']['campaign']} — Session {state['session']['sessionNumber']}"
     a = state['artifacts']
     md, page = render_polished(turns, title, Path(a['cleaned']).name, label)
-    review_artifacts = dict(a, sessionMetadata=a.get('sessionMetadata') or str(one(root, 'cleaned/*-session.yaml').relative_to(root)))
+    review_artifacts = dict(a, sessionMetadata=a.get('sessionMetadata') or str(session_manifest(root).relative_to(root)))
     review_md = review.exported(root, review_artifacts, issues, units, turns, title, not outcome['pending']['quality'], md)
     mentions = [m for c in state['chunks'] for m in state['cleanReviews'][c['id']]['mentions']]
     source_hash = sha(safe(root, a['cleaned']).read_bytes())
@@ -462,7 +466,7 @@ def finalize(root):
     # Existing work queues predate the explicit metadata-path field.
     manifest = state['artifacts'].get('sessionMetadata')
     if not manifest:
-        manifest = str(one(root, 'cleaned/*-session.yaml').relative_to(root))
+        manifest = str(session_manifest(root).relative_to(root))
     expected = expected_inputs(state, units)
     require(all(sha(safe(root, path).read_bytes()) == digest for path, digest in expected.items()),
             'Inputs changed before finalization')

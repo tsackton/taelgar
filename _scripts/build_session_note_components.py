@@ -15,7 +15,7 @@ from typing import Any, Dict, Iterable, List, Optional, Sequence, Tuple
 
 import yaml
 import audio_tools
-from campaign_registry import load_campaigns
+from campaign_registry import campaign_bundle_directory, load_campaigns
 from session_bundles import select_bundle, session_manifest, session_number
 
 
@@ -303,12 +303,13 @@ def parse_session_identifier(value: str) -> str:
 
 
 def find_session_manifest(campaign_id: str, config: Dict[str, Any], session_number: str) -> Path:
-    if not config.get("sessionBundleDirectory"):
-        raise SystemExit(f"Campaign '{campaign_id}' has no session bundle directory configured.")
     for field in ("campaignDirectory", "notePattern"):
         if not config.get(field):
             raise SystemExit(f"Campaign '{campaign_id}' is missing {field} for building session notes.")
-    session_root = VAULT_ROOT / config["sessionBundleDirectory"]
+    try:
+        session_root = campaign_bundle_directory(VAULT_ROOT, campaign_id, campaigns={campaign_id: config})
+    except ValueError as exc:
+        raise SystemExit(str(exc)) from exc
     if not session_root.exists():
         raise SystemExit(f"Session root does not exist for campaign '{campaign_id}': {session_root}")
 

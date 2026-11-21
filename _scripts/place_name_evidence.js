@@ -760,7 +760,7 @@ function loadCampaignDefinitions(root) {
     const notePattern = fieldScalar(fields, "notePattern");
     const relative = path.posix.dirname(notePattern || ".");
     definitions.set(id, {slug:id, code:id, name, campaignRoot, notePattern,
-      sessionRoot:fieldScalar(fields, "sessionBundleDirectory").replace(/^_sessions\//, ""),
+      sessionBundleDirectory:fieldScalar(fields, "sessionBundleDirectory"),
       sessionNoteFolder: campaignRoot && (relative === "." ? campaignRoot : path.posix.join(campaignRoot, relative)),
       aliasKeys:new Set([normalizeKey(id), normalizeKey(name)])});
   }
@@ -774,8 +774,8 @@ function campaignFor(value, sourcePath, definitions) {
       return definition.slug;
     }
     if (
-      definition.sessionRoot &&
-      normalizedPath.startsWith(`_sessions/${definition.sessionRoot}/`)
+      definition.sessionBundleDirectory &&
+      normalizedPath.startsWith(`${definition.sessionBundleDirectory}/`)
     ) return definition.slug;
   }
   const key = normalizeKey(value);
@@ -788,16 +788,16 @@ function campaignFor(value, sourcePath, definitions) {
 
 function sessionNumberFrom(...values) {
   for (const value of values) {
-    const direct = String(value || "").trim();
-    if (/^\d+$/.test(direct)) return Number(direct);
-    const match = direct.match(/(?:session|episode|arc|[-_])\s*0*(\d+)\b/i);
-    if (match) return Number(match[1]);
+    const direct = String(value ?? "").trim();
+    const number = /^([0-9]+)(\.[0-9]+)?$/.exec(direct) ||
+      /(?:session|episode|arc|[-_])\s*([0-9]+)(\.[0-9]+)?\b/i.exec(direct);
+    if (number) return number[2] ? String(Number(number[1])) + number[2] : Number(number[1]);
   }
   return null;
 }
 
 function sessionIdentity(campaign, number, sessionKey, sourcePath, realWorldDate = "") {
-  if (campaign && campaign !== "unknown" && Number.isInteger(number)) {
+  if (campaign && campaign !== "unknown" && number != null) {
     return `${campaign}:${number}`;
   }
   if (sessionKey) return `key:${normalizeKey(sessionKey).replace(/\s+/g, "-")}`;
@@ -864,7 +864,7 @@ function discoverSessionRegistry(root, index, definitions) {
       realWorldDate,
       drDate,
       joinMethod: "published-note-identity",
-      joinConfidence: Number.isInteger(number) && campaign !== "unknown" ? 0.96 : 0.7,
+      joinConfidence: number != null && campaign !== "unknown" ? 0.96 : 0.7,
     });
     record.published_notes.push(note.path);
     if (fieldNumber != null && filenameNumber != null && fieldNumber !== filenameNumber) {
@@ -879,89 +879,78 @@ function discoverSessionRegistry(root, index, definitions) {
     publishedPaths.add(note.path);
   }
 
-  const sessionsRoot = path.join(root, "_sessions");
-  if (fs.existsSync(sessionsRoot)) {
-    for (const rootEntry of fs.readdirSync(sessionsRoot, { withFileTypes: true })) {
-      if (!rootEntry.isDirectory() || rootEntry.name === "to-process") continue;
-      const campaignDirectory = path.join(sessionsRoot, rootEntry.name);
-      for (const bundleEntry of fs.readdirSync(campaignDirectory, { withFileTypes: true })) {
-        if (!bundleEntry.isDirectory()) continue;
-        const bundleAbsolute = path.join(campaignDirectory, bundleEntry.name);
-        const bundleRelative = relativePath(root, bundleAbsolute);
-        const cleaned = path.join(bundleAbsolute, "cleaned");
-        const sources = path.join(bundleAbsolute, "sources");
-        const sessionYamlName = findFirst(cleaned, (name) => /-session\.yaml$/i.test(name));
-        let sessionMetadata = sessionYamlName ? path.join(cleaned, sessionYamlName) : "";
-        if (!sessionMetadata) {
-          const sourceYamlName = findFirst(sources, (name) => /\.ya?ml$/i.test(name) && !/participants|mapping/i.test(name));
-          if (sourceYamlName) sessionMetadata = path.join(sources, sourceYamlName);
-        }
-        const metadataText = sessionMetadata && fs.existsSync(sessionMetadata)
-          ? fs.readFileSync(sessionMetadata, "utf8")
-          : "";
-        const metadata = parseTopLevelScalars(metadataText);
-        const campaign = campaignFor(metadata.campaign, bundleRelative, definitions);
-        const metadataNumber = sessionNumberFrom(metadata.sessionNumber);
-        const bundleNumber = sessionNumberFrom(bundleEntry.name);
-        const number = bundleNumber ?? metadataNumber;
-        const realWorldDate = metadata.realWorldDate || "";
-        const drDate = metadata.drStart || metadata.DR || "";
-        let identity = sessionIdentity(campaign, number, metadata.sessionKey, bundleRelative, realWorldDate);
-        let joinMethod = "bundle-identity";
-        let joinConfidence = Number.isInteger(number) && campaign !== "unknown" ? 0.98 : 0.65;
-        if (!sessions.has(identity) && campaign !== "unknown" && realWorldDate) {
-          const dateMatches = [...sessions.values()].filter((session) =>
-            session.campaign === campaign && session.real_world_date === realWorldDate
-          );
-          if (dateMatches.length === 1) {
-            identity = dateMatches[0].id;
-            joinMethod = "campaign-and-real-world-date";
-            joinConfidence = 0.88;
-          }
-        } else if (sessions.has(identity)) {
-          joinMethod = "campaign-and-session-number";
-          joinConfidence = 0.98;
-        }
-        const record = ensure(identity, {
-          campaign,
-          number,
-          sessionKey: metadata.sessionKey || "",
-          realWorldDate,
-          drDate,
-          joinMethod,
-          joinConfidence,
+  const bundles = new Set();
+  for (const definition of definitions.values()) {
+    if (!definition.sessionBundleDirectory) continue;
+    const campaign = definition.code;
+    const campaignDirectory = path.join(root, definition.sessionBundleDirectory);
+    if (!fs.existsSync(campaignDirectory)) continue;
+    for (const bundleEntry of fs.readdirSync(campaignDirectory, { withFileTypes: true })) {
+      // Same numbered-bundle grammar as _scripts/session_bundles.py.
+      const suffix = /^[a-z0-9]+(?:-[a-z0-9]+)*-([0-9]{3}|[1-9][0-9]{3,})(\.[0-9]+)?$/.exec(bundleEntry.name);
+      if (!bundleEntry.isDirectory() || !suffix) continue;
+      const number = sessionNumberFrom(suffix[1] + (suffix[2] ?? ""));
+      const bundleAbsolute = path.join(campaignDirectory, bundleEntry.name);
+      const bundleRelative = relativePath(root, bundleAbsolute);
+      const cleaned = path.join(bundleAbsolute, "cleaned");
+      const sources = path.join(bundleAbsolute, "sources");
+      const sessionYamlName = findFirst(cleaned, (name) => /-session\.yaml$/i.test(name));
+      let sessionMetadata = sessionYamlName ? path.join(cleaned, sessionYamlName) : "";
+      if (!sessionMetadata) {
+        const sourceYamlName = findFirst(sources, (name) => /\.ya?ml$/i.test(name) && !/participants|mapping/i.test(name));
+        if (sourceYamlName) sessionMetadata = path.join(sources, sourceYamlName);
+      }
+      const metadataText = sessionMetadata && fs.existsSync(sessionMetadata)
+        ? fs.readFileSync(sessionMetadata, "utf8")
+        : "";
+      const metadata = parseTopLevelScalars(metadataText);
+      const realWorldDate = metadata.realWorldDate || "";
+      const drDate = metadata.drStart || metadata.DR || "";
+      const identity = sessionIdentity(campaign, number, "", bundleRelative);
+      if (bundles.has(identity)) throw new Error("Duplicate numbered session bundle: " + identity);
+      bundles.add(identity);
+      const joinMethod = sessions.has(identity) ? "campaign-and-session-number" : "bundle-identity";
+      const joinConfidence = 0.98;
+      const record = ensure(identity, {
+        campaign,
+        number,
+        sessionKey: metadata.sessionKey || "",
+        realWorldDate,
+        drDate,
+        joinMethod,
+        joinConfidence,
+      });
+      record.bundle = bundleRelative;
+      const declaredNumber = sessionNumberFrom(metadata.sessionNumber);
+      if (declaredNumber != null && declaredNumber !== number) {
+        record.identity_warnings.push({
+          path: bundleRelative,
+          field: "sessionNumber",
+          metadata_value: declaredNumber,
+          bundle_value: number,
+          resolution: "used-bundle-value",
         });
-        record.bundle = bundleRelative;
-        if (metadataNumber != null && bundleNumber != null && metadataNumber !== bundleNumber) {
-          record.identity_warnings.push({
-            path: bundleRelative,
-            field: "sessionNumber",
-            metadata_value: metadataNumber,
-            bundle_value: bundleNumber,
-            resolution: "used-bundle-value",
-          });
-        }
-        if (sessionMetadata) record.session_metadata = relativePath(root, sessionMetadata);
-        if (record.join.method === "published-note-identity" || joinConfidence > record.join.confidence) {
-          record.join = { method: joinMethod, confidence: joinConfidence };
-        }
-        const recapName = findFirst(cleaned, (name) => /-session-recap\.md$/i.test(name));
-        if (recapName) record.recap = relativePath(root, path.join(cleaned, recapName));
-        const cleanedName = findFirst(cleaned, (name) => /-source-cleaned\.md$/i.test(name));
-        const preparedName = findFirst(cleaned, (name) => /-source-prepared\.md$/i.test(name));
-        let sourceType = normalizeKey(metadata.sourceType);
-        if (!sourceType && preparedName) {
-          const sample = fs.readFileSync(path.join(cleaned, preparedName), "utf8").slice(0, 2000);
-          if (/^\[u\d+\s*\|[^\]]+\]/m.test(sample)) sourceType = "transcript";
-        }
-        if (sourceType === "transcript") {
-          if (cleanedName) {
-            record.transcript = relativePath(root, path.join(cleaned, cleanedName));
-            record.transcript_source = "cleaned";
-          } else if (preparedName) {
-            record.transcript = relativePath(root, path.join(cleaned, preparedName));
-            record.transcript_source = "prepared";
-          }
+      }
+      if (sessionMetadata) record.session_metadata = relativePath(root, sessionMetadata);
+      if (record.join.method === "published-note-identity" || joinConfidence > record.join.confidence) {
+        record.join = { method: joinMethod, confidence: joinConfidence };
+      }
+      const recapName = findFirst(cleaned, (name) => /-session-recap\.md$/i.test(name));
+      if (recapName) record.recap = relativePath(root, path.join(cleaned, recapName));
+      const cleanedName = findFirst(cleaned, (name) => /-source-cleaned\.md$/i.test(name));
+      const preparedName = findFirst(cleaned, (name) => /-source-prepared\.md$/i.test(name));
+      let sourceType = normalizeKey(metadata.sourceType);
+      if (!sourceType && preparedName) {
+        const sample = fs.readFileSync(path.join(cleaned, preparedName), "utf8").slice(0, 2000);
+        if (/^\[u\d+\s*\|[^\]]+\]/m.test(sample)) sourceType = "transcript";
+      }
+      if (sourceType === "transcript") {
+        if (cleanedName) {
+          record.transcript = relativePath(root, path.join(cleaned, cleanedName));
+          record.transcript_source = "cleaned";
+        } else if (preparedName) {
+          record.transcript = relativePath(root, path.join(cleaned, preparedName));
+          record.transcript_source = "prepared";
         }
       }
     }
@@ -976,7 +965,7 @@ function discoverSessionRegistry(root, index, definitions) {
   return {
     sessions: [...sessions.values()].sort((left, right) =>
       left.campaign.localeCompare(right.campaign) ||
-      (left.number ?? Number.MAX_SAFE_INTEGER) - (right.number ?? Number.MAX_SAFE_INTEGER) ||
+      String(left.number ?? Number.MAX_SAFE_INTEGER).localeCompare(String(right.number ?? Number.MAX_SAFE_INTEGER), "en", { numeric: true }) ||
       left.id.localeCompare(right.id)
     ),
     publishedPaths,
@@ -1391,7 +1380,7 @@ function buildCampaignEvidence(root, index, placeCatalog, formMatcher, registry,
     const campaigns = [];
     for (const campaign of subjectCampaigns.get(subject.path).values()) {
       campaign.sessions.sort((left, right) =>
-        (left.number ?? Number.MAX_SAFE_INTEGER) - (right.number ?? Number.MAX_SAFE_INTEGER) ||
+        String(left.number ?? Number.MAX_SAFE_INTEGER).localeCompare(String(right.number ?? Number.MAX_SAFE_INTEGER), "en", { numeric: true }) ||
         left.id.localeCompare(right.id)
       );
       const sessionCount = campaign.sessions.length;
