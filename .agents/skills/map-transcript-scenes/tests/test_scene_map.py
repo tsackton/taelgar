@@ -17,7 +17,7 @@ class SceneMapTests(unittest.TestCase):
         self.temp = tempfile.TemporaryDirectory()
         self.addCleanup(self.temp.cleanup)
         self.vault = Path(self.temp.name)
-        self.root = self.vault / '_sessions/demo'
+        self.root = self.vault / '_sessions/dunmar-frontier/demo-001'
         (self.root / 'cleaned').mkdir(parents=True)
         self.yaml = self.root / 'cleaned/demo-session.yaml'
         self.source = self.root / 'cleaned/demo-transcript.md'

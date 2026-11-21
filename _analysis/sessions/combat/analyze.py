@@ -26,7 +26,8 @@ sys.dont_write_bytecode = True
 OUTPUT = Path(__file__).resolve().parent
 VAULT = OUTPUT.parents[2]
 sys.path.insert(0, str(VAULT / '_scripts'))
-from campaign_registry import load_campaigns
+from campaign_registry import campaign_bundle_directory, load_campaigns
+from session_bundles import bundle_parts, numbered_bundles, session_manifest
 sys.path.insert(0, str(VAULT / '.agents/skills/extract-session-structure/scripts'))
 import render_review as review
 
@@ -149,11 +150,15 @@ def collect(metadata):
     for campaign in metadata['campaign_keys']:
         identity = registry[campaign]
         fingerprints[index[campaign]] = sha(VAULT / index[campaign])
-        root = VAULT / identity['sessionBundleDirectory']
-        for manifest in sorted(root.glob('*/cleaned/*-session.yaml')):
+        root = campaign_bundle_directory(VAULT, campaign, campaigns=registry)
+        for bundle in numbered_bundles(root):
+            manifest = session_manifest(bundle, required=False)
+            if manifest is None:
+                continue
             data = yaml.safe_load(manifest.read_text())
             session_id = manifest.name.removesuffix('-session.yaml')
-            number = data['sessionNumber']
+            _, suffix = bundle_parts(bundle)
+            number = int(suffix) if '.' not in suffix else float(suffix)
             config = metadata['levels'][campaign]
             format_name, gathering, format_evidence = format_for_session(
                 campaign, number, manifest, data, metadata)
@@ -163,7 +168,7 @@ def collect(metadata):
             combat_path = manifest.with_name(f'{session_id}-combat.json')
             row = dict(
                 campaign_key=campaign, campaign=identity['name'], session_id=session_id,
-                session_number=number, real_world_date=str(data['realWorldDate']),
+                session_number=int(suffix) if '.' not in suffix else suffix, real_world_date=str(data['realWorldDate']),
                 source_type=data['sourceType'], play_format=format_name,
                 gathering=gathering, play_format_evidence=format_evidence,
                 listed_player_count=len(roster),
@@ -283,7 +288,7 @@ def collect(metadata):
                                                segment.get('note')]))
                 encounters.append(dict(
                     campaign_key=campaign, campaign=identity['name'], session_id=session_id,
-                    session_number=number, real_world_date=row['real_world_date'],
+                    session_number=row['session_number'], real_world_date=row['real_world_date'],
                     encounter_id=combat['id'], segment_id=combat['segmentId'],
                     encounter=combat['encounter'], level=level, play_format=format_name,
                     enemy_list=' | '.join(enemy_roster['enemies']),
@@ -544,7 +549,7 @@ def make_figures(sessions, encounters, matches):
     timed = [row for row in sessions if row['campaign_key'] == 'dufr'
              and row['recording_minutes'] is not None]
     fig, axes = plt.subplots(2, 1, figsize=(12, 6.8), sharex=True)
-    ordered = sorted(timed, key=lambda row: (row['real_world_date'], row['session_number']))
+    ordered = sorted(timed, key=lambda row: (row['real_world_date'], float(row['session_number'])))
     for ax, field, label in zip(axes,
             ['recording_minutes', 'combat_share_recording_pct'],
             ['Recorded minutes', 'Recorded time in combat (%)']):

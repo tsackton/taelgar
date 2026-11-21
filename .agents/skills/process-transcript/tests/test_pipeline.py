@@ -463,16 +463,21 @@ class PipelineTests(unittest.TestCase):
             {'name': 'Example DM', 'gameRole': 'DM'}, {'name': 'Example Player', 'gameRole': 'Player'}]}))
         mappings = self.parent/'speakers.json'
         mappings.write_text(json.dumps({'DM': ['Referee'], 'Player': ['Player']}))
+        intake = self.parent/'_sessions'/'intake'
+        intake.mkdir(parents=True)
+        (intake.parent/'campaign-registry.json').write_text('{"example":"Example.md"}')
+        (self.parent/'Example.md').write_text(
+            '---\nname: Example\nsessionBundleDirectory: _sessions/intake\n---\n')
         config = self.parent/'source-prep.yaml'
         config.write_text(yaml.safe_dump(dict(sourcePath=str(source), sourceType='transcript',
-            outputDir=str(self.parent/'intake'), campaign='Example', sessionNumber=1,
+            campaign='example', sessionNumber=1,
             realWorldDate='2026-10-30', drStart=None, drEnd=None,
             participantsPath=str(roster), transcriptFormat='speaker_lines')))
         helper = Path(pipeline.__file__).resolve().parents[2]/'prepare-session-source/scripts/prepare_source.py'
         result = subprocess.run([sys.executable, '-B', str(helper), '--config', str(config),
-                                 '--speaker-mappings', str(mappings)], capture_output=True, text=True)
+                                 '--speaker-mappings', str(mappings), '--prefix', 'example'], capture_output=True, text=True)
         self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
-        bundle = self.parent/'intake/example-001'
+        bundle = intake/'example-001'
         before = {p: p.read_bytes() for p in bundle.rglob('*') if p.is_file()}
         self.assertFalse((bundle/core.STATE).exists())
         self.assertFalse(list((bundle/'cleaned').glob('*-source-cleaned.md')))

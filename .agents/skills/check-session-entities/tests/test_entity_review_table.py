@@ -111,7 +111,7 @@ class EntityTableTests(unittest.TestCase):
         scripts = vault / '_sessions'
         scripts.mkdir(exist_ok=True)
         (scripts / 'campaign-registry.json').write_text(json.dumps({'demo': 'Index.md'}), encoding='utf8')
-        (scripts.parent / 'Index.md').write_text('---\nname: Demo Campaign\ncampaignDirectory: Campaigns/Demo\nnotePattern: Session {session_padded}.md\n---\n', encoding='utf8')
+        (scripts.parent / 'Index.md').write_text('---\nname: Demo Campaign\ncampaignDirectory: Campaigns/Demo\nnotePattern: Session {session_padded}.md\nsessionBundleDirectory: _sessions/dunmar-frontier\n---\n', encoding='utf8')
         data = api.scenes.draft.yaml.safe_load(self.f.f.fixture.yaml.read_bytes())
         data.update(campaign='demo', sessionNumber=1, realWorldDate='2026-05-14')
         self.f.f.fixture.yaml.write_text(api.scenes.draft.yaml.safe_dump(data), encoding='utf8')
@@ -130,27 +130,28 @@ class EntityTableTests(unittest.TestCase):
         self.assertEqual(metadata['realWorldDate'], '2026-05-14')
         self.assertTrue((vault / metadata['transcriptPath']).is_file())
 
-    def test_optional_bad_registry_cannot_turn_a_successful_save_into_an_error(self):
-        scripts = self.f.f.fixture.vault / '_sessions'
-        scripts.mkdir(exist_ok=True)
-        (scripts / 'campaign-registry.json').write_text('not json', encoding='utf8')
-        initial = self.call()
-        self.assertIn('metadataWarning', initial['session'])
-        changed = self.call('entityUpdate', token=initial['token'], entity='e001', changes={'status': 'humanReviewed'})
-        self.assertEqual(changed['document']['entities'][0]['review']['status'], 'humanReviewed')
-        self.assertEqual(self.call()['token'], changed['token'])
+    def test_review_refuses_unregistered_manifest_before_writes(self):
+        vault = self.f.f.fixture.vault
+        path = self.f.f.bundle['entityPath']
+        before = path.read_bytes()
+        (vault / 'Index.md').write_text(
+            '---\nname: Demo Campaign\nsessionBundleDirectory: _sessions/other\n---\n', encoding='utf8'
+        )
+        with self.assertRaisesRegex(ValueError, 'registered numbered session bundle'):
+            self.call()
+        self.assertEqual(path.read_bytes(), before)
 
     def test_session_note_padding_matches_existing_vault_convention(self):
         vault = self.f.f.fixture.vault
-        scripts = vault / '_sessions'
-        scripts.mkdir(exist_ok=True)
-        (scripts / 'campaign-registry.json').write_text(json.dumps({'demo': 'Index.md'}), encoding='utf8')
-        (scripts.parent / 'Index.md').write_text('---\nname: Demo Campaign\ncampaignDirectory: Campaigns/Demo\nnotePattern: Session {session_padded}.md\n---\n', encoding='utf8')
-        for number, suffix in [(1, '01'), (12, '12'), (123, '123'), ('1.5', '01.5')]:
+        campaign = {
+            'name': 'Demo Campaign', 'campaignDirectory': 'Campaigns/Demo',
+            'notePattern': 'Session {session_padded}.md', 'sessionBundleDirectory': '_sessions/dunmar-frontier',
+        }
+        for number, suffix in [('1', '01'), ('12', '12'), ('123', '123'), ('1.5', '01.5')]:
             with self.subTest(number=number):
                 relative = f'Campaigns/Demo/Session {suffix}.md'
                 note = vault / relative
                 note.parent.mkdir(parents=True, exist_ok=True)
                 note.write_text('# Session\n', encoding='utf8')
-                bundle = dict(self.f.f.bundle, data={'campaign': 'Demo Campaign', 'sessionNumber': number})
+                bundle = dict(self.f.f.bundle, campaignConfig=campaign, campaignId='demo', sessionNumber=number)
                 self.assertEqual(api.session_metadata(bundle)['sessionNotePath'], relative)

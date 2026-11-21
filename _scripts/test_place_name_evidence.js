@@ -72,6 +72,7 @@ function run() {
   assert.equal(transcript.text, "Welcome to Serranía.");
 
   assert.equal(evidence.sessionNumberFrom("", "Lost in the Feywild - Episode 06"), 6);
+  assert.equal(evidence.sessionNumberFrom("Cleenseau - Session 012.10"), "12.10");
   assert.equal(
     evidence.sessionIdentity("lost-in-the-feywild", 6, "", "unused"),
     "lost-in-the-feywild:6",

@@ -1,7 +1,7 @@
 sourcePath: /absolute/path/to/session-input.vtt
 sourceType: transcript
-scope: session
-bundlePath: _sessions/feywild/lost-in-the-feywild-001
+campaign: feywild
+sessionNumber: 1
 realWorldDate: 2026-03-28
 drStart: 1715-04-25
 drEnd: 1715-04-25

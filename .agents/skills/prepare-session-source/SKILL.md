@@ -36,7 +36,7 @@ For a numbered session, resolve the destination before drafting the config. From
 python _scripts/session_bundles.py clee 12.4
 ```
 
-The command only prints a vault-relative path. An existing folder wins, even if it contains only raw sources. For a new session it reuses the prefix shared by the campaign’s numbered folders. If there are none, ask the user which prefix to use (for example, `greensea`). If several exist, present them and ask which prefix to use. Supply the choice once with `--prefix`; an interactive terminal can also prompt. Copy the printed path into `bundlePath`. On reruns use the path already in the config. A duplicate session number needs correction before preparation.
+The command prints the proposed vault-relative destination for review. An existing folder wins, including one with only raw sources. A new session uses the shared prefix of the campaign’s numbered folders. When no prefix is established or several are in use, ask which to use and pass it as `--prefix` to the preview and preparation commands. Preparation can also prompt in an interactive terminal. The YAML records the campaign ID and session number. Preparation resolves the destination from those fields on every run. A duplicate session number needs correction before preparation.
 
 Read existing nearby configs before drafting:
 
@@ -55,7 +55,7 @@ Use the latest prior session as the model for:
 Do not invent dates, session numbers, player identities, or in-world dates.
 Ask the user to confirm required identity or source information that cannot be inferred from the new recording path, filename, existing configs, or prior bundle manifests. In-world dates may remain unknown for the post-annotation chronology review.
 
-Use three digits for the whole number (more when needed). Preserve a point-session suffix verbatim: `cleenseau-012.1` and `cleenseau-012.10` identify distinct sessions.
+Use three digits for the whole number in the folder name (more when needed). Quote point session numbers in the YAML, for example `sessionNumber: '12.10'`. Preserve the suffix verbatim: `cleenseau-012.1` and `cleenseau-012.10` identify distinct sessions.
 
 ## Draft Files
 
@@ -73,7 +73,8 @@ The config should use this shape for transcript sessions:
 ```yaml
 sourcePath: /absolute/path/to/GMT..._Recording.transcript.vtt
 sourceType: transcript
-bundlePath: _sessions/feywild/lost-in-the-feywild-004
+campaign: feywild
+sessionNumber: 4
 realWorldDate: YYYY-MM-DD
 drStart: YYYY-MM-DD
 drEnd: YYYY-MM-DD
@@ -143,7 +144,7 @@ Use `--force` only after the user explicitly confirms overwriting an existing bu
 
 ## Expected Output
 
-For `bundlePath: _sessions/feywild/lost-in-the-feywild-004`, `prepare_source.py` writes:
+For campaign `feywild` and session `4`, `prepare_source.py` writes:
 
 ```text
 _sessions/feywild/lost-in-the-feywild-004/

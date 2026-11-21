@@ -14,6 +14,9 @@ from urllib.parse import quote
 sys.dont_write_bytecode = True
 sys.path.insert(0, str(Path(__file__).resolve().parents[2] / 'map-transcript-scenes/scripts'))
 import scene_map
+sys.path.insert(0, str(Path(__file__).resolve().parents[4] / '_scripts'))
+from session_bundles import session_identity
+
 from transcript_core import atomic, current_hash, lock, parse_units, safe, seconds
 
 VAULT = scene_map.VAULT
@@ -374,7 +377,8 @@ def render(bundle, paths, sources, edit, output, timing):
     def link(path, label):
         return f'[{label}]({quote(os.path.relpath(path, output))})'
     data = bundle['data']
-    lines = [f"# {data['campaign']} · Session {data['sessionNumber']}", '## Review flags']
+    campaign, number = session_identity(bundle['manifest'], data)
+    lines = [f"# {campaign} · Session {number}", '## Review flags']
     limits = [f"{k} — {v['limitations']}" for k, v in sources.items() if v.get('limitations')]
     lines.append('\n'.join(f'- {f}' for f in edit['flags']) or 'No human action requested.')
     lines.extend(['## In-world time', edit['dates']])

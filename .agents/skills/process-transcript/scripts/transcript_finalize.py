@@ -1,8 +1,12 @@
 """Retain transcript references and retire completed session-local processing files."""
 from pathlib import Path
 import re
+import sys
 import yaml
 from transcript_core import WORK, VERSION, require, safe, sha, current_hash, atomic, encoded, read_json
+
+sys.path.insert(0, str(Path(__file__).resolve().parents[4] / '_scripts'))
+from session_bundles import registered_bundle_identity, session_manifest
 
 PLAN = 'cleaned/transcript-finalization.json'
 KEY = 'transcriptProcessing'
@@ -12,8 +16,16 @@ DISPOSABLE = ('polishedJson', 'polishedHtml', 'entities', 'review')
 
 def completion(root):
     """Locate completion in existing metadata, including explicitly named manifests."""
+    if registered_bundle_identity(root) is not None:
+        manifest = session_manifest(root, required=False)
+        if manifest is None:
+            return None
+        candidates = [manifest]
+    else:
+        # Explicitly opened standalone copies can have a separately named manifest.
+        candidates = sorted({*root.rglob('*.yaml'), *root.rglob('*.yml')})
     matches = []
-    for path in sorted({*root.rglob('*.yaml'), *root.rglob('*.yml')}):
+    for path in candidates:
         relative = path.relative_to(root).as_posix()
         if relative.startswith(WORK + '/'):
             continue

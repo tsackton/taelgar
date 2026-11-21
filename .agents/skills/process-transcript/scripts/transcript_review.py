@@ -1,6 +1,7 @@
 """Portable Markdown review: no processing queue or separate review-state file."""
 import copy
 import json
+import sys
 from pathlib import Path
 import re
 import yaml
@@ -8,6 +9,9 @@ import transcript_finalize as final
 from transcript_core import (WORK, STATE, MARKER, require, safe, sha, current_hash,
     encoded, atomic, commit, parse_units, render_units, validate_baseline,
     validate_turns, words)
+
+sys.path.insert(0, str(Path(__file__).resolve().parents[4] / '_scripts'))
+from session_bundles import session_identity
 
 HEADER = re.compile(r'^%% transcript-review:v1 (.+) %%$', re.M)
 ITEM = re.compile(r'^%% transcript-issue:v1 (.+) %%$', re.M)
@@ -344,8 +348,10 @@ def prepare(root, uids):
                    contextRange=context_range(units, uid), proposal='', alternatives=[],
                    recommendation='Narrow the target to the words requiring correction; supply supported wording or retain it.',
                    question='Supply a correction or retain the original wording?', disposition='pending') for uid in uids]
-    metadata = yaml.safe_load(safe(root, manifest).read_text(encoding='utf-8'))
-    meta = dict(version=1, title=f"{metadata['campaign']} — Session {metadata['sessionNumber']}", artifacts=artifacts,
+    manifest_path = safe(root, manifest)
+    metadata = yaml.safe_load(manifest_path.read_text(encoding='utf-8'))
+    campaign, number = session_identity(manifest_path, metadata)
+    meta = dict(version=1, title=f"{campaign} — Session {number}", artifacts=artifacts,
                 hashes={p: current_hash(safe(root, p)) for p in artifacts.values()}, qualityComplete=True,
                 revisionActive=True, retainedIssues=record['issues'], uncertainty=record['status']=='complete_with_uncertainty')
     review = artifacts['polishedMarkdown'].removesuffix('-transcript.md')+'-transcript-review.md'

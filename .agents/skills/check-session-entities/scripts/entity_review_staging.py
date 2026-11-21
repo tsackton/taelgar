@@ -1,33 +1,13 @@
 """Empty staging-note paths, name collisions, and exclusive file creation."""
 import json
 import os
-import sys
 from pathlib import Path
 import re
 import unicodedata
 
 
-sys.path.insert(0, str(Path(__file__).resolve().parents[4] / '_scripts'))
-from campaign_registry import load_campaigns
-
-
 def normalized(value):
     return unicodedata.normalize('NFC', str(value)).strip().casefold()
-
-
-def campaign_config(bundle, scenes):
-    vault = bundle['vault']
-    if not (vault / '_sessions/campaign-registry.json').is_file():
-        return None
-    campaigns = load_campaigns(vault)
-    name = normalized(bundle['data'].get('campaign', ''))
-    root = bundle.get('root')
-    matches = [dict(row, registryKey=key) for key, row in campaigns.items()
-               if name in (key, normalized(row['name'])) or
-               (root and row.get('sessionBundleDirectory') and
-                root.parent == vault / row['sessionBundleDirectory'])]
-    scenes.require(len(matches) <= 1, 'Ambiguous campaign registry entry')
-    return matches[0] if matches else None
 
 
 def component(value, scenes):
@@ -42,10 +22,9 @@ def component(value, scenes):
 
 
 def folder(bundle, scenes):
-    config = campaign_config(bundle, scenes) or {}
-    campaign = component(config.get('name') or bundle['data'].get('campaign', ''), scenes)
-    names = [campaign, bundle['data'].get('campaign', ''), config.get('registryKey', ''),
-             Path(config.get('sessionBundleDirectory', '')).name]
+    config = bundle['campaignConfig']
+    campaign = component(config['name'], scenes)
+    names = [campaign, bundle['campaignId'], Path(config['sessionBundleDirectory']).name]
     words = lambda text: ' '.join(re.findall(r'\w+', normalized(text)))
     identities = [words(name) for name in names if name]
     base = scenes.safe(bundle['vault'], 'Worldbuilding/Staging')

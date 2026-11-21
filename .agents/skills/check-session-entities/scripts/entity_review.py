@@ -11,6 +11,10 @@ import entity_map as maps
 import entity_review_store as store
 import entity_review_staging as staging
 
+sys.path.insert(0, str(Path(__file__).resolve().parents[4] / '_scripts'))
+from campaign_registry import load_campaigns
+from session_bundles import registered_bundle_identity, session_manifest
+
 scenes = maps.scenes
 require = maps.require
 
@@ -19,6 +23,13 @@ def context(request, vault):
     relative = request.get('sessionYaml')
     maps.string(relative, 'sessionYaml')
     manifest = scenes.safe(vault, relative)
+    campaigns = load_campaigns(vault)
+    root = manifest.parent.parent
+    identity = registered_bundle_identity(root, vault=vault, campaigns=campaigns)
+    require(manifest.parent.name == 'cleaned' and identity is not None,
+            'Entity review requires a manifest in a registered numbered session bundle')
+    require(session_manifest(root) == manifest, 'Select the session bundle manifest')
+    campaign, number = identity
     bundle = maps.load(manifest, vault)
     # Recover before validation, using only bundle-owned paths.
     with scenes.lock(bundle['root']):
@@ -27,6 +38,7 @@ def context(request, vault):
     document = json.loads(raw)
     notes = sorted(set(maps.note_refs(document) + request.get('notes', request.get('token', {}).get('notes', []))))
     bundle = maps.load(manifest, vault, notes)
+    bundle.update(campaignConfig=campaigns[campaign], campaignId=campaign, sessionNumber=number)
     # Stale sources must reach the confirmation screen before strict validation.
     if not maps.source_changes(bundle, document):
         maps.validate(bundle, document)
@@ -42,23 +54,21 @@ def token(bundle):
 
 def session_metadata(bundle):
     data = bundle['data']
-    result = {'campaign': data.get('campaign', ''), 'number': data.get('sessionNumber'),
+    campaign, number = bundle['campaignConfig'], bundle['sessionNumber']
+    result = {'campaign': campaign['name'], 'number': number,
               'drStart': str(data.get('drStart') or ''), 'drEnd': str(data.get('drEnd') or ''),
               'realWorldDate': str(data.get('realWorldDate') or '')}
     if data.get('sourceType', 'transcript') == 'transcript':
         result['transcriptPath'] = bundle['source'].relative_to(bundle['vault']).as_posix()
     try:
-        campaign = staging.campaign_config(bundle, scenes)
-        if campaign:
-            if data.get('sessionNumber') is not None:
-                number = str(data['sessionNumber'])
-                whole, dot, fraction = number.partition('.')
-                pattern = campaign.get('notePattern', '').replace('{session_padded}', whole.zfill(2) + dot + fraction).replace('{session}', number)
-                if pattern and campaign.get('campaignDirectory'):
-                    relative = campaign['campaignDirectory'].rstrip('/') + '/' + pattern
-                    note = scenes.safe(bundle['vault'], relative)
-                    if note.is_file():
-                        result['sessionNotePath'] = note.relative_to(bundle['vault']).as_posix()
+        pattern = campaign.get('notePattern', '')
+        if pattern and campaign.get('campaignDirectory'):
+            whole, dot, fraction = number.partition('.')
+            filename = pattern.replace('{session_padded}', whole.zfill(2) + dot + fraction).replace('{session}', number)
+            relative = campaign['campaignDirectory'].rstrip('/') + '/' + filename
+            note = scenes.safe(bundle['vault'], relative)
+            if note.is_file():
+                result['sessionNotePath'] = note.relative_to(bundle['vault']).as_posix()
     except (ValueError, OSError, TypeError, AttributeError) as exc:
         result['metadataWarning'] = 'Session-note link unavailable: ' + str(exc)
     try:
@@ -245,6 +255,8 @@ def dispatch(request, vault=scenes.VAULT):
             raise
     # New input digest excludes notes no longer referenced after a link edit/removal.
     fresh = maps.load(bundle['manifest'], bundle['vault'], maps.note_refs(document))
+    fresh.update(campaignConfig=bundle['campaignConfig'], campaignId=bundle['campaignId'],
+                 sessionNumber=bundle['sessionNumber'])
     with scenes.lock(fresh['root']):
         return inspect(fresh, document, store.current(fresh, scenes))
 

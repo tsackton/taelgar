@@ -14,7 +14,7 @@ from typing import Any, Dict, List, Optional, Sequence
 import yaml
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[4] / "_scripts"))
-from campaign_registry import session_campaign_id
+from session_bundles import session_identity
 
 
 SOURCE_LINE_RE = re.compile(r"^(?P<header>\[(?P<uid>u\d{4,})(?:\s*\|[^\]]+)?\])\s*(?P<text>.*)$")
@@ -61,7 +61,8 @@ def main() -> int:
 
     transcript_lines = read_source_lines(transcript_path)
     session_payload = read_yaml_mapping(session_path)
-    session_payload["campaign"] = session_campaign_id(session_path, session_payload.get("campaign"))
+    campaign, number = session_identity(session_path, session_payload)
+    session_payload.update(campaign=campaign, sessionNumber=number)
     beats = parse_beats_payload(read_json_mapping(beats_path))
     uid_to_index = build_uid_index(transcript_lines)
     supplemental_sources = load_supplemental_sources(

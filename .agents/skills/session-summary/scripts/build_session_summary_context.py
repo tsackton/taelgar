@@ -14,7 +14,7 @@ from typing import Any, Dict, List, Optional, Sequence, Tuple
 import yaml
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[4] / "_scripts"))
-from campaign_registry import session_campaign_id
+from session_bundles import session_identity
 
 from manage_recap_scenes import scene_groups, validate_recap_scenes
 
@@ -63,7 +63,8 @@ def main() -> int:
         assert_not_in_sources_dir(recap_scenes_path, "--recap-scenes-json")
 
     session_payload = read_yaml_mapping(session_path)
-    session_payload["campaign"] = session_campaign_id(session_path, session_payload.get("campaign"))
+    campaign, number = session_identity(session_path, session_payload)
+    session_payload.update(campaign=campaign, sessionNumber=number)
     beats = parse_beats_payload(read_json_mapping(beats_path))
     facts = parse_beat_facts_payload(read_json_mapping(beat_facts_path))
     recap_scenes_payload = read_json_mapping(recap_scenes_path) if recap_scenes_path is not None else None

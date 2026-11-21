@@ -4,9 +4,10 @@ from __future__ import annotations
 import argparse
 import re
 import sys
+from collections.abc import Iterator
 from pathlib import Path
 
-from campaign_registry import load_campaigns
+from campaign_registry import bundle_owner, campaign_bundle_directory, containing_vault
 
 PREFIX = r"[a-z0-9]+(?:-[a-z0-9]+)*"
 BUNDLE = re.compile(rf"({PREFIX})-([0-9]{{3}}|[1-9][0-9]{{3,}})(\.[0-9]+)?")
@@ -24,6 +25,37 @@ def bundle_parts(path: Path) -> tuple[str, str]:
     if not match:
         raise ValueError(f"Expected a numbered bundle such as cleenseau-012.4: {path}")
     return match[1], session_number(match[2] + (match[3] or ""))
+
+
+def registered_bundle_identity(
+    bundle: Path, *, vault: Path | None = None, campaigns: dict | None = None
+) -> tuple[str, str] | None:
+    """Return the owner and textual session number of a registered bundle."""
+    bundle = bundle.resolve()
+    vault = vault or containing_vault(bundle)
+    if vault is None or not (vault / "_sessions/campaign-registry.json").is_file():
+        return None
+    owner = bundle_owner(vault, bundle, campaigns=campaigns)
+    if owner is not None and BUNDLE.fullmatch(bundle.name):
+        return owner, bundle_parts(bundle)[1]
+    return None
+
+
+def numbered_bundles(directory: Path) -> Iterator[Path]:
+    """Yield the registered directory's immediate numbered bundle folders."""
+    if directory.exists():
+        for child in sorted(directory.iterdir()):
+            if not child.is_symlink() and child.is_dir() and BUNDLE.fullmatch(child.name):
+                yield child
+
+
+def session_identity(manifest: Path, metadata: dict, *, vault: Path | None = None) -> tuple:
+    """Project identity for display and lookup without changing source metadata."""
+    if manifest.parent.name == "cleaned":
+        identity = registered_bundle_identity(manifest.parent.parent, vault=vault)
+        if identity is not None:
+            return identity
+    return metadata.get("campaign"), metadata.get("sessionNumber")
 
 
 def select_bundle(directory: Path, number: str, *, create=False, prefix=None, prompt=False) -> Path:
@@ -90,13 +122,8 @@ def main() -> None:
     args = parser.parse_args()
     vault = args.vault.resolve()
     try:
-        campaigns = load_campaigns(vault)
-        if args.campaign not in campaigns:
-            raise ValueError(f"Unknown campaign ID: {args.campaign}")
-        directory = campaigns[args.campaign].get("sessionBundleDirectory")
-        if not directory:
-            raise ValueError(f"No sessionBundleDirectory configured for {args.campaign}")
-        destination = select_bundle(vault / directory, args.session, create=True,
+        directory = campaign_bundle_directory(vault, args.campaign)
+        destination = select_bundle(directory, args.session, create=True,
                                     prefix=args.prefix, prompt=sys.stdin.isatty())
         print(destination.relative_to(vault).as_posix())
     except (ValueError, OSError, EOFError) as exc:
