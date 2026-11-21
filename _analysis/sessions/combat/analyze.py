@@ -27,7 +27,7 @@ OUTPUT = Path(__file__).resolve().parent
 VAULT = OUTPUT.parents[2]
 sys.path.insert(0, str(VAULT / '_scripts'))
 from campaign_registry import campaign_bundle_directory, load_campaigns
-from session_bundles import bundle_parts, numbered_bundles, session_manifest
+from session_bundles import bundle_parts, numbered_bundles, session_manifest, session_number
 sys.path.insert(0, str(VAULT / '.agents/skills/extract-session-structure/scripts'))
 import render_review as review
 
@@ -55,16 +55,30 @@ def minutes(milliseconds):
     return round(milliseconds / 60_000, 6)
 
 
+def session_key(value):
+    """Use integer keys for whole sessions and quoted strings for point sessions."""
+    require(type(value) in (int, str), 'Use an integer or quoted session number')
+    number = session_number(value)
+    return number if '.' in number else int(number)
+
+
+def session_order(value):
+    whole, _, point = str(session_key(value)).partition('.')
+    return int(whole), int(point) if point else -1, point
+
+
 def session_level(config, number, positions=None, uid=None, at_end=False):
-    override = config.get('session_overrides', {}).get(number)
+    override = next((entry for key, entry in config.get('session_overrides', {}).items()
+                     if session_key(key) == number), None)
     if override:
         return override['level']
     level = config['initial']
+    order = session_order(number)
     for milestone in config.get('milestones', []):
-        milestone_session = milestone['session']
-        if milestone_session > number:
+        milestone_order = session_order(milestone['session'])
+        if milestone_order > order:
             break
-        if milestone_session < number or at_end:
+        if milestone_order < order or at_end:
             level = milestone['level']
             continue
         if milestone.get('boundary') == 'start':
@@ -80,9 +94,10 @@ def session_level(config, number, positions=None, uid=None, at_end=False):
 def format_for_session(campaign, number, manifest, data, metadata):
     rules = metadata['play_formats'].get(campaign, {})
     for gathering in rules.get('in_person', []):
-        if number in gathering['sessions']:
+        if number in map(session_key, gathering['sessions']):
             return 'in person', gathering['gathering'], rules['source']
-    override = rules.get('overrides', {}).get(number)
+    override = next((entry for key, entry in rules.get('overrides', {}).items()
+                     if session_key(key) == number), None)
     if override:
         return override['format'], '', override['evidence']
 
@@ -158,7 +173,7 @@ def collect(metadata):
             data = yaml.safe_load(manifest.read_text())
             session_id = manifest.name.removesuffix('-session.yaml')
             _, suffix = bundle_parts(bundle)
-            number = int(suffix) if '.' not in suffix else float(suffix)
+            number = session_key(suffix)
             config = metadata['levels'][campaign]
             format_name, gathering, format_evidence = format_for_session(
                 campaign, number, manifest, data, metadata)
@@ -168,11 +183,11 @@ def collect(metadata):
             combat_path = manifest.with_name(f'{session_id}-combat.json')
             row = dict(
                 campaign_key=campaign, campaign=identity['name'], session_id=session_id,
-                session_number=int(suffix) if '.' not in suffix else suffix, real_world_date=str(data['realWorldDate']),
+                session_number=number, real_world_date=str(data['realWorldDate']),
                 source_type=data['sourceType'], play_format=format_name,
                 gathering=gathering, play_format_evidence=format_evidence,
                 listed_player_count=len(roster),
-                split_adventure=number in config.get('split_sessions', []),
+                split_adventure=number in map(session_key, config.get('split_sessions', [])),
                 level_at_start=session_level(config, number),
                 level_at_end=session_level(config, number, at_end=True),
                 extraction_status='unavailable', recording_minutes=None,
@@ -549,7 +564,7 @@ def make_figures(sessions, encounters, matches):
     timed = [row for row in sessions if row['campaign_key'] == 'dufr'
              and row['recording_minutes'] is not None]
     fig, axes = plt.subplots(2, 1, figsize=(12, 6.8), sharex=True)
-    ordered = sorted(timed, key=lambda row: (row['real_world_date'], float(row['session_number'])))
+    ordered = sorted(timed, key=lambda row: (row['real_world_date'], session_order(row['session_number'])))
     for ax, field, label in zip(axes,
             ['recording_minutes', 'combat_share_recording_pct'],
             ['Recorded minutes', 'Recorded time in combat (%)']):
