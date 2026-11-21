@@ -27,6 +27,26 @@ def bundle_parts(path: Path) -> tuple[str, str]:
     return match[1], session_number(match[2] + (match[3] or ""))
 
 
+def _bundle_inventory(directory: Path) -> tuple[dict[str, list[Path]], list[Path]]:
+    numbered: dict[str, list[Path]] = {}
+    other = []
+    for child in sorted(directory.iterdir()) if directory.exists() else ():
+        if not child.is_dir():
+            continue
+        if not child.is_symlink() and BUNDLE.fullmatch(child.name):
+            _, number = bundle_parts(child)
+            numbered.setdefault(number, []).append(child)
+        else:
+            other.append(child)
+    return numbered, other
+
+
+def _unique_bundle(number: str, paths: list[Path]) -> Path | None:
+    if len(paths) > 1:
+        raise ValueError(f"Several bundles for session {number}: " + ", ".join(map(str, paths)))
+    return paths[0] if paths else None
+
+
 def registered_bundle_identity(
     bundle: Path, *, vault: Path | None = None, campaigns: dict | None = None
 ) -> tuple[str, str] | None:
@@ -37,16 +57,19 @@ def registered_bundle_identity(
         return None
     owner = bundle_owner(vault, bundle, campaigns=campaigns)
     if owner is not None and BUNDLE.fullmatch(bundle.name):
-        return owner, bundle_parts(bundle)[1]
+        _, number = bundle_parts(bundle)
+        numbered, _ = _bundle_inventory(bundle.parent)
+        if _unique_bundle(number, numbered.get(number, [])) == bundle:
+            return owner, number
     return None
 
 
 def numbered_bundles(directory: Path) -> Iterator[Path]:
-    """Yield the registered directory's immediate numbered bundle folders."""
-    if directory.exists():
-        for child in sorted(directory.iterdir()):
-            if not child.is_symlink() and child.is_dir() and BUNDLE.fullmatch(child.name):
-                yield child
+    """Yield numbered bundle folders after checking the directory for duplicates."""
+    numbered, _ = _bundle_inventory(directory)
+    for number, paths in numbered.items():
+        _unique_bundle(number, paths)
+    yield from sorted(paths[0] for paths in numbered.values())
 
 
 def session_identity(manifest: Path, metadata: dict, *, vault: Path | None = None) -> tuple:
@@ -61,31 +84,21 @@ def session_identity(manifest: Path, metadata: dict, *, vault: Path | None = Non
 def select_bundle(directory: Path, number: str, *, create=False, prefix=None, prompt=False) -> Path:
     """Select a destination without creating anything. Only immediate children count."""
     number = session_number(number)
-    matches = []
-    prefixes = set()
-    for child in directory.iterdir() if directory.exists() else ():
-        if not child.is_dir():
-            continue
-        if BUNDLE.fullmatch(child.name):
-            child_prefix, child_number = bundle_parts(child)
-            prefixes.add(child_prefix)
-            if child_number == number:
-                matches.append(child)
-        else:
-            suffix = re.search(r"-([0-9]+(?:\.[0-9]+)?)$", child.name)
-            if suffix and session_number(suffix[1]) == number:
-                raise ValueError(f"Invalid numbered bundle name for session {number}: {child}")
-    if len(matches) > 1:
-        raise ValueError(f"Several bundles for session {number}: " + ", ".join(map(str, sorted(matches))))
-    if matches:
-        bundle = matches[0]
-        if bundle.is_symlink():
-            raise ValueError(f"Session bundle is a symbolic link: {bundle}")
+    numbered, other = _bundle_inventory(directory)
+    bundle = _unique_bundle(number, numbered.get(number, []))
+    for child in other:
+        suffix = re.search(r"-([0-9]+(?:\.[0-9]+)?)$", child.name)
+        if suffix and session_number(suffix[1]) == number:
+            if child.is_symlink() and BUNDLE.fullmatch(child.name):
+                raise ValueError(f"Session bundle is a symbolic link: {child}")
+            raise ValueError(f"Invalid numbered bundle name for session {number}: {child}")
+    if bundle is not None:
         if prefix is not None and prefix != bundle_parts(bundle)[0]:
             raise ValueError(f"Session {number} already uses {bundle.name}")
         return bundle
     if not create:
         raise ValueError(f"No bundle for session {number} in {directory}")
+    prefixes = {bundle_parts(path)[0] for paths in numbered.values() for path in paths}
     if len(prefixes) == 1:
         established = next(iter(prefixes))
         if prefix is not None and prefix != established:
@@ -102,6 +115,13 @@ def select_bundle(directory: Path, number: str, *, create=False, prefix=None, pr
         raise ValueError("Use a lowercase bundle prefix with letters, digits, and optional hyphens.")
     whole, dot, fraction = number.partition(".")
     return directory / f"{prefix}-{int(whole):03d}{dot}{fraction}"
+
+
+def resolve_bundle(vault: Path, campaign: str, number: str, *, campaigns=None,
+                   create=False, prefix=None, prompt=False) -> Path:
+    """Look up a numbered bundle by campaign ID and session number."""
+    directory = campaign_bundle_directory(vault, campaign, campaigns=campaigns)
+    return select_bundle(directory, number, create=create, prefix=prefix, prompt=prompt)
 
 
 def session_manifest(bundle: Path, *, required=True) -> Path | None:
@@ -122,9 +142,8 @@ def main() -> None:
     args = parser.parse_args()
     vault = args.vault.resolve()
     try:
-        directory = campaign_bundle_directory(vault, args.campaign)
-        destination = select_bundle(directory, args.session, create=True,
-                                    prefix=args.prefix, prompt=sys.stdin.isatty())
+        destination = resolve_bundle(vault, args.campaign, args.session, create=True,
+                                     prefix=args.prefix, prompt=sys.stdin.isatty())
         print(destination.relative_to(vault).as_posix())
     except (ValueError, OSError, EOFError) as exc:
         parser.exit(1, f"{exc}\n")

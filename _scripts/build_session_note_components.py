@@ -15,8 +15,8 @@ from typing import Any, Dict, Iterable, List, Optional, Sequence, Tuple
 
 import yaml
 import audio_tools
-from campaign_registry import campaign_bundle_directory, load_campaigns
-from session_bundles import select_bundle, session_manifest, session_number
+from campaign_registry import load_campaigns
+from session_bundles import resolve_bundle, session_manifest, session_number
 
 
 VAULT_ROOT = Path(__file__).resolve().parents[1]
@@ -310,14 +310,8 @@ def find_session_manifest(campaign_id: str, config: Dict[str, Any], session_numb
         if not config.get(field):
             raise SystemExit(f"Campaign '{campaign_id}' is missing {field} for building session notes.")
     try:
-        session_root = campaign_bundle_directory(VAULT_ROOT, campaign_id, campaigns={campaign_id: config})
-    except ValueError as exc:
-        raise SystemExit(str(exc)) from exc
-    if not session_root.exists():
-        raise SystemExit(f"Session root does not exist for campaign '{campaign_id}': {session_root}")
-
-    try:
-        return session_manifest(select_bundle(session_root, session_number))
+        bundle = resolve_bundle(VAULT_ROOT, campaign_id, session_number, campaigns={campaign_id: config})
+        return session_manifest(bundle)
     except ValueError as exc:
         raise SystemExit(str(exc)) from exc
 

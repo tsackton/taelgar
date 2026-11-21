@@ -17,8 +17,8 @@ from typing import Any, Dict, List, Optional, Sequence, Tuple
 import yaml
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[4] / '_scripts'))
-from campaign_registry import campaign_bundle_directory, containing_vault
-from session_bundles import select_bundle, session_manifest, session_number
+from campaign_registry import containing_vault
+from session_bundles import resolve_bundle, session_manifest, session_number
 
 
 SOURCE_TYPE_TRANSCRIPT = "transcript"
@@ -270,8 +270,8 @@ def load_yaml_mapping(path: Path) -> Dict[str, Any]:
 
 def prep_destination(config_path: Path, options: Dict[str, Any], *, prefix=None, prompt=False) -> Path:
     vault = containing_vault(config_path.parent) or Path(__file__).resolve().parents[4]
-    directory = campaign_bundle_directory(vault, options["campaign"])
-    return select_bundle(directory, options["sessionNumber"], create=True, prefix=prefix, prompt=prompt)
+    return resolve_bundle(vault, options["campaign"], options["sessionNumber"],
+                          create=True, prefix=prefix, prompt=prompt)
 
 
 def validate_config(config: Dict[str, Any]) -> Dict[str, Any]:

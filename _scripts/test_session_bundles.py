@@ -3,7 +3,10 @@ import unittest
 from pathlib import Path
 from unittest.mock import patch
 
-from session_bundles import bundle_parts, select_bundle, session_identity, session_manifest
+from session_bundles import (
+    bundle_parts, numbered_bundles, registered_bundle_identity, resolve_bundle,
+    select_bundle, session_identity, session_manifest,
+)
 
 
 class BundleSelectionTest(unittest.TestCase):
@@ -21,12 +24,27 @@ class BundleSelectionTest(unittest.TestCase):
             "---\nname: Cleenseau\nsessionBundleDirectory: _sessions/cleenseau\n---\n"
         )
         manifest = campaign_directory / "cleenseau-012.10/cleaned/historical-session.yaml"
+        manifest.parent.mkdir(parents=True)
         old = {"campaign": "dufr", "sessionNumber": 99}
         self.assertEqual(session_identity(manifest, old), ("clee", "12.10"))
         self.assertEqual(session_identity(manifest, {}), ("clee", "12.10"))
         self.assertEqual(old, {"campaign": "dufr", "sessionNumber": 99})
         loose = vault / "_sessions/to-process/unprepared-session.yaml"
         self.assertEqual(session_identity(loose, old), ("dufr", 99))
+
+        point = campaign_directory / "cleenseau-012.1"
+        point.mkdir()
+        self.assertEqual(resolve_bundle(vault, "clee", "012.1"), point)
+        duplicate = campaign_directory / "other-012.10"
+        duplicate.mkdir()
+        for lookup in (
+            lambda: resolve_bundle(vault, "clee", "12.10"),
+            lambda: registered_bundle_identity(manifest.parent.parent),
+            lambda: registered_bundle_identity(duplicate),
+            lambda: list(numbered_bundles(campaign_directory)),
+        ):
+            with self.assertRaisesRegex(ValueError, r"Several bundles for session 12\.10:.*cleenseau-012\.10.*other-012\.10"):
+                lookup()
 
     def test_first_prefix_then_reuse(self):
         with self.assertRaisesRegex(ValueError, "--prefix"):
