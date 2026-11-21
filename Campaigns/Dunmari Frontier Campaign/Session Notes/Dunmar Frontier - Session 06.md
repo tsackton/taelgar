@@ -14,7 +14,6 @@ players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
 companions: []
 descTitle: The Festival of Rebirth
 tagline: in which Karawa’s festival becomes a fight for survival
-sessionKey: dunmari-frontier-session-6
 session-template: dunmar-frontier-template.md
 name: Dunmari Frontier - Session 6
 POV: 1748

@@ -14,7 +14,6 @@ companions: []
 name: "Cleenseau - Session 28"
 descTitle: "The End of Malach"
 tagline: "in which a false trial becomes the lich's final intervention"
-sessionKey: cleenseau-session-28
 session-template: cleenseau-template.md
 ---
 # Cleenseau - Session 28

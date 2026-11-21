@@ -14,7 +14,6 @@ players: [Kenzo, Wellby, Delwath, Seeker]
 companions: []
 descTitle: Karawa at the Crossroads
 tagline: in which a council debates how to save the village
-sessionKey: dunmari-frontier-session-5
 session-template: dunmar-frontier-template.md
 name: Dunmari Frontier - Session 5
 POV: 1748

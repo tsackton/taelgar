@@ -152,16 +152,12 @@ function stemFromPath(inputPath) {
     return basename.endsWith(".md") ? basename.slice(0, -3) : basename;
 }
 
-function slugifyText(value) {
-    const slug = String(value ?? "")
-        .toLowerCase()
-        .replace(/[^a-z0-9]+/g, "-")
-        .replace(/^-+|-+$/g, "");
-    return slug || "session-note";
-}
-
-function buildComponentDirName(sessionNoteConfig, sessionManifestPath) {
-    return String(sessionNoteConfig.sessionKey ?? "").trim();
+function normalizeSessionNumber(value) {
+    const match = /^([0-9]+)(\.[0-9]+)?$/.exec(String(value ?? ""));
+    if (!match) {
+        throw new Error("Current note frontmatter must include a valid sessionNumber.");
+    }
+    return match[1].replace(/^0+(?=[0-9])/, "") + (match[2] ?? "");
 }
 
 function resolveTemplatePath(sessionTemplateValue) {
@@ -173,28 +169,6 @@ function resolveTemplatePath(sessionTemplateValue) {
         return normalizeVaultPath(template);
     }
     return joinVaultPaths("_templates", "session-notes", template.endsWith(".md") ? template : `${template}.md`);
-}
-
-function inferGeneratedRootFromNotePath(notePath) {
-    const normalized = normalizeVaultPath(notePath);
-    const parts = normalized.split("/").filter(Boolean);
-    const campaignsIndex = parts.indexOf("Campaigns");
-    if (campaignsIndex === -1 || campaignsIndex + 1 >= parts.length) {
-        throw new Error(`Cannot infer campaign root from note path: ${normalized}`);
-    }
-
-    const noteContainerNames = new Set(["Sessions", "Session Notes", "Episodes"]);
-    for (let index = campaignsIndex + 1; index < parts.length - 1; index += 1) {
-        if (noteContainerNames.has(parts[index])) {
-            return joinVaultPaths(...parts.slice(0, index), "_generated", "session-notes");
-        }
-    }
-
-    if (parts[campaignsIndex + 1] === "One Shots" && campaignsIndex + 2 < parts.length - 1) {
-        return joinVaultPaths(...parts.slice(0, campaignsIndex + 3), "_generated", "session-notes");
-    }
-
-    return joinVaultPaths(...parts.slice(0, campaignsIndex + 2), "_generated", "session-notes");
 }
 
 function extractSlots(markdownText, sourcePath) {
@@ -267,17 +241,13 @@ function slotsContainSessionContextTokens(slots) {
 
 async function ensureCustomJsMetadataLoaded() {
     if (typeof customJS === "undefined") {
-        return;
+        throw new Error("CustomJS is required to load the campaign registry.");
     }
     customJS.state = customJS.state ?? {};
-    if (customJS.state.coreMeta && customJS.state.campaignRegistry) {
-        return;
+    if (!customJS.state.coreMeta || !customJS.state.campaignRegistry) {
+        await customJS.init.invoke();
     }
-    if (!customJS.init?.invoke) {
-        return;
-    }
-
-    await customJS.init.invoke();
+    return customJS.state.campaignRegistry;
 }
 
 function normalizeTargetDateCandidate(value) {
@@ -446,15 +416,21 @@ async function renderSessionNote(tp) {
 
         const cache = app.metadataCache.getFileCache(currentFile) ?? {};
         const frontmatter = cache.frontmatter ?? {};
-        if (typeof frontmatter.sessionKey !== "string" || !frontmatter.sessionKey.trim()) {
-            throw new Error("Current note frontmatter must include sessionKey.");
+        const number = normalizeSessionNumber(frontmatter.sessionNumber);
+        const templatePath = resolveTemplatePath(frontmatter[SESSION_TEMPLATE_FRONTMATTER_KEY]);
+        const campaigns = await ensureCustomJsMetadataLoaded();
+        const campaign = campaigns.find(
+            (entry) => entry.code === frontmatter.campaign
+        );
+        if (!campaign?.campaignRoot) {
+            throw new Error(`No registered campaign directory for campaign: ${frontmatter.campaign ?? "(missing)"}`);
         }
 
         const currentText = await app.vault.adapter.read(currentFile.path);
         const currentParts = splitFrontmatter(currentText);
-        const templatePath = resolveTemplatePath(frontmatter[SESSION_TEMPLATE_FRONTMATTER_KEY]);
-        const generatedRoot = inferGeneratedRootFromNotePath(currentFile.path);
-        const componentDir = joinVaultPaths(generatedRoot, buildComponentDirName(frontmatter));
+        const componentDir = joinVaultPaths(
+            campaign.campaignRoot, "_generated", "session-notes", `${campaign.code}-session-${number}`
+        );
         const slots = {};
 
         const templateText = await readVaultText(templatePath, "Session note template");
@@ -463,9 +439,9 @@ async function renderSessionNote(tp) {
             const componentText = await readVaultText(componentPath, "Session note component");
             mergeSlots(slots, extractSlots(componentText, componentPath), componentPath);
         }
+        slots["session.session_number"] = number.includes(".") ? JSON.stringify(number) : number;
 
         if (slotsContainSessionContextTokens(slots)) {
-            await ensureCustomJsMetadataLoaded();
             expandSessionContextTokensInSlots(slots, inferSessionTargetDate(slots, frontmatter));
         }
 
@@ -501,16 +477,13 @@ module.exports._test = {
     findClosingContextParen,
     formatSessionContextTokens,
     inferSessionTargetDate,
-    inferGeneratedRootFromNotePath,
     joinVaultPaths,
     mergeFrontmatter,
     normalizeTargetDateCandidate,
     parseFrontmatterChunks,
-    buildComponentDirName,
     resolveTemplatePath,
     renderPlaceholders,
     slotsContainSessionContextTokens,
-    slugifyText,
     splitFrontmatter,
     stemFromPath,
     stripFrontmatterWikilinks,

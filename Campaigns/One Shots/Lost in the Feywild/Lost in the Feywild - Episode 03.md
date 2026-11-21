@@ -11,7 +11,6 @@ DR_end: 1740-10-05
 players: [Kaito Min, Edric, Tarek, Ayveen, Txarro]
 descTitle: Mr. Blue Sky
 tagline: in which the party follows the numbers
-sessionKey: lost-in-the-feywild-session-3
 session-template: feywild-template.md
 websiteSessionView: zoomable
 name: "Lost in the Feywild: Episode 03"

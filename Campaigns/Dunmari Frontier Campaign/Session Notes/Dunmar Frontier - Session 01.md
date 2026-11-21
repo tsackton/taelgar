@@ -14,7 +14,6 @@ players: [Kenzo, Wellby, Delwath, Seeker]
 companions: []
 descTitle: Hyena Rampage
 tagline: in which the party meets and confronts dangers in Karawa
-sessionKey: dunmari-frontier-session-1
 session-template: dunmar-frontier-template.md
 name: Dunmari Frontier - Session 1
 POV: 1748

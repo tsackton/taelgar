@@ -12,4 +12,4 @@ Use the lowercase ID anywhere authored data identifies a campaign, including ses
 
 Index notes record `name`, `description`, `dm`, `canon`, and `continuity`. Set `campaignDirectory`, `partyPage`, `sessionBundleDirectory` and `notePattern` when applicable. Session-note patterns are relative to the campaign directory. Set `defaultTemplate` only for an override. The absence of a session bundle directory is valid.
 
-Session keys and file paths identify individual artifacts independently of the campaign ID. Existing bundles and source archives can retain historical labels. Resolve an existing bundle by its registered directory. Keep party names, wikilinks, and page titles in their authored form.
+Find a source bundle by its registered directory and its folder's session-number suffix. Session-note components live in `_generated/session-notes/<campaign>-session-<number>/` under the registered campaign directory. The renderer finds the components from the note's `campaign` and `sessionNumber`. Keep party names, wikilinks, and page titles in their authored form.

@@ -14,7 +14,6 @@ players: [Kenzo, Wellby, Delwath, Seeker]
 companions: []
 descTitle: Curses and Cockatrices
 tagline: in which an old fort reveals its secrets
-sessionKey: dunmari-frontier-session-3
 session-template: dunmar-frontier-template.md
 name: Dunmari Frontier - Session 3
 POV: 1748

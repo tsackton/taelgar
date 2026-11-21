@@ -12,7 +12,6 @@ players: [Finnan, Jrain, Eolo, Ekko, Justas]
 companions: []
 descTitle: Escape from Melusa
 tagline: in which the party bargains with Malquin for a way home
-sessionKey: into-the-chasm-session-4
 session-template: into-the-chasm-template.md
 name: Into the Chasm - Episode 4
 POV: 1730

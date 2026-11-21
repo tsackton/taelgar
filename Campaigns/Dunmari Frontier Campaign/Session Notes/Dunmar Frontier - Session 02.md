@@ -14,7 +14,6 @@ players: [Kenzo, Wellby, Delwath, Seeker]
 companions: []
 descTitle: Into the Wilds
 tagline: in which the party follows signs of unnatural violence into the Nashtkar
-sessionKey: dunmari-frontier-session-2
 session-template: dunmar-frontier-template.md
 name: Dunmari Frontier - Session 2
 POV: 1748

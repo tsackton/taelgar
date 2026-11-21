@@ -11,7 +11,6 @@ DR_end: 1749-05-27
 players: [Ryu, Wazir, Trok, Nerissa, Ander]
 descTitle: The Lost Legacy
 tagline: "in which the ocean's lost song is freed"
-sessionKey: mawar-adventures-session-5
 session-template: mawar-template.md
 websiteSessionView: zoomable
 name: Mawar Adventures Episode 05

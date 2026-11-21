@@ -14,7 +14,6 @@ companions: []
 name: "Cleenseau - Session 34"
 descTitle: "Wondering the Grey Mists"
 tagline: "in which the party crosses the Grey Mists and reaches Twilight's Grace"
-sessionKey: cleenseau-session-34
 session-template: cleenseau-template.md
 ---
 # Cleenseau - Session 34

@@ -14,7 +14,6 @@ companions: []
 name: Cleenseau - Session 30
 descTitle: The Dragon Falls
 tagline: in which the dragon finally falls
-sessionKey: cleenseau-session-30
 session-template: cleenseau-template.md
 ---
 # Cleenseau - Session 30

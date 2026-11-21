@@ -14,7 +14,6 @@ companions: []
 name: "Cleenseau - Session 33"
 descTitle: "Ianto's Fortress"
 tagline: "in which the party kills the redcap and recovers Greymalkin's wings"
-sessionKey: cleenseau-session-33
 session-template: cleenseau-template.md
 ---
 # Cleenseau - Session 33

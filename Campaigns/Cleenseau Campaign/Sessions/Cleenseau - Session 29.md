@@ -14,7 +14,6 @@ companions: []
 name: Cleenseau - Session 29
 descTitle: Asineau and the Dragon
 tagline: in which Asineau prospers and a dragon nears
-sessionKey: cleenseau-session-29
 session-template: cleenseau-template.md
 ---
 # Cleenseau - Session 29

@@ -14,7 +14,6 @@ players: [Kenzo, Wellby, Delwath, Seeker]
 companions: []
 descTitle: "Shakun's Wane"
 tagline: in which the party learns dire secrets about Karawa
-sessionKey: dunmari-frontier-session-4
 session-template: dunmar-frontier-template.md
 name: Dunmari Frontier - Session 4
 POV: 1748

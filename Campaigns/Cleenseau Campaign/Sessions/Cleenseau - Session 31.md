@@ -14,7 +14,6 @@ companions: []
 name: Cleenseau - Session 31
 descTitle: The Queen's Escort
 tagline: in which the queen nearly takes wing
-sessionKey: cleenseau-session-31
 session-template: cleenseau-template.md
 ---
 # Cleenseau - Session 31

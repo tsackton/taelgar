@@ -11,7 +11,6 @@ sourceUrl: null
 players: [Celyn]
 name: Cleenseau - Session 12.1
 descTitle: Celyn and El After the Speech
-sessionKey: cleenseau-session-12-1
 session-template: cleenseau-narrative.md
 POV: 1720
 ---

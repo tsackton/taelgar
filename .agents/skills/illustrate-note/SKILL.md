@@ -107,7 +107,7 @@ Export immediately after each explicit final approval; do not wait until the who
 
 Save to `assets/_incoming/generated/` with readable, collision-checked filenames:
 
-- Session scenes: campaign/session prefix plus description, for example `dufr-007-the-centaurs-wheel-around.webp`. Resolve the canonical campaign code and preserve the session identifier, including fractional sessions. Include the session number once; an existing `sessionKey` may already contain it.
+- Session scenes use a campaign/session prefix plus a description, for example `dufr-007-the-centaurs-wheel-around.webp`. Use the canonical campaign ID and include the full session number once, including any fractional suffix.
 - Other notes: subject plus description, such as `raven-hold-western-approach.webp` or `kenzo-travel-portrait.webp`.
 - Use a version suffix for a distinct later final. Never overwrite an existing asset without explicit replacement authorization, and never rename existing assets as part of this workflow.
 

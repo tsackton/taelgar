@@ -12,7 +12,6 @@ players: [Acescale, Gaudin, Loria, Dilion]
 companions: []
 descTitle: Into the Manor
 tagline: in which a sneaky path leads to ghostly clues
-sessionKey: labyrinths-of-the-lost-session-2
 session-template: lablost-template.md
 name: Labyrinths of the Lost - Session 2
 POV: 1748

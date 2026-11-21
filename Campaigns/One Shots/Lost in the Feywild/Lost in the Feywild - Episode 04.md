@@ -11,7 +11,6 @@ DR_end: 1740-10-06
 players: [Kaito Min, Edric, Tarek, Ayveen, Txarro]
 descTitle: The House that Moves
 tagline: in which the house refuses to hold still
-sessionKey: lost-in-the-feywild-session-4
 session-template: feywild-template.md
 websiteSessionView: zoomable
 name: "Lost in the Feywild: Episode 04"

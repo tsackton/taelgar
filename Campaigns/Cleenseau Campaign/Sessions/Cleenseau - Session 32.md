@@ -14,7 +14,6 @@ companions: []
 name: Cleenseau - Session 32
 descTitle: Closing the Portal
 tagline: in which a gazebo dies and tea follows
-sessionKey: cleenseau-session-32
 session-template: cleenseau-template.md
 ---
 # Cleenseau - Session 32

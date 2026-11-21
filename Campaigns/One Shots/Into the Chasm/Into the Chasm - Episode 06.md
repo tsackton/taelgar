@@ -12,7 +12,6 @@ players: [Finnan, Jrain, Eolo, Ekko, Justas]
 companions: []
 descTitle: The Chasm Restored
 tagline: in which the willing flee Melusa
-sessionKey: into-the-chasm-session-6
 session-template: into-the-chasm-template.md
 name: Into the Chasm - Episode 6
 POV: 1730

@@ -74,12 +74,12 @@ function run() {
   assert.equal(evidence.sessionNumberFrom("", "Lost in the Feywild - Episode 06"), 6);
   assert.equal(evidence.sessionNumberFrom("Cleenseau - Session 012.10"), "12.10");
   assert.equal(
-    evidence.sessionIdentity("lost-in-the-feywild", 6, "", "unused"),
-    "lost-in-the-feywild:6",
+    evidence.sessionIdentity("feywild", 6, "unused"),
+    "feywild:6",
   );
   assert.equal(
-    evidence.sessionIdentity("unknown", null, "special-session", "unused"),
-    "key:special-session",
+    evidence.sessionIdentity("unknown", null, "Campaigns/Special Session.md"),
+    "path:Campaigns/Special Session",
   );
 
   const campaignInfo = evidence.parseCampaignInfo([

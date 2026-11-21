@@ -11,7 +11,6 @@ DR_end: 1740-10-06
 players: [Kaito Min, Edric, Tarek, Ayveen, Txarro]
 descTitle: The Bottom of the Bottomless Well
 tagline: in which stories teach the prisoner to let go
-sessionKey: lost-in-the-feywild-session-7
 session-template: feywild-template.md
 websiteSessionView: zoomable
 name: "Lost in the Feywild: Episode 07"

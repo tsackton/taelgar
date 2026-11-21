@@ -12,7 +12,6 @@ players: [Finnan, Jrain, Eolo, Ekko, Justas]
 companions: []
 descTitle: Descent into Battle
 tagline: "in which the party chases orcs through the Great Chasm's floating platforms"
-sessionKey: into-the-chasm-session-5
 session-template: into-the-chasm-template.md
 name: Into the Chasm - Episode 5
 POV: 1730

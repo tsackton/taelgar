@@ -12,7 +12,6 @@ players: [Acescale, Gaudin, Loria, Dilion]
 companions: []
 descTitle: The Smithy Escape
 tagline: in which four captives escape their goblin jailers
-sessionKey: labyrinths-of-the-lost-session-1
 session-template: lablost-template.md
 name: Labyrinths of the Lost - Session 1
 POV: 1748

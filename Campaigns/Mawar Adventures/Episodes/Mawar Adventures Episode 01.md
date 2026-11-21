@@ -12,7 +12,6 @@ players: [Ryu, Wazir, Trok]
 companions: []
 descTitle: The Merfolk Visitor
 tagline: in which a stolen drop of ocean is returned
-sessionKey: mawar-adventures-session-1
 session-template: mawar-template.md
 name: Mawar Adventures Episode 01
 POV: 1747

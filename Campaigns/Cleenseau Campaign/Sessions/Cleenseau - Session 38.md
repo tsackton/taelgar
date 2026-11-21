@@ -11,7 +11,6 @@ players: []
 companions: []
 descTitle: "Calendar Stub"
 tagline: "session notes pending"
-sessionKey: cleenseau-session-38
 session-template: cleenseau-template.md
 name: "Cleenseau - Session 38"
 POV: "1721"

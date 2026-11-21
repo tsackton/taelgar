@@ -69,7 +69,7 @@ For session notes to generate headers and indexes:
 - `descTitle`: Short descriptive title.
 - `companions`: List of NPCs that traveled with the party during a session. 
 - `players`: List of PC names present in a session (e.g. `[Kenzo, Wellby, Delwath, Seeker, Riswynn]`).
-- `sessionNumber`: Numeric session identifier within a campaign.
+- `sessionNumber` identifies a session within a campaign. Use an integer for whole sessions and a quoted string for point sessions, such as `"12.10"`, to preserve the suffix.
 - `sourceUrl`: Optional URL for the original external session recap or other primary session source. The generated session header displays this as a source link.
 
 ### Relationship and Linkage Fields

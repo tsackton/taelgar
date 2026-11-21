@@ -62,13 +62,13 @@ Scan the complete source for memorable, clearly attributable player or player-ch
 
 ## Use The Session-Note Pipeline
 
-Treat the reviewed `*-session-recap.md` as the durable, human-gated content source. Treat `_generated/session-notes/<sessionKey>/` as a rebuildable interchange layer and the campaign session note as rendered output. Do not keep a durable content or link correction only in `_generated` or the final note: `--overwrite` replaces generated slots, and Templater replaces the final note body.
+Treat the reviewed `*-session-recap.md` as the durable, human-gated content source. The components in `_generated/session-notes/clee-session-<number>/` are rebuildable, and Templater replaces the final note body. Keep durable content and link corrections in the reviewed recap.
 
 1. Edit the reviewed session recap and cleaned session manifest. Keep the complete original source and its preparation manifest under the session's `sources` directory.
 2. Keep `sourceUrl`, and when available `sourceTitle` and `sourceAuthor`, in both source and cleaned manifests. The builder exposes these as `session.source_url` and `session.source_header`.
 3. Generate components with `_scripts/build_session_note_components.py --overwrite -c clee -n <session>`.
 4. Review unresolved-link reports and every generated slot, especially summary, timeline, cast, locations, items, approved pull quotes, and narrative.
-5. Ensure the final note frontmatter has the generated `sessionKey` and `session-template: cleenseau-template.md`. The Cleenseau campaign registry should use `cleenseau-template.md` as its default.
+5. Check that the builder set `campaign: clee`, the correct `sessionNumber`, and `session-template: cleenseau-template.md` on the final note.
 6. With the final note active in Obsidian, run `_templates/render-session-note.md`. This loads the three generated component files and renders `_templates/session-notes/cleenseau-template.md`.
 7. Verify the rendered frontmatter and body against the reviewed recap. Make durable corrections upstream and regenerate instead of hand-maintaining rendered output.
 8. Re-read all changed notes, validate frontmatter and wikilinks, review the complete scoped diff, and run `git diff --check`.
