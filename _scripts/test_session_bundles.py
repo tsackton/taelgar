@@ -47,6 +47,8 @@ class BundleSelectionTest(unittest.TestCase):
             with self.assertRaisesRegex(ValueError, r"Several bundles for session 12\.10:.*cleenseau-012\.10.*other-012\.10"):
                 lookup()
 
+        self.assertEqual(resolve_bundle(vault, "clee", "12.1"), point)
+
     def test_first_prefix_then_reuse(self):
         with self.assertRaisesRegex(ValueError, "--prefix"):
             select_bundle(self.root, "0", create=True)
