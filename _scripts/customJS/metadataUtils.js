@@ -80,34 +80,16 @@ class util {
     }
 
 
-    isKnownToParty(file, personMetadata, campaignPrefix, allowTag, allowSessionNotes, campaignFolder) {
-
+    isKnownToParty(_file, metadata, campaign) {
         const { NameManager } = customJS
-
-        if (personMetadata.campaignInfo) {
-            if (personMetadata.campaignInfo.some(f => f.campaign.toLowerCase() == campaignPrefix.toLowerCase()))
-                return true;
+        const campaignKey = value => {
+            if (typeof value !== "string" || !value.trim()) return ""
+            return (NameManager.getCampaignConfig(value)?.code ?? value.trim()).toLowerCase()
         }
-
-        if (personMetadata.tags) {
-            if (allowTag) {
-                let campaignTags = personMetadata.tags.filter(f => f.toLowerCase().startsWith(campaignPrefix.toLowerCase()))
-                if (campaignTags.some(f => !f.includes("unaware") && !f.includes("unknown") && !f.includes("unsorted")))
-                    return true
-            }
-        }
-
-        if (allowSessionNotes) {
-            if (!campaignFolder) {
-                campaignFolder = NameManager.getCampaignSessionNoteFolder(campaignPrefix)
-            }
-
-            if (campaignFolder) {
-                return DataviewAPI.page(file).file.inlinks.some(f => (f?.path ?? "").startsWith(campaignFolder) || (f?.path ?? "").includes(campaignFolder))
-            }
-        }
-
-        return false;
+        const key = campaignKey(campaign)
+        const knownTo = metadata?.knownTo
+        const entries = typeof knownTo?.array === "function" ? knownTo.array() : Array.isArray(knownTo) ? knownTo : [knownTo]
+        return Boolean(key) && entries.some(value => campaignKey(value) === key)
     }
 
     isOrWasAffiliated(target, metadata, targetDate) {

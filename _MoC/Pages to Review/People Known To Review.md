@@ -1,17 +1,27 @@
 # People Known To Review
 
-Choose a campaign, then work through a small table at a time. **Start with “Linked, missing knownTo”**: these people have incoming links from that campaign’s directory but lack its code in `knownTo`. Use the folder and name filters to narrow a batch; expand the source count to open the relevant campaign pages.
+Choose a campaign, then work through a small table at a time. **Start with “Linked, missing knownTo”**: these people have incoming links from material assigned to that campaign and lack its code in `knownTo`. Use the folder and name filters to narrow a batch; expand the source count to open the relevant campaign pages.
 
-This view includes indexed `#person` notes, including people outside the People folder. “Not marked known” means only that the selected code is absent, not that the party definitely does not know the person. Missing fields, blank fields, and explicit empty lists are shown separately. Links from any page in the campaign directory count as review evidence, including planning and source pages; they do not establish party knowledge. `campaignInfo` is supporting evidence only. Edit the person note after reviewing the sources; this page never changes metadata.
+This view includes indexed `#person` notes, including people outside the People folder. “Not marked known” means only that the selected code is absent, not that the party definitely does not know the person. Missing fields, blank fields, and explicit empty lists are shown separately. Linked planning and source pages count as review evidence. A valid authored `campaign` gives the source its campaign, with its registered folder as the fallback. Authored `knownTo` determines whether this view marks a person as known. `campaignInfo` is supporting evidence only. Edit the person note after reviewing the sources; this page never changes metadata.
 
-Campaigns and directories come from [[Campaign Registry]] and its configuration. See [[Metadata Specification#KnownTo Framework|KnownTo Framework]] for the meaning of the field. Requires Dataview JavaScript queries; tables update when Dataview refreshes after note edits.
+Campaigns and directories come from [[Campaign Registry]] and its configuration. See [[Metadata Specification#Campaign Association and Party Knowledge|Campaign Association and Party Knowledge]] for the meaning of the field. Requires Dataview JavaScript queries; tables update when Dataview refreshes after note edits.
 
 ```dataviewjs
 await customJS.init.invoke();
+const { NameManager, util } = customJS;
 const campaigns = [...customJS.state.campaignRegistry].sort((a, b) => a.name.localeCompare(b.name));
 const values = value => value == null ? [] : Array.isArray(value) ? value :
     typeof value.array === "function" ? value.array() : [value];
 const people = dv.pages("#person").array();
+const sourceCampaigns = new Map();
+const sourceCampaign = path => {
+    if (!sourceCampaigns.has(path)) {
+        const file = app.vault.getAbstractFileByPath(path);
+        const declared = file && app.metadataCache.getFileCache(file)?.frontmatter?.campaign;
+        sourceCampaigns.set(path, NameManager.getNoteCampaignCode(path, declared));
+    }
+    return sourceCampaigns.get(path);
+};
 const root = dv.container;
 const make = (tag, parent, text) => {
     const element = document.createElement(tag);
@@ -66,14 +76,14 @@ const knownText = p => {
 };
 function render() {
     const selected = campaigns.find(c => c.code === campaign.value);
-    const prefix = (selected.campaignRoot || "").replace(/\/$/, "") + "/";
+    const prefix = selected.campaignRoot ? selected.campaignRoot + "/" : "";
     const rows = people.map(person => {
         // Dataview resolves aliased, relative, and heading links to their target file.
         const sources = [...new Set(values(person.file.inlinks).map(l => l.path))]
-            .filter(path => selected.campaignRoot && path.startsWith(prefix)).sort();
-        const known = values(person.knownTo).some(code => code === selected.code);
+            .filter(path => sourceCampaign(path) === selected.code).sort();
+        const known = util.isKnownToParty(person.file.name, person, selected.code);
         const interactions = values(person.campaignInfo)
-            .filter(info => info && String(info.campaign).toLowerCase() === selected.code);
+            .filter(info => NameManager.getCampaignConfig(info?.campaign)?.code === selected.code);
         return {person, sources, interactions, group: known ? "known" : sources.length ? "priority" : "other"};
     });
     const count = key => rows.filter(r => r.group === key).length;
@@ -112,9 +122,10 @@ function render() {
             make("summary", details, `${row.sources.length} source page${row.sources.length === 1 ? "" : "s"}`);
             for (const path of row.sources) {
                 const line = make("div", details);
-                link(line, path, path.slice(prefix.length).replace(/\.md$/, ""));
+                const label = path.startsWith(prefix) ? path.slice(prefix.length) : path;
+                link(line, path, label.replace(/\.md$/, ""));
             }
-        } else sourceCell.textContent = "No campaign-directory links";
+        } else sourceCell.textContent = "No campaign source links";
         make("td", tr, row.interactions.length
             ? row.interactions.map(info => `${info.type || "Recorded interaction"}${info.date ? " — " + String(info.date) : " (undated)"}`).join("; ")
             : "—");

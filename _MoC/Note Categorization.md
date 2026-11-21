@@ -7,7 +7,7 @@ linterCampaignRecordTags:: "session-note", "story", "meta", "source"
 linterKnownToRequiredTags:: "person", "object"
 linterMapRequiredPlaceTypes:: "waterway", "road", "settlement"
 
-The `linter*` fields above are the machine-readable validator vocabulary. They are deliberately kept here, beside the human-readable category definitions, so a human can review or extend them without editing validator code. Alias entries recognize older descriptive tags and point to the canonical tag used for lint expectations.
+The `linter*` fields above are the machine-readable validator vocabulary. They are deliberately kept here, beside the human-readable category definitions, so a human can review or extend them without editing validator code. Alias entries recognize older descriptive tags and point to the canonical tag used for lint expectations. See [[Metadata Specification#Campaign Association and Party Knowledge|Campaign Association and Party Knowledge]] for how readers apply directory defaults by note type.
 
 Notes (pages) are categorized based on the combination of a descriptive tag, and a typeOf string. Both descriptive tags and typeOf strings are controlled vocabulary, and pages that do not have a canonical descriptive tag + typeOf combination will be flagged in queries in Data Cleaning. 
 
@@ -274,7 +274,7 @@ Story notes under `Campaigns` use `campaign` and `POV` metadata. They do not req
 
 Definition: The primary source tag is used for notes that represent in-world text, meant to be shared directly with players (e.g., letters, handouts, journals). Notes that summarize in-world text generally should use background instead, but this is a judgement call. 
 
-The source note does not currently expect additional metadata, and does not have a header.
+Use `campaign` for material that belongs to a game and `knownTo` for parties that know an in-world source. Both fields can apply to a handout. A transcript excerpt uses `campaign` to identify the game it records. Source notes have no generated header.
 ## Background
 **Tag: `#background`**
 

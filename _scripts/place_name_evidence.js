@@ -770,18 +770,23 @@ function loadCampaignDefinitions(root) {
 function campaignFor(value, sourcePath, definitions) {
   const normalizedPath = normalizeSlashes(sourcePath);
   for (const definition of definitions.values()) {
-    if (definition.campaignRoot && normalizedPath.startsWith(`${definition.campaignRoot}/`)) {
-      return definition.slug;
-    }
     if (
       definition.sessionBundleDirectory &&
       normalizedPath.startsWith(`${definition.sessionBundleDirectory}/`)
     ) return definition.slug;
   }
+
   const key = normalizeKey(value);
-  if (!key) return "unknown";
+  if (key) {
+    for (const definition of definitions.values()) {
+      if (definition.aliasKeys.has(key)) return definition.slug;
+    }
+  }
+
   for (const definition of definitions.values()) {
-    if (definition.aliasKeys.has(key)) return definition.slug;
+    if (definition.campaignRoot && normalizedPath.startsWith(`${definition.campaignRoot}/`)) {
+      return definition.slug;
+    }
   }
   return "unknown";
 }

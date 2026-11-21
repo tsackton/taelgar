@@ -525,7 +525,7 @@ class OutputHandler {
         // Intended for use from Dataview views (dv.current()) where file inlinks exist.
         // Produces a compact, stable summary so NPC pages don't need campaignInfo logs.
 
-        const { DateManager, NameManager } = customJS
+        const { DateManager, NameManager, util } = customJS
 
         const maxOtherMentions = 0 // 0 = no limit
 
@@ -537,14 +537,6 @@ class OutputHandler {
         }
 
         const normalizeTags = (value) => normalizeStringList(value).map(t => t.replace(/^#/, "").trim().toLowerCase())
-
-        const getCoreCampaigns = () => {
-            let campaigns = customJS?.state?.coreMeta?.campaigns
-            return Array.isArray(campaigns) ? campaigns : []
-        }
-
-        const coreCampaigns = getCoreCampaigns()
-        const knownTo = normalizeStringList(page?.knownTo).map(s => s.trim())
 
         const inlinks = page?.file?.inlinks ?? []
         if (!Array.isArray(inlinks) || inlinks.length === 0) {
@@ -558,44 +550,22 @@ class OutputHandler {
             if (tags.includes("session-note")) return true
 
             // Fall back to configured session-note folders.
-            for (let c of coreCampaigns) {
-                if (c?.sessionNoteFolder && linkedPage.file.path.startsWith(c.sessionNoteFolder)) return true
-            }
+            if (NameManager.getNoteCampaignCode(linkedPage.file.path, undefined, "sessionNoteFolder")) return true
 
             // Common convention even when metadata.json isn't fully configured.
             return linkedPage.file.path.includes("/Session Notes/") || linkedPage.file.path.includes("/Sessions/")
         }
 
         const inferCampaignCode = (linkedPage) => {
-            let path = linkedPage?.file?.path ?? ""
+            const code = NameManager.getNoteCampaignCode(linkedPage.file.path, linkedPage.campaign, "sessionNoteFolder")
+            if (code) return code
 
-            for (let c of coreCampaigns) {
-                if (c?.sessionNoteFolder && path.startsWith(c.sessionNoteFolder)) return (c.code ?? c.prefix)
-            }
+            // Older session notes sometimes identify the campaign in the filename.
+            const name = linkedPage.file.name ?? ""
+            const match = name.match(/\(([^)]+)\)\s*$/) ?? name.match(/\(([^)]+)\)/)
+            if (match) return NameManager.getCampaignConfig(match[1])?.code ?? match[1].trim()
 
-            // Session file names often end with "(DuFr)" style codes.
-            let name = linkedPage?.file?.name ?? ""
-            let m = name.match(/\(([^)]+)\)\s*$/)
-            if (m && m[1]) {
-                let cfg = NameManager.getCampaignConfig(m[1].trim())
-                return cfg?.code ?? m[1].trim()
-            }
-
-            // Try any parens group if not at end.
-            m = name.match(/\(([^)]+)\)/)
-            if (m && m[1]) {
-                let cfg = NameManager.getCampaignConfig(m[1].trim())
-                return cfg?.code ?? m[1].trim()
-            }
-
-            // Fall back to campaign field if present (try to map to a known prefix).
-            if (linkedPage.campaign) {
-                let campaignName = String(linkedPage.campaign).trim()
-                let cfg = NameManager.getCampaignConfig(campaignName)
-                return cfg?.code ?? campaignName
-            }
-
-            return "Unknown"
+            return String(linkedPage.campaign ?? "").trim() || "Unknown"
         }
 
         const fmtSessionLink = (linkedPage) => {
@@ -691,8 +661,7 @@ class OutputHandler {
 
             out += `### ${partyLabel}\n`
 
-            let missingForKnownTo = !knownTo.some(x => x.toLowerCase() === campaignCode.toLowerCase())
-            if (missingForKnownTo) out += `Suggested knownTo: ${campaignCode}\n`
+            if (!util.isKnownToParty(fileName, page, campaignCode)) out += `Suggested knownTo: ${campaignCode}\n`
 
             out += `First encountered: ${fmtSessionLink(first.linkedPage)}\n`
             if (entries.length > 1) out += `Most recent encounter: ${fmtSessionLink(last.linkedPage)}\n`

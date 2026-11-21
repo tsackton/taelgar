@@ -65,6 +65,51 @@ async function run() {
   assert.equal(nameManager.getCampaignConfig("missing"), undefined);
   assert.equal(nameManager.getCampaignSessionNoteFolder("other"), "");
 
+  const sessionFolder = "Campaigns/Test Voyage/Records/Sessions";
+  assert.equal(nameManager.getNoteCampaignCode(sessionFolder + "/Session 1.md", "Other Campaign"), "other");
+  assert.equal(nameManager.getNoteCampaignCode(sessionFolder + "/Session 1.md", "invalid", "sessionNoteFolder"), "voy");
+  assert.equal(nameManager.getNoteCampaignCode("Campaigns/Test Voyage Extra/Handout.md", undefined), undefined);
+  assert.equal(nameManager.getNoteCampaignCode("Primary Sources/Letter.md", "Voy"), "voy");
+
+  const Util = loadClass("_scripts/customJS/metadataUtils.js", context);
+  const util = new Util();
+  context.customJS.util = util;
+  assert.equal(util.isKnownToParty("Person", { knownTo: [" VOY "] }, "Test Voyage"), true);
+  assert.equal(util.isKnownToParty("Person", { knownTo: { array: () => ["Other Campaign"] } }, "other"), true);
+  assert.equal(util.isKnownToParty("Person", { knownTo: "voy" }, "voy"), true);
+  assert.equal(util.isKnownToParty("Person", { knownTo: [] }, "voy"), false);
+
+  const links = new Map();
+  const addSession = (folder, name, campaign) => {
+    const path = `${folder}/${name}.md`;
+    links.set(path, {file:{path,name},tags:["session-note"],campaign});
+    return {path};
+  };
+  const inlinks = [
+    addSession(sessionFolder, "Misfiled Session (voy)", "Other Campaign"),
+    addSession(sessionFolder, "Filed Session", undefined),
+    addSession("Elsewhere", "Explicit Session (voy)", "other"),
+    addSession("Elsewhere", "Legacy Session (voy)", undefined),
+  ];
+  context.DataviewAPI = {page: path => links.get(path)};
+  context.customJS.DateManager = {normalizeDate: () => ({sort: 0})};
+  assert.equal(util.isKnownToParty("Person", {
+    campaignInfo: [{campaign:"voy"}],tags:["voy-known"],file:{inlinks},
+  }, "voy", true, true), false);
+
+  const OutputHandler = loadClass("_scripts/customJS/outputs.js", context);
+  const output = new OutputHandler();
+  const page = {knownTo:["Other Campaign"],file:{inlinks}};
+  const otherOutput = output.outputCampaignInteractions("Person", page, "other");
+  assert.match(otherOutput, /Misfiled Session/);
+  assert.match(otherOutput, /Explicit Session/);
+  assert.doesNotMatch(otherOutput, /Suggested knownTo|Filed Session|Legacy Session/);
+  const voyageOutput = output.outputCampaignInteractions("Person", page, "voy");
+  assert.match(voyageOutput, /Filed Session/);
+  assert.match(voyageOutput, /Legacy Session/);
+  assert.match(voyageOutput, /Suggested knownTo: voy/);
+  assert.doesNotMatch(voyageOutput, /Misfiled Session|Explicit Session/);
+
   let resolvedPerson;
   context.customJS.NameManager = {
     getDisplayData() {

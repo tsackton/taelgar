@@ -64,7 +64,7 @@ class NameManager {
         let query = normalizeKey(codeOrAlias)
         if (!query) return undefined
 
-        let campaigns = customJS.state.campaignRegistry
+        let campaigns = customJS.state?.campaignRegistry
         if (!Array.isArray(campaigns)) return undefined
 
         for (let c of campaigns) {
@@ -89,6 +89,24 @@ class NameManager {
         }
 
         return undefined
+    }
+
+    getNoteCampaignCode(path, value, folderField = "campaignRoot") {
+        const declared = typeof value === "string" ? this.getCampaignConfig(value)?.code : undefined
+        if (declared) return declared
+
+        const normalizePath = value => (value ?? "").replaceAll("\\", "/").toLowerCase()
+        const notePath = normalizePath(path)
+        let matchedCode
+        let matchedLength = 0
+        for (const campaign of customJS.state?.campaignRegistry ?? []) {
+            const folder = normalizePath(campaign[folderField]).replace(/\/+$/, "")
+            if (folder.length > matchedLength && notePath.startsWith(folder + "/")) {
+                matchedCode = campaign.code
+                matchedLength = folder.length
+            }
+        }
+        return matchedCode
     }
 
     getCampaignPartyPage(codeOrAlias) {

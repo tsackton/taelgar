@@ -82,6 +82,18 @@ function run() {
     "path:Campaigns/Special Session",
   );
 
+  const campaignDefinitions = new Map([
+    ["voy", { slug: "voy", campaignRoot: "Campaigns/Voyage", sessionBundleDirectory: "_sessions/voyage",
+      aliasKeys: new Set(["voy", "test voyage"]) }],
+    ["other", { slug: "other", campaignRoot: "Campaigns/Other",
+      aliasKeys: new Set(["other", "other campaign"]) }],
+  ]);
+  const filed = "Campaigns/Voyage/Session 1.md";
+  assert.equal(evidence.campaignFor(" Other Campaign ", filed, campaignDefinitions), "other");
+  assert.equal(evidence.campaignFor("invalid", filed, campaignDefinitions), "voy");
+  assert.equal(evidence.campaignFor("", "Campaigns/Voyage Extra/Session 1.md", campaignDefinitions), "unknown");
+  assert.equal(evidence.campaignFor("other", "_sessions/voyage/voyage-001/cleaned/recap.md", campaignDefinitions), "voy");
+
   const campaignInfo = evidence.parseCampaignInfo([
     "tags: [place]",
     "campaignInfo:",

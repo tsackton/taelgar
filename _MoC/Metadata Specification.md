@@ -77,27 +77,27 @@ For session notes to generate headers and indexes:
 - `whereabouts`: Current and historical location data. Can be a simple string, or a list of objects. Typically used for people and places, and occasionally for organizations and items. See [[Metadata Specification#Whereabouts Specification|details below]].
 - `affiliations`: Organizations or places the subject is associated with. Can be a list of strings (shorthand for member affiliations) or full objects. Typically only used for people. See [[Metadata Specification#Affiliations Specification|details below]].
 - `campaignInfo`: List of objects capturing when and how campaigns interacted with this page. Each entry may include `campaign` (short code like `dufr`), `type` (e.g. `met`, `killed`, `seen`), optional `person`, `date`, and optional format overrides. Drives “Met by X on Y in Z” style header lines. Typically used only for people, but in principle could be used for any note. See [[Metadata Specification#CampaignInfo Specification|details below]].
-- `knownTo`: List of canonical lowercase campaign codes indicating the subject is known to that party (e.g. `knownTo: [dufr, clee]`). Required for people and objects; `[]` explicitly records that no campaign knowledge is known. Used as a lightweight, queryable replacement for long `campaignInfo` logs; see “KnownTo Framework” below and [[Campaign Registry]].
+- `campaign`: The canonical lowercase ID of the game a record belongs to. Use a single ID for session notes, campaign stories, campaign-specific meta pages, and campaign source material.
+- `knownTo`: A list of canonical lowercase campaign IDs identifying the parties that know the in-world subject or the contents of an in-world source. Person and object notes require an authored list, with `[]` recording no explicit party knowledge. See [[Metadata Specification#Campaign Association and Party Knowledge|Campaign Association and Party Knowledge]].
 - `partOf`: Simple parent relationship field. Used for non-location based relationships. Principally used to indicate organizations that are part of a larger organization (e.g., a unit in an army), or events that are part of a larger event (e.g., a battle in a war). For place-based relationships, use `whereabouts` which can handle much more complex information. 
 
-#### KnownTo Framework
+#### Campaign Association and Party Knowledge
 
-Purpose: track which campaign parties have met or otherwise meaningfully interacted with the subject (usually a person), in a way that:
-- supports simple frontmatter queries (“who has the party interacted with?”), and
-- avoids cluttering the YAML/frontmatter with long interaction logs.
+The website and Taelgarverse Obsidian plugin resolve campaign IDs against [[Campaign Registry]]. The registered campaign directory supplies a default according to the note's primary descriptive tag. These rules compute values when reading the note. The vault validator checks authored fields, and raw Dataview field queries read the YAML.
 
-**Source of truth.**  
-Use `knownTo` on the subject page as the authoritative indicator that the party knows them.
+| Note type | `campaign` | `knownTo` |
+| --- | --- | --- |
+| `session-note`, `story`, `meta` | A valid authored ID wins. The registered directory supplies a missing or invalid ID. | Omit. These are records of play or out-of-world resources. |
+| `source` | Same rule for campaign source material. | Author this when a party knows an in-world source. A handout can use both fields. |
+| `person`, `object`, `place`, `group`, `power`, `event` | Omit. | Add the registered directory's campaign to the authored list. An empty authored list still gains the directory's campaign. |
+| `ancestry`, `creature`, `background` | Omit. | Use an authored list for specific lore a party knows. |
+| No descriptive tag | No inheritance. | No inheritance. |
 
-```yaml
-knownTo: [dufr]
-```
+For example, a Dunmar session recap can inherit `campaign: dufr`. A treasure description filed in the same directory with `knownTo: [clee]` resolves to `knownTo: [clee, dufr]`. An in-world letter filed with Dunmar can inherit `campaign: dufr` and use its own authored `knownTo` list. If a valid explicit `campaign` disagrees with a note's directory, readers use the authored ID and the validator reports the mismatch.
 
-**Evidence and summaries.**  
-Session notes are expected to link to people/places/items that appear in them. A “Campaign Interactions” section on the subject page can be generated from session-note backlinks (first/most recent/other mentions) and can optionally suggest missing `knownTo` codes when it finds session links for a campaign not listed in `knownTo`.
+##### KnownTo Framework
 
-**Campaign configuration.**  
-Campaign IDs are the keys of `_sessions/campaign-registry.json`. Index notes supply display names, party pages and session paths. See [[Campaign Registry]].
+Session-note links and `campaignInfo` entries can support a review of party knowledge. Campaign Interactions uses the resolved `knownTo` to select campaign sections, alongside evidence from play. Use `knownTo` to record awareness even when the date of first contact is unknown.
 
 ### Display and header control
 
@@ -435,13 +435,13 @@ Some behavior that does not fully conform to the above requirements is still sup
 
 ## CampaignInfo Specification
 
-Purpose: track when and how specific campaigns interacted with the subject of a page. Used primarily on people (and occasionally places/items) to drive “Met by X on Y in Z” style header lines and to answer “does this party know about this entity?” queries. CampaignInfo entries are encoded as structured objects and can range from simple “met on this date” records to fully customized lines that reference specific session notes. If a campaign and date are present, generates a static header line with the campaign interaction information. 
+Use `campaignInfo` to record when and how a campaign interacted with a subject. These entries drive “Met by X on Y in Z” header lines and can reference specific session notes. Use `knownTo` for party awareness.
 
 ### Object Fields
 
 The following object fields are used to define a campaignInfo entry; see Derived Campaign Interactions, below:
 - `campaign` (required): canonical lowercase short code for the campaign (e.g., `dufr`, `clee`, `grli`) from [[Campaign Registry]]. Used both for display and to match campaign configuration. Output lines are wrapped in campaign blocks with this code.
-- `date` (required for display): the in‑world date of the interaction. Typical date formatting applies; if missing, the entry can still be used for “knows about” queries but will not generate a header line.
+- `date` (required for display): the in-world date of the interaction. Use the standard date format.
 - `type`: describes the interaction itself (e.g., `met`, `killed`, `freed`, `seen`, `attended his lecture`). Defaults to `seen` when omitted. 
 - `person`: optional override for who did the interacting. If omitted, defaults to the `campaign` code (which is then resolved to a page via NameManager and linkmap). Typically used when only a specific PC should appear in the output line. 
 
@@ -451,12 +451,7 @@ The following object fields are used for display formatting; see CampaignInfo Fo
 
 #### Minimal vs. Displayable Entries
 
-CampaignInfo entries can be present without a `date`. These entries:
-
-- Still mark the page as “known to” a campaign (for `isKnownToParty` checks).
-- Do **not** generate any visible header lines, as display requires both `campaign` and `date` and a resolvable whereabouts at that date.
-
-In practice, this allows you to track that a party is aware of an NPC even if you don’t care about the exact first‑met date.
+Display requires a campaign, a date, and a resolvable whereabouts at that date. CustomJS `isKnownToParty` reads authored `knownTo` for party knowledge.
 
 ### Derived Campaign Interactions
 
@@ -495,7 +490,6 @@ CampaignInfo is easiest to work with if you follow some simple patterns:
 - Use `format` on an entry only when you need to:
 	- Link directly to a specific session note in the line (e.g., wrapping `<target>` in a `[[Session N|…]]` link).
 	- Change the sentence structure away from the default `wParty` pattern.
-- It is often useful to add a campaignInfo entry **without** a date to mark that a party knows about someone; do this when you want `isKnownToParty` to succeed even if no specific “met on X” header line is needed.
 - Note that typically linking prepositions are hard-coded in the display string, so you need to generate a full `format` line if you want to change prepositions. 
 ### CampaignInfo Examples 
 
