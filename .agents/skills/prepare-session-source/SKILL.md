@@ -59,7 +59,11 @@ Use three digits for the whole number in the folder name (more when needed). Quo
 
 ## Draft Files
 
-Create or update two files in the campaign `_sessions` directory:
+Draft the source-prep YAML and, if using a mapping file, the speaker mapping JSON. The campaign's registered session directory is a convenient place to keep them.
+
+`--config` also accepts an absolute path to a source-prep YAML file outside the vault. Preparation uses the registry of the vault containing the config if it finds one. Otherwise it uses the vault containing `prepare_source.py`. The config's `campaign` and `sessionNumber` determine where the bundle goes. Preparation writes the generated `*-session.yaml` inside that bundle's `cleaned/` directory.
+
+Use these filenames:
 
 ```text
 <campaign-prefix>-epNN-source-prep.yaml
