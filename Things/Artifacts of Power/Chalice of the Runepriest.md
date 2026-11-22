@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:07:38-04:00"
 lintVersion: "3.5"
 displayDefaults: {wOrigin: "<start:u> in <startDate> <origin:3rq>", wCurrent: "Current location: <current:3r>", dCurrent: ""}
@@ -20,11 +19,8 @@ dm_notes: important
 POV: modern
 ---
 # The Chalice of the Runepriest
->[!info]+ Information  
-> (unique [[Dwarves|dwarven]] chalice)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (unique dwarven chalice)
 
 %%
 Whereabouts dates:

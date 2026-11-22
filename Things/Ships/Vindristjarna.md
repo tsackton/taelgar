@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:07:38-04:00"
 lintVersion: "3.5"
 displayDefaults: {linkText: "on", ltItem: stored on}
@@ -33,10 +32,8 @@ POV: 1749
 ---
 # Vindristjarna
 *(vin-dree-SHAR-na)*
->[!info]+ Information  
-> (unique magical skyship)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (unique magical skyship)
 
 %%
 Whereabouts annotations:

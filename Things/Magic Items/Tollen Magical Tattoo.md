@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:07:38-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -14,9 +13,8 @@ dm_notes: none
 POV: modern
 ---
 # Tollen Magical Tattoo
->[!info]+ Information  
-> ([[Tollen|Tollender]] magic tattoo)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+> [!taelgar-header]
+> (Tollender magic tattoo)
 
 A variety of magical tattoos are produced by the artisans of [[Tollen]], using magical inks produced by the secrets of the [[Dyer's Guild]]. 
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T22:52:37-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: "", boxInfo: "<ancestry:AU> <typeof:AUn><(, written )written:nx><(, by )author>", startStatus: completed in}
@@ -15,9 +14,8 @@ dm_notes: none
 POV: 1748
 ---
 # Tales Before the Fall
->[!info]+ Information  
-> A [[Giants|Giant]] mythic history, written in ancient days  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+> [!taelgar-header]
+> (Giant mythic history)
 
 Tales Before the Fall is a large book, standing 4 feet tall, written in Giant, that preserves ancient myths and legends telling of the origin of giants and their deeds in ancient days. Only one original copy, now kept in the library on [[Vindristjarna]], is known to survive outside of giant strongholds, though others may yet be discovered; the myths and legends, however, are recorded elsewhere in translation.
 

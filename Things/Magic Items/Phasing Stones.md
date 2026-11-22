@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:07:38-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -15,9 +14,8 @@ dm_notes: important
 POV: modern
 ---
 # Phasing Stones
->[!info]+ Information  
-> ([[Giants|giant]] magic stone)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+> [!taelgar-header]
+> (giant magic stone)
 
 Phasing stones are ancient fragments of magical energy that power the reality-twisting constructions of the giants. Each phasing stone is a unique construction, that embeds something of another plane into its very fabric, and allows the attuned user, with enough skill and practice, to manipulate that planar energy in a potent way. 
 

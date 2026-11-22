@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:07:38-04:00"
 lintVersion: "3.5"
 tags: [object, testcase, status/check/lint]
@@ -23,12 +22,8 @@ dm_notes: important
 POV: modern
 ---
 # The Scepter of Command
->[!info]+ Information
+> [!taelgar-header]
 > (unique scepter)
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Destroyed by [[Dunmar Fellowship]] on December 25th, 1748 in [[Vetta]], [[Skaerhem]] %%^End%%
 
 ![[scepter-of-command.jpg|right|300]]%% needs to incorporate some secrets in to the note, as most have been revealed in game by now %%
 

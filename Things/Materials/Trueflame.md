@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-28T23:44:57-04:00"
 lintVersion: "3.5"
 tags: [object]
@@ -12,9 +11,8 @@ dm_notes: none
 POV: modern
 ---
 # Trueflame
->[!info]+ Information  
-> (alchemical substance)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+> [!taelgar-header]
+> (alchemical substance)
 
 Trueflame is an alchemical substance that burns with exceptional heat, hot enough to unmake certain enchanted metals.
 

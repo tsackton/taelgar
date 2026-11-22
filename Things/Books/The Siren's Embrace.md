@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T22:52:37-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: "", boxInfo: "<ancestry:AU> <typeof:AUn><(, written )written:nx><(, by )author>", startStatus: completed in}
@@ -14,9 +13,8 @@ dm_notes: none
 POV: modern
 ---
 # The Siren's Embrace
->[!info]+ Information  
-> A play  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+> [!taelgar-header]
+> (Drankorian play)
 
 *The Siren's Embrace* is a famous tragedy that shaped poetic images of the [[Elemental Plane of Water]]. It includes a vision of a vast coral reef bursting with life beneath a shimmering sea.
 

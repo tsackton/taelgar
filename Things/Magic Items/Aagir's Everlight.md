@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:07:38-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -14,9 +13,8 @@ dm_notes: none
 POV: modern
 ---
 # Aagir's Everlight
->[!info]+ Information  
-> ([[Dunmar|Dunmari]] magic wondrous item)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+> [!taelgar-header]
+> (Dunmari magic wondrous item)
 
 A small silver statue (about as big as a hand), of a spear point decorated in etched flames; the tip burns with a continual flame, seemingly not consuming fuel. These are a common Dunmari item used to provide light in temples.
 

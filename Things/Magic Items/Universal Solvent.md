@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:07:38-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -12,9 +11,8 @@ dm_notes: important
 POV: modern
 ---
 # Universal Solvent
->[!info]+ Information  
-> (alchemical substance)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+> [!taelgar-header]
+> (alchemical substance)
 
 Universal Solvent is an exceptionally rare alchemical liquid capable of dissolving anything, even planar connections and powerful magical artifacts. It is typically stored in small crystal vials and used sparingly.
 

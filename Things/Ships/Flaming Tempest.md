@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:07:38-04:00"
 lintVersion: "3.5"
 displayDefaults: {boxInfo: "<ancestry> <subTypeOf>", ruledBy: "<affiliationtitle:t>: <name> <(of )primary>"}
@@ -14,9 +13,8 @@ dm_notes: important
 POV: modern
 ---
 # The Flaming Tempest
->[!info]+ Information  
-> [[Skaer]] pirate ship  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+> [!taelgar-header]
+> (Skaer pirate ship vehicle)
 
 The Flaming Tempest is a well-built, double-masted [[Skaer]] longship, with space for a crew of 40 and seaworthy for long voyages over open ocean. 
 %%^Date:1747-04-09%%
