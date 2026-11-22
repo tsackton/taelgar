@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:49:48-04:00"
 lintVersion: "3.5"
 displayDefaults: {wOrigin: "", wOriginU: "", defArt: ""}
@@ -20,11 +19,8 @@ knownTo: [dufr]
 POV: modern
 ---
 # Agata's Raven Whistle
->[!info]+ Information  
-> (rare [[Fey|fey]] magic instrument)  
-> [Mechanics](https://www.dndbeyond.com/magic-items/3819621-raven-whistle)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (rare fey magic instrument)
 
 ![[raven-whistle-kenzo.jpeg|right|200]]A whistle carved from the bone of a giant bird, radiating transmutation magic. 
 

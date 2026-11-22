@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:49:48-04:00"
 lintVersion: "3.5"
 displayDefaults: {ltPerson: trapped in}
@@ -18,10 +17,8 @@ knownTo: [dufr]
 POV: 1749
 ---
 # The Mirror of Soul Trapping
->[!info]+ Information  
-> (very rare magical mirror)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (very rare magical mirror)
 
 %%need to decide if this is a one-off item, unique, or a representative of a class of items, and refactor text as appropriate; also maybe remove the game mechanics to a D&D Beyond link %%
 

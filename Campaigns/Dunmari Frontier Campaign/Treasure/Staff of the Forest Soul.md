@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:49:48-04:00"
 lintVersion: "3.5"
 tags: [object, status/cleanup/text, status/check/lint]
@@ -11,10 +10,8 @@ knownTo: [dufr]
 POV: modern
 ---
 # The Staff of the Forest Soul
->[!info]+ Information  
-> (unique staff)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (unique staff)
 
 %% disentangle mechanics from text %%
 

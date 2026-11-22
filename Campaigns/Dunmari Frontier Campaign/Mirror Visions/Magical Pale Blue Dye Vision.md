@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T09:04:07-04:00"
 lintVersion: "3.5"
 displayDefaults: {dPastHasStart: "Seen on <startdate>", defArt: ""}
@@ -11,8 +10,8 @@ name: Magical Pale Blue Dye Vision
 POV: 1749
 ---
 # Magical Pale Blue Dye Vision
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> [!taelgar-header]
+> (vision, February 17, 1749)
 
 You hold up a tiny vial of a pale blue dye, borrowed from [[Cecilia Lister]], to the [[Mirror of the Past]], as the image shifts.
 

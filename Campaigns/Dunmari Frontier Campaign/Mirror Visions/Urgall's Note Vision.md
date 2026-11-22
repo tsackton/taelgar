@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T09:04:07-04:00"
 lintVersion: "3.5"
 displayDefaults: {dPastHasStart: "Seen on <startdate>", defArt: ""}
@@ -11,8 +10,8 @@ name: "Urgall's Note Vision"
 POV: 1748
 ---
 # Urgall's Note Vision
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> [!taelgar-header]
+> (vision, December 30, 1748)
 
 You hold the thin piece of parchment up to the mirror, and watch as the scene fades. 
 

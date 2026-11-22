@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T09:04:07-04:00"
 lintVersion: "3.5"
 displayDefaults: {dPastHasStart: "Seen on <startdate>", defArt: ""}
@@ -11,8 +10,8 @@ name: "Apollyon's Crystal Ball Vision"
 POV: 1749
 ---
 # Apollyon's Crystal Ball Vision
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> [!taelgar-header]
+> (vision, June 16, 1749)
 
 You hold Apollyon's crystal ball to the mirror. For a moment, all you can see is Apollyon's face staring back at you, his pinpoint eyes seemingly alive with malice as he meets your gaze. 
 

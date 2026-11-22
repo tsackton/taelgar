@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:26:32-04:00"
 lintVersion: "3.5"
 tags: [object]
@@ -10,9 +9,8 @@ knownTo: [dufr]
 POV: modern
 ---
 # The Flaming Tempest Log Books
->[!info]+ Information  
-> ([[Skaer]] logbook)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+> [!taelgar-header]
+> (Skaer logbook)
 
 The log books of the [[Flaming Tempest]]. [[Wellby]], using his experience in navigation, was able to reconstruct the path of the Flaming Tempest based on these logs:
 

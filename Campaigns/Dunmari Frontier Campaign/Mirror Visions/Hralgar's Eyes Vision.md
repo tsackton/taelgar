@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T14:23:24-04:00"
 lintVersion: "3.5"
 displayDefaults: {dPastHasStart: "Seen on <startdate>", defArt: ""}
@@ -12,8 +11,8 @@ POV: 1748
 ---
 # Hralgar's Eyes Vision
 *(HRAL-gar)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> [!taelgar-header]
+> (vision, September 22, 1748)
 
 You hold the giant's eyes to the mirror, trying to see how they ended up this way, how Hralgar was bound and caught.
 

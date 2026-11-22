@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T23:47:22-04:00"
 lintVersion: "3.5"
 tags: [object]
@@ -15,10 +14,8 @@ knownTo: [clee]
 POV: modern
 ---
 # The Shield of False Life
->[!info]+ Information  
-> ([[Drankorian Empire|Drankorian]] magic shield)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (Drankorian magic shield)
 
 ![[shield-of-false-life.png|right|320]]A slightly battered Drankorian shield with an ever shifting set of sigils on its face, found in [[Wakog's Camp]]. 
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:49:48-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -12,9 +11,8 @@ knownTo: [dufr]
 POV: modern
 ---
 # Urgall's Scroll
->[!info]+ Information  
-> ([[Skaer]] ciphered scroll)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+> [!taelgar-header]
+> (Skaer ciphered scroll)
 
 A ciphered scroll, recovered from the captain's cabin on the [[Flaming Tempest]], in the hand of [[Urgall the Black]]. It reads, in translation:
 

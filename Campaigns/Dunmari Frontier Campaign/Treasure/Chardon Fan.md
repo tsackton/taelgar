@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:26:32-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -12,10 +11,8 @@ knownTo: [dufr]
 POV: 1740s
 ---
 # Chardon Fan
->[!info]+ Information  
-> (object of art)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (fan)
 
 ![[chardon-fan.png|right|250]]A cotton and bamboo hand fan depicting the towers of [[Chardon]], the intricate design painted onto the fan by a very skilled artist.
 

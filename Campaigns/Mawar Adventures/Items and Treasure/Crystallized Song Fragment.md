@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T23:47:22-04:00"
 lintVersion: "3.5"
 tags: [object, status/check/lint]
@@ -12,10 +11,8 @@ dm_notes: none
 POV: modern
 ---
 # The Crystallized Song of the Sentient Ocean
->[!info]+ Information  
-> (crystal)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (crystal)
 
 A strange, magical crystal fragment connected to the [[Sentient Ocean]]. It was associated with the [[Shrine to Guzo the Mariner]] in [[Hamri]] for many years, though the story of how it came to be there is not known. It was later [[Mawar Adventures Episode 05|recovered]] by the [[Adventurers of Mawar]] and given to [[Rayna]], to return to [[Omi]]. 
 

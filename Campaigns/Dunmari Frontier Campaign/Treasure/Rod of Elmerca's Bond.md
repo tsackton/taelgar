@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:49:48-04:00"
 lintVersion: "3.5"
 tags: [object]
@@ -12,10 +11,8 @@ knownTo: [dufr]
 POV: modern
 ---
 # The Rod of Elmerca's Bond
->[!info]+ Information  
-> (rare rod)  
-> [Mechanics](https://www.dndbeyond.com/magic-items/9217523-rod-of-elmercas-bond)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+> [!taelgar-header]
+> (rare rod)
 
 
 The Rod of Elmerca's Bond is a silver magical rod decorated with a spiraling motif and holding a pearly orb.

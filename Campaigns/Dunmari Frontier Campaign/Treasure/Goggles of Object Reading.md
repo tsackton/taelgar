@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:26:32-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -14,10 +13,8 @@ knownTo: [dufr]
 POV: modern
 ---
 # Goggles of Object Reading
->[!info]+ Information  
-> ([[Drankorian Empire|Drankorian]] magical glasses)  
-> [Mechanics](https://www.dndbeyond.com/magic-items/2984533-goggles-of-object-reading)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+> [!taelgar-header]
+> (Drankorian magical glasses)
 
 These are a pair of goggles, with lenses made of polished purple gems, that are designed to allow the detailed study of objects. 
 

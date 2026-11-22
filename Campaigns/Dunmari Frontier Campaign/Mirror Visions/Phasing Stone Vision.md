@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T09:04:07-04:00"
 lintVersion: "3.5"
 displayDefaults: {dPastHasStart: "Seen on <startdate>"}
@@ -11,8 +10,8 @@ name: Phasing Stone Vision
 POV: 1749
 ---
 # The Phasing Stone Vision
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> [!taelgar-header]
+> (vision, March 27, 1749)
 
 A vision of the [[Phasing Stones|Phasing Stone]] from [[Hralgar's Palace]] seen in the [[Mirror of the Past]].
 

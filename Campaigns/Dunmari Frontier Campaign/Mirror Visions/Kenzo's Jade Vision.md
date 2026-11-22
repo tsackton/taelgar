@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T09:04:07-04:00"
 lintVersion: "3.5"
 displayDefaults: {dPastHasStart: "Seen on <startdate>", defArt: ""}
@@ -11,8 +10,8 @@ name: "Kenzo's Jade Vision"
 POV: 1748
 ---
 # Kenzo's Jade Vision
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> [!taelgar-header]
+> (vision, April 27, 1748)
 
 
 As you hold the [[Jade Piece of Rai's Hand]] up to the mirror, images flash before your eyes.  
