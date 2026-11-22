@@ -21,11 +21,13 @@ async function main() {
   installObsidianExtensions();
   const input = JSON.parse(fs.readFileSync(0, "utf8"));
   const files = input.files;
+  const filesByPath = new Map(files.map(file => [file.path, file]));
   const app = {
     vault: {
       configDir: ".obsidian",
       getRoot: () => ({path: ""}),
       getMarkdownFiles: () => files,
+      getAbstractFileByPath: filePath => filesByPath.get(filePath) ?? null,
       adapter: {read: async p => fs.readFileSync(path.join(input.root, p), "utf8")},
     },
     metadataCache: {

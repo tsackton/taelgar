@@ -893,19 +893,6 @@ def materialize_model_layer(
     return review_payload, attribution_payload, summary
 
 
-def predict_participant(
-    *,
-    np: Any,
-    participant_ids: list[str],
-    references: list[dict[str, Any]],
-    embedding: Any,
-    excluded_group_id: str | None,
-) -> tuple[str, float] | None:
-    prediction = score_participant(np=np, participant_ids=participant_ids, references=references,
-                                  embedding=embedding, excluded_group_id=excluded_group_id)
-    return (prediction[0], prediction[1]) if prediction else None
-
-
 def validate_confidence_policy(margin: float | None, cosine: float | None) -> None:
     if margin is not None and (not math.isfinite(margin) or not 0 <= margin <= 2):
         raise SpeakerReviewError("--minimum-model-margin must be finite and between 0 and 2")

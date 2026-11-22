@@ -2,7 +2,10 @@ import unittest
 import json
 import os
 from pathlib import Path
+import shutil
 import subprocess
+import sys
+import tempfile
 import yaml
 from regenerate_header import frontmatter, replace_header
 
@@ -53,26 +56,44 @@ class StandaloneRuntimeTests(unittest.TestCase):
     root = Path(__file__).resolve().parents[4]
 
     def test_full_header_renders_without_obsidian_or_preload(self):
-        metadata = {
-            'name': 'Fixture Person', 'species': 'human',
-            'pronunciation': 'FIX-cher',
-            'whereabouts': [{'type': 'home', 'location': 'Fixture Place'}],
-            'affiliations': ['Fixture Group'],
-            'campaignInfo': [{'campaign': 'dufr', 'date': '1748-08-23', 'type': 'met'}],
-        }
-        files = [{'path': name + '.md', 'basename': name, 'frontmatter': fm}
-                 for name, fm in [('Fixture Person', metadata),
-                                  ('Fixture Place', {'name': 'Fixture Place', 'tags': ['place']}),
-                                  ('Fixture Group', {'name': 'Fixture Group', 'tags': ['group']})]]
-        payload = {'root': str(self.root), 'files': files, 'name': 'Fixture Person',
-                   'metadata': metadata, 'date': '1750-01-01'}
-        environment = dict(os.environ)
-        environment.pop('NODE_OPTIONS', None)
-        result = subprocess.run(['node', str(Path(__file__).with_name('render_header.js'))],
-                                input=json.dumps(payload), text=True, encoding='utf-8',
-                                capture_output=True, env=environment, check=True)
-        self.assertIn('*(FIX-cher)*', result.stdout)
-        self.assertIn('August 23rd, 1748', result.stdout)
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            shutil.copytree(self.root / '_scripts/customJS', root / '_scripts/customJS',
+                            ignore=shutil.ignore_patterns('.*'))
+            (root / '.obsidian').mkdir()
+            (root / '.obsidian/metadata.json').write_text(json.dumps({
+                'requiredDisplayDefaults': {'boxName': 'Fixture Info', 'wParty': 'Met <person:q> on <target>'},
+            }), encoding='utf-8')
+            (root / '_sessions').mkdir()
+            (root / '_sessions/campaign-registry.json').write_text(
+                json.dumps({'voy': 'Index.md'}), encoding='utf-8')
+            notes = {
+                'Index': {'name': 'Fixture Voyage', 'partyPage': 'Fixture Party.md'},
+                'Fixture Party': {'tags': ['group']},
+                'Fixture Place': {'tags': ['place']},
+                'Fixture Person': {
+                    'name': 'Fixture Person', 'species': 'human', 'pronunciation': 'FIX-cher',
+                    'whereabouts': [{'type': 'home', 'location': 'Fixture Place'}],
+                    'campaignInfo': [{'campaign': 'voy', 'date': '1748-08-23', 'type': 'met'}],
+                },
+            }
+            for name, metadata in notes.items():
+                (root / (name + '.md')).write_text(
+                    '---\n' + yaml.safe_dump(metadata) + '---\n', encoding='utf-8')
+            note = root / 'Fixture Person.md'
+            original = note.read_bytes()
+            environment = dict(os.environ)
+            environment.pop('NODE_OPTIONS', None)
+            result = subprocess.run(
+                [sys.executable, str(Path(__file__).with_name('regenerate_header.py')),
+                 str(note), '--root', str(root), '--date', '1750-01-01'],
+                capture_output=True, text=True, encoding='utf-8', env=environment)
+            self.assertEqual(result.returncode, 0, result.stderr)
+            self.assertIn('*(FIX-cher)*', result.stdout)
+            self.assertIn('Fixture Info', result.stdout)
+            self.assertIn('Fixture Party', result.stdout)
+            self.assertIn('August 23rd, 1748', result.stdout)
+            self.assertEqual(note.read_bytes(), original)
 
     def test_day_ordinals_include_twenty_first_and_teens(self):
         script = r'''

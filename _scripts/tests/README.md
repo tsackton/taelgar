@@ -17,14 +17,16 @@ Run all vault regression tests without copying any working notes, templates,
 registries, generated indexes, or skill prose:
 
 ```sh
-python3 _scripts/tests/run_isolated.py
+PYTHONPATH=.agents/skills/process-transcript/scripts python3 _scripts/tests/run_isolated.py
 ```
 
 This runner discovers the Python, Ruby, and JavaScript tests in the first-party
-code directories and runs them in a temporary code-and-fixture-only tree. It
-does not move or hide anything in the working vault. Python needs PyYAML and
-Pillow; Ruby and Node.js must be available. Use `--python`, `--ruby`, or `--node`
-to select runtimes. The caller's environment is inherited, so Python packages
+code directories and runs them in a temporary tree with the source, test
+fixtures, and the two JSON schemas used by the session and interaction validators.
+The relative `PYTHONPATH` lets the transcript tests import their scripts inside
+that copy. Python needs PyYAML, Pillow, and jsonschema. Ruby and Node.js must
+be available. Use `--python`, `--ruby`, or `--node` to select runtimes.
+The caller's environment is inherited, so Python packages
 can also be supplied through `PYTHONPATH`. This is data isolation for regression
 testing, not an operating-system sandbox against arbitrary file access.
 

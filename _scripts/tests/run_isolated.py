@@ -20,6 +20,10 @@ CODE_ROOTS = (
     ".obsidian/plugins/taelgar-dataview-materializer",
 )
 SOURCE_SUFFIXES = {".py", ".rb", ".js", ".mjs", ".swift", ".html"}
+SCHEMA_FILES = {
+    Path(".agents/skills/check-session-entities/references/session.schema.json"),
+    Path(".agents/skills/extract-entity-passages/references/interactions.schema.json"),
+}
 SKIP_DIRS = {".git", "node_modules", "__pycache__", ".pytest_cache", ".venv", "venv"}
 
 
@@ -38,7 +42,7 @@ def copy_test_tree(destination: Path) -> None:
             for name in sorted(filenames):
                 source = Path(directory) / name
                 relative = source.relative_to(ROOT)
-                if source.suffix not in SOURCE_SUFFIXES and not test_fixture(relative):
+                if source.suffix not in SOURCE_SUFFIXES and relative not in SCHEMA_FILES and not test_fixture(relative):
                     continue
                 if source.is_symlink():
                     raise ValueError(f"Test inputs must not link to working data: {relative}")

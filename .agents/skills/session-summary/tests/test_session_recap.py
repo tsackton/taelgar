@@ -561,23 +561,30 @@ class BuildSessionRecapTest(SessionRecapBase):
 
 
 class ManageSessionRecapTest(SessionRecapBase):
-    def test_valid_recap_passes_validation(self) -> None:
-        workspace = self.make_workspace()
-        result = self.run_context_builder(workspace)
-        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+    def test_valid_session_and_arc_recaps_pass_validation(self) -> None:
+        for scope, heading in [("session", "## Session Header"), ("arc", "## Arc Header")]:
+            with self.subTest(scope=scope):
+                workspace = self.make_workspace()
+                manifest = workspace / SESSION_MANIFEST
+                session = self.load_yaml(manifest)
+                session["scope"] = scope
+                self.write_yaml(manifest, session)
+                result = self.run_context_builder(workspace)
+                self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
 
-        result = self.run_recap_builder(workspace)
-        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+                result = self.run_recap_builder(workspace)
+                self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
 
-        recap_path = workspace / "recap" / "test-session-007-session-recap.md"
-        recap_text = recap_path.read_text(encoding="utf-8").replace("TODO", "Drafted text.")
-        recap_text = recap_text.replace("- Tagline: Drafted text.", "- Tagline: in which the party descends.")
-        recap_path.write_text(recap_text, encoding="utf-8")
+                recap_path = workspace / "recap" / "test-session-007-session-recap.md"
+                recap_text = recap_path.read_text(encoding="utf-8").replace("TODO", "Drafted text.")
+                recap_text = recap_text.replace("- Tagline: Drafted text.", "- Tagline: in which the party descends.")
+                self.assertIn(heading, recap_text.splitlines())
+                recap_path.write_text(recap_text, encoding="utf-8")
 
-        result = self.run_recap_validator(workspace)
+                result = self.run_recap_validator(workspace)
 
-        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
-        self.assertIn("Validated", result.stdout)
+                self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+                self.assertIn("Validated", result.stdout)
 
     def test_locations_without_sublocations_fail_agent_validation(self) -> None:
         workspace = self.make_workspace()

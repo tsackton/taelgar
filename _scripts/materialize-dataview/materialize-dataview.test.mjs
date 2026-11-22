@@ -10,7 +10,6 @@ import {
   formatProgressLine,
   formatReportOutcome,
   parseArgs,
-  summarizeReport,
   truncateLine,
   writePrefixedLines,
 } from "./materialize-dataview.mjs";
@@ -198,50 +197,6 @@ test("buildObsidianCliArgs uses eval code and optional vault target", () => {
     "eval",
     "code=1 + 1",
   ]);
-});
-
-test("summarizeReport includes performance timings when present", () => {
-  const summary = summarizeReport({
-    status: "ok",
-    exitCode: 0,
-    mode: "write",
-    strict: false,
-    dynamicWebsite: true,
-    counts: {
-      filesScanned: 2,
-      filesSkipped: 1,
-      filesChanged: 2,
-      dataviewBlocks: 0,
-      dataviewJsBlocks: 0,
-      inlineExpressions: 0,
-      headersRegenerated: 2,
-      unsupported: 0,
-      errors: 0,
-      remainingDataviewBlocks: 0,
-      remainingDataviewJsBlocks: 0,
-      remainingInlineExpressions: 0,
-    },
-    performance: {
-      totalMs: 100,
-      prepareRuntimeMs: 10,
-      processFilesMs: 70,
-      copyMs: 20,
-      timingTotals: {
-        readMs: 30,
-        headerMs: 5,
-        dataviewMs: 10,
-        dataviewJsMs: 20,
-        inlineMs: 0,
-        totalFileMs: 65,
-      },
-      slowFiles: [{ path: "A.md", totalMs: 50 }],
-    },
-  });
-
-  assert.equal(summary.performance.totalMs, 100);
-  assert.equal(summary.dynamicWebsite, true);
-  assert.equal(summary.performance.timingTotals.readMs, 30);
-  assert.deepEqual(summary.performance.slowFiles, [{ path: "A.md", totalMs: 50 }]);
 });
 
 test("formatProgressLine describes startup before file counts are known", () => {

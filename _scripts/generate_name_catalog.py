@@ -635,14 +635,6 @@ def extract_text_aliases(body: str, primary: str) -> list[dict[str, object]]:
     return output
 
 
-def language_from_context(context: str, basis: str) -> Language | None:
-    lowered = f" {context.casefold()} "
-    for keywords, family, language in LANGUAGE_KEYWORDS:
-        if any(keyword in lowered for keyword in keywords):
-            return Language(family, language, "explicit", basis)
-    return None
-
-
 def language_from_naming_context(
     context: str,
     name: str,

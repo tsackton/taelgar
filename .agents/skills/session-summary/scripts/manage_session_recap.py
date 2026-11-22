@@ -6,13 +6,22 @@ from __future__ import annotations
 
 import argparse
 import re
+import sys
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Sequence, Tuple
 
 import yaml
 
 from participant_inference import infer_session_header_participants
-from recap_markdown import SessionRecapParseError, parse_session_recap
+
+sys.path.insert(0, str(Path(__file__).resolve().parents[4] / "_scripts"))
+from session_recap import (
+    IMAGE_ROLES,
+    IMAGE_SIZES,
+    SessionRecapParseError,
+    normalize_optional_string,
+    parse_recap_body,
+)
 
 REQUIRED_BODY_SECTIONS = (
     "## Timeline",
@@ -33,8 +42,6 @@ RECAP_META_OPENERS = (
     r"^this beat\b",
     r"^this section\b",
 )
-IMAGE_ROLES = {"aside", "figure", "hero"}
-IMAGE_SIZES = {"small", "standard", "large"}
 IMAGE_PLACEMENTS = {"start", "before", "top", "beginning", "end", "after", "bottom"}
 IMAGE_METADATA_RE = re.compile(
     r"^Image(?: (?P<number>[1-9]\d*))?(?: (?P<field>Role|Size|Placement|Render|Caption|Alt))?$"
@@ -71,24 +78,26 @@ def validate_recap(context: Dict[str, Any], text: str) -> List[str]:
 
     body_lines = text.splitlines()
     session_payload = read_yaml_mapping(Path(context["sessionPath"]))
-    validate_sections(body_lines, session_payload, errors)
-    validate_session_header(body_lines, session_payload, errors)
+    header_heading = "## Arc Header" if normalize_optional_string(session_payload.get("scope")) == "arc" else "## Session Header"
+    validate_sections(body_lines, header_heading, errors)
+    validate_session_header(body_lines, header_heading, session_payload, errors)
     validate_timeline_blocks(context, body_lines, errors)
     validate_recap_blocks(context, body_lines, errors)
     validate_combat_blocks(context, body_lines, errors)
     try:
-        parse_session_recap(text)
+        recap = parse_recap_body(text, header_heading=header_heading)
     except SessionRecapParseError as exc:
         errors.extend(exc.errors)
+    else:
+        for location in recap["locations"]:
+            if not location["legacyFormat"] and not normalize_optional_string(location["sublocations"]):
+                errors.append(f"Locations entry '{location['name']}' is missing Sublocations.")
     return errors
 
 
-def validate_sections(lines: Sequence[str], session_payload: Dict[str, Any], errors: List[str]) -> None:
+def validate_sections(lines: Sequence[str], header_heading: str, errors: List[str]) -> None:
     headings = [line.strip() for line in lines if line.startswith("## ")]
-    required_sections = [
-        "## Arc Header" if normalize_optional_string(session_payload.get("scope")) == "arc" else "## Session Header",
-        *REQUIRED_BODY_SECTIONS,
-    ]
+    required_sections = [header_heading, *REQUIRED_BODY_SECTIONS]
     position = 0
     for required in required_sections:
         try:
@@ -99,8 +108,9 @@ def validate_sections(lines: Sequence[str], session_payload: Dict[str, Any], err
         position = index + 1
 
 
-def validate_session_header(lines: Sequence[str], session_payload: Dict[str, Any], errors: List[str]) -> None:
-    header_heading = "## Arc Header" if normalize_optional_string(session_payload.get("scope")) == "arc" else "## Session Header"
+def validate_session_header(
+    lines: Sequence[str], header_heading: str, session_payload: Dict[str, Any], errors: List[str]
+) -> None:
     required_fields = {
         "Title": None,
         "Desc Title": None,
@@ -487,13 +497,6 @@ def read_yaml_mapping(path: Path) -> Dict[str, Any]:
     if not isinstance(payload, dict):
         raise SystemExit(f"Expected a YAML mapping in {path}")
     return payload
-
-
-def normalize_optional_string(value: Any) -> Optional[str]:
-    if value is None:
-        return None
-    text = str(value).strip()
-    return text or None
 
 
 if __name__ == "__main__":
