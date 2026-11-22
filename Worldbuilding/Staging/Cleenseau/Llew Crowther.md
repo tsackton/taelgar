@@ -11,9 +11,8 @@ knownTo: [clee]
 POV: 1710s
 ---
 # Llew Crowther
->[!info]+ Biographical Info  
-> A [[Tyrwingha|Tyrwinghan]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+
+A [[Tyrwingha|Tyrwinghan]] [[Humans|human]] (he/him)
 
 %% Llew is Ellis Crowther's mirror twin, a right-handed musician and instrument maker from Clawyn, and a childhood friend of Celyn. %%
