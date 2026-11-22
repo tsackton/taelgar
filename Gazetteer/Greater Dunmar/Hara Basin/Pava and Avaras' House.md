@@ -2,7 +2,7 @@
 lintedAt: "2026-10-20T11:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-tags: [place]
+tags: [place, status/check/ai]
 typeOf: building
 typeOfAlias: house
 campaignInfo: []
@@ -20,7 +20,9 @@ House of [[Avaras]] and [[Pava]] in the desert east of [[Karawa]], on the northe
 
 A small compound, sandstone building, courtyard, well and oasis with a garden, goats and chickens nearby, penned in with hay and seed.
 
-![[pava-avaras-house.jpg]]
+> [!image|figure standard]
+> ![[pava-avaras-house.webp]]
+> *Pava and Avaras' house*
 
 %%
 ### DM evidence

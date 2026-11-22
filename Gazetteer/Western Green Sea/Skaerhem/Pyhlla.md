@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T11:59:58-04:00"
 lintVersion: "3.5"
-tags: [place, status/check/lint]
+tags: [place, status/check/lint, status/check/ai]
 typeOf: settlement
 typeOfAlias: town
 ancestry: Skaer
@@ -45,7 +45,9 @@ All pilgrims to [[Vetta]] must accept the blessing of [[Kaikkea]]. This involves
 
 %%SECRET[v2:8c1ed4e3f74588ecd718638ec0a649bd]%%
 
-![[pyhlla-village-church.png]]
+> [!image|figure standard]
+> ![[pyhlla-village-church.webp]]
+> *Coastal stone hall at sunset*
 
 %%^Metadata:names:v1%%
 - {"name": "Pyhlla", "language": "unknown", "pronunciation": "PIE-hu-lla", "status": "documented"}

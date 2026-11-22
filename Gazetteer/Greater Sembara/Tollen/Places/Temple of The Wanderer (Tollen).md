@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T06:59:58-04:00"
 lintVersion: "3.5"
-tags: [place, status/check/lint]
+tags: [place, status/check/lint, status/check/ai]
 typeOf: holy site
 typeOfAlias: temple
 name: Temple of the Wanderer (Tollen)
@@ -18,7 +18,9 @@ POV: modern
 
 The Temple of the Wanderer in [[Tollen]] is one of the largest and most ambitious Mos Numena temples in the city, a great stone church crowned by a massive spire and belltower that dominates the skyline of [[Godshome]].
 
-![[temple-of-wanderer-v2.png]]
+> [!image|figure standard]
+> ![[temple-of-wanderer-v2.webp]]
+> *Temple of the Wanderer above the street*
 
 %%^Metadata:names:v1%%
 - {"name":"Temple of the Wanderer (Tollen)","language":"unknown","pronunciation":"TEM-puhl uhv thuh WAHN-der-er (TOL-en)","status":"proposed","notes":"The descriptive words use ordinary English. Tollen follows a proposed reading from the regional Tollish English analogue in Languages: initial stress, o as in doll, and a reduced second syllable. The specific name language and exact in-world pronunciation are not established."}

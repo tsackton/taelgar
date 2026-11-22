@@ -2,10 +2,10 @@
 lintedAt: "2026-10-19T23:47:22-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-tags: [object]
+tags: [object, status/check/ai]
 typeOf: cloak
 subTypeOf: magic
-image: "[[ranger-cloak-of-concealment.png]]"
+image: "[[ranger-cloak-of-concealment.webp]]"
 pcOwner: Celyn
 name: Cloak of Concealment
 whereabouts: Celyn
@@ -16,7 +16,10 @@ POV: modern
 > [!taelgar-header]
 > (magic cloak)
 
-![[ranger-cloak-of-concealment.png|right|320]]A finely made green and white cloak found in a Ranger’s chest in the ruined hobgoblin fort under [[Cleenseau]]. Likely dates from the early 1600s.
+> [!image|right]
+> ![[ranger-cloak-of-concealment.webp|320]]
+
+A finely made green and white cloak found in a Ranger’s chest in the ruined hobgoblin fort under [[Cleenseau]]. Likely dates from the early 1600s.
 
 ### Mechanics
 _Requires Attunement_

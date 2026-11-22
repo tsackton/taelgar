@@ -16,7 +16,7 @@ Time, among the wizards, the twisted beacon of hope that has sat on the
 hill above Fellburn for time immemorial.
 
 The Oracle of Hope.
-![[oracle-of-hope.jpg]]
+![[oracle-of-hope.webp]]
 
 No one knows where it came from, or what it is, but sometimes, at random -
 sometimes, once an hour, or sometimes once in a week, it will sing, to

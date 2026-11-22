@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-11-12T19:02:10-05:00"
 lintVersion: "3.5"
-tags: [session-note, status/check/lint]
+tags: [session-note, status/check/lint, status/check/ai]
 campaign: dufr
 sessionNumber: 73
 realWorldDate: 2023-03-17
@@ -50,7 +50,9 @@ As the rest ends, [[Seeker]] has wandered off from the fire, and is enjoying a m
 
 In the library, the party does not find the phasing stone, but does find a strange doorway that shifts appearance based on whoever looks at it. When [[Delwath]]'s moth scout enters but does not return, the party ventures into the doorway, which opens into a long hallway that seems to continue endlessly in both directions.
 
-![[dufr-073-nightmare-maze-corridor.png]]
+> [!image|figure standard]
+> ![[dufr-073-nightmare-maze-corridor.webp]]
+> *Vaulted corridor in near-black and white*
 
 The corridor leads to an empty throne room, with an empty small side chamber next to it. As the party begins to better understand this place and realize they can attempt to shape it with their thoughts and wishes, a silver bowl of shaved ice appears that [[Seeker]] tries to eat. The party experiments a bit with keeping [[Seeker]] from the ice, and then decides to try to clear their minds.
 
@@ -58,11 +60,14 @@ The corridor leads to an empty throne room, with an empty small side chamber nex
 
 [[Seeker]], along with the heroic [[Ladder]] now sporting a dozen or more medals of honor, leaps to head in that direction, and the party follows. As the wind grows more intense, flashes of images can be seen, people struggling against snow and ice, freezing slowly until a round pulsating stone, the phasing stone, falls out of one of their hands.
 
-![[dufr-073-phasing-stone.png]]
+> [!image|right standard]
+> ![[dufr-073-phasing-stone.webp]]
 
 The party dives through the floor into an empty space, in which the phasing stone floats. 
 
-![[dufr-073-nightmare-empty.png]]
+> [!image|figure standard]
+> ![[dufr-073-nightmare-empty.webp]]
+> *Nightmare, empty dunes*
 
 After a few failed attempts to capture it, the party realizes that working together is the only way to outdream [[Kurome]]. [[Seeker]] dreams a storm of hail and snow pelting the stone, which bursts into flame; [[Delwath]] dreams a giant hunting bird of water, dousing the stone, which turns to ice; [[Riswynn]] then dreams a wall of fire scorching the ice, and [[Kenzo]] adds a lightning storm with flying boulders crushing it. The stone turns to solid volcanic rock, and falls through the water bird, into [[Wellby]]'s dreaming: the [[Portable Hole]].
 

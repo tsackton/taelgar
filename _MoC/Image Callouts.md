@@ -32,7 +32,7 @@ Use `small` for compact heraldry, symbols, or objects:
 
 ```markdown
 > [!image|right small]
-> ![[duval-shield.png]]
+> ![[duval-shield.webp]]
 > *The shield of House Duval.*
 ```
 

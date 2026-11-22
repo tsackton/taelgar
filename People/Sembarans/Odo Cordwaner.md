@@ -26,7 +26,10 @@ POV: 1720
 > [!taelgar-header]
 > (human, Sembaran, he/him, b. 1700)
 
-![[odo-cordwaner.png|right|320]] Until recently a sergeant of the [[Army Garrison of Cleenseau|Bridge Patrol]], he was discharged after failing to heed orders during the [[Festival of the Bridge]]. He allowed [[Francois the Bandit|François the Bandit]] access to the food area, despite specific warnings to be on the lookout.
+> [!image|right]
+> ![[odo-cordwaner.webp|320]]
+
+Until recently a sergeant of the [[Army Garrison of Cleenseau|Bridge Patrol]], he was discharged after failing to heed orders during the [[Festival of the Bridge]]. He allowed [[Francois the Bandit|François the Bandit]] access to the food area, despite specific warnings to be on the lookout.
 
 Investigation determined that he was not malicious, but just careless. In the excitement of the festival, he failed to pay attention as he should have. He was discharged from the [[Army of the West]], but at the intervention of [[Robin of Abenfyrd|Robin]], was hired by the [[Essfords]] to provide a steady presence in [[Taviose]].
 

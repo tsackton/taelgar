@@ -20,7 +20,10 @@ POV: 1720
 > [!taelgar-header]
 > (human, Sembaran, he/him, b. 1659, lives in Duchy of Wisford)
 
-![[duke-of-wisford-2.png|right|320]]The Duke of Wisford is energetic for his age, and is an active campaigner and astute political observer. 
+> [!image|right]
+> ![[duke-of-wisford-2.webp|320]]
+
+The Duke of Wisford is energetic for his age, and is an active campaigner and astute political observer.
 
 %% Household
 * Wife: Isabelle 

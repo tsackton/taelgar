@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-23T23:02:51-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/mike]
+tags: [person, status/check/mike, status/check/ai]
 species: lizardfolk
 ancestry: null
 gender: female
@@ -19,7 +19,10 @@ POV: 1720
 
 %% check mike - confirm pronunciation %%
 
-![[lizardfolk-unai.png|right|320]]An herbalist and healer, teacher of [[Gentza]]. She is well-known in the region, but unlike her student, does not usually sell her remedies or bring them to human markets. 
+> [!image|right]
+> ![[lizardfolk-unai.webp|320]]
+
+An herbalist and healer, teacher of [[Gentza]]. She is well-known in the region, but unlike her student, does not usually sell her remedies or bring them to human markets.
 
 %%^Metadata:names:v1%%
 - {name: Unai, role: primary, language: Lizardling, pronunciation: oo-NYE, status: proposed, notes: "Lizardling Basque analogue; the initial u is read as oo and final ai as the eye diphthong."}

@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: lizardfolk
 ancestry: null
 campaignInfo:
@@ -21,7 +21,10 @@ POV: 1748
 > [!taelgar-header]
 > (lizardfolk, he/him, b. 1665, lives in Bedez)
 
-![[elazar-portrait.png|right|400]]A lizardfolk man in the prime of his life, a prophet, seer, and spirit guide who has deeply felt visions and exceptional perception into the spirit realms. A bit of an outcast in his village, seen as someone who sees trouble in everything.
+> [!image|right]
+> ![[elazar-portrait.webp|400]]
+
+A lizardfolk man in the prime of his life, a prophet, seer, and spirit guide who has deeply felt visions and exceptional perception into the spirit realms. A bit of an outcast in his village, seen as someone who sees trouble in everything.
 
 %%^Date:1748%%
 - (DR:: 1748). Elazar began to acquire a reputation as far-sighted and wise, after he warned of the troubles of the [[Azta Lekua]]. 

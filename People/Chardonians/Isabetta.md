@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-25T23:14:40-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: human
 ancestry: Chardonian
 gender: female
@@ -18,7 +18,10 @@ POV: 1749
 > [!taelgar-header]
 > (human, Chardonian, she/her, b. 1731)
 
-![[isabetta.png|right|400]]A young woman with a beautiful voice, who frequently sings at [[The Drunken Dolphin]] in [[Castrella]]. 
+> [!image|right]
+> ![[isabetta.webp|400]]
+
+A young woman with a beautiful voice, who frequently sings at [[The Drunken Dolphin]] in [[Castrella]].
 
 %%SECRET[v2:52f6f35aba773ca0a53da8fb0254262b]%%
 

@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
-tags: [person, status/gameupdate/grli, status/check/lint]
+tags: [person, status/gameupdate/grli, status/check/lint, status/check/ai]
 species: halfling
 gender: male
 name: Finoc Small
@@ -18,7 +18,10 @@ POV: 1748
 > [!taelgar-header]
 > (halfling, he/him, lives in Voltara)
 
-![[finoc-small.png|right|300]]An unusually tall and cheerful halfling, and the owner of [[The Wandering Toad]], an inn in [[Voltara]] known for wild game, mushrooms, and ale. [[Brelith]] apprenticed with the chef there before opening [[The Hero's Feast]].
+> [!image|right]
+> ![[finoc-small.webp|300]]
+
+An unusually tall and cheerful halfling, and the owner of [[The Wandering Toad]], an inn in [[Voltara]] known for wild game, mushrooms, and ale. [[Brelith]] apprenticed with the chef there before opening [[The Hero's Feast]].
 
 %%^Metadata:names:v1%%
 - {"name": "Finoc Small", "language": "unknown", "pronunciation": "FEE-nohk SMAWL", "notes": "Tentative adaptation using the qualified Halfling analogue in [[Languages]] (Igbo, but may change or be diverse): clear ee for i and oh for o inform the proposal. The final c as k and first-syllable English guide stress remain spelling-based choices, not established Igbo or Halfling rules; Small is the ordinary English surname. The name language is not established.", "status": "proposed"}

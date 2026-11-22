@@ -1,13 +1,13 @@
 ---
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
-tags: [person, status/cleanup/metadata, status/check/lint]
+tags: [person, status/cleanup/metadata, status/check/lint, status/check/ai]
 species: human
 ancestry: Dunmari
 campaignInfo: []
 born: 1731
 gender: male
-image: amil-small.jpg
+image: amil-small.webp
 name: Amil
 affiliations: [Order of the Awakened Soul]
 whereabouts:
@@ -24,7 +24,10 @@ POV: 1748
 
 %% fix away whereabouts, campaign info %%
 
-![[amil-final.jpg|right|400]]A young monk, in training as an apprentice of the [[Order of the Awakened Soul]]. Fit, tanned, and cheerful, even when undertaking challenging or unsettling tasks. Lives with his masters, [[Pava]] and [[Avaras]], on the edge of the [[Garamjala Desert]] in the blasted plains. 
+> [!image|right]
+> ![[amil-final.webp|400]]
+
+A young monk, in training as an apprentice of the [[Order of the Awakened Soul]]. Fit, tanned, and cheerful, even when undertaking challenging or unsettling tasks. Lives with his masters, [[Pava]] and [[Avaras]], on the edge of the [[Garamjala Desert]] in the blasted plains.
 
 %%SECRET[v2:dc51be15f3a73f26c2286c6622329ee6]%%
 ## Events
@@ -35,11 +38,15 @@ POV: 1748
 - (DR:: 1748-05-17) *(Amil)*: At Pava and Avaras' House when [[Dunmar Fellowship]] spend the night
 
 ## Gallery
-![[Amil-martial-arts.jpg|400]]
 
-![[Amil-snow-forest.jpg|400]]
+> [!image|right]
+> ![[Amil-martial-arts.webp|400]]
 
-![[Amil-skyship-garden.jpg|400]]
+> [!image|right]
+> ![[Amil-snow-forest.webp|400]]
+
+> [!image|right]
+> ![[Amil-skyship-garden.webp|400]]
 
 %%^Metadata:names:v1%%
 - {name: Amil, language: Dunmari, pronunciation: AH-mil, notes: "Proposed from the Dunmari Hindi/Indo-Iranian analogue in Languages: long open initial a, short i as in bit, plain m and l, with initial emphasis; a Persian-oriented reading could instead emphasize the final syllable. Vowel length and stress are not established for this name.", status: proposed}

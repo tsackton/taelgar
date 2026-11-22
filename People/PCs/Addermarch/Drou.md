@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-28T16:53:46-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: elf
 gender: female
 ddbLink: https://www.dndbeyond.com/characters/131356005
@@ -24,7 +24,10 @@ POV: 1715
 > [!taelgar-header]
 > (elf, she/her, ka 37)
 
-![[assets/drou-large.png|right|400]]Drou is a graceful dancer, singer, and musician from [[Orenlas]], who has wandered around [[Tyrwingha]] and [[Addermarch]] bringing joy to people's lives through music and dance.
+> [!image|right]
+> ![[assets/drou-large.webp|400]]
+
+Drou is a graceful dancer, singer, and musician from [[Orenlas]], who has wandered around [[Tyrwingha]] and [[Addermarch]] bringing joy to people's lives through music and dance.
 
 She was born n DR 1637, part of the 37th ka, in the elven forest of [[Orenlas]]. She woke from the dreaming with her generation-mates in DR 1712, and quickly showed a talent for music and dance, even to the extent of channeling the magic of the elves through her art. After spending a few years learning the songs of Orenlas, Drou left early in her first leya, wanting to be useful to the world, and bring joy to people's lives.
 

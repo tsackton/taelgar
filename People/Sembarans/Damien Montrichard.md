@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
-tags: [person, status/gameupdate/clee, status/check/lint]
+tags: [person, status/gameupdate/clee, status/check/lint, status/check/ai]
 species: human
 ancestry: null
 born: null
@@ -25,7 +25,10 @@ POV: 1720s
 
 %% needs to incorporate his false imprisonment and almost execution at the hands of [[Areschera]] %%
 
-![[damien-montrichard.jpg|right|400]]A storyteller and musician, with a keen eye for lore.
+> [!image|right]
+> ![[damien-montrichard.webp|400]]
+
+A storyteller and musician, with a keen eye for lore.
 
 %% Meta: 2nd or 3rd level bard 
  a musician and storyteller. He is charming and full of tales about his companions (mostly Adra and Enzo, it seems, who he clearly cares for and has spent some time with) but questions about his past or background just slide off him. You learn that Adra's ghostly birds are able to become quite real and peck her enemies, at need. But Adra prefers them as companions, and Damien tells (jokingly/lovingly) about some times when it seems like she is more motivated by finding a new bird than anything else. As the night wears on, and he gets a bit drunk, and leaves the stage, you do notice him and Adra and Enzo being served by an invisible servant of some sort.

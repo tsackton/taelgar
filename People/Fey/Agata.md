@@ -2,7 +2,7 @@
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 displayDefaults: {boxInfo: "<subspecies> (<species:s>), <pronouns>"}
-tags: [status/cleanup/metadata, person, status/check/lint]
+tags: [status/cleanup/metadata, person, status/check/lint, status/check/ai]
 species: fey
 subspecies: hag
 campaignInfo:
@@ -30,7 +30,10 @@ POV: 1748
 # amberglow not origin, just past home
 %%
 
-![[agata-v2.png|right|300]]Agata Dustmother, often referred to as the "Old Woman of the Dusts," is an ancient and cunning fey hag, based for many years on the edge of the [[Garamjala Desert]], near [[Eastern Dunmar]]. 
+> [!image|right]
+> ![[agata-v2.webp|300]]
+
+Agata Dustmother, often referred to as the "Old Woman of the Dusts," is an ancient and cunning fey hag, based for many years on the edge of the [[Garamjala Desert]], near [[Eastern Dunmar]].
 ## Overview
 
 Agata Dustmother, known as the Old Woman of the Dusts, is an ancient fey [[Story about Hags|hag]] renowned for her plotting and deal-making skills, who always seems to emerge victorious in her bargains. She has dwelt at the edge of the [[Garamjala Desert]], in [[Eastern Dunmar]], for as long as anyone can remember, luring the desperate and unwary into bargains. She is fascinated by strange and especially gruesome magic, and is a collector of magic items, from the common to the extraordinary. 
@@ -38,7 +41,9 @@ Agata Dustmother, known as the Old Woman of the Dusts, is an ancient fey [[Story
 In DR 1748, she was imprisoned in the [[Heartwood Grove]] in the [[Feywild]] realm of [[Amberglow]] by [[Dunmar Fellowship]]. 
 ## Description
 
-![[agata-v1.png|left|300]]
+> [!image|left]
+> ![[agata-v1.webp|300]]
+
 Agata takes the appearance of a withered old woman, with dry, dusty skin, wearing white robes. Her lair is a magical and seemingly un-scryable hut hidden on the edge of the desert, surrounded by brambles and rocks, and only approachable if one follows the correct path.
 ## Events
 

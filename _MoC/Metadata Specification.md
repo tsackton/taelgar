@@ -16,7 +16,7 @@ Some brainstorming and ideas:
 - `name`: Canonical page name used by display code. If omitted, the file name is used. This frontmatter field does not replace the persistent `Metadata:names:v1` block required when the note's subject is a named in-world thing or work; see [[Name Metadata]].
 - `aliases`: List of alternate names for the subject, including accented forms and alternate identities. Useful for search, display, and metadata matching. Obsidian bare wikilinks resolve filenames, not frontmatter aliases.
 - `pronunciation`: Human‑readable pronunciation guide (e.g. `yoo-VAHN-tee`). The value must be an actual pronunciation. Accepted primary pronunciations belong here; language, derivation, alternate forms, and proposed pronunciations are recorded in the persistent block described by [[Name Metadata]]. An obvious name, descriptive title, or other contextual exemption omits the pronunciation field rather than using `obvious`, `title`, `meta`, or `inherited from ...` as a value; that exemption does not remove a required name block.
-- `image`: Lead image filename (and optionally path) associated with the page (e.g. `egnir-small.png`). Not used by any core header generation functions but very useful in data view tables, i.e. of items.
+- `image`: Lead image filename (and optionally path) associated with the page (e.g. `egnir-small.webp`). Not used by any core header generation functions but very useful in data view tables, i.e. of items.
 
 ### Classification and Type Fields
 

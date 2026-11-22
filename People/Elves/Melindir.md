@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: elf
 campaignInfo:
   - {campaign: dufr, date: 1748-12-17, type: first met}
@@ -24,7 +24,8 @@ POV: 1740s
 
 Melindir is the Ambassador to [[Tollen]] for the elven lands of [[Orenlas]].
 
-![[melindir.png]]
+> [!image|right standard]
+> ![[melindir.webp]]
 
 %%^Metadata:names:v1%%
 - {name: Melindir, language: unknown, pronunciation: meh-LIN-deer, status: documented}

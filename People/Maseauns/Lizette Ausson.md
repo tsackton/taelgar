@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: human
 ancestry: Isinguer
 born: 1633
@@ -20,7 +20,10 @@ POV: 1700
 > [!taelgar-header]
 > (human, Isinguer, she/her, b. 1633, d. 1702, lives in Laicon)
 
-![[lisette-ausson.png|right|320]]The mother of four children, owner and operator of the [[Ausson's Crossing]] inn, and a shrewd accountant and trader, she came from the [[Aurbez Plateau]] and is not-so-secretly a partisan of political unity amongst the [[Aurbez Plateau]] peoples and regions. She traces her family back to the lost city of [[Isingue]] and is known to be susceptible to romantic tales of the past. She wears her heart on her sleeve, and never recovered from her husband Roland's murder in 1688.
+> [!image|right]
+> ![[lisette-ausson.webp|320]]
+
+The mother of four children, owner and operator of the [[Ausson's Crossing]] inn, and a shrewd accountant and trader, she came from the [[Aurbez Plateau]] and is not-so-secretly a partisan of political unity amongst the [[Aurbez Plateau]] peoples and regions. She traces her family back to the lost city of [[Isingue]] and is known to be susceptible to romantic tales of the past. She wears her heart on her sleeve, and never recovered from her husband Roland's murder in 1688.
 
 Her daughter, [[Giselle Ausson]], now runs the inn.
 

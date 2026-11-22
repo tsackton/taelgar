@@ -1,12 +1,12 @@
 ---
 lintedAt: "2026-10-19T23:47:22-04:00"
 lintVersion: "3.5"
-tags: [object]
+tags: [object, status/check/ai]
 typeOf: armor
 subTypeOf: magic
 typeOfAlias: shield
 ancestry: Drankorian
-image: "[[shield-of-false-life.png]]"
+image: "[[shield-of-false-life.webp]]"
 pcOwner: Celyn
 name: Shield of False Life
 whereabouts: Celyn
@@ -17,7 +17,10 @@ POV: modern
 > [!taelgar-header]
 > (Drankorian magic shield)
 
-![[shield-of-false-life.png|right|320]]A slightly battered Drankorian shield with an ever shifting set of sigils on its face, found in [[Wakog's Camp]]. 
+> [!image|right]
+> ![[shield-of-false-life.webp|320]]
+
+A slightly battered Drankorian shield with an ever shifting set of sigils on its face, found in [[Wakog's Camp]].
 
 ### Mechanics
 The face of the shield never seems to show the same sigil twice, shifting between various symbols and abstractions. The bearer may choose what the face of the shield shows, with a thought.

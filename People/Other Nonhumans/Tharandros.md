@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: centaur
 ancestry: null
 campaignInfo:
@@ -25,7 +25,10 @@ POV: 1740s
 > [!taelgar-header]
 > (centaur, he/him)
 
-![[tharandros-final.png|right|400]]A centaur, the leader of a wandering herd, of indeterminate age. Wise and knowledgeable.
+> [!image|right]
+> ![[tharandros-final.webp|400]]
+
+A centaur, the leader of a wandering herd, of indeterminate age. Wise and knowledgeable.
 
 %%^Campaign:dufr%%
 The Dunmar Fellowship met Tharandros and his herd traveling across the [[Samtal]], the northern plains of [[Dunmar]], and convinced them to aid [[Karawa]], which proved crucial in driving off gnoll attacks. 

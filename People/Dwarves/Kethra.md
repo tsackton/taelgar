@@ -1,13 +1,13 @@
 ---
 lintedAt: "2026-08-23T23:02:51-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: dwarf
 campaignInfo:
   - {campaign: dufr, date: 1749-01-28, type: met}
 gender: female
 born: 1701
-image: "[[kethra-small.png]]"
+image: "[[kethra-small.webp]]"
 name: Kethra Silverspark
 pronunciation: KETH-rah SIL-ver-spark
 affiliations:
@@ -27,7 +27,10 @@ POV: 1749
 > [!taelgar-header]
 > (dwarf, she/her, b. 1701, lives in Tharn Todor)
 
-![[kethra-final-option1.png|right|400]]Kethra Silverspark, great-grandaughter of [[Nora Silverspark]], is a proud dwarven smith and novice adventurer from [[Tharn Todor]]. 
+> [!image|right]
+> ![[kethra-final-option1.webp|400]]
+
+Kethra Silverspark, great-grandaughter of [[Nora Silverspark]], is a proud dwarven smith and novice adventurer from [[Tharn Todor]].
 
 Inspired by the tales of [[Riswynn]]'s heroic adventures in returning the [[Chalice of the Runepriest]] and putting to rest the ghosts of [[Nora Silverspark]] and [[Hagrim]], among others, she decided to leave home and put herself in Riswynn's service.
 

@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T20:13:07-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: human
 ancestry: Sembaran
 gender: male
@@ -24,7 +24,8 @@ Phillip Evynwood is a wealthy timber merchant based in [[Aslain]], with strong c
 In February DR 1720, Phillip helped raise a militia in [[Aslain]] at Pierre d’Aslain’s request, seeking troops to support the [[Rangers]] in clearing the zombie caves to the north.
 %%^End%%
 
-![[phillip-evynwood.png|left|200]]
+> [!image|left]
+> ![[phillip-evynwood.webp|200]]
 
 %%^Metadata:names:v1%%
 - {name: Phillip Evynwood, language: Sembaran, pronunciation: FIL-ip EV-an-wood, status: documented}

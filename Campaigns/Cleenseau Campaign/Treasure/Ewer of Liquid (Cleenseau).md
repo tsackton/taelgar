@@ -2,11 +2,11 @@
 lintedAt: "2026-10-19T23:47:22-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-tags: [object]
+tags: [object, status/check/ai]
 typeOf: ewer
 subTypeOf: magical
 ancestry: Drankorian
-image: "[[ewer-of-liquid.png]]"
+image: "[[ewer-of-liquid.webp]]"
 pcOwner: Heroes of Cleenseau
 name: Ewer of Liquid
 whereabouts: Heroes of Cleenseau
@@ -17,7 +17,10 @@ POV: modern
 > [!taelgar-header]
 > (Drankorian magical ewer)
 
-![[ewer-of-liquid.png|right|420]]A strangely unchipped ceramic ewer, decorated with Drankorian words for milk, water, beer, wine, honey, vinegar, tea and oil in stylized patterns running up and down the sides. It holds about a quart of liquid and sounds full of water sloshing around despite being empty. Found in the bandit lair.
+> [!image|right]
+> ![[ewer-of-liquid.webp|420]]
+
+A strangely unchipped ceramic ewer, decorated with Drankorian words for milk, water, beer, wine, honey, vinegar, tea and oil in stylized patterns running up and down the sides. It holds about a quart of liquid and sounds full of water sloshing around despite being empty. Found in the bandit lair.
 
 ### Mechanics
 This ceramic jug appears to be able to hold a quart of liquid and weighs 3 pounds whether full or empty. Sloshing sounds can be heard from within the jug when it is shaken, even if the jug is empty. 

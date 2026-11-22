@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: human
 ancestry: Tollender
 campaignInfo:
@@ -22,7 +22,10 @@ POV: 1748
 > [!taelgar-header]
 > (human, Tollender, he/him)
 
-![[arryn-the-wanderer-portrait.png|right|400]]A wizard of significant power. Originally from [[Tollen]], but now dwells in a tower in the northern part of the [[Eastern Isles]]. Fascinated by other dimensions, recently the hypothesized [[Mirror Realm]] in particular. 
+> [!image|right]
+> ![[arryn-the-wanderer-portrait.webp|400]]
+
+A wizard of significant power. Originally from [[Tollen]], but now dwells in a tower in the northern part of the [[Eastern Isles]]. Fascinated by other dimensions, recently the hypothesized [[Mirror Realm]] in particular.
 
 %%^Campaign:dufr%%
 In the fall of 1748, vanished into the [[Mirror Realm]] after an experiment went wrong. Arryn was later freed by [[Wellby]], [[Alimash]], and [[Shoal]] during [[Session 60 (DuFr)|Wellby's adventures in the eastern Green Sea]]. After his rescue, he sent Wellby to the [[Feywild]] to reunite with the [[Dunmar Fellowship]]; [[Alimash]] joined Arryn's service.

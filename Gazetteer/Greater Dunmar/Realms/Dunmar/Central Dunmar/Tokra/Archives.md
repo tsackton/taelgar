@@ -2,7 +2,7 @@
 lintedAt: "2026-10-20T11:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {startStatus: Built}
-tags: [place, status/check/lint]
+tags: [place, status/check/lint, status/check/ai]
 typeOf: building
 typeOfAlias: library
 created: 1411
@@ -17,7 +17,9 @@ POV: modern
 > [!taelgar-header]
 > (library, in Tokra)
 
-![[tokra-archives.png|600]]
+> [!image|figure]
+> ![[tokra-archives.webp|600]]
+> *Tokra Archives*
 
 The Tokra Archives are located in a large square building with a significant tower rising 100 feet above the city, across the Dharajun Plaza from the Temple of Tokra. First constructed during the early years of the [[Dharajun dynasty]], the Archives suffered significant damage during the [[Fire War]], and were extensively reconstructed in the simpler, less ostentatious, more flowing, melancholic, and organic style of post-Great-War [[Dunmari Architecture]].
 

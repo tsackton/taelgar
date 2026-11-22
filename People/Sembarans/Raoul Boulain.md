@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-18T23:43:15-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: human
 ancestry: Sembaran
 gender: male
@@ -26,7 +26,9 @@ In May DR 1720, [[Lenora Belles]] and her companions set out east across the [[G
 %%^End%%
 
 ### Image
-![[raoul-boulain.png]]
+
+> [!image|right standard]
+> ![[raoul-boulain.webp]]
 
 %%^Metadata:names:v1%%
 - {name: Raoul Boulain, language: Sembaran, pronunciation: rah-OOL boo-LAN, status: documented}

@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: halfling
 gender: female
 name: Pippa Goodbarrow
@@ -18,7 +18,10 @@ POV: 1740s
 > [!taelgar-header]
 > (halfling, she/her, lives in Summer's Breeze)
 
-![[pippa-greenbarrow-portrait.png|right|400]]Pippa is a cheerful halfling woman, with a warm, welcoming smile, often seen wearing a wide-brimmed hat. She has a love of good food, great ale, and great company, and attracts like-minded crew to her ship, the [[Summer's Breeze]]. 
+> [!image|right]
+> ![[pippa-greenbarrow-portrait.webp|400]]
+
+Pippa is a cheerful halfling woman, with a warm, welcoming smile, often seen wearing a wide-brimmed hat. She has a love of good food, great ale, and great company, and attracts like-minded crew to her ship, the [[Summer's Breeze]].
 
 She has no fixed route or typical path, but is welcome in every port along the [[Apporia|Apporian Peninsula]] for her genial nature, and her tendency to throw impromptu parties on deck.
 

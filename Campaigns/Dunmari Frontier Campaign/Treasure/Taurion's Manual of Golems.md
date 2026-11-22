@@ -2,12 +2,12 @@
 lintedAt: "2026-10-20T07:49:48-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-tags: [object, status/check/lint]
+tags: [object, status/check/lint, status/check/ai]
 typeOf: book
 subTypeOf: magic
 ancestry: Drankorian
 rarity: very rare
-image: "[[taurion-manual-of-golems.jpg]]"
+image: "[[taurion-manual-of-golems.webp]]"
 pcOwner: Dunmar Fellowship
 ddbLink: https://www.dndbeyond.com/magic-items/4950-manual-of-stone-golems
 name: "Taurion's Manual of Stone Golems"
@@ -19,7 +19,8 @@ POV: modern
 > [!taelgar-header]
 > (very rare Drankorian magic book)
 
-![[taurion-manual-of-golems.jpg|400|right]]
+> [!image|right]
+> ![[taurion-manual-of-golems.webp|400]]
 
 %%SECRET[v2:967685179a204ed63cde48d455c078a4]%%
 

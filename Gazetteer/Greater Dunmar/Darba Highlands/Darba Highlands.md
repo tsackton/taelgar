@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T11:04:00-04:00"
 lintVersion: "3.5"
-tags: [place, status/cleanup/map, status/check/lint]
+tags: [place, status/cleanup/map, status/check/lint, status/check/ai]
 typeOf: region
 typeOfAlias: null
 name: Darba Highlands
@@ -16,7 +16,11 @@ POV: modern
 
 ## Geography
 
-![[darba-highlands-dry-gap.png|left|450]]The Darba Highlands are warm, monsoonal rocky highlands of isolated forests in sheltered valleys, and broad grasslands and savannas that flood during the monsoon rains. The Darba Highlands are bordered by the [[Yuvanti Mountains]] to the southeast, the [[Chataan Mountains]] to the north, the [[Nevos Sea]] to the west, and the [[Hara Basin]] to the northeast, stretching 200 miles or more inland, and covering the 170 or so miles between the bordering mountain ranges. 
+> [!image|left]
+> ![[darba-highlands-dry-gap.webp|450]]
+> *Dry gap in the Darba Highlands*
+
+The Darba Highlands are warm, monsoonal rocky highlands of isolated forests in sheltered valleys, and broad grasslands and savannas that flood during the monsoon rains. The Darba Highlands are bordered by the [[Yuvanti Mountains]] to the southeast, the [[Chataan Mountains]] to the north, the [[Nevos Sea]] to the west, and the [[Hara Basin]] to the northeast, stretching 200 miles or more inland, and covering the 170 or so miles between the bordering mountain ranges.
 
 %% note: total size is about 37,000 square miles, roughly the size of Portugal, or Virginia%%
 
@@ -28,8 +32,9 @@ The largest and most significant river is the [[Rudhan]], which flows from the [
 
 The Darba Highlands have a strong hydrological gradient, with the area around the [[Rudhan Heights]] arid and rocky, and the terrain getting increasingly wet and lush to the west and south, heading towards the [[Nevos Sea]]. The monsoons have a large impact, as the rains tend to lessen as they pass over the highlands.
 
-![[darba-highlands-river-monsoon.png]]
-*The [[Rudhan]] after the monsoon.*
+> [!image|figure standard]
+> ![[darba-highlands-river-monsoon.webp]]
+> *The [[Rudhan]] after the monsoon.*
 
 In the northwest, the Darba Highlands are a region of coastal mountains, forming the southern foothills of the [[Chataan Mountains]]. Here, constant sea breezes and the impact of the [[Chataan Mountains]] result in a more even rainfall pattern across the year, with some winter rain.
 

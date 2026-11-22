@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T07:26:32-04:00"
 lintVersion: "3.5"
-tags: [object]
+tags: [object, status/check/ai]
 typeOf: wondrous item
 ddbLink: https://www.dndbeyond.com/magic-items/7676659-binding-stones-of-amloch
 rarity: legendary
@@ -14,7 +14,10 @@ POV: modern
 > [!taelgar-header]
 > (legendary wondrous item)
 
-![[binding-stones.jpg|right|400]]A set of five crystals, each a different color, dating from before the [[The Downfall|Downfall]] to the early days of [[Hkar]], constructed by the wizard [[Amloch]]. 
+> [!image|right]
+> ![[binding-stones.webp|400]]
+
+A set of five crystals, each a different color, dating from before the [[The Downfall|Downfall]] to the early days of [[Hkar]], constructed by the wizard [[Amloch]].
 While little is known for certain about their magic, they are powerful in entrapment and imprisonment, and in manipulating extraplanar creatures. 
 
 The binding stones are known to have been used by the Drankorian wizard [[Eudomes]], a member of the [[Occulta Ludum]], to bind the storm giant [[Hralgar]] at [[Stormcaller Tower]]. They were removed from the tower in DR 1748 by [[Dee Wildcloak]], [[Dain Goldhammer]], and companions, eventually finding their way into the possession of the wizard [[Fausto]], and [[Session 48 (DuFr)|later the Dunmar Fellowship]].

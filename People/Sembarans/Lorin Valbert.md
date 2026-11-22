@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-23T23:02:51-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: human
 ancestry: Sembaran
 gender: male
@@ -26,7 +26,10 @@ POV: 1710s
 > [!taelgar-header]
 > (human, Sembaran, he/him, b. 1677)
 
-![[lorin-valbet.png|right|320]]Lorin Valbert is the lord of [[Asineau]]. He is a cousin of the old lord, [[Lucas Asa]], via Lucas' biological father. Lorin did not expect to inherit a manorial lordship, and regards it as beneath his station, being a backwater far from the centers of power.
+> [!image|right]
+> ![[lorin-valbet.webp|320]]
+
+Lorin Valbert is the lord of [[Asineau]]. He is a cousin of the old lord, [[Lucas Asa]], via Lucas' biological father. Lorin did not expect to inherit a manorial lordship, and regards it as beneath his station, being a backwater far from the centers of power.
 
 He has a wife and two young children who often reside in [[Embry]].
 

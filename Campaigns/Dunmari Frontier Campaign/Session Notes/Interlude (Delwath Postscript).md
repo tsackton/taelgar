@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-11-12T19:02:10-05:00"
 lintVersion: "3.5"
-tags: [session-note]
+tags: [session-note, status/check/ai]
 campaign: dufr
 DR: 1748-10-14
 DR_end: 1748-11-15
@@ -32,7 +32,9 @@ POV: 1748
 
 After returning from the [[Forest of Nightmares]], [[Delwath]] spends some time with the [[Ko'zula]], and in communion with the Meswati, learning about the lost tanshi who have now been found, about the history of this place and these people, about the stories that tie them to the tanshi, before leaving to seek out a way to reunite with his companions. 
 
-![[kozula-village.png|500]]
+> [!image|figure]
+> ![[kozula-village.webp|500]]
+> *Ko'zula village below the mountains*
 
 During this time, [[Delwath]] also spends hours scrying: [[Scrying Delwath Oct 21]].
 
@@ -41,7 +43,9 @@ The most promising tales [[Delwath]] hears are of [[Safri]], a woman who appears
 
 After a several day journey into the mountains and a few days waiting in camp (during which time [[Delwath]] scries some more: [[Scrying Delwath Oct 26]]), [[Safri]] appears in the form of a deer, and leads [[Delwath]] to her forest valley home.
 
-![[safri-house.png|600]]
+> [!image|figure]
+> ![[safri-house.webp|600]]
+> *Safri's house in the forest*
 
 Here, [[Delwath]] and [[Safri]] talk. He hears tales of the Meswati, and asks of [[Drankorian Empire|Drankor]] and artifacts of power. While she knows little of [[Drankorian Empire|Drankor]], she does talk about artifacts and how to destroy them. Nothing that was made cannot be unmade, she says, though the stronger the magic, the more the physical form resists destruction. She talks of volcanos where the [[Elemental Plane of Fire]] touches the material world, or intense storms from the Plane of Air where lightning strikes with extraplanar power, as places where even the most powerful artifacts can be destroyed.
 

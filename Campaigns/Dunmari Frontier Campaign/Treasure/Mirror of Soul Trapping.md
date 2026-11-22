@@ -2,7 +2,7 @@
 lintedAt: "2026-10-20T07:49:48-04:00"
 lintVersion: "3.5"
 displayDefaults: {ltPerson: trapped in}
-tags: [object, status/check/lint]
+tags: [object, status/check/lint, status/check/ai]
 typeOf: mirror
 subTypeOf: magical
 rarity: very rare
@@ -22,7 +22,10 @@ POV: 1749
 
 %%need to decide if this is a one-off item, unique, or a representative of a class of items, and refactor text as appropriate; also maybe remove the game mechanics to a D&D Beyond link %%
 
-![[mirror-of-soul-trapping-v1.jpg|right|400]]This 4’ heavy silvered mirror, weighing around 50 lb, is made of solid metal, polished to a silvered reflective surface on one side. The back side is etched in numerous strange languages, which [[Delwath]] understood to be incantations binding twelve extradimensional cells to the mirror.
+> [!image|right]
+> ![[mirror-of-soul-trapping-v1.webp|400]]
+
+This 4’ heavy silvered mirror, weighing around 50 lb, is made of solid metal, polished to a silvered reflective surface on one side. The back side is etched in numerous strange languages, which [[Delwath]] understood to be incantations binding twelve extradimensional cells to the mirror.
 
 An extradimensional cell is an infinite expanse filled with thick fog that reduces visibility to 10 feet. Creatures trapped in the mirror's cells don't age, and they don't need to eat, drink, or sleep. A creature trapped within a cell can escape using magic that permits planar travel. Otherwise, the creature is confined to the cell until freed. If the mirror is destroyed, all creatures trapped within are released.
 

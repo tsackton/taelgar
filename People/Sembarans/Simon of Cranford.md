@@ -1,12 +1,12 @@
 ---
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: human
 ancestry: Sembaran
 born: 1659
 gender: male
-image: simon-of-cranford.png
+image: simon-of-cranford.webp
 name: Simon of Cranford
 whereabouts: Cranford
 knownTo: [clee]
@@ -18,7 +18,10 @@ POV: 1720
 > [!taelgar-header]
 > (human, Sembaran, he/him, b. 1659, lives in Cranford)
 
-![[simon-of-cranford.png|right|200]] The toll keeper for the [[Barony of Aveil]] in Cranford and an important figure in town.
+> [!image|right]
+> ![[simon-of-cranford.webp|200]]
+
+The toll keeper for the [[Barony of Aveil]] in Cranford and an important figure in town.
 
 %% No details; he came up as a "town grandee" in [[Cleenseau - Session 17]] but otherwise no significant details %%
 

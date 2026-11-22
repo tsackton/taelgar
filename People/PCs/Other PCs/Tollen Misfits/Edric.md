@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-23T23:02:51-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/mike, status/check/lint]
+tags: [person, status/check/mike, status/check/lint, status/check/ai]
 species: human
 gender: male
 player: Mike Sackton
@@ -29,7 +29,8 @@ POV: 1740
 Edric was born in the small village of [[Wickerley]], a good two days' walk north of the [[Great South Road]], in the [[Duchy of Telham]].  Wickerley is known for very little, although there are two brewers who sell to the surrounding villages, and the barley is said to be at least a bit better than average. It is a poor place, with little excitement and few reasons to stop. The most interesting event in the last hundred years, it is said, was Edric's birth.
 
 
-![[edric.png]]
+> [!image|right standard]
+> ![[edric.webp]]
 
 %%^Metadata:names:v1%%
 - {name: Edric, role: primary, language: Sembaran, pronunciation: ED-rik}

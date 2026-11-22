@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: human
 ancestry: Sembaran
 born: 1688
@@ -21,7 +21,10 @@ POV: 1719
 > [!taelgar-header]
 > (human, Sembaran, she/her, b. 1688, d. 1720, lives in Cleenseau)
 
-![[ysabel.png|right|420]] A striking and comely woman with a rough scar running from her eye to her neck. She is the sheriff of [[Cleenseau]] and leads a part of the [[Lord's Guard of Cleenseau|Lord's Guard]]. She has many opinions about her employers, in particular [[Rinault Essford]], and does not always successfully keep them to herself.
+> [!image|right]
+> ![[Ysabel.webp|420]]
+
+A striking and comely woman with a rough scar running from her eye to her neck. She is the sheriff of [[Cleenseau]] and leads a part of the [[Lord's Guard of Cleenseau|Lord's Guard]]. She has many opinions about her employers, in particular [[Rinault Essford]], and does not always successfully keep them to herself.
 
 She grew in skill of arms and bravery during an unsettled period in late 1719, but died fighting zombies during the [[Undead Attacks in Sembara]].
 

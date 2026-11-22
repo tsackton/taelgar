@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-19T11:22:11-04:00"
 lintVersion: "3.5"
-tags: [meta, status/check/lint]
+tags: [meta, status/check/lint, status/check/ai]
 name: Delwath — early-campaign character reference
 POV: 1748
 ---
@@ -11,11 +11,15 @@ This set represents Delwath in the **early Dunmar Frontier campaign**, anchored 
 
 ## Reference images
 
-| Close portrait | Full body — front | Full body — rear |
-|---|---|---|
-| ![[delwath-early-campaign-portrait.png]] | ![[delwath-early-campaign-full-body-front.png]] | ![[delwath-early-campaign-full-body-rear.png]] |
+> [!gallery]
+> - ![[delwath-early-campaign-portrait.webp]]
+>   *Close portrait*
+> - ![[delwath-early-campaign-full-body-front.webp]]
+>   *Full body — front*
+> - ![[delwath-early-campaign-full-body-rear.webp]]
+>   *Full body — rear*
 
-All three images are 1254 × 1254 PNGs. Each view uses the selected face, opalescent silver treatment and full-body design, with a centered nape tie and hair tips falling just below the green neck wrap.
+All three images are 1254 × 1254 WebP files. Each view uses the selected face, opalescent silver treatment and full-body design, with a centered nape tie and hair tips falling just below the green neck wrap.
 
 ## Visual choices for this set
 

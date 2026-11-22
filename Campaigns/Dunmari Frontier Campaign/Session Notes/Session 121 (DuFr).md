@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-11-12T19:02:10-05:00"
 lintVersion: "3.5"
-tags: [session-note, status/check/lint]
+tags: [session-note, status/check/lint, status/check/ai]
 campaign: dufr
 sessionNumber: 121
 realWorldDate: 2025-03-25
@@ -48,7 +48,9 @@ Encouraged by [[Seeker]]'s questions, [[Ismara]] explains that unlike the mundan
 
 The party reaches the [[Sunset Gate]], a massive, shimmering wall capturing all the colors of sunset, stretching endlessly upward. Parts reflect light brilliantly while others appear as crystal or frozen oil paint, constantly shifting and warm to the touch. Although the party notes some cracks in the wall through which a person might attempt to pass, [[Valeris]] and [[Ismara]] warn that time flows differently through the gate: those who enter might emerge in seconds—or in years.
 
-![[dufr-121-sunset-gate.png]]
+> [!image|figure standard]
+> ![[dufr-121-sunset-gate.webp]]
+> *Sunset Gate*
 
 Turning north, the party follows the line of sunset towards [[Amberglow]], after saying farewell to [[Ismara]]. As they fly northward, the landscape becomes increasingly bleached and desaturated—signs of Amberglow's corruption. After some time, the party finally reaches Amberglow, departing [[Emberwine]]. As they cross the border, soaring on griffons and a wyvern, four enormous humanoids below yell up at them, demanding "one vial of blood each" as toll. The party circles higher and continues their journey after [[Valeris]] confirms nothing good comes from giving [[Fey]] creatures blood. 
 

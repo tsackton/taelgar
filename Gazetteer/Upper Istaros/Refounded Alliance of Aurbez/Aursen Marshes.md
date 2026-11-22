@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T10:36:55-04:00"
 lintVersion: "3.5"
-tags: [place, status/check/lint]
+tags: [place, status/check/lint, status/check/ai]
 typeOf: wetlands
 typeOfAlias: marsh
 name: Aursen Marshes
@@ -18,7 +18,9 @@ POV: modern
 
 The Aursen Marshes are a marshy area of the [[Aursen|Aursen River]], predominantly occupying a basin and depression near the edge of the [[Aurbez Plateau]] escarpment. The marshes themselves are largely inhabited by [[Lizardfolk|lizardfolk]] and the occasional homesteader who does not mind the flooding the spring snowmelt brings. The area itself is a productive agricultural region and the edges of the marshes are intensively farmed by the people of the [[Refounded Alliance of Aurbez]]. 
 
-![[aursen-marshes.png|800]]
+> [!image|figure]
+> ![[aursen-marshes.webp|800]]
+> *The Aursen Marshes*
 
 %%^Metadata:names:v1%%
 - {"name": "Aursen Marshes", "language": "unknown", "pronunciation": "OR-sen MAR-shiz", "status": "proposed", "notes": "A cautious spelling-based reading of the complete name: au as aw/or, s as in sun, first-syllable stress in Aursen, and ordinary English Marshes. Neither the target nor the geographical and session sources establishes the name language or an accepted pronunciation, so there is no secure language analogue for this form."}

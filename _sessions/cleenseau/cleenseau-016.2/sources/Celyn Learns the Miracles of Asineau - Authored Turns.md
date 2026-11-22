@@ -100,7 +100,7 @@ your hand close to it on a cold day. Perhaps it is this resonance that
 allowed El to hold the zombies off - for it was on the very anniversary of
 this Miracle of Hopeful Heat that the zombies attacked us."
 
-(the painting: ![[asineau-wrydling-painting.jpg]])
+(the painting: ![[asineau-wrydling-painting.webp]])
 
 ---
 

@@ -21,7 +21,7 @@ players: [Izgil, Robin, Viepuck, Celyn]
 ### Rumors and Information
 * The green gem beneath Cleenseau appeared to be spreading a white mist that, when it contacted a living creature, gave them a plague that would create zombies. This plague seemed to vanish entirely when the gem was smashed by the power of the Wanderer, channeled through [[Robin of Abenfyrd|Robin]]
 * The wight appears to have been a (long dead) hobgoblin, wearing an insignia:
-      ![[avatus-symbol-sketch.png|120]]
+      ![[avatus-symbol-sketch.webp|120]]
 * The destruction of the gem caused the zombie-fied rats to die
 
 ### New People Met

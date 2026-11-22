@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: human
 ancestry: Dunmari
 campaignInfo:
@@ -11,7 +11,7 @@ campaignInfo:
 born: 1715
 gender: male
 name: Candrosa
-image: candrosa-portrait.png
+image: candrosa-portrait.webp
 affiliations:
   - {org: Shakun Mystai, title: Speaker, type: leader}
 whereabouts:
@@ -25,7 +25,10 @@ POV: 1740s
 > [!taelgar-header]
 > (human, Dunmari, he/him, b. 1715, lives in Karawa)
 
-![[candrosa-portrait.png|right|400]]Candrosa serves as Speaker of the [[Shakun Mystai]], acting as the leader of the [[Temple of Shakun]] in [[Karawa]] and the public face of the mystai. He oversees rites, initiations, and dream-visions; and serves as a councilor to the temple hierarchy in Karawa. 
+> [!image|right]
+> ![[candrosa-portrait.webp|400]]
+
+Candrosa serves as Speaker of the [[Shakun Mystai]], acting as the leader of the [[Temple of Shakun]] in [[Karawa]] and the public face of the mystai. He oversees rites, initiations, and dream-visions; and serves as a councilor to the temple hierarchy in Karawa.
 ## Personality & Outlook
 Candrosa is proudly Dunmari and protective of temple secrets, second-guessing himself whenever his caution endangers others. He is at his best preaching to a crowd, but doubts himself when forced to make strategic decisions, especially concerning the [[Shakun's Protection|magical protections of Shakun]].
 

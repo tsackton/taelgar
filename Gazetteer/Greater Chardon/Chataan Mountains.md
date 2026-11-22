@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-23T16:50:31-04:00"
 lintVersion: "3.5"
-tags: [place, status/gameupdate/dufr]
+tags: [place, status/gameupdate/dufr, status/check/ai]
 typeOf: topographical feature
 typeOfAlias: mountain range
 name: Chataan Mountains
@@ -20,7 +20,9 @@ The Chataans are a rugged, rocky mountain chain that rises from the hills and cl
 
 To the northeast, the Chataans merge with the rugged hills of the [[Myraeni Gap]]; to the southeast, across the [[Rudhan Heights]], is the imposing bulk of the [[Yuvanti Mountains]].
 
-![[chataan-landscape.jpg]]
+> [!image|figure standard]
+> ![[chataan-landscape.webp]]
+> *The Chataan Mountains*
 
 %%^Metadata:names:v1%%
 - {name: Chataan Mountains, role: primary, language: Dunmari, pronunciation: cha-TAWN, status: documented}

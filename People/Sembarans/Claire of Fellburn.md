@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-23T23:02:51-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: human
 ancestry: Sembaran
 gender: female
@@ -19,7 +19,10 @@ POV: 1720
 > [!taelgar-header]
 > (human, Sembaran, she/her)
 
-![[claire-of-fellburn.jpg|right|320]]The sergeant of the Eagle Patrol of the Ninth Company of the [[Army of the South]].
+> [!image|right]
+> ![[claire-of-fellburn.webp|320]]
+
+The sergeant of the Eagle Patrol of the Ninth Company of the [[Army of the South]].
 
 %%^Metadata:names:v1%%
 - {name: Claire of Fellburn, language: Sembaran, status: documented}

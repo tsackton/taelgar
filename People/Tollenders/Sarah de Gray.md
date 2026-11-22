@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: human
 ancestry: Isinguer
 campaignInfo:
@@ -21,7 +21,10 @@ POV: 1749
 > [!taelgar-header]
 > (human, Isinguer, she/her, b. 1733)
 
-![[sarah-de-gray.png|right|320]]Sarah de Grey, a 16-year-old from the distinguished Isinguer family, is a student at the [[University of Tollen]]. Originally from the [[Duchy of Maseau]] in the south, she has come to [[Tollen]] to study, and has developed connections to the Isinguer community in the city, especially [[Guy Marchand]].
+> [!image|right]
+> ![[sarah-de-gray.webp|320]]
+
+Sarah de Grey, a 16-year-old from the distinguished Isinguer family, is a student at the [[University of Tollen]]. Originally from the [[Duchy of Maseau]] in the south, she has come to [[Tollen]] to study, and has developed connections to the Isinguer community in the city, especially [[Guy Marchand]].
 
 %%SECRET[v2:dd1dc7b09f1e9e2e89255431f59dcde2]%%
 

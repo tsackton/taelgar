@@ -2,13 +2,13 @@
 lintedAt: "2026-10-20T07:49:48-04:00"
 lintVersion: "3.5"
 displayDefaults: {wOrigin: "", wOriginU: "", defArt: ""}
-tags: [object]
+tags: [object, status/check/ai]
 typeOf: ring
 subTypeOf: magical
 ancestry: Drankorian
 ddbLink: https://www.dndbeyond.com/magic-items/3643042-ring-of-displacement
 rarity: uncommon
-image: "[[delwath-ring-of-displacement.jpg]]"
+image: "[[delwath-ring-of-displacement.webp]]"
 name: Ring of Displacement
 whereabouts:
   - {type: home, location: Agata, end: 1748-05-29}
@@ -21,7 +21,10 @@ POV: 1748
 > [!taelgar-header]
 > (uncommon Drankorian magical ring)
 
-![[delwath-ring-of-displacement.jpg|right|320]]An unadorned ring made of three entwined golden braids, that radiates illusion magic. It was possessed by [[Agata]] for many years, and carried on her person. Taken by [[Delwath]] after [[Agata]] was slain by [[Dunmar Fellowship]] in 1748. He later gave the ring to [[Jotha]].
+> [!image|right]
+> ![[delwath-ring-of-displacement.webp|320]]
+
+An unadorned ring made of three entwined golden braids, that radiates illusion magic. It was possessed by [[Agata]] for many years, and carried on her person. Taken by [[Delwath]] after [[Agata]] was slain by [[Dunmar Fellowship]] in 1748. He later gave the ring to [[Jotha]].
 
 Seen in [[Mirror of the Past]]: 
 

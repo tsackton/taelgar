@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
-tags: [person, status/gameupdate/dufr, status/check/lint]
+tags: [person, status/gameupdate/dufr, status/check/lint, status/check/ai]
 species: human
 ancestry: Dunmari
 campaignInfo:
@@ -29,7 +29,10 @@ POV: 1748
 needs updating to bring current; needs a bit of a rewrite to incorporate no-longer-secret secrets, mention curse and resolution
 %%
 
-![[havdar.jpg|right|350]]Havdar, a brash and confident warrior, made a name for himself as a war leader in [[Eastern Dunmar]], before joining with Nayan [[Sura]] in support of her claim to the leadership of the Dunmari people. 
+> [!image|right]
+> ![[havdar.webp|350]]
+
+Havdar, a brash and confident warrior, made a name for himself as a war leader in [[Eastern Dunmar]], before joining with Nayan [[Sura]] in support of her claim to the leadership of the Dunmari people.
 ## Overview
 
 Havdar was born outside [[Karawa]], and grew up herding goats amongst the rough, rocky deserts and scrublands of [[Eastern Dunmar]]. Always passionate about the traditions of the Dunmari, he is dedicated to his homeland and [[Eastern Dunmar]], and the traditions of his people, and skeptical of the city folk to the west and especially the Samraat. Blessed with natural strength and dexterity, Havdar gathered a small group of dedicated warriors around him, and became known as something of a protector of [[Eastern Dunmar]]. He often speaks reverently about the [[Red Mesa]], the [[Gomat]] Oasis, and other landmarks of the eastern plains.

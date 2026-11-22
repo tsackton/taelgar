@@ -2,7 +2,7 @@
 lintedAt: "2026-10-20T07:26:32-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-tags: [object, status/check/lint]
+tags: [object, status/check/lint, status/check/ai]
 typeOf: object of art
 typeOfAlias: fan
 name: Chardon Fan
@@ -14,7 +14,10 @@ POV: 1740s
 > [!taelgar-header]
 > (fan)
 
-![[chardon-fan.png|right|250]]A cotton and bamboo hand fan depicting the towers of [[Chardon]], the intricate design painted onto the fan by a very skilled artist.
+> [!image|right]
+> ![[chardon-fan.webp|250]]
+
+A cotton and bamboo hand fan depicting the towers of [[Chardon]], the intricate design painted onto the fan by a very skilled artist.
 
 %%^Campaign:dufr%%
 Looted from [[Agata's Lair|Agata's hut]] by [[Dunmar Fellowship]]. Probably worth 10-180 gp.

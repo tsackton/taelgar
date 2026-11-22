@@ -2,11 +2,11 @@
 lintedAt: "2026-10-19T23:47:22-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-tags: [object]
+tags: [object, status/check/ai]
 typeOf: gem
 subTypeOf: magical
 ancestry: Fey
-image: "[[gem-of-spell-storing.png]]"
+image: "[[gem-of-spell-storing.webp]]"
 pcOwner: Izgil Moonseeker
 name: Gem of Spell Storing
 whereabouts: Izgil Moonseeker
@@ -17,7 +17,10 @@ POV: modern
 > [!taelgar-header]
 > (Fey magical gem)
 
-![[gem-of-spell-storing.png|right|400]]This swirling gem appears to contain a constantly swirling light, and emits a very faint red glow. It was taken from [[Areschera]] after her death in [[Veltor]].
+> [!image|right]
+> ![[gem-of-spell-storing.webp|400]]
+
+This swirling gem appears to contain a constantly swirling light, and emits a very faint red glow. It was taken from [[Areschera]] after her death in [[Veltor]].
 
 ### Mechanics
 _Requires Attunement_

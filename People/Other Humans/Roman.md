@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: human
 ancestry: Urskan
 gender: male
@@ -18,7 +18,10 @@ POV: 1749
 > [!taelgar-header]
 > (human, Urskan, he/him, lives in Zvervinka)
 
-![[roman-portrait.png|right|400]]Roman is a dapper, silver-haired gentleman who runs [[The Silver Wolf]], a high-end inn and restaurant frequented by merchants in town for the famous markets of [[Zvervinka]]. His impeccable manners mask his self-centered perspective; Roman is always on the lookout for an angle to improve things for himself. Nonetheless, he knows how to run a high-end inn, and his establishment is a hub for gossip and intrigue. 
+> [!image|right]
+> ![[roman-portrait.webp|400]]
+
+Roman is a dapper, silver-haired gentleman who runs [[The Silver Wolf]], a high-end inn and restaurant frequented by merchants in town for the famous markets of [[Zvervinka]]. His impeccable manners mask his self-centered perspective; Roman is always on the lookout for an angle to improve things for himself. Nonetheless, he knows how to run a high-end inn, and his establishment is a hub for gossip and intrigue.
 
 %%SECRET[v2:ee7d418238381cb0a3cc30b65a1a6e40]%%
 

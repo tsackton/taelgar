@@ -20,7 +20,10 @@ POV: 1719
 > [!taelgar-header]
 > (lizardfolk, he/him, b. 1688, lives in Ganboa)
 
-![[lizardfolk-Izoko.png|right|320]]A young lizardfolk, sweet on [[Gentza]]. He is a skilled fisherman but not so skilled at keeping secrets.
+> [!image|right]
+> ![[lizardfolk-Izoko.webp|320]]
+
+A young lizardfolk, sweet on [[Gentza]]. He is a skilled fisherman but not so skilled at keeping secrets.
 
 %%^Metadata:names:v1%%
 - {name: "Izoko", language: "unknown", pronunciation: "ee-SOH-koh", notes: "Proposal using the Basque analogue for Lizardling in [[Languages]]: i is ee, each o is a pure o, z is a voiceless s rather than English z, and k stays hard; penultimate stress is provisional because no precise in-world stress rule or accepted pronunciation is recorded.", status: "proposed"}

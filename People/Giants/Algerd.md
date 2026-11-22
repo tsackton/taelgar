@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
-tags: [status/cleanup/metadata, person, status/check/lint]
+tags: [status/cleanup/metadata, person, status/check/lint, status/check/ai]
 species: giant
 subspecies: frost
 gender: male
@@ -16,7 +16,10 @@ POV: 1749
 > [!taelgar-header]
 > (giant, he/him, lives in Vindristjarna)
 
-![[algerd.jpg|right|250]]Algerd is a somewhat absent-minded frost giant historian, originally from [[Isenborg]]. He has a tendency to focus single-mindedly on whatever happens to be the focus of his attention. He has a sister, who vanished some time ago.
+> [!image|right]
+> ![[algerd.webp|250]]
+
+Algerd is a somewhat absent-minded frost giant historian, originally from [[Isenborg]]. He has a tendency to focus single-mindedly on whatever happens to be the focus of his attention. He has a sister, who vanished some time ago.
 
 %%^Metadata:names:v1%%
 - {name: "Algerd", language: "unknown", pronunciation: "AHL-gehrd", status: "proposed", notes: "Old Norse-informed proposal from the Giant analogue in Languages: initial stress, open ah, hard g, short eh, tapped r, and written final d as d. The analogue does not establish exact in-world phonology or the name language."}

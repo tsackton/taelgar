@@ -1,0 +1,77 @@
+{
+  "totalDurationSeconds": 7777.293,
+  "speakers": [
+    {
+      "transcriptIdentifier": "Audio shared by David S. Kong",
+      "name": null,
+      "gameRole": "Audio shared by David S. Kong",
+      "segmentCount": 236,
+      "durationSeconds": 564.002,
+      "fraction": 0.0725,
+      "wordCount": 1120
+    },
+    {
+      "transcriptIdentifier": "Audio shared by Eric Rosenbaum",
+      "name": null,
+      "gameRole": "Audio shared by Eric Rosenbaum",
+      "segmentCount": 7,
+      "durationSeconds": 8.139,
+      "fraction": 0.001,
+      "wordCount": 15
+    },
+    {
+      "transcriptIdentifier": "David S. Kong",
+      "name": "David Kong",
+      "gameRole": "Ariel",
+      "segmentCount": 334,
+      "durationSeconds": 1376.0,
+      "fraction": 0.1769,
+      "wordCount": 4781
+    },
+    {
+      "transcriptIdentifier": "Eric Rosenbaum",
+      "name": "Eric Rosenbaum",
+      "gameRole": "DM",
+      "segmentCount": 679,
+      "durationSeconds": 2293.701,
+      "fraction": 0.2949,
+      "wordCount": 6072
+    },
+    {
+      "transcriptIdentifier": "Kate Sackton",
+      "name": "Kate Sackton",
+      "gameRole": "Lyndria",
+      "segmentCount": 172,
+      "durationSeconds": 527.413,
+      "fraction": 0.0678,
+      "wordCount": 1430
+    },
+    {
+      "transcriptIdentifier": "Mike Sackton",
+      "name": "Mike Sackton",
+      "gameRole": "Merrin Sweetwater",
+      "segmentCount": 440,
+      "durationSeconds": 1498.111,
+      "fraction": 0.1926,
+      "wordCount": 4298
+    },
+    {
+      "transcriptIdentifier": "Rev. David Schwartz (he/him)",
+      "name": "David Schwartz",
+      "gameRole": "Wasbeer Pete",
+      "segmentCount": 186,
+      "durationSeconds": 585.582,
+      "fraction": 0.0753,
+      "wordCount": 1778
+    },
+    {
+      "transcriptIdentifier": "Tim Sackton",
+      "name": "Tim Sackton",
+      "gameRole": "Tevren",
+      "segmentCount": 256,
+      "durationSeconds": 924.345,
+      "fraction": 0.1189,
+      "wordCount": 2392
+    }
+  ]
+}

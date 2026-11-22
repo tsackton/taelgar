@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-11-12T19:02:10-05:00"
 lintVersion: "3.5"
-tags: [meta, status/check/lint]
+tags: [meta, status/check/lint, status/check/ai]
 layout: wide
 POV: modern
 ---
@@ -76,7 +76,7 @@ In the Zingra, winding channels lead through the mangroves to [[Lizardfolk|lizar
 In [[Medju]], the spice lords have grown rich on goods brought by caravan across the desert. Sailors say a buyer with enough coin can find almost anything in the city’s markets.
 
 > [!image|hero]
-> ![[medju-1.jpg]]
+> ![[medju-1.webp]]
 > *Ships gather beneath the towers of Medju, where desert trade routes meet the Green Sea.*
 
 #### The Republic of Svolhas (7)
@@ -116,7 +116,7 @@ On the northern shore of the Green Sea, [[Ursk]] allows foreign ships to trade a
 On the volcanic islands of [[Skaerhem]], fishing villages shelter in rocky inlets along the storm-swept coast. The [[Skaer]] still honor [[Kaikkea]], the ocean goddess their ancestors worshiped before the Downfall.
 
 > [!image|hero]
-> ![[pyhlla-village-church.png]]
+> ![[pyhlla-village-church.webp]]
 > *A fire burns outside the church of Kaikkea in [[Pyhlla]], above the rocky shore.*
 
 #### The Western Gulf (12)
@@ -124,7 +124,7 @@ On the volcanic islands of [[Skaerhem]], fishing villages shelter in rocky inlet
 West of the [[Straits of Cymea]], halfling ships and Tollish traders sail the sheltered waters of the [[Western Gulf]]. 
 
 > [!image|hero]
-> ![[tollen-fiskurth.png]]
+> ![[tollen-fiskurth.webp]]
 > *Shoppers crowd the wet cobbles of [[Fiskurth]], the fishing ward of [[Tollen]], where the inshore boats land their catch at dawn.*
 
 ## Creating Your Character

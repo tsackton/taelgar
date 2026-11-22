@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-28T16:53:46-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: human
 ancestry: Isinguer
 gender: male
@@ -21,7 +21,10 @@ POV: 1720
 > [!taelgar-header]
 > (human, Isinguer, he/him, b. 1674)
 
-![[arnaud-ausson.png|right|320]]A prominent merchant in [[Cleenseau]], his grandmother, [[Lizette Ausson]], traces her family to [[Isingue]] and he and his wife Alessia are the heart of a small community of Isinguen transplants in [[Cleenseau]]. He is well connected with the [[Refounded Alliance of Aurbez]] and well known to the merchant caravans that come from places like [[Laicon]] with recovered dwarven metals. 
+> [!image|right]
+> ![[arnaud-ausson.webp|320]]
+
+A prominent merchant in [[Cleenseau]], his grandmother, [[Lizette Ausson]], traces her family to [[Isingue]] and he and his wife Alessia are the heart of a small community of Isinguen transplants in [[Cleenseau]]. He is well connected with the [[Refounded Alliance of Aurbez]] and well known to the merchant caravans that come from places like [[Laicon]] with recovered dwarven metals.
 
 He remains close to his aunt, [[Giselle Ausson]], who runs [[Ausson's Crossing]], an important inn in [[Laicon]].
 

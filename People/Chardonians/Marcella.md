@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-25T23:14:40-04:00"
 lintVersion: "3.5"
-tags: [person, status/cleanup/text, status/cleanup/metadata, status/check/lint]
+tags: [person, status/cleanup/text, status/cleanup/metadata, status/check/lint, status/check/ai]
 species: human
 ancestry: Chardonian
 campaignInfo:
@@ -32,7 +32,8 @@ Traveled uneasily with [[Kadmos]], [[Hektor]], [[Casian]], and [[Antonia]].
 
 Felt forced to try to steal from party in [[Session 44 (DuFr)]], but when given the push by [[Wellby]] to flee for herself at the end of battle figures out how to make her escape. Disappears when [[Kadmos]] and company are fighting [[Kobolds]] in the [[Myraeni Gap]], heading for the Stoneborn and then Sembara. 
 
-![[marcella.png|500]]
+> [!image|right]
+> ![[marcella.webp|500]]
 
 %%SECRET[v2:584534ea4bc260ef7a1dff1e40e1ff9f]%%
 

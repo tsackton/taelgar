@@ -1,31 +1,56 @@
+---
+tags: [status/check/ai]
+---
+
 ----------
 This is a brainstorming and organization document for new people that have not been introduced. Depending on the details they may be represented by pages or just notes here.
 
 Unused images
 
 
-![[__unused-person-1.png|left|200]]
+> [!image|left]
+> ![[__unused-person-1.webp|200]]
 
 
-![[__unused-person-2.png|left|200]]
+> [!image|left]
+> ![[__unused-person-2.webp|200]]
 
 
-![[__unused-person-3.png|left|200]]
-![[__unused-person-5.png|left|200]]
-![[__unused-person-6.png|left|200]]
-![[__unused-person-4.png|left|200]]
-![[__unused-person-8.png|left|200]]
+> [!image|left]
+> ![[__unused-person-3.webp|200]]
+
+> [!image|left]
+> ![[__unused-person-5.webp|200]]
+
+> [!image|left]
+> ![[__unused-person-6.webp|200]]
+
+> [!image|left]
+> ![[__unused-person-4.webp|200]]
+
+> [!image|left]
+> ![[__unused-person-8.webp|200]]
 
 
-![[__unused-person-7.png|left|200]]
-![[__unused-person-9.png|left|200]]
-![[__unused-person-10.png|left|200]]
+> [!image|left]
+> ![[__unused-person-7.webp|200]]
+> *Woman tending a grey horse*
 
-![[__unused_person_11.png|left|200]]
+> [!image|left]
+> ![[__unused-person-9.webp|200]]
 
-![[rene-daslain-kid.png|left|200]]
+> [!image|left]
+> ![[__unused-person-10.webp|200]]
 
-![[peydon-ferry.png]]
+> [!image|left]
+> ![[__unused_person_11.webp|200]]
+
+> [!image|left]
+> ![[rene-daslain-kid.webp|200]]
+
+> [!image|figure standard]
+> ![[peydon-ferry.webp]]
+> *Peydon ferry landing*
 
 Tyrwinghan Names:
 - **Arianwen** (ah-ree-AHN-wen) - Female, "Silver fair one"

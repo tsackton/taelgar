@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-25T09:29:24-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: human
 ancestry: Isinguer
 campaignInfo:
@@ -24,7 +24,10 @@ POV: 1749
 > [!taelgar-header]
 > (human, Isinguer, he/him, b. 1716)
 
-![[martin.png|right|400]]Martin is an Isinguer human and a captain of the [[Rangers]]. He is a seasoned tactician and often serves as the coordinator of Ranger operations within the [[Refounded Alliance of Aurbez]].
+> [!image|right]
+> ![[martin.webp|400]]
+
+Martin is an Isinguer human and a captain of the [[Rangers]]. He is a seasoned tactician and often serves as the coordinator of Ranger operations within the [[Refounded Alliance of Aurbez]].
 
 Martin is a well-built, dashing man in his 30s, with dark hair and a tidy beard. He generally wears chain mail and a river-green cloak. 
 

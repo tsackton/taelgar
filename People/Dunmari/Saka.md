@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-08T12:57:14-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: human
 ancestry: Dunmari
 campaignInfo:
@@ -9,7 +9,7 @@ campaignInfo:
 born: 1664
 gender: female
 name: Saka
-image: saka.png
+image: saka.webp
 pronunciation: SAH-kah
 affiliations: [Order of the Awakened Soul]
 whereabouts:
@@ -24,7 +24,10 @@ POV: 1748
 > [!taelgar-header]
 > (human, Dunmari, she/her, b. 1664, lives in Varashan)
 
-![[saka.png|right|350]]Saka is an eldery woman, and a Master of the [[Order of the Awakened Soul|Mystai of Bhishma]]. She grew up outside [[Tokra]], and now travels with her horse-herding family on the [[Varashan]], helped by her niece [[Jita of Tokra|Jita]].
+> [!image|right]
+> ![[saka.webp|350]]
+
+Saka is an eldery woman, and a Master of the [[Order of the Awakened Soul|Mystai of Bhishma]]. She grew up outside [[Tokra]], and now travels with her horse-herding family on the [[Varashan]], helped by her niece [[Jita of Tokra|Jita]].
 
 Saka opposed the order’s attempt to cleanse the [[Plaguelands]] in DR 1718, believing it too dangerous, and refused to participate. After the [[Awakened Soul Disaster|attempt failed]], she fled west and did her best to train new apprentices to preserve what she could of the Mystai. 
 

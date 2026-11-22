@@ -2,14 +2,14 @@
 lintedAt: "2026-10-20T07:26:32-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-tags: [object]
+tags: [object, status/check/ai]
 typeOf: shield
 subTypeOf: magical
 ancestry: "Deno'qai"
 ddbLink: https://www.dndbeyond.com/magic-items/5360068-lynx-denoqai-shield
 pcOwner: Delwath
 rarity: legendary
-image: "[[lynx-shield.png]]"
+image: "[[lynx-shield.webp]]"
 name: "Deno'qai Lynx Shield"
 whereabouts: Delwath
 knownTo: [dufr]
@@ -19,7 +19,10 @@ POV: modern
 > [!taelgar-header]
 > (legendary Deno'qai magical shield)
 
-![[lynx-shield.png|right|400]]A magical shield of Deno'qai make, decorated with a lynx motif. This shield was originally made with the blessings of the [[Tanshi]] for [[Balati]], a Deno’qai hero in the [[Great War]]. After Balati fell in battle, the shield was preserved by the [[Ko'zula]] tribe, along with Balati's [[Deno'qai Scale Mail|armor]].
+> [!image|right]
+> ![[lynx-shield.webp|400]]
+
+A magical shield of Deno'qai make, decorated with a lynx motif. This shield was originally made with the blessings of the [[Tanshi]] for [[Balati]], a Deno’qai hero in the [[Great War]]. After Balati fell in battle, the shield was preserved by the [[Ko'zula]] tribe, along with Balati's [[Deno'qai Scale Mail|armor]].
 
 %%^Campaign:dufr%%
 In DR 1748, this shield was [[Session 53 (DuFr)|gifted]] to [[Delwath]] by [[Enon]], the Godcaller of the [[Ko'zula]], to aid on his quest to rescue the [[Meswati]]. During the course of [[Session 54 (DuFr)|Delwath's adventure]], this shield gained the blessings of the six lost tanshi as [[Session 55 (DuFr)|they were freed]]: [[Midri]], [[K'onisati]], [[Nisir]], [[Taraka]], [[Yalik'i]], and [[Yezali]]. Later, [[Umli]] [[Session 90 (DuFr)|enhanced]] the shield with [[Skaer Steel]]. 

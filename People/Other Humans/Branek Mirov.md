@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
-tags: [person, status/gameupdate/dufr, status/check/lint]
+tags: [person, status/gameupdate/dufr, status/check/lint, status/check/ai]
 species: human
 ancestry: Urskan
 gender: male
@@ -18,7 +18,10 @@ POV: 1749
 > [!taelgar-header]
 > (human, Urskan, he/him, b. 1697, lives in Voknaz Manor)
 
-![[branek-mirov-portrait-v2.png|right|400]]Branek is a powerful wizard and high-ranking member of the [[Rodnya Voknaz]], based at the Voknaz Manor, the headquarters of the rodnya. 
+> [!image|right]
+> ![[branek-mirov-portrait-v2.webp|400]]
+
+Branek is a powerful wizard and high-ranking member of the [[Rodnya Voknaz]], based at the Voknaz Manor, the headquarters of the rodnya.
 
 He is devoted to the [[Rodnya Voknaz]], and has dedicated his life to the organization. 
 

@@ -2,11 +2,11 @@
 lintedAt: "2026-10-19T23:47:22-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-tags: [object]
+tags: [object, status/check/ai]
 typeOf: pipes
 subTypeOf: magic
 ancestry: fey
-image: "[[pipes-of-insect-control.png]]"
+image: "[[pipes-of-insect-control.webp]]"
 pcOwner: Viepuck
 name: Pipes of Insect Control
 whereabouts: Viepuck
@@ -17,7 +17,10 @@ POV: modern
 > [!taelgar-header]
 > (fey magic pipes)
 
-![[pipes-of-insect-control.png|right|420]]A set of pan pipes, crudely made and lashed together with twine. Each of the four pipes plays a different note.  Originally of suspected fey make, and found in the [[Cleenseau Wood]] by some bandits. Later found in the bandit lair by the [[Heroes of Cleenseau]].
+> [!image|right]
+> ![[pipes-of-insect-control.webp|420]]
+
+A set of pan pipes, crudely made and lashed together with twine. Each of the four pipes plays a different note.  Originally of suspected fey make, and found in the [[Cleenseau Wood]] by some bandits. Later found in the bandit lair by the [[Heroes of Cleenseau]].
 
 ### Mechanics
 This rough set of pan pipes can be used to control an insect. As a Magic action, target one insect (or swarm of insects) within 100 feet that can hear the pipes being played. The insect must make a **DC 13** Charisma Saving Throw. If the insect is Charmed by the pipes, it automatically fails this Saving Throw. On a failure, you can apply one of the following effects to the beast:

@@ -8,6 +8,7 @@ format: mini-campaign
 playStatus: active
 canon: canonical
 continuity: [main, taelgar-31]
+sessionBundleDirectory: _sessions/stars-stories
 recordings: sessions/recordings/stars-stories
 name: Stars and Stories Crossover
 ---

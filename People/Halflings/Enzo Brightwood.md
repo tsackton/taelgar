@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
-tags: [person, status/cleanup/metadata, status/check/lint]
+tags: [person, status/cleanup/metadata, status/check/lint, status/check/ai]
 species: halfling
 ancestry: null
 born: null
@@ -23,7 +23,10 @@ POV: 1720
 > [!taelgar-header]
 > (halfling, he/him)
 
-![[enzo-brightwood.png|right|400]]A skirmisher and scout. Young, to be on the road. Cousin of [[Adra Brightwood]].
+> [!image|right]
+> ![[enzo-brightwood.webp|400]]
+
+A skirmisher and scout. Young, to be on the road. Cousin of [[Adra Brightwood]].
 
 %% Meta 3rd  level rogue scout %%
 

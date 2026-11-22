@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: human
 ancestry: Sembaran
 campaignInfo:
@@ -23,7 +23,10 @@ POV: 1710s
 > [!taelgar-header]
 > (human, Sembaran, he/him, b. 1693, lives in Evis)
 
-![[guy-de-varan-maseau.png|right|320]]A traveler and caravan expediter, he is relatively well-known along [[Bandit's Way]] as a man who can help find guards and organize supplies. The de Varan family is well-known in [[Duchy of Maseau|Maseau]] and was originally from far southern [[Isingue]] before the Great War. 
+> [!image|right]
+> ![[guy-de-varan-maseau.webp|320]]
+
+A traveler and caravan expediter, he is relatively well-known along [[Bandit's Way]] as a man who can help find guards and organize supplies. The de Varan family is well-known in [[Duchy of Maseau|Maseau]] and was originally from far southern [[Isingue]] before the Great War.
 
 %%^Date:1719-10-30%%
 He was captured by [[Wakog]] in the late fall of 1720, and his escape to [[Cleenseau]] was the trigger that led to the [[Battle Against Wakog]] and [[Wakog|Wakog's]] defeat.

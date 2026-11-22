@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T09:08:30-04:00"
 lintVersion: "3.5"
-tags: [meta]
+tags: [meta, status/check/ai]
 campaign: dufr
 name: Scrying Delwath Tollen Downtime
 POV: 1749
@@ -75,7 +75,8 @@ Over time, you get a better sense of the place where he lives. It seems to be on
 
 Once, you see another person. A woman, wearing white furs, gloves, with elegant features, blue eyes, somewhat younger than Radomir. She rides up to Radomir’s house on a horse, looks around as she dismounts, calling a greeting to Radomir, who is outside stacking wood. 
 
-![[radomir-sister-portrait.png]]
+> [!image|right standard]
+> ![[radomir-sister-portrait.webp]]
 
   
 She walks up to him purposefully, and speaks quietly in a strange language (which Delwath quickly casts Tongues to decipher). 

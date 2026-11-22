@@ -205,7 +205,7 @@ The party moves through a dead plant greenhouse, a picked-over armory, and an un
 - Organizations: Arithrimos Lamperum
 - Items: map library collection, room 25 listening notebook, chained library books
 - Enemies: none
-- Image: [[feywild-05-27th-house-library.png]]
+- Image: [[feywild-05-27th-house-library.webp]]
 - Image Role: hero
 - Image Size:
 - Image Placement:

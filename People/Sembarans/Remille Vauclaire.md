@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: human
 ancestry: null
 born: null
@@ -25,7 +25,10 @@ POV: 1720
 > [!taelgar-header]
 > (human, she/her, lives in Adderfell)
 
-![[remille-vauclaire.png|right|400]]A swordswoman. 
+> [!image|right]
+> ![[remille-vauclaire.webp|400]]
+
+A swordswoman.
 
 %% 
 Meta: lowish level fighter 

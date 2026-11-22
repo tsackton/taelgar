@@ -1,4 +1,9 @@
-![[keldrin-goldshield.png|left|400]]
+---
+tags: [status/check/ai]
+---
+
+> [!image|left]
+> ![[keldrin-goldshield.webp|400]]
 
 Keldrin Goldshield
 

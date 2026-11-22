@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
-tags: [person, status/gameupdate/dufr, status/check/lint]
+tags: [person, status/gameupdate/dufr, status/check/lint, status/check/ai]
 species: halfling
 born: 1701
 gender: male
@@ -19,7 +19,10 @@ POV: 1749
 > [!taelgar-header]
 > (halfling, he/him, b. 1701)
 
-![[mica-copperharp.jpg|right|250]]Mica Copperharp is a halfling sailor, formerly part of the crew of the [[Stormdancer]], who followed his wife, [[Willow Copperharp]], to join the crew of [[Vindristjarna]]. He is a comic, a joker, good with his hands and the drums, but not always the most subtle or careful with his words. He is a good brewer, and likes a mug of ale and meeting new people.
+> [!image|right]
+> ![[mica-copperharp.webp|250]]
+
+Mica Copperharp is a halfling sailor, formerly part of the crew of the [[Stormdancer]], who followed his wife, [[Willow Copperharp]], to join the crew of [[Vindristjarna]]. He is a comic, a joker, good with his hands and the drums, but not always the most subtle or careful with his words. He is a good brewer, and likes a mug of ale and meeting new people.
 
 %%^Metadata:names:v1%%
 - {"name": "Mica Copperharp", "language": "unknown", "pronunciation": "MY-kuh KOP-er-harp", "status": "proposed", "notes": "Proposed from the English-like display-name guidance in [[Halflings]] and the Micah spelling in [[Session 111 (DuFr)]], with the surname read as copper plus harp. If the given name is instead intended in Halfling, the provisional Igbo analogue in [[Languages]] suggests MEE-kah as an alternative; its language and accepted pronunciation are unrecorded."}

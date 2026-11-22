@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: human
 ancestry: Sembaran
 born: 1659
@@ -20,7 +20,10 @@ POV: 1710s
 > [!taelgar-header]
 > (human, Sembaran, he/him, b. 1659)
 
-![[perrin-the-druid.png|right|320]]Perrin Voclain is a sage and acolyte of the Wildling who lives in [[Taviose]]. He is known for his friendship with the animals of [[Cleenseau Wood|the Wood]], and for his minor miracles of healing and guidance. 
+> [!image|right]
+> ![[perrin-the-druid.webp|320]]
+
+Perrin Voclain is a sage and acolyte of the Wildling who lives in [[Taviose]]. He is known for his friendship with the animals of [[Cleenseau Wood|the Wood]], and for his minor miracles of healing and guidance.
 
 %% He is a first level druid; He must have a past but I never invented one %%
 

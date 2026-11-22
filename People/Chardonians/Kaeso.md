@@ -1,13 +1,13 @@
 ---
 lintedAt: "2026-08-23T12:50:50-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: human
 ancestry: Chardonian
 born: 1691
 gender: male
 name: Kaeso
-image: kaeso.png
+image: kaeso.webp
 pronunciation: KAI-soh
 affiliations: [Shakun Mystai]
 whereabouts:
@@ -28,7 +28,10 @@ POV: 1749
 > [!taelgar-header]
 > (human, Chardonian, he/him, b. 1691)
 
-![[kaeso.png|right|400]]Kaeso is a well-traveled Chardonian scholar and practical magician, and a  friend and mentor to [[Kenzo]] of the [[Dunmar Fellowship]]. In his late fifties, he has a lively face, scraggly black hair, and olive skin; he prefers simple, functional dress. Though graying patches of hair and care-worn lines on his face show signs of his age, he maintains a youthful energy, and speaks  emphatically with his hands. 
+> [!image|right]
+> ![[kaeso.webp|400]]
+
+Kaeso is a well-traveled Chardonian scholar and practical magician, and a  friend and mentor to [[Kenzo]] of the [[Dunmar Fellowship]]. In his late fifties, he has a lively face, scraggly black hair, and olive skin; he prefers simple, functional dress. Though graying patches of hair and care-worn lines on his face show signs of his age, he maintains a youthful energy, and speaks  emphatically with his hands.
 ## Background
 Kaeso was born and raised in Chardon, and studied under [[Roscelia]] at the [[Faculty of Magic]] in the [[University of Chardon]] as a youth. He was never the most talented student, but his steady persistence carried him through university. Kaeso was not drawn to the academic life, and soon left Chardon to travel widely, passing through [[Dunmar]], [[Karawa]], and many other places. %%^Campaign:dufr%%Here, he was initiated into the [[Shakun Mystai]], a secret only other initiates can learn.%%^End%%
 

@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-19T11:22:11-04:00"
 lintVersion: "3.5"
-tags: [meta]
+tags: [meta, status/check/ai]
 name: Riswynn — early-campaign character reference
 POV: "1748"
 ---
@@ -11,15 +11,19 @@ This set represents Riswynn in the **early Dunmar Frontier campaign**, anchored 
 
 ## Reference images
 
-| Close portrait                           | Full body — front                               | Full body — rear                               |
-| ---------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| ![[riswynn-early-campaign-portrait.png]] | ![[riswynn-early-campaign-full-body-front.png]] | ![[riswynn-early-campaign-full-body-rear.png]] |
+> [!gallery]
+> - ![[riswynn-early-campaign-portrait.webp]]
+>   *Close portrait*
+> - ![[riswynn-early-campaign-full-body-front.webp]]
+>   *Full body — front*
+> - ![[riswynn-early-campaign-full-body-rear.webp]]
+>   *Full body — rear*
 
-- **Close portrait:** `riswynn-early-campaign-portrait.png`
-- **Full body, front:** `riswynn-early-campaign-full-body-front.png`
-- **Full body, rear:** `riswynn-early-campaign-full-body-rear.png`
+- **Close portrait:** `riswynn-early-campaign-portrait.webp`
+- **Full body, front:** `riswynn-early-campaign-full-body-front.webp`
+- **Full body, rear:** `riswynn-early-campaign-full-body-rear.webp`
 
-All three images are 1254 × 1254 PNGs. They retain the approved leaner, athletic build and matching face, with a subtle head enlargement across the close portrait, front, and rear views to strengthen her dwarven proportions.
+All three images are 1254 × 1254 WebP files. They retain the approved leaner, athletic build and matching face, with a subtle head enlargement across the close portrait, front, and rear views to strengthen her dwarven proportions.
 
 ## Visual choices for this set
 

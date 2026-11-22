@@ -19,7 +19,10 @@ POV: 1720
 > [!taelgar-header]
 > (human, Sembaran, he/him, b. 1699, lives in Cleenseau)
 
-![[conrard-cleenseau.png|right|320]][[Anselm|Anselm's]] assistant at the Temple of the Warlord. A young, rather shy man, who looks up to Anselm but has become fascinated by the [[Heroes of Cleenseau]]. He is the main organizer of the temple's charity, and knows the people of [[Beggar's Way]] relatively well. 
+> [!image|right]
+> ![[conrard-cleenseau.webp|320]]
+
+[[Anselm|Anselm's]] assistant at the Temple of the Warlord. A young, rather shy man, who looks up to Anselm but has become fascinated by the [[Heroes of Cleenseau]]. He is the main organizer of the temple's charity, and knows the people of [[Beggar's Way]] relatively well.
 
 %%^Campaign:clee%%
 He was one of the few people in [[Cleenseau]] who was sad to learn of [[Nicholas the Beggar|Nicholas the Beggar's]] death.

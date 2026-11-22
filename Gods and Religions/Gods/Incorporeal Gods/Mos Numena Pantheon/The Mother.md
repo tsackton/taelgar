@@ -2,7 +2,7 @@
 lintedAt: "2026-10-19T10:02:41-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-tags: [power, religion/mosnumena]
+tags: [power, religion/mosnumena, status/check/ai]
 typeOf: incorporeal god
 gender: female
 name: The Mother
@@ -29,13 +29,18 @@ A deity in the [[Mos Numena]] pantheon, and one of the [[Incorporeal Gods]] of h
 
 The Mother is usually pictured as a motherly woman, of child-bearing age, sometimes depicted pregnant, and usually with long, flowing hair and white robes, sometimes with flowers in her hair. She is the Goddess of birth and fertility, healing and wisdom. She is usually associated with the spring, and the moon, and the virtue of peace. She watches over births, planting and harvest, and the sick.
 
-![[the-mother-holy-symbol.png|right|150]]The holy symbol of the Mother is a seedling, with eight leaves, typically depicted in a symmetrical pattern with the eight leaves radiating from a central point. Sometimes stylized as a simple eight-lobed design, and occasionally set within a circle representing the moon and the cycles of the seasons. 
+> [!image|right]
+> ![[the-mother-holy-symbol.webp|150]]
+
+The holy symbol of the Mother is a seedling, with eight leaves, typically depicted in a symmetrical pattern with the eight leaves radiating from a central point. Sometimes stylized as a simple eight-lobed design, and occasionally set within a circle representing the moon and the cycles of the seasons.
 
 In art, the Mother is often depicted as the source of healing, and is associated with depictions of the cycle of seasons. She is often shown pregnant, and often associated with the bounty of life and the lushness of spring. Some illustrative art is shown below:
 
-![[the-mother-example-painting.jpg]]
+> [!image|right standard]
+> ![[the-mother-example-painting.webp]]
 
-![[the-mother-example-stained-glass.png]]
+> [!image|right standard]
+> ![[the-mother-example-stained-glass.webp]]
 
 %%
 In mechanical terms, her clerics would usually be associated with the Life or Peace domain.

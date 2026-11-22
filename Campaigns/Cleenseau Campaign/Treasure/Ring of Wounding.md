@@ -2,10 +2,10 @@
 lintedAt: "2026-10-19T23:47:22-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-tags: [object]
+tags: [object, status/check/ai]
 typeOf: ring
 subTypeOf: magical necromantic
-image: "[[ring-of-wounding.png]]"
+image: "[[ring-of-wounding.webp]]"
 pcOwner: Heroes of Cleenseau
 name: Ring of Wounding
 knownTo: [clee]
@@ -15,7 +15,10 @@ POV: modern
 > [!taelgar-header]
 > (magical necromantic ring)
 
-![[ring-of-wounding.png|right|420]]A band of solid blackness that is ring-shaped, but appears to absorb all light and is not clearly made of any material at all. Deeply necromantic, but not extremely powerful. Something about it makes you nervous about trying to use it. Taken from a skeleton that attacked the [[Heroes of Cleenseau]] with necromantic magic beneath [[Essford Manor]].
+> [!image|right]
+> ![[ring-of-wounding.webp|420]]
+
+A band of solid blackness that is ring-shaped, but appears to absorb all light and is not clearly made of any material at all. Deeply necromantic, but not extremely powerful. Something about it makes you nervous about trying to use it. Taken from a skeleton that attacked the [[Heroes of Cleenseau]] with necromantic magic beneath [[Essford Manor]].
 
 ### Mechanics
 _Requires Attunement_

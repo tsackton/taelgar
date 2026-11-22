@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-25T23:38:37-04:00"
 lintVersion: "3.5"
-tags: [place]
+tags: [place, status/check/ai]
 typeOf: plane
 ancestry: dwarven
 name: Heart of the Mountain
@@ -21,7 +21,9 @@ It has been described in many ways over the long history of the dwarves. Some dw
 
 >*A vast cavern hundreds and hundreds of feet across, with endless tunnels that leave the cave in all directions, many wide and brightly lit by crystal lanterns, others narrow, some nearly vanished into the shadows. Small motes of light that float in the air, causing the flecks of white gemstones and silver veins that run through the walls of the cave to glitter and sparkle. In the center of the open space is a perfectly smooth pool of water, deep and dark. The only sound is the distant, rhythmic clang of hammer on iron, ringing almost like a bell, the tempo slow but steady.*
 
-![[heart-of-the-mountain.png|800]]
+> [!image|figure]
+> ![[heart-of-the-mountain.webp|800]]
+> *Heart of the Mountain, cavern pools*
 
 ## The Forge of Names
 

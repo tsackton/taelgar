@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: kenku
 ancestry: Islander
 campaignInfo:
@@ -22,7 +22,10 @@ POV: 1748
 > [!taelgar-header]
 > (kenku, Islander, he/him, b. 1712, lives in Wahacha)
 
-![[makha.png|right|320]]The port master and unofficial town spokesperson for the kenku settlement of [[Wahacha]].  
+> [!image|right]
+> ![[makha.webp|320]]
+
+The port master and unofficial town spokesperson for the kenku settlement of [[Wahacha]].
 ## Relationships:
 Makha knows the people of Wahacha well, including:
 - [[Nahto]] and [[Skoda]], a married couple, travelers and wanderers based out of Wahacha

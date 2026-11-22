@@ -2,7 +2,7 @@
 lintedAt: "2026-10-19T00:07:38-04:00"
 lintVersion: "3.5"
 displayDefaults: {wOrigin: "Home area: <origin>", prep: "on", wHome: "Home area: <home>"}
-tags: [object, status/cleanup/whereabouts]
+tags: [object, status/cleanup/whereabouts, status/check/ai]
 typeOf: vehicle
 typeOfAlias: boat
 ancestry: halfling
@@ -25,7 +25,9 @@ A spritely halfling trader, sailing a meandering route around the [[Gulf of Char
 
 Unlike many halfling trading ships, this is not really a family operation.
 
-![[summers-breeze-underway.jpg]]
+> [!image|figure standard]
+> ![[summers-breeze-underway.webp]]
+> *Summer's Breeze underway*
 
 %%^Metadata:names:v1%%
 - {"name": "Summer's Breeze", "language": "unknown"}

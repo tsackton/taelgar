@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
-tags: [person, status/gameupdate/clee, status/check/lint]
+tags: [person, status/gameupdate/clee, status/check/lint, status/check/ai]
 species: dwarf
 ancestry: null
 born: 1453
@@ -25,7 +25,10 @@ POV: 1719
 > [!taelgar-header]
 > (dwarf, he/him, b. 1453)
 
-![[izgil-moonseeker.png|right|420]]Izgil is a stocky, hardy looking dwarf wearing leather and carrying a shield on his back. He has a sort of luminescent white/blue beard and hair worn in braids and often has books and other odd devices strapped to his gear. He comes from the [[Gemcrafters]] clan in [[Nidzahar]].
+> [!image|right]
+> ![[izgil-moonseeker.webp|420]]
+
+Izgil is a stocky, hardy looking dwarf wearing leather and carrying a shield on his back. He has a sort of luminescent white/blue beard and hair worn in braids and often has books and other odd devices strapped to his gear. He comes from the [[Gemcrafters]] clan in [[Nidzahar]].
 
 > [!INFO]- Izgil's Background (For Matt's Eyes Only)
 >Izgil was born in the year 5586 by the ancient count of the dwarves, or 1453 in the reckoning used by the humans. He was born in the backwater kingdom of [[Nidzahar]] in the years before the [[Great War]]. He never quite fit into the role his family and clan made for him. When he went through his naming ritual he took the name Durgil and earned his thuhr as one of the Travelers, followers of Maganna, and settled into a role of traveling merchant. By 5617, he was traveling amongst the humans, trading minerals and crafted works for food and other fine things from far and wide.  

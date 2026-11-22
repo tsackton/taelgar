@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T18:19:15-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: halfling
 gender: female
 name: Tilly Brineheart
@@ -17,7 +17,7 @@ POV: modern
 > (halfling, she/her)
 
 > [!image|aside]
-> ![[tilly-brineheart.jpg]]
+> ![[tilly-brineheart.webp]]
 > *Tilly Brineheart, halfling sailor.*
 
 Tilly Brineheart is a halfling sailor, wanderer, adventurer, and spellcaster of considerable talent. She loves exploration and seeing new places above all else, with the possible exception of her husband [[Milo Thistlefoot]], who shares her love of adventurer. 

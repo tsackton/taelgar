@@ -1,14 +1,14 @@
 ---
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
-tags: [person, status/cleanup/metadata, status/check/lint]
+tags: [person, status/cleanup/metadata, status/check/lint, status/check/ai]
 species: dwarf
 ancestry: null
 campaignInfo:
   - {campaign: dufr, date: 1748-12-30, type: first met}
 born: 1516
 gender: male
-image: faldrak-small.png
+image: faldrak-small.webp
 name: Faldrak Bronzehammer
 aliases: [Faldrak]
 affiliations:
@@ -28,7 +28,10 @@ POV: 1740s
 > [!taelgar-header]
 > (dwarf, he/him, b. 1516)
 
-![[faldrak-portrait-1.png|right|400]]Faldrak Bronzehammer is an aged dwarf runecrafter and tinker, with a touch of Feywild whimsy.
+> [!image|right]
+> ![[faldrak-portrait-1.webp|400]]
+
+Faldrak Bronzehammer is an aged dwarf runecrafter and tinker, with a touch of Feywild whimsy.
 ## Overview
 Faldrak Bronzehammer, with his eccentric blend of traditional dwarven craftsmanship and fey magic, has become a subject of both admiration and curiosity. Born in [[Fahnukan]], a strange northern dwarven kingdom, his life took an unexpected turn during an accidental sojourn in the [[Feywild]]. Although he emerged with peculiar behaviors, his enhanced craft bearing fey enchantments has left many in awe. 
 ## Description

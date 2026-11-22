@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: human
 ancestry: Skaer
 campaignInfo:
@@ -23,7 +23,10 @@ POV: 1748
 > [!taelgar-header]
 > (human, Skaer, she/her, b. 1724)
 
-![[laivan-iskra.png|right|500]]A young woman and priestess of [[Kaikkea]] in [[Tollen]]. She speaks with the power of the ocean, and has a deep connection to [[Kaikkea]].
+> [!image|right]
+> ![[laivan-iskra.webp|500]]
+
+A young woman and priestess of [[Kaikkea]] in [[Tollen]]. She speaks with the power of the ocean, and has a deep connection to [[Kaikkea]].
 
 %%^Campaign:dufr%%
 She told her story and history to Kenzo while they wandered [[Tollen]] together in the moments of quiet after the destruction of the [[Scepter of Command]] and before the [[Battle for Uzgukhar]]. 

@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-25T23:14:40-04:00"
 lintVersion: "3.5"
-tags: [person, status/gameupdate/dufr, status/check/lint]
+tags: [person, status/gameupdate/dufr, status/check/lint, status/check/ai]
 species: human
 ancestry: Chardonian
 campaignInfo: []
@@ -26,7 +26,8 @@ A barbarian. A huge Chardonian man, muscled and over 6 feet tall. Silent. Does n
 
 According to [[Marcella]], he was once a sweet sailor with a beautiful singing voice, but was turned somehow by [[Kadmos]] and now is his devoted servant. 
 
-![[hektor.png|right|320]]
+> [!image|right]
+> ![[hektor.webp|320]]
 
 %%SECRET[v2:d4100ee59c3590fca9c390080cfc65a1]%%
 

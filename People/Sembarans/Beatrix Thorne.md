@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: human
 ancestry: Sembaran
 born: 1696
@@ -25,7 +25,10 @@ POV: 1720
 > [!taelgar-header]
 > (human, Sembaran, she/her, b. 1696, lives in Cleenseau)
 
-![[beatrix.png|right|320]]A soldier in the Bridge Patrol of the [[Army Garrison of Cleenseau|Cleenseau Garrison]] of the [[Army of the West]], she distinguished herself during the [[Undead Attacks in Sembara]] and other troubles around Cleenseau in the fall of 1719.
+> [!image|right]
+> ![[beatrix.webp|320]]
+
+A soldier in the Bridge Patrol of the [[Army Garrison of Cleenseau|Cleenseau Garrison]] of the [[Army of the West]], she distinguished herself during the [[Undead Attacks in Sembara]] and other troubles around Cleenseau in the fall of 1719.
 
 In November 1720, she married [[Gabriel Thorne]], after which she left the army and joined the [[Lord's Guard of Cleenseau]]. She miscarried during the [[Undead Attacks in Sembara]]. She was made sheriff after the death of [[Ysabel]] during the [[Undead Attacks in Sembara]].
 

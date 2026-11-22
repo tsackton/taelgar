@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
-tags: [person, status/cleanup/metadata]
+tags: [person, status/cleanup/metadata, status/check/ai]
 species: human
 ancestry: Dunmari
 campaignInfo: []
@@ -22,7 +22,10 @@ POV: 1740s
 
 %%need to get campaign info and whereabouts from various other notes%%
 
-![[ikram.png|left|350]]The owner of the caravanserai in Karawa, the eponymously named [[Ikram's]]. He is proud of his establishment, the food and drink it serves, and the commerce it attracts. Perennially optimistic, sociable, and friendly. Always ready with a drink and a story, to tell or to hear; prone to gossip and particularly fond of travelers and new stories. 
+> [!image|left]
+> ![[ikram.webp|350]]
+
+The owner of the caravanserai in Karawa, the eponymously named [[Ikram's]]. He is proud of his establishment, the food and drink it serves, and the commerce it attracts. Perennially optimistic, sociable, and friendly. Always ready with a drink and a story, to tell or to hear; prone to gossip and particularly fond of travelers and new stories.
 
 %%SECRET[v2:4b4618ee2a6f47d4eb1dee3f4eb9e3bd]%%
 

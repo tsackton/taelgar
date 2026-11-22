@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-11-12T19:02:10-05:00"
 lintVersion: "3.5"
-tags: [session-note, status/check/lint]
+tags: [session-note, status/check/lint, status/check/ai]
 campaign: dufr
 sessionNumber: 75
 realWorldDate: 2023-04-10
@@ -43,7 +43,10 @@ The [[Dunmar Fellowship]] successfully defends against shadow attackers, strateg
 ## Narrative
 The session begins as the party is awakened by the howls of shadow dogs, the same chalyte zombie assassins created by [[Fausto]] that chased [[Kenzo]], [[Seeker]], [[Wellby]], and [[Delwath]] down on the flight from [[Chardon]]. 
 
-![[dufr-075-shadow-hunter-portrait.png|300]]![[dufr-075-shadow-hunter-wolf.png|300]]
+> [!gallery]
+> - ![[dufr-075-shadow-hunter-portrait.webp|300]]
+> - ![[dufr-075-shadow-hunter-wolf.webp|300]]
+>   *Violet-lit wolf head*
 
 While [[Delwath]] peels off to fight a flying shadow demon, and [[Seeker]] begins to steer the skyship towards the fight, the rest of the party engages. [[Kenzo]] attacks the lead assassin, while [[Riswynn]] summons a sunbeam to blast away the shadows and [[Wellby]] takes careful aim at everything he can see. But the shadow dogs vanish into the darkness, even as [[Seeker]] animates the [[Ladder]] to stand guard, and emerge, surrounding [[Seeker]], on the deck of the ship. Under heavy attack, [[Seeker]] polymorphs himself into a giant ape-like yeti, while [[Kenzo]] is brought down by a blast of necrotic energy from the assassin, who, leaving the dogs to distract the party, begins to flee with [[Kenzo]]. For a moment it looks like things will be okay, with [[Riswynn]] healing [[Kenzo]], but then [[Riswynn]] is driven off by the shadow assassin's fear spell, [[Kenzo]] is knocked out again, and it is only [[Wellby]]'s perfect shot that brings down the shadow assassin before he can escape with [[Kenzo]]'s unconscious body. The shadow assassin turns, in death, to a normal, if ragged looking [[Humans|human]] man, a pallid, haunted look on his face in death. As the rest of the party cleans up the shadow dogs, [[Wellby]] tends to [[Kenzo]]'s wounds, stabilizing him. 
 
@@ -59,11 +62,15 @@ Speaking to [[Sura]] one final time, [[Kenzo]] argues the most important thing i
 
 Over the next two days, the party falls into a routine. [[Seeker]] pilots the ship for 11 hours, often taking [[Vindristjarna]] as high as it can go, into the freezing clouds far, far above the desert, often removing his shirt to feel the cold wind on his bare skin. Then, the ship lands for an hour, for [[Kenzo]] to attune to the phasing stone, and [[Seeker]] rests while [[Kenzo]] flies through the night. The cycle then repeats, allowing the party to travel 220 miles per day. 
 
-![[dufr-075-over-the-desert.png|800]]
+> [!image|figure]
+> ![[dufr-075-over-the-desert.webp|800]]
+> *Long red escarpment from above*
 
 On the morning of Dec 4th, the party spies a fertile green crescent along the edge of banks of a river, cattle grazing, and orderly wheat fields watched over by a colorful guard tower on the banks of the river. We end, in the pre-dawn light, as the party considers their course of action, maybe 50 miles from the homeland of the [[Orcs|orcs]] they have come to find.
 
-![[dufr-075-orc-lands.png|800]]
+> [!image|figure]
+> ![[dufr-075-orc-lands.webp|800]]
+> *Striped watchtower by grazing cattle*
 
 %%^Lint%%
 ## Taelgar note lint

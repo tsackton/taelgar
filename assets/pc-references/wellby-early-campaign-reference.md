@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-19T11:22:11-04:00"
 lintVersion: "3.5"
-tags: [meta]
+tags: [meta, status/check/ai]
 campaign: dufr
 name: wellby-early-campaign-reference
 POV: 1748
@@ -12,11 +12,15 @@ This set represents Wellby in the **early Dunmar Frontier campaign**, based on t
 
 ## Reference images
 
-| Close portrait | Full body — front | Full body — rear |
-|---|---|---|
-| ![[wellby-early-campaign-portrait.png]] | ![[wellby-early-campaign-full-body-front.png]] | ![[wellby-early-campaign-full-body-rear.png]] |
+> [!gallery]
+> - ![[wellby-early-campaign-portrait.webp]]
+>   *Close portrait*
+> - ![[wellby-early-campaign-full-body-front.webp]]
+>   *Full body — front*
+> - ![[wellby-early-campaign-full-body-rear.webp]]
+>   *Full body — rear*
 
-All three images are 1254 × 1254 PNGs. The close portrait reuses the selected wanderer C unchanged; the full-body front and rear extend that portrait.
+All three images are 1254 × 1254 WebP files. The close portrait reuses the selected wanderer C unchanged; the full-body front and rear extend that portrait.
 
 ## Visual choices for this set
 

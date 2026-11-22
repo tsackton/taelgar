@@ -2,7 +2,7 @@
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
 displayDefaults: {endStatus: "killed by [[Casian]]"}
-tags: [person]
+tags: [person, status/check/ai]
 species: human
 ancestry: Dunmari
 campaignInfo:
@@ -25,7 +25,10 @@ POV: modern
 > [!taelgar-header]
 > (human, Dunmari, he/him, b. 1723, d. 1748, lives in Varashan)
 
-![[justan.jpg|right|250]]A Dunmari man, from a family of horse herders traveling on the lands around [[Tokra]]. 
+> [!image|right]
+> ![[justan.webp|250]]
+
+A Dunmari man, from a family of horse herders traveling on the lands around [[Tokra]].
 
 %%^Campaign:dufr%%
 In the spring of 1748, his family lost much of their wealth from famine and disease, associated with the Tokra refugee crisis caused by the [[Summer Gnoll Raids of 1748]]. He left his home and joined with a group of other disillusioned and unsavory Dunmari in the [[Copper Hills]], and began raiding travelers on the Tokra-Darba road. On July 21, 1748, encountered [[Dunmar Fellowship]] and was intimidated into joining them to fight the rumored dragon (actually wyverns) on the road by [[Delwath]]. Survived the wyvern battle only to be killed by [[Casian]]'s fireball on July 23rd, 1748. 

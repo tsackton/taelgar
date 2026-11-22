@@ -22,7 +22,10 @@ POV: 1720
 > [!taelgar-header]
 > (human, Sembaran, she/her)
 
-![[marguerite-deschamps.png|right|320]]The chief clerk of the Barony of Aveil, she is originally from [[Rinburg]] and her family has longstanding ties to the [[Duchy of Wisford]]. Her appointment was widely seen as an attempt to ensure the [[d'Aslains]] did not dominate the barony for their own benefit. 
+> [!image|right]
+> ![[marguerite-deschamps.webp|320]]
+
+The chief clerk of the Barony of Aveil, she is originally from [[Rinburg]] and her family has longstanding ties to the [[Duchy of Wisford]]. Her appointment was widely seen as an attempt to ensure the [[d'Aslains]] did not dominate the barony for their own benefit.
 
 %%^Campaign:clee%%
 She fell ill immediately after [[Pyravela]] in 1720, and was bedridden and near to death during the [[Undead Attacks in Sembara]]. She recovered only two weeks later.

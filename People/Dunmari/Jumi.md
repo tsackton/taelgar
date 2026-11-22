@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
-tags: [person, status/cleanup/metadata, status/check/lint]
+tags: [person, status/cleanup/metadata, status/check/lint, status/check/ai]
 species: human
 ancestry: Dunmari
 campaignInfo: []
@@ -20,7 +20,10 @@ POV: 1748
 
 %%need to organize whereabouts and campaign info for Jumi%%
 
-![[jumi.jpg|right|300]][[Cintra]]'s young daughter, and a magical prodigy, blessed by the spirit of [[Shakun]]. 
+> [!image|right]
+> ![[jumi.webp|300]]
+
+[[Cintra]]'s young daughter, and a magical prodigy, blessed by the spirit of [[Shakun]].
 
 %%^Date:1748-06-01%%
 In the spring of 1748, Jumi was kidnapped by the hag [[Agata]], and partially turned to wood. She was [[Session 29 (DuFr)|freed]] by [[Seeker]] after the [[Dunmar Fellowship]] [[Session 28 (DuFr)|defeated Agata]].

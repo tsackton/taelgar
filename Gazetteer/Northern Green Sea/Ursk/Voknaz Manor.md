@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T11:59:58-04:00"
 lintVersion: "3.5"
-tags: [place, status/check/lint]
+tags: [place, status/check/lint, status/check/ai]
 typeOf: building
 typeOfAlias: manor
 name: Voknaz Manor
@@ -18,7 +18,9 @@ The Voknaz Manor serves as the headquarters of the [[Rodnya Voknaz]]. Located in
 
 The inner keep sits on a small artificial lake, surrounded by a permanent wall of fire. The entire complex is surrounded by a wall of stone; a number of support buildings and other structures are located on the shore of the lake, and are used to entertain visitors, among other things. 
 
-![[voknaz-manor-1.webp]]
+> [!image|figure standard]
+> ![[voknaz-manor-1.webp]]
+> *Voknaz headquarters encircled by fire*
 
 %%^Metadata:names:v1%%
 - {"name": "Voknaz Manor", "language": "unknown", "pronunciation": "vahk-NAHS MAN-er", "status": "proposed", "notes": "Regional analogue proposal using Russian for Urksan in [[Languages]]: unstressed o reduced toward ah, final z devoiced toward s, and tentative final stress in Voknaz; Manor keeps its ordinary English reading. The name’s actual language and stress are unestablished, and regional association does not document its etymology."}

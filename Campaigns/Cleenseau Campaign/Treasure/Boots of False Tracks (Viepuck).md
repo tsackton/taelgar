@@ -2,10 +2,10 @@
 lintedAt: "2026-10-19T23:47:22-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-tags: [object]
+tags: [object, status/check/ai]
 typeOf: boots
 subTypeOf: magic
-image: "[[boots-of-false-tracks-viepuck.png]]"
+image: "[[boots-of-false-tracks-viepuck.webp]]"
 pcOwner: Viepuck
 ddbLink: https://www.dndbeyond.com/magic-items/27025-boots-of-false-tracks
 name: Boots of False Tracks
@@ -17,7 +17,10 @@ POV: modern
 > [!taelgar-header]
 > (magic boots)
 
-![[boots-of-false-tracks-viepuck.png|right|400]]A well-made set of heavy boots of unknown origin, found in [[Wakog's Camp]].
+> [!image|right]
+> ![[boots-of-false-tracks-viepuck.webp|400]]
+
+A well-made set of heavy boots of unknown origin, found in [[Wakog's Camp]].
 
 ### Mechanics
 Only humanoids can wear these boots. While wearing the boots, you can choose to have them leave tracks like those of another kind of humanoid of your size.

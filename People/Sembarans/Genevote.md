@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: human
 ancestry: Isinguer
 gender: female
@@ -16,7 +16,10 @@ POV: 1720s
 > [!taelgar-header]
 > (human, Isinguer, she/her, lives in Cleenseau)
 
-![[genevote.png|right|320]]The stablemaster of Essford Manor.
+> [!image|right]
+> ![[genevote.webp|320]]
+
+The stablemaster of Essford Manor.
 
 %%^Metadata:names:v1%%
 - {name: "Genevote", language: "unknown", pronunciation: "zhuh-nuh-VOT", notes: "Proposed from the French possibility in the Isinguese guidance in [[Languages]], relevant to the recorded Isinguer ancestry: g before e becomes zh, unstressed e is reduced, final e is silent, and t remains audible. A Spanish-influenced reading would differ, including a guttural initial g and pronounced final e; ancestry alone does not settle the name’s language.", status: "proposed"}

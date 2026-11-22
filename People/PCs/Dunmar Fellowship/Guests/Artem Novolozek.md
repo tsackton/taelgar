@@ -2,7 +2,7 @@
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 displayDefaults: {aNoDate: "Traveled with <affiliations>"}
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: human
 ancestry: Urskan
 campaignInfo: null
@@ -25,7 +25,10 @@ POV: 1748
 > [!taelgar-header]
 > (human, Urskan, he/him)
 
-![[artem-portrait.png|right|320]]Human wizard, originally from [[Ursk]], but fled the magocracy there, bringing a treasure – the crystalline heart of a remorhaz – as payment to a patron in [[Medju]] who will set him free from pursuers. Currently on his way to [[Medju]] after helping [[Wellby]] and companions kill aboleth, and retrieve his treasure. 
+> [!image|right]
+> ![[artem-portrait.webp|320]]
+
+Human wizard, originally from [[Ursk]], but fled the magocracy there, bringing a treasure – the crystalline heart of a remorhaz – as payment to a patron in [[Medju]] who will set him free from pursuers. Currently on his way to [[Medju]] after helping [[Wellby]] and companions kill aboleth, and retrieve his treasure.
 
 %% Various notes about his background exist in email / Discord and could usefully be incorporated %%
 

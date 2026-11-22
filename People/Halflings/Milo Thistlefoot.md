@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
-tags: [person, status/gameupdate/dufr, status/check/lint]
+tags: [person, status/gameupdate/dufr, status/check/lint, status/check/ai]
 species: halfling
 gender: male
 name: Milo Thistlefoot
@@ -18,7 +18,8 @@ POV: 1749
 
 The missing captain of the [[Stormdancer]]. 
 
-![[milo-thistlefoot.jpg]]
+> [!image|right standard]
+> ![[milo-thistlefoot.webp]]
 
 %%^Metadata:names:v1%%
 - {"name": "Milo Thistlefoot", "language": "unknown"}

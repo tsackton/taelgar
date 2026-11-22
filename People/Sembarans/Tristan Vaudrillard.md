@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
-tags: [person, status/cleanup/text, status/check/lint]
+tags: [person, status/cleanup/text, status/check/lint, status/check/ai]
 species: human
 ancestry: Sembaran
 born: 1698
@@ -25,7 +25,10 @@ POV: 1720
 > [!taelgar-header]
 > (human, Sembaran, he/him, b. 1698)
 
-![[tristan-vaudrillard.png|right|400]]A devotee of [[The Sibyl]] and student of magic.
+> [!image|right]
+> ![[tristan-vaudrillard.webp|400]]
+
+A devotee of [[The Sibyl]] and student of magic.
 
 %% Meta: a 4th or 5th level divine soul sorcerer 
 a strange man, fascinated by tales of magic, with compelling eyes and a deep presence_._ He seems young at first - he doesn't look more than 20 or 25 - but the more you talk to him, the odder his stories seem. He grew up in Tyrwingha, in Tafolwern, he says, but in the course of your talking about home, he talks about one of his earliest memories, the birth of Cece I's youngest daughter - which happened 57 years ago. When Izgil, at one point, starts talking of the moon, he is clearly interested. He is devoted to the Sibyl, and she and her guidance often feature in his stories. He has travelled with Vahaiya before.

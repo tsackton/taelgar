@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
-tags: [place, status/check/lint]
+tags: [place, status/check/lint, status/check/ai]
 typeOf: building
 typeOfAlias: palace
 ancestry: fey
@@ -17,7 +17,9 @@ POV: 1748
 
 Once the majestic floating palace of the [[Cloudspinner]], lit with the brilliant hues of sunset, the Cloud Palace is now little more than a gray, washed out ruin, haunted by the lingering members of Cloudspinner's court who refuse to leave, led by [[Lady Eventide]].
 
-![[amberglow-cloud-palace.jpg]]
+> [!image|figure standard]
+> ![[amberglow-cloud-palace.webp]]
+> *Amberglow's ruined Cloud Palace*
 
 %%^Metadata:names:v1%%
 - {"name": "Cloud Palace", "language": "unknown"}

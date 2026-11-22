@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: human
 ancestry: Sembaran
 born: 1662
@@ -24,7 +24,10 @@ POV: 1720
 
 %% end date of Valit needs to be confirmed with session notes for Cleenseau - when she left Veltor %%
 
-![[sabine-de-brune-valit.png|right|320]]Sabine de Brune was the castellan of the [[Manor of Valit]], a vassal of the [[Barony of Aveil|Baron of Aveil]], until her disappearance in early 1720. Organized about managing the manor, but with a soft spot for bardic tales and romance. Never married, although is rumored to have had several great loves in her youth. She was also the magistrate for the village of [[Valit]].
+> [!image|right]
+> ![[sabine-de-brune-valit.webp|320]]
+
+Sabine de Brune was the castellan of the [[Manor of Valit]], a vassal of the [[Barony of Aveil|Baron of Aveil]], until her disappearance in early 1720. Organized about managing the manor, but with a soft spot for bardic tales and romance. Never married, although is rumored to have had several great loves in her youth. She was also the magistrate for the village of [[Valit]].
 
 The de Brune family has long roots in the Enst river valley, and although [[Eskbridge]] is their primary area of operations, there are several outposts along the Enst including a longstanding one in the Cleenseau region. Recently, the family under [[Catherine de Brune]] has grown to include some more diverse mercantile interests in this region.
 

@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-11-12T19:02:10-05:00"
 lintVersion: "3.5"
-tags: [meta]
+tags: [meta, status/check/ai]
 hide: [toc]
 campaign: feywild
 name: Lost in the Feywild
@@ -11,8 +11,9 @@ POV: 1740
 ---
 # Lost in the Feywild
 
-![[feywild-campaign-summary-hero.png]]
-*Five travelers watch a hundred souls go home beneath the first stars of evening.*
+> [!image|figure standard]
+> ![[feywild-campaign-summary-hero.webp]]
+> *Five travelers watch a hundred souls go home beneath the first stars of evening.*
 
 Lost in the Feywild is a seven-episode adventure about the [[Tollen Misfits]], a strange inheritance, a Fey bargain, an ancient magical society, and a prisoner at the center of a mysterious house. What begins with a seemingly ordinary journey through [[Varrow Forest]] to [[Dandelion House]] leads into the [[Feywild]], through an endlessly ending party, and into a house built to move its prisoner through space and time.
 
@@ -63,19 +64,25 @@ Lost in the Feywild is a seven-episode adventure about the [[Tollen Misfits]], a
 
 ## The Journey
 
-  ![[dandelion-house.jpg]]
+  > [!image|figure standard]
+  > ![[dandelion-house.webp]]
+  > *Dandelion House*
 
 **[[Dandelion House]]:** An ancient Drankorian manor, a centuries-old deed, and a hidden door beneath the roots.
 
 ---
 
-![[the-endlessly-ending-party.jpg]]
+> [!image|figure standard]
+> ![[the-endlessly-ending-party.webp]]
+> *The endlessly ending party*
 
 
 **[[Lord Endless Ending's Manor|The Endlessly Ending Party]]:** A Feywild manor where the sun has already set and the last guests never quite leave.
 
 ---
 
-![[feywild-05-27th-house-library.png]]
+> [!image|figure standard]
+> ![[feywild-05-27th-house-library.webp]]
+> *Library of the Twenty-Seventh House*
 
 **[[27th House|The 27th House]]:** A shifting prison of numbered rooms and a prisoner waiting in the dark.

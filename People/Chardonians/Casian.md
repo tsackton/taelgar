@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-25T09:29:24-04:00"
 lintVersion: "3.5"
-tags: [person, status/gameupdate/dufr, status/check/lint]
+tags: [person, status/gameupdate/dufr, status/check/lint, status/check/ai]
 species: human
 ancestry: Chardonian
 campaignInfo: []
@@ -24,7 +24,10 @@ POV: 1748
 
 %%needs header cleanup, text reformat to isolate party interactions%%
 
-![[cassian-portrait.jpg|right|320]]A powerful wizard and evoker, companion to [[Kadmos]], and member of the [[Society of the Open Scroll]]. A short Chardonian man, constantly in motion and filled with nervous energy, wearing stained traveling gear under white robes for protection from the harsh sun. Short dark hair, clean shaven, brown eyes, carries a number of books and notes that he was constantly poring over. Doesn’t talk much except to argue.
+> [!image|right]
+> ![[cassian-portrait.webp|320]]
+
+A powerful wizard and evoker, companion to [[Kadmos]], and member of the [[Society of the Open Scroll]]. A short Chardonian man, constantly in motion and filled with nervous energy, wearing stained traveling gear under white robes for protection from the harsh sun. Short dark hair, clean shaven, brown eyes, carries a number of books and notes that he was constantly poring over. Doesn’t talk much except to argue.
 
 Not well regarded by the party's contacts in Chardon, considered a snob and something of an asshole.
 

@@ -2,7 +2,7 @@
 lintedAt: "2026-10-19T00:07:38-04:00"
 lintVersion: "3.5"
 displayDefaults: {wPastHome: "Was owned by: <current:1>", dPast: "Destroyed by [[Wellby]] on <endDate>"}
-tags: [object, status/check/lint]
+tags: [object, status/check/lint, status/check/ai]
 typeOf: ring
 rarity: unique
 destroyed: 1749-01-20
@@ -17,7 +17,10 @@ POV: modern
 > [!taelgar-header]
 > (unique ring)
 
-![[ring-of-undying.jpg|right|400]]A ring, worn by [[Grash]], that supposedly lets one cheat death forever, and control death around you. Presumably the source of [[Grash]]'s ability to resurrect dead [[Orcs]] into undead. 
+> [!image|right]
+> ![[ring-of-undying.webp|400]]
+
+A ring, worn by [[Grash]], that supposedly lets one cheat death forever, and control death around you. Presumably the source of [[Grash]]'s ability to resurrect dead [[Orcs]] into undead.
 
 The ring was rumored to have been created by an ancient elven wizard from the early days of the world, before humans walked Taelgar. It was made by binding the very substance of the [[Land of the Dead]] into a ring, that gave one power over life and death itself. 
 

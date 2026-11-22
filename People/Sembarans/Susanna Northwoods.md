@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: human
 ancestry: Sembaran
 gender: female
@@ -16,7 +16,10 @@ POV: 1720s
 > [!taelgar-header]
 > (human, Sembaran, she/her, lives in Asineau)
 
-![[Susanna-Northwords.jpg|right|320]]The steward and secretary for the [[Manor of Asineau]], and the wife of [[Bertram Northwoods]].
+> [!image|right]
+> ![[Susanna-Northwords.webp|320]]
+
+The steward and secretary for the [[Manor of Asineau]], and the wife of [[Bertram Northwoods]].
 
 %%^Metadata:names:v1%%
 - {"name": "Susanna Northwoods", "language": "Sembaran", "status": "inferred"}

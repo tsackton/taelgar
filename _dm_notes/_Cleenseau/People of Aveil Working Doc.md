@@ -1,3 +1,7 @@
+---
+tags: [status/check/ai]
+---
+
 People - Raw Notes on people mentioned in email, etc, collated by AI, that I need to review for accuracy and move to main body.
 
 
@@ -19,13 +23,15 @@ a two well known disciples (Marion, Julien)
 
 Captain of Guard Etiene des Ostieux (eh-tyen day os-tee-yuh)
 
-![[etiene-des-ostieux.png|left|200]]
+> [!image|left]
+> ![[etiene-des-ostieux.webp|200]]
 
 
 
 Chamberlain Perette (loyal to baronness)
 
-![[perette-chamberlain.png|left|200]]
+> [!image|left]
+> ![[perette-chamberlain.webp|200]]
 
 
 
@@ -129,7 +135,8 @@ These characters can provide local flavor, quests, or reflect the mood of the po
     
 2. **Inquisitor Lyra Corvin (she/her) - The Arcanist**: A stern woman with dark hair pulled back in a severe bun, dressed in the dark blue robes of the Royal Magisterium. Lyra's specialty is truth. She is a powerful abjuration and divination wizard, capable of seeing through illusions, dispelling enchantments, and protecting her team from hostile magic. She speaks little, but when she does, it is with unnerving precision and insight.
 
-![[lyra-corvin.png]]
+> [!image|right standard]
+> ![[lyra-corvin.webp]]
 
 3. **Sister Elena (she/her) - The Confessor**: A cleric of a militant justice-oriented faith, clad in chainmail and a white tabard. Sister Elena appears serene and compassionate, but her gaze is intensely searching. She is the unit's moral and spiritual anchor, as well as its interrogator. Her divine magic can soothe the truthful and painfully expose the deceitful, making her more feared by the guilty than any swordsman.
     

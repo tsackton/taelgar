@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-23T18:23:23-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: human
 ancestry: Addermarian
 campaignInfo:
@@ -33,7 +33,10 @@ POV: 1715
 Elowen Duval is the castellan of [[Roscombe]] and head of the Duval Household, governing the town and its scattered upland hinterlands from Duval Manor. She oversees frontier defense, trade, civic administration, and the upkeep of Roscombe's old walls. Though formally she is a vassal of the Earl of Westcliff, he rarely ventures to Roscombe during his circuits, giving Elowen unusual independence.
 
 Lady Duval rules through practical delegation. She relies on Sir [[Gareth Howell]] and the household guard for field matters, Master [[Ernault]] and the manor clerks for records and administration, and [[Owen Tavish]] for counsel when religious or supernatural dangers touch Roscombe.
-![[duval-shield.png|right|250]]
+
+> [!image|right]
+> ![[duval-shield.webp|250]]
+
 ## Heraldry
 
 The Duval seal shows a stylized valley between two mountains with an oak tree in the middle. The same mountain-and-oak motif appears on Duval family jewelry recovered from the [[Kilrath Caves]].

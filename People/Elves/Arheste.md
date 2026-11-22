@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: elf
 campaignInfo:
   - {campaign: dufr, date: 1749-01-16, type: visited}
@@ -54,11 +54,13 @@ Over the cycles, as [[Cha'mutte]]'s genocidal intentions towards our people beca
 But as this leya began, something changed. The bindings broke. [[Apollyon|Apollyon]] is free, although still weak from long imprisonment, I believe. I do not know if I can survive another ka in my state, but I will do whatever I can, as long as it can be done, to ensure [[Apollyon|Apollyon]]'s ultimate defeat. 
 %%^End%%
 
-![[arheste-portrait-healthy.png]]
-*Arheste in an earlier time, before the [[First Plague|First Plague]].*
+> [!image|right standard]
+> ![[arheste-portrait-healthy.webp]]
+> *Arheste in an earlier time, before the [[First Plague|First Plague]].*
 
-![[arheste-portrait-sick.png]]
-*Arheste in [[Orenlas]].*
+> [!image|right standard]
+> ![[arheste-portrait-sick.webp]]
+> *Arheste in [[Orenlas]].*
 
 
 

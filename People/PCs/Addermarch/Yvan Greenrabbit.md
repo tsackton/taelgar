@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-09-28T23:44:57-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: halfling
 player: Isaac Sackton
 ddbLink: https://www.dndbeyond.com/characters/131340283
@@ -25,7 +25,10 @@ POV: 1715
 > [!taelgar-header]
 > (halfling, he/him)
 
-![[yvan.jpg|right|400]]Yvan Greenrabbit is a [[Halflings|halfling]], originally from [[Sembara]], who left his family caravan to travel, eventually finding his way to [[Addermarch]].
+> [!image|right]
+> ![[yvan.webp|400]]
+
+Yvan Greenrabbit is a [[Halflings|halfling]], originally from [[Sembara]], who left his family caravan to travel, eventually finding his way to [[Addermarch]].
 
 He is from the Greenrabbit clan, who have long traveled the roads of [[Sembara]], meandering and trading what strikes their fancy: dyed cloth from [[Tollen]], silverwork from [[Tyrwingha]] by way of [[Eskbridge]], ceramics from [[Rinburg]]. Yvan was born into this comfortable, if not particularly elaborate, life. He spent his youth traveling: a caravan of three large wagons, many ponies, and dozens of family. 
 

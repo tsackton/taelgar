@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-23T15:25:54-04:00"
 lintVersion: "3.5"
-tags: [place]
+tags: [place, status/check/ai]
 typeOf: settlement
 typeOfAlias: city
 name: Castrella
@@ -21,7 +21,7 @@ POV: modern
 Castrella is a dramatic city with a rich history, set on Castrella Bay on a narrow strip of flat land just north of the mouth of the [[Kedron]] river, backed by steep hills. The coastal land is dominated by the port itself, and a series of constructed breakwaters. Several dramatic waterfalls cascade down the hills to the north. There is a small bit of agriculture south of the city, across the [[Kedron]] and in the Kedron delta area, but the wealth of Castrella derives largely from the sea.
 
 > [!image]
-> ![[castrella-and-kedron.jpg]]
+> ![[castrella-and-kedron.webp]]
 > *The bustling port of Castrella with the mouth of the Kedron in the foreground*
 
 The city is a bustling port, with thriving docks and market, and is the provincial capital of [[Cedrano]]. Although now overshadowed by [[Chardon]] as a maritime power, Castrella retains some of the energy of its historic past as the major maritime power on the [[Gulf of Chardon]] in the years before the Great War. Unlike many other parts of Apporia, it was not sacked during the [[War of the Dark Rift]] and it retains many of its historic buildings. 

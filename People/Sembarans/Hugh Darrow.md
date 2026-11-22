@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: human
 ancestry: Sembaran
 born: 1665
@@ -17,7 +17,10 @@ POV: 1720
 > [!taelgar-header]
 > (human, Sembaran, he/him, b. 1665, lives in Taviose)
 
-![[hugh-darrow.png|right|320]]A charcoal maker in Taviose, and the son of [[Remy Darrow]]. He was one of the leaders of the villagers during the [[Cleenseau Spider Attacks]].
+> [!image|right]
+> ![[hugh-darrow.webp|320]]
+
+A charcoal maker in Taviose, and the son of [[Remy Darrow]]. He was one of the leaders of the villagers during the [[Cleenseau Spider Attacks]].
 
 %%^Campaign:none%%
 Although he mostly sells charcoal legally to the [[Essfords]], he runs a small black market in charcoal from his house in Taviose.

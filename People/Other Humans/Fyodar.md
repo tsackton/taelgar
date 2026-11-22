@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: human
 ancestry: Urskan
 gender: male
@@ -16,7 +16,10 @@ POV: 1749
 > [!taelgar-header]
 > (human, Urskan, he/him, lives in Zvervinka)
 
-![[fyodar-portrait.png|right|400]]Fyodar is a large, burly man with a thick beard and a ready smile. He is a member of the Zvervinkan Guard, tasked with guarding the city gates and approving the entry of visitors and travelers coming to trade in [[Zvervinka]]'s markets. 
+> [!image|right]
+> ![[fyodar-portrait.webp|400]]
+
+Fyodar is a large, burly man with a thick beard and a ready smile. He is a member of the Zvervinkan Guard, tasked with guarding the city gates and approving the entry of visitors and travelers coming to trade in [[Zvervinka]]'s markets.
 
 He is well-connected among the city merchants and often has useful tips on where and what to buy, or sell.
 

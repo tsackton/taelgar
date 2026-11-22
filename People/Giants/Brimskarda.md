@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: giant
 subspecies: frost
 campaignInfo:
@@ -21,7 +21,10 @@ POV: modern
 > [!taelgar-header]
 > (giant, he/him, lives in Isenborg)
 
-![[brimskarda.png|right|400]]Brimskarda is a frost giant king, the ruler of the Kingdom of [[Kaldhalla]], centered in the northern half of the [[Svinjo Mountains]]. Though violent and prone to see the world in terms of strength of arms alone, he is also protective of his kingdom and those who have exchanged their service for his protection (not always willingly), and there have been no large-scale dragon attacks on [[Kaldhalla]] since he established himself as king. 
+> [!image|right]
+> ![[brimskarda.webp|400]]
+
+Brimskarda is a frost giant king, the ruler of the Kingdom of [[Kaldhalla]], centered in the northern half of the [[Svinjo Mountains]]. Though violent and prone to see the world in terms of strength of arms alone, he is also protective of his kingdom and those who have exchanged their service for his protection (not always willingly), and there have been no large-scale dragon attacks on [[Kaldhalla]] since he established himself as king.
 
 %%SECRET[v2:d7e646cd9dbd851277ea46f38f82fa21]%%
 

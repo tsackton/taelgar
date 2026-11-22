@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: human
 ancestry: Dunmari
 campaignInfo: []
@@ -211,19 +211,27 @@ POV: 1748
 > 
 > Amezza: Amezza is the name for a common jungle tree, generally short and shrubby, that grows in openings and clearings. The name, roughly translated, means “dreamberry”; the aromatic berries are dried and traded as a spice. When the tree grows in a place rich in connections to the [[Dreamworld]], the berries collect amezza, also known as dream ki. But care must be taken, because Amezza can also absorb the energy of nightmares and not everything in the [[Dreamworld]] is friendly. 
 > 
-> ![[amezza-painting.jpg|400]]
+> > [!image|figure]
+> > ![[amezza-painting.webp|400]]
+> > *Amezza berry painting*
 > 
 > Hutsu: Hutsu is the name for a flowering vine that is common across the tropical regions of Taelgar, which grows up the trunks of large trees. When it grows near places of peaceful death, the leaves occasionally turn white, giving it its translated name in Common, “whiteleaf vine”. When hutsu vines grow in places with a strong connection to the [[Land of the Dead]] (also known in lizardfolk mythology as the veil that separates the ‘lower’ spirit realms, like the [[Plane of Souls]] and the [[Dreamworld]], from the ‘higher’ spirit realms such as the various domains of the gods and primal forces), the white leaves collect hutsu, also known as spirit ki.
 > 
-> ![[hutsu-painting.png|400]]
+> > [!image|figure]
+> > ![[hutsu-painting.webp|400]]
+> > *Jungle vine foliage*
 > 
 > Ohana: Ohana is the name for the largest of the jungle trees, a species that is typically dominant among the emergent trees that grow above the rainforest canopy. These trees grow in places rich in connection to the outer planes of primal power, particularly [[Arborea]], but also any other spiritual plane that is connected to deities of primal forces of nature, growth, abundance, wildness. When they grow in such places, they will often grow small branches that drop off naturally, the bark of which is infused with ohana, also known as life ki or lushness ki. The lizardfolk believe that Ohana trees have a special connection to Zerua, the home of the Tharzen Anzinakoa. 
 > 
-> ![[ohana-painting.jpg|400]]
+> > [!image|figure]
+> > ![[ohana-painting.webp|400]]
+> > *Ohana painting*
 > 
 > Urtaro: Urtaro is the name for a lilypad that grows in still water and swamps, frequently cultivated by lizardfolk communities for its beauty and also as food (the tubers are highly nutritious and are made into a starch used to make a variety of things). When grown in places of great peace and beauty, especially places cultivated and tended, urtaro flowers sometimes develop a connection to the outer planes of order and beauty, especially Celestia. The flowers become infused with urtaro, also known as solid ki or permanence ki, thought of as the energy of solid things, the bones, the mountains, the earth, the permanent structures on which life can grow and thrive. 
 > 
-> ![[urtaro-painting.png|400]]
+> > [!image|figure]
+> > ![[urtaro-painting.webp|400]]
+> > *Water lily in bloom*
 > 
 > To the lizardfolk, arima is the magical energy of the [[Plane of Souls]], and it is balanced between amezza and hutsu, the energy of the soul which balances the dynamism of amezza and the stillness of hutsu, and ohana and urtaro, the energy of life itself, which balances the dynamism of ohana and the stillness of urtaro. Amezza and hutsu, the “lesser” magics, draw from the “close” spirit realms, the [[Dreamworld]] and the [[Land of the Dead]]; the “greater” magics, urtaro and ohana, draw from the “far” spirit realms beyond the veil of the [[Land of the Dead]], where the divine forces dwell that breathe life into the world. 
 > 

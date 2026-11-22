@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: halfling
 ancestry: null
 campaignInfo:
@@ -33,7 +33,8 @@ Wendel knows several regulars of [[The Windward Sail]] well, including:
 
 %%SECRET[v2:284222bcc889df56acc82e5a3df5e98e]%%
 
-![[wendel-quickstep.png]]
+> [!image|right standard]
+> ![[wendel-quickstep.webp]]
 
 %%^Metadata:names:v1%%
 - {name: Wendel Quickstep, language: unknown}

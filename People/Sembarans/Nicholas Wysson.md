@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: human
 ancestry: Sembaran
 born: 1697
@@ -21,7 +21,10 @@ POV: 1719
 > [!taelgar-header]
 > (human, Sembaran, he/him, b. 1697)
 
-![[nicholas-wysson.png|right|320]]The youngest nephew of a military captain, he was recently appointed magistrate despite having barely more than twenty summers. Clean-shaven and thin, he often appears somewhat lost in thought.
+> [!image|right]
+> ![[nicholas-wysson.webp|320]]
+
+The youngest nephew of a military captain, he was recently appointed magistrate despite having barely more than twenty summers. Clean-shaven and thin, he often appears somewhat lost in thought.
 
 %%^Metadata:names:v1%%
 - {"name": "Nicholas Wysson", "language": "Sembaran", "pronunciation": "NIK-uh-lus WISS-un", "status": "proposed", "notes": "Prefer the English analogue in [[Languages]] for the Nicholas spelling and Wysson: hard c, initial English w, short i for y, doubled ss as s, and first-syllable surname stress. A French-influenced given-name reading is possible; no exact local pronunciation is recorded."}

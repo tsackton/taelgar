@@ -34,7 +34,7 @@ Elegant Swan and two other nearby inns, mostly folks fleeing Eftly, or
 waiting for it to be safe to continue west. The inn is full of rumors, but
 with a few exceptions (Vahaiya and their people and a few others)
 everything is just clearly rumors.
-![[champimont.png]]
+![[champimont.webp]]
 *Champimont*
 
 The night begins with a long conversation with Vahaiya and their seven
@@ -42,7 +42,7 @@ companions, where you learn some background about each of the seven Rangers
 (and Armand, not with the Rangers but an disciple of the Night Queen). You
 meet the following:
 
-![[vahaiya-2.jpg]]
+![[vahaiya-2.webp]]
 *Vahaiya (they/them)*, the elf, a skilled fighter, proud of their bow and
 clearly quite good with it. They tell you several tales of the Great War,
 especially the Battle of Urlich Pass, when it seemed like an endless horde
@@ -58,8 +58,8 @@ Wanderer who spent much time in the 1660s and 1670s in the northern reaches
 of Maseau, trying to help the war torn land recover. They speak highly of
 the order he founded, the Order of the Charitable Wanderer.
 
-![[adra-brightwood.jpg]]
-![[enzo-brightwood.png]]
+![[adra-brightwood.webp]]
+![[enzo-brightwood.webp]]
 *Adra (she/her) and Enzo (he/him) Brightwood, *halflings and cousins, from
 everywhere, but originally from numerous small towns and villages in the
 Mostreve Hills. Both restless types, more at home in the forests and
@@ -71,7 +71,7 @@ danger of growing, will sometimes tap her and point it all, and they all
 disappear for a moment. These two clearly work together, but have not
 travelled with Vahaiya much before.
 
-![[damien-montrichard.jpg]]
+![[damien-montrichard.webp]]
 *Damien Montrichard (he/him)*, a musician and storyteller. He is charming
 and full of tales about his companions (mostly Adra and Enzo, it seems, who
 he clearly cares for and has spent some time with) but questions about his
@@ -83,7 +83,7 @@ anything else. As the night wears on, and he gets a bit drunk, and leaves
 the stage, you do notice him and Adra and Enzo being served by an invisible
 servant of some sort.
 
-![[tristan-vaudrillard.png]]
+![[tristan-vaudrillard.webp]]
 *Tristan Vaudrillard (he/him)*, a strange man, fascinated by tales of
 magic, with compelling eyes and a deep presence*. *He seems young at first
 - he doesn't look more than 20 or 25 - but the more you talk to him, the
@@ -94,7 +94,7 @@ earliest memories, the birth of Cece I's youngest daughter - which happened
 clearly interested. He is devoted to the Sibyl, and she and her guidance
 often feature in his stories. He has travelled with Vahaiya before.
 
-![[emilie-adderfell.png]]
+![[emilie-adderfell.webp]]
 *Emilie (she/her)*, a brash young woman, full of vim and vigor and bravado.
 She talks of her home -- Adderfell, the main city of Addermarch --
 frequently, and her large family. She is starstruck by Robin in particular,
@@ -105,13 +105,13 @@ fascinated by the new places and people. Her prized possession is her axe,
 which she calls Sharp Justice, and which features prominently in various
 stories.
 
-![[remille-vauclaire.png]]
+![[remille-vauclaire.webp]]
 *Remille **Vauclaire*, a quiet woman, who barely talks to you but spends
 most of the time watching the room, watching for danger, watching you,
 watching Vahaiya. She is also from Adderfell, you learn (from Emilie), and
 is a patient teacher and skilled swordswoman.
 
-![[armand-night-queen-new.png]]
+![[armand-night-queen-new.webp]]
 *Armand (he/him), *a miracle worker and disciple of the Night Queen. He is
 quiet most of the night, and the only one of the group not part of the
 Rangers. He seems much more deeply worried about the undead events than

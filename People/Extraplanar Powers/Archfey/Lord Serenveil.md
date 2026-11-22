@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
-tags: [power, status/check/lint]
+tags: [power, status/check/lint, status/check/ai]
 typeOf: archfey
 gender: male
 name: Lord Serenveil
@@ -16,7 +16,10 @@ POV: modern
 > [!taelgar-header]
 > (archfey, he/him)
 
-![[lord-serenveil.jpg|right|300]]Lord Serenveil, known as the Prince of the Vesperwind and the Guardian of Twilight's Edge, is a tall, towering figure, with long flowing silver hair, fiery eyes, like fading sunset, and dark skin. He usually dresses in robes that shift colors between deep purples, dusky blues, and silvery grays.
+> [!image|right]
+> ![[lord-serenveil.webp|300]]
+
+Lord Serenveil, known as the Prince of the Vesperwind and the Guardian of Twilight's Edge, is a tall, towering figure, with long flowing silver hair, fiery eyes, like fading sunset, and dark skin. He usually dresses in robes that shift colors between deep purples, dusky blues, and silvery grays.
 
 %% Addermarch notes
 - Basic premise is that Serenveil has asked Fazoth to investigate an alchemist named Caradoc. Currently unclear what this actually means. But I think that it is simplest and most flexible if Serenveil is at least somewhat allied with Ethlenn, but not  straightforwardly a vassal of Ethlenn's or some other kind of close relationship. 

@@ -17,7 +17,10 @@ POV: 1720s
 > [!taelgar-header]
 > (halfling, she/her, lives in Aslain)
 
-![[callie-riverstone.jpg|right|200]]A leatherworker specializing in fine colors.
+> [!image|right]
+> ![[callie-riverstone.webp|200]]
+
+A leatherworker specializing in fine colors.
 
 %%^Campaign:clee%%
 Has a friendly relationship with [[Bartholomew Meeke]], who she hid for a time.  

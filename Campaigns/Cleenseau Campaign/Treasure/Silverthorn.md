@@ -1,13 +1,13 @@
 ---
 lintedAt: "2026-10-19T23:47:22-04:00"
 lintVersion: "3.5"
-tags: [object]
+tags: [object, status/check/ai]
 typeOf: weapon
 subTypeOf: magic
 typeOfAlias: rapier
 ancestry: halfling
 rarity: unique
-image: "[[silverthorn.png]]"
+image: "[[silverthorn.webp]]"
 pcOwner: Celyn
 name: Silverthorn
 whereabouts: Celyn
@@ -18,7 +18,10 @@ POV: modern
 > [!taelgar-header]
 > (unique halfling magic rapier)
 
-![[silverthorn.png|right|300]]A slim rapier, gleaming but always a bit hard to see. Found on a dead halfling beneath [[Cleenseau]]. This was originally the possession of [[Rose Stonebridge]], a halfling who lived in [[Cleenseau]] in the 1400s. 
+> [!image|right]
+> ![[silverthorn.webp|300]]
+
+A slim rapier, gleaming but always a bit hard to see. Found on a dead halfling beneath [[Cleenseau]]. This was originally the possession of [[Rose Stonebridge]], a halfling who lived in [[Cleenseau]] in the 1400s.
 
 According to [[Marigold Stonebridge]], Rose was one of the leaders of a resistance to hobgoblin occupation during the [[Dominion of Avatus]]. The matching sheath was given to [[Celyn]] by Marigold, and while not exactly magical, it appears to be exceptional at concealment, and with barely any effort the rapier can vanish into one's cloak.
 

@@ -2,14 +2,14 @@
 lintedAt: "2026-10-20T07:49:48-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-tags: [object]
+tags: [object, status/check/ai]
 typeOf: sword
 subTypeOf: magical
 ancestry: elven
 ddbLink: https://www.dndbeyond.com/magic-items/5346819-narengril
 pcOwner: Delwath
 rarity: rare
-image: "[[narengril.png]]"
+image: "[[narengril.webp]]"
 name: Narëngril
 pronunciation: nah-RENG-greel
 whereabouts:
@@ -22,7 +22,10 @@ POV: modern
 > [!taelgar-header]
 > (rare elven magical sword)
 
-![[narengril.png|right|200]]An elven sword, finely made and carved with Elvish script warding against fiends. 
+> [!image|right]
+> ![[narengril.webp|200]]
+
+An elven sword, finely made and carved with Elvish script warding against fiends.
 
 %%^Campaign:dufr%%
 Found by the [[Dunmar Fellowship]] in [[Grimbaskal's Hoard]], and now used by [[Delwath]]

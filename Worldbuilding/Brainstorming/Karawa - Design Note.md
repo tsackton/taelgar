@@ -1,3 +1,7 @@
+---
+tags: [status/check/ai]
+---
+
 The town of Karawa lies in Eastern Dunmar, a week's ride from the wild frontiers of the Nashtkar, the Blasted Plains, as the haunted plains of Drankor are known locally. The region around Karawa is wide open expanses of dry, arid scrublands, broken only by the occasional rocky hill. Karawa itself is sits in the shade of a mesa, around a small, permanent oasis fed by an underground reservoir.  
 While the town has only a small permanent population of a few hundred people (mostly farmers, acolytes associated with the Mysteries of Shakun, and tradespeople), once a year the population swells as nomadic herders gather to attend the Festival of Rebirth, marking the rebirth of the Goddess Jeevali and the start of the rainy season.  
 
@@ -9,7 +13,10 @@ Lots of awnings of variously colored cloth, lots of horses and goats
 
 ## Inspiration
 
-![[karawa-inspiration-image.jpeg]]
+> [!image|figure standard]
+> ![[karawa-inspiration-image.webp]]
+> *Karawa settlement reference*
+
 ## Design Notes
 
 Following: [https://thecollaborativegamer.wordpress.com/towns/a-system-for-creating-fantasy-villages-towns-and-cities/](https://thecollaborativegamer.wordpress.com/towns/a-system-for-creating-fantasy-villages-towns-and-cities/)

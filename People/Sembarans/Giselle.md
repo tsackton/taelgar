@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: human
 ancestry: Sembaran
 born: 1686
@@ -16,7 +16,10 @@ POV: 1720s
 > [!taelgar-header]
 > (human, Sembaran, b. 1686, lives in Valit)
 
-![[giselle.png|right|320]]The secretary and land clerk in [[Valit]].
+> [!image|right]
+> ![[giselle.webp|320]]
+
+The secretary and land clerk in [[Valit]].
 
 %%^Metadata:names:v1%%
 - {name: "Giselle", language: "Sembaran"}

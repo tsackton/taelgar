@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-19T11:22:11-04:00"
 lintVersion: "3.5"
-tags: [meta, status/check/lint]
+tags: [meta, status/check/lint, status/check/ai]
 campaign: dufr
 name: seeker-early-campaign-reference
 POV: 1748
@@ -12,15 +12,19 @@ This set represents Seeker in the **early Dunmar Frontier campaign**, anchored i
 
 ## Reference images
 
-| Close portrait | Full body — front | Full body — rear |
-|---|---|---|
-| ![[seeker-early-campaign-portrait.png]] | ![[seeker-early-campaign-full-body-front.png]] | ![[seeker-early-campaign-full-body-rear.png]] |
+> [!gallery]
+> - ![[seeker-early-campaign-portrait.webp]]
+>   *Close portrait*
+> - ![[seeker-early-campaign-full-body-front.webp]]
+>   *Full body — front*
+> - ![[seeker-early-campaign-full-body-rear.webp]]
+>   *Full body — rear*
 
-- **Close portrait:** `seeker-early-campaign-portrait.png`
-- **Full body, front:** `seeker-early-campaign-full-body-front.png`
-- **Full body, rear:** `seeker-early-campaign-full-body-rear.png`
+- **Close portrait:** `seeker-early-campaign-portrait.webp`
+- **Full body, front:** `seeker-early-campaign-full-body-front.webp`
+- **Full body, rear:** `seeker-early-campaign-full-body-rear.webp`
 
-All three images are 1254 × 1254 PNGs.
+All three images are 1254 × 1254 WebP files.
 
 ## Visual choices for this set
 

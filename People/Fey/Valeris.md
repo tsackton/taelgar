@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-23T23:02:51-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 gender: male
 name: Valeris
 pronunciation: vuh-LAIR-iss
@@ -20,7 +20,7 @@ POV: 1749
 > (he/him)
 
 >[!image|right]
->![[valeris.jpg|400]]
+>![[valeris.webp|400]]
 >*Valeris, the satyr, at Sunwine Hall*
 
 Valeris is a satyr, a storyteller, musician and gambler, cursed to speak only the absolute truth, unable even to sugar coat his words with lies of omission. No longer able to bluff at cards, embellish stories, or even tell a good joke anymore, he spends his days drinking and frustrated in [[Sunwine Hall]]. 

@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-23T23:02:51-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: human
 ancestry: Zimka
 born: 1644
@@ -25,7 +25,10 @@ POV: 1720
 > (human, Zimka, she/her, b. 1644)
 
 
-![[selma-wisthelwind.png|right|320]]Selma bought [[The Fox's Flagon]] for cash in DR 1712 and appears to enjoy running the inn as a form of retirement. From what exactly is not clear. She has always been a bit of an outsider in town and is one of the few people who keeps the old [[Kestavo]] religion of [[Zimkova]].
+> [!image|right]
+> ![[selma-wisthelwind.webp|320]]
+
+Selma bought [[The Fox's Flagon]] for cash in DR 1712 and appears to enjoy running the inn as a form of retirement. From what exactly is not clear. She has always been a bit of an outsider in town and is one of the few people who keeps the old [[Kestavo]] religion of [[Zimkova]].
 
 %%^Metadata:names:v1%%
 * {name: Selma Wisthelwind, role: primary, language: Sembaran, pronunciation: SELL-mah WISS-thel-wind, status: documented, notes: "She adopted this name after moving to Sembara. Her earlier Zimkovan name is not recorded; it is unclear whether she no longer remembers it or chooses not to reveal it."}

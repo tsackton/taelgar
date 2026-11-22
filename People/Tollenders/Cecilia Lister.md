@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: human
 ancestry: Tollender
 campaignInfo:
@@ -27,7 +27,8 @@ An elegant older woman, very precise, who runs an unmarked but well-known tattoo
 
 %%SECRET[v2:990a064527fbdde9055080961dfed1bf]%%
 
-![[cecilia-lister-portrait.png]]
+> [!image|right standard]
+> ![[cecilia-lister-portrait.webp]]
 
 %%^Metadata:names:v1%%
 - {"name": "Cecilia Lister", "language": "unknown"}

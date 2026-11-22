@@ -1,3 +1,7 @@
+---
+tags: [status/check/ai]
+---
+
 # 2023-11-12 - Liches
 
 [2023-11-12 09:28 AM] Deciusmus: Not much time to look at this today as I’m running my game this afternoon
@@ -127,6 +131,9 @@
 ### Vahaiya
 `*`va-HAI-ya*, like va-HIGH-ya
 A well-connected collector of elven painting, of the 36th ka. They survived the Great War, fighting alongside Sembarans in the [[Battle of Urlich Pass]]. After the war, could not settle, and did not return to have children during their first mela. Traveled and fought with the rangers for a time, spent time around Massau, Addermarch, fighting hobgoblins, until by 1700 was tired of fighting. Had amassed some considerable skill in arms, and favors and knowledge from a wide swath of people, including many rangers. Word of their deeds spread, and returns to Orenlas - which is particularly close to Addermarch - in the early 1700s, tired, feeling out of cycle, uncertain about having missed their first mela, wanting the strength of Aldanor's roots just as Elmerca's winds are scattering the newly awakened elves of the small and uncertain 37th ka. Decides to stay in Orenlas. Given their fame, attracts a number of gifts, and finds particular joy in painting. Even has one of Beryl's paintings, a very rare piece if not particularly amazingly crafted, and a gift from the Rangers.
-![[assets/vahaiya-portrait.png]]
+
+> [!image|right standard]
+> ![[assets/vahaiya-portrait.webp]]
+
 [2023-11-12 02:26 PM] Deciusmus: I had plans for this but not this session
 

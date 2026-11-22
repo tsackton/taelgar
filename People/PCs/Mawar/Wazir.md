@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
-tags: [person, status/cleanup/text, status/check/mike, status/check/lint]
+tags: [person, status/cleanup/text, status/check/mike, status/check/lint, status/check/ai]
 species: human
 ancestry: Mawaran
 born: null
@@ -23,7 +23,8 @@ POV: 1740s
 
 The owner of the Leviathan Inn in Hamri, and unofficial guardian of the town. Tinkering and student of the arcane, especially his magical armor he crafted himself. Spent time in Chardon before returning home to Hamri.
 
-![[wazir.png]]
+> [!image|right standard]
+> ![[wazir.webp]]
 
 %% Backstory notes from email's - may not be completely canonical
 

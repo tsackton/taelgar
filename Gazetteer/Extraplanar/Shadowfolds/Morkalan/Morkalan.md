@@ -2,7 +2,7 @@
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
 displayDefaults: {wPastHome: "Destroyed on <endDate> by [[Riswynn]] and companions", wHome: "", dPastHasStart: "", dCurrent: ""}
-tags: [place, status/check/lint]
+tags: [place, status/check/lint, status/check/ai]
 typeOf: extraplanar domain
 typeOfAlias: domain
 ancestry: Shadowfolds
@@ -23,9 +23,18 @@ POV: modern
 Morkalan, known as the Land of the Dishonored Dead, is a rumored domain of despair and deathless life. 
 
 %%^Date:1748%%
-![[morkalan-ash-plains.png|right|500]]It was described by those who escaped as a bleak, shadowy place, a land where the sky was always dim and the faint sun could not pierce the looming clouds. It was a small place, a land that one could cross in a day or two on foot, although the few who wandered into the bleak clouds around its borders always found themselves wandering back into Morkalan from another direction some time later. 
 
-![[morkalan-muddy-river.png|right|500]]It was a land with few features to distinguish the landscape, except the [[Muddy River]], which is presumed to be a shadowy echo of the [[Hara]]. On the western edge of the Muddy River, a series of cliffs and caves provided some shelter and was the location of the only notable settlement in Morkalan, known as [[Bleakhold]]. 
+> [!image|right]
+> ![[morkalan-ash-plains.webp|500]]
+> *Paths across the ash plains*
+
+It was described by those who escaped as a bleak, shadowy place, a land where the sky was always dim and the faint sun could not pierce the looming clouds. It was a small place, a land that one could cross in a day or two on foot, although the few who wandered into the bleak clouds around its borders always found themselves wandering back into Morkalan from another direction some time later.
+
+> [!image|right]
+> ![[morkalan-muddy-river.webp|500]]
+> *Muddy river in Morkalan*
+
+It was a land with few features to distinguish the landscape, except the [[Muddy River]], which is presumed to be a shadowy echo of the [[Hara]]. On the western edge of the Muddy River, a series of cliffs and caves provided some shelter and was the location of the only notable settlement in Morkalan, known as [[Bleakhold]].
 
 East of the Muddy River, the land stretched into the Ashfields, a broken, barren land where few survived, home primarily to those who lost their wits or their will, or those who disobeyed the orders of Morkalan and were exiled to become hungry ghosts in the wastes.
 ## Inhabitants of Morkalan

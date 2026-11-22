@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: human
 ancestry: Mawaran
 campaignInfo:
@@ -18,7 +18,10 @@ POV: 1740s
 > [!taelgar-header]
 > (human, Mawaran, he/him, lives in Hamri)
 
-![[yaz-mawar.png|right|300]]Yaz is an elderly Mawaran ocean watcher who lives alone in an isolated tower above [[Hamri]]. He has short white hair pulled back in a ponytail and is known for his intense attention to the moods, mysteries, and old lore of the western ocean.
+> [!image|right]
+> ![[yaz-mawar.webp|300]]
+
+Yaz is an elderly Mawaran ocean watcher who lives alone in an isolated tower above [[Hamri]]. He has short white hair pulled back in a ponytail and is known for his intense attention to the moods, mysteries, and old lore of the western ocean.
 
 Yaz preserves fragments of lore about the [[Sentient Ocean]] and its many names. The names he knows include [[Sentient Ocean|Yi'weti]], the old mages' name for living ocean water; Ur Biyiak, used by lizardfolk sages for the living spirit of water heard in dreams; Wanui Teora, used by the great beasts of the deep and tied to the ocean's songs; and Ma'haya Kabir, associated with [[Guzo the Mariner]], the ancestor of voyages and the western horizon. Like many of the older generation of ocean watchers, Yaz believes that beasts who spend time in the waters of the [[Sentient Ocean]] may awaken to consciousness.
 

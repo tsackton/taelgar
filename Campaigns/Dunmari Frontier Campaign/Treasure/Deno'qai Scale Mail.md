@@ -2,13 +2,13 @@
 lintedAt: "2026-10-20T07:26:32-04:00"
 lintVersion: "3.5"
 displayDefaults: {wHome: "Owner: <current:1>", defArt: ""}
-tags: [object]
+tags: [object, status/check/ai]
 typeOf: armor
 subTypeOf: magic
 ancestry: "Deno'qai"
 rarity: uncommon
 ddbLink: https://www.dndbeyond.com/magic-items/5372382-denoqai-scale-mail
-image: "[[denoqai-scale-armor-delwath.png]]"
+image: "[[denoqai-scale-armor-delwath.webp]]"
 name: "Deno'qai Scale Mail"
 whereabouts:
   - {type: home, end: 1542, location: "unknown Deno'qai smith"}
@@ -21,7 +21,10 @@ POV: modern
 > [!taelgar-header]
 > (uncommon Deno'qai magic armor)
 
-![[denoqai-scale-armor-delwath.png|right|400]]A suit of scale mail armor, subtly designed with [[Tanshi]] motifs, and lightweight enough to be worn under winter gear. It has green and blue highlights, but is otherwise muted brown.
+> [!image|right]
+> ![[denoqai-scale-armor-delwath.webp|400]]
+
+A suit of scale mail armor, subtly designed with [[Tanshi]] motifs, and lightweight enough to be worn under winter gear. It has green and blue highlights, but is otherwise muted brown.
 
 This armor was created during the [[Great War]] for the Deno'qai hero [[Balati]], and later [[Session 53 (DuFr)|gifted]] to [[Delwath]] of the [[Dunmar Fellowship]] while he was on a quest to free lost tanshi who had been trapped during the [[Great War]].
 

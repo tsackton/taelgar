@@ -1,11 +1,11 @@
 ---
 lintedAt: "2026-10-20T07:49:48-04:00"
 lintVersion: "3.5"
-tags: [object]
+tags: [object, status/check/ai]
 typeOf: weapon
 subTypeOf: magic
 typeOfAlias: bow
-image: "[[wayfarer-bow.jpg]]"
+image: "[[wayfarer-bow.webp]]"
 pcOwner: Wellby
 ddbLink: https://www.dndbeyond.com/magic-items/9218851-wayfarers-bow-shortbow
 rarity: legendary
@@ -18,7 +18,10 @@ POV: modern
 > [!taelgar-header]
 > (legendary magic bow)
 
-![[wayfarer-bow.jpg|right|400]]This wooden bow is made of an unusual dark wood, much harder than any mundane wood but incredibly light and flexible. 
+> [!image|right]
+> ![[wayfarer-bow.webp|400]]
+
+This wooden bow is made of an unusual dark wood, much harder than any mundane wood but incredibly light and flexible.
 
 %%^Campaign:dufr%%
 This bow was part of the hoard of the black dragon [[Ra'ghemdros]], kept on display as part of her collection of rare and unusual items. It is now carried by [[Wellby]].

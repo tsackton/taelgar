@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: human
 ancestry: Tollender
 campaignInfo:
@@ -26,7 +26,10 @@ POV: 1748
 > [!taelgar-header]
 > (human, Tollender, she/her, b. 1715, lives in Tollen)
 
-![[jane-chapman-portrait.png|right|320]]A Tollender-born woman in her early 30s, from the well-off and well-established Chapman merchant family, Jane became a Dyer's Guild captain known for her skill and her luck at sea.  
+> [!image|right]
+> ![[jane-chapman-portrait.webp|320]]
+
+A Tollender-born woman in her early 30s, from the well-off and well-established Chapman merchant family, Jane became a Dyer's Guild captain known for her skill and her luck at sea.
 
 %%SECRET[v2:6d3335abbd9e17db160768a6d2d210b1]%%
 

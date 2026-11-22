@@ -2,7 +2,7 @@
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-tags: [place, status/check/lint]
+tags: [place, status/check/lint, status/check/ai]
 typeOf: inn
 name: "The Traveler's Rest"
 whereabouts: Roscombe
@@ -14,7 +14,9 @@ POV: 1710s
 > [!taelgar-header]
 > (inn, in Roscombe)
 
-![[roscombe-travelers-rest.png]]
+> [!image|figure standard]
+> ![[roscombe-travelers-rest.webp]]
+> *The Traveler's Rest at Roscombe*
 
 The Traveler’s Rest is Roscombe’s principal inn, a sturdy two‑storey house set against the southern wall, near the gate and the road to [[Valcroix]]. It offers clean beds, hot meals, and reliable stabling for the occasional travelers from river valleys around the [[Velan]] and the [[Umber]], including several rooms on the ground floor reserved for halflings.
 

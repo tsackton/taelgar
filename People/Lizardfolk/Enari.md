@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: lizardfolk
 ancestry: null
 campaignInfo:
@@ -25,7 +25,10 @@ POV: 1740s
 > [!taelgar-header]
 > (lizardfolk, he/him, lives in Orekatu)
 
-![[enari-portrait.png|right|400]]A well-muscled lizardfolk hunter and wanderer, who earned a reputation and honor traveling among the villages of the kingdom of [[Orekatu]]. 
+> [!image|right]
+> ![[enari-portrait.webp|400]]
+
+A well-muscled lizardfolk hunter and wanderer, who earned a reputation and honor traveling among the villages of the kingdom of [[Orekatu]].
 %%^Campaign:dufr%%
 Guided [[Kenzo]] and [[Izzarak]] to the [[Azta Lekua]], the [[Azta Lekua|Footprint of the Gods]], and returned to [[Bedez]] after they succeeded in their quest, to report to the elders of the kingdom. 
 %%^End%%

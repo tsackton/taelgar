@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
-tags: [place, status/check/lint]
+tags: [place, status/check/lint, status/check/ai]
 typeOf: settlement
 typeOfAlias: fishing village
 population: 311
@@ -17,7 +17,13 @@ POV: 1720
 > [!taelgar-header]
 > (fishing village, in Manor of Asineau)
 
-![[asineau-image-2.png|right|320]]![[asineau-docks.jpg|right|320]]A manorial fishing village on the banks of the Enst, two miles downriver of [[Auloutte]]. The village is small, about 50 houses, mostly clustered a hundred feet above the banks of the Enst in a rough line, anchored at one end by a humble temple of the Wyrdling and the other by the manor house. There are three wooden docks, and a sandy beach where small fishing rafts can pull out, just before the banks turn marshy. There is no blacksmith, folks walk the 2.5 miles to [[Beury]] if they need a horse shoed or a plow made. About half the inhabitants of Asineau fish, and there are occasional disagreements with the lizardfolk in [[Ganboa]] when the catch is small. Much of the farmland is middling, at best, rockier than other parts of the region.
+> [!gallery]
+> - ![[asineau-image-2.webp|320]]
+>   *Asineau river settlement*
+> - ![[asineau-docks.webp|320]]
+>   *The docks at Asineau*
+
+A manorial fishing village on the banks of the Enst, two miles downriver of [[Auloutte]]. The village is small, about 50 houses, mostly clustered a hundred feet above the banks of the Enst in a rough line, anchored at one end by a humble temple of the Wyrdling and the other by the manor house. There are three wooden docks, and a sandy beach where small fishing rafts can pull out, just before the banks turn marshy. There is no blacksmith, folks walk the 2.5 miles to [[Beury]] if they need a horse shoed or a plow made. About half the inhabitants of Asineau fish, and there are occasional disagreements with the lizardfolk in [[Ganboa]] when the catch is small. Much of the farmland is middling, at best, rockier than other parts of the region.
 
 ### Map and Layout
 The [[Great South Road]] passes just to the north of the manor house. Four wells supplement the river as water sources. West of the docks, the bank is marshy and rocky; cliffs rise east of the beach. During the spring shad runs, drying racks for fish crowd the beach and the cliff top west of the harbor.
@@ -29,7 +35,11 @@ A few hundred feet outside the village is a small mill and bakehouse. The large 
 ![[Asineau - emailed map.jpg|800]]
 
 
-![[asineau-wrydling-painting.jpg|right|320]]The temple to [[The Wyrdling]] here is known for a chaotic painting on the wall, and is said to have been standing in this spot for over 500 years. There are two local miracles celebrated in Asineau: the [[Miracle of the Hopeful Heat]] and the [[Miracle of the Guided Wanderers]].
+> [!image|right]
+> ![[asineau-wrydling-painting.webp|320]]
+> *Wyrdling temple wall painting at Asineau*
+
+The temple to [[The Wyrdling]] here is known for a chaotic painting on the wall, and is said to have been standing in this spot for over 500 years. There are two local miracles celebrated in Asineau: the [[Miracle of the Hopeful Heat]] and the [[Miracle of the Guided Wanderers]].
 
 ## Notable Residents
 

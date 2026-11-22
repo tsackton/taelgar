@@ -7,7 +7,7 @@ campaign: Cleenseau
 
 Email play-by-email exchange. All twenty-two authored messages appear in sent order; repeated quoted replies, forwarded duplicates, and mailing-list footers are omitted. The draft map appears in the opening turn. The Duke portrait is preserved below.
 
-![[duke-of-wisford-2.png]]
+![[duke-of-wisford-2.webp]]
 
 ### Mike Sackton <msackton@gmail.com> — Mon, 13 May 2024 21:05:03 -0400
 

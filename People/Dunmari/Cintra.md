@@ -1,13 +1,13 @@
 ---
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: human
 ancestry: Dunmari
 born: 1705
 gender: female
 name: Cintra
-image: cintra.jpg
+image: cintra.webp
 pronunciation: SIN-truh
 affiliations: [Shakun Mystai]
 whereabouts: Karawa
@@ -23,7 +23,7 @@ POV: 1748
 
 %% lots of DM notes remain; easiest to clean up when I get to that section of the Dunmar game I think %%
 > [!image|right standard]
-> ![[cintra.jpg]]
+> ![[cintra.webp]]
 > *Cintra, the Supreme Oracle of Shakun*
  
 Cintra is the Supreme Oracle of [[Shakun]], based in [[Karawa]]. A prophet with a direct connection to the goddess, she stands outside the hierarchy of the [[Shakun Mystai]] and serves as guardian of the [[Heart of Shakun]].

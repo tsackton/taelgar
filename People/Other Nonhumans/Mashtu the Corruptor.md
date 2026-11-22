@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: demon
 campaignInfo:
   - {type: "Banished to the [[Abyss]]", campaign: dufr, date: 1748-12-22, wParty: "<met:x> by <person> on <target> in <current:3r>"}
@@ -18,7 +18,10 @@ POV: modern
 > [!taelgar-header]
 > (demon, lives in Abyss)
 
-![[mashtu-the-corrupter.png|right|420]]A powerful demon of the [[Abyss]], known for desiring the defiling of sacred waters across the [[Green Sea]].  
+> [!image|right]
+> ![[mashtu-the-corrupter.webp|420]]
+
+A powerful demon of the [[Abyss]], known for desiring the defiling of sacred waters across the [[Green Sea]].
 
 %%^Campaign:dufr%%
 Mashtu was the patron of the warlock [[Urgall the Black]], and charged him with a [[Urgall's scroll|quest]] to aid in corrupting a number of holy sites across the [[Green Sea]]. However, the quest stalled in [[Vetta]], and in DR 1748, Mashtu was [[Session 81 (DuFr)|destroyed]] by the [[Dunmar Fellowship]], banished back to the [[Abyss]] to brood. 

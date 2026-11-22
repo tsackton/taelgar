@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: human
 ancestry: Sembaran
 born: 1636
@@ -17,7 +17,10 @@ POV: 1720
 > [!taelgar-header]
 > (human, Sembaran, he/him, b. 1636, lives in Cleenseau)
 
-![[walter-cleenseau.png|right|320]]An older man, who used to work at the [[Army Garrison of Cleenseau]] helping maintain the barracks and other similar clerking activities. Now retired, although he still lives at the garrison and acts as a sort-of unofficial cleaner.
+> [!image|right]
+> ![[walter-cleenseau.webp|320]]
+
+An older man, who used to work at the [[Army Garrison of Cleenseau]] helping maintain the barracks and other similar clerking activities. Now retired, although he still lives at the garrison and acts as a sort-of unofficial cleaner.
 
 He is very fond of [[Emmeline Duval|Emmeline Duval's]] baking.
 

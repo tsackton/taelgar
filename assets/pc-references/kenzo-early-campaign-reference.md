@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-19T11:22:11-04:00"
 lintVersion: "3.5"
-tags: [meta]
+tags: [meta, status/check/ai]
 name: Kenzo — early-campaign character reference
 POV: 1748
 ---
@@ -11,11 +11,15 @@ This set uses the portrait approved on September 18, 2026, for Kenzo's early-cam
 
 ## Reference images
 
-| Close portrait | Full body — front | Full body — rear |
-|---|---|---|
-| ![[kenzo-early-campaign-portrait.png]] | ![[kenzo-early-campaign-full-body-front.png]] | ![[kenzo-early-campaign-full-body-rear.png]] |
+> [!gallery]
+> - ![[kenzo-early-campaign-portrait.webp]]
+>   *Close portrait*
+> - ![[kenzo-early-campaign-full-body-front.webp]]
+>   *Full body — front*
+> - ![[kenzo-early-campaign-full-body-rear.webp]]
+>   *Full body — rear*
 
-All three images are **1254 × 1254 PNGs**, with opaque image content extending to every edge and no white side lines or borders.
+All three images are **1254 × 1254 WebP files**, with opaque image content extending to every edge and no white side lines or borders.
 
 ## Approved visual anchor
 

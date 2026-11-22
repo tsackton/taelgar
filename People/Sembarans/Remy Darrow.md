@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: human
 ancestry: Sembaran
 campaignInfo:
@@ -20,7 +20,10 @@ POV: 1719
 > [!taelgar-header]
 > (human, Sembaran, he/him, b. 1640, lives in Taviose)
 
-![[remy-darrow.png|right|320]]Grandpa Remy is well-liked for his off-color jokes and his fondness for apple brandy. He was saved from death by [[Izgil Moonseeker|Izgil's]] magic and has become one of the biggest boosters of the [[Heroes of Cleenseau]]. 
+> [!image|right]
+> ![[remy-darrow.webp|320]]
+
+Grandpa Remy is well-liked for his off-color jokes and his fondness for apple brandy. He was saved from death by [[Izgil Moonseeker|Izgil's]] magic and has become one of the biggest boosters of the [[Heroes of Cleenseau]].
 
 He is the patriarch of the Darrow family, who are well known for charcoal making. His granddaughter [[Nicole Darrow]] died in the [[Cleenseau Spider Attacks]]. He is the father of [[Hugh Darrow]].
 

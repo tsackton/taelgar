@@ -4,7 +4,7 @@ lintVersion: "3.5"
 tags: [person, status/check/lint, status/check/ai]
 species: dwarf
 gender: male
-image: kazak-ferrystone.png
+image: kazak-ferrystone.webp
 name: Kazak Ferrystone
 pronunciation: KAH-zahk FAIR-ee-stohn
 affiliations:
@@ -23,7 +23,10 @@ POV: 1720
 > [!taelgar-header]
 > (dwarf, he/him, lives in Rinburg)
 
-![[kazak-ferrystone.png|left|200]]Kazak Ferrystone is a dwarf of the [[Ferrystones|Ferrystone Clan]], based in [[Rinburg]], known for his expertise in reclaiming and repurposing ruins for new construction.
+> [!image|left]
+> ![[kazak-ferrystone.webp|200]]
+
+Kazak Ferrystone is a dwarf of the [[Ferrystones|Ferrystone Clan]], based in [[Rinburg]], known for his expertise in reclaiming and repurposing ruins for new construction.
 
 %%^Campaign:clee%%
 While traveling to [[Aslain]] with [[Bolgrim Ferrystone]], he was badly injured by [[The Hunter|the Hunter’s]] bears. The [[Heroes of Cleenseau]] subsequently healed him.

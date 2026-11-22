@@ -2,7 +2,7 @@
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 displayDefaults: {endStatus: killed}
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: undead
 subspecies: skeletal
 campaignInfo:
@@ -26,7 +26,10 @@ POV: modern
 > [!taelgar-header]
 > (undead, he/him, d. 1749)
 
-![[image-grash-1.png|right|320]]Known as Grash the Undying, an undead warrior and commander of a large [[Orcs|orc]] army in Kharsan. He possessed the [[Ring of Undying]], and used it to create a large army of orcs and undead. 
+> [!image|right]
+> ![[image-grash-1.webp|320]]
+
+Known as Grash the Undying, an undead warrior and commander of a large [[Orcs|orc]] army in Kharsan. He possessed the [[Ring of Undying]], and used it to create a large army of orcs and undead.
 
 Grash was rumored to once have been a knight from an unknown land, a warrior, skilled in battle, who sought glory in the [[Nashtkar]], and never returned. He became something of a rumor and legend, a haunted ghost to frighten children with. A knight of shadows who could cut wounds that would not heal with his glaive. A cursed warrior, who could summon chains of darkness to bind your heart and drag you closer to death. 
 

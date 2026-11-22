@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-25T23:14:40-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: human
 ancestry: Chardonian
 campaignInfo:
@@ -22,7 +22,9 @@ POV: 1740s
 > [!taelgar-header]
 > (human, Chardonian, she/her, b. 1677, lives in Chardon)
 
-![[roscelia.png|right|400]]
+> [!image|right]
+> ![[roscelia.webp|400]]
+
 Roscelia Verinus, Professor of Magic and Argent Chair of Theurgy, is an elderly magician, prim and proper, and now mostly retired from teaching at the Faculty of Magic. She is clearly wealthy, and favors elegant, understated dress that nonetheless displays her status. She wears her gray hair in a bun, and favors simple but expensive jewelry: long strands of pearls, and diamond earrings. 
 
 Roscelia is a member of the [[Hetaeri Magica]], and the [[Society of the Open Scroll]], though she sees herself as apolitical and above the dirty business of politics. She was [[Kaeso]]'s mentor years ago, and is remains friendly with him, despite her disappointment in his path and refusal to share secrets with the [[Society of the Open Scroll]]. 

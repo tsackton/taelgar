@@ -2,7 +2,7 @@
 lintedAt: "2026-10-19T00:07:38-04:00"
 lintVersion: "3.5"
 displayDefaults: {wOrigin: "Home area: <origin>", ruledBy: "<affiliationtitle:t>: <name> <(of )primary>", wHome: "", wCurrent: "Current location: <current:3Frq>"}
-tags: [object, testcase, status/check/lint]
+tags: [object, testcase, status/check/lint, status/check/ai]
 typeOf: vehicle
 typeOfAlias: boat
 ancestry: halfling
@@ -28,7 +28,9 @@ A halfling ship plying the trade routes of the eastern Green Sea, regularly visi
 [[Corrin Wildheart]], navigator
 [[Lerry Wildheart]], quartermaster
 
-![[wave-dancer-1.png|500]]
+> [!image|figure]
+> ![[wave-dancer-1.webp|500]]
+> *Wave Dancer under sail*
 
 %% old notes from OneNote
 Main people:

@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: hobgoblin
 ancestry: null
 campaignInfo:
@@ -21,7 +21,10 @@ POV: modern
 > [!taelgar-header]
 > (hobgoblin, she/her)
 
-![[revaka.jpg|right|350]]A hobgoblin who has been trapped in the [[Mirror of Soul Trapping]] for centuries. A fairly powerful sorcerer from before the [[Great War]], trapped by [[Cha'mutte]] for refusing to join his war. 
+> [!image|right]
+> ![[revaka.webp|350]]
+
+A hobgoblin who has been trapped in the [[Mirror of Soul Trapping]] for centuries. A fairly powerful sorcerer from before the [[Great War]], trapped by [[Cha'mutte]] for refusing to join his war.
 
 %%SECRET[v2:7b3524b816dacf16f6160849969dad25]%%
 

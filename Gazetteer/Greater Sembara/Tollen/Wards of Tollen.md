@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-23T17:36:36-04:00"
 lintVersion: "3.5"
-tags: [background]
+tags: [background, status/check/ai]
 name: Wards of Tollen
 dm_owner: none
 dm_notes: none
@@ -13,13 +13,17 @@ POV: 1740s
 
 (2) **[[Fiskurth]]** is the fishing ward, a cramped stretch of low docks, fish-stalls, and sailor’s inns where the inshore fleets bring their catch ashore at dawn.
 
-![[tollen-fiskurth.png]]
+> [!image|figure standard]
+> ![[tollen-fiskurth.webp]]
+> *Fiskurth street in Tollen*
 
 (3) **[[Aesganstrad]]** is the ancient core of Tollen, a tangle of narrow streets, leaning houses, and strange old statues to forgotten heroes. 
 
 (4) **[[Magus Street]]** is the university district, crowded with bookshops, lecture halls, boarding houses, and student taverns spilling arguments and minor magic into the lanes.
 
-![[magnus-street.png]]
+> [!image|figure standard]
+> ![[magnus-street.webp]]
+> *Magnus Street*
 
 (5) **[[Nordgate]]** is the dwarven-leaning craft ward around the old north gate, full of stone-fronted workshops and forges.
 
@@ -29,14 +33,19 @@ POV: 1740s
 
 (8) **[[Godshome]]** is the temple district, its streets winding between crowded shrines, great houses of the Eight Divines, the [[Temple of Kaikkea]], and smaller, stranger faiths.
 
-![[temple-of-wanderer-v2.png]]
+> [!image|figure standard]
+> ![[temple-of-wanderer-v2.webp]]
+> *Temple of the Wanderer above the street*
+
 (9) **[[Guildgate]]** is the hill of guildhalls and merchant houses, where rich guilds keep their meeting rooms, gardens, and courts and send delegates to the Great Council.
 
 (10) **[[Gold Street]]** is the main commercial avenue of Tollen, a district of broad streets, counting-houses, and moneylenders where large deals are struck and recorded.
 
 (11) **[[Fairgate]]**, split into [[Fairgate Inner]] and [[Fairgate Outer]] is the western gate district, a mix of markets, caravan inns, and halfling homes linked to the [[Fairgrounds (Tollen)|Fairgrounds]] and the farms of [[Fairgate Outer]].
 
-![[fairgate-outer-v1.png]]
+> [!image|figure standard]
+> ![[fairgate-outer-v1.webp]]
+> *Fairgate Outer, sunlit village square*
 
 (12) **[[Haurhill]]** is the rise above the [[Little River]], built around the remains of an old Drankorian fort.
 

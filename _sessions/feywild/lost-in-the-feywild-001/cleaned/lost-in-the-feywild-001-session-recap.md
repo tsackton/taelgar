@@ -103,7 +103,7 @@ Before dawn, Alden leads the party below the manor to a root-covered cellar wher
 - Organizations: none
 - Items: none
 - Enemies: none
-- Image: [[feywild-01-varrow-forest.jpg]]
+- Image: [[feywild-01-varrow-forest.webp]]
 - Image Role: figure
 - Image Size: standard
 - Image Placement:
@@ -136,7 +136,7 @@ Alden then speaks of Dandelion House with rapturous but genuine emotion -- Kaito
 - Organizations: none
 - Items: dandelion crest
 - Enemies: none
-- Image: dandelion-house.jpg
+- Image: dandelion-house.webp
 - Image Role: hero
 - Image Size:
 - Image Placement:
@@ -200,7 +200,7 @@ After Hulda leaves them, Tarek reads the Sembaran document again and senses that
 - Organizations: none
 - Items: gold key, hidden door
 - Enemies: none
-- Image: the-door-in-the-floor.jpg
+- Image: the-door-in-the-floor.webp
 - Image Role: aside
 - Image Size: standard
 - Image Placement:

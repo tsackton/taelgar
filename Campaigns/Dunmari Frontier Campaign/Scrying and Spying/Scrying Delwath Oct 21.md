@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T09:08:30-04:00"
 lintVersion: "3.5"
-tags: [meta]
+tags: [meta, status/check/ai]
 campaign: dufr
 name: Scrying Delwath Oct 21
 POV: 1748
@@ -17,13 +17,23 @@ During the course of the week, one thing [[Delwath]] does is scry on his friends
 
 *[[Kenzo]]*: You look in on [[Kenzo]] several times over the course of the week. Once, you see him in what looks like a homely and comfortable hut, sitting and drinking tea with a lizardfolk man, speaking two different languages, neither of which you understand. It seems like the lizardfolk is teaching one of the languages to [[Kenzo]], and they both know the other language, but it is not one you have heard [[Kenzo]] speak much before. The scene is comfortable, and [[Kenzo]] seems at peace. Another time, you see [[Kenzo]] walking through a village in a jungle, of many small huts, lush plant life, flowers, arriving at a lake filled with lily pads that float peacefully in the evening light, a huge beast, a reptile of sorts with a massively long neck and a larger body than any you've seen before grazing in the water peacefully. Based on the time difference of the light, you think this must be very far to the east.
 
-![[bedez-village.png|400]]
-![[bedez-river.png|400]]
+> [!image|figure]
+> ![[bedez-village.webp|400]]
+> *Bedez village, alternate export*
+
+> [!image|figure]
+> ![[bedez-river.webp|400]]
+> *Bedez River in sunlight*
 
 *[[Wellby]]*: You look in on [[Wellby]] several times as well. The first time you see him, he is in a small boat crowded with many people: several kenku, humans dressed in strange clothes, a human warrior, sailors, and an [[Elves|elf]] but one who looks at home in the ocean, wearing armor with sea motifs. Again, judging by the light, he is very far to the east. The next time you see him, he is soaring in the air, flying on spectral bird wings, over an island of dry scrub and vibrant red rock pillars, dotted with hidden homes perched high on cliffs that no human could reach.
 
-![[wahacha-coast.png|400]]
-![[wahacha-village.png|400]]
+> [!image|figure]
+> ![[wahacha-coast.webp|400]]
+> *Red cliffs on the Wahacha coast*
+
+> [!image|figure]
+> ![[wahacha-village.webp|400]]
+> *Wahacha village, alternate export*
 
 #### Part 2: Visions of allies. 
 

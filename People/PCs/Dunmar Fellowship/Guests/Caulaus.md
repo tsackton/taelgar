@@ -2,7 +2,7 @@
 lintedAt: "2026-08-28T16:53:46-04:00"
 lintVersion: "3.5"
 displayDefaults: {aNoDate: "Traveled with <affiliations>"}
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: human
 ancestry: Drankorian
 born: null
@@ -20,7 +20,10 @@ POV: 1748
 > [!taelgar-header]
 > (human, Drankorian, he/him)
 
-![[caulaus-aportino-portrait.png|right|320]]A human warrior from [[Drankor]], trapped in the [[Feywild]] for nearly 1000 years. Not fully in possession of his wits or memories. A guide and wanderer in [[Amberglow]]; sought by [[Seeker]] as a guide to the fey crossing at [[Lastlight Falls]]. 
+> [!image|right]
+> ![[caulaus-aportino-portrait.webp|320]]
+
+A human warrior from [[Drankor]], trapped in the [[Feywild]] for nearly 1000 years. Not fully in possession of his wits or memories. A guide and wanderer in [[Amberglow]]; sought by [[Seeker]] as a guide to the fey crossing at [[Lastlight Falls]].
 
 Stayed to guard [[Agata]]'s prison in [[Session 67 (DuFr)]].
 

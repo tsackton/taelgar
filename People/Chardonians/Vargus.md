@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-25T23:14:40-04:00"
 lintVersion: "3.5"
-tags: [person, status/cleanup/metadata, status/check/lint]
+tags: [person, status/cleanup/metadata, status/check/lint, status/check/ai]
 species: human
 ancestry: Chardonian
 campaignInfo:
@@ -25,7 +25,10 @@ POV: 1748
 
 %% whereabouts need updating; copy description and other details from DM notes%%
 
-![[vargus.png|right|300]]Twin to Valius, Vargus was a formidable warrior in the Chardonian legion, turned mercenary and adventurer. He is now under the curse of the Cleansed and largely unaware of himself.
+> [!image|right]
+> ![[vargus.webp|300]]
+
+Twin to Valius, Vargus was a formidable warrior in the Chardonian legion, turned mercenary and adventurer. He is now under the curse of the Cleansed and largely unaware of himself.
 
 %%^Metadata:names:v1%%
 - {name: Vargus, language: Chardonian, pronunciation: VAR-goos, notes: "Proposed from the Chardonian Latin analogue, with a hard g, broad initial a, and final u read as oo; exact in-world phonology is not established.", status: proposed}

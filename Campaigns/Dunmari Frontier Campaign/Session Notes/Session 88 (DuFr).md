@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-11-12T19:02:10-05:00"
 lintVersion: "3.5"
-tags: [session-note, status/check/lint]
+tags: [session-note, status/check/lint, status/check/ai]
 campaign: dufr
 sessionNumber: 88
 realWorldDate: 2023-11-21
@@ -42,7 +42,9 @@ Arriving a few hours after sunrise on January 20, 1748, the bombardment of [[Uzg
 
 The party quickly leaps into action. [[Seeker]] creates a massive boulder, ten feet on a side, as [[Vindristjarna]] rises to 300 feet above the battlefield. Even as shades and specters rush to intercept the ship, the boulder (decorated to look like a ladder) launches itself from the deck. Never before has a boulder fallen so precisely from such a great height. With a mighty crack, the flying boulder-ladder hits the center of the long arm of the trebuchet directly, splintering into hundreds of pieces and utterly destroying the siege machine and itself in the process. Later, [[Seeker]] will build a memorial to the short-lived hero: "Lord Boulder, hero of the [[Battle for Uzgukhar]] smasher of the trebuchet, liberator of the missile stones, star among rocks”. 
 
-![[dufr-088-battle-for-uzgukhar.jpeg]]
+> [!image|figure standard]
+> ![[dufr-088-battle-for-uzgukhar.webp]]
+> *Battle for Uzgukhar*
 
 With the trebuchet destroyed, the party fights off a group of shades and specters, and turns to find [[Grash]]. He is standing, watching the battle, seemingly unconcerned with the arrival of a flying skyship, and is ready, waiting, for the party.
 

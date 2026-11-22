@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-25T09:29:24-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: human
 ancestry: Aurbeze
 campaignInfo:
@@ -24,7 +24,10 @@ POV: 1749
 > [!taelgar-header]
 > (human, Aurbeze, she/her, b. 1711, lives in Aurbez Plateau)
 
-![[marguerite-la-rousse.png|right|400]]Marguerite is an Aurbeze militia captain and capable fighter, formerly a highland shepherd on the [[Aurbez Plateau]]. She commands respect among the plateau militias, bringing practical experience and resolve to local defense. Her leadership emphasizes endurance, coordination with the [[Rangers]], and protection of rural households.
+> [!image|right]
+> ![[marguerite-la-rousse.webp|400]]
+
+Marguerite is an Aurbeze militia captain and capable fighter, formerly a highland shepherd on the [[Aurbez Plateau]]. She commands respect among the plateau militias, bringing practical experience and resolve to local defense. Her leadership emphasizes endurance, coordination with the [[Rangers]], and protection of rural households.
 
 She is a sun-browned woman with red hair, typically wearing her worn but carefully maintained brigandine armor. She carries an ash halberd and often wears a homespun scarf knotted like a banner.
 ## Events

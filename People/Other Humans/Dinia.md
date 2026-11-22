@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-09-13T13:45:21-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: human
 ancestry: Northerner
 gender: female
@@ -22,7 +22,10 @@ POV: 1752
 > [!taelgar-header]
 > (human, Northerner, she/her, lives in Blacksilver Peak)
 
-![[dinia.png|right|400]]Dinia is a bard, lore-keeper, guide, and hermit. For many years, she lived alone in the mountains near [[Blacksilver Peak]], north of the [[Northern Provinces]] of the [[Chardonian Empire]]. She keeps and remembers many stories of the past, acting as an informal oral historian of the lost kingdoms, especially [[Amani]], destroyed during and after the [[Great War]]. 
+> [!image|right]
+> ![[dinia.webp|400]]
+
+Dinia is a bard, lore-keeper, guide, and hermit. For many years, she lived alone in the mountains near [[Blacksilver Peak]], north of the [[Northern Provinces]] of the [[Chardonian Empire]]. She keeps and remembers many stories of the past, acting as an informal oral historian of the lost kingdoms, especially [[Amani]], destroyed during and after the [[Great War]].
 
 She is a bent old woman, usually bundled in heavy furs, who moves slowly but deliberately through the high peaks. Her home near Blacksilver Peak is a warm, hidden cave that seems larger inside than outside, a place of food, shelter, stories, and practical warnings against the mountain's dangers. She is strange and old-fashioned in manner, but not vague or helpless; she knows the glacier, the storms, the hidden paths, and the old things that still linger above the tree line.
 

@@ -1,11 +1,11 @@
 ---
 lintedAt: "2026-08-23T23:02:51-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: orc
 born: 1698
 gender: female
-image: "[[nuzkar-small.png]]"
+image: "[[nuzkar-small.webp]]"
 name: Nuzkar
 pronunciation: NUZ-car
 whereabouts:
@@ -23,7 +23,10 @@ POV: 1749
 > [!taelgar-header]
 > (orc, she/her, b. 1698)
 
-![[nuzkar-potrait.png|right|320]]An orc scholar, loremaster, and archivist, seeking stories, rumors, and information about other free orcs, about how [[Thark]]'s enslavement works, and how to free more of her people. She has a twin sister, [[Aygul]], as well as a husband and large family in Uzgukhar. 
+> [!image|right]
+> ![[nuzkar-potrait.webp|320]]
+
+An orc scholar, loremaster, and archivist, seeking stories, rumors, and information about other free orcs, about how [[Thark]]'s enslavement works, and how to free more of her people. She has a twin sister, [[Aygul]], as well as a husband and large family in Uzgukhar.
 
 Nuzkar is an older orc woman with pale green skin and graying hair; she favors colorful linen clothing.
 

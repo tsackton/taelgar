@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-28T16:53:46-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: human
 ancestry: null
 campaignInfo:
@@ -22,7 +22,10 @@ POV: 1748
 > [!taelgar-header]
 > (human, she/her, b. 1724, lives in Medju)
 
-![[resenna.png|right|320]]Young woman, from Medju. Apprentice to [[Arryn]]. Fled when he vanished into [[Mirror Realm]]; was trapped and enslaved by aboleth. Now dwelling with sea elves until aboleth curse can be removed. 
+> [!image|right]
+> ![[resenna.webp|320]]
+
+Young woman, from Medju. Apprentice to [[Arryn]]. Fled when he vanished into [[Mirror Realm]]; was trapped and enslaved by aboleth. Now dwelling with sea elves until aboleth curse can be removed.
 
 %%^Metadata:names:v1%%
 - {name: Resenna, language: unknown, pronunciation: reh-SEN-ah, status: proposed, notes: "Proposed from spelling; no recorded pronunciation or established source-language rule was found."}

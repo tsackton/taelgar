@@ -1,11 +1,11 @@
 ---
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: elf
 ka: 37
 gender: male
-image: "[[egnir-small.png]]"
+image: "[[egnir-small.webp]]"
 name: Égnir
 aliases: [Égnir]
 whereabouts:
@@ -20,7 +20,10 @@ POV: 1749
 > [!taelgar-header]
 > (elf, he/him, ka 37)
  
-![[egnir.png|right|300]]Egnir is a young elf from [[Orenlas]], venturing forth from the shelter of the elven forests for the first time. He is quiet and reserved, and does not speak much. However, he has an incredible knack for plants, and is an expert gardener. 
+> [!image|right]
+> ![[egnir.webp|300]]
+
+Egnir is a young elf from [[Orenlas]], venturing forth from the shelter of the elven forests for the first time. He is quiet and reserved, and does not speak much. However, he has an incredible knack for plants, and is an expert gardener.
 
 Egnir spends most of his time tending to the elven tree growing in the center of the courtyard on [[Vindristjarna]], and can often be found in the evenings under the stars singing softly in Elvish to the gardens.
 

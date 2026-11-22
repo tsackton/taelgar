@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-11-12T19:02:10-05:00"
 lintVersion: "3.5"
-tags: [session-note]
+tags: [session-note, status/check/ai]
 campaign: dufr
 sessionNumber: 74
 realWorldDate: 2023-03-30
@@ -42,13 +42,16 @@ The [[Dunmar Fellowship]] successfully repairs the skyship [[Vindristjarna]].
 ## Narrative
 We begin at dusk, at the site of the crashed [[Vindristjarna|airship]], as the party settles in for the night and begins to determine what is necessary to repair [[Vindristjarna]]. From the notes and information gleaned in [[Hralgar]]'s library, [[Seeker]], [[Riswynn]], and [[Delwath]] are able to determine that three steps are necessary to repair the ship: the construction of an [[adamantine]] harness for the phasing stone; the construction of a stone console to hold the phasing stone apparatus; and the construction of a gold and silver focus to channel the energy.
 
-![[dufr-074-vindristjarna-crash-location.png]]
+> [!image|figure standard]
+> ![[dufr-074-vindristjarna-crash-location.webp]]
+> *Vindristjarna crash site*
 
 Over the next two days, [[Seeker]] and [[Riswynn]] work to construct the [[adamantine]] harness and the stone console to mount the phasing stone to, guided by [[Riswynn]]'s magic and the knowledge of both the [[Dwarves]]. During these days of work, [[Wellby]] and [[Kenzo]] tend the camp and keep watch, and Delwath scries, seeing [[Kadmos]] and company marching in the desert to the south, in the heart of the [[Garamjala Desert|Garamjala]].
 
 On the third day, November 27th, [[Riswynn]] and [[Seeker]] construct considerable quantities of gold and silver thread with [[Riswynn]]'s magic, to shape and forge the final piece of the control apparatus for [[Vindristjarna]]. [[Wellby]], however, sees a rider on the horizon, and heads to scout, finding [[Alesh]] riding towards the former site of the [[Stormcaller Tower]].
 
-![[alesh-portrait.jpg]]
+> [!image|right standard]
+> ![[alesh-portrait.webp]]
 
 From [[Alesh]], the party gets news about [[Dunmar]]. She is riding from [[Karawa]] to [[Sura]]'s camp, and stopped to investigate the weird lack of a storm near [[Stormcaller Tower]], called the Tower of the Wild Wind by the Dunmari. Among bits of personal gossip and historical trivia, the party learns that a band of [[Orcs]] (the [[Dustthorn Horde]], the remnants of [[Agata]]'s allies) attacked the border near [[Karawa]], desperate for food. Several were captured and told their interrogators that [[Agata]] was behind Karnas' ascension to the throne, and he was working for her. 
 
@@ -58,7 +61,9 @@ Meanwhile, [[Seeker]] and [[Riswynn]] convert 800 gold and 800 silver coins into
 
 The next day, [[Seeker]] and [[Riswynn]] continue to work on the channeling device, while [[Delwath]] scries [[Kharsan]] and sees [[Grash]]'s army leaving. 
 
-![[dufr-074-undead-orcs-marching.png]]
+> [!image|figure standard]
+> ![[dufr-074-undead-orcs-marching.webp]]
+> *Undead orcs advancing through dust*
 
 That evening, the night of Nov 28th, [[Seeker]] has a dream, a shadow hunter threatening that he is coming soon for them. 
 

@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: human
 ancestry: Sembaran
 born: 1684
@@ -19,7 +19,10 @@ POV: 1720
 > [!taelgar-header]
 > (human, Sembaran, she/her, b. 1684, lives in Cleenseau)
 
-![[catherine-de-brune.png|right|320]]The cousin of [[Sabine de Brune]] and a trading agent for a number of Embry trading families, including the [[Garay Family]]. She is a confidant of [[Rinault Essford|Rinault]] and it is a rather open secret that she has an on-again, off-again affair with him. She has bought numerous landholdings in [[Asineau]] from [[Lorin Valbert]], but is concerned at his mismanagement and questioning whether it is a profitable investment. After
+> [!image|right]
+> ![[catherine-de-brune.webp|320]]
+
+The cousin of [[Sabine de Brune]] and a trading agent for a number of Embry trading families, including the [[Garay Family]]. She is a confidant of [[Rinault Essford|Rinault]] and it is a rather open secret that she has an on-again, off-again affair with him. She has bought numerous landholdings in [[Asineau]] from [[Lorin Valbert]], but is concerned at his mismanagement and questioning whether it is a profitable investment. After
 
 Her husband Emmanuel is a doting father to their four children, and somewhat bookish, but their relationship seems cool at best.
 

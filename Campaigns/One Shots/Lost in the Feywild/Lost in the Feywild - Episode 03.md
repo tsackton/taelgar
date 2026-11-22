@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-11-12T19:02:10-05:00"
 lintVersion: "3.5"
-tags: [session-note, status/check/lint]
+tags: [session-note, status/check/lint, status/check/ai]
 campaign: feywild
 sessionNumber: 3
 realWorldDate: 2026-06-02
@@ -87,7 +87,7 @@ With [[Menestheus]], the party presses onward to the [[27th House]] whose entry 
 	bring back the key to finally set me free.
 
 > [!image|figure large]
-> ![[feywild-03-the-door-on-the-cliff.jpg]]
+> ![[feywild-03-the-door-on-the-cliff.webp]]
 > *The lonely door on a cliff leading to the [[27th House|27th Room]]*
 
 ## Cast of Characters

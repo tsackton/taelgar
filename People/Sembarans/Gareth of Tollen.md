@@ -2,7 +2,7 @@
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
 displayDefaults: {endStatus: brought to justice}
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: human
 ancestry: Tollender
 gender: male
@@ -22,7 +22,10 @@ POV: modern
 > [!taelgar-header]
 > (human, Tollender, he/him, b. 1686, d. 1720)
 
-![[gareth-of-tollen.png|right|320]]A baronial tax collector for the [[Barony of Aveil]], he was hired in mysterious circumstances and previously worked for the [[Lord Mayor’s Workhouse]] in [[Embry]] as an enforcer.
+> [!image|right]
+> ![[gareth-of-tollen.webp|320]]
+
+A baronial tax collector for the [[Barony of Aveil]], he was hired in mysterious circumstances and previously worked for the [[Lord Mayor’s Workhouse]] in [[Embry]] as an enforcer.
 
 He was discovered to have been misappropriating funds and was brought to justice for banditry and prior crimes by the [[Heroes of Cleenseau]]. He was executed for his crimes in [[Cleenseau]] by the order of [[Nicholas Wysson]].
 

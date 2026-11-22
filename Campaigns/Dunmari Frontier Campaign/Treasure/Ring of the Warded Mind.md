@@ -2,7 +2,7 @@
 lintedAt: "2026-10-20T07:49:48-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-tags: [object]
+tags: [object, status/check/ai]
 typeOf: ring
 subTypeOf: magic
 ancestry: dwarven
@@ -19,7 +19,10 @@ POV: modern
 > [!taelgar-header]
 > (uncommon dwarven magic ring)
 
-![[ring-of-warded-mind-seeker.jpg|right|400]]This dull silver ring, of Dwarven make, is difficult to focus on, always seeming to want to slide out of your eyesight. It radiates abjuration magic. 
+> [!image|right]
+> ![[ring-of-warded-mind-seeker.webp|400]]
+
+This dull silver ring, of Dwarven make, is difficult to focus on, always seeming to want to slide out of your eyesight. It radiates abjuration magic.
 
 %%^Campaign:dufr%%
 [[Agata]] was wearing this ring, and it was taken by the [[Dunmar Fellowship]]. Soon after [[Seeker]] attuned to this ring, he was telepathically contacted by a fey creature, claiming to be [[Typhina]], a native of the [[Feywild]]. [[Typhina]] said that she was once the guardian of an ancient tree in the [[Heartwood Grove]], in [[Amberglow]], protecting a tree that was the essence of wood itself. [[Agata]], when she was banished from the [[Feywild]], stole a branch of this tree, using it for nefarious magic. [[Typhina]] was sent to retrieve this branch, but she failed, and was killed by [[Agata]]. Yet, [[Typhina]] says, [[Agata]] did not know the power of this ring. When she died, her soul was preserved in this ring, and now she is seeking a way to return to the [[Feywild]], where she believes she can be reborn if she returns to the [[Heartwood Grove]]. The ring, she says, was a gift of the [[Dwarves|dwarven]] scholar [[Daruk]], who traveled to the [[Feywild]] many years ago, seeking to understand the elemental essences of living things. 

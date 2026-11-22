@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: human
 ancestry: Sembaran
 born: 1679
@@ -17,7 +17,10 @@ POV: 1720
 > [!taelgar-header]
 > (human, Sembaran, she/her, b. 1679, lives in Taviose)
 
-![[phillipa-northwood.png|right|320]]The lynchpin of the Northwood family, she is a woodcutter and friend of [[Perrin Voclain]]. She came along with [[Odo Cordwaner]] and [[Hugh Darrow]] to help the [[Heroes of Cleenseau]] during the [[Battle Against Wakog]] and is strong and knows how to swing an axe. She has been very helpful assisting [[Catherine de Brune]] at extracting spider silk from the [[Cleenseau Wood]].
+> [!image|right]
+> ![[phillipa-northwood.webp|320]]
+
+The lynchpin of the Northwood family, she is a woodcutter and friend of [[Perrin Voclain]]. She came along with [[Odo Cordwaner]] and [[Hugh Darrow]] to help the [[Heroes of Cleenseau]] during the [[Battle Against Wakog]] and is strong and knows how to swing an axe. She has been very helpful assisting [[Catherine de Brune]] at extracting spider silk from the [[Cleenseau Wood]].
 
 She lives with her wife and their two teenage children and her older brother, who was widowed by the [[Cleenseau Spider Attacks]]. Her niece and her niece's husband live next door. Her oldest child and her son-in-law died in the spider attacks. 
 

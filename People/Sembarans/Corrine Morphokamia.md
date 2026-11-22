@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: human
 gender: female
 name: Corrine Morphokamia
@@ -23,9 +23,11 @@ Corrine Morphokamia is a wizard who studies transformation and lives in [[Enclau
 In January 1720, Corrine survived a failed expedition against the undead eel in [[Lake Rin]]. The [[Heroes of Cleenseau]] healed her, and she provided hospitality and water-breathing magic for their own expedition into the lake. See [[Cleenseau - Session 13]] and [[Cleenseau - Session 13.1]].
 %%^End%%
 
-![[corrine-healthy.png]]
+> [!image|right standard]
+> ![[corrine-healthy.webp]]
 
-![[corrine-ill.png]]
+> [!image|right standard]
+> ![[corrine-ill.webp]]
 
 %%^Metadata:names:v1%%
 - {"language": "Drankorian", "name": "Corrine Morphokamia", "notes": "The played conversation identifies the name as Drankorian. Corrine has used her first name for as long as she can remember; Morphokamia sounds like a chosen name, but this is not confirmed.", "pronunciation": "kor-REE-neh mor-foh-KAH-mee-ah", "status": "documented"}

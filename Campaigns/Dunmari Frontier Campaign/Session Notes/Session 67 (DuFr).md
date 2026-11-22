@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-11-12T19:02:10-05:00"
 lintVersion: "3.5"
-tags: [session-note, status/check/lint]
+tags: [session-note, status/check/lint, status/check/ai]
 campaign: dufr
 sessionNumber: 67
 realWorldDate: 2022-12-04
@@ -40,7 +40,9 @@ The [[Dunmar Fellowship]] discovers Typhina's true identity as [[Agata|Agata Dus
 
 Our session begins at [[Lastlight Falls]] in the fey realm of [[Amberglow]], where [[Seeker]] has come with the aid of [[Caulaus]], [[Raven]], and [[Spirala]], though [[Raven]] and [[Spirala]] have returned to [[Shimmersong]].  [[Kenzo]] is waiting, and [[Wellby]] arrives shortly afterward. [[Lastlight Falls]] is a place close to the [[Cloudspinner]]'s attention, and the session begins with her [[Cloudspinner|memories]].
 
-![[amberglow-lastlight-falls.png|600]]
+> [!image|figure]
+> ![[amberglow-lastlight-falls.webp|600]]
+> *High ledge and waterfall in the Feywild*
 
 [[Kenzo]] and [[Wellby]] are introduced to [[Caulaus]], which involves a bit of discussion over [[Caulaus]]' evident confusion over the current time. [[Caulaus]] speaks of [[Drankor]], and a battle against dragons, and fleeing. But even after questioning, he remembers little else: his appointment ceremony with [[Helea]], a feast with [[Elves|elves]] perhaps on the frontier somewhere, but no details the party asks after. 
 
@@ -52,12 +54,18 @@ The party bargains to exchange the answers to three questions, and agreeing not 
 [[Typhina]] explains some of her history with the harpies, and claims not to have cursed them; instead, she simply kept them from the forest as gently as she could (although later revelations call the truth of this into question).
 From here, the party proceeds, crossing the dry riverbed of the River of Time that no longer flows here, and finding the grotto of the nymph [[Melusine]], supposedly an old friend and ally of [[Typhina]].
 
-![[dufr-067-amberglow-nymph-grotto.png|600]]
+> [!image|figure]
+> ![[dufr-067-amberglow-nymph-grotto.webp|600]]
+> *Flooded archway under green trees*
+
 The party speaks with [[Typhina]] and [[Melusine]], about [[Agata]], and the fey, and [[Ring of the Warded Mind|Typhina's story]], but come to no real conclusions and decide to continue to the Heartwood Grove.
 
 The party arrives in the grove, seeing the massive tree before them, and [[Seeker]] steps forward to give the [[Ring of the Warded Mind]] to the tree, when evil laughter begins to echo through the woods. Emerging from the ring, reformed, is not [[Typhina]], but [[Agata]] Dustmother, who has been pretending to be [[Typhina]] for months. 
 
-![[dufr-067-amberglow-heartwood-grove.png|600]]
+> [!image|figure]
+> ![[dufr-067-amberglow-heartwood-grove.webp|600]]
+> *Moss-covered arch of trees*
+
 [[Agata]] greets the party cheerfully, thanking them for the chaos they have caused in her name ("The best civil war is always one where every side believes they are righteous"), and offers to send them back to the [[Material Plane]]. Before she can finish speaking, [[Wellby]] attacks, and the battle is joined. The party, however, has gotten much stronger since they last faced [[Agata]], and she does not present a lethal danger. [[Caulaus]] with his echo deals an incredible amount of damage, including the killing blow, aided by [[Kenzo]]'s stunning strike.
 
 [[Kenzo]] speaks with the elder tree of the grove, asking what is to be done. The grove asks for a new guardian, and [[Caulaus]] agrees to take on the role, until the [[Cloudspinner]] returns and he can make amends for the wrongs he cannot remember. And so [[Agata]] is imprisoned in a tree, a fate she imposed on so many, and the party listens to [[Caulaus]]' story before they leave, which [[Kenzo]] [[Caulaus' Story|records]].

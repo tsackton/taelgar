@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-23T12:50:50-04:00"
 lintVersion: "3.5"
-tags: [place, status/gameupdate/grli]
+tags: [place, status/gameupdate/grli, status/check/ai]
 typeOf: grassland
 name: Erbalta Plains
 pronunciation: air-BAHL-tuh
@@ -21,7 +21,9 @@ The Erbalta Plains are a large open steppe along the [[Snake River]] valley. Thi
 
 The Erbalta Plains are too dry for extensive agriculture outside of irrigated fields and in some riparian valleys. What does grow is hardy and drought tolerant: barley, flax, some pulses, and hay from riparian meadows. The Erbalta is excellent grazeland, and hardy sheep and goats are a common sight on the plains.
 
-![[erbalta-plains.png]]
+> [!image|figure standard]
+> ![[erbalta-plains.webp]]
+> *The Erbalta Plains in golden light*
 
 Settlement is sparse across much of the Erbalta. North of Voltara, rugged and largely unsettled steppe is cut by small canyons, and is largely an unsettled and undefended frontier. This was once the territory of [[Grumella's Horde]], but orcs have become a rare sight since [[Grumella's War|her defeat]]. To the south, the Voltara hinterlands support herding, limited farming, and substantial centaur populations. This area, especially along the south road, is heavily patrolled by Chardonian forces seeking to protect the chalyte shipments traveling overland to [[Lake Valandros]].
 

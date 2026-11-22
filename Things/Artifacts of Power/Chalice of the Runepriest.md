@@ -2,7 +2,7 @@
 lintedAt: "2026-10-19T00:07:38-04:00"
 lintVersion: "3.5"
 displayDefaults: {wOrigin: "<start:u> in <startDate> <origin:3rq>", wCurrent: "Current location: <current:3r>", dCurrent: ""}
-tags: [object, testcase, status/check/lint]
+tags: [object, testcase, status/check/lint, status/check/ai]
 typeOf: chalice
 ancestry: dwarven
 created: 1547
@@ -27,7 +27,10 @@ Whereabouts dates:
 dates are approx prior to 1748
 %%
 
-![[chalice-of-the-runepriest.png|right|400]]An elaborate rune-carved chalice of ambiguous origin, revered as a sacred national treasure by the dwarves of Nardith. It is rumored to have many powers, including the power to heal all wounds and illness and the power to magically provide food, water, and shelter to all who need it.
+> [!image|right]
+> ![[chalice-of-the-runepriest.webp|400]]
+
+An elaborate rune-carved chalice of ambiguous origin, revered as a sacred national treasure by the dwarves of Nardith. It is rumored to have many powers, including the power to heal all wounds and illness and the power to magically provide food, water, and shelter to all who need it.
 
 It was found when the [[Dwarves]] fleeing the destruction of the kingdom of [[Ardith]] at the end of the [[Great War]] reached the [[Yuvanti Mountains]], located in a chamber already carved and prepared deep beneath the ground, reminiscent of [[Heart of the Mountain]]. When it was first found, it flowed with salt water (some say, the tears of the [[Bahrazel]]; others a memory of the ocean that once covered the land). This became the site where [[Tharn Todor]] was constructed. 
 

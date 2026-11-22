@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: lizardfolk
 ancestry: null
 born: 1512
@@ -17,7 +17,10 @@ POV: 1720s
 > [!taelgar-header]
 > (lizardfolk, he/him, b. 1512, lives in Ganboa)
 
-![[lizardfolk-koldo.png|right|320]]A reclusive druid, very rarely talks to outsiders.
+> [!image|right]
+> ![[lizardfolk-koldo.webp|320]]
+
+A reclusive druid, very rarely talks to outsiders.
 
 %% Invented as a potential NPC for Clee to meet, never did. Kept because I liked the picture %%
 

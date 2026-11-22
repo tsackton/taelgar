@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: human
 ancestry: Skaer
 campaignInfo:
@@ -20,7 +20,10 @@ POV: 1740s
 > [!taelgar-header]
 > (human, Skaer, he/him, b. 1719, lives in Pyhlla)
 
-![[tulvak.png|right|400]]Tulvak is a skilled sailor hailing from the island of [[Pyhlla]] in [[Skaerhem]], in the Western [[Green Sea]]. He has for many years served as the ferry captain guiding pilgrims to [[Vetta]], and knows the coast of [[Vetta]] like the back of his hand. 
+> [!image|right]
+> ![[tulvak.webp|400]]
+
+Tulvak is a skilled sailor hailing from the island of [[Pyhlla]] in [[Skaerhem]], in the Western [[Green Sea]]. He has for many years served as the ferry captain guiding pilgrims to [[Vetta]], and knows the coast of [[Vetta]] like the back of his hand.
 
 %%^Date:1748%%
 Tulvak was on [[Vetta]] when [[Urgall the Black]] attacked in DR 1748. He was the only survivor of that assault, and still questions whether it was fate, or luck, that he was outside pissing when the fireballs began to fly. He fled watching the longhouse burn with all the pilgrims inside, and still carries the trauma of that night. 

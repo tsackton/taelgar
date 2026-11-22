@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-25T23:14:40-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: human
 ancestry: Chardonian
 campaignInfo:
@@ -23,7 +23,10 @@ POV: 1749
 > [!taelgar-header]
 > (human, Chardonian, he/him, lives in Chardon)
 
-![[tiberius.png|left|400]]Tiberius is a [[Chardonian Empire|Chardonian]] [[Windcallers|Windcaller]] in the service of [[Mitus Verina Auratan]], the Magistros of [[Chardon]]. He serves aboard the [[Auratan's Pride]], one of the Magistros' naval flagships, and is one of the most powerful Windcallers in active service. 
+> [!image|left]
+> ![[tiberius.webp|400]]
+
+Tiberius is a [[Chardonian Empire|Chardonian]] [[Windcallers|Windcaller]] in the service of [[Mitus Verina Auratan]], the Magistros of [[Chardon]]. He serves aboard the [[Auratan's Pride]], one of the Magistros' naval flagships, and is one of the most powerful Windcallers in active service.
 
 He is a tall, lean man with shoulder-length silver-white hair and unnatural storm-blue eyes, lacking ordinary visible whites or pupils. He carries a polished oak staff tipped with a small sapphire orb. His eyes flare bright blue when he works magic; his spellcasting is marked by blue light, crackling lightning, and precise command of wind.
 

@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: halfling
 campaignInfo:
   - {campaign: dufr, date: 1748-06-02, type: freed}
@@ -31,7 +31,10 @@ POV: 1748
 
 %% date of capture is approx %%
 
-![[garret-tealeaf.jpg|right|300]]Garret Tealeaf grew up traveling the roads of Dunmar with the Tealeaf trading family, eventually becoming the patriarch of a group of 5 well-armed and defended caravans that regularly made the circuit from Chardon, east to [[Songara]], Tokra, and Karawa, before turning south across the Yuvanti Mountains to Nayahar, and then north along the coast to Darba, and back to Chardon. 
+> [!image|right]
+> ![[garret-tealeaf.webp|300]]
+
+Garret Tealeaf grew up traveling the roads of Dunmar with the Tealeaf trading family, eventually becoming the patriarch of a group of 5 well-armed and defended caravans that regularly made the circuit from Chardon, east to [[Songara]], Tokra, and Karawa, before turning south across the Yuvanti Mountains to Nayahar, and then north along the coast to Darba, and back to Chardon.
 %%^Campaign:dufr%%
 ## Relationships
 

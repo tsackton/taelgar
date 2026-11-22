@@ -1,3 +1,7 @@
+---
+tags: [status/check/ai]
+---
+
 # 2023-12-29 - Discord Chat with Dan Walters - Robin's Fey Steed and Forest-Themed Equipment
 
 %% Mike identified Discord's "Deleted User" as Dan Walters, Robin's player. %%
@@ -24,7 +28,9 @@
 [2023-12-29 01:42 PM] Deleted User: (forest themed griffon)
 
 [2023-12-29 01:54 PM] Deleted User: 
-![[assets/greymalkin-2.png]]
+
+> [!image|right standard]
+> ![[assets/greymalkin-2.webp]]
 
 [2023-12-29 02:07 PM] Deciusmus: That’s pretty cool
 

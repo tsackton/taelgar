@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: halfling
 ancestry: null
 campaignInfo:
@@ -22,7 +22,10 @@ POV: 1749
 > [!taelgar-header]
 > (halfling, she/her, lives in Refounded Alliance of Aurbez)
 
-![[daisy-lightfoot.png|right|400]] Daisy Lightfoot is a halfling scout master and member of the [[Rangers]].  She has a prominent scar on her cheek and is eager to fight hobgoblins.
+> [!image|right]
+> ![[daisy-lightfoot.webp|400]]
+
+Daisy Lightfoot is a halfling scout master and member of the [[Rangers]].  She has a prominent scar on her cheek and is eager to fight hobgoblins.
 
 %%SECRET[v2:126b38724dc8a9de83ea1477881e611d]%%
 

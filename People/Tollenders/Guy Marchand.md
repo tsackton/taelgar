@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: human
 ancestry: Isinguer
 campaignInfo:
@@ -28,7 +28,8 @@ Guy Marchand is a mapmaker from [[Tollen]], known for his meticulous craftsmansh
 Guy Marchand, a mapmaker and bookseller, resides in the [[Nordgate]] district of [[Tollen]], where he runs a shop on the bustling [[Scrollwright Street]]. This major thoroughfare connects [[Magus Street]] and [[Godshome]], and is the heart of book production and related trades in [[Tollen]]. He is of Isinguese ancestry, and his shop doubles as a local center for the Isinguer diaspora in [[Tollen]]. 
 ## Description
 
-![[guy-marchand.png]]
+> [!image|right standard]
+> ![[guy-marchand.webp]]
 
 Guy, an aging man in his mid-60s, looks young for his age; he has lived a comfortable life. His attire is modest but well-crafted, reflecting his middle-class merchant roots. He lives and works in a spacious, if cluttered, mapmaking shop on [[Scrollwright Street]].
 ## Relationships

@@ -2,7 +2,7 @@
 lintedAt: "2026-08-25T23:38:37-04:00"
 lintVersion: "3.5"
 displayDefaults: {wSecondary: "Sometimes considered one of the <secondary:1>"}
-tags: [place]
+tags: [place, status/check/ai]
 typeOf: plane
 name: Pandemonium
 whereabouts:
@@ -18,8 +18,9 @@ POV: 1749
 
 There is no one description of  Pandemonium. Even among those who claim to have glimpsed its depths, no two accounts are the same, and few scholars believe a mortal being can travel to Pandemonium and return with their mind intact. A howling void of endless tunnels, a labyrinth of wind-carved stone, a realm where screams take form and shadows coil into laughter— these are but fragments of the descriptions found in _[[Codex Maledictum]]_, the most infamous collection of accounts from supposed planar travelers. If there is truth in such writings, Pandemonium is a realm of ceaseless wind and darkness, its tunnels stretching into infinity, its pathways twisting with no discernible pattern. 
 
-![[pandemonium-painting.webp]]
-*A painting imaging Pandemonium by [[Kaelion the Elder]]*
+> [!image|figure standard]
+> ![[pandemonium-painting.webp]]
+> *A painting imaging Pandemonium by [[Kaelion the Elder]]*
 
 The [[Standard Multiversal Model]] places Pandemonium among the undifferentiated [[Spiritual Realms]], and does not propose an origin for this place of madness. Yet, some suggest otherwise. [[Nicole Ardouin]], though often ignored, collected the most extensive history of Pandemonium in [[On the Foundations of Madness]]. In this impressive, though rarely studied work, she collected numerous fragments of lost writing and deep history concerning Pandemonium, which hint at the possibility the Plane of Madness is metaphysically a realm of the embodied god [[Jinnik]], often known as the Mad One. While many scholars refuse to engage these legends and claim that [[Jinnik]] is a myth from the early days of humanity, Nicole argues strongly that Pandemonium is indeed one of the [[Divine Realms]]. 
 

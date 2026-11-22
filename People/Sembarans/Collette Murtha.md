@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: human
 ancestry: Sembaran
 gender: female
@@ -19,7 +19,10 @@ POV: 1720s
 > [!taelgar-header]
 > (human, Sembaran, she/her, b. 1679, lives in Beury)
 
-![[collette-mutha.png|right|320]]The steward and administrator of the temple of The Father in [[Beury]], and the cousin of [[Erick Murtha|Lord Murtha]].
+> [!image|right]
+> ![[collette-mutha.webp|320]]
+
+The steward and administrator of the temple of The Father in [[Beury]], and the cousin of [[Erick Murtha|Lord Murtha]].
 
 %%^Metadata:names:v1%%
 - {"name":"Collette Murtha","language":"Sembaran","pronunciation":"koh-LET moor-TAH", "status":"documented"}

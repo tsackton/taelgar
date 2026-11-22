@@ -19,7 +19,8 @@ POV: 1720
 > [!taelgar-header]
 > (halfling, he/him, lives in Veltor)
 
-![[corrin-merriweather.png|left|200]]
+> [!image|left]
+> ![[corrin-merriweather.webp|200]]
 
 Corrin Merriweather is a quiet halfling of the [[Merriweathers]] who, with his sister [[Primrose Merriweather]], owned a long-established tailor shop in [[Veltor]].
 

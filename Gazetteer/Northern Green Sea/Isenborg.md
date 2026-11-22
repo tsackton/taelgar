@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T11:59:58-04:00"
 lintVersion: "3.5"
-tags: [place, status/check/lint]
+tags: [place, status/check/lint, status/check/ai]
 typeOf: settlement
 typeOfAlias: steading
 ancestry: frost giant
@@ -21,7 +21,11 @@ Isenborg is the primary steading of [[Kaldhalla]], and the hall of the king, [[B
 
 ## Approach
 
-![[steading-entrance.jpg|right|500]]Isenborg is located on the shoulder of a tall peak in the [[Svinjo Mountains|Hrimthur]] range, in the shadow of the mountain the frost giants call Spirenevald (SPEER-ehn-vahld). The northern lights constantly dance over the steading, even in daytime, giving it a strange magical glow, and illuminating the massive walls of ice and stone that encircle the steading. 
+> [!image|right]
+> ![[steading-entrance.webp|500]]
+> *Steading entrance at Isenborg*
+
+Isenborg is located on the shoulder of a tall peak in the [[Svinjo Mountains|Hrimthur]] range, in the shadow of the mountain the frost giants call Spirenevald (SPEER-ehn-vahld). The northern lights constantly dance over the steading, even in daytime, giving it a strange magical glow, and illuminating the massive walls of ice and stone that encircle the steading.
 
 The entrance to Isenborg is marked by a grand, frozen gate, adorned with intricate carvings of frost giants' myths and battles. Sentinel ice sculptures, crafted to look like fearsome beasts and legendary giants, guard the pathways.
 
@@ -31,7 +35,11 @@ Within the walls of the steading lies a spacious courtyard, covered in snow, col
 
 ## Brimskarda's Palace
 
-![[brimskarda-palace-interior.jpg|right|500]]Brimskarda's Palace is the most notable landmark in Isenborg. The palace is a marvel of ice architecture, towering spires and domes crafted from blue and white ice, shimmering like a mirage. Giant-sized steps lead up to the main entrance, flanked by ice columns that radiate a soft, ethereal glow. Enormous ice sculptures of the frost giant's gods and ancestors decorate the palace facade.
+> [!image|right]
+> ![[brimskarda-palace-interior.webp|500]]
+> *Brimskarda's palace, blue ice hall, JPEG export*
+
+Brimskarda's Palace is the most notable landmark in Isenborg. The palace is a marvel of ice architecture, towering spires and domes crafted from blue and white ice, shimmering like a mirage. Giant-sized steps lead up to the main entrance, flanked by ice columns that radiate a soft, ethereal glow. Enormous ice sculptures of the frost giant's gods and ancestors decorate the palace facade.
 
 Inside, the great hall is vast, with ceilings lost in shadow, supported by pillars of ice. The hall is dominated by the view of Brimskarda's throne, carved from glacial ice, seated upon a raised dais, with a long, frost-encrusted carpet leading up to it. Tapestries depicting Brimskarda's victories in battle line the walls, and everything is illuminated with an icy blue light.
 

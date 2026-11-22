@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-23T17:36:36-04:00"
 lintVersion: "3.5"
-tags: [place]
+tags: [place, status/check/ai]
 typeOf: inn
 typeOfAlias: caravanserai
 ancestry: Dunmari
@@ -19,7 +19,9 @@ POV: 1749
 
 A large caravanserai, inn, and trading post in [[Karawa]]. It is on the northern outskirts of the village, a large square building with an open courtyard, rooms for travelers, and space for merchants and animals. This is a center of commerce in the village when the market is deserted, and many things can be acquired from [[Ikram]], the proprietor.
 
-![[ikram-caravanserai-rebuilt.jpg]]
+> [!image|figure standard]
+> ![[ikram-caravanserai-rebuilt.webp]]
+> *Rebuilt courtyard at Ikram's*
 
 ## Food and Drink
 

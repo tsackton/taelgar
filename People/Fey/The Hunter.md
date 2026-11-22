@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: fey
 gender: male
 died: 1720-10-19
@@ -21,7 +21,9 @@ POV: 1720
 > [!taelgar-header]
 > (fey, he/him, d. 1720, lives in Duskmire)
 
-![[the-hunter-fey-img2.jpg|left|260]] ![[the-hunter-fey-img1.jpg|left|260]]
+> [!gallery]
+> - ![[the-hunter-fey-img2.webp|260]]
+> - ![[the-hunter-fey-img1.webp|260]]
 
 Kiastíōn Hēmiárktos, usually called The Hunter, was a large fey from [[Duskmire]], with the upper body of a human and the lower body of a bear. Arrogant and cruel, he treated mortals as prey and delighted in threats, mockery, and gloating. He commanded harpies, enchanted beasts, and [[Duskhounds]], combining predatory violence with an insistence on the forms of fey bargaining. He is rumored to have several cubs, whom he cares for deeply. The [[Heroes of Cleenseau]] killed him on October 19, DR 1720, while thwarting his attempt to abduct Queen [[Elaine II]].
 
@@ -31,7 +33,7 @@ In early DR 1720, the Hunter preyed on travelers near [[Ashcombe]], particularly
 
 %% 
 one of his kids
-![[the-hunter-bear-cub.jpg||260]]
+![[the-hunter-bear-cub.webp||260]]
 %%
 
 %%^Metadata:names:v1%%

@@ -19,7 +19,7 @@ several of the party but disappears suddenly.
 Celyn, Robin, and Izgil are trapped in dreams of a gloomy place with a dead
 tree.
 
-[image: Duskmire-2.png][image: Duskmire-1.png]
+[image: Duskmire-2.webp][image: Duskmire-1.webp]
 
 *January 3rd*
 Rosalind is summoned to King Robert's court, and departs that evening with
@@ -101,7 +101,7 @@ Also, he has a good horse, if we need additional transit we still have access to
 > January 2nd
 > Celyn, Robin, and Izgil are trapped in dreams of a gloomy place with a dead tree.
 >
-> <Duskmire-2.png><Duskmire-1.png>
+> <Duskmire-2.webp><Duskmire-1.webp>
 >
 > January 3rd
 > Rosalind is summoned to King Robert's court, and departs that evening with her husband (Arthur), her advisor Eremon, Ames Benthey, and most of the Lord's Guard of Cleenseau depart for Embry.

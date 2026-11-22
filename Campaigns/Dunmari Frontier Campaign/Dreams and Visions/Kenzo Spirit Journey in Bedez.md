@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T09:08:30-04:00"
 lintVersion: "3.5"
-tags: [source, status/check/lint]
+tags: [source, status/check/lint, status/check/ai]
 campaign: dufr
 name: Kenzo Spirit Journey in Bedez
 POV: 1748
@@ -9,7 +9,9 @@ POV: 1748
 
 # Kenzo Spirit Journey in Bedez
 
-![[plane-of-consciousness.png|500]]
+> [!image|figure]
+> ![[plane-of-consciousness.webp|500]]
+> *Kenzo's spirit quest*
 
 As you step into the water, a voice, [[Elazar]]’s voice but also more than just his voice, begins to chant. In the beginning there was everything and nothing in this formless vastness in which thought had no meaning, came the Divine, who we call Bakar, embodied creation and destruction, life and death, form and void.
 

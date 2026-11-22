@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: human
 ancestry: "Deno'qai"
 campaignInfo: []
@@ -25,7 +25,10 @@ POV: 1749
 > [!taelgar-header]
 > (human, Deno'qai, she/her, b. 1719)
 
-![[jotha.jpg|right|300]]Jotha is a warrior, serious and sometimes distant, who relies on her connection to the [[Tanshi]] to make sense of the dangers and evils she has faced. She prefers to listen instead of talk, and enjoys hearing stories. While eventually she intends to return to her homeland, for now she travels seeking to deepen her connection to the tanshi. 
+> [!image|right]
+> ![[jotha.webp|300]]
+
+Jotha is a warrior, serious and sometimes distant, who relies on her connection to the [[Tanshi]] to make sense of the dangers and evils she has faced. She prefers to listen instead of talk, and enjoys hearing stories. While eventually she intends to return to her homeland, for now she travels seeking to deepen her connection to the tanshi.
 ## Background
 Jotha was born to the [[Ko'zula]], one of the [[Northern Tribes|northern Deno'qai tribes]]. From a young age, she displayed a talent for the sword and spear, and seemed to have the favor of the [[Tanshi]]. She trained as a holy warrior, and for many years she served as a scout and defender of the villages of the [[Ko'zula]] on the slopes of the [[Northern Sentinels]]. 
 

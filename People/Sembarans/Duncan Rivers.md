@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: human
 ancestry: Sembaran
 gender: male
@@ -19,7 +19,10 @@ POV: 1720s
 > [!taelgar-header]
 > (human, Sembaran, he/him, b. 1672, lives in The Bandit’s End)
 
-![[duncan-rivers.png|right|320]]A jovial barkeep and innkeeper, he is very fond of his inn and a little full of himself. He does not like asking for help very much, and rarely admits he needs it. He is suspicious of magic and speaks often of the "good old days" of Cece's reign.
+> [!image|right]
+> ![[duncan-rivers.webp|320]]
+
+A jovial barkeep and innkeeper, he is very fond of his inn and a little full of himself. He does not like asking for help very much, and rarely admits he needs it. He is suspicious of magic and speaks often of the "good old days" of Cece's reign.
 
 %%^Campaign:clee%%
 He struggled with mysterious disappearing ale and was helped by the [[Heroes of Cleenseau]] although they are not sure what they did to solve the issue.

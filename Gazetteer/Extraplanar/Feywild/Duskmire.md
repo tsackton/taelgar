@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
-tags: [place, status/check/lint]
+tags: [place, status/check/lint, status/check/ai]
 typeOf: extraplanar domain
 name: Duskmire
 whereabouts: Feywild
@@ -18,7 +18,9 @@ A fey realm, the domain of  [[Lord Umbraeth]], often known as the Gloomshaper. D
 
 The scenery is mixed, with a central core of several very tall mountains,  surrounded by a dense and overgrown forest. Four rivers of brown water flow from the mountains to the east, west, north, and south and beyond the forest the realm is craggy hills and cold moors. 
 
-![[Duskmire-1.png]]![[Duskmire-2.png]]
+> [!gallery]
+> - ![[Duskmire-1.webp]]
+> - ![[Duskmire-2.webp]]
 
 
 The realm is bordered to the south by [[Amberglow]], to the west by [[Dreamhaven]], to the north by Unnamed Powerful Northern Fey, and to the east by [[Twilight's Grace]].

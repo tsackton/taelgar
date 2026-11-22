@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: human
 ancestry: Sembaran
 gender: male
@@ -21,7 +21,8 @@ Hubert Moreau was the intended heir to the barony of [[Fellburn]] and is the twi
 
 On January 25, 1720, [[Jacques Bellemont]] awarded the barony to Elise and exiled Hubert from the Duchy of Wisford, permitting him to return when he had found bravery and better judgment.
 
-![[hubert-moreau.jpg|left|400]]
+> [!image|left]
+> ![[hubert-moreau.webp|400]]
 
 %%^Metadata:names:v1%%
 - {name: Hubert Moreau, language: Sembaran, pronunciation: oo-BEHR moh-ROH, status: documented}

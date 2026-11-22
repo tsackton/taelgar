@@ -119,14 +119,14 @@ After their rest, they turn to search the two gate towers; one is choked with ru
 - Organizations: none
 - Items: Floating Disc Coin
 - Enemies: none
-- Image: [[dufr-003-cockatrice-lair.jpg]]
+- Image: [[dufr-003-cockatrice-lair.webp]]
 - Image Role: figure
 - Image Size: standard
 - Image Placement:
 - Image Render:
 - Image Caption: Young cockatrice hatchlings attack and petrify a lion.
 - Image Alt: Cockatrice hatchlings surrounding a partly petrified lion
-- Image 2: [[dufr-003-arcus-petrified.jpg]]
+- Image 2: [[dufr-003-arcus-petrified.webp]]
 - Image 2 Role: figure
 - Image 2 Size: standard
 - Image 2 Placement:
@@ -156,7 +156,7 @@ From this cavern, the party explores the narrower of the two tunnels, which lead
 - Organizations: none
 - Items: Floating Disc Coin, Black Iron Staff
 - Enemies: Animated skeletons, Undead hobgoblin staff-bearer
-- Image: [[dufr-003-deathlock-at-gomat-fort.jpg]]
+- Image: [[dufr-003-deathlock-at-gomat-fort.webp]]
 - Image Role: aside
 - Image Size: standard
 - Image Placement:

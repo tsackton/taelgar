@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
-tags: [person, status/gameupdate/clee, status/check/lint]
+tags: [person, status/gameupdate/clee, status/check/lint, status/check/ai]
 species: fey
 gender: female
 died: 1720-02-21
@@ -18,7 +18,10 @@ POV: 1720
 > [!taelgar-header]
 > (fey, she/her, d. 1720, lives in Duskmire)
 
-![[areschera.jpg|right|400]]A servant of [[Lord Umbraeth]], and a shapeshifter. Mischievous and cruel, she especially enjoys using her disguises and shapeshifting to bring ruin to mortals.
+> [!image|right]
+> ![[areschera.webp|400]]
+
+A servant of [[Lord Umbraeth]], and a shapeshifter. Mischievous and cruel, she especially enjoys using her disguises and shapeshifting to bring ruin to mortals.
 
 %%
 She was a major villain for two sessions in the Cleenseau campaign, so some color and game mechanics information was developed for that.

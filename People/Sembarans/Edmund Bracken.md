@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: human
 ancestry: Sembaran
 gender: male
@@ -17,7 +17,10 @@ POV: 1720s
 > [!taelgar-header]
 > (human, Sembaran, he/him, b. 1686, lives in Beury)
 
-![[edmund-bracken.png|right|320]]The chamberlain and valet of [[Erick Murtha]].
+> [!image|right]
+> ![[edmund-bracken.webp|320]]
+
+The chamberlain and valet of [[Erick Murtha]].
 
 %%^Metadata:names:v1%%
 - {"name": "Edmund Bracken", "language": "Sembaran", "status": "inferred"}

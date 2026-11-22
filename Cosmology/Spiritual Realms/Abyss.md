@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-25T23:38:37-04:00"
 lintVersion: "3.5"
-tags: [place]
+tags: [place, status/check/ai]
 typeOf: plane
 name: Abyss
 whereabouts:
@@ -16,8 +16,10 @@ POV: modern
 
 Although the demons of the Abyss loom large in legends, few scholars dare study the Abyss in depth, for even the study of its nature is said to taint the mind. Most who claim to have seen the Abyss are presumed to be liars, madmen, or worse, and even the most credible accounts contradict each other. In the most comprehensive collection of tales of the Abyss, [[The Chronicle of Ruin]], it is described as a place of endless decay, where fortresses fall to ruin overnight, kingdoms dissolve into filth, and rivers of blood carve paths through landscapes that shift and crumble with every breath. And yet the Chronicle also describes endless layers spiraling downward into the domains of the demon lords, who shape their dominions into nightmarish echoes of themselves, endless and eternal.
 
-![[abyss-abstract-painting.webp]]
-*A painting of the Abyss as imagined by [[Aveline of Isingue]]*
+> [!image|figure standard]
+> ![[abyss-abstract-painting.webp]]
+> *A painting of the Abyss as imagined by [[Aveline of Isingue]]*
+
 ## Origins of the Abyss
 
 While studies of the true nature of the Abyss may be shunned by scholars, arguments concerning its origin are not. In the ancient Drankorian text _[[The Riven Veil]]_, the theological cosmologist [[Marcion of Iridel]] claimed that the Abyss came into being through the worst impulses of humanity, following the centaur philosopher [[Chironides the Wanderer]], who argued that humans who preached hellfire and damnation unwittingly shaped the Abyss out of [[Soulstuff]], and now the nightmares of humanity sustain and strengthen it. While the [[Faculty of Metaphysics]] have not been kind to [[Marcion of Iridel]], and the [[Standard Multiversal Model]] considers the Abyss to have arisen as a counterpoint and entropic backlash against Creation, the vivid theories of the [[The Riven Veil]] persist in the popular imagination.

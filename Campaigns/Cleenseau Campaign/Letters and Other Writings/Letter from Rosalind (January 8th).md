@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T09:38:32-04:00"
 lintVersion: "3.5"
-tags: [source, status/check/lint]
+tags: [source, status/check/lint, status/check/ai]
 campaign: clee
 name: Letter from Rosalind (January 8th)
 POV: 1720
@@ -29,7 +29,8 @@ A dark day, the 8th of January, in the 7th year of Robert I's kingship
 
 There is a rough sketch:
 
-![[avatus-symbol-sketch.png|300]]
+> [!image|right]
+> ![[avatus-symbol-sketch.webp|300]]
 
 
 Also a postscript in Eremon's hand:

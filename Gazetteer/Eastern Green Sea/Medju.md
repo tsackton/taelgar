@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T11:59:58-04:00"
 lintVersion: "3.5"
-tags: [place, status/check/lint]
+tags: [place, status/check/lint, status/check/ai]
 typeOf: settlement
 typeOfAlias: city
 name: Medju
@@ -16,7 +16,9 @@ POV: modern
 
 The great spice city in the south, the terminus of trade routes from strange lands across the desert, where you can buy and sell almost anything in the markets of the obscenely wealthy spice lords.
 
-![[medju-1.jpg|500]]
+> [!image|figure]
+> ![[medju-1.webp|500]]
+> *Medju harbor at sunset*
 
 %%^Metadata:names:v1%%
 - {name: Medju, language: unknown, pronunciation: MEJ-oo, status: proposed, notes: "Cautious spelling-based proposal: first-syllable stress, e as in bed, dj as j in judge, and final u as oo; no source language or recorded pronunciation is established."}

@@ -1,0 +1,47 @@
+schemaVersion: '1.0'
+sourceType: transcript
+scope: session
+campaign: stars
+sessionNumber: '1'
+realWorldDate: 2026-11-17
+drStart: null
+drEnd: null
+drStartTime: null
+drEndTime: null
+participants:
+- name: Eric Rosenbaum
+  gameRole: DM
+  transcriptIdentifiers:
+  - Eric Rosenbaum
+- name: David Kong
+  gameRole: Ariel
+  transcriptIdentifiers:
+  - David S. Kong
+- name: Mike Sackton
+  gameRole: Merrin Sweetwater
+  transcriptIdentifiers:
+  - Mike Sackton
+- name: Tim Sackton
+  gameRole: Tevren
+  transcriptIdentifiers:
+  - Tim Sackton
+- name: Kate Sackton
+  gameRole: Lyndria
+  transcriptIdentifiers:
+  - Kate Sackton
+- name: David Schwartz
+  gameRole: Wasbeer Pete
+  transcriptIdentifiers:
+  - Rev. David Schwartz (he/him)
+sourceInputPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/stars-stories/stars-stories-001/sources/GMT20261118-014206_Recording.transcript.vtt
+sourceAudioPath: /Users/tim/Documents/RPGs/sessions/recordings/stars-stories/GMT20261118-014206_Recording.m4a
+sourceConfigPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/stars-stories/stars-stories-001/sources/stars-stories-ep01-source-prep.yaml
+participantsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/stars-stories/stars-stories-001/sources/stars-stories-participants.yaml
+preparedSourcePath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/stars-stories/stars-stories-001/cleaned/stars-stories-001-source-prepared.md
+supplementalSources:
+- original: /Users/tim/Documents/RPGs/sessions/recordings/stars-stories/GMT20261118-014206_RecordingnewChat.txt
+  sourcePath: /Users/tim/Documents/RPGs/sessions/recordings/stars-stories/GMT20261118-014206_RecordingnewChat.txt
+  archivedPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/stars-stories/stars-stories-001/sources/supplemental/01-GMT20261118-014206_RecordingnewChat.txt
+speakerMappingsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/stars-stories/stars-stories-001/sources/stars-stories-ep01-speaker-mappings.json
+transcriptFormat: vtt
+speakerStatsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/stars-stories/stars-stories-001/cleaned/stars-stories-001-speaker-stats.json

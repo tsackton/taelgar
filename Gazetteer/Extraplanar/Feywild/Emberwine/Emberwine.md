@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
-tags: [place, status/check/lint]
+tags: [place, status/check/lint, status/check/ai]
 typeOf: extraplanar domain
 ancestry: fey
 name: Emberwine
@@ -16,7 +16,10 @@ POV: modern
 
 Emberwine is a fey realm, south of [[Amberglow]], west of the [[Sunset Gate]], and east of [[Everlight's Bloom]]. It is a realm of revelry and dance, a place where music and wine flow freely. It is a land of rolling vineyards and gentle hills, bathed in the constant golden light of the late afternoon sun. 
 
-![[zoom-emberwine-fields.png]]
+> [!image|figure standard]
+> ![[zoom-emberwine-fields.webp]]
+> *Emberwine fields*
+
 %%SECRET[v2:450028a5c7bc6a146ee41b582a8a581a]%%
 
 %%^Metadata:names:v1%%

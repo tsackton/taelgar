@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-25T23:14:40-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: human
 ancestry: Chardonian
 campaignInfo:
@@ -23,7 +23,10 @@ POV: 1749
 > [!taelgar-header]
 > (human, Chardonian, he/him, b. 1681)
 
-![[martino-portrait.jpg|right|400]]Martino is a retired sailor, fisherman, and navigator. He once sailed widely along the coasts of [[Apporia]], seeking the best fishing grounds, until he was hurt in a storm and lost most of the use of his right hand. 
+> [!image|right]
+> ![[martino-portrait.webp|400]]
+
+Martino is a retired sailor, fisherman, and navigator. He once sailed widely along the coasts of [[Apporia]], seeking the best fishing grounds, until he was hurt in a storm and lost most of the use of his right hand.
 
 He is extremely knowledgeable about the waters and coasts of [[Apporia]], but now spends his days hanging around [[Artevus]], gazing out to sea. 
 

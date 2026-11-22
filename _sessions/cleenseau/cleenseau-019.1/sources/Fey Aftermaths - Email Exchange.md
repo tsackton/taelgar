@@ -5,7 +5,7 @@ campaign: Cleenseau
 
 %% Original email subject: "Taelgar: Fey Aftermaths" %%
 
-Email exchange following the confrontation with Areschera. Messages appear in sent order; repeated quoted replies, duplicate forwards, and mailing-list footers are omitted. The gem illustration is preserved at [[gem-of-spell-storing.png]]
+Email exchange following the confrontation with Areschera. Messages appear in sent order; repeated quoted replies, duplicate forwards, and mailing-list footers are omitted. The gem illustration is preserved at [[gem-of-spell-storing.webp]]
 
 %% Date clarification: Mike's opening email says February 24, but [[Cleenseau - Session 19]] places Areschera's death on February 21. The user confirmed February 21 as canonical; the email text below remains unchanged. %%
 
@@ -62,7 +62,7 @@ it would be useful for me to know.
 *Gem of Spell Storing (requires attunement by a spellcaster)*
 This swirling gem is set in a ring, but it could be removed - the magic is
 in the gem not the ring.
-![[gem-of-spell-storing.png]]
+![[gem-of-spell-storing.webp]]
 
 The gem can hold up to 3 levels of spells, and you can cast any of the
 spells stored in the ring as if they were known spells to you, and without

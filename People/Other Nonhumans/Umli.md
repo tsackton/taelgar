@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: stoneborn
 ancestry: null
 campaignInfo:
@@ -23,7 +23,10 @@ POV: 1740s
 > [!taelgar-header]
 > (stoneborn, she/her, b. 1666)
 
-![[umli-the-exile-portrait.png|right|320]]Umli is a tall, imposing stoneborn, with gray skin marked with intricate patterns reminiscent of intertwining metalwork and intense obsidian-like eyes. She is a master metalworker and smith, known for her unparalleled mastery of metallurgy and her knowledge of the elemental plane of fire.
+> [!image|right]
+> ![[umli-the-exile-portrait.webp|320]]
+
+Umli is a tall, imposing stoneborn, with gray skin marked with intricate patterns reminiscent of intertwining metalwork and intense obsidian-like eyes. She is a master metalworker and smith, known for her unparalleled mastery of metallurgy and her knowledge of the elemental plane of fire.
 %%^Date:1732%%
 Born in the southern [[Svinjo Mountains]], she was exiled from her Stoneborn community for reasons she keeps private, and has lived in [[Tollen]] since DR 1732. 
 %%^End%%

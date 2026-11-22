@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: stoneborn
 ancestry: null
 campaignInfo:
@@ -23,7 +23,10 @@ POV: 1749
 > [!taelgar-header]
 > (stoneborn, he/him, lives in Indalas)
 
-![[Zimkala.png|right|400]]Zimkala is a Stoneborn messenger from the settlements and villages of the [[Sentinel Range|Indalas]]. 
+> [!image|right]
+> ![[Zimkala.webp|400]]
+
+Zimkala is a Stoneborn messenger from the settlements and villages of the [[Sentinel Range|Indalas]].
 
 %%SECRET[v2:1a384c7291ac8925ef7601a0b3f37ca9]%%
 

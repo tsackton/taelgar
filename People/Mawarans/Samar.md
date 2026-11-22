@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: human
 ancestry: Mawaran
 born: null
@@ -19,7 +19,10 @@ POV: 1747
 > [!taelgar-header]
 > (human, Mawaran, she/her, lives in Hamri)
 
-![[samar.png|right|300]]Samar, the twin sister of [[Reliah]], is an orphaned girl who lives in the Drowned Flats. [[Wazir]] feeds her and her sister once a week, and in turn they keep an ear to the ground for him.
+> [!image|right]
+> ![[samar.webp|300]]
+
+Samar, the twin sister of [[Reliah]], is an orphaned girl who lives in the Drowned Flats. [[Wazir]] feeds her and her sister once a week, and in turn they keep an ear to the ground for him.
 
 %%^Metadata:names:v1%%
 - {name: Samar, language: Mawaran, pronunciation: sah-MAHR, status: documented}

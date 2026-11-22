@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-23T23:02:51-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: human
 ancestry: Sembaran
 gender: female
@@ -19,7 +19,8 @@ POV: 1720
 > (human, Sembaran, she/her, lives in Cranford)
 
 
-![[juliana-westby.png|left|200]]
+> [!image|left]
+> ![[juliana-westby.webp|200]]
 
 
 Juliana Westby is the young lady of [[Cranford]]. She inherited the position after her mother died during the [[Undead Attacks in Sembara|undead attacks of early DR 1720]]. Later that winter, she was involved in a complex murder case -- one of her suitors, [[Lambert Talwrey]], was murdered by [[Areschera]], a member of the [[Lord Umbraeth|Gloomshaper's]] court. Areschera was impersonating her other suitor, [[Tobias of Cranford]], who was almost executed for the crime by [[Thomas Dyerson]] until the timely intervention of the [[Heroes of Cleenseau]]. After [[Tobias of Cranford]] was exonerated they were married in the fall of 1720.

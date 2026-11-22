@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-11-12T19:02:10-05:00"
 lintVersion: "3.5"
-tags: [session-note, status/check/lint]
+tags: [session-note, status/check/lint, status/check/ai]
 campaign: feywild
 sessionNumber: 4
 realWorldDate: 2026-07-06
@@ -88,7 +88,7 @@ She says other rooms became infected, that white fibers colonize flesh and can e
 She also says listeners claimed there is another door inside the [[27th House|27th Room]], the prisoner may be a child kept from growing up or dying, and the glass key can unlock every locked door in the house, including the front door.
 
 > [!image|figure large]
-> ![[feywild-04-fungal-library.png]]
+> ![[feywild-04-fungal-library.webp]]
 > *The fungal garden of [[Kallipseis]] in the [[27th House]]*
 
 ## Cast of Characters

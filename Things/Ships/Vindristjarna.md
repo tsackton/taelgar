@@ -2,7 +2,7 @@
 lintedAt: "2026-10-19T00:07:38-04:00"
 lintVersion: "3.5"
 displayDefaults: {linkText: "on", ltItem: stored on}
-tags: [object, status/check/lint]
+tags: [object, status/check/lint, status/check/ai]
 typeOf: skyship
 subTypeOf: magical
 typeOfAlias: skyship
@@ -42,7 +42,8 @@ Whereabouts annotations:
 - Sivnjo Mountains (1749-03-17 to 1749-03-18): add travel
 %%
 
-![[vindristjarna-v1.jpg]]
+> [!image|right standard]
+> ![[vindristjarna-v1.webp]]
 
 ## History
 

@@ -1,11 +1,11 @@
 ---
 lintedAt: "2026-10-03T13:42:24-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: dwarf
 gender: male
 name: Bolgrim Ferrystone
-image: bolgrim-ferrystone.jpg
+image: bolgrim-ferrystone.webp
 pronunciation: BOL-grim FAIR-ee-stohn
 affiliations:
   - {org: Ferrystones, type: primary}
@@ -23,7 +23,10 @@ POV: 1720s
 > [!taelgar-header]
 > (dwarf, he/him, lives in Rinburg)
 
-![[bolgrim-ferrystone.jpg|left|200]]Bolgrim Ferrystone is a dwarf of the [[Ferrystones|Ferrystone Clan]], based in [[Rinburg]], with expertise in masonry. He is a cousin of [[Roaric Ferrystone]].
+> [!image|left]
+> ![[bolgrim-ferrystone.webp|200]]
+
+Bolgrim Ferrystone is a dwarf of the [[Ferrystones|Ferrystone Clan]], based in [[Rinburg]], with expertise in masonry. He is a cousin of [[Roaric Ferrystone]].
 
 %%^Campaign:clee%%
 He and [[Kazak Ferrystone]] were attacked by [[The Hunter|the Hunter’s]] bears while traveling to [[Aslain]]. Bolgrim escaped injury, while Kazak was badly hurt and subsequently healed by the [[Heroes of Cleenseau]].

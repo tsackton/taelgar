@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-11-12T19:02:10-05:00"
 lintVersion: "3.5"
-tags: [session-note]
+tags: [session-note, status/check/ai]
 campaign: dufr
 sessionNumber: 61
 realWorldDate: 2022-10-24
@@ -41,7 +41,9 @@ We begin as [[Seeker]] arrives in the [[Feywild]], in a meadow of flowers that b
 
 The court itself is a vast, elegant outdoor casino, staffed by beautiful [[Fey]] in white robes, and filled with games of chance of all kinds. A band of satyrs plays a lively tune, and food and drink flow freely. [[Seeker]] wanders, avoiding food and drink and watching the games, until eventually watching a lizard race and deciding to bet. [[Seeker]] bets on one of the losers, and suffers an explosion of black sticky ooze in his face with a rancid, bitter taste as a consequence, but manages to avoid any more severe effects. 
 
-![[dufr-061-prince-of-luck-court.png|500]]
+> [!image|figure]
+> ![[dufr-061-prince-of-luck-court.webp|500]]
+> *Court of the Prince of Luck*
 
 Eventually [[Seeker]] begins to wander towards the palace in the center of the gardens, although it seems difficult to leave the games and [[Seeker]] ends up wandering for some unknown stretch of time before finding himself in a formal garden just outside the palace. The flowers here do not have normal flowers, but rather dense lobes of light of burnished gold, glowing. Somewhat impulsively, [[Seeker]] reaches out and touches one, which bursts in a flash of light, blinding him.
 

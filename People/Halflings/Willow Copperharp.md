@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-28T16:53:46-04:00"
 lintVersion: "3.5"
-tags: [person, status/gameupdate/dufr]
+tags: [person, status/gameupdate/dufr, status/check/ai]
 species: halfling
 born: 1696
 gender: female
@@ -19,7 +19,10 @@ POV: 1749
 > [!taelgar-header]
 > (halfling, she/her, b. 1696)
 
-![[willow-copperharp.jpg|right|250]]Willow Copperharp is a halfling sailor, formerly part of the crew of the [[Stormdancer]], who joined the [[Dunmar Fellowship]] out of a desire to witness and document their quest to end [[Apollyon]]. She is a storyteller, a poet; serious and soft-spoken, but eloquent. She is religious as halflings go, devoted to the [[First Ones]].
+> [!image|right]
+> ![[willow-copperharp.webp|250]]
+
+Willow Copperharp is a halfling sailor, formerly part of the crew of the [[Stormdancer]], who joined the [[Dunmar Fellowship]] out of a desire to witness and document their quest to end [[Apollyon]]. She is a storyteller, a poet; serious and soft-spoken, but eloquent. She is religious as halflings go, devoted to the [[First Ones]].
 
 %%^Metadata:names:v1%%
 - {name: Willow Copperharp, role: primary, language: Common, status: inferred, notes: "Willow and Copperharp follow the plain-English Common naming pattern documented for halfling names."}

@@ -2,13 +2,13 @@
 lintedAt: "2026-10-19T23:47:22-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-tags: [object]
+tags: [object, status/check/ai]
 typeOf: ring
 subTypeOf: magical
 ddbLink: https://www.dndbeyond.com/magic-items/4724-ring-of-jumping
 pcOwner: Robin of Abenfyrd
 rarity: uncommon
-image: "[[ring-of-jumping-robin.png]]"
+image: "[[ring-of-jumping-robin.webp]]"
 name: Ring of Jumping
 whereabouts: Robin of Abenfyrd
 knownTo: [clee]
@@ -18,7 +18,10 @@ POV: modern
 > [!taelgar-header]
 > (uncommon magical ring)
 
-![[ring-of-jumping-robin.png|right|320]]A delicate silver ring, with many engraved swirling lines, which, in the right light, appear slightly blue, of unknown origin, found in [[Wakog's Camp]].
+> [!image|right]
+> ![[ring-of-jumping-robin.webp|320]]
+
+A delicate silver ring, with many engraved swirling lines, which, in the right light, appear slightly blue, of unknown origin, found in [[Wakog's Camp]].
 
 ### Mechanics
 While wearing this ring, once on each of your turns you can jump up to 30 feet by spending 10 feet of movement.

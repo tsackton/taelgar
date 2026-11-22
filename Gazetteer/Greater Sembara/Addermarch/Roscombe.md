@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-23T12:50:50-04:00"
 lintVersion: "3.5"
-tags: [place]
+tags: [place, status/check/ai]
 typeOf: settlement
 typeOfAlias: market town
 population: 762
@@ -19,7 +19,9 @@ POV: 1715
 
 Roscombe is a walled market town in the highlands of western Addermarch, serving the hill farms and scattered hamlets of the [[Stonewolds]] and the [[Highmoor]] in upland [[Carlinshire]]. It is built on a slight ridge, with a commanding view. It is the largest town in the highlands, the principal market town of this area, and the only highland town with its walls still standing. 
 
-![[roscombe-overview.png]]
+> [!image|figure standard]
+> ![[roscombe-overview.webp]]
+> *Roscombe from the bridge*
 
 One inn, [[The Traveler's Rest]], near the main gate, provides rooms for the occasional traveler, and a handful of alehouses provide drink and entertainment for the populace. The [[Mill Brook (Roscombe)|Mill Brook]], a rushing brook, flows past the town from the northwest, turning south to cross under the road from [[Valcroix]] about a quarter-mile from the main gates. The only paved road from Roscombe is the road to [[Valcroix]], which is often impassable for carts in the winter or spring due to snow and mud. However, numerous cart tracks lead in all directions towards the scattered villages of the high moors. The town has a main southern gate on the Valcroix road and a smaller northern Mill Gate near the brook and mill.
 
@@ -31,7 +33,9 @@ The two largest buildings in the town are the manor, currently occupied by [[Elo
 
 Duval Manor is the residence and administrative seat of Lady [[Elowen Duval]], castellan of [[Roscombe]]. Its hall hosts formal dinners and local councils, and its clerks maintain records of [[Carlinshire]] dating back to the [[Serpentine Wars|wars against Avatus]]. Master [[Ernault]], the manor’s chief clerk, keeps many of these records in a crowded study and has knowledge of old frontier sites such as [[Serethwyn Tor]].
 
-![[roscombe-market.png]]
+> [!image|figure standard]
+> ![[roscombe-market.webp]]
+> *Roscombe market*
 
 The Temple of the Sibyl is one of the largest buildings in town and the center of Roscombe’s religious life. [[Owen Tavish]] serves there as priest, assisted by temple steward [[Isolde of Roscombe]], who manages temple records, visitors, and secure storage. In DR 1715, the [[Serpentine Dagger]] recovered from [[Torvaine Watch]] was destroyed there with [[Trueflame]] under Owen’s supervision.
 

@@ -2,10 +2,10 @@
 lintedAt: "2026-10-19T23:47:22-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-tags: [object]
+tags: [object, status/check/ai]
 typeOf: ring
 subTypeOf: magic
-image: "[[ring-of-water-walking-clee.png]]"
+image: "[[ring-of-water-walking-clee.webp]]"
 pcOwner: Heroes of Cleenseau
 name: Ring of Water Walking
 knownTo: [clee]
@@ -15,7 +15,10 @@ POV: modern
 > [!taelgar-header]
 > (magic ring)
 
-![[ring-of-water-walking-clee.png|right|420]]A smooth granite ring with a faint line of blue, from the Ranger chest in the ruined hobgoblin fort beneath Cleenseau. Of unknown origin.
+> [!image|right]
+> ![[ring-of-water-walking-clee.webp|420]]
+
+A smooth granite ring with a faint line of blue, from the Ranger chest in the ruined hobgoblin fort beneath Cleenseau. Of unknown origin.
 
 ### Mechanics
 While wearing this ring, you can cast the _Water Walking_ spell at will, targeting only yourself, with a duration of 24 hours.

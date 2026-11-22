@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-04T17:14:44-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: human
 ancestry: Sembaran
 name: Bartholomew Meeke
@@ -15,7 +15,10 @@ POV: 1720s
 > (human, Sembaran)
 
 
-![[bartholomew-meeke.jpg|left|400]]Bartholomew Meeke is a tin trader who trades primarily between [[Rinburg]] and [[Aslain]]. He has a friendly relationship with the [[Riverstones]].
+> [!image|left]
+> ![[bartholomew-meeke.webp|400]]
+
+Bartholomew Meeke is a tin trader who trades primarily between [[Rinburg]] and [[Aslain]]. He has a friendly relationship with the [[Riverstones]].
 
 %%^Campaign:clee%%
 He was one of the first messengers to be enchanted by [[The Hunter]], and he carried [[The Hunter's Letter - Email Exchange|a fey letter]] intended for the [[Heroes of Cleenseau]] while confused and disoriented. He later recovered in the care of the halflings in Aslain, where [[Callie Riverstone]] sheltered him. The two have a friendly relationship.

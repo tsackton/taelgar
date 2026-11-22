@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-25T23:14:40-04:00"
 lintVersion: "3.5"
-tags: [person, status/cleanup/metadata, status/check/lint]
+tags: [person, status/cleanup/metadata, status/check/lint, status/check/ai]
 species: human
 ancestry: Chardonian
 campaignInfo:
@@ -26,7 +26,10 @@ POV: 1748
 
 %% cleanup header, copy DM notes, reformat text %%
 
-![[valius.png|right|300]]A former mercenary and adventurer, Valius now finds himself ensnared by the machinations of [[Fausto]] and trapped in the [[Mirror of Soul Trapping]]. Alongside his twin, [[Vargus]], he once sought treasures and wealth, but now seeks only to free his brother from [[Fausto]]'s curse.
+> [!image|right]
+> ![[valius.webp|300]]
+
+A former mercenary and adventurer, Valius now finds himself ensnared by the machinations of [[Fausto]] and trapped in the [[Mirror of Soul Trapping]]. Alongside his twin, [[Vargus]], he once sought treasures and wealth, but now seeks only to free his brother from [[Fausto]]'s curse.
 
 %%^Metadata:names:v1%%
 - {name: Valius, language: Chardonian, pronunciation: VAH-lee-oos, status: proposed, notes: "Proposed from the Italian and Latin analogue for Chardonian, with an open initial vowel and -ius as ee-oos."}

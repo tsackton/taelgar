@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: human
 ancestry: Sembaran
 born: 1688
@@ -23,7 +23,10 @@ POV: 1719
 > [!taelgar-header]
 > (human, Sembaran, he/him, b. 1688, lives in Cleenseau)
 
-![[Lord-Rinault-Essford.png|right|320]]The younger brother of [[Rosalind Essford|Rosalind]], he is considered rash and impulsive. He openly dreams of bigger adventures and grander scales for his ambitions, but few trust him.
+> [!image|right]
+> ![[Lord-Rinault-Essford.webp|320]]
+
+The younger brother of [[Rosalind Essford|Rosalind]], he is considered rash and impulsive. He openly dreams of bigger adventures and grander scales for his ambitions, but few trust him.
 
 He was briefly the acting lord of Cleenseau while Rosalind was traveling to Embry, but although he was not terrible, few see him as a viable heir.
 

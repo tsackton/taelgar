@@ -2,7 +2,7 @@
 lintedAt: "2026-08-28T16:53:46-04:00"
 lintVersion: "3.5"
 displayDefaults: {aNoDate: "Traveled with <affiliations>"}
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: stoneborn
 ancestry: null
 campaignInfo: null
@@ -22,7 +22,10 @@ POV: 1748
 > [!taelgar-header]
 > (stoneborn, he/him, lives in Kunda)
 
-![[drikod-portrait.jpg|right|400]]A stoneborn druid who spent some time investigating troubles in Dunmar. 
+> [!image|right]
+> ![[drikod-portrait.webp|400]]
+
+A stoneborn druid who spent some time investigating troubles in Dunmar.
 
 ## Pre-Campaign Events
 

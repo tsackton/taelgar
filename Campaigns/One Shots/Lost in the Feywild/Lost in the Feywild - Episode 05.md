@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-11-12T19:02:10-05:00"
 lintVersion: "3.5"
-tags: [session-note]
+tags: [session-note, status/check/ai]
 campaign: feywild
 sessionNumber: 5
 realWorldDate: 2026-07-15
@@ -71,7 +71,7 @@ Beyond a fabrication lab, the party finds another listening station. The prisone
 One door short of the prisoner, the party enters a vast library with books chained to its shelves. A human-sized porcelain and clockwork torso is anchored to a desk just inside. As the party enters, it raises its head, opens its eyes, and studies them.
 
 > [!image|hero]
-> ![[feywild-05-27th-house-library.png]]
+> ![[feywild-05-27th-house-library.webp]]
 > *The library in the [[27th House]]*
 
 ## Cast of Characters

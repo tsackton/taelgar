@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
-tags: [person, testcase, status/check/lint]
+tags: [person, testcase, status/check/lint, status/check/ai]
 species: halfling
 ancestry: null
 born: 1688
@@ -26,7 +26,10 @@ POV: 1740s
 > [!taelgar-header]
 > (halfling, she/her, b. 1688)
 
-![[chenna-goodbarrel-portrait.png|right|400]]Chenna Goodbarrel owns a small and charming halfling tavern in [[Fairgate Outer]] called *[[The Singing Fox]]*, with her wife [[Harriet Goodbarrel|Harriet]]. Chenna runs the bar and kitchen; warm, welcoming, and charming, she's the heart of the establishment.
+> [!image|right]
+> ![[chenna-goodbarrel-portrait.webp|400]]
+
+Chenna Goodbarrel owns a small and charming halfling tavern in [[Fairgate Outer]] called *[[The Singing Fox]]*, with her wife [[Harriet Goodbarrel|Harriet]]. Chenna runs the bar and kitchen; warm, welcoming, and charming, she's the heart of the establishment.
 ## Relationships
 - [[Harriet Goodbarrel]], wife
 - [[Wellby]], a distant relation, something like a third cousin once removed

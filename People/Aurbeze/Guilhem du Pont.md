@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-25T09:29:24-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: human
 ancestry: Aurbeze
 campaignInfo:
@@ -23,7 +23,10 @@ POV: 1749
 > [!taelgar-header]
 > (human, Aurbeze, he/him, b. 1698, lives in Aursenbourg)
 
-![[guilhem-du-pont.png|right|400]]Guilhem is a middle-aged clerk of [[Aursenbourg]] and civic representative to councils of the [[Refounded Alliance of Aurbez]]. He is known for meticulous record‑keeping and a cautious, civic‑minded approach to defense. His temperament trends anxious, but his focus remains squarely on the welfare of the city.
+> [!image|right]
+> ![[guilhem-du-pont.webp|400]]
+
+Guilhem is a middle-aged clerk of [[Aursenbourg]] and civic representative to councils of the [[Refounded Alliance of Aurbez]]. He is known for meticulous record‑keeping and a cautious, civic‑minded approach to defense. His temperament trends anxious, but his focus remains squarely on the welfare of the city.
 
 He is a stout man typically wearing immaculate woolen clothes and carrying an iron badge of [[Aursenbourg]]. 
 ## Events

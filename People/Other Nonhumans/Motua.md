@@ -2,7 +2,7 @@
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 displayDefaults: {boxInfo: "<subspecies:sA> (<species>), <pronouns>"}
-tags: [person]
+tags: [person, status/check/ai]
 species: celestial
 subspecies: gidari
 campaignInfo: null
@@ -23,7 +23,10 @@ POV: modern
 > [!taelgar-header]
 > (celestial, they/them, lives in Land of the Dead)
 
-![[motua.png|right|400]]One of the guardians of the [[Land of the Dead]], a [[Gidari]], who is native to the [[Land of the Dead]] and serves as a guide and protector of souls on their journey beyond the veil. 
+> [!image|right]
+> ![[motua.webp|400]]
+
+One of the guardians of the [[Land of the Dead]], a [[Gidari]], who is native to the [[Land of the Dead]] and serves as a guide and protector of souls on their journey beyond the veil.
 
 %%^Campaign:dufr%%
 In DR 1747, Motua fought [[Grash]] in the [[Land of the Dead]], and was wounded, and driven to the material plane. They arrived at the [[Azta Lekua|Footprint of the Gods]], in pain, wracked by spiritual chains created by the [[Ring of Undying]], and unconsciously draining the spiritual essence of [[Azta Lekua]], the Footprint of the Gods. Motua was healed by [[Kenzo]] and his [[Lizardfolk|lizardfolk]] allies in DR 1748.

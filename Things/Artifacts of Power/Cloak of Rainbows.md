@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-19T00:07:38-04:00"
 lintVersion: "3.5"
-tags: [object, testcase, status/cleanup/text]
+tags: [object, testcase, status/cleanup/text, status/check/ai]
 typeOf: cloak
 subTypeOf: magical
 campaignInfo: null
@@ -25,7 +25,10 @@ POV: 1740s
 
 %%  would also be good to collate information from history and other information onto this page%%
 
-![[rainbow-cloak-v2.jpg|right|300]]The Cloak of Rainbows is a multi-colored shimmering cloak, made of the threads of sunset woven by the [[Cloudspinner]], and enchanted with powerful magic to shield the wearer from the sight and power of the Divine. The colors change with the light and the sun, shifting darker or lighter seemingly with the whims of fate. 
+> [!image|right]
+> ![[rainbow-cloak-v2.webp|300]]
+
+The Cloak of Rainbows is a multi-colored shimmering cloak, made of the threads of sunset woven by the [[Cloudspinner]], and enchanted with powerful magic to shield the wearer from the sight and power of the Divine. The colors change with the light and the sun, shifting darker or lighter seemingly with the whims of fate.
 
 [[Cintra]] believed [[Agata]] was searching for it, and had heard it was supposedly created by [[Apollyon]], but the truth is more complicated. The history of the Cloak of Rainbows is intimately connected with the history of the [[People of the Rainbow]]. It was originally a gift to allow these orcs to live free of [[Thark]]'s gaze. It was stolen by [[Apollyon]] in DR 1050, and then lost, and [[Letter from Govir|rediscovered]] by the Dunmari in the years before the Great War, only to be lost again during the Great War.
 
@@ -38,7 +41,7 @@ The cloak also has the power to silence divine magic in a wide radius, should th
 %%SECRET[v2:42a4330fb381d224cf7db19ec3c9c6de]%%
 
 %% alternative image
-![[rainbow-cloak-v1.jpg|left|400]]
+![[rainbow-cloak-v1.webp|left|400]]
 
 %%
 

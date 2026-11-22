@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-11-12T19:02:10-05:00"
 lintVersion: "3.5"
-tags: [session-note]
+tags: [session-note, status/check/ai]
 campaign: feywild
 sessionNumber: 6
 realWorldDate: 2026-07-27
@@ -43,7 +43,7 @@ We begin in the library outside the central prison. After reconsidering their ta
 Although forbidden to answer direct questions about the prisoner, it remembers an unnamed human member of [[Arithrimos Lamperum]] who consulted *[[Allegories for the Initiated]]* before entering the central room. The assistant confirms that the glass key could open the complex's front door, but warns that 112 of the prison's visitors -- roughly two thirds of everyone who entered -- returned as mushroom men while the rest never emerged.
 
 > [!image|figure large]
-> ![[feywild-05-27th-house-library.png]]
+> ![[feywild-05-27th-house-library.webp]]
 > *The automaton assistant in the library of the [[27th House]]*
 
 Meanwhile, [[Txarro]] consults his lizardfolk ancestors, who suggest that returning the glass key to [[Lord Endless Ending]] could bring both good and ill, but there is no obvious evil path here. Seeking to learn more from the library, the party asks the automaton for information, and it directs them to *[[On the Science and Possibilities of Soul Bindery]]*. Its unnamed [[Arithrimos Lamperum]] author enthusiastically proposes using captive souls to power liches, golems, and other devices.

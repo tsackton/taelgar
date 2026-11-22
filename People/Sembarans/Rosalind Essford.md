@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
-tags: [person, status/gameupdate/clee, status/check/lint]
+tags: [person, status/gameupdate/clee, status/check/lint, status/check/ai]
 species: human
 ancestry: Sembaran
 campaignInfo:
@@ -33,7 +33,10 @@ POV: 1720
 > [!taelgar-header]
 > (human, Sembaran, she/her, b. 1677, lives in Cleenseau)
 
-![[lady-rosalind-essford.png|right|320]]The daughter of [[Wymar Essford|Wymar]], short, and with hair just beginning to grey, but forceful out of proportion to her size, and with a sharp intelligence to her eyes. Popular with the townspeople and said to be wise and fair. She married [[Arthur Essford]] in 1706, and their match has been a good and popular one. 
+> [!image|right]
+> ![[lady-rosalind-essford.webp|320]]
+
+The daughter of [[Wymar Essford|Wymar]], short, and with hair just beginning to grey, but forceful out of proportion to her size, and with a sharp intelligence to her eyes. Popular with the townspeople and said to be wise and fair. She married [[Arthur Essford]] in 1706, and their match has been a good and popular one.
 
 %%^Date:1719%%
 In the late fall of 1719, she lost her three children and their nursemaid to a [[Tragic Flood of the River Enst|unseasonable flood of the Enst]].  She enjoys quiet music, especially [[Robin of Abenfyrd|Robin's]] playing, which has been a comfort to her since her children died.

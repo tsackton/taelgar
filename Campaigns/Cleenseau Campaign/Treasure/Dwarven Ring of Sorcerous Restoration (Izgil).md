@@ -2,11 +2,11 @@
 lintedAt: "2026-10-19T23:47:22-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-tags: [object]
+tags: [object, status/check/ai]
 typeOf: ring
 subTypeOf: magical
 ancestry: Dwarven
-image: "[[izgil-ring-of-restore.png]]"
+image: "[[izgil-ring-of-restore.webp]]"
 pcOwner: Izgil Moonseeker
 name: Ring of Sorcerous Restoration
 whereabouts: Izgil Moonseeker
@@ -17,7 +17,10 @@ POV: modern
 > [!taelgar-header]
 > (Dwarven magical ring)
 
-![[izgil-ring-of-restore.png|right|420]]A thick golden ring, set with a small ruby and carved with the dwarven runes for ‘knowledge’, ‘magic’, and ‘rebirth’. Found in the ruined hobgoblin fort beneath Cleenseau.
+> [!image|right]
+> ![[izgil-ring-of-restore.webp|420]]
+
+A thick golden ring, set with a small ruby and carved with the dwarven runes for ‘knowledge’, ‘magic’, and ‘rebirth’. Found in the ruined hobgoblin fort beneath Cleenseau.
 
 ### Mechanics
 _Requires Attunement_

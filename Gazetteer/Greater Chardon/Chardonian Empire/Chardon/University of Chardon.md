@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-23T16:50:31-04:00"
 lintVersion: "3.5"
-tags: [place, status/cleanup/text]
+tags: [place, status/cleanup/text, status/check/ai]
 typeOf: building
 typeOfAlias: university
 created: 939
@@ -23,7 +23,7 @@ The University of Chardon is a famous center of learning and teaching, renowned 
 
 
 > [!image]
->![[university-of-chardon.png]]
+>![[university-of-chardon.webp]]
 >*In the middle of the oldest part of Chardon, the towers and spires of the Chardonian Lecti, the halls and colleges that make up the University of Chardon, rise above the bustle of the students, faculty, tutors, and others, sharing the skyline with the towers of famous wizards dancing with subtle magic.*
 
 ## Facilities and Organization

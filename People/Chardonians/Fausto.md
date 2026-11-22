@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-23T23:02:51-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: human
 ancestry: Chardonian
 born: 1714
@@ -30,7 +30,10 @@ POV: 1740s
 > [!taelgar-header]
 > (human, Chardonian, he/him, b. 1714, d. 1749)
 
-![[fausto.jpg|right|400]]Fausto is a wealthy Chardonian, moving with ease among wizards, scholars, rich merchants, and adventurers, known primarily for his patronage of scholarly expeditions through the [[Society of the Open Scroll]]. He is a striking man, with fine features, well-groomed curly black hair, and an elegant style that clearly yet subtly displays access to considerable wealth. He does not speak of his childhood, and his origins are obscure, but by his early adulthood he possessed a mysterious fortune, and was beginning to establish a name for himself as a patron of magical study. All manner of wild tales exist to explain his obvious wealth, the most common of which is that he was an adventurer and explorer in his 20s, retiring to Chardon with the wealth of an ancient dragon hoard.
+> [!image|right]
+> ![[fausto.webp|400]]
+
+Fausto is a wealthy Chardonian, moving with ease among wizards, scholars, rich merchants, and adventurers, known primarily for his patronage of scholarly expeditions through the [[Society of the Open Scroll]]. He is a striking man, with fine features, well-groomed curly black hair, and an elegant style that clearly yet subtly displays access to considerable wealth. He does not speak of his childhood, and his origins are obscure, but by his early adulthood he possessed a mysterious fortune, and was beginning to establish a name for himself as a patron of magical study. All manner of wild tales exist to explain his obvious wealth, the most common of which is that he was an adventurer and explorer in his 20s, retiring to Chardon with the wealth of an ancient dragon hoard.
 
 Despite holding no official wizardly or scholarly position, and having no reputation for scholarship, Fausto is very influential in Chardonian scholarly circles. He is skilled at spreading his wealth around, and his parties are popular among both rich and powerful of the city and the scholars and mages of the University hoping for funding. He has financed many scholars, funding their research, and frequently sponsors treasure hunting expeditions through the [[Society of the Open Scroll]]. These expeditions range widely, mostly across [[Dunmar]] and the southern [[Sentinel Range|Sentinels]], in search of Drankorian ruins and lost Drankorian artifacts. Among the large number of scholars and adventurers he has funded are [[Servius]], [[Dee Wildcloak]], [[Dain Goldhammer]], [[Alban]], and [[Arcus]].  
 

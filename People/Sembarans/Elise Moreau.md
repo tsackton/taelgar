@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: human
 ancestry: Sembaran
 gender: female
@@ -17,7 +17,8 @@ POV: 1720
 > [!taelgar-header]
 > (human, Sembaran, she/her)
 
-![[elise-moreau.jpg|left|400]]
+> [!image|left]
+> ![[elise-moreau.webp|400]]
 
 Elise Moreau is the Baroness of [[Fellburn]] and the twin sister of [[Hubert Moreau]]. During the [[Undead Attacks in Sembara|undead attacks of DR 1720]], she and others countermanded Hubert’s order to keep the city gates closed and rode out to rescue survivors.
 

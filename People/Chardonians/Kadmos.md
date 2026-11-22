@@ -2,7 +2,7 @@
 lintedAt: "2026-08-25T23:14:40-04:00"
 lintVersion: "3.5"
 displayDefaults: {endStatus: killed}
-tags: [person, testcase, status/gameupdate/dufr, status/check/lint]
+tags: [person, testcase, status/gameupdate/dufr, status/check/lint, status/check/ai]
 species: human
 ancestry: Chardonian
 campaignInfo:
@@ -30,7 +30,10 @@ POV: 1748
 
 %%collate various notes for completeness -- mostly in Obsidian DM notes%%
 
-![[kadmos-portrait.png|right|320]]A mysterious figure who doesn't speak unless necessary, the leader of this company, with [[Hektor]], [[Marcella]], [[Antonia]], and [[Casian]]. 
+> [!image|right]
+> ![[kadmos-portrait.webp|320]]
+
+A mysterious figure who doesn't speak unless necessary, the leader of this company, with [[Hektor]], [[Marcella]], [[Antonia]], and [[Casian]].
 
 A tall Chardonian man, cloaked and hooded, wearing dark, travel-stained leather armor, without obvious weapons. A spellcaster, who took on an undead visage in combat and whose spirit seems touched by a darkness. 
 

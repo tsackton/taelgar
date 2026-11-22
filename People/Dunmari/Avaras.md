@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-23T12:50:50-04:00"
 lintVersion: "3.5"
-tags: [person, status/cleanup/metadata, status/check/lint]
+tags: [person, status/cleanup/metadata, status/check/lint, status/check/ai]
 species: human
 ancestry: Dunmari
 campaignInfo:
@@ -9,7 +9,7 @@ campaignInfo:
 born: 1676
 gender: male
 name: Avaras
-image: avaras-portrait.png
+image: avaras-portrait.webp
 affiliations: [Order of the Awakened Soul]
 whereabouts:
   - {type: home, start: "", end: "", location: Karawa}
@@ -26,7 +26,10 @@ POV: 1748
 
 %% need to add campaign info, perhaps a bit more context %%
 
-![[avaras-portrait.png|right|400]]Avaras is one of the few remaining masters of the [[Order of the Awakened Soul]]. He is an older man, with close-cropped gray hair and lined, weathered skin. He lives in the [[Garamjala Desert]] with his partner [[Pava]] and apprentice [[Amil]], leading an isolated existence, concerned with [[Pava]] and with what is left of the Order's mission.
+> [!image|right]
+> ![[avaras-portrait.webp|400]]
+
+Avaras is one of the few remaining masters of the [[Order of the Awakened Soul]]. He is an older man, with close-cropped gray hair and lined, weathered skin. He lives in the [[Garamjala Desert]] with his partner [[Pava]] and apprentice [[Amil]], leading an isolated existence, concerned with [[Pava]] and with what is left of the Order's mission.
 
 %%SECRET[v2:378312f41ce482bbb945db438546b86a]%%
 

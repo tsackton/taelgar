@@ -49,7 +49,7 @@ The party emerges from Dandelion House's root passage into the Twilight Kingdom,
 - Organizations: none
 - Items: bone-like root material
 - Enemies: none
-- Image: [[feywild-02-the-coral-bone-house.jpg]]
+- Image: [[feywild-02-the-coral-bone-house.webp]]
 - Image Role: figure
 - Image Size: standard
 - Image Placement:
@@ -131,7 +131,7 @@ Their answers are strange but useful. The bodies on the road did not come from t
 - Organizations: none
 - Items: unusual string instruments
 - Enemies: none
-- Image: the-endlessly-ending-party.jpg
+- Image: the-endlessly-ending-party.webp
 - Image Role: hero
 - Image Size:
 - Image Placement:

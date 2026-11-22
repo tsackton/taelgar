@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: human
 ancestry: Sembaran
 campaignInfo: []
@@ -18,7 +18,10 @@ POV: 1720s
 > [!taelgar-header]
 > (human, Sembaran, he/him, b. 1671, lives in Valit)
 
-![[warin-the-woodsman.png|right|320]]A tracker and woodsman from [[Valit]], and confidant of [[Sabine de Brune]].
+> [!image|right]
+> ![[warin-the-woodsman.webp|320]]
+
+A tracker and woodsman from [[Valit]], and confidant of [[Sabine de Brune]].
 
 %%^Campaign:clee%%
 He has helped the [[Heroes of Cleenseau]] several times, both as a tracker in the forest hunting giant spiders, and as a leader during the [[Battle Against Wakog]]. He is skilled with a bow, but comes across as no-nonsense, all-business and never talks about his personal life.

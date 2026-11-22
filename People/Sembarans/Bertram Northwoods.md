@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: human
 ancestry: Sembaran
 born: 1673
@@ -17,7 +17,10 @@ POV: 1719
 > [!taelgar-header]
 > (human, Sembaran, he/him, b. 1673, lives in Asineau)
 
-![[bertram-northwoods-2.png|right|320]]Bertram is the groom and stablemaster at [[Asineau]]. Formerly employed by [[Lorin Valbert]], he remained at the manor after Lorin’s departure. A cousin of [[Phillipa Northwood]].
+> [!image|right]
+> ![[bertram-northwoods-2.webp|320]]
+
+Bertram is the groom and stablemaster at [[Asineau]]. Formerly employed by [[Lorin Valbert]], he remained at the manor after Lorin’s departure. A cousin of [[Phillipa Northwood]].
 
 %%^Metadata:names:v1%%
 - {name: "Bertram Northwoods", language: "Sembaran", status: "inferred", notes: "Language inferred from the subject’s established cultural and local naming context; this ordinary personal name needs no pronunciation guide."}

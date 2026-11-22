@@ -125,7 +125,7 @@ With the hyenas dead, the acolyte Beli leaves to fetch Candrosa and the village 
 - Organizations: Shakun Mystai
 - Items: red ochre healing paste
 - Enemies: none
-- Image: [[dufr-001-elder-kisa-asks-for-help.jpg]]
+- Image: [[dufr-001-elder-kisa-asks-for-help.webp]]
 - Image Role: aside
 - Image Size: standard
 - Image Placement:
@@ -152,7 +152,7 @@ Soon, Beli returns with Speaker Candrosa and Elder Kisa. Beli applies the temple
 - Organizations: none
 - Items: Wellby's grappling hook
 - Enemies: none
-- Image: [[dufr-001-alesh-on-the-road.jpg]]
+- Image: [[dufr-001-alesh-on-the-road.webp]]
 - Image Role: figure
 - Image Size: standard
 - Image Placement:
@@ -179,7 +179,7 @@ Kenzo, Wellby, and Seeker agree to join Delwath and investigate the hyena threat
 - Organizations: none
 - Items: none
 - Enemies: none
-- Image: [[dufr-001-gomat-oasis-at-night.jpg]]
+- Image: [[dufr-001-gomat-oasis-at-night.webp]]
 - Image Role: hero
 - Image Size:
 - Image Placement:

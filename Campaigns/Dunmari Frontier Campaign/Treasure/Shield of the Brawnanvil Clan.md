@@ -1,11 +1,11 @@
 ---
 lintedAt: "2026-10-20T07:49:48-04:00"
 lintVersion: "3.5"
-tags: [object, status/check/lint]
+tags: [object, status/check/lint, status/check/ai]
 typeOf: shield
 subTypeOf: magical
 ancestry: dwarven
-image: "[[brawnanvil-shield.png]]"
+image: "[[brawnanvil-shield.webp]]"
 name: Shield of the Brawnanvil Clan
 aliases: [Brawnanvil Shield]
 whereabouts:
@@ -21,7 +21,10 @@ POV: modern
 > [!taelgar-header]
 > (dwarven magical shield)
 
-![[brawnanvil-shield.png|right|350]]The Shield of the Brawnanvil Clan is an elaborate decorative shield of polished steel, worked with scenes from dwarven life. It is a Brawnanvil family heirloom, not a practical battle shield, whose magic draws a dwarf holding it into a recreation of a story from the Brawnanvil past; a Brawnanvil can guide the vision toward a particular memory or place.
+> [!image|right]
+> ![[brawnanvil-shield.webp|350]]
+
+The Shield of the Brawnanvil Clan is an elaborate decorative shield of polished steel, worked with scenes from dwarven life. It is a Brawnanvil family heirloom, not a practical battle shield, whose magic draws a dwarf holding it into a recreation of a story from the Brawnanvil past; a Brawnanvil can guide the vision toward a particular memory or place.
 
 The shield was lost in the [[Dwarven Outpost (Raven's Hold)|dwarven outpost near Raven's hold]] when the Brawnanvils and other dwarves fled during the [[Great War]]. [[Riswynn]] recovered it in DR 1748 and returned it to the Brawnanvils in [[Tharn Todor]].
 

@@ -2,7 +2,7 @@
 lintedAt: "2026-10-20T11:59:58-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-tags: [place]
+tags: [place, status/check/ai]
 typeOf: inn
 name: The Silver Wolf
 whereabouts: Zvervinka
@@ -14,7 +14,10 @@ POV: modern
 > [!taelgar-header]
 > (inn, in Zvervinka)
 
-![[silver-wolf-inn.png|right|450]]The Silver Wolf is an upscale inn and restaurant in [[Zvervinka]], primarily catering to wealthy merchants in town for the large market. It is known for its extensive larder and skilled chef. 
+> [!image|right]
+> ![[silver-wolf-inn.webp|450]]
+
+The Silver Wolf is an upscale inn and restaurant in [[Zvervinka]], primarily catering to wealthy merchants in town for the large market. It is known for its extensive larder and skilled chef.
 
 %%^Date:1749-04-14%%
 It is marked by the sign of an ornate silver wolf, in relief, crafted by dwarven monster hunters out of solid silver.

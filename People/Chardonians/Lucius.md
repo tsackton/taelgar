@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-25T23:14:40-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: human
 ancestry: Chardonian
 campaignInfo:
@@ -22,7 +22,10 @@ POV: 1749
 > [!taelgar-header]
 > (human, Chardonian, he/him, b. 1743, lives in Luminatia)
 
-![[lucius-portrait.jpeg|right|420]]Lucius is a boy of about 5 who lives with his mother, [[Livia]], in the village of [[Luminatia]], near [[Lake Valandros]] in the [[Chardonian Empire]]. He found a stone, in which he believes his imaginary friend Benji lives, in his [[Claudio|father's]] study, after his father abandoned the family.
+> [!image|right]
+> ![[lucius-portrait.webp|420]]
+
+Lucius is a boy of about 5 who lives with his mother, [[Livia]], in the village of [[Luminatia]], near [[Lake Valandros]] in the [[Chardonian Empire]]. He found a stone, in which he believes his imaginary friend Benji lives, in his [[Claudio|father's]] study, after his father abandoned the family.
 
 - (DR:: 1749-01-08) Lucius' imaginary friend Benji spoke to him from the stone he carries, and asked him about his life. 
 

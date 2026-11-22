@@ -2,7 +2,7 @@
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-tags: [place, status/check/lint]
+tags: [place, status/check/lint, status/check/ai]
 typeOf: building
 typeOfAlias: fey manor
 name: "Lord Endless Ending's Manor"
@@ -24,7 +24,7 @@ The manor stands behind a silver gate and a great hedgerow, with long lawns slop
 The manor itself has a long covered porch, with several open doorways inside, where a library, a grand ballroom, and many other rooms can be found. Notable is a large and prominent grandfather clock, of strange design with many numbers on its face.
 
 > [!image]
-> ![[the-endlessly-ending-party.jpg]]
+> ![[the-endlessly-ending-party.webp]]
 > *The endlessly ending party at Lord Endless Ending's Manor*
 
 %%^Date:1740-10-07%%

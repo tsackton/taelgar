@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: human
 ancestry: Sembaran
 campaignInfo: []
@@ -22,7 +22,10 @@ POV: 1720
 > [!taelgar-header]
 > (human, Sembaran, he/him, b. 1680, lives in Cleenseau)
 
-![[jonathon-henwyn.png|right|320]]The steward of the [[Essford Manor]] in [[Cleenseau]], Jonathon is responsible for its bookkeeping and upkeep, as well as collecting the rents from farmers and other manorial administration. 
+> [!image|right]
+> ![[jonathon-henwyn.webp|320]]
+
+The steward of the [[Essford Manor]] in [[Cleenseau]], Jonathon is responsible for its bookkeeping and upkeep, as well as collecting the rents from farmers and other manorial administration.
 
 He has a keen interest in history, and is a competent clerk and accountant. He took over as steward from his father-in-law in 1715. His wife is a childhood friend of [[Rosalind Essford|Rosalind]] and assists him. They and their three children live at [[Essford Manor]]. 
 

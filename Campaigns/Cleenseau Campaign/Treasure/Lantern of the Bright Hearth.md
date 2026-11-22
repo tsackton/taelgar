@@ -1,13 +1,13 @@
 ---
 lintedAt: "2026-10-19T23:47:22-04:00"
 lintVersion: "3.5"
-tags: [object, status/check/lint]
+tags: [object, status/check/lint, status/check/ai]
 typeOf: lantern
 ancestry: fey
 campaignInfo: null
 rarity: unique
 pcOwner: Robin of Abenfyrd
-image: "[[lantern-of-the-bright-hearth.png]]"
+image: "[[lantern-of-the-bright-hearth.webp]]"
 name: Lantern of the Bright Hearth
 whereabouts: Robin of Abenfyrd
 knownTo: [clee]
@@ -17,7 +17,10 @@ POV: 1720s
 > [!taelgar-header]
 > (unique fey lantern)
 
-![[lantern-of-the-bright-hearth.png|right|400]]A small lantern carried by [[Robin of Abenfyrd|Robin]]. It gives off a perpetual warm glow that reminds one of home and pleasant things. This lantern was originally forged by [[Aelirios Sunblade]] as a gift for [[Cedric Cyfenwid]]. 
+> [!image|right]
+> ![[lantern-of-the-bright-hearth.webp|400]]
+
+A small lantern carried by [[Robin of Abenfyrd|Robin]]. It gives off a perpetual warm glow that reminds one of home and pleasant things. This lantern was originally forged by [[Aelirios Sunblade]] as a gift for [[Cedric Cyfenwid]].
 
 > [!INFO]- Finding the Lantern (For Dan's Eyes Only)
 > Robin is out on a patrol with the Rangers, and he awakes in the middle of the night in camp. Standing up, under the full moon, he smells the scent of spring growth and fresh cool rain wafting from the top of the hill. He follows the scent. At the top of the hill, amongst the trees with new green leaves he sees, blowing on the wind, dozens of golden leaves. The leaves land in a perfect circle and in the middle of the circle he sees a pool of white light sparkling and flowing along the ground like a mist. Out of the mist two hands form, and rise from the mist in the center of the circle of golden leaves. The hands hold out a softly glowing pebble, smooth and round. 

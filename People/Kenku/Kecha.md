@@ -1,10 +1,10 @@
 ---
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: kenku
 gender: male
-image: "[[kecha-small.png]]"
+image: "[[kecha-small.webp]]"
 name: Kecha
 whereabouts: Tollen
 knownTo: [dufr]
@@ -16,7 +16,10 @@ POV: 1749
 > [!taelgar-header]
 > (kenku, he/him, lives in Tollen)
 
-![[kecha-portrait-final.png|right|400]]Kecha is a young kenku scout, a wanderer and traveler who loves the forests and mountains.  
+> [!image|right]
+> ![[kecha-portrait-final.webp|400]]
+
+Kecha is a young kenku scout, a wanderer and traveler who loves the forests and mountains.
 
 %%SECRET[v2:a9d359717dcf8861405fba0727e2fcdd]%%
 

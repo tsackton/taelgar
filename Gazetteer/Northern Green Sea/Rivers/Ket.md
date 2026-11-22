@@ -16,7 +16,11 @@ POV: modern
 
 The Ket is the most significant river of the [[Great Northern Forest]], flowing over 1500 miles from its source on the eastern slopes of the [[Svinjo Mountains]], east to the [[Green Sea]]. For most of its length, the Ket cuts through vast, uncharted stretches of taiga, dominated by dense pine and spruce forests, interspersed with birch groves. The river’s valley is home to countless species of boreal wildlife, including elk, wolves, and bears. In the summer, migratory birds flock to its banks, feeding on the abundant fish and insects, while the winter brings stark stillness, with thick snow blanketing the region.
 
-![[ket-landscape.jpg|right|400]]The river's climate is harsh and highly seasonal. For much of its length, the Ket freezes solid from late October to early April, with the ice reaching up to four feet thick during the coldest months. Spring is dramatic, as melting ice from the river and nearby mountains causes the river to swell, flooding nearby lowlands and creating temporary marshes teeming with life. By early June, the ice has cleared, and the river runs swift and cold, carrying meltwater and sediment toward the Green Sea.
+> [!image|right]
+> ![[ket-landscape.webp|400]]
+> *Ket landscape*
+
+The river's climate is harsh and highly seasonal. For much of its length, the Ket freezes solid from late October to early April, with the ice reaching up to four feet thick during the coldest months. Spring is dramatic, as melting ice from the river and nearby mountains causes the river to swell, flooding nearby lowlands and creating temporary marshes teeming with life. By early June, the ice has cleared, and the river runs swift and cold, carrying meltwater and sediment toward the Green Sea.
 
 %% Climate conflict: This paragraph's late-October/early-April freeze calendar, four-foot ice depth, and early-June clearance are not retained by [[Climate and Weather Constraints#Green Sea, Skaerhem and Ursk]] (K27 and supporting limits), which leaves exact freeze/thaw dates and ice thickness open. Reconcile this precision; see the Lint proposal. %%
 

@@ -2,10 +2,10 @@
 lintedAt: "2026-10-19T23:47:22-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-tags: [object, status/check/lint]
+tags: [object, status/check/lint, status/check/ai]
 typeOf: ring
 subTypeOf: magic
-image: "[[gareths-ring.jpg]]"
+image: "[[gareths-ring.webp]]"
 pcOwner: Viepuck
 name: Ring of Escape
 knownTo: [clee]
@@ -15,7 +15,10 @@ POV: modern
 > [!taelgar-header]
 > (magic ring)
 
-![[gareths-ring.jpg|right|420]]A dusky ring, taken from [[Gareth of Tollen]] after his capture. 
+> [!image|right]
+> ![[gareths-ring.webp|420]]
+
+A dusky ring, taken from [[Gareth of Tollen]] after his capture.
 ### Mechanics
 This black ring has a single use, and loses its magic after it is used. As long as the ring is touching your bare skin, merely thinking the command word causes you to vanish and reappear anywhere within 60 feet. This does not have to be somewhere you can see.
 

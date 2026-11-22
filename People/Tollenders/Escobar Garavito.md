@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
-tags: [person, status/cleanup/metadata, status/check/lint]
+tags: [person, status/cleanup/metadata, status/check/lint, status/check/ai]
 species: human
 ancestry: Cymean
 campaignInfo: []
@@ -23,7 +23,10 @@ POV: 1748
 
 %%needs campaign info and whereabouts in header%%
 
-![[escobar-garavito.png|right|400]]A young and charismatic student at the University of [[Tollen]], Escobar's journey from the humble village of [[Lavila]] in [[Cymea]] to the bustling streets of [[Tollen]] showcases his adaptability and determination.
+> [!image|right]
+> ![[escobar-garavito.webp|400]]
+
+A young and charismatic student at the University of [[Tollen]], Escobar's journey from the humble village of [[Lavila]] in [[Cymea]] to the bustling streets of [[Tollen]] showcases his adaptability and determination.
 
 He is supported by a scholarship from the [[Dyer's Guild]], sponsored by [[Cecilia Lister]], and often does favors and errands for her and other senior [[Dyer's Guild]] leaders. 
 

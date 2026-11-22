@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T10:36:55-04:00"
 lintVersion: "3.5"
-tags: [place]
+tags: [place, status/check/ai]
 typeOf: realm
 subTypeOf: null
 typeOfAlias: forest realm
@@ -27,7 +27,7 @@ Aldanor watches those who try to enter the forest, and probes their minds to und
 %%
 
 > [!image|figure hero]
-> ![[orenlas-dream-paths.jpg]]
+> ![[orenlas-dream-paths.webp]]
 > *The twisted paths of Orenlas can lead the unwary or the unwelcome to hidden dangers.*
 
 Walking through the forest, however, creates a sense of timelessness. The days turn to nights, but hours don't seem to pass at a constant rate, and it is easy for a week to feel like a day, or a day a week. The seasons and the weather are only loosely related to the outside world. There is a faint echo here of the days of creation, before time began, and when the gods still walked the earth. 

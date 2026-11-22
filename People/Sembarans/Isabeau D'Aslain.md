@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
-tags: [person, status/gameupdate/clee, status/check/lint]
+tags: [person, status/gameupdate/clee, status/check/lint, status/check/ai]
 species: human
 ancestry: Sembaran
 born: 1672
@@ -23,7 +23,10 @@ POV: 1720
 > [!taelgar-header]
 > (human, Sembaran, she/her, b. 1672)
 
-![[baroness-isabeau.png|right|320]]The baroness of the [[Barony of Aveil]]. 
+> [!image|right]
+> ![[baroness-isabeau.webp|320]]
+
+The baroness of the [[Barony of Aveil]].
 
 %% 
 Just a name for the current Baron -- and a note, she’s newly appointed this spring after the old baron was charged with treason (for embezzling crown funds) and executed 

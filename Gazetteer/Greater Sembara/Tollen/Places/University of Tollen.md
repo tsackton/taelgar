@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T06:59:58-04:00"
 lintVersion: "3.5"
-tags: [place, status/check/lint]
+tags: [place, status/check/lint, status/check/ai]
 typeOf: building
 typeOfAlias: university
 name: University of Tollen
@@ -18,7 +18,9 @@ The University of Tollen is a cluster of faculties and halls along [[Magus Stree
 
 The University supports faculties in rhetoric, natural philosophy, history, magic, and metaphysics, among others, with a particular emphasis on literary arts. Debates spill from lecture halls into taverns, student troupes stage plays that sometimes mock their own professors, and illusionists host shows of wonder in the courtyards of the University. 
 
-![[university-of-tollen-v1.png]]
+> [!image|figure standard]
+> ![[university-of-tollen-v1.webp]]
+> *University of Tollen courtyard*
 
 %%
 Not canon: Many of the buildings now occupied by the University were originally constructed as libraries and collegium during the [[History of the Drankorian Empire|Drankorian Era]], but the University itself has only been in continuous operation since the growth of Tollen as a mercantile power after the fall of Drankor. 

@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T06:59:58-04:00"
 lintVersion: "3.5"
-tags: [place, status/check/lint]
+tags: [place, status/check/lint, status/check/ai]
 typeOf: holy site
 typeOfAlias: temple
 ancestry: Skaer
@@ -21,7 +21,9 @@ An ancient building in [[Godshome]] in [[Tollen]], built by the original [[Skaer
 
 The temple is a striking circular building of brilliant white marble shaped like an undulating wave.
 
-![[tollen-kaikkea-v2.png]]
+> [!image|figure standard]
+> ![[tollen-kaikkea-v2.webp]]
+> *Temple of Kaikkea in snow*
 
 %%^Metadata:names:v1%%
 - {"name":"Temple of Kaikkea","language":"unknown","pronunciation":"TEM-puhl uv KAI-key-ah","status":"proposed","notes":"The Kaikkea component follows the accepted KAI-key-ah in [[Kaikkea]]; Temple of uses ordinary English. The complete title has no separately recorded pronunciation and remains proposed."}

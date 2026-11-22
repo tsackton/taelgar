@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: human
 ancestry: Sembaran
 gender: male
@@ -21,7 +21,10 @@ POV: 1720
 > [!taelgar-header]
 > (human, Sembaran, he/him)
 
-![[bertrand-leclerc.jpg|right|320]]A sergeant of the Swordsguard of the Ninth Company of the [[Army of the South]], he is a second cousin of [[Claude Leclerc]], of the [[Army of the West]]. He is young and ambitious and is eager to prove himself.
+> [!image|right]
+> ![[bertrand-leclerc.webp|320]]
+
+A sergeant of the Swordsguard of the Ninth Company of the [[Army of the South]], he is a second cousin of [[Claude Leclerc]], of the [[Army of the West]]. He is young and ambitious and is eager to prove himself.
 
 %%^Metadata:names:v1%%
 - {"name": "Bertrand Leclerc", "language": "Sembaran", "status": "documented"}

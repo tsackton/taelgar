@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: fey
 gender: male
 name: Istarias
@@ -29,7 +29,8 @@ Istarias had no idea why Serenveil sent him, other than "a favor to someone" and
 
 %%
 
-![[istarias-squire-fey.jpg]]
+> [!image|right standard]
+> ![[istarias-squire-fey.webp]]
 
 %%^Metadata:names:v1%%
 - {name: Istarias, language: unknown, pronunciation: iss-TAH-ree-ahs, status: documented}

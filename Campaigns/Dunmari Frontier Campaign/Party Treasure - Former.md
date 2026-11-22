@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T08:15:28-04:00"
 lintVersion: "3.5"
-tags: [meta]
+tags: [meta, status/check/ai]
 campaign: dufr
 name: Party Treasure - Former
 POV: 1749
@@ -137,7 +137,7 @@ Other treasure returned to Milo and Tilly
 
 ### Traded to the Philosopher's Guild
 
-| ![[kadmos-rod-of-pact-keeper.png\|200]] | Rod of the Pact Keeper | Major item, Uncommon | Taken from [[Kadmos]] as part of the [[Kadmos and Company Loot]], and given to the [[Ancient and Honorable Guild of Philosophers\|Philosopher's Guild]] in [[Session 115 (DuFr)]] | [Mechanics](https://www.dndbeyond.com/magic-items/11217-rod-of-the-pact-keeper-1) |
+| ![[kadmos-rod-of-pact-keeper.webp\|200]] | Rod of the Pact Keeper | Major item, Uncommon | Taken from [[Kadmos]] as part of the [[Kadmos and Company Loot]], and given to the [[Ancient and Honorable Guild of Philosophers\|Philosopher's Guild]] in [[Session 115 (DuFr)]] | [Mechanics](https://www.dndbeyond.com/magic-items/11217-rod-of-the-pact-keeper-1) |
 | --------------------------------------- | ---------------------- | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 |                                         | [[Watcher's Dagger]]   | Major item, Rare     | From [[Ursk Treasure#Acquired from Shadowkeep\|Shadowkeep]], given to the [[Ancient and Honorable Guild of Philosophers\|Philosopher's Guild]] in [[Session 115 (DuFr)]]          | [Mechanics](https://www.dndbeyond.com/magic-items/336928-dagger-of-blindsight)    |
 - Spell gem from [[Kadmos]] containing the Summon Greater Demon spell, given to the [[Ancient and Honorable Guild of Philosophers]] in exchange for [[Philosopher's Information Concerning Ursk]]

@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-11-12T19:02:10-05:00"
 lintVersion: "3.5"
-tags: [session-note]
+tags: [session-note, status/check/ai]
 campaign: dufr
 sessionNumber: 92
 realWorldDate: 2024-02-06
@@ -40,19 +40,25 @@ The [[Dunmar Fellowship]] gains King [[Brimskarda]]'s favor at [[Isenborg]] and 
 ## Narrative
 We begin as the [[Dunmar Fellowship]] makes a cautious approach towards the formidable and frost-laden steading of [[Isenborg]], the court of [[Brimskarda]], king of the frost giant kingdom of [[Kaldhalla]]. The party's primary goal was to both introduce themselves and pry for crucial intelligence regarding the enigmatic [[Vargaldi|Vargald]], a people who live in the frozen wastes of the [[Ket]] river valley. [[Seeker]] steers the skyship through the massive ice gates of [[Isenborg]], where they are greeted by an animated statue bidding them to introduce themselves. Arriving inside the steading of [[Isenborg]], carved in the bowl of a massive glacier, the party moors their ship at a respectful distance and uses the rainbow bridge to make their descent.
 
-![[steading-entrance.jpg]]
+> [!image|figure standard]
+> ![[steading-entrance.webp]]
+> *Steading entrance at Isenborg*
 
 The party enters the steading's main hall, a cavernous space carved from the heart of a glacier and bathed in an eerily dim blue light, with tapestries on the walls depicting the heroic deeds of [[Brimskarda]] and his giant warriors. King [[Brimskarda]] receives them with a guarded attitude, but with an openness to host these diminutive guests with numerous heroic deeds to their names. The party, seizing the opportunity, lavished [[Brimskarda]] with gifts — an enormous meat pastry sculpted in the likeness of a mythical beast and a resplendent horn. Their offerings and recounted tales of dragon slayings and battles against the forces of darkness aimed to cement their place in Brimskarda's regard. The Frost Giant King reciprocated with stories of his own conquests and imparted wisdom on combating the lethal iceworms.
 
 The feast that ensued was a spectacle of giant customs, the hall filled with Brimskarda's kin, all partaking in the hearty offerings with a blend of curiosity and intrigue towards their guests. Delwath's subtle inquiries unveiled the layers of Frost Giant history, especially the history of [[Vimfrost's War]], the great king [[Bjarnfrost]], and the eventual transition of power to Brimskarda.
 
-![[brimskarda-palace-interior.jpg]]
+> [!image|figure standard]
+> ![[brimskarda-palace-interior.webp]]
+> *Brimskarda's palace, blue ice hall, JPEG export*
 
 The next morning, the party met [[Algerd]], a socially-awkward historian without much status under Brimskarda's rule, which values might over knowledge. The party persuaded Algerd to travel east with them, in part with the hope that he could find his sister, who was driven out of the steading years ago. 
 
 Departing [[Isenborg]] with [[Algerd]] in tow, the party journeyed east for two uneventful days. The afternoon of the third day, they spotted the rumblings of an ice worm, moving through the forest and bearing down on two elk. Suspecting the elk may be [[Vargaldi]], the party entered into battle. The ice worm proved to be a formidable foe, swallowing and nearly digesting [[Riswynn]], but was defeated.
 
-![[dufr-078-ice-worm.webp]]
+> [!image|figure standard]
+> ![[dufr-078-ice-worm.webp]]
+> *Translucent ice worm on a frozen lake*
 
 The confrontation not only tested the party's skill in battle, but also led to an unexpected alliance with the [[Vargaldi]], shape-shifting beings from a hidden village. The party's victory over the Ice Worm, marked by strategic combat and skillful extraction of the creature's valuable parts, forged a bond with the shape-shifters, who guided the party to their concealed abode where a medley of villagers awaited, heralding the beginning of a new chapter in their adventure.
 

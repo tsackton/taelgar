@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T11:28:01-04:00"
 lintVersion: "3.5"
-tags: [place, status/cleanup/text, status/check/lint]
+tags: [place, status/cleanup/text, status/check/lint, status/check/ai]
 typeOf: settlement
 typeOfAlias: city
 ancestry: dwarven
@@ -26,7 +26,9 @@ POV: 1740s
 **People**: Am’khazar, being fully underground, is a city of dwarves.
 
 
-![[zarkandur-city-full.png]]
+> [!image|figure standard]
+> ![[zarkandur-city-full.webp]]
+> *Zarkandur, the cavern city*
 
 ## Description
 

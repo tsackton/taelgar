@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
-tags: [person, status/gameupdate/clee, status/check/lint]
+tags: [person, status/gameupdate/clee, status/check/lint, status/check/ai]
 species: human
 ancestry: Sembaran
 title: Sergeant
@@ -25,7 +25,10 @@ POV: 1720
 
 %% status/update -> status/check/mike %%
 
-![[eveyln-totteridge.png|right|320]]The sergeant of the [[Army Garrison of Cleenseau|River Patrol]], Evelyn is a talented soldier and particularly strong and brutal with her favored weapon, a two-handed waraxe.
+> [!image|right]
+> ![[eveyln-totteridge.webp|320]]
+
+The sergeant of the [[Army Garrison of Cleenseau|River Patrol]], Evelyn is a talented soldier and particularly strong and brutal with her favored weapon, a two-handed waraxe.
 
 %%^Metadata:names:v1%%
 - {"name": "Eveyln Totteridge", "language": "Sembaran", "status": "disputed", "notes": "The frontmatter and heading read Eveyln, while the article, [[Army Garrison of Cleenseau]], and [[Into Aslain (Email)]] use Evelyn. Preserve the recorded name pending human choice; the intended spelling and its pronunciation are unresolved."}

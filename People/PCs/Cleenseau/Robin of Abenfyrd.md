@@ -2,7 +2,7 @@
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 displayDefaults: {primaryOrgType: party}
-tags: [person, status/gameupdate/clee, status/check/lint]
+tags: [person, status/gameupdate/clee, status/check/lint, status/check/ai]
 species: human
 ancestry: Tyrwinghan
 campaignInfo: []
@@ -28,7 +28,11 @@ POV: 1720
 > [!taelgar-header]
 > (human, Tyrwinghan, he/him, b. 1700)
 
-![[robin-of-abenfyrd-no-armor.png|right|320]]![[new-robin.png|right|320]]Robin of Abenfyrd is a young man of about twenty, a paladin of [[The Wanderer]], and hails from [[Tyrwingha]]. He has a friendly, if shy, demeanor and at times seems embarrassed by his own talents. His armor looks weathered and well used (he was probably not the first owner) but well maintained. His clothing looks a bit more appropriate to a bard than a traveling warrior, and while again not the fanciest, tends to be rather colorful and a bit flamboyant even. He keeps a [[Lantern of the Bright Hearth|small lantern]] on him that sheds a perpetual warm glow that reminds one of home and pleasant things. His other most prized possession is a lute (not the fanciest instrument ever, but it is clearly well cared for) that he plays with the skill of a well practiced musician. Often appearing a bit awkward when first interacting with others, he seems far more relaxed while he plays.
+> [!gallery]
+> - ![[robin-of-abenfyrd-no-armor.webp|320]]
+> - ![[new-robin.webp|320]]
+
+Robin of Abenfyrd is a young man of about twenty, a paladin of [[The Wanderer]], and hails from [[Tyrwingha]]. He has a friendly, if shy, demeanor and at times seems embarrassed by his own talents. His armor looks weathered and well used (he was probably not the first owner) but well maintained. His clothing looks a bit more appropriate to a bard than a traveling warrior, and while again not the fanciest, tends to be rather colorful and a bit flamboyant even. He keeps a [[Lantern of the Bright Hearth|small lantern]] on him that sheds a perpetual warm glow that reminds one of home and pleasant things. His other most prized possession is a lute (not the fanciest instrument ever, but it is clearly well cared for) that he plays with the skill of a well practiced musician. Often appearing a bit awkward when first interacting with others, he seems far more relaxed while he plays.
 
 ### Items
 ```dataview

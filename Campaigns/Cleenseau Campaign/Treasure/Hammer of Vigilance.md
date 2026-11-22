@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-19T23:47:22-04:00"
 lintVersion: "3.5"
-tags: [object, status/check/lint]
+tags: [object, status/check/lint, status/check/ai]
 typeOf: weapon
 subTypeOf: magical
 typeOfAlias: warhammer
@@ -9,7 +9,7 @@ ancestry: Sembaran
 ddbLink: https://www.dndbeyond.com/magic-items/7813717-hammer-of-vigilance
 pcOwner: Robin of Abenfyrd
 rarity: uncommon
-image: "[[hammer-of-viligance.jpg]]"
+image: "[[hammer-of-viligance.webp]]"
 name: Hammer of Vigilance
 whereabouts: Robin of Abenfyrd
 knownTo: [clee]
@@ -19,7 +19,10 @@ POV: modern
 > [!taelgar-header]
 > (uncommon Sembaran magical warhammer)
 
-![[hammer-of-viligance.jpg|right|320]]A finely crafted silver and steel warhammer with blue wrappings. It seems to anticipate danger. It was found in a secret room in the underground hobgoblin fort beneath [[Cleenseau]] and appears to be war loot from an unknown Sembaran hero, from several hundred years ago.
+> [!image|right]
+> ![[hammer-of-viligance.webp|320]]
+
+A finely crafted silver and steel warhammer with blue wrappings. It seems to anticipate danger. It was found in a secret room in the underground hobgoblin fort beneath [[Cleenseau]] and appears to be war loot from an unknown Sembaran hero, from several hundred years ago.
 
 %%^Metadata:names:v1%%
 - {"name": "Hammer of Vigilance", "language": "unknown"}

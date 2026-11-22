@@ -33,7 +33,7 @@ The group is a found-family band of misfits: skeptical, generous, opportunistic,
 [[Alden]] then speaks of [[Dandelion House]] with rapturous but genuine emotion -- Kaito's surreptitious Detect Thoughts spell finds joy, delight, longing, and nostalgia. As the party drifts off to rest, the night passes uneventfully.
 
 > [!image|figure standard]
-> ![[feywild-01-varrow-forest.jpg]]
+> ![[feywild-01-varrow-forest.webp]]
 > *Walking through [[Varrow Forest]]*
 
 Morning brings a long march through ancient forest. The trail slowly fades away, the forest grows quieter, the shadows gather. Just before sunset, the party passes through a ruined gate and over barely-visible remnants of an ancient wall and moat long since swallowed by forest. The forest opens into a wildly overgrown field and the House itself, blazing bright in the last light of day.
@@ -43,7 +43,7 @@ Morning brings a long march through ancient forest. The trail slowly fades away,
 [[Alden]] warns that [[Lord Hulda]] is proud, difficult, and desperate for [[Dandelion House]] to become the estate he has always wanted. They meet [[Lord Hulda]] on the upper floor: a scarred adventurer in his late 40s, watching the fading light, sinking into shadow. After brief introductions, Hulda leads them down to the kitchen for a meal and conversation.
 
 > [!image|hero]
-> ![[dandelion-house.jpg]]
+> ![[dandelion-house.webp]]
 > *[[Dandelion House]]*
 
 Hulda tells his story over dinner in a kitchen stocked with magical conveniences (including a cleaning bar [[Tarek]] immediately evaluates for later theft). The second son of a minor lord in southern Sembara, he always hungered for more. Disappointed in the modest comfort of his family and resentful about his station, he left to seek his fortune, spending decades around the [[Green Sea]] as a sellsword, adventurer, and mercenary. He made and lost treasurers and lovers, and acquired a minor reputation. 
@@ -57,7 +57,7 @@ The document named him heir to "[[Dandelion House]], its lands, and all such tre
 After Hulda leaves them, [[Tarek]] reads the Sembaran document again and senses that something about it does not fit. But Kaito shifts from fear to enthusiasm at the promise of half the hoard -- though [[Ayveen]] points out that ending an unknown treaty might be dangerous, and [[Txarro]] tries to prepare Kaito for disappointment if the treasure is a trap, a metaphor, or a single coin. They still decide they have come too far not to investigate, and prepare to enter the door in the morning.
 
 > [!image|right standard]
-> ![[the-door-in-the-floor.jpg]]
+> ![[the-door-in-the-floor.webp]]
 > *The root tunnel to the unknown*
 
 Before dawn, the grandfather clock wakes them and [[Alden]] collects them from their rooms, leading them through the ground floor, down through a massive basement. There, he opens a locked door with a glowing gold key, leads them below the basement, down through a passage hewn from living rock into in a root-covered sub-cellar that surely predates the manor above it. Hulda, waiting there, opens a door that seems to lead deep through a massive hollowed-out root, promising to keep this end open while they take care of business. 

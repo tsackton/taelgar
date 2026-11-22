@@ -1,10 +1,10 @@
 ---
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
-tags: [person, status/cleanup/metadata, status/check/lint]
+tags: [person, status/cleanup/metadata, status/check/lint, status/check/ai]
 species: human
 ancestry: Dunmari
-image: pava.png
+image: pava.webp
 campaignInfo:
   - {campaign: dufr}
 born: 1673
@@ -27,7 +27,8 @@ POV: 1740s
 
 A master of the Order of the Awakened Soul, an old man, bald, with striking blue eyes and surprising agility.
 
-![[pava.png|500]]
+> [!image|right]
+> ![[pava.webp|500]]
 
 %%SECRET[v2:d894d2b444da97bee6c2209210c4c70d]%%
 

@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: human
 ancestry: Sembaran
 campaignInfo: []
@@ -24,7 +24,10 @@ POV: 1719
 > [!taelgar-header]
 > (human, Sembaran, he/him, b. 1689, lives in Cleenseau)
 
-![[ancer-benthey-portrait.png|right|320]]The nephew of [[Ames Benthey]], recently appointed sergeant of the [[Army Garrison of Cleenseau|Bridge Patrol]] after [[Odo Cordwaner]] was dismissed. He is untested and rumored to be somewhat stern, and not very close to his uncle.
+> [!image|right]
+> ![[ancer-benthey-portrait.webp|320]]
+
+The nephew of [[Ames Benthey]], recently appointed sergeant of the [[Army Garrison of Cleenseau|Bridge Patrol]] after [[Odo Cordwaner]] was dismissed. He is untested and rumored to be somewhat stern, and not very close to his uncle.
 
 %%^Metadata:names:v1%%
 - {name: "Ancer Benthey", language: "Sembaran", pronunciation: "AN-ser BEN-thee", status: "documented"}

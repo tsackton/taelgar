@@ -1,1 +1,6 @@
-![[sigrid-goldshield.png|eft|200]]
+---
+tags: [status/check/ai]
+---
+
+> [!image|right]
+> ![[sigrid-goldshield.webp|eft|200]]

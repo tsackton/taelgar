@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-28T16:53:46-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: halfling
 born: 1678
 gender: male
@@ -21,7 +21,10 @@ POV: 1730
 > [!taelgar-header]
 > (halfling, he/him, b. 1678, lives in Zimkova)
 
-![[finnan-oakstride.png|right|360]]Finnan Oakstride is a halfling storyteller, a wanderer, and a collector of tales. 
+> [!image|right]
+> ![[finnan-oakstride.webp|360]]
+
+Finnan Oakstride is a halfling storyteller, a wanderer, and a collector of tales.
 
 Finnan was born on the road outside [[Telham]], and spent his childhood on the road, like many halflings. His parents were not merchants, or traders. Instead, they told tales, sang songs, and did some juggling and acrobatics, traveling with a group of about 10 other halflings in three small wagons, sometimes trading them for a riverboat. They moved around, usually drifting among the small towns along the [[Teft]] and [[Volta]], sometimes as far east as coastal [[Vostok]], occasionally as far northwest as [[Breva]]. In most small towns, they could at least get a good night's dinner for their time, and sometimes a place to sleep, if there was space -- but when there wasn't, the wagons sufficed.
 

@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-11-12T19:02:10-05:00"
 lintVersion: "3.5"
-tags: [meta]
+tags: [meta, status/check/ai]
 campaign: chasm
 hide: [toc]
 name: Into the Chasm
@@ -11,7 +11,7 @@ POV: 1730
 # Into the Chasm
 
 > [!image|hero]
-> ![[itc-overview-runic-plaform.jpg]]
+> ![[itc-overview-runic-plaform.webp]]
 > *Ancient machinery hangs in the depths of the Great Chasm, holding the planes in balance.*
 
 Into the Chasm is a six-episode adventure about five strangers, a village trapped beyond the world, and the failing runic machinery hidden in the depths of the [[Great Chasm]]. The game begins as an impossible storm casts the travelers into [[Zeyfa's Labyrinth]], where their search for a way home leads them to a fogbound village in another dimension, and a frightened ruler who no longer trusts that the outside world is real.

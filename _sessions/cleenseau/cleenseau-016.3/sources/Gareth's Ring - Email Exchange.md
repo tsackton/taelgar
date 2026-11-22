@@ -14,7 +14,7 @@ A short interlude, but you might want to investigate.
 Gareth, as I think I mentioned, was wearing, when he was captured, a small
 ring- [[Ring of Escape]]
 
-![[gareths-ring.jpg]]
+![[gareths-ring.webp]]
 
 Izgil investigated the ring, and determined a few things about it:
 

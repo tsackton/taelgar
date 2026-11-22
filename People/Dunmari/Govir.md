@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-08T12:28:58-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: human
 ancestry: Dunmari
 born: 1708
@@ -20,7 +20,9 @@ POV: 1740s
 > [!taelgar-header]
 > (human, Dunmari, he/him, b. 1708, lives in Tokra)
 
-![[govir.png|right|400]]
+> [!image|right]
+> ![[govir.webp|400]]
+
 Govir is a Dunmari scholar and the Master of Records at the [[Archives|Tokra Archives]]. Devout and single-minded, he is gathering [[Session 35 (DuFr)|accounts of the victories and miracles]] which he believes shows that the [[Dunmari Pantheon|gods]] have upheld and supported the [[Nayan Dynasty]]. He holds [[Yarad|Samraat Nayan Yarad]] in particular esteem, seeing in his victories evidence of divine favor.
 
 His planned work centers on five such deliverances: the [[Northern War]], the [[Exile of Fraternity of the Empty Moon|expulsion of the Fraternity of the Empty Moon]] from Tokra, the [[Battle of Shrevandurg]], the [[Defeat of the Plague Trees]], and the [[Summer of Red Storms]]. He is particularly interested in finding accounts from soldiers, including surviving veterans, that report how the presence of [[Aagir]] in battle or the mercy of [[Jeevali]] when wounded felt to them, personally. 

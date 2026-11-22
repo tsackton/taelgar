@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T09:21:00-04:00"
 lintVersion: "3.5"
-tags: [source]
+tags: [source, status/check/ai]
 campaign: dufr
 name: Report of the Aagiri to Samraat Dasa
 POV: 1749
@@ -25,7 +25,9 @@ And then we saw the city. Avenues wide enough for a score of horses to walk abre
 
 As we approached the dockyards, the wharves made of some magical wood that seemed immune to decay, the quays of marble and silver, the sense of foreboding grew stronger and stronger, as if we could feel an evil will setting itself against us. Fear took us, and I believe that most of us would have turned and fled from the city at that moment had not Aagir's power flowed so mightily through our commander. 
 
-![[drankor-drawing-2.png]]
+> [!image|figure standard]
+> ![[drankor-drawing-2.webp]]
+> *Drankor dockyards, fragmented drawing*
 
 We walked the broad avenue from the docks to a great plaza, huddled close in the aura of Aagir's blessing. The very air of the city was close and dark, and everywhere signs of corruption. The living vines of the jungle attacked us, seeking to bind us and draw us to twisted trees that split their trunks to swallow us whole, but the fire of Aagir that blazed through our swords and spears destroyed the corrupted flesh of these creatures.
 
@@ -33,7 +35,9 @@ The plaza itself was full of nightmares - hundreds upon hundreds of skeletons, w
 
 Eventually, we found a vast mausoleum or temple, larger and grander than the greatest of the Samraat tombs in Kharsan. Here, we are sure, is the will that drives the zombies and undead that ravage our lands from this accursed city. And yet we could not approach, for the structure itself was surrounded by billowing clouds of red mists. Whether brave or foolhardy, one of our company approached the mists, and we all felt the sadness of Jeevali's tears as his body aged to dust in an instant as the red mists grasped him. 
 
-![[drankor-drawing-1.png]]
+> [!image|figure standard]
+> ![[drankor-drawing-1.webp]]
+> *Fragments of the Drankor mausoleum drawing*
 
 It took us two days of fighting through undead and the evil plants and monstrosities of the corrupted jungle to return to our ships, and nearly a third of our company was lost on the journey.
 

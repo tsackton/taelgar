@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: human
 ancestry: Sembaran
 gender: female
@@ -17,7 +17,10 @@ POV: 1720
 > [!taelgar-header]
 > (human, Sembaran, she/her, b. 1689, lives in Cleenseau)
 
-![[yvette.png|right|320]]A caretaker and nurse in Essford Manor, currently caring for [[Wymar Essford]] in his illness. Previously a cook, and with an unusual connection to the Night Queen. She tends the small shrine to the Night Queen in Essford Manor while [[Eremon]] is travelling.
+> [!image|right]
+> ![[yvette.webp|320]]
+
+A caretaker and nurse in Essford Manor, currently caring for [[Wymar Essford]] in his illness. Previously a cook, and with an unusual connection to the Night Queen. She tends the small shrine to the Night Queen in Essford Manor while [[Eremon]] is travelling.
 
 %%^Metadata:names:v1%%
 - {"name": "Yvette", "language": "Sembaran", "status": "inferred"}

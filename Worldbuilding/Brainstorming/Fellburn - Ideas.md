@@ -1,3 +1,7 @@
+---
+tags: [status/check/ai]
+---
+
 %% Nothing really still in my head, but needs some emails from Clee game, plus the Discord chat Tim and I had to define the Oracle of hope, plus the bits below %%
 
 %% I'm working on various ideas to give this place character, given it has come up in Cleenseau as an "important" place. Canonically there is no bridge, so need to come up with some reasons why a big city here
@@ -18,4 +22,6 @@ so I was thinking it is indestructable and couldn't be sacked by the hobgoblins,
 
 %%
 
-![[oracle-of-hope.jpg]]
+> [!image|figure standard]
+> ![[oracle-of-hope.webp]]
+> *The Oracle of Hope*
