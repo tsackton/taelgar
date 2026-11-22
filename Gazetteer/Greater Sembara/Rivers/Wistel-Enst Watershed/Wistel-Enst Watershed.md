@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:22:39-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -12,9 +11,8 @@ dm_notes: none
 POV: modern
 ---
 # The Wistel–Enst Watershed
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (watershed, in Greater Sembara)
 
 The Wistel–Enst watershed drains much of southern and central [[Sembara]], carrying upland waters from the [[Sentinel Range|Sentinels]] and the [[Mostreve Hills]] to the [[Western Gulf]]. It consists of three closely linked systems:
 

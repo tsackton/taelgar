@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T11:10:54-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -11,10 +10,9 @@ dm_owner: none
 dm_notes: none
 POV: 1748
 ---
-# The Whale's Spout
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+# The The Whale's Spout
+> [!taelgar-header]
+> (tavern, in Castrella)
 
 A tavern and refuge in [[Castrella]] run by [[Old Leo]], known for taking in orphans.
 

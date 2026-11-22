@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-29T18:22:03-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: "", prep: at}
@@ -14,10 +13,8 @@ dm_notes: color
 POV: modern
 ---
 # The Bandit’s End
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (inn, in Cleenseau)
 
 An inn and tavern in [[Cleenseau]]. Known for its strong ale, and boisterous bar. A gathering place of veterans and mercenaries who make a living guarding caravans, with numerous small, cramped rooms. It was originally built in the 1650s to house laborers working on rebuilding the town after the [[Third Hobgoblin War (Sembara)|hobgoblin wars]]. It was converted to an inn in 1665.
 

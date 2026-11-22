@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 displayDefaults: {boxInfo: ""}
@@ -12,9 +11,8 @@ dm_notes: none
 POV: 1720
 ---
 # The Lord's Council of Cleenseau
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (council)
 
 The Lord's Council is an advisory group to the lord of [[Cleenseau]], currently [[Rosalind Essford]] for all practical purposes.  It is advisory, but Rosalind convenes it before important decisions and respects the advice she receives. It consists of:
 

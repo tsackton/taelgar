@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:59:58-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -15,9 +14,8 @@ POV: modern
 ---
 # The Svinjo Mountains
 *(SHEEF-nyo)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (mountain range, in Northern Green Sea)
 
 The Svinjo Mountains, called the Hrimthur by frost giants, form the great eastern barrier of [[Vostok]]. Long ridgelines of granite and gneiss march north–south, split by high passes and glacier‑scoured cols. In winter, whiteout snows sweep the saddles; even in late spring, cornices and avalanche chutes render travel perilous. 
 

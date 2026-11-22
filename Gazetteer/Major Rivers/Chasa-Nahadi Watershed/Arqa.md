@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:22:39-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -16,9 +15,8 @@ POV: modern
 ---
 # Arqa
 *(ar-KAH)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (river, in Central Highlands / Chasa-Nahadi Watershed)
 
 The Arqa is a swift-flowing, unnavigable river that cascades down from the [[Sentinel Range|Sentinels]] to join the [[Zarnato]], passing through forests and many ravines over its course.
 

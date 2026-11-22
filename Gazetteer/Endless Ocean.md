@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -13,9 +12,8 @@ dm_notes: important
 POV: modern
 ---
 # The Endless Ocean
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (ocean, in Taelgar)
 
 %% some secrets still linger about the oceans... %%
 

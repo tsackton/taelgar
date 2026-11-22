@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T23:55:52-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -14,9 +13,8 @@ dm_notes: none
 POV: modern
 ---
 # The North Cliffs
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (coastal cliff, in Mawakel Peninsula / Hamri)
 
 The North Cliffs are the coastal cliffs across [[Hamri]]'s sheltered bay from the port itself. While the closest section of the cliffs lies near Hamri and is closely tied to the history of [[Society of Ocean Watchers|ocean watchers]] in Hamri, the cliffs are not part of the town proper, and attract squatters, loners, and outcasts.
 

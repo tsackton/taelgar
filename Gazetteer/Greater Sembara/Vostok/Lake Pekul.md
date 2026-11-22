@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T06:59:58-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -16,9 +15,8 @@ POV: modern
 ---
 # Lake Pekul
 *(LAYK PEH-kool)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (lake, in Vostok Plateau)
 
 Lake Pekul is a high-altitude lake on the [[Vostok Plateau]], east of the [[Pekul Mountains]].
 

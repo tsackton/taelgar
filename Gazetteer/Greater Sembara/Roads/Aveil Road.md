@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:22:39-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -9,11 +8,10 @@ pronunciation: ah-veh-EEL road
 whereabouts: Sembara
 POV: modern
 ---
-# Aveil Road
+# The Aveil Road
 *(ah-veh-EEL road)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (road, in Sembara)
 
 The Aveil Road runs north from the tin-mining town of [[Selestat|Sélestat]], on the northern side of the [[Aveil Ridge]], to the [[Wistel]].
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T06:59:58-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -13,9 +12,8 @@ dm_notes: none
 POV: modern
 ---
 # Scrollwright Street
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (street, in Tollen)
 
 A major thoroughfare linking [[Magus Street]] and the [[University of Tollen]] to the temples of [[Godshome]]. Home to numerous paper sellers, printers, mapmakers, booksellers, and scroll makers, including [[Guy Marchand]].
 

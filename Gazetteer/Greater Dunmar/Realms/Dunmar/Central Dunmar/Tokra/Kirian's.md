@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:04:00-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -13,9 +12,8 @@ POV: 1740s
 ---
 # Kirian’s
 *(kee-ree-AHNZ)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (inn, in Tokra)
 
 A substantial, three-story inn near the main market square in Tokra. One of the few inns in town, and fairly elegant. Caters strongly to merchants and the wealthy, and especially Chardonians and other foreigners. Dunmari travelers tend to camp outside, or stay at [[Darshana's Caravanserai]]. 
 

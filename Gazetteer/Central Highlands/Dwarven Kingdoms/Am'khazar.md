@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:28:01-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -16,9 +15,8 @@ POV: modern
 ---
 # Am'khazar
 *(ahm-KAH-zahr)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (realm, in Labkhan / Central Highlands)
 
 Am’khazar, roughly “rich-iron-mountains,” is one of the [[Dwarven Kingdoms|five dwarven kingdoms]] of [[Sentinel Range|Labkhan]], located north of [[Ardith]] and west of [[Khatridun]]. Its deep mines and the gemstone trade of [[Zarkandur]], the City of Gems, are central to its wealth.
 

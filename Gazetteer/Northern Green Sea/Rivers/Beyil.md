@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:59:58-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -14,9 +13,8 @@ POV: modern
 ---
 # Beyil
 *(BEY-eel)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (river, in Ursk)
 
 The Beyil, from the Urskan word for "White", is a slow, winding river that flows from the [[Yengorza Mountains]] to the [[Green Sea]]. After quickly cascading from the mountains to the flat coastal plains, the Beyil becomes wide and slow, winding across the flat lowlands. In the summer months, it is navigable for much of its length by river boat, and in the winter months, once frozen, by sledge.
 

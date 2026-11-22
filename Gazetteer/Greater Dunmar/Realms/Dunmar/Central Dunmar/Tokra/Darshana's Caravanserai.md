@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -16,9 +15,8 @@ POV: modern
 ---
 # Darshana's Caravanserai
 *(DAR-shuh-nuhz kar-uh-VAN-suh-rye)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (caravanserai, in Tokra)
 
 Darshana's is a large, two-story complex outside the walls on the west side of [[Tokra]]. Rooms and stables surround a bustling open courtyard that serves as the central gathering place, dining room, and marketplace of the complex. A large stables sits just outside the main building. 
 

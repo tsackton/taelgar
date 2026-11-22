@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T10:36:55-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -14,9 +13,8 @@ POV: modern
 ---
 # Drankor
 *(DRAN-kor)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (ruined city, in Desolation of Cha'mutte)
 
 Drankor is a ruined city near the mouth of the [[Istaros]], once the heart of the [[Drankorian Empire]] and a great center of magic and learning. Devastated by the [[First Plague]] in DR 1059, its jungle-covered ruins lie within the [[Desolation of Cha'mutte]], haunted by undead and dangerous remnants of imperial magic.
 

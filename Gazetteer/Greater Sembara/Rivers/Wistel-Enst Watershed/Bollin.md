@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:22:39-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
@@ -16,9 +15,8 @@ dm_notes: none
 POV: modern
 ---
 # The Bollin
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (river, in Greater Sembara / Wistel-Enst Watershed)
 
 A major river in [[Ardlas]] and western [[Sembara]] that joins the [[Wistel]] near [[Ainwick]]. The Bollin is cold and rocky and shallow for much of its length, and is not navigable save for the 30 miles or so upriver of the confluence with the [[Wistel]]. It has three major tributaries:
 

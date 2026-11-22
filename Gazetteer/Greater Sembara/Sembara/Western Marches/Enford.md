@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T01:11:18-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -12,9 +11,8 @@ dm_notes: color
 POV: modern
 ---
 # Enford
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (fortified town, in Marches of Enford)
 
 An important garrison town on the south banks of the [[Enst (North Fork)|North Fork]]. It is a bustling place supported primarily as an army depot and a departure point for trade and adventure in the [[Marches of Enford]]. 
 

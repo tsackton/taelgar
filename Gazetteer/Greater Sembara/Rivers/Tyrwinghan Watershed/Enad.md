@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:22:39-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/mike]
@@ -16,9 +15,8 @@ POV: modern
 ---
 # Enad
 *(EH-nad)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (brook, in Tyrwingha / Tyrwinghan Watershed)
 
 %% @check/mike : Please confirm name and pronunciation. %%
 

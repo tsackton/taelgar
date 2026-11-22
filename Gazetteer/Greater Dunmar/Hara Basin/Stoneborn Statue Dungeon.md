@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:04:00-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -12,9 +11,8 @@ dm_notes: important
 POV: modern
 ---
 # The Stoneborn Statue Dungeon
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (ruin, in Central Dunmar)
 
 %% a fair bit of detail developed for Riswynn one shot, needs to be copied from OneNote %%
 

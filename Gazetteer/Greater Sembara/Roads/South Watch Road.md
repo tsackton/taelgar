@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:22:39-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -11,9 +10,8 @@ dm_notes: none
 POV: modern
 ---
 # The South Watch Road
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (road, in Sembara)
 
 A new road, built during the reign of [[Cece I]] to connect [[Dunfry]] and the [[Army of the South|South Watch]] with [[Fellburn]] after the [[Third Hobgoblin War (Sembara)|hobgoblin wars]]. Most of the road runs through unsettled land, although several fortified garrison-houses dot the road to support soldiers and messengers travelling the road.
 

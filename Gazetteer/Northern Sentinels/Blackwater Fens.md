@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:59:58-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -12,9 +11,8 @@ dm_notes: none
 POV: modern
 ---
 # The Blackwater Fens
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (fen, in Northern Sentinels)
 
 The Blackwater Fens are a broad belt of bog and open woodland on the western slopes of the Northern Sentinels. The fens form one of the principal headwaters of the [[Barzhen]], draining south through a maze of peatlands, pools, and meandering channels under frequent mist and low cloud. 
 

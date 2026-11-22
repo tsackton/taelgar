@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T06:59:58-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: "", linkText: at}
@@ -13,9 +12,8 @@ dm_notes: none
 POV: 1740s
 ---
 # The Singing Fox
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (inn, in Fairgate Outer)
 
 A cozy halfling tavern in [[Fairgate Outer]], run by [[Chenna Goodbarrel]] and her wife [[Harriet Goodbarrel|Harriet]]. Harriet is a good singer and The Singing Fox gets a decent crowd (mostly locals and passing halflings) when she is performing. 
 

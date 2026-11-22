@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:59:58-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -14,9 +13,8 @@ POV: modern
 ---
 # Volya
 *(VOH-leeah)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (trading post, in Ursk)
 
 A small walled village and trading post at the confluence of the [[Leis]] and the [[Beyil]] rivers.
 

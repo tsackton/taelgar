@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T11:10:54-04:00"
 lintVersion: "3.5"
 displayDefaults: {aNoDate: "<affiliationtitle:tx> to <affiliations>"}
@@ -18,9 +17,8 @@ POV: 1740s
 ---
 # The Temple of Shakun
 *(SHAH-koon)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (temple, in Karawa)
 
 %%TIM: a lot of design notes and possibly a map somewhere in my DM notes %%
 

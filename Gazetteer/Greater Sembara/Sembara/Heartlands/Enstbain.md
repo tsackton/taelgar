@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T01:11:18-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -12,9 +11,8 @@ POV: modern
 ---
 # Enstbain
 *(ENST-bayn)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (hill, in Duchy of Wisford)
 
 Enstbain is a rounded hill east of [[Fellburn]], overlooking the [[Enst]]. It rises steeply from the river, with rocky slopes on its river-facing side and gentler, grassy slopes to the north. Sheep graze the northern slopes, among scattered oaks and patches of hawthorn scrub.
 

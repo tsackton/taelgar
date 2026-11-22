@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T10:36:55-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -15,9 +14,8 @@ POV: modern
 ---
 # The Garamjala Desert
 *(ga-RUM-ja-la)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (desert)
 
 %% Whereabouts start (1545): # start is approx %%
 

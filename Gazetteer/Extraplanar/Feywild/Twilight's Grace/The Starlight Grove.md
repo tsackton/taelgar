@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
 tags: [place, status/wip, status/check/lint]
@@ -13,12 +12,9 @@ dm_owner: mike
 dm_notes: none
 POV: modern
 ---
-# The Starlight Grove
-
-> [!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`
-> 
-> > `$=dv.view("_scripts/view/get_Whereabouts")`
+# The The Starlight Grove
+> [!taelgar-header]
+> (fey portal, in Twilight's Grace / Tyrwingha)
 
 %% mostly-AI stub; needs rewrite %%
 

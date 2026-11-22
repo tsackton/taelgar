@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-24T09:25:51-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -16,9 +15,8 @@ POV: 1747
 ---
 # Varentia’s Camp
 *(vah-REN-tee-ah)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (building, in Northern Provinces)
 
 A Chardonian frontier garrison east of [[Voltara]]. 
 

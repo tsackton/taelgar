@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:22:39-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
@@ -15,9 +14,8 @@ dm_notes: none
 POV: modern
 ---
 # The Brunebeck
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (river, in Duchy of Wisford / Wistel-Enst Watershed)
 
 The Brunebeck is a tributary of the [[Wistel]], joining the river at [[Wisford]]. It arises near the Enst west and north of Eskbridge, and then follows the line of the [[Tyrwinghan Road]] until it joins the Wistel at Wisford. 
 

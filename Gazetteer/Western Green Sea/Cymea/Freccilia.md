@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:59:58-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -14,9 +13,8 @@ POV: modern
 ---
 # Freccilia
 *(FREH-chee-lah)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (river, in Cymea)
 
 A small rushing river in central Cymea, flowing north from the rocky foothills of the [[Mistfold Mountains]] until it joins the [[Ampogio]] south of the [[Plataca Hills]] and east of the [[Latazaro]].
 

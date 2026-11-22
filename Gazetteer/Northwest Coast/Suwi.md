@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-24T09:25:51-04:00"
 lintVersion: "3.5"
 tags: [place, status/cleanup/whereabouts]
@@ -15,10 +14,9 @@ dm_notes: none
 POV: modern
 ---
 # Suwi
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:grli%% Visited by the [[Silver Tempests]] on August 23th, 1748 in the [[Northwest Coast]] %%^End%%
+*(SOO-wee)*
+> [!taelgar-header]
+> (village, in Northwest Coast)
 
 %% needs a more specific whereabouts but the region is not well developed yet %%
 

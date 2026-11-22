@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -12,9 +11,8 @@ POV: modern
 ---
 # Getxo
 *(GEH-choh)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (lizardfolk settlement, in Lake Rin)
 
 Getxo is a small lizardfolk settlement on the reedy, marshy southwestern shore of [[Lake Rin]].
 

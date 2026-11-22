@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T15:25:54-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -12,9 +11,8 @@ dm_notes: none
 POV: modern
 ---
 # The Emerald Bay
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (bay, in Nevos Sea)
 
 Emerald Bay is a broad bay in the [[Nevos Sea]], south of [[Apporia|the Apporian Peninsula]]. The [[Yeraad]] reaches the sea here, and the southern entrance to the [[Old Chardon Canal]] opens onto the bay near [[Pergia]].
 

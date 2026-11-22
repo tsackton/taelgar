@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T11:35:40-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -14,9 +13,8 @@ POV: modern
 ---
 # Kedron
 *(KEH-dron)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (river, in Cedrano)
 
 The Kedron is the principal river of the province of [[Cedrano]], flowing through the Kedron valley to the sea at [[Castrella]]. Small farming villages and a few productive silver mines exist along the Kedron valley, making it one of the only inhabited and economically productive parts of Cedrano’s interior.
 

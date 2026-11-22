@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/name]
@@ -8,10 +7,9 @@ name: Grey Mists
 whereabouts: Feywild
 POV: modern
 ---
-# Grey Mists
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+# The Grey Mists
+> [!taelgar-header]
+> (region, in Feywild)
 
 The Grey Mists form a magical defense along the western border of [[Twilight's Edge]] in the [[Feywild]]. Their illusions draw travelers from their intended route, while the mists erode memories until intruders may forget why they came—or where they meant to go.
 

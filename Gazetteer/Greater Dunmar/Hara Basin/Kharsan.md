@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {dPast: ""}
@@ -17,10 +16,8 @@ dm_notes: important
 POV: modern
 ---
 # Kharsan
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (city)
 
 %% clean up text; update based on post-Grash, post-Apollyon  changes %%
 

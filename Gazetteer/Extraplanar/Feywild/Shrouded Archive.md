@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -12,9 +11,8 @@ dm_notes: important
 POV: modern
 ---
 # The Shrouded Archive
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (library, in Feywild)
 
 The Shrouded Archive is a hidden library, rumored to be located on the border between [[Everlight's Bloom]], [[Amberglow]], and [[Emberwine]], where it is said that any secret ever spoken or written down can be found, for a price. 
 

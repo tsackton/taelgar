@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags:
   - place
   - status/check/name
@@ -13,8 +12,7 @@ pronunciation: AHZ-kahr
 ---
 # Azkar
 *(AHZ-kahr)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (village, in Forest of Dreams)
 
 %% need to check names and decide where the [[Forest of Dreams]] actually is %%

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T12:50:50-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -16,10 +15,8 @@ POV: 1747
 ---
 # Raha
 *(RAH-hah)*
->[!info]+ Information  
-> pop. 233  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (village, in Highveil Forest)
 
 %%settlement of Deno'qai developed for Great Library campaign, pre-Deno'qai lore, needs some work%%
 

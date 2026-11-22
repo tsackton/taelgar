@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {linkText: at}
@@ -14,9 +13,8 @@ POV: modern
 ---
 # The Melavan Caravanserai
 *(MEH-lah-vahn)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (inn, in Stoneway)
 
 %% located at hex 1606 in Dunmar detail hexmaps. %%
 

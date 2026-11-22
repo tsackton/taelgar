@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T01:11:18-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -13,9 +12,8 @@ dm_notes: color
 POV: modern
 ---
 # The Marches of Enford
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (march, in Western Marches)
 
 %% Some vibes and color information from the undead attacks, as some of them occurred in the marches %%
 

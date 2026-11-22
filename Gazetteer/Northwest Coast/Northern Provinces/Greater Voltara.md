@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T23:55:52-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -15,9 +14,8 @@ dm_notes: none
 POV: 1747
 ---
 # Greater Voltara
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (province, in Northern Provinces / Northwest Coast)
 
 Greater Voltara is the richest and most powerful of the [[Northern Provinces]] of the [[Chardonian Empire]]. The primary city and provincial seat is [[Voltara]], a walled city enriched by nearby [[chalyte]] deposits, and the seat of power of proconsul [[Anton Lavernia]]. 
 

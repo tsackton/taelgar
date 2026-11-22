@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -12,9 +11,8 @@ dm_notes: none
 POV: modern
 ---
 # Emberwine
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (extraplanar domain, in feywild)
 
 Emberwine is a fey realm, south of [[Amberglow]], west of the [[Sunset Gate]], and east of [[Everlight's Bloom]]. It is a realm of revelry and dance, a place where music and wine flow freely. It is a land of rolling vineyards and gentle hills, bathed in the constant golden light of the late afternoon sun. 
 

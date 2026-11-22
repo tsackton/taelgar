@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-11-12T19:02:10-05:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -12,9 +11,8 @@ dm_notes: none
 POV: modern
 ---
 # The Oracle's Pyre
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (landmark, in Cinder Wastes)
 
 A mysterious feature, likely hidden in the Cinder Wastes. 
 

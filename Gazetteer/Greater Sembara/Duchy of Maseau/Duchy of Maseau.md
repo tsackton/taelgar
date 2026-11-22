@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T17:36:36-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/errors, status/check/lint]
@@ -13,9 +12,9 @@ dm_notes: color
 POV: modern
 ---
 # The Duchy of Maseau
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+*(mah-ZOH)*
+> [!taelgar-header]
+> (realm, in Greater Sembara)
 
 %% needs some rewriting and updating, minimally to incorporate comments - the vibe below is also a bit outdated; not clear it was depopulated during the Great War; hobgoblin war context is mostly missing; Avatus context is missing %%
 

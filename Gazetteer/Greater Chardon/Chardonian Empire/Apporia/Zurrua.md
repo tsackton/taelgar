@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T12:50:50-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -14,9 +13,8 @@ POV: modern
 ---
 # Zurrua
 *(TSOO-roo-ah)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (river, in Portalia)
 
 The Zurrua is a minor river in [[Portalia]], west of the [[Old Chardon Canal]]. It is wooded for much of its length, with several lizardfolk settlements. 
 

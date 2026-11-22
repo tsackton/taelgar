@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T06:59:58-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -12,9 +11,8 @@ dm_notes: none
 POV: modern
 ---
 # Godshome
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (ward, in Tollen)
 
 A district in [[Tollen]]. Location of the massive domed [[Temple of the Sibyl (Tollen)|Temple of the Sibyl]], the [[Temple of The Wanderer (Tollen)|Temple of the Wanderer]] with its tall spire, and several other temples and houses of worship, including the Skaer [[Temple of Kaikkea]]. 
 

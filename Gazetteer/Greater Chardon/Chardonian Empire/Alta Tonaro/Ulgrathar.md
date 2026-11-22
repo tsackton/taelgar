@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T15:25:54-04:00"
 lintVersion: "3.5"
 tags: [place, status/gameupdate/dufr, status/check/lint]
@@ -16,9 +15,8 @@ POV: "1749"
 ---
 # Ulgrathar
 *(ool-GRAH-thar)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (kingdom, in Chataan Mountains)
 
 Ulgrathar is a giant realm in the [[Chataan Mountains]]. It is ruled by the stone giant [[Dhrukmir]], who protects his realm from dissidents and intruders with [[Dauthleiptr|Dauðleiptr]].
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:28:01-04:00"
 lintVersion: "3.5"
 tags: [place, status/cleanup/map, status/check/lint]
@@ -12,9 +11,8 @@ dm_notes: none
 POV: modern
 ---
 # The Far North
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (region, in Taelgar)
 
 %% convert map to leaflet %%
 

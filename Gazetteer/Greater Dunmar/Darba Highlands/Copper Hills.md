@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T17:36:36-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -14,9 +13,8 @@ dm_notes: important
 POV: modern
 ---
 # The Copper Hills
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (line of hills, in Darba Highlands / Central Dunmar)
 
 %% TIM: there is significant adventure material in my DM notes, including a haunted tower you never discovered. not sure how much is actually useful but noting for the record %%
 

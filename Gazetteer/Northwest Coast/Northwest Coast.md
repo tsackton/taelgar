@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-24T09:25:51-04:00"
 lintVersion: "3.5"
 tags: [place, status/wip, status/check/ai]
@@ -12,9 +11,8 @@ dm_notes: none
 POV: modern
 ---
 # The Northwest Coast
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (region, in Taelgar)
 
 %% Status:
 * [ ] In world intro

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:59:58-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -15,9 +14,8 @@ POV: modern
 ---
 # Kaldhalla
 *(KAHL-hal-lah)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (monarchy, in Hrimthur)
 
 Kaldhalla is a frost giant kingdom on the northern slopes of the [[Svinjo Mountains]], known as the [[Svinjo Mountains|Hrimthur]] to the giants. It is an ancient kingdom, founded long before humans settled the Green Sea, but since [[Vimfrost's War]] and the death of [[Bjarnfrost]] the Mighty, Kaldhalla has shrunk compared to its former glory. While once the might of Kaldhalla protected much of the [[Great Northern Forest]] from the dragons and other dangers of the north, now, the frost giants rarely leave their mountain strongholds. 
 

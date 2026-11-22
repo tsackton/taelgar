@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:59:58-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -13,9 +12,8 @@ POV: 1740s
 ---
 # Antaka
 *(AHN-tah-kah)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (island, in Skaerhem)
 
 Antaka is a small island dominated by a massive volcano. There are four small villages here, which together make a single district of only 6 oskunja. 
 

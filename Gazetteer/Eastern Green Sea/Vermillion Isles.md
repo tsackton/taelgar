@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:59:58-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -14,9 +13,8 @@ dm_notes: important
 POV: modern
 ---
 # The Vermillion Isles
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (archipelago, in Eastern Isles)
 
 The Vermillion Isles, called Chasoka (*SHA-soh-kah*) by the kenku who inhabit them, are an archipelago in the [[Eastern Isles]] of the eastern Green Sea. These islands are formed primarily from red stone, creating dramatic red cliffs that rise from the ocean, and red stone pillars that dot the scrubby, semi-arid interior of the islands.
 

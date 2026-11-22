@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:04:00-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -12,9 +11,8 @@ dm_notes: color
 POV: modern
 ---
 # The Nayan Floodplains
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (region, in Greater Dunmar)
 
 The broad, flat terrain stretching from the [[Yuvanti Mountains]] west to the [[Nevos Sea]]. A humid, tropical region, with a climate dominated by the annual monsoons that cause the rivers to flood. 
 

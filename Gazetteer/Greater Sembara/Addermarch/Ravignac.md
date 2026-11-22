@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -14,9 +13,8 @@ POV: modern
 ---
 # Ravignac
 *(RAH-veen-yak)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (fortified town, in Bramshire)
 
 %% major castle in hobgoblin wars, since 1650s victory a town has grown up in the sheltered valley below the castle %%
 

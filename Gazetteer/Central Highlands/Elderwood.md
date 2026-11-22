@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:28:01-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
@@ -13,8 +12,8 @@ dm_notes: important
 POV: modern
 ---
 # The Elderwood
->[!info]+ Information
-> A forest in [[Ainumarya]], [[Central Highlands]]
+> [!taelgar-header]
+> (forest, in Ainumarya)
 
 Once the southern extent of [[Ainumarya]]; now inhabited by several Deno'qai tribes: [[Te'kula]], [[Baz'aku]], [[Bek'eni]].
 

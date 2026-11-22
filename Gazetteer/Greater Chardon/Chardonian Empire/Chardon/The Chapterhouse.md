@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T16:50:31-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -12,9 +11,8 @@ dm_notes: none
 POV: 1748
 ---
 # The Chapterhouse
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (inn, in Precinct IV)
 
 A quiet student tavern in [[Precinct IV]], the university district of [[Chardon]].
 

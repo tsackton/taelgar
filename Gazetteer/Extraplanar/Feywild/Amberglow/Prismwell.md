@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -15,9 +14,8 @@ dm_notes: important
 POV: modern
 ---
 # Prismwell
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (well, in Amberglow)
 
 A mysterious well hidden in Amberglow, thought to be the source, or related to, [[Cloudspinner]]'s magic.
 

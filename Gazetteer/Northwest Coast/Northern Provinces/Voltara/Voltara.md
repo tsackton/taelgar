@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-24T09:25:51-04:00"
 lintVersion: "3.5"
 tags: [place, status/cleanup/text, status/gameupdate/grli, status/check/lint]
@@ -15,9 +14,8 @@ dm_notes: important
 POV: 1747
 ---
 # Voltara
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (city, in Greater Voltara / Northwest Coast)
 
 %% copy remaining details from Great Library campaign %%
 

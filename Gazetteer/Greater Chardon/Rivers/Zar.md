@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T12:50:50-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -14,9 +13,8 @@ POV: modern
 ---
 # Zar
 *(ZAR)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (river, in Coastlands)
 
 One of the major rivers of the [[Coastlands]], rising from the [[Beacon Hills]] and flowing west to the [[Endless Ocean]].
 

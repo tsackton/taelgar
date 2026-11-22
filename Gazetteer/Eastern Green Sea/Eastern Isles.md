@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:59:58-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -15,9 +14,8 @@ dm_notes: important
 POV: modern
 ---
 # The Eastern Isles
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (archipelago, in Green Sea / Eastern Green Sea)
 
 Halfling sailors in [[Tollen]] and elsewhere sometimes speak of the faraway islands that stretch across the wide eastern edge of the [[Green Sea]], separating it from the [[Outer Ocean]]. Called the Eastern Isles, or sometimes the Wandering Isles, they are a strange and diverse collection of lands, said to move slowly at the whims of the ocean, sometimes forming new channels and confounding navigation. 
 

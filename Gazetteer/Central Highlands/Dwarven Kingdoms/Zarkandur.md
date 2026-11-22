@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:28:01-04:00"
 lintVersion: "3.5"
 tags: [place, status/cleanup/text, status/check/lint]
@@ -14,9 +13,9 @@ dm_notes: important
 POV: 1740s
 ---
 # Zarkandur
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (city, in Am'khazar)
+
 ## Overview 
 
 **Location**: In the kingdom of Am’khazar, on the western edge of the [[Sentinel Range]], deep underground.

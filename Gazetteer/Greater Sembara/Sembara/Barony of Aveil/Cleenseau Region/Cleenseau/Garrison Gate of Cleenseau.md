@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-29T18:22:03-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -12,9 +11,8 @@ dm_notes: none
 POV: modern
 ---
 # The Garrison Gate of Cleenseau
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (gate, in Cleenseau)
 
 A gate set in the walls near the [[Army Garrison of Cleenseau|garrison of the Army of the West]], it is under military jurisdiction. It is open during the day, and is a common gate for the markets just outside of town.
 

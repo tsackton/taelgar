@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T11:35:40-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -15,10 +14,8 @@ POV: modern
 ---
 # Artevus
 *(ar-TEH-woos)*
->[!info]+ Information  
-> pop. 850  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (town, in Portalia)
 
 Artevus is a small coastal town in northern [[Portalia]], primarily a minor market town for local fisherfolk. A relatively poor town, and somewhat dilapidated, Artevus is something of a sleepy backwater. 
 

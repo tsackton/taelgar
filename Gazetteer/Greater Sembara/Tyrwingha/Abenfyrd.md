@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -16,10 +15,8 @@ POV: modern
 ---
 # Abenfyrd
 *(AY-ben-veered)*
->[!info]+ Information  
-> pop. 450  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (village, in Tyrwingha)
 
 Abenfyrd is a small wooded village along the banks of the [[Aben|Aben River]] known for its timber, and relatively prosperous because of it.
 

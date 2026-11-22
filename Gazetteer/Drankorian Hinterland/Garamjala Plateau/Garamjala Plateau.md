@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T10:36:55-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -13,9 +12,8 @@ POV: modern
 ---
 # The Garamjala Plateau
 *(ga-RUM-ja-la pla-TOH)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (region, in Drankorian Hinterland)
 
 The high interior plateau in the rain shadow of the [[Yuvanti Mountains]], uplifted in the chaos at the end of the Great War. 
 

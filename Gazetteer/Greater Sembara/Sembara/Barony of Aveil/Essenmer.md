@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -15,10 +14,8 @@ POV: modern
 ---
 # Essenmer
 *(Essen-MER)*
->[!info]+ Information  
-> pop. 540  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (village, in Barony of Aveil)
 
 A village on the [[Great South Road]], known for its grand inn. A common stopping spot for travelers between [[Cleenseau]] and [[Rinburg]].
 

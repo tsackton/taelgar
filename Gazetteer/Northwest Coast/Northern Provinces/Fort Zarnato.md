@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T23:55:52-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -16,9 +15,8 @@ POV: 1748
 ---
 # Fort Zarnato
 *(FORT zahr-NAH-toh)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (fort, in Northern Provinces)
 
 The northeastern‑most border fort of the [[Chardonian Empire]] in the [[Northern Provinces]], commanded by [[Soria Caronius]].
 

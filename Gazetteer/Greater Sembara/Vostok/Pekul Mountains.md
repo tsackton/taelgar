@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T06:59:58-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -14,9 +13,8 @@ POV: modern
 ---
 # The Pekul Mountains
 *(PEH-kool MOUN-tinz)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (mountain range, in Vostok)
 
 The Pekul Mountains are a mountain range between the [[Zimkova Highlands]] and the [[Vostok Plateau]], west of [[Lake Pekul]].
 

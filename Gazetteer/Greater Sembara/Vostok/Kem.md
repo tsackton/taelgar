@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T06:59:58-04:00"
 lintVersion: "3.5"
 displayDefaults: {prep: "on", defArt: the}
@@ -15,9 +14,8 @@ POV: modern
 ---
 # The Kem
 *(KEM)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (river, in Vostok)
 
 The Kem is a river in [[Vostok]] that receives the [[Niva]] and flows into the [[Green Sea]]. Its lower valley is one of the principal inhabited areas of southern Vostok.
 

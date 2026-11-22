@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:59:58-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -14,9 +13,8 @@ dm_notes: none
 POV: modern
 ---
 # Arryn's Tower
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (tower, in Eastern Isles)
 
 %%copy notes from OneDrive from Wellby solo%%
 

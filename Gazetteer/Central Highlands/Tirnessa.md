@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:28:01-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -18,10 +17,8 @@ POV: modern
 ---
 # Tirnessa
 *(TEER-ness-ah)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:grli%% Explored by the [[Silver Tempests]] on November 19th, 1747 %%^End%%
+> [!taelgar-header]
+> (fort, in Highveil Forest)
 
 Tirnessa is an ancient elven fort within the [[Highveil Forest]], now ruined. 
 

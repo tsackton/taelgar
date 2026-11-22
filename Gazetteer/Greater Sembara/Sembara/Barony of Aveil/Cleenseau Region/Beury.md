@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -15,10 +14,8 @@ POV: 1720s
 ---
 # Beury
 *(BUH-ree)*
->[!info]+ Information  
-> pop. 492  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (village, in Manor of Beury)
 
 A large farming village six miles downriver of [[Cleenseau]] and the principal (and only) village in the [[Manor of Beury]]. There are about ninety sturdy houses here, many of which predate the [[Third Hobgoblin War (Sembara)|hobgoblin wars]], although the village was abandoned for several years in the 1640s.
 

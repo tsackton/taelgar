@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -16,10 +15,8 @@ POV: 1720s
 ---
 # Dallet
 *(da-LEH)*
->[!info]+ Information  
-> pop. 308  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (village, in Barony of Aveil)
 
 A pastoral village known for its sheep and the first village east of [[Beury]] along the [[Enst]]. It is built about 500 feet north of the main road, and has three notable buildings: the large manor house, a blacksmith, and a mill. The area east of Dallet along the [[Enst]] is good pasture, although there are no river crossings here and the area south of the [[Enst]] is largely unpopulated scrublands.
 

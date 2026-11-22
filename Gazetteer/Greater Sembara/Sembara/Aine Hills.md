@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags:
   - place
 campaignInfo:
@@ -11,8 +10,7 @@ dm_owner: none
 typeOfAlias: line of hills
 ---
 # The Aine Hills
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (line of hills, in Highlands)
 
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -11,9 +10,8 @@ dm_notes: none
 POV: modern
 ---
 # The Cinder Wastes
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (region, in Elemental Plane of Fire)
 
 A mysterious region rumored to exist in the Elemental Plane of Fire. 
 

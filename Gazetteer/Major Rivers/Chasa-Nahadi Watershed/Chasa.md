@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T12:50:50-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -17,9 +16,8 @@ POV: modern
 ---
 # Chasa
 *(CHA-sa)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (river, in Greater Chardon / Chasa-Nahadi Watershed)
 
 %% the [[Chasa River Valley]] note has most useful details about the region %%
 

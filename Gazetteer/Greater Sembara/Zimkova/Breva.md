@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-05T16:06:33-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint, status/stub]
@@ -11,9 +10,8 @@ dm_notes: none
 POV: modern
 ---
 # Breva
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (realm, in Zimkova)
 
 A Zimkovan kingdom.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T06:59:58-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -14,9 +13,8 @@ dm_notes: none
 POV: modern
 ---
 # The Temple of the Wanderer (Tollen)
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (temple, in Tollen)
 
 The Temple of the Wanderer in [[Tollen]] is one of the largest and most ambitious Mos Numena temples in the city, a great stone church crowned by a massive spire and belltower that dominates the skyline of [[Godshome]].
 

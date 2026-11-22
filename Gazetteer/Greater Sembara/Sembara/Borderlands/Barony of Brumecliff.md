@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T01:11:18-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -14,9 +13,8 @@ POV: modern
 ---
 # The Barony of Brumecliff
 *(Broom-cliff)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (barony, in Borderlands)
 
 Brumecliff is one of several small border baronies south of the [[Enst]]. It was founded by [[Cece I]] in the aftermath of the [[Third Hobgoblin War (Sembara)|hobgoblin wars]] in land that was historically part of the [[Barony of Vaubonne]].
 

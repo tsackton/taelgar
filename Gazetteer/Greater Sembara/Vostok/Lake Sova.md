@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T06:59:58-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -15,9 +14,8 @@ POV: modern
 ---
 # Lake Sova
 *(LAYK SOH-vah)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (lake, in Vostok)
 
 Lake Sova is a lake in north-central [[Vostok]], within the [[Kem]]–[[Niva]] drainage system.
 

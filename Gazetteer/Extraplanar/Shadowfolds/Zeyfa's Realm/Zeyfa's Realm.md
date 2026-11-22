@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -11,8 +10,8 @@ POV: 1730
 ---
 # Zeyfa's Realm
 *(ZAY-fahz RELM)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+> [!taelgar-header]
+> (extraplanar domain)
 
 Zeyfa’s Realm is an isolated extraplanar realm of mist-bound cliffs, floating islands, and ice, containing the village of [[Melusa]] and [[Zeyfa's Labyrinth]]. The fey lord [[Forquarion]] rules Melusa from a floating palace of ice.
 

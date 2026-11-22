@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:04:00-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -15,9 +14,8 @@ POV: modern
 ---
 # Rudhan
 *(RUDH-un)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (river, in Coastal Dunmar)
 
 The Rudhan is the principal river of [[Coastal Dunmar]], rising in the uplands of the [[Rudhan Heights]] and flowing southwest across the [[Darba Highlands]] to the [[Nevos Sea]]. Monsoon rains swell the river in summer, flooding riparian forests; in winter its flow slackens, exposing gravel bars and quiet eddies.
 

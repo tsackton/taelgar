@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T15:25:54-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -16,9 +15,8 @@ POV: modern
 ---
 # Fort Varian
 *(VAH-ree-ahn)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (fort, in Portalia)
 
 Fort Varian guards the northern mouth of the [[Old Chardon Canal]], where the canal meets the [[Gulf of Chardon]]. It is built on a small island in the marshlands, but has no accessible harbor for merchant ships or travelers.  Services and a safe port may be found nearby at [[Nevium]]. 
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:22:39-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
@@ -15,9 +14,8 @@ dm_notes: none
 POV: modern
 ---
 # The Velan
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (river, in Addermarch / Wistel-Enst Watershed)
 
 The Velan is a slow, calm river that rises near the lower faces of [[Westcliff]], swings north through open forest and orchards, and then bends south to meet the [[Aure]] not far from [[Adderfell]]. 
 

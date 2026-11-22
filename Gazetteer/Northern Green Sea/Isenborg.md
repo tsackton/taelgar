@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:59:58-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -15,9 +14,8 @@ POV: modern
 ---
 # Isenborg
 *(EE-zen-borg)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (steading, in Kaldhalla)
 
 Isenborg is the primary steading of [[Kaldhalla]], and the hall of the king, [[Brimskarda]]. 
 

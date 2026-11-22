@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T16:50:31-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -12,9 +11,8 @@ dm_notes: none
 POV: 1740s
 ---
 # The Salty Squid
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (inn, in Chardon)
 
 A sailor's tavern in the port district of Chardon.
 

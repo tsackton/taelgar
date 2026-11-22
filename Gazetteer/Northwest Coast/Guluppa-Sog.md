@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T23:55:52-04:00"
 lintVersion: "3.5"
 displayDefaults: {startStatus: settled, endStatus: abandoned, dPastHasStart: "<start:u> <startDate>, <end> <endDate>"}
@@ -19,10 +18,8 @@ POV: modern
 ---
 # Guluppa-Sog
 *(goo-LUP-pa sog)*
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (village, in Zarnato)
 
 Guluppa-Sog, as the bullywugs call it, loosely meaning "the settlement by the southern still-water", was a small [[Bullywugs|bullywug]] settlement on the [[Zarnato]], upriver from the [[Fort Zarnato]]. It was settled by bullywugs from the area around [[Blackwater Fens]] fleeing [[Nymthrax]].
 

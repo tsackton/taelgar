@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:04:00-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -14,9 +13,8 @@ POV: modern
 ---
 # The Myraeni Gap
 *(my-RAY-nee GAP)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (line of hills, in Greater Dunmar)
 
 An area of scrubby hills and rough terrain on the border of [[Dunmar]] and the [[Chardonian Empire]], between the [[Sentinel Range|Sentinels]] and the [[Chataan Mountains]]. 
 %%

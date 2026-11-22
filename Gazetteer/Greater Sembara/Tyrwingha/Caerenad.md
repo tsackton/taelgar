@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -14,9 +13,8 @@ POV: modern
 ---
 # Caerenad
 *(KAI-re-nad)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (town, in Tyrwingha)
 
 Caerenad is a small Tyrwinghan town on the road between [[Eskbridge]] and [[Tafolwern]], roughly a three-day journey south of Eskbridge, and near where the road crosses the [[Enad]], a brook that eventually joins the [[Rhewin]] just north of the [[Tyrwinghan Road]].
 

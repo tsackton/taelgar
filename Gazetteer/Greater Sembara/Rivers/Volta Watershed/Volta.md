@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:22:39-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -15,9 +14,8 @@ dm_notes: none
 POV: modern
 ---
 # Volta
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (river, in Greater Sembara / Volta Watershed)
 
 A major river that was historically a border between the [[Sembara|Sembaran]] and [[Zimkova|Zimkovan]] cultural influences. The upper reaches of the Volta in particular have always been a center of [[Kestavo|kestavan]] religious practice. 
 

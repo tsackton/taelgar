@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T15:25:54-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -14,9 +13,8 @@ POV: modern
 ---
 # Cedrano
 *(KEH-dran-oh)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (province, in Chardonian Empire)
 
 Cedrano is a coastal province in the [[Chardonian Empire]], one of the three Apporian Provinces, located on the northeast coast of the [[Apporia|Apporian Peninsula]], across the [[Gulf of Chardon]] from [[Chardon]]. 
 

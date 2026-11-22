@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T01:11:18-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -14,9 +13,8 @@ dm_notes: none
 POV: modern
 ---
 # Embry
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (city, in Duchy of Sembara)
 
 Embry is the capital city of [[Sembara]], perched on a bluff above the [[Semb]]. It is the seat of the royal court, and a busy river port where grain and wool from upriver are unloaded from barges and sold on to [[Tollen|Tollender]] and [[Halflings|halfling]] merchants bound for [[Tollen]] and the wider [[Green Sea]]. 
 

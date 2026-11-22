@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:22:39-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -15,9 +14,8 @@ POV: modern
 ---
 # Velassë
 *(veh-LAH-sseh)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (river, in Istaros Watershed)
 
 Flowing south from [[Orenlas]], this is known as the "river of the elves" and few reliable reports exist as to its character. It flows into [[Lathirion Lake]] and emerges from the lake as the [[Thalurien|Thalúrien]].
 

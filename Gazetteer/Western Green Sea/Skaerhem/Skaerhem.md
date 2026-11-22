@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:59:58-04:00"
 lintVersion: "3.5"
 tags: [place, status/cleanup/text, status/check/lint]
@@ -12,9 +11,8 @@ dm_notes: color
 POV: modern
 ---
 # Skaerhem
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (region, in Western Green Sea)
 
 %% needs just a little bit of rewriting to incorporate history and some other random bits of discussion scattered across various places %%
 

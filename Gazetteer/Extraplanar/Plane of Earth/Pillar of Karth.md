@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -14,9 +13,8 @@ POV: modern
 ---
 # The Pillar of Karth
 *(PIL-er uv KARTH)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (spire, in Elemental Plane of Earth)
 
 The Pillar of Karth is a landmark of the [[Elemental Plane of Earth]]. It is a towering spire of impossibly hard stone that vibrates slightly with the resonances of a hidden song of the earth.
 

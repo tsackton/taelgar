@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:04:00-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -14,9 +13,8 @@ POV: modern
 ---
 # Samtal
 *(SUM-tuhl)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (grassland, in Eastern Dunmar)
 
 The Samtal is the Dunmari name for the northern plains that stretch from the [[Hara Basin]] east along the foothills of the [[Sentinel Range|Sentinels]], north of the [[Karawa Desert]].
 

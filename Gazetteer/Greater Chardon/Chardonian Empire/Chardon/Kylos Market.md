@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:28:01-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -10,11 +9,10 @@ pronunciation: KEE-lohs MAR-kit
 whereabouts: South Bank
 POV: modern
 ---
-# Kylos Market
+# The Kylos Market
 *(KEE-lohs MAR-kit)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (market, in South Bank)
 
 Kylos Market is a major market and busy plaza in Precinct X.
 

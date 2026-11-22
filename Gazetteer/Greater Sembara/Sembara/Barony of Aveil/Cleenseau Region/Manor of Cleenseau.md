@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -13,10 +12,8 @@ dm_notes: none
 POV: modern
 ---
 # The Manor of Cleenseau
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (manor, in Barony of Aveil)
 
 The town of Cleenseau has an ancient history, but during the [[Third Hobgoblin War (Sembara)|Third Hobgoblin War]] the entire [[Cleenseau Region]] was overrun by hobgoblins, and the existing inhabitants slaughtered or fled. In the aftermath of the war, no heirs could be found and so the manor, as [[Land Holding in Sembara|crownland]], reverted to the [[Barony of Aveil]]. [[Cece I]] granted it to [[Reginald Essford]], a decorated soldier and dedicated lord who worked diligently to repopulate the land.
 

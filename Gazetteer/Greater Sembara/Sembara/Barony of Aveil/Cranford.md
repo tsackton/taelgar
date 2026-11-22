@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -15,10 +14,8 @@ POV: modern
 ---
 # Cranford
 *(Cran-ford)*
->[!info]+ Information  
-> pop. 654  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (town, in Barony of Aveil)
 
 A bustling village which has grown rapidly since 1681 when a bridge was built over the [[Cranmere|Cranmère]]. It has a small unnamed inn which caters to travelers, and the temple of [[The Warlord]] that was destroyed in the [[Undead Attacks in Sembara]].
 

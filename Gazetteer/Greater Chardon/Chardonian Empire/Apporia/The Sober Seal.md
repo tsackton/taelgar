@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T15:25:54-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -13,9 +12,8 @@ dm_notes: none
 POV: modern
 ---
 # The Sober Seal
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (tavern, in Castrella)
 
 The Sober Seal is a rowdy dockside tavern in [[Castrella]]. It is loud and bustling and a popular location for sailors, known more for its beer than food. 
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:59:58-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -15,9 +14,8 @@ POV: modern
 ---
 # K'eye
 *(keh-EYE)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (river, in Forest of Nightmares)
 
 The northernmost of the two rivers that cross what is now the [[Forest of Nightmares]]. Called the Red River, so named for the reddish silt carried from the vast pine forests in the highlands.
 

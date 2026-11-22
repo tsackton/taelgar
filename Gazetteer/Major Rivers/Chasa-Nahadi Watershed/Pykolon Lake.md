@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:22:39-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -17,9 +16,8 @@ POV: modern
 ---
 # Pykolon Lake
 *(PIE-koh-lon)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (lake, in Erbalta Plains / Chasa-Nahadi Watershed)
 
 A small lake nestling in a hilly region on the western edge of the [[Erbalta Plains]]; the source of the [[Kelvaros]] and a frequent stop-over place for migrating [[Centaurs]]. 
 

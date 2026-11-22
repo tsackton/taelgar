@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 tags: [status/cleanup/text, place, status/check/lint, status/check/ai]
@@ -13,10 +12,8 @@ dm_notes: important
 POV: 1720s
 ---
 # Ashcombe
->[!info]+ Information  
-> pop. 237  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (logging village, in Barony of Aveil)
 
 %% 
 The small village of Ashcombe is up in the Maudor Hills and is the heart of fey hunter plot line:

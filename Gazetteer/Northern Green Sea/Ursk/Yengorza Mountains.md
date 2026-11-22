@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:59:58-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/name]
@@ -14,9 +13,8 @@ POV: modern
 ---
 # Yengorza
 *(yen-GOR-za)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (mountain range, in Ursk)
 
 Yengorza is a rugged mountain range along the northern border of [[Ursk]], south of the [[Ket]]. Its highlands contain glaciers and give rise to rivers including the [[Dalinka]] and [[Beyil]], which flow toward the [[Green Sea]].
 

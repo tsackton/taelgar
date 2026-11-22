@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:22:39-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
@@ -17,9 +16,8 @@ POV: modern
 ---
 # The Aben
 *(AY-ben)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (river, in Tyrwingha)
 
 The largest river in Tyrwingha, it runs out of the [[Maerwyn Mountains|Maerwyns]] towards [[Tafolwern]]. The headwaters of the Aben are a hilly land of many small streams and good timber; there is also a major garrison of the [[Army of Mostreve]], the [[Aben Garrison]].
 

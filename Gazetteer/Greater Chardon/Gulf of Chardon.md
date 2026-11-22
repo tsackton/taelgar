@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T16:50:31-04:00"
 lintVersion: "3.5"
 displayDefaults: {wSecondary: "Controlled by <secondary:1>"}
@@ -17,9 +16,8 @@ POV: modern
 ---
 # The Gulf of Chardon
 *(gulf of CHAR-din)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (gulf, in Endless Ocean / Chardonian Empire)
 
 The Gulf of Chardon is the name for the sheltered body of water formed by the [[Apporia]] to the west and south, and the mainland to the east. 
 

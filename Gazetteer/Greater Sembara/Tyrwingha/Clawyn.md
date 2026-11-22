@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -16,10 +15,8 @@ POV: 1720
 ---
 # Clawyn
 *(CLOW-in)*
->[!info]+ Information  
-> pop. 290  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (village, in Tyrwingha)
 
 A small village a few days ride south of [[Tafolwern]], in the gentle northern slopes of the [[Tyrwinghan Hills]], known for its vineyards and wine. There is little here other than a small temple to the Mother. Wine is Clawyn's principal export. The village relies on nearby [[Nefyn]] for grain and some other supplies; it has a potter, smith, cooper, and weaver of its own. Glass wine bottles, salt, and metal for smithing are brought in from elsewhere.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:28:01-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -16,9 +15,8 @@ POV: modern
 ---
 # Kayzad
 *(KAY-zahd)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (river, in Elderwood / Yeraad River Basin)
 
 A small river that flows south from the Elderwood, joining the [[Yeraad]] on the southern outskirts of the [[Elderwood]].
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:59:58-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -14,9 +13,8 @@ dm_notes: color
 POV: 1740s
 ---
 # The Reaver Coast
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (hobgoblin realm, in Irrla)
 
 The Reaver Coast occupies the eastern point of [[Irrla]], where competing hobgoblin pirate clans raid shipping on the [[Green Sea]]. Beginning in the early DR 1740s, the [[Skullcleaver Clan]] has increasingly dominated the territory and control of the Reaver Coast, and begun to support more organized piracy from protected harbors. 
 

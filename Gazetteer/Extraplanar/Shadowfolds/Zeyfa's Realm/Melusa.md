@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-05T23:30:02-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/mike]
@@ -14,9 +13,8 @@ POV: 1730
 ---
 # Melusa
 *(meh-LOO-sah)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (village, in Zeyfa's Realm)
 
 Melusa is an isolated [[Zimka]] village of 400-500 people in [[Zeyfa's Realm]], a mist-bound place whose cliffs and floating islands resemble the [[Great Chasm]]. Its inhabitants speak Old Zimkovan and live under the fey lord [[Forquarion]], whom they call Malquin the Vaqar.
 

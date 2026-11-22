@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -15,9 +14,8 @@ dm_notes: color
 POV: modern
 ---
 # Tharn Todor
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (city, in Nardith)
 
 %% some details in various notes from one shots with Riswynn, but otherwise just needs a bit of development %%
 

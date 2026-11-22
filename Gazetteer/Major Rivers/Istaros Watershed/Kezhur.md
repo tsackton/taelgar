@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:22:39-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/name, status/check/lint]
@@ -14,9 +13,8 @@ POV: modern
 ---
 # Kezhur
 *(keh-ZHOOR)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (river, in Istaros Watershed)
 
 
 The Kezhur is an eastern tributary of the [[Istaros]], joining it near the northern border of [[Xurkhaz]]. Its confluence marks the transition between the upper Istaros and the middle reach known as the Drogar.

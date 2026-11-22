@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-28T23:44:57-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -13,9 +12,9 @@ dm_notes: none
 POV: modern
 ---
 # Brantor
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+*(BRAN-tor)*
+> [!taelgar-header]
+> (village, in Carlinshire)
 
 A small village about a half-day's walk from [[Roscombe]], notable primarily as the home of [[Caradoc]]. 
 

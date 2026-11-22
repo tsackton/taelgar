@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T15:25:54-04:00"
 lintVersion: "3.5"
 displayDefaults: {wHome: "<ancestry:UA> <subtypeof:UA> <typeof:UA> <(of )primary> <home:3Fq>"}
@@ -15,9 +14,8 @@ POV: "1749"
 ---
 # The Chalyte Levels
 *(CHAY-lite)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (neighborhood, in North Bank)
 
 The Chalyte Levels is the low-lying riverbank area, nestled between the western part of the [[North Wall (Chardon)|North Wall]] and the banks of the [[Chasa]]. This area is largely slums, with many decrepit dwellings converted from old barracks built during the [[Blood Years]]. 
 

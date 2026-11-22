@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -12,9 +11,8 @@ POV: modern
 ---
 # Mirabelle
 *(mee-rah-BELL)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (village, in Lake Rin)
 
 Mirabelle is the smallest of the villages on the northwestern shore of [[Lake Rin]], near the [[Enst]].
 

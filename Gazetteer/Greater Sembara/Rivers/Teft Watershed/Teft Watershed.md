@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:22:39-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -14,9 +13,8 @@ POV: modern
 ---
 # The Teft Watershed
 *(TEFT WAW-ter-shed)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (watershed, in Greater Sembara)
 
 The Teft watershed drains northwestern [[Sembara]] into the [[Western Gulf]]. Its principal river, the [[Teft]], gathers swift mountain waters from the [[Sentinel Range|Sentinels]] before plunging through the [[Great Chasm]] on its way to the sea north of [[Embry]]. Few of the rivers in this watershed are navigable, and the Teft and its tributaries often function as barriers to movement and serve as borders. 
 

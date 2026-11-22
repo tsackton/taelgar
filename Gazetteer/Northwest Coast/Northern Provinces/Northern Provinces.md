@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-24T09:25:58-04:00"
 lintVersion: "3.5"
 tags: [place, status/gameupdate/grli, status/check/lint]
@@ -14,9 +13,8 @@ dm_notes: none
 POV: 1740s
 ---
 # The Northern Provinces
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (group of provinces, in Chardonian Empire / Northwest Coast)
 
 The Northern Provinces refer to the collection of provinces of the [[Chardonian Empire]] north of [[Lake Valandros]]. With the exception of the immediate vicinity around the north shore of the lake (south of the confluence of the [[Snake River]] and the [[Zarnato]]), this is largely lightly settled frontier land, repopulated by Chardonian settlers over the last century. The major economic engine of the Northern Provinces is [[chalyte]], mined extensively near [[Voltara]]. 
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:22:39-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
@@ -15,9 +14,8 @@ dm_notes: none
 POV: modern
 ---
 # The Clavert
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (river, in Borderlands / Wistel-Enst Watershed)
 
 The Clavert flows north from the flanks of [[Westcliff]] to the [[Enst]].
 

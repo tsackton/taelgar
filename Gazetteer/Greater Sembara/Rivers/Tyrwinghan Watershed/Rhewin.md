@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:22:39-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
@@ -15,9 +14,8 @@ POV: modern
 ---
 # The Rhewin
 *(RHEH-win)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (river, in Tyrwingha)
 
 The Rhewin is the westernmost of the principal rivers of the [[Tyrwinghan Watershed]], flowing through western [[Tyrwingha]]. The [[Enad]] brook joins the Rhewin just north of the [[Tyrwinghan Road]], near [[Caerenad]].
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T16:50:31-04:00"
 lintVersion: "3.5"
 tags: [place, status/cleanup/metadata, status/check/lint]
@@ -13,10 +12,8 @@ dm_notes: important
 POV: modern
 ---
 # Kin-Aska
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (city, in Chasa River Valley)
 
 %% confirm destroyed date with info on the wars in the west after the defeat of Cha'mutte %%
 %% confirm pre-Great-War culture here with West Coast notes%%

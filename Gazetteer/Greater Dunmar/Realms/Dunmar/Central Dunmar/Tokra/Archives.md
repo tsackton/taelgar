@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {startStatus: Built}
@@ -15,10 +14,8 @@ dm_notes: none
 POV: modern
 ---
 # The Archives of Tokra
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (library, in Tokra)
 
 ![[tokra-archives.png|600]]
 

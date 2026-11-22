@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -15,9 +14,8 @@ POV: modern
 ---
 # Garn Tyrn
 *(GARN TEERN)*
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (mountain peak, in Maerwyn Mountains)
 
 Garn Tyrn is one of the highest mountain peaks in the [[Maerwyn Mountains]]. An ancient line of border stones marking the boundary between [[Addermarch]] and [[Tyrwingha]] runs to the peak.
 

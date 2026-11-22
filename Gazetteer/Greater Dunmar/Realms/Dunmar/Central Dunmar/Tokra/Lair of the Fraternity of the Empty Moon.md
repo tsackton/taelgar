@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:04:00-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -13,9 +12,8 @@ dm_notes: important
 POV: 1748
 ---
 # The Lair of the Fraternity of the Empty Moon
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (lair, in Tokra)
 
 A secret lair used by the [[Fraternity of the Empty Moon]] in or near [[Tokra]]. The complex comprises narrow stairwells, concealed entries, and chambers carved into older foundations, including antechambers with statuary and ritual spaces marked with sigils associated with the plane of [[Pandemonium]] and the cult’s imagery of the Betrayer or “Empty” Moon. 
 

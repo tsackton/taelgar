@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
 displayDefaults: {wSecondary: "<typeof:Ua> <secondary:q>", wHome: "<typeof:Ua> <home:q>"}
@@ -15,9 +14,8 @@ dm_notes: none
 POV: modern
 ---
 # The Tangled Vale
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (fey portal, in Wildrun / Tawir Forest)
 
 The Tangled Vale is one of the four fey portals described in [[The Lore of the Feywild]]. It appears as a sheltered pocket of moss and small flowers within a dense brier of tangled thorns, and entering it is said to feel like stepping into a bright painting.
 

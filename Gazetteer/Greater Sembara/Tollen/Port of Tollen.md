@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T06:59:58-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -12,9 +11,8 @@ dm_notes: none
 POV: modern
 ---
 # The Port of Tollen
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (port, in Tollen)
 
 The Port of Tollen, properly the Ports of Tollen, describes the extensive harbors, quays, and docks that support Tollen's maritime and river trade. The Port of Tollen is divided by the arches of the [[Tollen Bridge]], which form a hard barrier to navigation, preventing tall-masted oceanic ships from sailing beyond it. 
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T23:55:52-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -15,9 +14,8 @@ POV: modern
 ---
 # The Fiatara Mountains
 *(fya-TAH-rah)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (mountain range, in Northwest Coast)
 
 The principal northern range of the [[Northwest Coast]], marked by steep, rocky ridges, heavy snows, and glaciers on the highest summits. Beneath many of these peaks lie extensive pre‑Great War Dwarven excavations. These underways and vaults were widely abandoned during or after the [[Great War]], and many stand empty or have since been taken over by dangerous creatures.
 

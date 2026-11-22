@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T01:11:18-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -12,9 +11,8 @@ dm_notes: none
 POV: modern
 ---
 # The Barony of Serest
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (barony, in Borderlands)
 
 A small barony between the [[Barony of Montse|Barony of Montsé]] and the [[Barony of Chantelierre]]. It was founded along with numerous other baronies in the borderlands in the aftermath of the [[Third Hobgoblin War (Sembara)|hobgoblin wars]] by [[Cece I]].
 

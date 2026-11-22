@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T23:55:52-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -15,9 +14,8 @@ POV: 1747
 ---
 # Eskorola
 *(es-ko-ROH-lah)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (village, in Tzingola)
 
 Eskorola is a small community nestled on the southern end of the [[Tzingola|Tzingola Marshes]], an extensive coastal salt marsh north of [[Hamri]]. About 50-60 huts and scattered outlying dwellings, mostly built on stilts above marsh channels and relying on the vegetation to protect them from storm surges, house a hundred or so lizardfolk inhabitants. 
 

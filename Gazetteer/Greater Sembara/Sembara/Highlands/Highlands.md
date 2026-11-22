@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T11:35:40-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
@@ -14,9 +13,8 @@ dm_notes: none
 POV: 1710s
 ---
 # The Highlands
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (region, in Sembara)
 
 %%  status/errors -> Should be reconsidered in light of the rethinking of the history of humanity in the region; the changes in how Tollen-Zimka-Semb valley interact may have changed some of the below; the modern vibes are likely still good though %%
 

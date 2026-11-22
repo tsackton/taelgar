@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T10:36:55-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -12,9 +11,8 @@ dm_notes: important
 POV: modern
 ---
 # Uzgukhar
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (city, in Xurkhaz)
 
 Uzgukhar is the capital and primary city of the kingdom of [[Xurkhaz]], home of the [[People of the Rainbow]]. It is a desert city, nestled between the [[Kulthul]] and the [[Istaros]] rivers, consisting largely of mud brick buildings decorated with colorful murals and intricate carvings.
 

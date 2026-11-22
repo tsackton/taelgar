@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:28:01-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -15,9 +14,8 @@ POV: 1740s
 ---
 # Illoria
 *(ih-LOHR-ee-ah)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (archipelago, in Nevos Sea)
 
 %% Territorial scope for review: the opening describes Illoria as conquered, while [[Nevos and Apporia#Civilizations and Cultures]] explicitly leaves the southern islands unconquered. [[Chardonian Empire#Rule and Administration]] describes Illoria as a vassal state with local autonomy. The extent of the protectorate needs reconciliation; no territorial boundary is selected here. %%
 
