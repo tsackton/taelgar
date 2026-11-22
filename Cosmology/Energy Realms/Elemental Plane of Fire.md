@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:38:37-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -13,11 +12,8 @@ dm_notes: none
 POV: modern
 ---
 # The Elemental Plane of Fire
-
-> [!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`
-> 
-> > `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (plane, in Energy Realms)
 
 The Elemental Plane of Fire is described in the *[[Compendium of Fire]]* as a realm of unrelenting heat and ceaseless flame. It is a place where the ground itself blazes with molten rock, rivers of lava carve paths through burning wastelands, and the air shimmers with an oppressive heat that few can endure. The sky above is alight with a permanent glow, that grows to a white hot furnace during the day, and dims to a red fiery twilight at night. Travelers who enter this plane unprepared for the supernatural heat of this realm are doomed to perish, their bodies scorched beyond recognition.
 
