@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [event]
 name: Treaty of Valarin
 DR: 1430
@@ -9,8 +8,8 @@ typeOf: treaty
 tentativeReason: "unclear if this exists"
 ---
 # The Treaty of Valarin
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> [!taelgar-header]
+> (treaty, 1430)
 
 A treaty between the [[Istabor Alliance]] and [[Sembara]] establishing boundaries.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:02:41-04:00"
 lintVersion: "3.5"
 tags: [power, status/check/lint]
@@ -10,8 +9,8 @@ dm_notes: none
 POV: modern
 ---
 # G'Zab
->[!info]+ Information  
-> A [[High Gods|high god]]
+> [!taelgar-header]
+> (high god)
 
 One of the Three Despairs, the god-like entities born of the Void Mind, the power that seeks to end all things. 
 
