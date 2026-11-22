@@ -1,4 +1,6 @@
 ---
+tags: [status/check/ai]
+campaignType: miniseries
 description: A strange inheritance draws the Tollen Misfits into the Feywild, where they unravel the mystery of the 27th House and the prisoner it was built to hold.
 dm: David Schwartz
 canon: canonical

@@ -1,4 +1,6 @@
 ---
+tags: [status/check/ai]
+campaignType: miniseries
 description: The adventures of Heska, Sculpit, Little Tony, and Zeno, four dragonets from the Circular Island in Taelgar-2, about fifty years after the Godfall.
 dm: David Kong
 canon: canonical

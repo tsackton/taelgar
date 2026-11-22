@@ -1,4 +1,6 @@
 ---
+tags: [status/check/ai]
+campaignType: oneshot
 description: The adventures of Oskar, Riswynn, and their companions in and around the dwarven city of Tharn Todor, during Riswynn’s time away from the Dunmar Fellowship.
 dm: Tim Sackton
 canon: canonical

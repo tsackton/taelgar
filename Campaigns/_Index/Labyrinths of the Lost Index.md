@@ -1,4 +1,6 @@
 ---
+tags: [status/check/ai]
+campaignType: miniseries
 description: The story of four prisoners and their escape from an abandoned manor in western Cymea.
 dm: Tim Sackton
 canon: canonical

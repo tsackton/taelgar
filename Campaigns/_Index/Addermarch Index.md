@@ -1,4 +1,6 @@
 ---
+tags: [status/check/ai]
+campaignType: full
 description: The story of Drou, Fazoth, and Yvan, three adventurers thrown together in the service of Caradoc, a reclusive alchemist living in the highlands of western Addermarch.
 dm: Tim Sackton
 canon: canonical
