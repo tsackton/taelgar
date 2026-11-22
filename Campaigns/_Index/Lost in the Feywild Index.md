@@ -19,6 +19,10 @@ name: Lost in the Feywild
 
 ## Roster
 
+```taelgar-roster
+campaign: feywild
+```
+
 | Player | Player role | Role source | Characters |
 | --- | --- | --- | --- |
 | Tim Sackton | Core | PC notes | [[Txarro]] (member, party affiliation) |
@@ -28,6 +32,15 @@ name: Lost in the Feywild
 | Mike Sackton | Core | PC notes | [[Edric]] (member, party affiliation)<br>[[Mossfoot]] (companion, party affiliation) |
 
 ## Play history
+
+```taelgar-session
+campaign: feywild
+overrides:
+  - number: '0'
+    kind: meeting
+    title: Session 0 organizing meeting
+    played: '2026-04-30'
+```
 
 ### November 2026 register summary
 

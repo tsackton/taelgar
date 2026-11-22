@@ -16,6 +16,19 @@ A voice memo from the reunion weekend may survive.
 
 ## Roster
 
+```taelgar-roster
+campaign: alex2017
+overrides:
+  - character: Eric Rosenbaum
+    player: Eric Rosenbaum
+  - character: David Kong
+    player: David Kong
+  - character: Mike Sackton
+    player: Mike Sackton
+  - character: David Schwartz
+    player: David Schwartz
+```
+
 | Player | Player role | Role source | Characters |
 | --- | --- | --- | --- |
 | Eric Rosenbaum | Core | Manual | Eric Rosenbaum (member) |
@@ -24,6 +37,24 @@ A voice memo from the reunion weekend may survive.
 | David Schwartz | Core | Manual | David Schwartz (member) |
 
 ## Play history
+
+```taelgar-session
+campaign: alex2017
+estimate:
+  dr:
+    label: About 30 years after the Great War
+columns: [session, account, played, dr, people, note, evidence]
+overrides:
+  - number: '1'
+    played:
+      'on': '2017-08-12'
+      qualifier: recalled
+  - number: '2'
+    played:
+      'on': '2017-08-13'
+      qualifier: recalled
+    note: Played for part of Sunday morning during the Alexandria reunion.
+```
 
 %%^Campaign:none%%
 

@@ -20,6 +20,10 @@ name: Into the Chasm
 
 ## Roster
 
+```taelgar-roster
+campaign: chasm
+```
+
 | Player | Player role | Role source | Characters |
 | --- | --- | --- | --- |
 | Tim Sackton | Core | PC notes | [[Finnan Oakstride]] (member, party affiliation) |
@@ -29,6 +33,17 @@ name: Into the Chasm
 | David Schwartz | Core | PC notes | [[Justas Rhostrin]] (member, party affiliation) |
 
 ## Play history
+
+```taelgar-session
+campaign: chasm
+overrides:
+  - number: '3'
+    played: '2025-12-16'
+  - number: '0'
+    kind: meeting
+    title: Session 0 organizing meeting
+    played: '2025-11-06'
+```
 
 ### November 2026 register summary
 

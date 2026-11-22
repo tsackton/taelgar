@@ -14,12 +14,32 @@ name: The Curse on the Bridge
 
 ## Roster
 
+```taelgar-roster
+campaign: tollenfate
+overrides:
+  - player: Eric Rosenbaum
+    role: core
+    draft: true
+  - player: David Schwartz
+    role: core
+    draft: true
+```
+
 | Player | Player role | Role source | Characters |
 | --- | --- | --- | --- |
 | Eric Rosenbaum | Core | Draft | — |
 | David Schwartz | Core | Draft | — |
 
 ## Play history
+
+```taelgar-session
+campaign: tollenfate
+columns: [session, account, played, dr, people, note, evidence]
+overrides:
+  - number: '1'
+    played: '2022-01-09'
+    note: Local date from the recording archive.
+```
 
 %%^Campaign:none%%
 

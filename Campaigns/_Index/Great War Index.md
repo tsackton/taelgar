@@ -18,6 +18,10 @@ name: Great War Campaign
 
 ## Roster
 
+```taelgar-roster
+campaign: greatwar
+```
+
 | Player | Player role | Role source | Characters |
 | --- | --- | --- | --- |
 | Mike Sackton | Core | PC notes | [[Beryl]] (member, party affiliation)<br>[[Willow Wind]] (companion, party affiliation) |
@@ -26,6 +30,23 @@ name: Great War Campaign
 | David Schwartz | Core | PC notes | [[Aerin]] (member, party affiliation) |
 
 ## Play history
+
+```taelgar-session
+campaign: greatwar
+estimate:
+  count: 110
+  first: '1'
+  latest: '110'
+  played:
+    label: Fall 1993 to late spring or early summer 1997
+  dr:
+    from: '1544'
+    through: '1545'
+    qualifier: approximate start year
+  note: The total is based on roughly 140 possible weeks, with missed weeks and stretches of every-other-week
+    play.
+  evidence: '[[Campaigns/Campaign Inventory.md]]'
+```
 
 %%^Campaign:none%%
 

@@ -14,6 +14,18 @@ name: The Haunted Clocktower
 
 ## Roster
 
+```taelgar-roster
+campaign: tollendnd
+overrides:
+  - player: Eric Rosenbaum
+    role: core
+    draft: true
+  - player: John Leeker
+    role: core
+  - player: David Schwartz
+    role: core
+```
+
 | Player | Player role | Role source | Characters |
 | --- | --- | --- | --- |
 | Eric Rosenbaum | Core | Draft | — |
@@ -21,6 +33,15 @@ name: The Haunted Clocktower
 | David Schwartz | Core | Manual | — |
 
 ## Play history
+
+```taelgar-session
+campaign: tollendnd
+columns: [session, account, played, dr, people, note, evidence]
+overrides:
+  - number: '1'
+    played: '2022-04-07'
+    note: Local date from the recording archive.
+```
 
 %%^Campaign:none%%
 

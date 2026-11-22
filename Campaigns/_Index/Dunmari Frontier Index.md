@@ -20,6 +20,11 @@ name: Dunmari Frontier Campaign
 
 ## Roster
 
+```taelgar-roster
+campaign: dufr
+characterPresence: true
+```
+
 | Player | Player role | Role source | Characters |
 | --- | --- | --- | --- |
 | Mike Sackton | Core | PC notes | [[Delwath]] (member, party affiliation)<br>[[Artem Novolozek]] (guest, party affiliation)<br>[[Caulaus]] (guest, party affiliation) |
@@ -33,6 +38,106 @@ name: Dunmari Frontier Campaign
 | Isaac Sackton | Other | PC notes | [[Raven]] (guest, party affiliation) |
 
 ## Play history
+
+```taelgar-session
+campaign: dufr
+columns: [session, account, played, dr, people, note, evidence]
+overrides:
+  - id: session-zero-meeting
+    kind: meeting
+    title: Session 0 organizing meeting
+    date: '2020-04-17'
+    note: Fri 20:30 Eastern.
+  - id: session-zero-point-five-meeting
+    kind: meeting
+    title: Session 0.5 meeting
+    date: '2022-11-22'
+    note: Tue 20:15 Eastern.
+  - id: crown-of-purity-discussion
+    kind: meeting
+    title: Crown of Purity discussion
+    date: '2025-01-14'
+    note: Tue 20:00 Eastern.
+  - number: '4.1'
+    kind: solo
+    title: Wellby and Callie Charmheart at Karawa
+    attendance:
+      - player: David Schwartz
+        character: Wellby
+    played: '2020-07-22'
+    account: '[[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 5 (DuFr).md|Wellby’s account in session
+      5]]'
+  - number: '19'
+    dr: '1748-04-25'
+  - number: '29.1'
+    kind: solo
+    title: Kenzo and Bhishma solo
+    attendance:
+      - player: David Kong
+        character: Kenzo
+    played: '2021-09-05'
+  - number: '31.1'
+    kind: inter-session
+    title: Correspondence after session 31
+    note: Downtime played by text and email, including Seeker’s October 3 Dreamworld journey.
+    played:
+      from: '2021-09-24'
+      through: '2021-10-07'
+      qualifier: possible window
+  - number: '35'
+    note: Local evening of play. Some source records use 2021-12-06 UTC.
+    played: '2021-12-05'
+  - number: '53'
+    note: Local evening of play. Some source records use 2022-07-31 UTC.
+    played: '2022-07-30'
+  - number: '54'
+    note: Local evening of play. Some source records use 2022-08-05 UTC.
+    played: '2022-08-04'
+  - number: '55'
+    note: Local evening of play. Some source records use 2022-08-16 UTC.
+    played: '2022-08-15'
+  - number: '56'
+    note: Local evening of play. Some source records use 2022-09-12 UTC.
+    played: '2022-09-11'
+  - number: '57'
+    note: Local evening of play. Some source records use 2022-09-19 UTC.
+    played: '2022-09-18'
+  - number: '58'
+    note: Local evening of play. Some source records use 2022-09-26 UTC.
+    played: '2022-09-25'
+  - number: '59'
+    note: Local evening of play. Some source records use 2022-10-07 UTC.
+    played: '2022-10-06'
+  - number: '60'
+    note: Local evening of play. Some source records use 2022-10-14 UTC.
+    played: '2022-10-13'
+  - number: '61'
+    note: Local evening of play. Some source records use 2022-10-24 UTC.
+    played: '2022-10-23'
+  - number: '62'
+    note: Local evening of play. Some source records use 2022-10-28 UTC.
+    played: '2022-10-27'
+  - number: '63'
+    note: Local evening of play. Some source records use 2022-11-05 UTC.
+    played: '2022-11-04'
+  - number: '64'
+    note: Local evening of play. Some source records use 2022-11-09 UTC.
+    played: '2022-11-08'
+  - number: '65'
+    note: Local evening of play. Some source records use 2022-11-12 UTC.
+    played: '2022-11-11'
+  - number: '66'
+    note: Local evening of play. Some source records use 2022-11-19 UTC.
+    played: '2022-11-18'
+  - number: '91'
+    note: Local evening of play. Some source records use 2024-01-12 UTC.
+    played: '2024-01-11'
+  - number: '110'
+    dr: '1749-05-19'
+  - number: '119'
+    note: Local evening of play. Some source records use 2025-02-14 UTC.
+    played: '2025-02-13'
+```
 
 %%^Campaign:none%%
 

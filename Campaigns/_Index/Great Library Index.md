@@ -19,6 +19,26 @@ name: Great Library Campaign
 
 ## Roster
 
+```taelgar-roster
+campaign: grli
+overrides:
+  - character: '[[People/PCs/Silver Tempests/Aelar.md]]'
+    kind: associated
+    role: other
+  - character: '[[People/PCs/Silver Tempests/Aglath.md]]'
+    kind: associated
+    role: other
+  - character: '[[People/PCs/Silver Tempests/Alton.md]]'
+    kind: associated
+    role: other
+  - player: Abigail Raiche
+    role: other
+  - character: '[[People/PCs/Other PCs/Oskar''s Companions/Oskar.md]]'
+    kind: guest
+  - character: '[[People/PCs/Other PCs/Oskar''s Companions/Stoneclaw.md]]'
+    kind: companion
+```
+
 | Player | Player role | Role source | Characters |
 | --- | --- | --- | --- |
 | Isaac Sackton | Core | PC notes | [[Adrik]] (member, party affiliation) |
@@ -32,6 +52,420 @@ name: Great Library Campaign
 | Nathaniel Sackton | Other | Manual | [[Oskar]] (guest, manual entry)<br>[[Stoneclaw]] (companion, manual entry) |
 
 ## Play history
+
+```taelgar-session
+campaign: grli
+columns: [session, account, played, dr, people, note, evidence]
+overrides:
+  - number: '0'
+    played:
+      'on': '2019-08-26'
+      qualifier: inferred
+    dr: '1747-02-16'
+    drEnd: '1747-02-16'
+    note: Tim recalls a weekday opening adventure with Isaac and Sasha before session 1.
+    characters:
+      - Adrik
+      - Samso
+    attendance:
+      - player: Tim Sackton
+        role: dm
+      - player: Isaac Sackton
+        character: Adrik
+      - player: Sasha Rosan
+        character: Samso
+  - number: '1'
+    played: '2019-08-27'
+    dr: '1747-04-04'
+    drEnd: '1747-04-05'
+  - number: '2'
+    played:
+      'on': '2019-08-31'
+      qualifier: inferred in order
+    dr: '1747-04-15'
+    drEnd: '1747-04-19'
+  - number: '3'
+    played:
+      'on': '2019-09-15'
+      qualifier: inferred in order
+    dr: '1747-04-26'
+    drEnd: '1747-04-26'
+  - number: '4'
+    played:
+      'on': '2019-11-03'
+      qualifier: inferred in order
+    dr: '1747-05-03'
+    drEnd: '1747-05-07'
+  - number: '5'
+    played:
+      'on': '2019-11-24'
+      qualifier: strongly inferred
+    dr: '1747-05-29'
+    drEnd: '1747-06-01'
+  - number: '6'
+    played:
+      'on': '2020-01-12'
+      qualifier: adopted by Tim
+    dr: '1747-06-02'
+    drEnd: '1747-06-04'
+  - number: '7'
+    played:
+      'on': '2020-02-01'
+      qualifier: adopted by Tim
+    dr: '1747-06-06'
+    drEnd: '1747-06-09'
+  - number: '8'
+    played:
+      from: '2020-02-02'
+      through: '2020-02-29'
+      qualifier: day open
+    dr: '1747-06-10'
+    drEnd: '1747-06-14'
+  - number: '9'
+    played:
+      'on': '2020-03-01'
+      qualifier: strongly inferred
+    dr: '1747-06-22'
+    drEnd: '1747-06-26'
+  - number: '10'
+    played:
+      'on': '2020-03-26'
+      qualifier: confirmed by Tim
+    dr: '1747-06-26'
+    drEnd: '1747-06-27'
+  - number: '11'
+    played:
+      'on': '2020-03-29'
+      qualifier: guess
+    dr: '1747-06-29'
+    drEnd: '1747-07-01'
+  - number: '12'
+    played:
+      'on': '2020-03-30'
+      qualifier: guess
+    dr: '1747-07-02'
+    drEnd: '1747-07-02'
+  - number: '13'
+    played:
+      'on': '2020-04-03'
+      qualifier: inferred in order
+    dr: '1747-07-02'
+    drEnd: '1747-07-02'
+  - number: '14'
+    played:
+      'on': '2020-04-15'
+      qualifier: inferred in order
+    dr: '1747-07-04'
+    drEnd: '1747-07-06'
+  - number: '15'
+    played:
+      'on': '2020-04-23'
+      qualifier: inferred in order
+    dr: '1747-07-06'
+    drEnd: '1747-07-07'
+  - number: '16'
+    played:
+      'on': '2020-05-14'
+      qualifier: inferred
+    dr: '1747-07-08'
+    drEnd: '1747-07-11'
+  - number: '17'
+    played:
+      'on': '2020-05-21'
+      qualifier: inferred in order
+    dr: '1747-07-12'
+    drEnd: '1747-07-15'
+  - number: '18'
+    played:
+      'on': '2020-06-06'
+      qualifier: dated DM notes
+    dr: '1747-07-15'
+    drEnd: '1747-07-19'
+  - number: '19'
+    played:
+      'on': '2020-06-17'
+      qualifier: dated DM notes
+    dr: '1747-07-19'
+    drEnd: '1747-07-20'
+  - number: '20'
+    played:
+      'on': '2020-07-01'
+      qualifier: dated DM notes
+    dr: '1747-07-20'
+    drEnd: '1747-07-20'
+  - number: '21'
+    played:
+      'on': '2020-07-22'
+      qualifier: inferred in order
+    dr: '1747-07-21'
+    drEnd: '1747-07-21'
+  - number: '22'
+    played:
+      'on': '2020-07-29'
+      qualifier: inferred in order
+    dr: '1747-07-21'
+    drEnd: '1747-07-21'
+  - number: '23'
+    played:
+      'on': '2020-08-22'
+      qualifier: inferred in order
+    dr: '1747-07-22'
+    drEnd: '1747-07-23'
+  - number: '24'
+    played:
+      'on': '2020-08-28'
+      qualifier: strongly inferred
+    dr: '1747-07-23'
+    drEnd: '1747-07-23'
+  - number: '25'
+    played:
+      'on': '2020-09-09'
+      qualifier: inferred in order
+    dr: '1747-07-23'
+    drEnd: '1747-07-23'
+  - number: '26'
+    played:
+      'on': '2020-09-25'
+      qualifier: strongly inferred
+    dr: '1747-07-23'
+    drEnd: '1747-07-23'
+  - number: '27'
+    played:
+      'on': '2020-10-09'
+      qualifier: strongly inferred
+    dr: '1747-07-23'
+    drEnd: '1747-07-25'
+  - number: '28'
+    played:
+      'on': '2020-10-23'
+      qualifier: dated DM notes
+    dr: '1747-07-25'
+    drEnd: '1747-07-25'
+  - number: '29'
+    played:
+      'on': '2020-10-30'
+      qualifier: strongly inferred
+    dr: '1747-07-25'
+    drEnd: '1747-07-28'
+  - number: '30'
+    played:
+      label: Late Nov–early Dec 2020
+      qualifier: inferred; by Dec 11
+    dr: '1747-09-15'
+    drEnd: '1747-09-16'
+  - number: '31'
+    played:
+      'on': 2020-12
+      qualifier: inferred; by Jan 3
+    dr: '1747-09-16'
+    drEnd: '1747-09-18'
+  - number: '32'
+    played:
+      label: Late Dec 2020–Jan 2021
+      qualifier: 'inferred; before #33'
+    dr: '1747-09-18'
+    drEnd: '1747-09-18'
+  - number: '33'
+    played:
+      'on': 2021-01
+      qualifier: inferred; by Feb 5
+    dr: '1747-09-18'
+    drEnd: '1747-09-19'
+  - number: '34'
+    played:
+      'on': '2021-02-19'
+      qualifier: inferred
+    dr: '1747-09-20'
+    drEnd: '1747-09-22'
+  - number: '35'
+    played:
+      'on': '2021-03-05'
+      qualifier: tentative
+    dr: '1747-09-22'
+    drEnd: '1747-09-22'
+  - number: '36'
+    played:
+      'on': '2021-03-12'
+      qualifier: tentative
+    dr: '1747-09-22'
+    drEnd: '1747-10-03'
+  - number: '37'
+    played:
+      - 'on': '2021-03-21'
+        qualifier: inferred
+      - 'on': '2021-03-26'
+        qualifier: inferred
+    dr: '1747-10-06'
+    drEnd: '1747-10-06'
+  - number: '38'
+    played:
+      label: Late April 2021
+      qualifier: inferred; Apr 30 candidate
+    dr: '1747-11-10'
+    drEnd: '1747-11-16'
+  - number: '39'
+    played:
+      'on': '2021-05-23'
+      qualifier: inferred
+    dr: '1747-11-16'
+    drEnd: '1747-11-21'
+  - number: '40'
+    played:
+      'on': '2021-06-04'
+      qualifier: inferred in order
+    dr: '1747-11-22'
+    drEnd: '1747-11-22'
+  - number: '41'
+    dr: '1747-11-22'
+    drEnd: '1747-12-03'
+  - number: '42'
+    dr: '1747-12-05'
+    drEnd: '1747-12-13'
+  - number: '43'
+    dr: '1747-12-13'
+    drEnd: '1747-12-13'
+  - number: '44'
+    played:
+      label: Summer 2021
+      qualifier: day open
+    dr: '1747-12-14'
+    drEnd: '1747-12-14'
+  - number: '45'
+    played:
+      'on': '2021-09-03'
+      qualifier: tentative
+    dr: '1747-12-14'
+    drEnd: '1747-12-14'
+  - number: '46'
+    played:
+      'on': 2021-09
+      qualifier: tentative; day open
+    dr: '1747-12-14'
+    drEnd: '1747-12-14'
+  - number: '47'
+    played:
+      'on': 2021-10
+      qualifier: tentative; day open
+    dr: '1747-12-14'
+    drEnd: '1747-12-15'
+  - number: '48'
+    dr: '1747-12-15'
+    drEnd: '1747-12-15'
+  - number: '49'
+    dr: '1747-12-16'
+    drEnd: '1747-12-16'
+  - number: '50'
+    dr: '1747-12-16'
+    drEnd: '1747-12-16'
+  - number: '51'
+    dr: '1747-12-24'
+    drEnd: '1748-01-18'
+    account: '[[Campaigns/Great Library Campaign/Session Notes/Great Library Session Notes - Arc 3.md#Session
+      51, part 1]]'
+    evidence: '[[Campaigns/Great Library Campaign/Session Notes/Great Library Session Notes - Arc 4.md#Session
+      51, part 2]]'
+  - number: '52'
+    dr: '1748-01-19'
+    drEnd: '1748-01-19'
+    account: '[[Campaigns/Great Library Campaign/Session Notes/Great Library Session Notes - Arc 4.md#Session
+      52]]'
+  - number: '53'
+    dr: '1748-01-21'
+    drEnd: '1748-02-09'
+    account: '[[Campaigns/Great Library Campaign/Session Notes/Great Library Session Notes - Arc 4.md#Session
+      53]]'
+  - number: '54'
+    played:
+      label: By 2022-08-01
+      qualifier: day open
+    dr: '1748-02-10'
+    drEnd: '1748-02-12'
+    account: '[[Campaigns/Great Library Campaign/Session Notes/Great Library Session Notes - Arc 4.md#Session
+      54]]'
+  - number: '55'
+    dr: '1748-02-15'
+    drEnd: '1748-02-15'
+    account: '[[Campaigns/Great Library Campaign/Session Notes/Great Library Session Notes - Arc 4.md#Session
+      55]]'
+  - number: '56'
+    dr: '1748-02-18'
+    drEnd: '1748-03-07'
+    account: '[[Campaigns/Great Library Campaign/Session Notes/Great Library Session Notes - Arc 4.md#Session
+      56]]'
+  - number: '57'
+    played:
+      'on': '2022-09-18'
+      qualifier: strongly inferred
+    dr: '1748-03-08'
+    drEnd: '1748-03-16'
+    account: '[[Campaigns/Great Library Campaign/Session Notes/Great Library Session Notes - Arc 4.md#Session
+      57]]'
+  - number: '58'
+    dr: '1748-03-16'
+    drEnd: '1748-03-16'
+    account: '[[Campaigns/Great Library Campaign/Session Notes/Great Library Session Notes - Arc 4.md#Session
+      58]]'
+  - number: '59'
+    played:
+      'on': '2023-05-20'
+      qualifier: inferred
+    dr: '1748-03-16'
+    drEnd: '1748-03-17'
+    account: '[[Campaigns/Great Library Campaign/Session Notes/Great Library Session Notes - Arc 4.md#Session
+      59]]'
+  - number: '60'
+    played:
+      'on': '2023-05-26'
+      qualifier: inferred
+    dr: '1748-03-20'
+    drEnd: '1748-08-07'
+    account: '[[Campaigns/Great Library Campaign/Session Notes/Great Library Session Notes - Arc 4.md#Session
+      60]]'
+  - number: '61'
+    played:
+      'on': '2024-05-18'
+      qualifier: inferred
+    dr: '1748-08-22'
+    drEnd: '1748-08-25'
+    account: '[[Campaigns/Great Library Campaign/Session Notes/Great Library Session Notes - Arc 4.md#Session
+      61]]'
+  - number: '62'
+    played:
+      'on': '2025-05-17'
+      qualifier: inferred
+    dr: '1748-09-17'
+    drEnd: '1748-09-25'
+  - number: '63'
+    played:
+      'on': '2026-05-16'
+      qualifier: inferred
+    dr: '1748-09-26'
+    drEnd: '1752-06-29'
+  - number: '64'
+    played: '2026-09-12'
+    dr: '1752-06-29'
+    drEnd: '1752-07-03'
+  - number: '65'
+    played:
+      'on': '2026-09-25'
+      qualifier: inferred
+    dr: '1752-07-03'
+    drEnd: '1752-07-03'
+  - number: '66'
+    played: '2026-10-10'
+    dr: '1752-07-03'
+    drEnd: '1752-07-03'
+  - number: '67'
+    played: '2026-10-24'
+    dr: '1752-07-03'
+    drEnd: '1752-07-03'
+  - number: '68'
+    played: '2026-11-14'
+    dr: '1752-07-03'
+    drEnd:
+      'on': '1752-07-05'
+      qualifier: arrival inferred from travel time
+```
 
 %%^Campaign:none%%
 

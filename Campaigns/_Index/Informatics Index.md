@@ -14,6 +14,26 @@ name: Informatics One Shot
 
 ## Roster
 
+```taelgar-roster
+campaign: informatics
+overrides:
+  - character: Anvanya
+    player: Sara Smith
+    description: Elf Nature cleric
+  - character: Camillus
+    player: Aaron Kitzmiller
+    description: Human fighter
+  - character: Ulla Ruby-Eye
+    player: Veronika Laine
+    description: Dwarf fighter
+  - character: Darrak Redbeard
+    player: David D'Antonio
+    description: Dwarf Evocation wizard
+  - character: Elicaryn Underfoot
+    player: Alex Llanos
+    description: Halfling rogue
+```
+
 | Player | Player role | Role source | Characters |
 | --- | --- | --- | --- |
 | Sara Smith | Core | Manual | Anvanya (member) — Elf Nature cleric |
@@ -23,6 +43,15 @@ name: Informatics One Shot
 | Alex Llanos | Core | Manual | Elicaryn Underfoot (member) — Halfling rogue |
 
 ## Play history
+
+```taelgar-session
+campaign: informatics
+overrides:
+  - number: '1'
+    played: '2021-08-03'
+  - number: '2'
+    played: '2021-08-09'
+```
 
 %%^Campaign:none%%
 

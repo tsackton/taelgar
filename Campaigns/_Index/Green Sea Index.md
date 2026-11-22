@@ -16,6 +16,26 @@ name: The Green Sea Campaign
 
 ## Roster
 
+```taelgar-roster
+campaign: gsea
+overrides:
+  - player: Mike Sackton
+    role: core
+    draft: true
+  - player: Eric Rosenbaum
+    role: core
+    draft: true
+  - player: David Kong
+    role: core
+    draft: true
+  - player: David Schwartz
+    role: core
+    draft: true
+  - player: Kate Sackton
+    role: core
+    draft: true
+```
+
 Draft roster for the planned campaign.
 
 | Player | Player role | Role source | Characters |
@@ -25,6 +45,12 @@ Draft roster for the planned campaign.
 | David Kong | Core | Draft | — |
 | David Schwartz | Core | Draft | — |
 | Kate Sackton | Core | Draft | — |
+
+## Play history
+
+```taelgar-session
+campaign: gsea
+```
 
 %%^Campaign:none%%
 

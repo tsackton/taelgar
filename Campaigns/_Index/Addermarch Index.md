@@ -19,6 +19,10 @@ name: Addermarch Campaign
 
 ## Roster
 
+```taelgar-roster
+campaign: adma
+```
+
 | Player | Player role | Role source | Characters |
 | --- | --- | --- | --- |
 | Kate Sackton | Core | PC notes | [[Drou]] (member, party affiliation) |
@@ -26,6 +30,10 @@ name: Addermarch Campaign
 | Nathaniel Sackton | Core | PC notes | [[Fazoth de Brune]] (member, party affiliation) |
 
 ## Play history
+
+```taelgar-session
+campaign: adma
+```
 
 ### November 2026 register summary
 

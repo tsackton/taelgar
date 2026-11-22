@@ -20,6 +20,10 @@ name: Labyrinths of the Lost
 
 ## Roster
 
+```taelgar-roster
+campaign: lablost
+```
+
 | Player | Player role | Role source | Characters |
 | --- | --- | --- | --- |
 | Dylan | Core | PC notes | [[Dilion]] (member, party affiliation)<br>[[Pikeia]] (companion, party affiliation)<br>[[Steampup]] (companion, party affiliation) |
@@ -28,6 +32,10 @@ name: Labyrinths of the Lost
 | Sara Smith | Core | PC notes | [[Loria Underbough]] (member, party affiliation) |
 
 ## Play history
+
+```taelgar-session
+campaign: lablost
+```
 
 ### November 2026 register summary
 

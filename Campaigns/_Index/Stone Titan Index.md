@@ -15,6 +15,22 @@ name: The Stone Titan Adventure
 
 ## Roster
 
+```taelgar-roster
+campaign: stonetitan
+overrides:
+  - player: Mike Sackton
+    role: core
+    note: Played a character whose name was not recorded.
+  - player: Eric Rosenbaum
+    role: core
+    note: Played a character whose name was not recorded.
+  - character: Krunk
+    player: David Kong
+  - character: Bardtholemew the Competant
+    player: David Schwartz
+    description: Human bard
+```
+
 | Player | Player role | Role source | Characters |
 | --- | --- | --- | --- |
 | Mike Sackton | Core | Manual | — |
@@ -25,6 +41,21 @@ name: The Stone Titan Adventure
 Mike and Eric each played a character. Their character names were not recorded.
 
 ## Play history
+
+```taelgar-session
+campaign: stonetitan
+estimate:
+  dr: '1580'
+  note: The adventure was run in 1580 DR. Its placement in canonical history remains open.
+columns: [session, account, played, dr, people, note, evidence]
+overrides:
+  - number: '1'
+    played: '2020-05-01'
+    note: Local date from the recording archive.
+  - number: '2'
+    played: '2020-05-15'
+    note: Local date from the recording archive.
+```
 
 %%^Campaign:none%%
 

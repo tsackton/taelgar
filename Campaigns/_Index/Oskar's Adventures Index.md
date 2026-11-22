@@ -19,6 +19,26 @@ name: Oskar's Adventures
 
 ## Roster
 
+```taelgar-roster
+campaign: oskar
+overrides:
+  - character: '[[People/PCs/Other PCs/Oskar''s Companions/Oskar.md]]'
+    kind: member
+    draft: true
+  - character: '[[People/PCs/Other PCs/Oskar''s Companions/Stoneclaw.md]]'
+    kind: companion
+  - character: '[[People/PCs/Dunmar Fellowship/Riswynn.md]]'
+    kind: associated
+    role: core
+    draft: true
+  - player: Isaac Sackton
+    role: core
+    draft: true
+  - player: Sasha Rosan
+    role: other
+    draft: true
+```
+
 | Player | Player role | Role source | Characters |
 | --- | --- | --- | --- |
 | Nathaniel Sackton | Core | Draft | [[Oskar]] (member, party affiliation)<br>[[Stoneclaw]] (companion, party affiliation) |
@@ -29,6 +49,52 @@ name: Oskar's Adventures
 The three played episodes are documented in [[Oskar in Tharn Todor]].
 
 ## Play history
+
+```taelgar-session
+campaign: oskar
+columns: [session, account, played, dr, people, note, evidence]
+overrides:
+  - number: '1'
+    title: The Sleeping Aboleth
+    played:
+      'on': '2021-05-02'
+      qualifier: inferred
+    dr: '1748-05-09'
+    drEnd: '1748-05-11'
+    account: '[[Campaigns/One Shots/Oskar''s Adventures/Oskar in Tharn Todor.md#Episode 1: The Sleeping Aboleth]]'
+    characters:
+      - Oskar
+      - Riswynn
+      - Agnor
+    note: The May 3 outcome note and Tim’s recollection of weekend play support May 2.
+  - number: '2'
+    title: The Celestial Meteor
+    played:
+      'on': '2021-05-30'
+      qualifier: tentative
+    dr: '1748-05-18'
+    drEnd: '1748-05-19'
+    account: '[[Campaigns/One Shots/Oskar''s Adventures/Oskar in Tharn Todor.md#Episode 2: The Celestial Meteor]]'
+    characters:
+      - Oskar
+      - Riswynn
+      - Ken-to
+    note: Tim identified May 30 as a plausible Sunday. The episode account gives no play date.
+  - number: '3'
+    title: The Cultist’s Cave
+    played:
+      'on': '2021-08-08'
+      qualifier: confirmed
+    dr: '1748-05-29'
+    drEnd: '1748-06-03'
+    account: '[[Campaigns/One Shots/Oskar''s Adventures/Oskar in Tharn Todor.md#Episode 3: The Cultist''s Cave]]'
+    characters:
+      - Oskar
+      - Riswynn
+      - Ghemdorn
+      - Eva
+    note: Tim confirmed that the August 8 Family D&D booking was this adventure.
+```
 
 %%^Campaign:none%%
 
