@@ -1044,7 +1044,7 @@ class ValidateTaelgarNoteTest < Minitest::Test
     )
 
     formatted = TaelgarNoteLint::FrontmatterFormatter.new(note).format_text
-    expected_fields = %w[headerVersion lintedAt lintVersion displayDefaults tags subTypeOf species timelineDescriptor customField name aliases whereabouts knownTo dm_notes POV]
+    expected_fields = %w[lintedAt lintVersion displayDefaults tags subTypeOf species timelineDescriptor headerVersion customField name aliases whereabouts knownTo dm_notes POV]
     reparsed = TaelgarNoteLint::ParsedNote.new("People/Test.md", formatted)
 
     assert_equal expected_fields, reparsed.field_order

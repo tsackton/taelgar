@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [person, status/check/ai]
 dm_owner: none
 dm_notes: color

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [event, status/check/ai]
 name: Open Scroll Expeditions in Dunmar
 typeOf: expeditions

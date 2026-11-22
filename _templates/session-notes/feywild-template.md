@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 sessionNumber: {session.session_number}
 realWorldDate: {session.real_date}

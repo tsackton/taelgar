@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 displayDefaults: {defArt: ""}
 tags: [story]
 campaign: clee

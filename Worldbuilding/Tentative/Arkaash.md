@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [place, religion/fivesiblings, status/stub]
 dm_owner: tim
 dm_notes: important

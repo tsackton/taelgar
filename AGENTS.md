@@ -83,7 +83,7 @@ If the user explicitly requests preservation for review, put **all pre-edit body
 
 Before changing metadata, review [[Note Categorization]] and [[Metadata Specification]].
 
-- Frontmatter occurs once, at the top. Preserve existing `headerVersion`; use the current appropriate template for new notes.
+- Frontmatter occurs once, at the top. Use the current appropriate template for new notes.
 - Follow the exact field-group order and YAML list/dictionary formatting in [[Taelgar Note Linter#Frontmatter]]. This formatting reference does not authorize a lint or unrelated normalization.
 - Use `species` as a person’s primary classification and the documented `typeOf` for non-person subjects when required. Do not substitute `subTypeOf`.
 - Add metadata only when supported or required by the template.

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-28T20:03:43-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}

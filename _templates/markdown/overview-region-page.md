@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [place, status/wip]
 displayDefaults: {defArt: '' }
 typeOf: region

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [meta]
 name: Campaign Session Timeline
 noPublish: true

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-29T12:34:03-04:00"
 lintVersion: "3.5"
 tags: [creature]

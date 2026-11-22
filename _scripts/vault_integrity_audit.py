@@ -376,7 +376,6 @@ def write_unresolved_note(path, broken, metadata):
 
     lines = [
         '---',
-        'headerVersion: 2023.11.25',
         'tags: [status/check/ai]',
         '---',
         '# Unresolved Links',

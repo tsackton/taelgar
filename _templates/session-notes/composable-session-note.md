@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 DR: {session.dr_start}
 DR_end: {session.dr_end}

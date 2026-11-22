@@ -355,7 +355,7 @@ def ensure_base_note(*, note_path: Path, campaign_id: str, number: str, template
     if note_path.exists():
         frontmatter, body = split_frontmatter(note_path.read_text(encoding="utf-8"))
         frontmatter = dict(frontmatter)
-        frontmatter["headerVersion"] = frontmatter.get("headerVersion") or "2023.11.25"
+        frontmatter.pop("headerVersion", None)
         frontmatter["tags"] = normalize_tags(frontmatter.get("tags"))
         if not str(frontmatter.get(SESSION_TEMPLATE_FIELD) or "").strip():
             legacy_template = str(frontmatter.get("template") or "").strip()
@@ -366,7 +366,6 @@ def ensure_base_note(*, note_path: Path, campaign_id: str, number: str, template
         status = "Updated"
     else:
         frontmatter = {
-            "headerVersion": "2023.11.25",
             "tags": [SESSION_NOTE_TAG],
             SESSION_TEMPLATE_FIELD: template_name,
         }

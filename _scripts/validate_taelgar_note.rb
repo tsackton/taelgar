@@ -35,7 +35,7 @@ module TaelgarNoteLint
   POV_REVIEW_VERSION = "3.4"
 
   FRONTMATTER_HEAD_FIELDS = %w[
-    headerVersion lintedAt lintVersion displayDefaults
+    lintedAt lintVersion displayDefaults
   ].freeze
 
   FRONTMATTER_CLASSIFICATION_FIELDS = %w[

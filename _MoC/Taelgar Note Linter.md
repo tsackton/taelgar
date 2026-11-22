@@ -237,7 +237,7 @@ Canonical frontmatter ordering and formatting, versioned lint-state replacement,
 
 The canonical ordering is:
 
-1. `headerVersion`, `lintedAt`, `lintVersion`, `displayDefaults`;
+1. `lintedAt`, `lintVersion`, `displayDefaults`;
 2. the classification group: `tags`, `typeOf`, `subTypeOf`, `typeOfAlias`, `subTypeOfAlias`, `species`, `subspecies`, `speciesAlias`, and `ancestry`;
 3. unclassified fields in stable original order;
 4. `name`, `aliases`, `pronunciation`;
@@ -245,7 +245,7 @@ The canonical ordering is:
 6. `knownTo`, `excludePublish`, `audience`, `dm_owner`, `dm_notes`; and
 7. `POV`, immediately after `dm_notes` and therefore last in frontmatter.
 
-String-only lists and dictionaries use one line. Lists of dictionaries are expanded with one single-line dictionary per list item. The formatter never changes `headerVersion`, silently deletes a field, or rewrites unsafe YAML.
+String-only lists and dictionaries use one line. Lists of dictionaries are expanded with one single-line dictionary per list item. The formatter preserves every field and skips unsafe YAML.
 
 ### Naming and pronunciation
 
