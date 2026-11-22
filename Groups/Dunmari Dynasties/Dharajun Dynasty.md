@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:14:58-04:00"
 lintVersion: "3.5"
 tags: [group, status/check/lint]
@@ -12,9 +11,8 @@ dm_notes: important
 POV: modern
 ---
 # The Dharajun Dynasty
->[!info]+ Information  
-> A [[Dunmar|Dunmari]] dynasty  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+> [!taelgar-header]
+> (Dunmari dynasty)
 
 %%^Campaign:none%%
 ### Historical Members

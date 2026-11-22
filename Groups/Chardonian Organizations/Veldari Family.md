@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:14:58-04:00"
 lintVersion: "3.5"
 displayDefaults: {partOf: "", defArt: the}
@@ -16,10 +15,8 @@ POV: 1748
 ---
 # The Veldari Family
 *(vel-DAR-ee)*
->[!info]+ Information
-> A chalyte oligarch family
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (chalyte oligarch family)
 
 %% Written from a DR 1748 point of view, before the [[Chardonian Chalyte Trade Reforms]] %%
 

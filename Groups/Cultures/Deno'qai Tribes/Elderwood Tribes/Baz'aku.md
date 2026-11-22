@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:14:58-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the, boxInfo: "One of the <partOf:1UA>", wHome: ""}
@@ -15,9 +14,8 @@ POV: 1749
 ---
 # The Baz'aku
 *(bahz-ah-KOO)*
->[!info]+ Information  
-> One of the [[Elderwood Tribes|Elderwood Tribes of the Deno'qai]]
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (tribe, Elderwood Tribes)
 
  %% Written from DR 1749 point of view %%
 

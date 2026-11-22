@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:14:58-04:00"
 lintVersion: "3.5"
 tags: [group, status/check/lint]
@@ -13,9 +12,8 @@ dm_notes: important
 POV: modern
 ---
 # The Order of the Awakened Soul
->[!info]+ Information  
-> A [[Dunmar|Dunmari]] mystery cult, of [[Bhishma]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+> [!taelgar-header]
+> (Dunmari mystery cult, of Bhishma)
 
 The mystery cult dedicated to the Dunmari god [[Bhishma]]. Dedicated to collecting the stories of the Dunmari, preserving the memories of the people of Dunmar, and making sure the souls of the dead are not forgotten and lost.
 

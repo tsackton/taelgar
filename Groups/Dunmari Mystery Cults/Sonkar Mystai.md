@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:14:58-04:00"
 lintVersion: "3.5"
 tags: [group, status/check/lint]
@@ -13,9 +12,8 @@ dm_notes: important
 POV: modern
 ---
 # The Sonkar Mystai
->[!info]+ Information  
-> A [[Dunmar|Dunmari]] mystery cult, of [[Sonkar]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+> [!taelgar-header]
+> (Dunmari mystery cult, of Sonkar)
 
 %%^Metadata:names:v1%%
 - {"name": "Sonkar Mystai", "language": "unknown", "pronunciation": "SOHN-kar MIS-teh", "status": "proposed", "notes": "Proposed from the Dunmari cultural context and the Hindi option in [[Languages]]: o as a sustained oh, a as a short central ah, y adapted to short i, and final ai as a long open eh; stress is provisional. The Persian alternative could instead yield sohn-KAR mis-TIE. The full title's source language and exact in-world pronunciation are not recorded."}

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:14:58-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
@@ -13,10 +12,8 @@ whereabouts: Tokra
 POV: modern
 ---
 # The Hardstone Clan
->[!info]+ Information  
-> A [[Dwarves|dwarven]] clan  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (dwarven clan)
 
 The Hardstones are a prominent dwarven clan in [[Tokra]], known primarily for their long-standing association with the [[Archives|Tokra Archives]]. They settled in Tokra in the years after the [[Fire War]].
 

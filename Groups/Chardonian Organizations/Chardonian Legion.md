@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:14:58-04:00"
 lintVersion: "3.5"
 tags: [group, status/gameupdate/grli, status/check/lint]
@@ -12,9 +11,8 @@ dm_notes: important
 POV: modern
 ---
 # The Chardonian Legion
->[!info]+ Information  
-> An army  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+> [!taelgar-header]
+> (Chardonian army)
 
 
 %% game update: figure out consequences for the Legion of the split of the Northern Provinces %%

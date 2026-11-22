@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -13,10 +12,8 @@ dm_notes: important
 POV: modern
 ---
 # Rodnya Zoryana
->[!info]+ Information  
-> An [[Ursk|Urskan]] magical bloodline  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
-> Parent Organization: the [[Rodnya|Rodnye]]
+> [!taelgar-header]
+> (Urskan magical bloodline)
 
 The Rodnya Zoryana is one of the eight [[Rodnya|rodnye]] that rule [[Ursk]]. It is most closely associated with divination magic: an “uncanny ability to see what is, was, and might be,” and a reputation for finding truths that others would prefer remain hidden.
 

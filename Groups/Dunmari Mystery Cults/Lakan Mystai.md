@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:14:58-04:00"
 lintVersion: "3.5"
 tags: [group, status/check/lint]
@@ -13,9 +12,8 @@ dm_notes: important
 POV: modern
 ---
 # The Lakan Mystai
->[!info]+ Information  
-> A [[Dunmar|Dunmari]] mystery cult, of [[Laka]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+> [!taelgar-header]
+> (Dunmari mystery cult, of Laka)
 
 The mystery cult of the Dunmari god [[Laka]]. Guardians of secret knowledge, especially concerning the lore of other planes, and the secrets of manipulating planar energy to create magic.
 

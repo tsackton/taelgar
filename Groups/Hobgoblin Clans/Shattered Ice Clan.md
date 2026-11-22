@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T18:23:23-04:00"
 lintVersion: "3.5"
 tags: [group, status/check/errors, status/check/lint]
@@ -11,9 +10,8 @@ dm_notes: important
 POV: modern
 ---
 # The Shattered Ice Clan
->[!info]+ Information  
-> A [[Hobgoblins|hobgoblin]] clan  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+> [!taelgar-header]
+> (hobgoblin clan)
 
 %% lots of continuity errors here; needs a complete rewrite %%
 
