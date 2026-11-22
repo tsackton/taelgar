@@ -55,15 +55,10 @@ async function run() {
   assert.equal(nameManager.getCampaignPartyPage("voy"), "People/Fixture Fellowship");
   assert.equal(nameManager.getCampaignPartyPage("Test Voyage"), "People/Fixture Fellowship");
   assert.equal(nameManager.getCampaignConfig("voy").code, "voy");
-  assert.equal(
-    nameManager.getCampaignSessionNoteFolder("voy"),
-    "Campaigns/Test Voyage/Records/Sessions",
-  );
   assert.equal(context.customJS.state.coreMeta.campaigns[0].name, "Test Voyage");
 
   assert.equal(nameManager.getCampaignConfig("  TEST VOYAGE  ").code, "voy");
   assert.equal(nameManager.getCampaignConfig("missing"), undefined);
-  assert.equal(nameManager.getCampaignSessionNoteFolder("other"), "");
 
   const sessionFolder = "Campaigns/Test Voyage/Records/Sessions";
   assert.equal(nameManager.getNoteCampaignCode(sessionFolder + "/Session 1.md", "Other Campaign"), "other");

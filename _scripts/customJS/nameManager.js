@@ -113,10 +113,6 @@ class NameManager {
         return this.getCampaignConfig(codeOrAlias)?.partyPage
     }
 
-    getCampaignSessionNoteFolder(codeOrAlias) {
-        return this.getCampaignConfig(codeOrAlias)?.sessionNoteFolder
-    }
-
     getFileForTarget(target, filter = undefined) {
 
         // thought: should getFileForTarget return as well the descriptive text? e.g. //

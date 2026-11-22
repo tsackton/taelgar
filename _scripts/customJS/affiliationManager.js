@@ -41,20 +41,6 @@ class AffiliationManager {
         }
     }
 
-    #groupBy(list, keyGetter) {
-        const map = new Map();
-        list.forEach((item) => {
-            const key = keyGetter(item);
-            const collection = map.get(key);
-            if (!collection) {
-                map.set(key, [item]);
-            } else {
-                collection.push(item);
-            }
-        });
-        return map;
-    }
-
     #normalizeAffiliation(affiliation, pageDates, pageTitle, defaultStart, sourcePageType) {
 
         const { DateManager } = customJS
@@ -112,114 +98,6 @@ class AffiliationManager {
         return this.getAffiliations(metadata, targetDate).filter(f => f.type != "primary")
     }
 
-    getFormattedNonPrimaryAffiliations(metadata, targetDate) {
-
-        const { TokenParser } = customJS
-        const { DateManager } = customJS
-        const { NameManager } = customJS
-
-        let displayOptions = NameManager.getDisplayData(metadata)
-
-
-        if (targetDate) targetDate = DateManager.normalizeDate(targetDate)
-        if (!targetDate) targetDate = DateManager.getTargetDateForPage(metadata)
-
-        let nonPrimary = this.getNonPrimaryAffiliations(metadata, targetDate)
-        let grouped = this.#groupBy(nonPrimary, f => f.title + "_" + f.startDate.sort + "_" + f.endDate.sort + "_" + f.format)
-
-        let lines = []
-        grouped.forEach(group => {
-            function isDisplayableDate(date) {
-                return date && !date.isHiddenDate
-            }
-            const { DateManager } = customJS
-
-            let first = group.first()
-            let dateInfo = {
-                startDate: first.startDate,
-                endDate: first.endDate,
-                isCreated: true,
-                isAlive: undefined,
-                age: undefined
-            }
-
-            DateManager.setPageDateProperties(dateInfo, targetDate)
-
-            let formatStr = displayOptions.aNoDate
-
-            if (first.format || first.format === "") {
-                formatStr = first.format
-            } else if (first.formatPast && first.formatCurrent) {
-                formatStr = dateInfo.isAlive ? first.formatCurrent : first.formatPast
-            }
-            else if (isDisplayableDate(dateInfo.startDate) && isDisplayableDate(dateInfo.endDate)) {
-                formatStr = dateInfo.isAlive ? displayOptions.aCurrent : displayOptions.aPastHasStart
-            } else if (isDisplayableDate(dateInfo.startDate)) {
-                // we have a start but no end
-                formatStr = dateInfo.isAlive ? displayOptions.aCurrent : displayOptions.aNoDate
-            } else if (isDisplayableDate(dateInfo.endDate)) {
-                formatStr = dateInfo.isAlive ? displayOptions.aNoDate : displayOptions.aPast
-            } else {
-                formatStr = displayOptions.aNoDate
-            }
-
-            lines.push(TokenParser.formatDisplayString(formatStr, { frontmatter: metadata }, targetDate,
-                {
-                    dateInfo: dateInfo,
-                    affiliationtitle: first.title,
-                    affiliations: group
-                }))
-        })
-
-        return lines.join("\n")
-    }
-
-    getLeadBy(thing, targetDate) {
-        // this gets the leaders of a target
-
-        const { NameManager } = customJS
-        const { DateManager } = customJS
-        const { TokenParser } = customJS
-
-        if (targetDate) targetDate = DateManager.normalizeDate(targetDate)
-        else targetDate = DateManager.getTargetDateForPage()
-
-        let file = NameManager.getFileForTarget(thing)
-
-        let displayData = NameManager.getDisplayData(file.frontmatter)
-
-        let leaderAffs = window.app.plugins.plugins.dataview.api.pages().flatMap(f => {
-            return this.getAffiliations(f).map(affItem => { return { file: f, aff: affItem } })
-        }).where(a => a.aff.type == "leader" && a.aff.org == thing && a.aff.startDate.sort <= targetDate.sort && a.aff.endDate.sort >= targetDate.sort)
-
-        let lines = []
-
-        for (let aff of leaderAffs) {
-            if (aff.aff.type == "leader") {
-
-                let dateInfo = {
-                    startDate: aff.aff.startDate,
-                    endDate: aff.aff.endDate,
-                    isCreated: true,
-                    isAlive: undefined,
-                    age: undefined
-                }
-
-                DateManager.setPageDateProperties(dateInfo, targetDate)
-
-
-                lines.push(TokenParser.formatDisplayString(displayData?.ruledBy, { name: aff.file.file.name, frontmatter: aff.file }, targetDate,
-                    {
-                        dateInfo: dateInfo,
-                        affiliationtitle: aff.aff.title,
-                    }))
-            }
-        }
-
-        return lines.join("\n")
-    }
-
-
     getPartOfs(metadata, filter, sourcePageType) {
 
         if (metadata.partOf) {
@@ -227,17 +105,6 @@ class AffiliationManager {
         }
 
         return []
-    }
-
-
-
-    getAffiliationPartOf(metadata, format) {
-
-        if (metadata.partOf) {
-            return this.#getPartOfChain(metadata.partOf, undefined, 0, undefined, format)
-        }
-
-        return ""
     }
 
     isOrWasAffiliated(target, personMetadata, targetDate) {

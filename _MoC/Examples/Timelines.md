@@ -128,7 +128,6 @@ await dv.view("_scripts/view/get_EventsTable", {
   yearEnd: 1600,
   includeCreate: true,
   includeEnd: true,
-  includeRegnal: true,
   includeTravel: true,
   includePartyMeetings: true
 })
@@ -155,7 +154,6 @@ The generated subject names are linked and title-formatted where possible.
 | `includeAll` | `false` | Sets all generated row families to true unless a specific option overrides it |
 | `includeCreate` | `includeAll` | Page start rows from `born`, `created`, or a non-event `DR` date |
 | `includeEnd` | `includeAll` | Page end rows from `died`, `destroyed`, or a non-event `DR_end` date |
-| `includeRegnal` | `includeAll` | Ruler reign rows from regnal metadata |
 | `includeTravel` | `includeAll` | Arrival, residence, move, and departure rows from `whereabouts` |
 | `includePartyMeetings` | `includeAll` | Campaign meeting rows from `campaignInfo` |
 
@@ -183,19 +181,6 @@ Example output:
 | Date    | Event                                            |
 | ------- | ------------------------------------------------ |
 | DR 1549 | ``[[Example Person]]`` died in `[[Example Place]]` |
-
-### `includeRegnal`
-
-Creates ruler reign rows when the page has `reignStart`. The view asks `DateManager.getRegnalDates` for the start and end dates.
-
-The start row renders as `was crowned`. The end row renders as `reign ended`. If the reign end date is the same as the page end date, the reign-end row is omitted when `includeEnd` is also enabled, which avoids duplicate death/end rows.
-
-Example output:
-
-| Date    | Event                           |
-| ------- | ------------------------------- |
-| DR 1549 | `[[Example Ruler]]` was crowned |
-| DR 1580 | `[[Example Ruler]]` reign ended |
 
 ### `includeTravel`
 

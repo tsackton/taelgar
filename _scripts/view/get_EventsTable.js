@@ -473,7 +473,6 @@ async function get_table(input) {
     let options = {
         includeCreate: input.includeCreate ?? includeAll,
         includeEnd: input.includeEnd ?? includeAll,
-        includeRegnal: input.includeRegnal ?? includeAll,
         includeTravel: input.includeTravel ?? includeAll,
         includePartyMeetings: input.includePartyMeetings ?? includeAll
     };
@@ -527,20 +526,6 @@ async function get_table(input) {
 
         }
 
-        if (options.includeRegnal == true && frontmatter.reignStart != null) {
-            let regnalData = DateManager.getRegnalDates(frontmatter)
-            let pageExistData = safeGetPageDates(frontmatter)
-            let name = safeFormatName(fileName, "yt")
-            if (inRange(regnalData.startDate)) {
-                let text = name + " was crowned"
-                events.push({ year: regnalData.startDate.year, date: regnalData.startDate.display, text: text, rawText: text, file: fileName, sort: regnalData.startDate.sort })
-            }
-            // only include end dates if (a) they don't match the death date or (b) we didn't include death dates
-            if (inRange(regnalData.endDate) && (regnalData.endDate != pageExistData.endDate || !options.includeEnd)) {
-                let text = name + " reign ended"
-                events.push({ year: regnalData.endDate.year, date: regnalData.endDate.display, text: text, rawText: text, file: fileName, sort: regnalData.endDate.sort })
-            }
-        }
         if (options.includePartyMeetings) {
             EventManager.getPartyMeeting({ name: fileName, frontmatter: frontmatter }, undefined).forEach(element => {
                 if (!inRange(element?.date)) return
