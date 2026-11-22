@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:24-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint, status/check/ai]
@@ -21,10 +20,8 @@ POV: 1720
 ---
 # Kazak Ferrystone
 *(KAH-zahk FAIR-ee-stohn)*
->[!info]+ Biographical Info  
-> A [[Dwarves|dwarf]] (he/him), of the [[Ferrystones|Ferrystone Clan]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (dwarf, he/him, lives in Rinburg)
 
 ![[kazak-ferrystone.png|left|200]]Kazak Ferrystone is a dwarf of the [[Ferrystones|Ferrystone Clan]], based in [[Rinburg]], known for his expertise in reclaiming and repurposing ruins for new construction.
 

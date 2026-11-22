@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 tags: [person, status/gameupdate/clee, status/check/lint]
@@ -16,10 +15,8 @@ dm_notes: color
 POV: 1720
 ---
 # Areschera
->[!info]+ Biographical Info  
-> A [[Fey|fey]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (fey, she/her, d. 1720, lives in Duskmire)
 
 ![[areschera.jpg|right|400]]A servant of [[Lord Umbraeth]], and a shapeshifter. Mischievous and cruel, she especially enjoys using her disguises and shapeshifting to bring ruin to mortals.
 

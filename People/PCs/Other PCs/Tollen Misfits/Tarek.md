@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-18T23:43:15-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -21,11 +20,8 @@ POV: 1740s
 ---
 # Tarek
 *(TAH-rek)*
->[!info]+ Biographical Info  
-> A [[Tollen|Tollish]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (human, Tollish, he/him, b. 1729, lives in Tollen)
 
 Tarek is a Tollish human adventurer, pickpocket, and salvager from [[Tollen]], and a member of the [[Tollen Misfits]]. Quick-handed and resourceful, he collects objects that often prove useful to his companions, and works with [[Kaito Min]] on their performance and pickpocket routines.
 

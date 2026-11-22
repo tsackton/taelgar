@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -19,11 +18,8 @@ POV: 1740s
 ---
 # Vondal Redpeak
 *(VON-dahl RED-peek)*
->[!info]+ Biographical Info  
-> A [[Dwarves|dwarf]] (he/him), of the [[Redpeaks]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met the Seeker and Riswynn on August 8th, 1748 in [[Darba]], [[Dunmar]] %%^End%%
+> [!taelgar-header]
+> (dwarf, he/him, lives in Darba)
 
 A member of the Redpeaks of Darba, a mason fascinated with the history of Darba's stonework.
 

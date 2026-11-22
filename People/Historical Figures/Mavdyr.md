@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 tags: [person, status/cleanup/metadata, status/check/lint]
@@ -14,8 +13,8 @@ dm_notes: important
 POV: modern
 ---
 # Mavdyr
->[!info]+ Biographical Info  
-> A [[Giants|giant]] ([[Giants|fire giant]]) (he/him)
+> [!taelgar-header]
+> (giant, he/him)
 
 %% set as died 1 but a more accurate death date is presumably possible given known to have died in fire war %%
 

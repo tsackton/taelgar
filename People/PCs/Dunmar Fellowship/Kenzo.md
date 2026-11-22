@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -18,9 +17,8 @@ dm_notes: important
 POV: 1748
 ---
 # Kenzo
->[!info]+ Biographical Info  
-> A [[Dunmar|Dunmari]] [[Humans|human]] (he/him), of the [[Dunmar Fellowship]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+> [!taelgar-header]
+> (human, Dunmari, he/him)
 
 > [!image|right standard]
 > ![[kenzo-intro-desert-traveler.webp]]

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -13,8 +12,8 @@ dm_notes: color
 POV: modern
 ---
 # Fides Lucaris Spy
->[!info]+ Biographical Info  
-> A [[Humans|human]] (she/her)
+> [!taelgar-header]
+> (human, she/her)
 
 A dead woman, of unknown name, who was on a mission to destroy the [[Edge of Echoes]] during the time of the Drankorian Empire. Did not succeed, and was killed.
 

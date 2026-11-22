@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -23,14 +22,8 @@ dm_notes: color
 POV: 1740s
 ---
 # Wendel Quickstep
->[!info]+ Biographical Info
-> A [[Halflings|halfling]] (he/him), of the [[Quicksteps]]
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Met by [[Wellby]] on DR 1738 at [[The Windward Sail]], in [[Fiskurth]], the [[Tollen|Free City of Tollen]] %%^End%%
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on December 16th, 1748 at [[The Windward Sail]], in [[Fiskurth]], the [[Tollen|Free City of Tollen]] %%^End%%
->> %%^Campaign:dufr%% Last seen by the [[Dunmar Fellowship]] on December 28th, 1748 at [[The Windward Sail]], in [[Fiskurth]], the [[Tollen|Free City of Tollen]] %%^End%%
+> [!taelgar-header]
+> (halfling, he/him, b. 1671)
 
 Wendel is the long-time proprietor of *The Windward Sail*, a busy sailor's tavern in [[Fiskurth]]. Known as a place for tales and stories - some true, many not - and a place for gossip, as well as a place to find a crew. Has a few dirty, cramped rooms stacked with "human sized" bunks, and some slightly more comfortable halfling rooms. 
 ## Relationships

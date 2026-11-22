@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-28T16:53:46-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -19,11 +18,8 @@ dm_notes: important
 POV: 1730
 ---
 # Finnan Oakstride
->[!info]+ Biographical Info  
-> A [[Halflings|halfling]] (he/him), of the [[Oakstrides]]  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (halfling, he/him, b. 1678, lives in Zimkova)
 
 ![[finnan-oakstride.png|right|360]]Finnan Oakstride is a halfling storyteller, a wanderer, and a collector of tales. 
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -17,10 +16,8 @@ dm_notes: none
 POV: modern
 ---
 # Asuddha
->[!info]+ Biographical Info
-> A [[Dunmar|Dunmari]] [[Humans|human]] (he/him)
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (human, Dunmari, he/him, b. 1136, d. 1208, lives in Dunmar)
 
 A warrior and general of the Dunmari during the [[Founding of Dunmar]]. The brother of [[Bhishma]]. Known for leading the first army of the Dunmari, that swept across the land renewed by [[Jeevali]]'s sacrifice, claiming it to be their own kingdom. 
 

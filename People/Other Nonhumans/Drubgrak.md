@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-18T23:43:15-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -12,8 +11,8 @@ POV: 1720
 ---
 # Drubgrak
 *(DRUB-grak)*
->[!info]+ Biographical Info  
-> A [[Kobolds|kobold]] (she/her)
+> [!taelgar-header]
+> (kobold, she/her)
 
 Drubgrak is a winged kobold and [[Vikka|Vikka’s]] sister. Both served [[Vraedhul]] in the [[Plaguelands]] before mysterious events associated with the [[War of the Ashen Horde]] destroyed the dragon’s lair in DR 1720. They fled north with Vraedhul’s offspring, [[Krauzeth]], but became disillusioned with him. Drubgrak led those who wanted to leave his service and live independently in the [[Maerwyn Mountains]].
 

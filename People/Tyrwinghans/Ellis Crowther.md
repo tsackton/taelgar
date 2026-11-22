@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/mike]
@@ -15,10 +14,8 @@ POV: 1710s
 ---
 # Ellis Crowther
 *(EL-iss KROW-ther)*
->[!info]+ Biographical Info  
-> A [[Tyrwingha|Tyrwinghan]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (human, Tyrwinghan, he/him, b. 1695, lives in Clawyn)
 
 Ellis Crowther is a singer and left-handed crwth player from [[Clawyn]], and the mirror twin of [[Llew Crowther]]. He comes from a vineyard-working family and was [[Celyn|Celyn’s]] childhood sweetheart.
 

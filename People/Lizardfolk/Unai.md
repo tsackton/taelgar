@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T23:02:51-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/mike]
@@ -15,10 +14,8 @@ dm_notes: color
 POV: 1720
 ---
 # Unai
->[!info]+ Biographical Info  
-> A [[Lizardfolk|lizardfolk]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (lizardfolk, she/her, b. 1602, lives in Ganboa)
 
 %% check mike - confirm pronunciation %%
 

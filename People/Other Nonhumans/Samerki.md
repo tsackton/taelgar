@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 displayDefaults: {endStatus: killed, boxInfo: "<subspecies> (<species>), <pronouns>", wPast: ""}
@@ -22,11 +21,8 @@ dm_notes: color
 POV: 1740s
 ---
 # Samerki
->[!info]+ Biographical Info  
-> oni ([[Giants|giant]]), he/him  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Killed by the [[Dunmar Fellowship]] on May 29th, 1748 in [[Shakun’s Wellspring]], the [[Red Mesa]], [[Eastern Dunmar]] %%^End%%
+> [!taelgar-header]
+> (giant, he/him, d. 1748)
 
 A servant of [[Agata]]. 
 

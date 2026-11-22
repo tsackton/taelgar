@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-05T16:06:33-04:00"
 lintVersion: "3.5"
 tags: [group]
@@ -11,9 +10,8 @@ dm_notes: important
 POV: 1730
 ---
 # The Chasm Explorers
->[!info]+ Information  
-> An adventuring party  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+> [!taelgar-header]
+> (adventuring party)
 
 The party consists of:
 

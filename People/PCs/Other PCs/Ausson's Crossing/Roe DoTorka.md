@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-18T23:43:15-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -17,9 +16,8 @@ POV: undated
 ---
 # Roe DoTorka
 *(ROH doh-TOR-kah)*
->[!info]+ Biographical Info  
-> An [[Ardith|Ardikhun]] [[Dwarves|dwarf]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> [!taelgar-header]
+> (dwarf, Ardikhun, he/him, b. 1489)
 
 Roe DoTorka is an Ardikhun dwarf who survived the fall of [[Ardith]] during the [[Great War]]. Unlike most survivors, he did not join the migration south to [[Nardith]]. He lives on the plateau above [[Ausson's Crossing]] and can transform into beasts. Cranky and sometimes unpleasant company, he is nevertheless a dependable ally.
 

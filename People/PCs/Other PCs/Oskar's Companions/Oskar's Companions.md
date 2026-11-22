@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-28T16:53:46-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -11,9 +10,8 @@ dm_notes: none
 POV: 1748
 ---
 # Oskar's Companions
->[!info]+ Information  
-> An adventuring party  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+> [!taelgar-header]
+> (adventuring party)
 
 Oskar's Companions are the adventurers connected to the dwaren ranger [[Oskar]] during his time [[Oskar in Tharn Todor|in Tharn Todor]] traveling and adventuring with [[Riswynn]], during her separation from the [[Dunmar Fellowship]].
 

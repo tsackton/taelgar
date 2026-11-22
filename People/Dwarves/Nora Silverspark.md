@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
 displayDefaults: {endStatus: passed on}
@@ -22,11 +21,8 @@ dm_notes: important
 POV: 1748
 ---
 # Nora Silverspark
->[!info]+ Biographical Info  
-> A [[Dwarves|dwarf]] (she/her), of the [[Silversparks|Silverspark Clan]]  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (dwarf, she/her, d. 1748)
 
 %% need to copy notes from OneNote, clean up campaign info; significant dwarf in the late 1500s in the aftermath of the Great War %%
 A dwarven warrior, once a ghost in [[Morkalan]] and now passed on. The first victim of [[Hagrim]]'s betrayal.

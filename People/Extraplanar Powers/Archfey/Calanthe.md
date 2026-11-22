@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-13T12:24:51-04:00"
 lintVersion: "3.5"
 tags: [power]
@@ -14,9 +13,8 @@ POV: 1715
 ---
 # Lady Calanthë
 *(kah-LAN-thee)*
->[!info]+ Information  
-> An archfey (she/her)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+> [!taelgar-header]
+> (archfey, she/her)
 
 Lady Calanthë, Duchess of the Sunset Forest and Guardian of the Gloaming Hills, is an archfey who rules [[Sunward Reach]] and protects against incursions by [[Harrow]] and [[Wend]] across the [[Sunset Gate]]. 
 

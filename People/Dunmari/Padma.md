@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T23:02:51-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -20,11 +19,8 @@ POV: 1748
 ---
 # Padma
 *(PAD-mah)*
->[!info]+ Biographical Info  
-> A [[Dunmar|Dunmari]] [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on July 26th, 1748 at Padma's caravanserai on the [[Tokra-Darba Road]] %%^End%%
+> [!taelgar-header]
+> (human, Dunmari, she/her, b. 1720, lives in Tokra-Darba Road)
 
 Padma is the master of a caravanserai waystation, often called the Darba Gateway Inn by foreign travelers, on the [[Tokra-Darba Road]]; it is one of the first waystations on the west side of the [[Copper Hills]], and well-defended, making it a safe haven from the occasional dangers of the [[Copper Hills]].  Given this location, Padma is generally well-positioned to receive and pass along news. 
 

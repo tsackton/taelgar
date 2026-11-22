@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -17,11 +16,8 @@ dm_notes: none
 POV: 1748
 ---
 # Vilaxes
->[!info]+ Biographical Info  
-> An aberration (beholder)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:grli%% Killed by the [[Silver Tempests]] on March 17th, 1748 in [[Goldpeak Mountain|the lower Goldpeak ruins]], the [[Fiatara Mountains]] %%^End%%
+> [!taelgar-header]
+> (aberration, d. 1748)
 
 Vilaxes was a beholder who made a lair in the dwarven ruins deep beneath [[Goldpeak Mountain]], below the surface mines. 
 

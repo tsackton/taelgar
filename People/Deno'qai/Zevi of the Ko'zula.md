@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -20,11 +19,8 @@ POV: 1748
 ---
 # Zevi
 *(zeh-VEE)*
->[!info]+ Biographical Info  
-> A [[Deno'qai]] [[Humans|human]] (he/him), of the [[Ko'zula]]  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (human, Deno'qai, he/him, b. 1734, lives in Azkar)
 
 Guide who brought [[Delwath]] to the Ko’zula village and later to meet [[Aristaea]] and [[Iascaire]].
 

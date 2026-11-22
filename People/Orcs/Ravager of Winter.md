@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-05T23:30:02-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -13,10 +12,8 @@ knownTo: [chasm]
 POV: 1729
 ---
 # Ravager of Winter
->[!info]+ Biographical Info  
-> An [[Orcs|orc]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (orc, she/her, d. 1729)
 
 The Ravager of Winter is the name used by an orc war leader in northern [[Zimkova]].
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -19,10 +18,8 @@ POV: 1740s
 ---
 # Shani
 *(SHUH-nee)*
->[!info]+ Biographical Info  
-> A [[Dunmar|Dunmari]] [[Humans|human]] (she/her)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on April 9th, 1748 in the [[Samtal|plains of Karawa]], [[Dunmar]] %%^End%%
+> [!taelgar-header]
+> (human, Dunmari, she/her, lives in plains of Karawa)
 
 A goat herder from the area around Karawa. 
 

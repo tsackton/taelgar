@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 tags: [person, status/cleanup/metadata, status/check/lint]
@@ -13,8 +12,8 @@ dm_notes: color
 POV: 1740s
 ---
 # Karel
->[!info]+ Biographical Info  
-> An [[Ursk|Urskan]] [[Humans|human]] (he/him)
+> [!taelgar-header]
+> (human, Urskan, he/him)
 
 %% needs campaign info, whereabouts %%
 

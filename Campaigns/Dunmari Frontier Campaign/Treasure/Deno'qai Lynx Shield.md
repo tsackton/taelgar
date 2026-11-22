@@ -10,7 +10,7 @@ ddbLink: https://www.dndbeyond.com/magic-items/5360068-lynx-denoqai-shield
 pcOwner: Delwath
 rarity: legendary
 image: "[[lynx-shield.png]]"
-name: "Deno'qai Lynxd Shield"
+name: "Deno'qai Lynx Shield"
 whereabouts: Delwath
 knownTo: [dufr]
 POV: modern

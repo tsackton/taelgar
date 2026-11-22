@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-18T23:43:15-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/mike]
@@ -12,8 +11,8 @@ POV: 1720
 ---
 # Droog
 *(DROOG)*
->[!info]+ Biographical Info  
-> A goblin (he/him)
+> [!taelgar-header]
+> (goblin, he/him)
 
 Droog is a fat, oddly friendly goblin cook who speaks in loud whispers. He was forced to prepare food and serve the redcaps at the [[Fortress of Ianto the Red]].
 

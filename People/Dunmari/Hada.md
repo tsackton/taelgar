@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
 tags: [person, status/cleanup/metadata]
@@ -19,10 +18,8 @@ POV: 1748
 ---
 # Hada
 *(HAH-dah)*
->[!info]+ Biographical Info  
-> A [[Dunmar|Dunmari]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (human, Dunmari, he/him, b. 1719, d. 1748, lives in Tokra)
 
 %%need to organize dates of werewolf stuff to get the correct death date for Hada, and capture date; also need to decide how to track campaign info for people heard about but not met%%
 

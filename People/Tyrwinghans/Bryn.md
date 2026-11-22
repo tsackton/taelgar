@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-18T23:43:15-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -15,9 +14,8 @@ POV: 1720s
 ---
 # Bryn
 *(brin)*
->[!info]+ Biographical Info  
-> A [[Tyrwingha|Tyrwinghan]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+> [!taelgar-header]
+> (human, Tyrwinghan, he/him)
 
 Bryn is a human scout of the [[Rangers]], skilled in navigating the [[Plaguelands]]. He usually travels with [[Arianwen]]. He is terse, observant, and practical, trusting physical evidence more readily than intuition or theory.
 

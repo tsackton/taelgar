@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -16,9 +15,8 @@ dm_notes: important
 POV: modern
 ---
 # Uzgash
->[!info]+ Biographical Info  
-> An [[Orcs|orc]] (he/him), of the [[People of the Rainbow]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+> [!taelgar-header]
+> (orc, he/him)
 
 A revered leader of the [[People of the Rainbow]], who recovered the [[Cloak of Rainbows]] and founded the kingdom of [[Xurkhaz]].
 

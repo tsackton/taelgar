@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 displayDefaults: {aNoDate: "Traveled with <affiliations>"}
@@ -18,9 +17,8 @@ dm_notes: important
 POV: 1748
 ---
 # Alimash
->[!info]+ Biographical Info  
-> A [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+> [!taelgar-header]
+> (human, he/him)
 
 Middle aged human marine and warrior from the [[Republic of Svolhas]]. Aided in the [[Session 62 (DuFr)|destruction of the aboleth]] and helped rescue [[Session 66 (DuFr)|Arryn from the mirror realm]]. Now potentially joining the service of [[Arryn]] the Wanderer.
 

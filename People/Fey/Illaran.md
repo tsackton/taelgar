@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -20,11 +19,8 @@ dm_notes: important
 POV: 1740s
 ---
 # Illaran
->[!info]+ Biographical Info  
-> A [[Fey|fey]] (korred) (he/him)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on November 1st, 1748 in the [[Crystal Peak]], the [[Feywild]], [[Multiverse]] %%^End%%
+> [!taelgar-header]
+> (fey, he/him, lives in Crystal Peak)
 
 Illaran, the guardian of Crystal Peak in the [[Feywild]], is a whimsical fey who wields power over the very stones of his domain.
 ## Overview

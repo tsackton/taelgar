@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T09:29:24-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -21,11 +20,8 @@ POV: 1749
 ---
 # Guilhem Du Pont
 *(GHEE-yem duh PONT)*
->[!info]+ Biographical Info  
-> An Aurbeze [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on August 7th, 1749 in [[Three Wells]], the [[Refounded Alliance of Aurbez]] %%^End%%
+> [!taelgar-header]
+> (human, Aurbeze, he/him, b. 1698, lives in Aursenbourg)
 
 ![[guilhem-du-pont.png|right|400]]Guilhem is a middle-aged clerk of [[Aursenbourg]] and civic representative to councils of the [[Refounded Alliance of Aurbez]]. He is known for meticulous record‑keeping and a cautious, civic‑minded approach to defense. His temperament trends anxious, but his focus remains squarely on the welfare of the city.
 

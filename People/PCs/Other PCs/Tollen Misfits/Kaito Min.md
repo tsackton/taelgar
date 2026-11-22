@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-18T23:43:15-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -22,11 +21,8 @@ POV: 1740s
 ---
 # Kaito Min
 *(KAY-toh MIN)*
->[!info]+ Biographical Info  
-> An [[Elves|elf]] (he/him), ([[Elven Cycle of Generations|ka]] 37)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (elf, he/him, ka 37, b. 1650)
 
 Kaito Min is an elven adventurer and performer living in [[Tollen]], and a member of the [[Tollen Misfits]]. An opportunist with a taste for treasure, he combines showy musical performances with schemes devised alongside [[Tarek]].
 

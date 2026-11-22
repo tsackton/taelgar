@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-24T11:03:17-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -17,10 +16,8 @@ POV: 1749
 ---
 # Lord Rhodar Von Glauer
 *(ROH-dahr fon GLOW-er)*
->[!info]+ Biographical Info  
-> An [[Undead|undead]] (vampire)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (undead, d. 1749, lives in Shadowkeep)
 
 %%^Campaign:dufr%%
 

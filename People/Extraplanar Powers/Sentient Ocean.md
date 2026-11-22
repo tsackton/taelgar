@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T23:02:51-04:00"
 lintVersion: "3.5"
 tags: [power]
@@ -12,8 +11,8 @@ dm_notes: none
 POV: modern
 ---
 # Sentient Ocean
->[!info]+ Information  
-> A living ocean
+> [!taelgar-header]
+> (living ocean)
 
 Along the coasts of the [[Mawar Confederacy]], the [[Apporia|Apporian Peninsula]], and other regions facing the [[Endless Ocean]], sailors and storytellers sometimes speak of waters far beyond the shore that sing, dream, or remember. These stories do not agree on what this power is, but all speak of a strange, alien power, a living mind of the ocean. 
 

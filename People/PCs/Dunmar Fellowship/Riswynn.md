@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -19,9 +18,8 @@ dm_notes: important
 POV: 1748
 ---
 # Riswynn
->[!info]+ Biographical Info  
-> A [[Nardith]] [[Dwarves|dwarf]] (she/her), of the [[Dunmar Fellowship]], and the [[Brawnanvils|Brawnanvil Clan]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+> [!taelgar-header]
+> (dwarf, Nardith, she/her)
 
 > [!image|right standard]
 > ![[riswynn-intro-ikrams-courtyard.webp]]

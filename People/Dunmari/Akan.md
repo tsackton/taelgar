@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
 tags: [person, testcase/with-whereabouts, status/check/lint]
@@ -24,11 +23,8 @@ dm_notes: color
 POV: 1740s
 ---
 # Akan
->[!info]+ Biographical Info  
-> A [[Dunmar|Dunmari]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on March 23th, 1748 in the [[Gomat|Gomat Oasis]], [[Eastern Dunmar]], [[Dunmar]] %%^End%%
+> [!taelgar-header]
+> (human, Dunmari, he/him, b. 1693, lives in Karawa Desert)
 
 A Dunmari sheep herder from the area outside [[Karawa]]. Pastoralist and nomad, typical of the Dunmari in the eastern region of the country.  
 

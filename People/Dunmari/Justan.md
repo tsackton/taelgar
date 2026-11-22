@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
 displayDefaults: {endStatus: "killed by [[Casian]]"}
@@ -23,11 +22,8 @@ POV: modern
 ---
 # Justan
 *(jus-TAHN)*
->[!info]+ Biographical Info  
-> A [[Dunmar|Dunmari]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on July 21st, 1748 in the [[Copper Hills]] %%^End%%
+> [!taelgar-header]
+> (human, Dunmari, he/him, b. 1723, d. 1748, lives in Varashan)
 
 ![[justan.jpg|right|250]]A Dunmari man, from a family of horse herders traveling on the lands around [[Tokra]]. 
 

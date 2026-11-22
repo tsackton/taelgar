@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -14,9 +13,8 @@ dm_notes: color
 POV: 1749
 ---
 # Adam Gower
->[!info]+ Biographical Info  
-> A [[Tollen|Tollender]] [[Humans|human]] (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (human, Tollender, he/him, lives in Tollen)
 
 ![[adam-gower.jpg|right|300]]Factor, treasurer, and agent for the [[Dunmar Fellowship]] in Tollen.
 

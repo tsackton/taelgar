@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -14,9 +13,8 @@ dm_notes: none
 POV: modern
 ---
 # Rowena Chemare
->[!info]+ Biographical Info  
-> A [[Tollen|Tollender]] [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> [!taelgar-header]
+> (human, Tollender, she/her, d. 1715)
 
 The wife of [[Robert I]], she was killed by bandits in the [[Aine Hills]].
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -11,9 +10,8 @@ knownTo: [clee]
 POV: 1720s
 ---
 # Olwen Bettws
->[!info]+ Biographical Info  
-> A [[Humans|human]] (she/her)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (human, she/her, lives in Clawyn)
 
 Olwen Bettws is [[Celyn|Celyn's]] mother, a spinner who lives in [[Clawyn]]. She is blond and frail and has never worked in the vineyard or winery. Her younger sister is Dilys, also of Clawyn.
 

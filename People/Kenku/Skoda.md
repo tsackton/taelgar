@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -21,11 +20,8 @@ dm_notes: color
 POV: 1740s
 ---
 # Skoda
->[!info]+ Biographical Info  
-> An Islander [[Kenku|kenku]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Rescued by [[Wellby]] on October 14th, 1748 from the aboleth lair east of the [[Vermillion Isles]], [[Eastern Isles]] %%^End%%
+> [!taelgar-header]
+> (kenku, Islander, she/her, b. 1700, lives in Wahacha)
 
 ![[skoda.png|right|400]]A kenku woman in late middle age, who travels the islands of the [[Eastern Green Sea]] with her partner [[Nahto]]. She is fey-touched and has a hint of magic about her. 
 

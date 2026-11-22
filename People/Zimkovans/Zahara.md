@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-05T23:30:02-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/mike]
@@ -17,9 +16,8 @@ POV: 1730
 ---
 # Zahara
 *(zah-HAH-rah)*
->[!info]+ Biographical Info  
-> A [[Zimka]] [[Humans|human]] (they/them)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (human, Zimka, they/them)
 
 Zahara is a Zimka dissident from [[Melusa]], the child of [[Taquin]], and the leader and strategist of a small circle of villagers hoping to escape from [[Forquarion|Malquin]]'s rule.
 

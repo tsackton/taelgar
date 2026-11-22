@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
 tags: [person, status/cleanup/metadata, status/check/lint]
@@ -26,12 +25,8 @@ dm_notes: important
 POV: 1740s
 ---
 # Faldrak Bronzehammer
->[!info]+ Biographical Info  
-> A [[Dwarves|dwarf]] (he/him), of Bronzehammers  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% First met by the [[Dunmar Fellowship]] on December 30th, 1748 in the [[Tollen|Free City of Tollen]] %%^End%%
+> [!taelgar-header]
+> (dwarf, he/him, b. 1516)
 
 ![[faldrak-portrait-1.png|right|400]]Faldrak Bronzehammer is an aged dwarf runecrafter and tinker, with a touch of Feywild whimsy.
 ## Overview

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -15,9 +14,8 @@ dm_notes: important
 POV: modern
 ---
 # Odim Mavdyrson
->[!info]+ Biographical Info  
-> A [[Giants|giant]] ([[Giants|fire giant]]) (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> [!taelgar-header]
+> (giant, he/him, b. 1500, d. 1590)
 
 %%  connected to the Fire War - Chalice of the Runepriest - Dwarves of Ardith historical context in the 1550s-1590s that needs to be collated and written %%
 

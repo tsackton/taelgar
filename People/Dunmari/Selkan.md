@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
 tags: [person, status/cleanup/metadata, status/check/lint]
@@ -17,8 +16,8 @@ dm_notes: important
 POV: 1748
 ---
 # Selkan
->[!info]+ Biographical Info  
-> A [[Dunmar|Dunmari]] [[Humans|human]] (he/him)
+> [!taelgar-header]
+> (human, Dunmari, he/him)
 
 %%add whereabouts and campaign info%%
 

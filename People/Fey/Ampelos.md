@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -13,9 +12,8 @@ dm_notes: none
 POV: modern
 ---
 # Ampelos
->[!info]+ Biographical Info  
-> A [[Fey|fey]] (satyr)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (fey, lives in Tyrwingha)
 
 A satyr, fond of humans, wine, and music.
 

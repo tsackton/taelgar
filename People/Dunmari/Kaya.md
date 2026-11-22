@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -20,10 +19,8 @@ POV: "1748"
 ---
 # Kaya
 *(KAA-yaa)*
->[!info]+ Biographical Info  
-> A [[Dunmar|Dunmari]] [[Humans|human]] (she/her)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% [[Session 31 (DuFr)|Freed]] from living wood by the [[Dunmar Fellowship]] on June 5th, 1748 in [[Bas Udda]], [[Dunmar]] %%^End%%
+> [!taelgar-header]
+> (human, Dunmari, she/her)
 
 A young Dunmari woman, trapped for many, many years as [[Agata]]'s chair. 
 

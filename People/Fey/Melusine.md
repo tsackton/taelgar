@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -17,10 +16,8 @@ dm_notes: important
 POV: 1748
 ---
 # Melusine
->[!info]+ Biographical Info
-> A [[Fey|fey]] ([[Fey|nymph]]) (she/her)
->> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on November 15th, 1748 in [[Amberglow]], the [[Feywild]] %%^End%%
+> [!taelgar-header]
+> (fey, she/her, lives in Amberglow)
 
 A water nymph in [[Amberglow]]. She resides in a small, secluded grotto near a river, overgrown with vines and foliage. 
 

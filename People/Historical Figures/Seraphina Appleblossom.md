@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-04T18:12:37-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -20,11 +19,8 @@ POV: modern
 ---
 # Seraphina Appleblossom
 *(sehr-uh-FEE-nuh AP-uhl-bloss-um)*
->[!info]+ Biographical Info  
-> A [[Halflings|halfling]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (halfling, she/her, d. 1053)
 
 > [!image|right standard]
 > ![[seraphina-appleblossom-rooftop-mural.webp]]

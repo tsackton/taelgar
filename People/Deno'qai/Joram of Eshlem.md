@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
 tags: [person, status/gameupdate/grli, status/check/lint]
@@ -16,10 +15,8 @@ dm_notes: none
 POV: 1748
 ---
 # Joram of Eshlem
->[!info]+ Biographical Info  
-> A [[Yo'nari]] [[Humans|human]] (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:grli%% Met by the [[Silver Tempests]] on October 14th, 1748 in [[Eshlem]], [[Cairn Dor]], [[Shadowfolds]] %%^End%%
+> [!taelgar-header]
+> (human, Yo'nari, he/him, lives in Eshlem)
 
 Joram of Eshlem is an elderly [[Yo'nari]] veteran from [[Eshlem]] in [[Cairn Dor]]. He learned Goblin while fighting in an ancient war, now faded in his memory, from before [[Yeshara]] saved the [[Yo'nari]] from the curse of sleep and brought them to [[Cairn Dor]] to live safely under the protection of the [[Shemra Azem]]. 
 

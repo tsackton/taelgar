@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -15,9 +14,8 @@ dm_notes: none
 POV: 1740s
 ---
 # Turk
->[!info]+ Biographical Info
-> A shark (spirit)
-> `$=dv.view("_scripts/view/get_Affiliations")`
+> [!taelgar-header]
+> (shark)
 
 Turk is one form of [[Ryu]]'s shapeshifting beast companion, a primal spirit also known as [[Blu]] in osprey form and [[Geo]] in bear form.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 tags: [person, testcase, status/check/lint]
@@ -22,10 +21,8 @@ dm_notes: none
 POV: modern
 ---
 # Queen Elaine I
->[!info]+ Biographical Info
-> A [[Sembara|Sembaran]] [[Humans|human]] (she/her), of the [[House of Sewick]]
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
+> [!taelgar-header]
+> (human, Sembaran, she/her, b. 1539, d. 1592)
 
 The twin sister of [[Anne]], her disputes with her sister over the throne dominated the 1560s and 1580s.
 

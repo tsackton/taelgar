@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -17,10 +16,8 @@ dm_notes: none
 POV: modern
 ---
 # Gyles
->[!info]+ Biographical Info
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
+> [!taelgar-header]
+> (human, Sembaran, he/him, b. 1541, d. 1632)
 
 The fifth child of [[Reginald]], Gyles founded the great House of Teckberg, based in the [[Highlands]].  
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-05T23:30:02-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/mike]
@@ -12,8 +11,8 @@ POV: modern
 ---
 # Taquin
 *(tah-KEEN)*
->[!info]+ Biographical Info  
-> A [[Zimka]] [[Humans|human]]
+> [!taelgar-header]
+> (human, Zimka)
 
 Taquin was a resident of [[Melusa]] and the parent of [[Zahara]].
 

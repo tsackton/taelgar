@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -18,10 +17,8 @@ dm_notes: none
 POV: 1748
 ---
 # Steampup
->[!info]+ Biographical Info  
-> A steel defender  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (construct, lives in Dilion)
 
 The steampup is [[Dilion|Dilon's]] magical steel defender, built in the form of a dog-like construct. During the escape from [[Perdoli Manor]], the steampup served as scout, decoy, combatant, and companion. After [[Grimstone]] was killed, the steampup left the manor with Dilon and [[Pikeia]].
 

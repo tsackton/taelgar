@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 tags: [person, status/review, status/check/lint]
@@ -20,10 +19,8 @@ dm_notes: important
 POV: modern
 ---
 # Queen Cece I
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (she/her), of the [[House of Sewick]]  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+> [!taelgar-header]
+> (human, Sembaran, she/her, b. 1628, d. 1713)
 
 %% status/review -> central to recent Sembaran history, could use collating information from discord, backlinks, dm notes%%
 

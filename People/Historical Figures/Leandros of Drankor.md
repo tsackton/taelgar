@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -13,8 +12,8 @@ dm_notes: none
 POV: modern
 ---
 # Leandros of Drankor
->[!info]+ Biographical Info  
-> A [[Drankorian Empire|Drankorian]] [[Humans|human]] (he/him)
+> [!taelgar-header]
+> (human, Drankorian, he/him)
 
 Leandros of Drankor was a Drankorian natural historian who devoted his career to cataloging strange creatures both from the [[Material Plane]] and beyond. His treatise, [[On the Mysteries of the Infinite Depths]], is a major source for later accounts of the denizens of the [[Elemental Plane of Water]].
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-04T23:42:01-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -19,11 +18,9 @@ dm_notes: important
 POV: 1749
 ---
 # Marius of Drankor
-*(MAH-ree-us uv DRAN-kor)*
->[!info]+ Biographical Info  
-> A [[Drankorian Empire|Drankorian]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+*(MAH-ree-us)*
+> [!taelgar-header]
+> (human, Drankorian, he/him, b. 1034, d. 1053)
 
 > [!image|right standard]
 > ![[marius-of-drankor-book-of-martyrs.webp]]

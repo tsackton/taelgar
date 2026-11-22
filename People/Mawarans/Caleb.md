@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -17,10 +16,8 @@ dm_notes: none
 POV: modern
 ---
 # Caleb
->[!info]+ Biographical Info  
-> A [[Mawar Confederacy|Mawaran]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (human, Mawaran, he/him, d. 1742)
 
 Caleb was [[Rayna]]'s maternal grandfather. He raised her for much of her childhood and taught her stories of [[Mawar Confederacy|Mawar]], the [[Society of Ocean Watchers|Ocean Watchers]], and the old heritage of the western coast.
 

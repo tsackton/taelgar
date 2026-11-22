@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -12,8 +11,8 @@ dm_notes: none
 POV: modern
 ---
 # Avariel
->[!info]+ Biographical Info  
-> An [[Elves|elf]] (she/her), ([[Elven Cycle of Generations|ka]] unknown)
+> [!taelgar-header]
+> (elf, she/her)
 
 Avariel was an elven philosopher who proposed the multidimensional web model of the [[Plane of Magic]]. She coined the term [[Ley Lines]] for the strands of magical connection by which arcane power reaches the [[Material Plane]].
 

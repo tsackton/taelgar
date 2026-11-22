@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -16,9 +15,8 @@ POV: 1680s
 ---
 # Izar
 *(ee-SAHR)*
->[!info]+ Biographical Info  
-> A [[Lizardfolk|lizardfolk]] (they/them)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> [!taelgar-header]
+> (lizardfolk, they/them, b. 1579)
 
 Izar is a retired adventurer who serves as an accountant, scribe, and occasional trade facilitator to the inhabitants of the [[Ausson's Crossing]] region.
 

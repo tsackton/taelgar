@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -18,10 +17,8 @@ dm_notes: important
 POV: modern
 ---
 # Eudomes
->[!info]+ Biographical Info  
-> A [[Drankorian Empire|Drankorian]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+> [!taelgar-header]
+> (human, Drankorian, he/him)
 
 A wizard from the last days of the [[Drankorian Empire]]. Trapped the storm giant [[Hralgar]] using powerful magic. 
 

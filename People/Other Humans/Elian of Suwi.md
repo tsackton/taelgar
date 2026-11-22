@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -16,11 +15,9 @@ dm_owner: none
 dm_notes: none
 POV: 1748
 ---
-# Priest Elian of Suwi
->[!info]+ Biographical Info  
-> A [[Humans|human]] (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:grli%% Met by the [[Silver Tempests]] on August 23rd, 1748 in [[Suwi]] %%^End%%
+# Elian of Suwi
+> [!taelgar-header]
+> (human, he/him, lives in Suwi)
 
 Elian of Suwi is a priest serving the coastal village of [[Suwi]]. 
 

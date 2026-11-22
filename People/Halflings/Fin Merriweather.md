@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -15,10 +14,8 @@ dm_notes: none
 POV: 1720s
 ---
 # Fin Merriweather
->[!info]+ Biographical Info  
-> A [[Halflings|halfling]] (he/him), of the [[Merriweathers]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (halfling, he/him, lives in Aslain)
 
 ![[fin-merriweather.jpg|right|200]]A halfling musician who sings at [[The Setting Sun]] in [[Aslain]], and likes to collect colorful leather clothes. Friendly, if somewhat more focused on his music than people at times.
 

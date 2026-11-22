@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -20,11 +19,8 @@ POV: 1748
 ---
 # Enon
 *(eh-NOHN)*
->[!info]+ Biographical Info  
-> A [[Deno'qai]] [[Humans|human]] (he/him), of the [[Ko'zula]]  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (human, Deno'qai, he/him, b. 1678, lives in Azkar)
 
 Enon is a Godcaller of the [[Ko'zula]]. He is an old man, in his 70s, with bushy white hair and a bushy white beard. He is usually dressed in long robes and a cloak, dyed like stone in light gray with trim of red. He walks slowly, using his staff for support, but remains sharp and dexterious.
 

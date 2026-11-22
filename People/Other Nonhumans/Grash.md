@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 displayDefaults: {endStatus: killed}
@@ -24,12 +23,8 @@ dm_notes: important
 POV: modern
 ---
 # Grash
->[!info]+ Biographical Info
-> A skeletal [[Undead|undead]], he/him
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Scryed by the [[Dunmar Fellowship]] on December 28th, 1748 in [[Uzgukhar]], [[Xurkhaz]], the [[Garamjala Desert]] %%^End%%
->> %%^Campaign:dufr%% Defeated by the [[Dunmar Fellowship]] on January 20th, 1749 in [[Uzgukhar]], [[Xurkhaz]], the [[Garamjala Desert]] %%^End%%
+> [!taelgar-header]
+> (undead, he/him, d. 1749)
 
 ![[image-grash-1.png|right|320]]Known as Grash the Undying, an undead warrior and commander of a large [[Orcs|orc]] army in Kharsan. He possessed the [[Ring of Undying]], and used it to create a large army of orcs and undead. 
 

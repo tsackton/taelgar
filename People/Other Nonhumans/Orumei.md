@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-13T13:45:21-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -13,9 +12,8 @@ POV: 1752
 ---
 # Orumei
 *(oh-ROO-may)*
->[!info]+ Biographical Info  
-> A [[Djinn|djinn]] (they/them)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (djinn, they/them, lives in Sulmana)
 
 Orumei is a djinn noble, known as the Duke of the Returning Wind. They are one of the leaders of the factions on the [[Elemental Plane of Air]] opposing the actions of the [[Scouring Wind]]. 
 

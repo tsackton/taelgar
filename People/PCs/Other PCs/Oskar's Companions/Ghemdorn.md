@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T23:02:51-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -22,12 +21,8 @@ POV: 1748
 ---
 # Ghemdorn
 *(GHEM-dorn)*
->[!info]+ Biographical Info  
-> A [[Satyrs|satyr]] (he/him)  
-> [Character Sheet](https://www.dndbeyond.com/characters/53344874)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by [[Riswynn]] on May 31th, 1748 in the [[Yuvanti Mountains]] %%^End%%
+> [!taelgar-header]
+> (satyr, he/him)
 
 Ghemdorn is a satyr paladin, known to travel with [[Eva]]. 
 

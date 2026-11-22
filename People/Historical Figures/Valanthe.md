@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-04T20:08:14-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -20,10 +19,8 @@ POV: modern
 ---
 # Valanthe
 *(vah-LAHN-theh)*
->[!info]+ Biographical Info  
-> An [[Elves|elf]] (she/her), ([[Elven Cycle of Generations|ka]] 32)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (elf, she/her, ka 32, d. 1053)
 
 > [!image|right standard]
 > ![[valanthe-book-of-martyrs.webp]]

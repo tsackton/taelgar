@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 tags: [person, status/review, status/check/lint]
@@ -21,10 +20,8 @@ dm_notes: none
 POV: modern
 ---
 # King Derik I
->[!info]+ Biographical Info
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him), of the [[House of Sewick]]
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
+> [!taelgar-header]
+> (human, Sembaran, he/him, b. 1396, d. 1462)
 
 %% status/review -> Important figure with more information in various linked notes and backlinks, so could probably use a review pass %%
 

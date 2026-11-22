@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-13T13:45:21-04:00"
 lintVersion: "3.5"
 tags: [person, status/cleanup/metadata]
@@ -13,8 +12,8 @@ dm_notes: none
 POV: modern
 ---
 # Silver Feathers of the Storm Cloud, Thunder and Lightning
->[!info]+ Biographical Info  
-> An [[Elementals|elemental]] (roc)
+> [!taelgar-header]
+> (elemental)
 
 %% consider adding whereabouts %%
 

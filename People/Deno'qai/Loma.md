@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
 tags: [person, status/cleanup/metadata, status/check/lint]
@@ -17,11 +16,8 @@ dm_notes: none
 POV: 1747
 ---
 # Loma
->[!info]+ Biographical Info  
-> A [[Deno'qai]] [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:grli%% Met by the [[Silver Tempests]] on November 23rd, 1747 in [[Raha]], the [[Highveil Forest]] %%^End%%
+> [!taelgar-header]
+> (human, Deno'qai, she/her, b. 1733, lives in Raha)
 
 %% Raha does not yet have a tribal connection, but probably should %%
 

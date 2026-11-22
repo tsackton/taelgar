@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 tags: [person, status/gameupdate/dufr, status/check/lint]
@@ -15,9 +14,8 @@ dm_notes: important
 POV: modern
 ---
 # Kyr
->[!info]+ Biographical Info  
-> A [[Lizardfolk|lizardfolk]] (he/him), of the [[Heroes of the Great War]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+> [!taelgar-header]
+> (lizardfolk, he/him)
 
 A hero of the [[Great War]], a lizardfolk renowned for control over the [[Plane of Souls]].
 

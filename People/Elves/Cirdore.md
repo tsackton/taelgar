@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -19,11 +18,8 @@ POV: 1749
 ---
 # Cirdore
 *(KEER-doh-reh)*
->[!info]+ Biographical Info  
-> An [[Elves|elf]] (he/him), ([[Elven Cycle of Generations|ka]] 37)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Hosted for dinner by the [[Dunmar Fellowship]] on January 15th, 1749 in [[Erelion]], [[Orenlas]] %%^End%%
+> [!taelgar-header]
+> (elf, he/him, ka 37, b. 1712, lives in Erelion)
 
 A poet and historian, curious to speak with outsiders. Young, and not confident in his talents yet.
 

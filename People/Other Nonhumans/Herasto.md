@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 tags: [person, status/cleanup/metadata, status/check/lint]
@@ -12,8 +11,8 @@ dm_notes: none
 POV: 1747
 ---
 # Herasto
->[!info]+ Biographical Info  
-> A [[Centaurs|centaur]] (he/him)
+> [!taelgar-header]
+> (centaur, he/him)
 
 %% could use whereabouts %%
 

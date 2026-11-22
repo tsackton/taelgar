@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -20,10 +19,8 @@ POV: 1748
 ---
 # Amay
 *(uh-MAY)*
->[!info]+ Biographical Info  
-> A [[Dunmar|Dunmari]] [[Humans|human]] (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on July 2nd, 1748 camped near [[Tokra]], in [[Dunmar]] %%^End%%
+> [!taelgar-header]
+> (human, Dunmari, he/him)
 
 A captain in the Dunmari army, in service of [[Illyan]] and ultimately the Samraat [[Nayan Karnas]]. 
 

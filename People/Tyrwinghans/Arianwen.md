@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-18T23:43:15-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -14,9 +13,8 @@ POV: 1720
 ---
 # Arianwen
 *(ah-ree-AHN-wen)*
->[!info]+ Biographical Info  
-> A [[Tyrwingha|Tyrwinghan]] [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+> [!taelgar-header]
+> (human, Tyrwinghan, she/her)
 
 Arianwen is a captain of the [[Rangers]] who led a five-person embassy from [[Tyrwingha]] to seek advice and aid from [[Orenlas]] following strange events in the [[Plaguelands]] south of Tyrwingha. Calm and direct, she builds agreement without demanding obedience.
 

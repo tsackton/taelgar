@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-18T23:43:15-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -21,11 +20,8 @@ POV: 1740
 ---
 # Ayveen
 *(AY-veen)*
->[!info]+ Biographical Info  
-> A [[Tollen|Tollish]] [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (human, Tollish, she/her, b. 1727, lives in Tollen)
 
 ![[ayveen.png|400|right]]
 

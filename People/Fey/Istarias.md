@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -14,8 +13,8 @@ POV: 1720
 ---
 # Istarias
 *(iss-TAH-ree-ahs)*
->[!info]+ Biographical Info  
-> A [[Fey|fey]] (he/him)
+> [!taelgar-header]
+> (fey, he/him)
 
 Sir Istarias, the Squire of the Whispering Wind, is a fey servant of [[Lord Serenveil]], ruler of [[Twilight's Edge]]. He can turn invisible at will.
 

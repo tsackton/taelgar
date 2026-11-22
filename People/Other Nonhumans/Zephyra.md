@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -13,9 +12,8 @@ dm_notes: important
 POV: modern
 ---
 # Zephyra
->[!info]+ Biographical Info  
-> A genie ([[Efreeti]])  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (elemental, lives in Elemental Plane of Fire)
 
 %%efreeti rumored to be traveling with Frankar%%
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint, status/check/ai]
@@ -15,10 +14,8 @@ dm_notes: none
 POV: 1720s
 ---
 # Callie Riverstone
->[!info]+ Biographical Info  
-> A [[Halflings|halfling]] (she/her), of Riverstones  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (halfling, she/her, lives in Aslain)
 
 ![[callie-riverstone.jpg|right|200]]A leatherworker specializing in fine colors.
 

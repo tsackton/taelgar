@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-13T12:24:51-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -15,9 +14,8 @@ POV: 1715
 ---
 # Gwydren
 *(GWID-ren)*
->[!info]+ Biographical Info  
-> A [[Beastfolk|beastfolk]] (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (beastfolk, he/him, lives in Thornweald)
 
 > [!image|right standard]
 > ![[gwydren.webp]]

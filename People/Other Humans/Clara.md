@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -17,11 +16,8 @@ dm_notes: none
 POV: 1748
 ---
 # Clara
->[!info]+ Biographical Info  
-> A [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:grli%% Met by the [[Silver Tempests]] on August 23th, 1748 in [[Suwi]] %%^End%%
+> [!taelgar-header]
+> (human, she/her, b. 1731, lives in Suwi)
 
 Clara is a teenage girl from [[Suwi]], a coastal village near the [[Slate Sea]].
 

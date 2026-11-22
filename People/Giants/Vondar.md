@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -18,9 +17,8 @@ dm_notes: important
 POV: 1748
 ---
 # Vondar
->[!info]+ Biographical Info  
-> A [[Giants|giant]] (cursed) (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (giant, he/him)
 
 %% Amberglow home whereabouts, start: 1700 — date uncertain %%
 

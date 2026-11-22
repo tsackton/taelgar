@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 displayDefaults: {endStatus: killed in battle, dPast: "<endstatus:U> by [[Heroes of Cleenseau|The Heroes of Cleenseau]] on <enddate>"}
@@ -15,10 +14,8 @@ dm_notes: color
 POV: modern
 ---
 # Wakog
->[!info]+ Biographical Info  
-> An ogre (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (ogre, he/him, d. 1719, lives in Wakog's Camp)
 
 ![[wakog.jpg|right|320]]An ogre of unclear origin. 
 %%^Date:1719-10-30%%

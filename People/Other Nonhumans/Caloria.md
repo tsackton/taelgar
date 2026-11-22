@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-05T23:11:14-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -15,9 +14,8 @@ POV: modern
 ---
 # Caloria
 *(kah-LOH-ree-ah)*
->[!info]+ Biographical Info  
-> A merfolk (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> [!taelgar-header]
+> (merfolk, she/her)
 
 Caloria was a [[Merfolk|merfolk]] woman who fled [[Buruli]] and sought refuge with [[Dorian Almare]] near [[Tamaro Bay]].
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-06T08:42:53-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -16,9 +15,8 @@ POV: 1740s
 ---
 # Canopy
 *(KAN-uh-pee)*
->[!info]+ Biographical Info  
-> An awakened tree (they/them)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (awakened tree, they/them, lives in Awakened Jungle)
 
 Canopy, also known as the Eldest, is an awakened ceiba tree and the informal leader of the talking plants and animals of the [[Awakened Jungle]]. They remember the magical awakening that first granted awareness to the jungle’s inhabitants.
 

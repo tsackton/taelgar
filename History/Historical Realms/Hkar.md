@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-18T23:48:18-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -13,9 +12,8 @@ dm_notes: important
 POV: modern
 ---
 # Hkar
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (sunken island, in Endless Ocean)
 
 Hkar is known as the possibly mythical place of creation of humanity, and humanity's first homeland. It is said to have sunk during the [[The Downfall|Downfall]].
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -18,9 +17,8 @@ dm_notes: important
 POV: 1749
 ---
 # Égnir
->[!info]+ Biographical Info  
-> An [[Elves|elf]] (he/him), ([[Elven Cycle of Generations|ka]] 37)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (elf, he/him, ka 37)
  
 ![[egnir.png|right|300]]Egnir is a young elf from [[Orenlas]], venturing forth from the shelter of the elven forests for the first time. He is quiet and reserved, and does not speak much. However, he has an incredible knack for plants, and is an expert gardener. 
 

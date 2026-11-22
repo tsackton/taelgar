@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -13,8 +12,8 @@ dm_notes: color
 POV: modern
 ---
 # Aveline of Isingue
->[!info]+ Biographical Info  
-> An [[Istabor Alliance|Isinguer]] [[Humans|human]] (she/her)
+> [!taelgar-header]
+> (human, Isinguer, she/her)
 
 Aveline was a painter who lived and worked in [[Isingue]], known for her vibrant and imaginative use of color.
 

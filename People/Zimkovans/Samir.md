@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-05T23:30:02-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/mike]
@@ -16,9 +15,8 @@ POV: 1730
 ---
 # Samir
 *(sah-MEER)*
->[!info]+ Biographical Info  
-> A [[Zimka]] [[Humans|human]] (she/her)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (human, Zimka, she/her)
 
 Samir is the infant daughter of [[Nura]] and [[Khaled]], a Zimka family from [[Melusa]], and the niece of [[Kalima]].
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -15,10 +14,8 @@ dm_notes: none
 POV: 1747
 ---
 # Sefa
->[!info]+ Biographical Info  
-> A Mawaran [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (human, Mawaran, she/her, d. 1747, lives in Hamri)
 
 Sefa is an older woman, poor and addicted to [[Gatza]], who lives alone in the Drowned Flats, in Hamri. 
 

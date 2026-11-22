@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -20,10 +19,8 @@ dm_notes: none
 POV: modern
 ---
 # Queen Blanche II
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (she/her), of the [[House of Sewick]]  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+> [!taelgar-header]
+> (human, Sembaran, she/her, b. 1570, d. 1602)
 
 The second child of [[Elaine I]] and [[Cynan]]. Her son, [[Arryn II]], succeeds her to the united crowns.
 

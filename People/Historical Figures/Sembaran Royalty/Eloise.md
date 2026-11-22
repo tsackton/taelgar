@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -17,10 +16,8 @@ dm_notes: none
 POV: modern
 ---
 # Eloise
->[!info]+ Biographical Info
-> A [[Sembara|Sembaran]] [[Humans|human]] (she/her), of the [[House of Sewick]]
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
+> [!taelgar-header]
+> (human, Sembaran, she/her, b. 1486, d. 1562)
 
 The youngest daughter of [[Charlotte I]], she lived a long life and had eight children, who married into many of the noble families of Sembara and Tyrwingha.
 

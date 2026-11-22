@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -17,10 +16,8 @@ dm_notes: none
 POV: modern
 ---
 # Hugh
->[!info]+ Biographical Info
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him), of the [[House of Wisenfold]]
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
+> [!taelgar-header]
+> (human, Sembaran, he/him, b. 1509, d. 1562)
 
 The founder of the [[House of Wisenfold]], an important cadet branch of the royal Sembaran line, now based in the [[Duchy of Wisford]]. The second child of [[Derik III]] and [[Sarabet]].
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
 tags: [person, status/gameupdate/dufr, status/check/lint]
@@ -12,8 +11,8 @@ dm_notes: important
 POV: 1749
 ---
 # Milo Thistlefoot
->[!info]+ Biographical Info  
-> A [[Halflings|halfling]] (he/him)
+> [!taelgar-header]
+> (halfling, he/him)
 
 %% needs whereabouts, image, DM notes %%
 

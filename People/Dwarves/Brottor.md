@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -16,10 +15,8 @@ dm_notes: none
 POV: modern
 ---
 # Brottor
->[!info]+ Biographical Info  
-> A [[Dwarves|dwarf]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (dwarf, he/him, d. 1748, lives in Chardon)
 
 Brottor was a dwarven adventurer based in Chardon, and companion of [[Alton]] and [[Cassia]]. He died in the  [[Goldpeak Mines]] after falling under the aberrant influence of the beholder [[Vilaxes]]. 
 

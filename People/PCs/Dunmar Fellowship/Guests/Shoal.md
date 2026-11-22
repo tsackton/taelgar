@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 displayDefaults: {aNoDate: "Traveled with <affiliations>"}
@@ -21,10 +20,8 @@ dm_notes: important
 POV: 1748
 ---
 # Shoal
->[!info]+ Biographical Info  
-> An [[Elves|elf]] (sea) (he/him), ([[Elven Cycle of Generations|ka]] 37)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (elf, he/him, ka 37, b. 1652, lives in Quanyi)
 
 Young sea elf warrior, from the [[Quanyi]], to the south. Adventuring to win renown and the attention of a lady. After [[Session 60 (DuFr)|helping kill the aboleth and rescue Arryn]], returned south. 
 

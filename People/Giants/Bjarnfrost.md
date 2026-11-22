@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 tags: [status/cleanup/metadata, person, status/check/lint]
@@ -16,9 +15,8 @@ dm_notes: important
 POV: modern
 ---
 # King Bjarnfrost
->[!info]+ Biographical Info  
-> A [[Giants|giant]] (frost) (he/him)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+> [!taelgar-header]
+> (giant, he/him)
 
 %% header needs whereabouts, death date, ruled dates %%
 

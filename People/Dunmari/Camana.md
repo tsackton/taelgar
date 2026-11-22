@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -23,12 +22,8 @@ POV: 1748
 ---
 # Camana
 *(chah-MAH-nah)*
->[!info]+ Biographical Info  
-> A [[Dunmar|Dunmari]] [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% The [[Dunmar Fellowship]] attended her funeral on May 5th, 1748 %%^End%%
+> [!taelgar-header]
+> (human, Dunmari, she/her, b. 1721, d. 1748, lives in Eastern Dunmar)
 
 %% need to decide how to track campaign info for people party heard of but never met%%
 

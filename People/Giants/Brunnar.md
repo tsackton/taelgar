@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -14,9 +13,8 @@ dm_notes: none
 POV: 1749
 ---
 # Brunnar
->[!info]+ Biographical Info  
-> A [[Giants|giant]] (stone) (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (giant, he/him, lives in Ulgrathar)
 
 A stone giant living under the rule of [[Dhrukmir]] in [[Ulgrathar]].
 
