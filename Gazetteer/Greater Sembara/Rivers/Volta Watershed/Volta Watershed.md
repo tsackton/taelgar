@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T07:22:39-04:00"
 lintVersion: "3.5"
-tags: [place, status/check/lint]
+tags: [place, status/check/lint, status/check/ai]
 typeOf: watershed
 name: Volta Watershed
 whereabouts:
@@ -20,13 +20,10 @@ The Volta Watershed is the drainage basin of the [[Volta]] and its tributaries, 
 
 ## Places in the Volta Watershed
 
-```dataviewjs
-const { util } = customJS
-dv.table(["Place", "Type Of"], 
-			dv.pages("#place")
-				.where(f => util.inLocation(dv.current().file.name, f.file.frontmatter, dv.current().pageTargetDate) && (f.typeOf == "river" || f.typeOf == "waterway" || f.typeOf == "lake"))
-				.sort(b => util.s("<maintype>", b.file))
-				.map(b => [util.s("<name> (<pronunciation>)", b.file), util.s("<maintype>", b.file)]))
+```taelgar-index
+type: rivers
+mode: table
+heading: false
 ```
 
 %%^End%%

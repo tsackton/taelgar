@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T07:22:39-04:00"
 lintVersion: "3.5"
-tags: [place, status/check/lint]
+tags: [place, status/check/lint, status/check/ai]
 typeOf: watershed
 name: Wistel–Enst Watershed
 whereabouts:
@@ -156,13 +156,10 @@ Mapped lakes in the Wistel-Enst watershed:
 Unnamed Adderfell Lake **unmapped**
 
 ## Places in the Wistel–Enst Watershed
-```dataviewjs
-const { util } = customJS
-dv.table(["Place", "Type Of"], 
-			dv.pages("#place")
-				.where(f => util.inLocation(dv.current().file.name, f.file.frontmatter, dv.current().pageTargetDate) && (f.typeOf == "river" || f.typeOf == "waterway" || f.typeOf == "lake"))
-				.sort(b => util.s("<maintype>", b.file))
-				.map(b => [util.s("<name> (<pronunciation>)", b.file), util.s("<maintype>", b.file)]))
+```taelgar-index
+type: rivers
+mode: table
+heading: false
 ```
 
 %%^End%%

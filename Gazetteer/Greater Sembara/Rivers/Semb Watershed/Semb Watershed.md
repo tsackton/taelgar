@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T07:22:39-04:00"
 lintVersion: "3.5"
-tags: [place]
+tags: [place, status/check/ai]
 typeOf: watershed
 name: Semb Watershed
 whereabouts:
@@ -79,13 +79,10 @@ Mapped Lakes of the Semb Watershed:
 10.10.F.16, 10.10.F20, 11.10.D.13, 11.10.D.17, 11.10.D21
 
 ## Places in the Semb Watershed
-```dataviewjs
-const { util } = customJS
-dv.table(["Place", "Type Of"], 
-			dv.pages("#place")
-				.where(f => util.inLocation(dv.current().file.name, f.file.frontmatter, dv.current().pageTargetDate) && (f.typeOf == "river" || f.typeOf == "waterway" || f.typeOf == "lake"))
-				.sort(b => util.s("<maintype>", b.file))
-				.map(b => [util.s("<name> (<pronunciation>)", b.file), util.s("<maintype>", b.file)]))
+```taelgar-index
+type: rivers
+mode: table
+heading: false
 ```
 
 %%^End%%
