@@ -17,7 +17,6 @@ export function parseArgs(argv) {
     blockTimeoutMs: 30000,
     wait: true,
     obsidianCommand: process.env.OBSIDIAN_COMMAND || DEFAULT_OBSIDIAN_COMMAND,
-    headerType: "website",
     progress: true,
     progressIntervalMs: 1000,
     obsidianOutput: true,
@@ -36,8 +35,11 @@ export function parseArgs(argv) {
     else if (arg === "--date") args.overrideDate = next();
     else if (arg === "--mode") args.mode = next();
     else if (arg === "--report") args.reportPath = next();
-    else if (arg === "--header-type") args.headerType = next();
-    else if (arg === "--dynamic-website") args.dynamicWebsite = true;
+    else if (arg === "--header-type") {
+      if (next() !== "none") {
+        throw new Error("Use the Taelgarverse materializer for header rendering.");
+      }
+    } else if (arg === "--dynamic-website") args.dynamicWebsite = true;
     else if (arg === "--timeout") throw new Error("--timeout was removed; stop stuck materialization processes explicitly.");
     else if (arg === "--block-timeout") args.blockTimeoutMs = Number(next()) * 1000;
     else if (arg === "--obsidian-command" || arg === "--obsidian-cli") {
@@ -83,10 +85,8 @@ Options:
   --mode MODE        audit, write, or check. Defaults to write when --out is set, otherwise audit.
   --date DATE        Override CustomJS target date.
   --report PATH      Report JSON path.
-  --header-type TYPE website, static, or none. Default: website.
-  --dynamic-website Replace generated headers with <!-- taelgar:header -->,
-                    delete dataviewjs blocks and sections left empty by them,
-                    and materialize dataview queries; overrides --header-type.
+  --dynamic-website Materialize Dataview queries and omit DataviewJS blocks
+                    and sections left empty by them from the output.
   --strict           Fail when unsupported blocks or errors are found. Default.
   --no-strict        Produce partial output and report unsupported blocks.
   --block-timeout SECONDS
@@ -138,7 +138,7 @@ export function buildMaterializerRequest(args, options = {}) {
       reportPath,
       progressPath: `${reportPath}.progress.json`,
       overrideDate: args.overrideDate,
-      headerType: args.dynamicWebsite ? "none" : (args.headerType ?? "website"),
+      headerType: "none",
       blockTimeoutMs: args.blockTimeoutMs,
     },
   };
@@ -272,7 +272,7 @@ export function formatProgressLine(progress, options = {}) {
   const bar = `${"#".repeat(filled)}${"-".repeat(Math.max(0, width - filled))}`;
   const base =
     `Materializing [${bar}] ${current}/${total || "?"} ${percent} ` +
-    `changed ${counts.filesChanged ?? 0} headers ${counts.headersRegenerated ?? 0} ` +
+    `changed ${counts.filesChanged ?? 0} ` +
     `dv ${Number(counts.dataviewBlocks ?? 0) + Number(counts.dataviewJsBlocks ?? 0)} ` +
     `inline ${counts.inlineExpressions ?? 0} errors ${counts.errors ?? 0} ` +
     `unsupported ${counts.unsupported ?? 0}`;
@@ -415,7 +415,7 @@ export function formatReportOutcome(report, reportPath) {
   if (counts) {
     lines.push(`Scanned ${counts.filesScanned ?? 0} notes; errors ${counts.errors ?? 0}; unsupported ${counts.unsupported ?? 0}.`);
     if (report.dynamicWebsite) {
-      lines.push(`Dynamic website: ${counts.headerMarkersInserted ?? 0} header markers; ${counts.dataviewJsBlocksRemoved ?? 0} JavaScript blocks removed; ${counts.sectionsRemoved ?? 0} headings removed; ${counts.dataviewBlocks ?? 0} Dataview queries processed.`);
+      lines.push(`Dynamic website: ${counts.dataviewJsBlocksRemoved ?? 0} JavaScript blocks removed; ${counts.sectionsRemoved ?? 0} headings removed; ${counts.dataviewBlocks ?? 0} Dataview queries processed.`);
     }
   }
   if (report.error?.message) lines.push(report.error.message);
@@ -458,7 +458,6 @@ async function main() {
         `Materializing: vault ${vaultPath}`,
         request.config.outputPath ? `Materializing: output ${request.config.outputPath}` : undefined,
         `Materializing: report ${reportPath}`,
-        `Materializing: header type ${request.config.headerType}`,
         request.config.dynamicWebsite ? "Materializing: dynamic website Markdown" : undefined,
         `Materializing: launching ${obsidianCommand}`,
       ]

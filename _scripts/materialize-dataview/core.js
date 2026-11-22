@@ -271,41 +271,11 @@ function detectUnsupportedDataviewQuery(source) {
   );
 }
 
-const DYNAMIC_HEADER_MARKER = "<!-- taelgar:header -->";
-
 function prepareDynamicWebsiteMarkdown(text) {
   const frontmatter = /^(?:\uFEFF)?---[ \t]*\r?\n([\s\S]*?)\r?\n---[ \t]*(?:\r?\n|$)/.exec(text);
   const prefix = frontmatter?.[0] || "";
   const newline = text.includes("\r\n") ? "\r\n" : "\n";
-  let body = text.slice(prefix.length);
-  let headerMarkersInserted = 0;
-
-  // Only versioned, generated note headers are replaced. Ordinary page titles
-  // and the frontmatter are retained on notes without headerVersion.
-  const headerVersion = frontmatter?.[1].match(/^headerVersion[ \t]*:[ \t]*([^\r\n#]+)/m)?.[1].trim();
-  if (headerVersion && !["null", "~", '""', "''"].includes(headerVersion) &&
-      !body.trimStart().startsWith(DYNAMIC_HEADER_MARKER)) {
-    const lines = splitLinesWithPositions(body);
-    let index = lines.findIndex((line) => line.text.trim());
-    let end = 0;
-    if (index >= 0 && /^ {0,3}#[ \t]+\S/.test(lines[index].text)) {
-      end = lines[index].end;
-      let inInfo = false;
-      for (index += 1; index < lines.length; index += 1) {
-        const line = lines[index].text;
-        if (/^[ \t]*>+[ \t]*\[!info\]/i.test(line)) inInfo = true;
-        else if (/^[ \t]*>[ \t]*\[!/.test(line)) break;
-        const inline = line.trim().match(/^`\$=(.+)`[ \t]*$/);
-        if (!(/^[ \t]*\*\(.+\)\*[ \t]*$/.test(line) ||
-              (inInfo && /^[ \t]*>/.test(line)) ||
-              (inline && parseKnownInlineExpression(inline[1].trim())))) break;
-        end = lines[index].end;
-      }
-    }
-    body = DYNAMIC_HEADER_MARKER + newline + newline + body.slice(end).replace(/^(?:[ \t]*\r?\n)*/, "");
-    headerMarkersInserted = 1;
-  }
-
+  const body = text.slice(prefix.length);
   const fences = scanFencedCodeBlocks(body);
   const removedBlocks = fences.filter((block) => block.language === "dataviewjs" && block.closed);
   const replacements = removedBlocks.map((block) => ({
@@ -331,7 +301,6 @@ function prepareDynamicWebsiteMarkdown(text) {
 
   return {
     content: prefix + applyReplacements(body, replacements),
-    headerMarkersInserted,
     dataviewJsBlocksRemoved: removedBlocks.length,
     sectionsRemoved,
   };
@@ -383,7 +352,6 @@ function countRemainingDynamicMarkdown(text) {
 }
 
 module.exports = {
-  DYNAMIC_HEADER_MARKER,
   KNOWN_INLINE_VIEWS,
   applyReplacements,
   countRemainingDynamicMarkdown,

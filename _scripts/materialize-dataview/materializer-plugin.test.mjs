@@ -23,13 +23,13 @@ function createPlugin(vaultRoot) {
   return plugin;
 }
 
-test("dynamic website output marks headers, deletes JS-only sections, and materializes DQL without running JavaScript", async () => {
+test("dynamic website output preserves headers and materializes DQL without running JavaScript", async () => {
   const plugin = createPlugin(os.tmpdir());
-  const config = plugin.normalizeConfig({ dynamicWebsite: true, headerType: "website" });
+  const config = plugin.normalizeConfig({ dynamicWebsite: true });
   const file = { path: "Example.md", name: "Example.md", basename: "Example" };
   const original = [
-    "---", "headerVersion: 2023.11.25", "tags: [person]", "---", "# Example",
-    "*(example)*", ">[!info]+ Biographical Info", '> `$=dv.view("_scripts/view/get_PageDatedValue")`', "",
+    "---", "tags: [person]", "---", "# Example",
+    "*(example)*", "> [!taelgar-header]", "> Saved biography", "",
     "## Removed section", "```dataviewjs", 'document.createElement("div");', "```", "",
     "## Kept section", "", "Retained prose — including Unicode.", "",
     "~~~dataviewjs", 'dv.paragraph("Delete this too.");', "~~~", "",
@@ -41,38 +41,34 @@ test("dynamic website output marks headers, deletes JS-only sections, and materi
     calls.push({ body, sourcePath });
     return "- [[Synthetic Person]]\n";
   } } };
-  plugin.regenerateHeader = () => assert.fail("Headers must be marked instead of regenerated");
   plugin.renderDataviewJs = () => assert.fail("DataviewJS must not run");
   plugin.renderKnownInlineExpression = () => assert.fail("Inline JS must not run");
 
   const result = await plugin.materializeMarkdown(original, file, runtime, core, config);
 
-  assert.equal(config.headerType, "none");
-  assert.match(result.content,/^---\nheaderVersion: 2023\.11\.25\ntags: \[person\]\n---\n<!-- taelgar:header -->/);
-  assert.doesNotMatch(result.content,/# Example|Biographical Info|\$=|dataviewjs|document\.|dv\.paragraph|Removed section/);
+  assert.match(result.content, /^---\ntags: \[person\]\n---\n# Example\n\*\(example\)\*\n> \[!taelgar-header\]\n> Saved biography/);
+  assert.doesNotMatch(result.content, /dataviewjs|document\.|dv\.paragraph|Removed section/);
   assert.match(result.content,/## Kept section\n\nRetained prose — including Unicode\./);
   assert.match(result.content,/## Query results\n- \[\[Synthetic Person\]\]\n## Footer/);
   assert.match(result.content,/More retained prose\./);
   assert.deepEqual(calls,[{ body: "LIST FROM #person\n", sourcePath: file.path }]);
   assert.equal(result.report.counts.dataviewBlocks,1);
-  assert.equal(result.report.counts.headerMarkersInserted,1);
   assert.equal(result.report.counts.dataviewJsBlocksRemoved,2);
   assert.equal(result.report.counts.sectionsRemoved,1);
-  for (const key of ["dataviewJsBlocks","inlineExpressions","headersRegenerated","unsupported","errors"]) assert.equal(result.report.counts[key],0,key);
+  for (const key of ["dataviewJsBlocks","inlineExpressions","unsupported","errors"]) assert.equal(result.report.counts[key],0,key);
   assert.equal(result.report.remaining.dataviewFences,0);
   assert.equal(result.report.remaining.dataviewJsFences,0);
   assert.equal(result.report.remaining.inlineExpressions,0);
 });
 
-test("default mode still materializes DQL, DataviewJS, headers, and supported inline expressions", async () => {
+test("default mode preserves native headers and materializes DQL, DataviewJS, and supported inline expressions", async () => {
   const plugin = createPlugin(os.tmpdir());
-  const config = plugin.normalizeConfig({ headerType: "website" });
+  const config = plugin.normalizeConfig({});
   const original = [
-    "# Old header", "", "```dataview", "LIST FROM #person", "```", "",
+    "# Example", "> [!taelgar-header]", "> Saved summary", "", "```dataview", "LIST FROM #person", "```", "",
     "```dataviewjs", 'dv.paragraph("JS");', "```", "",
     '`$=dv.view("_scripts/view/get_PageDatedValue")`', "",
   ].join("\n");
-  plugin.regenerateHeader = (text) => text.replace("# Old header", "# New header");
   plugin.renderDataviewJs = async () => "JS output";
   plugin.renderKnownInlineExpression = () => "Inline output";
   const runtime = { api: { tryQueryMarkdown: async () => "DQL output" } };
@@ -80,8 +76,8 @@ test("default mode still materializes DQL, DataviewJS, headers, and supported in
   const result = await plugin.materializeMarkdown(original, { path: "Example.md" }, runtime, core, config);
 
   assert.equal(config.dynamicWebsite, false);
-  assert.equal(result.content, "# New header\n\nDQL output\nJS output\nInline output\n");
-  for (const key of ["dataviewBlocks", "dataviewJsBlocks", "inlineExpressions", "headersRegenerated"]) {
+  assert.equal(result.content, "# Example\n> [!taelgar-header]\n> Saved summary\n\nDQL output\nJS output\nInline output\n");
+  for (const key of ["dataviewBlocks", "dataviewJsBlocks", "inlineExpressions"]) {
     assert.equal(result.report.counts[key], 1, key);
   }
   assert.equal(result.report.counts.errors, 0);
@@ -128,7 +124,7 @@ test("dynamic CLI writes stage Markdown and releases Obsidian without copying th
   const vaultPath = path.join(root, "vault"), outputPath = path.join(root, "output");
   const stagedMarkdownPath = path.join(outputPath, ".stage.json");
   await fs.mkdir(vaultPath);
-  const fixture = createAuditPlugin('---\nheaderVersion: 2023.11.25\n---\n# Example\n\n```dataview\nLIST FROM #person\n```\n');
+  const fixture = createAuditPlugin('# Example\n> [!taelgar-header]\n\n```dataview\nLIST FROM #person\n```\n');
   fixture.plugin.getVaultBasePath = () => vaultPath;
   assert.equal(fixture.plugin.supportsExternalCopy, true);
   const report = await fixture.plugin.runMaterialization({
@@ -142,7 +138,7 @@ test("dynamic CLI writes stage Markdown and releases Obsidian without copying th
   assert.equal(bundle.requestId, "handoff");
   assert.equal(bundle.dynamicWebsite, true);
   assert.equal(report.publicationPolicy, "context-v1");
-  assert.match(bundle.files[0].content, /<!-- taelgar:header -->/);
+  assert.match(bundle.files[0].content, /^# Example\n> \[!taelgar-header\]/);
   assert.match(bundle.files[0].content, /DQL output/);
   assert.deepEqual(await fs.readdir(outputPath), [".stage.json"]);
   assert.equal(fixture.restored(), 1);

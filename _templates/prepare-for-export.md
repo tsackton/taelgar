@@ -1,1 +1,1 @@
-<%* tp.user.prepareForExport(tp, "website") %>
+<%* tp.user.prepareForExport(tp) %>

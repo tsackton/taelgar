@@ -33,12 +33,11 @@ function shouldSkipForExport(file) {
     return topLevelDirectory.startsWith("_") || topLevelDirectory === "Worldbuilding";
 }
 
-async function prepareForExport(tp, headerType) {
+async function prepareForExport(tp) {
 
     await forceLoadCustomJS()
     await customJS.init.invoke()
 
-    const { OutputHandler } = customJS
     const { DateManager } = customJS
     const { WhereaboutsManager } = customJS
 
@@ -70,34 +69,14 @@ async function prepareForExport(tp, headerType) {
     const files = app.vault.getMarkdownFiles().filter((file) => !shouldSkipForExport(file))
     const totalFiles = files.length
     let processed = 0
-    let errors = 0
-
-    var notice = new Notice("Link checking skipped. Making headers static", 0)
+    var notice = new Notice("Preparing export metadata", 0)
 
     for (let i = 0; i < files.length; i++) {
         let md = app.metadataCache.getFileCache(files[i])
 
-        let processHeader = md && md.frontmatter && md.frontmatter.tags && md.frontmatter.headerVersion
         let dateValue = md.frontmatter ? DateManager.getPageDates(md.frontmatter) : { isCreated: true }
         let processFrontmatter = !dateValue.isCreated || (staticify_whereabouts && md.frontmatter && md.frontmatter.whereabouts && Array.isArray(md.frontmatter.whereabouts))
 
-
-        if (processHeader) {
-            await app.vault.process(files[i], (data) => {
-                try {
-                    let newC = OutputHandler.regenerateHeader(data, files[i].name, md.frontmatter, headerType)
-                    processed++
-                    return newC.join("\n");
-                }
-                catch (error) {
-                    console.log("Failed to update file " + files[i].name)
-                    console.log(error)
-                    errors++;
-                }
-                processed++
-                return data
-            })
-        }
 
         if (processFrontmatter) {
             await app.fileManager.processFrontMatter(files[i], frontmatter => {
@@ -122,12 +101,10 @@ async function prepareForExport(tp, headerType) {
             });
         }
 
-        notice.setMessage("Making headers static\nProcessing file " + (files[i].name.padEnd(100, " ")) + "\n\nFiles checked: " + (i + 1) + " of " + totalFiles + "\nHeaders updated: " + processed + "\n\nErrors: " + errors)
+        notice.setMessage(`Preparing export metadata\nFiles checked: ${i + 1} of ${totalFiles}`)
     }
 
     notice.hide()
-
-    new Notice("Headers updated.")
 
     if (staticify_dataview) {
 
@@ -183,7 +160,7 @@ async function prepareForExport(tp, headerType) {
         notice.hide()
     }
    
-    new Notice("Headers updated.")
+    new Notice("Export preparation complete.")
 
 
     customJS.state.overrideDate = undefined

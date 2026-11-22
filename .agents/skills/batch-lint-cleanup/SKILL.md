@@ -18,7 +18,7 @@ User-adopted workflow exceptions:
 - Add no `status/check/ai` for this cleanup or header regeneration. Preserve existing AI and other status tags except approved lint removal and requested reviewer additions.
 - Commit an approved subset together instead of one note at a time.
 
-Live-note changes are limited to: adding accepted frontmatter pronunciation where absent; approved names-block edits; eligible report/lint-tag removal; explicitly requested Mike/Tim review tags and context comments; and helper-generated headers. Preserve established naming context and unrelated entries. Never change frontmatter `name`, `aliases`, existing pronunciation, `lintedAt`, `lintVersion`, or `headerVersion`; rename/move files; edit article prose; normalize unrelated formatting; repair unrelated links; or remove other status tags. Required out-of-scope changes need separate authorization. Setting up this skill or preparing a review does not approve note changes.
+Live-note changes are limited to: adding accepted frontmatter pronunciation where absent; approved names-block edits; eligible report/lint-tag removal; explicitly requested Mike/Tim review tags and context comments; and helper-generated headers. Preserve established naming context and unrelated entries. Never change frontmatter `name`, `aliases`, existing pronunciation, `lintedAt` or `lintVersion`; rename/move files; edit article prose; normalize unrelated formatting; repair unrelated links; or remove other status tags. Required out-of-scope changes need separate authorization. Setting up this skill or preparing a review does not approve note changes.
 
 ## Start and select
 
@@ -106,7 +106,7 @@ Create a temporary candidate in a dot directory inside the vault, retaining the 
 python -X utf8 .agents/skills/review-stub-staging/scripts/regenerate_header.py "PATH/TO/CANDIDATE.md"
 ```
 
-The default prints the complete candidate; use that output. Preserve `headerVersion`, including absence. Use existing `pageTargetDate`, otherwise the helper's Calendarium date/fallback; add no date metadata and never substitute real-world/session dates. Inspect title, pronunciation, callout, dynamic views, and campaign interactions. Routine refresh is approved with the row; show material unexpected changes for approval. Hold a row on helper failure or ambiguous boundaries rather than saving without regeneration. Add no AI tag.
+The helper prints the complete candidate using Taelgarverse's saved-header writer. Inspect the title, pronunciation and native callout. Dated information renders in Obsidian. Routine refresh is approved with the row; show material unexpected changes for approval. Hold a row on helper failure or ambiguous boundaries rather than saving without regeneration. Add no AI tag.
 
 Read each changed note completely. Parse its single top frontmatter and names-block YAML without linting. Check approved values, primary pronunciation synchronization, one correct names block, report disposition, allowed tags/comments, unchanged lint completion/version metadata, and header equality to helper output. Compare full before/after changes to prove preservation outside scope. Run scoped `git diff --check`; preserve intentional hard breaks and ignore unrelated findings.
 

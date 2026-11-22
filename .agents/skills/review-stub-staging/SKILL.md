@@ -81,17 +81,15 @@ Unlike ordinary lint's optional pronunciation exemption for obvious names, this 
 
 ## Generate the Obsidian header
 
-After settling identity metadata, generate the header before the complete-page preview. Use the Python entry point, which runs the live JavaScript `OutputHandler.generateHeader(..., true)` used by `_scripts/templater/regenerateHeader.js`, with the vault's current metadata and campaign registry:
+Prepare a temporary candidate inside the vault using the intended filename and approved identity metadata. Run the installed Taelgarverse saved-header writer through the preview helper:
 
 ```powershell
 python -X utf8 .agents/skills/review-stub-staging/scripts/regenerate_header.py "PATH/TO/CANDIDATE.md"
 ```
 
-The default prints the entire candidate without writing. Run it on a temporary draft inside the vault when the proposed metadata differs from the current page; do not save unapproved prose to the live target just to generate a preview. Pass the intended filename unchanged so name fallback is correct. Use the existing `pageTargetDate` when present; otherwise the helper uses the Taelgar calendar's current date from the vault's Calendarium configuration, matching the ordinary Obsidian header default. If no configured calendar date is available, use January 1, 1750 (`1750-01-01`) as the header-preview fallback. This fallback is not written into page metadata. Do not ask the user for an in-world display date or add `pageTargetDate` as part of this workflow. The optional `--date` override is only for an explicitly requested preview date. Never substitute the real-world date or a session date. The adapter excludes dot directories and refuses ambiguous filename links.
+The helper prints the complete candidate. For an eligible draft that needs its first header, insert an empty top-level `> [!taelgar-header]` callout after the title or use `--add`. The writer uses the vault's naming rules for the title and creates a saved pronunciation line and callout summary from the candidate's metadata. Obsidian renders the dated details from the callout. Use the native tool's skip reason to resolve missing eligibility or ambiguous boundaries before saving.
 
-Include the generated title, pronunciation line, information callout, dynamic views, and campaign interactions in the full-page preview. Preserve an existing `headerVersion`; the helper deliberately regenerates only the header, rather than rewriting version metadata. For a page lacking `headerVersion`, supply the current template value in the draft. The helper preserves the remaining article, comments, embeds, and persistent blocks. Inspect an unfamiliar header manually rather than widening replacement boundaries.
-
-After approval and tag selection, save the reviewed candidate including its generated header; printing the helper's output does not update the draft file. Preserve intentional Markdown hard-break spaces in generated headers and existing text; do not apply blanket line stripping to the candidate. Review any whitespace-check findings in context and fix only unintended whitespace. `--write` is available to regenerate a live header only within authorized scope; if regeneration materially changes the approved preview, obtain approval of the new complete text before saving it. Do not hand-author a substitute header or port only a subset of name/token/campaign rules.
+Inspect the title, pronunciation and callout in the full-page preview. Check that the approved article, comments, embeds and persistent blocks carry through. After approval and tag selection, save the reviewed candidate. The helper's `--write` option delegates to the native writer for an explicitly approved file.
 
 ## Full-page approval, tags, and filing
 

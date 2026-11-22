@@ -128,7 +128,6 @@ module.exports = class TaelgarDataviewMaterializerPlugin extends Plugin {
 
   addTimingTotals(totals, timing) {
     totals.readMs += timing.readMs || 0;
-    totals.headerMs += timing.headerMs || 0;
     totals.dataviewMs += timing.dataviewMs || 0;
     totals.dataviewJsMs += timing.dataviewJsMs || 0;
     totals.inlineMs += timing.inlineMs || 0;
@@ -148,7 +147,6 @@ module.exports = class TaelgarDataviewMaterializerPlugin extends Plugin {
     const slowFiles = [];
     const timingTotals = {
       readMs: 0,
-      headerMs: 0,
       dataviewMs: 0,
       dataviewJsMs: 0,
       inlineMs: 0,
@@ -160,8 +158,6 @@ module.exports = class TaelgarDataviewMaterializerPlugin extends Plugin {
       dataviewBlocks: 0,
       dataviewJsBlocks: 0,
       inlineExpressions: 0,
-      headersRegenerated: 0,
-      headerMarkersInserted: 0,
       dataviewJsBlocksRemoved: 0,
       sectionsRemoved: 0,
       unsupported: 0,
@@ -207,8 +203,6 @@ module.exports = class TaelgarDataviewMaterializerPlugin extends Plugin {
         counts.dataviewBlocks += result.report.counts.dataviewBlocks;
         counts.dataviewJsBlocks += result.report.counts.dataviewJsBlocks;
         counts.inlineExpressions += result.report.counts.inlineExpressions;
-        counts.headersRegenerated += result.report.counts.headersRegenerated;
-        counts.headerMarkersInserted += result.report.counts.headerMarkersInserted;
         counts.dataviewJsBlocksRemoved += result.report.counts.dataviewJsBlocksRemoved;
         counts.sectionsRemoved += result.report.counts.sectionsRemoved;
         counts.unsupported += result.report.counts.unsupported;
@@ -318,8 +312,8 @@ module.exports = class TaelgarDataviewMaterializerPlugin extends Plugin {
     }
 
     const headerType = rawConfig.headerType || "none";
-    if (!["none", "static", "website"].includes(headerType)) {
-      throw new Error(`Unsupported materializer headerType: ${headerType}`);
+    if (headerType !== "none") {
+      throw new Error("Use the Taelgarverse materializer for header rendering.");
     }
 
     return {
@@ -331,7 +325,6 @@ module.exports = class TaelgarDataviewMaterializerPlugin extends Plugin {
       requestId: rawConfig.requestId,
       vaultPath,
       outputPath,
-      headerType: rawConfig.dynamicWebsite === true ? "none" : headerType,
       reportPath: rawConfig.reportPath,
       progressPath: rawConfig.progressPath || progressPathFor(rawConfig.reportPath),
       excludedTopLevelDirs: rawConfig.excludedTopLevelDirs || DEFAULT_EXCLUDED_TOP_LEVEL_DIRS,
@@ -601,8 +594,6 @@ module.exports = class TaelgarDataviewMaterializerPlugin extends Plugin {
         dataviewBlocks: 0,
         dataviewJsBlocks: 0,
         inlineExpressions: 0,
-        headersRegenerated: 0,
-        headerMarkersInserted: 0,
         dataviewJsBlocksRemoved: 0,
         sectionsRemoved: 0,
         unsupported: 0,
@@ -615,7 +606,6 @@ module.exports = class TaelgarDataviewMaterializerPlugin extends Plugin {
         inlineExpressions: 0,
       },
       timing: {
-        headerMs: 0,
         dataviewMs: 0,
         dataviewJsMs: 0,
         inlineMs: 0,
@@ -627,30 +617,10 @@ module.exports = class TaelgarDataviewMaterializerPlugin extends Plugin {
     if (config.dynamicWebsite) {
       const prepared = core.prepareDynamicWebsiteMarkdown(source);
       source = prepared.content;
-      for (const key of ["headerMarkersInserted", "dataviewJsBlocksRemoved", "sectionsRemoved"]) {
+      for (const key of ["dataviewJsBlocksRemoved", "sectionsRemoved"]) {
         report.counts[key] = prepared[key];
       }
     }
-    if (!config.dynamicWebsite && config.headerType !== "none") {
-      const headerStartedMs = Date.now();
-      try {
-        const regenerated = this.regenerateHeader(source, file, runtime, config.headerType);
-        if (regenerated !== source) {
-          source = regenerated;
-          report.counts.headersRegenerated += 1;
-        }
-      } catch (error) {
-        report.counts.errors += 1;
-        report.issues.push({
-          type: "error",
-          line: 1,
-          message: `Header regeneration failed: ${error.message}`,
-        });
-      } finally {
-        report.timing.headerMs += Date.now() - headerStartedMs;
-      }
-    }
-
     const fenceReplacements = [];
     const fences = core.scanFencedCodeBlocks(source);
 
@@ -771,16 +741,6 @@ module.exports = class TaelgarDataviewMaterializerPlugin extends Plugin {
       changed: report.changed,
       report,
     };
-  }
-
-  regenerateHeader(source, file, runtime, headerType) {
-    const outputHandler = runtime.customJS.OutputHandler;
-    if (!outputHandler) throw new Error("customJS.OutputHandler is not available.");
-
-    const frontmatter = this.app.metadataCache.getFileCache(file)?.frontmatter;
-    if (!frontmatter?.tags || !frontmatter?.headerVersion) return source;
-
-    return outputHandler.regenerateHeader(source, file.name, frontmatter, headerType).join("\n");
   }
 
   addIssue(report, type, block, message) {

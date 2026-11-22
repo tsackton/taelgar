@@ -26,7 +26,7 @@ test("parseArgs accepts Obsidian CLI options", () => {
     "--obsidian-vault",
     "Taelgar",
     "--header-type",
-    "static",
+    "none",
     "--no-progress",
     "--progress-interval",
     "2",
@@ -38,7 +38,6 @@ test("parseArgs accepts Obsidian CLI options", () => {
   assert.equal(args.strict, false);
   assert.equal(args.obsidianCommand, "/bin/obsidian");
   assert.equal(args.obsidianVault, "Taelgar");
-  assert.equal(args.headerType, "static");
   assert.equal(args.progress, false);
   assert.equal(args.progressIntervalMs, 2000);
   assert.equal(args.obsidianOutput, false);
@@ -49,18 +48,17 @@ test("parseArgs defaults to obsidian-cli", () => {
   assert.equal(parseArgs([]).dynamicWebsite, false);
 });
 
-test("dynamic-website requests disable static header regeneration regardless of option order", () => {
-  for (const argv of [
-    ["--dynamic-website"],
-    ["--header-type", "website", "--dynamic-website"],
-    ["--dynamic-website", "--header-type", "static"],
-  ]) {
-    const args = parseArgs(argv);
-    const { request } = buildMaterializerRequest(args, { cwd: "/tmp/Taelgar" });
-    assert.equal(args.dynamicWebsite, true);
-    assert.equal(request.config.dynamicWebsite, true);
-    assert.equal(request.config.headerType, "none");
-    assert.match(buildEvalCode(request), /"dynamicWebsite":true/);
+test("dynamic website requests preserve headers while preparing queries", () => {
+  const args = parseArgs(["--dynamic-website"]);
+  const { request } = buildMaterializerRequest(args, { cwd: "/tmp/Taelgar" });
+  assert.equal(request.config.dynamicWebsite, true);
+  assert.equal(request.config.headerType, "none");
+  assert.match(buildEvalCode(request), /"dynamicWebsite":true/);
+});
+
+test("header rendering requests direct users to the Taelgarverse materializer", () => {
+  for (const type of ["website", "static"]) {
+    assert.throws(() => parseArgs(["--header-type", type]), /Taelgarverse materializer/);
   }
 });
 
@@ -94,7 +92,7 @@ test("buildMaterializerRequest resolves defaults", () => {
   assert.equal(request.config.mode, "write");
   assert.equal(request.config.strict, false);
   assert.equal(request.config.dynamicWebsite, false);
-  assert.equal(request.config.headerType, "website");
+  assert.equal(request.config.headerType, "none");
   assert.equal("timeoutMs" in request.config, false);
   assert.equal(reportPath, path.resolve("/tmp/Taelgar-static/.dataview-materialization-report.json"));
 });
@@ -215,7 +213,6 @@ test("formatProgressLine includes useful running counts", () => {
       currentFile: "People/Example.md",
       counts: {
         filesChanged: 20,
-        headersRegenerated: 15,
         dataviewBlocks: 3,
         dataviewJsBlocks: 4,
         inlineExpressions: 100,
@@ -228,7 +225,7 @@ test("formatProgressLine includes useful running counts", () => {
 
   assert.match(line, /50\/100/);
   assert.match(line, /50\.0%/);
-  assert.match(line, /headers 15/);
+  assert.match(line, /changed 20/);
   assert.match(line, /dv 7/);
   assert.match(line, /inline 100/);
   assert.match(line, /People\/Example\.md/);

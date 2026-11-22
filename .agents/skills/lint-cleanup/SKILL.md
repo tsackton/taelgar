@@ -5,7 +5,7 @@ description: Find Taelgar pages whose existing lint findings concern only names,
 
 # Name-only lint cleanup
 
-Resolve existing name findings with the user. This is a bounded cleanup of a recorded report, not a new lint or a claim that the page passes current lint rules. Never invoke the full lint workflow, validator, batch finalizer, or lint agents. Regenerate the header using the stub review's helper after naming approval. Do not update `lintedAt`, `lintVersion`, or `headerVersion`.
+Resolve existing name findings with the user. This is a bounded cleanup of a recorded report, not a new lint or a claim that the page passes current lint rules. Never invoke the full lint workflow, validator, batch finalizer, or lint agents. Regenerate the header using the stub review's helper after naming approval. Preserve `lintedAt` and `lintVersion`.
 
 ## Authority and strict write boundary
 
@@ -92,9 +92,9 @@ After the naming proposal, report disposition, and reviewer choice are settled, 
 python -X utf8 .agents/skills/review-stub-staging/scripts/regenerate_header.py "PATH/TO/CANDIDATE.md"
 ```
 
-This runs the live `OutputHandler.generateHeader(..., true)` with current vault metadata and campaign registry. Use existing `pageTargetDate` when present, otherwise the configured Taelgar Calendarium date, with `1750-01-01` as the helper's fallback. Do not substitute a real-world/session date, ask for a display date, or add date metadata. Preserve existing `headerVersion`; do not add or change it as part of this cleanup. Use `--date` only for an explicitly requested preview override.
+The helper uses Taelgarverse to produce the saved title, pronunciation and native callout. Dated information renders in Obsidian.
 
-Inspect the generated title, pronunciation line, information callout, and any generated dynamic views or campaign interactions. Show the resulting header in chat; naming approval includes this routine generated refresh, so no separate approval is needed unless it exposes a material unexpected change. Preserve article text, other comments, embeds, and persistent blocks. On an unfamiliar header, helper failure, ambiguous link, or changes beyond the generated header, stop that page's save and report the issue rather than broadening replacement boundaries or silently saving without regeneration. Save the verified regenerated candidate after the ordinary live-content check. Header regeneration adds no `status/check/ai`, and it never removes an existing AI tag.
+Inspect the generated title, pronunciation line and native callout. Show the resulting header in chat; naming approval includes this routine generated refresh, so no separate approval is needed unless it exposes a material unexpected change. Preserve article text, other comments, embeds, and persistent blocks. On an unfamiliar header, helper failure, ambiguous link, or changes beyond the generated header, stop that page's save and report the issue rather than broadening replacement boundaries or silently saving without regeneration. Save the verified regenerated candidate after the ordinary live-content check. Header regeneration adds no `status/check/ai`, and it never removes an existing AI tag.
 
 ## Apply, verify, commit, and offer push
 

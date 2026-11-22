@@ -2,20 +2,18 @@ import assert from "node:assert/strict";
 import test from "node:test";
 import core from "./core.js";
 
-test("dynamic website headers use a stable marker without changing frontmatter or body prose", () => {
-  const yaml = '---\r\nheaderVersion: 2023.11.25\r\ntags: [person]\r\nname: "Synthetic"\r\n---\r\n';
-  const header = '# Synthetic\r\n*(sin-THET-ik)*\r\n>[!info]+ Biographical Info\r\n> A person\r\n>> `$=dv.view("_scripts/view/get_Whereabouts")`\r\n\r\n';
-  const body = '> [!image|right standard]\r\n> ![[portrait.png]]\r\n\r\n## History\r\n\r\nKeep this prose.\r\n';
-  const result = core.prepareDynamicWebsiteMarkdown(yaml + header + body);
-  assert.equal(result.content,yaml + '<!-- taelgar:header -->\r\n\r\n' + body);
-  assert.equal(result.headerMarkersInserted,1);
-  assert.equal(core.prepareDynamicWebsiteMarkdown(result.content).content,result.content);
-  assert.equal(core.prepareDynamicWebsiteMarkdown('# Plain title\n\nPlain text.\n').content,'# Plain title\n\nPlain text.\n');
+test("dynamic website query preparation preserves titles, native callouts, and prose", () => {
+  const original = [
+    "---", "tags: [person]", "---", "# Synthetic", "*(sin-THET-ik)*",
+    "> [!taelgar-header]", "> A person", "", "> [!image|right standard]",
+    "> ![[portrait.png]]", "", "## History", "", "Keep this prose.", "",
+  ].join("\r\n");
+  assert.equal(core.prepareDynamicWebsiteMarkdown(original).content, original);
 });
 
-test("marking a header preserves prose immediately following the title", () => {
-  const original = '---\nheaderVersion: 2023.11.25\n---\n# Title\nDo not delete this paragraph.\n';
-  assert.equal(core.prepareDynamicWebsiteMarkdown(original).content,'---\nheaderVersion: 2023.11.25\n---\n<!-- taelgar:header -->\n\nDo not delete this paragraph.\n');
+test("obsolete version metadata no longer triggers a header rewrite", () => {
+  const original = "---\nheaderVersion: 2023.11.25\n---\n# Title\nDo not delete this paragraph.\n";
+  assert.equal(core.prepareDynamicWebsiteMarkdown(original).content, original);
 });
 
 test("JS-only headings and empty ancestors are pruned without deleting campaign/date delimiters", () => {

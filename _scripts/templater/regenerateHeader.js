@@ -1,21 +1,11 @@
-async function regenerateHeader(tp, headerType) {
-
-    await customJS.init.invoke()
-
-    const { OutputHandler } = customJS
-
-    async function updateCurrentFile(someContent, someFile) {
-        someContent = someContent.join("\n");     
-        await app.vault.adapter.write(someFile.path, someContent);
-    }
- 
-    let tfile = app.vault.getAbstractFileByPath(tp.file.path(true));
-    let filecontents = await app.vault.adapter.read(tfile.path);
-    let newContents = ""
-
-    newContents = OutputHandler.regenerateHeader(filecontents, tp.file.title, tp.frontmatter, headerType)
-    
-    await updateCurrentFile(newContents, tfile)
-
+function regenerateHeader(tp) {
+    const targetPath = tp.file.path(true);
+    tp.hooks.on_all_templates_executed(() => {
+        if (app.workspace.getActiveFile()?.path !== targetPath) return;
+        if (!app.commands.executeCommandById("taelgarverse:regenerate-page-header")) {
+            new Notice("Enable Taelgarverse to regenerate the page header.");
+        }
+    });
 }
+
 module.exports = regenerateHeader;

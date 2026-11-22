@@ -31,7 +31,7 @@ test("Node copy writes prepared notes and streams public assets while retaining 
     await fs.writeFile(target, relative === "assets/scene.png" ? binary : "Original " + relative);
   }
   const events = [];
-  const copied = await copyOutputBundle({ vaultPath, outputPath, files: [{ path: "Note.md", content: "<!-- taelgar:header -->\nPrepared body.\n" }] }, async event => { events.push(event); });
+  const copied = await copyOutputBundle({ vaultPath, outputPath, files: [{ path: "Note.md", content: "> [!taelgar-header]\n\nPrepared body.\n" }] }, async event => { events.push(event); });
   assert.match(await fs.readFile(path.join(outputPath, "Note.md"), "utf8"), /Prepared body/);
   assert.equal(await fs.readFile(path.join(vaultPath, "Note.md"), "utf8"), "Original Note.md");
   assert.deepEqual(await fs.readFile(path.join(outputPath, "assets/scene.png")), binary);
@@ -44,7 +44,8 @@ test("Node copy writes prepared notes and streams public assets while retaining 
 });
 
 test("Node copy rejects the source vault and its descendants as output", async t => {
-  const { vaultPath } = await fixture(t);
+  const { vaultPath: source } = await fixture(t);
+  const vaultPath = await fs.realpath(source);
   for (const outputPath of [vaultPath, path.join(vaultPath, "nested-output")]) {
     await assert.rejects(copyOutputBundle({ vaultPath, outputPath, files: [] }), /outside the source vault/);
   }
@@ -102,7 +103,7 @@ test("the actual CLI completes a synthetic Obsidian handoff, copies output, and 
   const corePath = path.join(vaultPath, "_scripts/materialize-dataview/core.js");
   await fs.mkdir(path.dirname(corePath), { recursive: true });
   await fs.copyFile(new URL("./core.js", import.meta.url), corePath);
-  const source = '---\nheaderVersion: 2023.11.25\n---\n# Fixture\n\n```dataview\nLIST FROM #person\n```\n';
+  const source = '# Fixture\n> [!taelgar-header]\n\n```dataview\nLIST FROM #person\n```\n';
   await fs.writeFile(path.join(vaultPath, "Fixture.md"), source);
   await fs.mkdir(path.join(vaultPath, "assets/dm"), {recursive: true});
   await fs.writeFile(path.join(vaultPath, "assets/dm/map.png"), "map");
@@ -130,7 +131,7 @@ test("the actual CLI completes a synthetic Obsidian handoff, copies output, and 
     "--out", outputPath, "--dynamic-website", "--obsidian-command", process.execPath, "--no-progress"],
     { cwd: vaultPath, timeout: 15000, windowsHide: true });
   assert.match(result.stdout, /Materialization complete/);
-  assert.match(await fs.readFile(path.join(outputPath, "Fixture.md"), "utf8"), /<!-- taelgar:header -->[\s\S]*Rendered fixture result/);
+  assert.match(await fs.readFile(path.join(outputPath, "Fixture.md"), "utf8"), /^# Fixture\n> \[!taelgar-header\][\s\S]*Rendered fixture result/);
   assert.deepEqual(await fs.readFile(path.join(outputPath, "assets/image.png")), Buffer.alloc(1024, 9));
   assert.equal(await fs.readFile(path.join(vaultPath, "Fixture.md"), "utf8"), source);
   const report = JSON.parse(await fs.readFile(path.join(outputPath, ".dataview-materialization-report.json"), "utf8"));
@@ -151,7 +152,7 @@ test("dynamic copy retains flagged notes but omits DM assets, internal and world
     await fs.mkdir(path.dirname(file), {recursive: true});
     await fs.writeFile(file, "original");
   }
-  const content = '---\nexcludePublish: all\n---\n<!-- taelgar:header -->\nRetained biography.\n';
+  const content = '---\nexcludePublish: all\n---\n> [!taelgar-header]\n\nRetained biography.\n';
   const copied = await copyOutputBundle({vaultPath, outputPath, dynamicWebsite: true, files: [{path: "Hidden.md", content}]});
   assert.equal(copied.filesCopied, included.length);
   assert.equal(await fs.readFile(path.join(outputPath, "Hidden.md"), "utf8"), content);

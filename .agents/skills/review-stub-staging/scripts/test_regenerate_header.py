@@ -1,99 +1,59 @@
-import unittest
 import json
-import os
 from pathlib import Path
 import shutil
 import subprocess
 import sys
 import tempfile
-import yaml
-from regenerate_header import frontmatter, replace_header
+import unittest
+
+from regenerate_header import apply_preview
 
 
-class FrontmatterDiscoveryTests(unittest.TestCase):
-    def test_opening_horizontal_rule_is_not_frontmatter(self):
-        text = '---\n## Pre-campaign notable events\n\nTimeline content.\n'
-        self.assertEqual(frontmatter(text, required=False), (None, {}))
-
-    def test_closed_frontmatter_is_still_read(self):
-        text = '---\nname: Example\naliases: [Alternate]\n---\n# Example\n'
-        self.assertEqual(frontmatter(text, required=False)[1],
-                         {'name': 'Example', 'aliases': ['Alternate']})
-
-    def test_invalid_closed_frontmatter_still_fails(self):
-        with self.assertRaises(yaml.YAMLError):
-            frontmatter('---\nname: [unfinished\n---\n', required=False)
-        with self.assertRaisesRegex(ValueError, 'must be a mapping'):
-            frontmatter('---\n- not a mapping\n---\n', required=False)
-
-    def test_target_note_still_requires_frontmatter(self):
-        with self.assertRaisesRegex(ValueError, 'Expected YAML frontmatter'):
-            frontmatter('---\n# Article without frontmatter\n')
-
-
-class HeaderPreservationTests(unittest.TestCase):
-    def test_body_and_frontmatter_survive(self):
-        prefix = '---\r\nheaderVersion: old\r\nname: Example\r\n---\r\n'
-        body = '\r\n%% private guidance %%\r\n![[portrait.png]]\r\nArticle.\r\n%%^Metadata:names:v1%%\r\n- {name: Example, language: unknown}\r\n%%^End%%'
-        text = prefix + '# Old\r\n*(old)*\r\n>[!info]+ Old\r\n> old data\r\n' + body
-        generated = '# Example\n*(new)*\n>[!info]+ Biographical Info  \n> new data\n'
-        result = replace_header(text, generated)
-        self.assertTrue(result.startswith(prefix))
-        self.assertTrue(result.endswith(body))
-        self.assertNotIn('> old data', result)
-        self.assertEqual(replace_header(result, generated), result)
-
-    def test_body_without_blank_separator_is_preserved(self):
-        text = '---\nname: Example\n---\n# Example\n>[!info]+ Info\n> data\nArticle without separator.\n'
-        self.assertTrue(replace_header(text, '# Example\n').endswith('Article without separator.\n'))
-
-    def test_yaml_only_receives_header(self):
-        self.assertEqual(replace_header('---\nname: Example\n---\n', '# Example\n'),
-                         '---\nname: Example\n---\n# Example\n\n')
-
-
-class StandaloneRuntimeTests(unittest.TestCase):
+class NativeHeaderTests(unittest.TestCase):
     root = Path(__file__).resolve().parents[4]
+    relative_tool = Path(".obsidian/plugins/taelgarverse/header-tool.cjs")
 
-    def test_full_header_renders_without_obsidian_or_preload(self):
+    def test_preview_uses_utf16_ranges_and_preserves_other_bytes(self):
+        prefix = "---\r\nname: Test \U0001f98a\r\n---\r\n"
+        before = "# Original\r\n"
+        suffix = "\r\nAuthored body.\r\n"
+        replacement = "# Updated\r\n> [!taelgar-header]\r\n"
+        start = len(prefix.encode("utf-16-le")) // 2
+        end = start + len(before.encode("utf-16-le")) // 2
+        plan = dict(start=start, end=end, before=before, replacement=replacement)
+        original = (prefix + before + suffix).encode("utf-8")
+        self.assertEqual(apply_preview(original, plan), (prefix + replacement + suffix).encode("utf-8"))
+        with self.assertRaisesRegex(ValueError, "does not match"):
+            apply_preview(original, {**plan, "before": "Other"})
+
+    def test_native_preview_and_approved_write_preserve_body(self):
+        tool = self.root / self.relative_tool
+        if not tool.is_file():
+            self.skipTest("Taelgarverse is not installed in the test vault")
         with tempfile.TemporaryDirectory() as directory:
             root = Path(directory)
-            shutil.copytree(self.root / '_scripts/customJS', root / '_scripts/customJS',
-                            ignore=shutil.ignore_patterns('.*'))
-            (root / '.obsidian').mkdir()
-            (root / '.obsidian/metadata.json').write_text(json.dumps({
-                'requiredDisplayDefaults': {'boxName': 'Fixture Info', 'wParty': 'Met <person:q> on <target>'},
-            }), encoding='utf-8')
-            (root / '_sessions').mkdir()
-            (root / '_sessions/campaign-registry.json').write_text(
-                json.dumps({'voy': 'Index.md'}), encoding='utf-8')
-            notes = {
-                'Index': {'name': 'Fixture Voyage', 'partyPage': 'Fixture Party.md'},
-                'Fixture Party': {'tags': ['group']},
-                'Fixture Place': {'tags': ['place']},
-                'Fixture Person': {
-                    'name': 'Fixture Person', 'species': 'human', 'pronunciation': 'FIX-cher',
-                    'whereabouts': [{'type': 'home', 'location': 'Fixture Place'}],
-                    'campaignInfo': [{'campaign': 'voy', 'date': '1748-08-23', 'type': 'met'}],
-                },
-            }
-            for name, metadata in notes.items():
-                (root / (name + '.md')).write_text(
-                    '---\n' + yaml.safe_dump(metadata) + '---\n', encoding='utf-8')
-            note = root / 'Fixture Person.md'
-            original = note.read_bytes()
-            environment = dict(os.environ)
-            environment.pop('NODE_OPTIONS', None)
-            result = subprocess.run(
-                [sys.executable, str(Path(__file__).with_name('regenerate_header.py')),
-                 str(note), '--root', str(root), '--date', '1750-01-01'],
-                capture_output=True, text=True, encoding='utf-8', env=environment)
-            self.assertEqual(result.returncode, 0, result.stderr)
-            self.assertIn('*(FIX-cher)*', result.stdout)
-            self.assertIn('Fixture Info', result.stdout)
-            self.assertIn('Fixture Party', result.stdout)
-            self.assertIn('August 23rd, 1748', result.stdout)
+            test_tool = root / self.relative_tool
+            test_tool.parent.mkdir(parents=True)
+            shutil.copyfile(tool, test_tool)
+            note = root / "Fixture Person.md"
+            body = b"\n%% private guidance %%\n![[portrait.png]]\nArticle.\n"
+            original = (b"---\nheaderVersion: old\nname: Fixture Person\n"
+                        b"tags: [person]\npronunciation: FIX-cher\n---\n"
+                        b"# Fixture Person\n> [!taelgar-header]\n" + body)
+            note.write_bytes(original)
+            command = [sys.executable, str(Path(__file__).with_name("regenerate_header.py")),
+                       str(note), "--root", str(root)]
+            result = subprocess.run(command, capture_output=True)
+            self.assertEqual(result.returncode, 0, result.stderr.decode('utf-8'))
+            preview = result.stdout
+            self.assertIn(b"*(FIX-cher)*", preview)
+            self.assertIn(b"> [!taelgar-header]", preview)
+            self.assertNotIn(b"headerVersion", preview)
+            self.assertTrue(preview.endswith(body))
             self.assertEqual(note.read_bytes(), original)
+            subprocess.run([*command, "--write"], check=True, capture_output=True)
+            self.assertEqual(note.read_bytes(), preview)
+            self.assertEqual(subprocess.check_output(command), preview)
 
     def test_day_ordinals_include_twenty_first_and_teens(self):
         script = r'''

@@ -4,12 +4,16 @@ The CLI requests a materialization run through the Taelgar Obsidian plugin.
 The source vault must be open in Obsidian with Dataview enabled and its index
 ready. Output is written to a separate vault; source notes are not modified.
 
-## Existing behavior
+## Query materialization
 
-Without additional options, the CLI retains its current behavior: materialize
-fenced `dataview` queries, supported `dataviewjs` blocks, and supported inline
-JavaScript expressions, and regenerate headers using `--header-type website`.
-Existing publishing commands continue to use this behavior.
+The default mode materializes fenced `dataview` queries, supported `dataviewjs`
+blocks, and supported inline Dataview expressions. It copies native
+`taelgar-header` callouts with their titles and fallback text.
+
+For a static site that needs rendered native headers, use the Taelgarverse
+materializer (`taelgarverse-core/scripts/materialize-static.mjs`). When running
+the static website wrapper, set `TAELGAR_MATERIALIZER` to that script, as
+described in taelgarverse-core's `docs/publishing-pipelines.md`.
 
 ## Dynamic website Markdown
 
@@ -19,11 +23,9 @@ From the source vault root:
 node _scripts/materialize-dataview/materialize-dataview.mjs --vault . --out ../taelgar-dynamic --dynamic-website
 ```
 
-`--dynamic-website` prepares Markdown for rendering headers at request time:
+`--dynamic-website` prepares the query output for rendering at request time.
 
-- Replace generated headers on notes with `headerVersion` with the standalone
-  marker `<!-- taelgar:header -->`, immediately after frontmatter. The marker
-  replaces the title, pronunciation, and info callout; metadata stays intact.
+- Preserve native `taelgar-header` callouts and authored titles and pronunciation.
 - Delete closed `dataviewjs` fences without executing their contents.
 - Remove headings whose sections become empty after that deletion, including
   empty parent sections. Prose, DQL, other code, comments, and previously empty
@@ -38,8 +40,7 @@ node _scripts/materialize-dataview/materialize-dataview.mjs --vault . --out ../t
   excludePublish and date metadata for request-time checks in taelgarverse-core.
   The report identifies this policy as publicationPolicy: context-v1.
 
-This overrides `--header-type` regardless of argument order. Inline JavaScript
-outside the generated header is preserved verbatim. Code examples inside other
+Inline JavaScript is preserved verbatim in this mode. Code examples inside other
 fences are preserved. Only exported Markdown is transformed; source notes are
 not rewritten.
 
@@ -50,11 +51,10 @@ Strict mode still reports query errors, unsupported DQL, and unclosed dynamic
 fences. Unclosed JavaScript fences are left intact for error reporting, rather
 than discarding everything to the end of the file. Intentionally retained inline
 JavaScript does not fail strict mode. The report records `dynamicWebsite` and
-counts inserted header markers, deleted JS blocks, and removed section headings.
+counts deleted JS blocks and removed section headings.
 
-`--date` controls CustomJS header output in the existing full mode. It has no
-effect in dynamic website mode. The website uses its request date and campaign
-to generate the header when it encounters the leading marker.
+`--date` sets the CustomJS target date for queries in default mode.
+The website renders native callouts for the reader's date and campaign.
 
 The existing `autobuild_website.sh` wrapper is unchanged and does not forward
 this new option. Invoke this CLI directly for dynamic website output. Reload the
@@ -84,9 +84,8 @@ node _scripts/materialize-dataview/materialize-dataview.mjs --vault . --out ../t
 ```
 
 In `taelgarverse-core`, configure `source_dir` to use this output directory and
-keep `runtime_dir` pointing at the original vault. The website consumes a leading
-header marker once and preserves any following body headings. A marker shown
-inside a fenced code example remains literal.
+keep `runtime_dir` pointing at the original vault. The website renders top-level
+native callouts. Fenced code examples remain literal.
 
 ## Regression tests
 

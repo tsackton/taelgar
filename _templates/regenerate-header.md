@@ -1,1 +1,1 @@
-<%* tp.user.regenerateHeader(tp, "obs") %>
+<%_* tp.user.regenerateHeader(tp) _%>
