@@ -20,6 +20,10 @@ name: Mawar Adventures
 
 ## Roster
 
+```taelgar-roster
+campaign: mawar
+```
+
 | Player | Player role | Role source | Characters |
 | --- | --- | --- | --- |
 | David Kong | Core | PC notes | [[Blu]] (companion, party affiliation)<br>[[Geo]] (companion, party affiliation)<br>[[Ryu]] (member, party affiliation)<br>[[Turk]] (companion, party affiliation) |
@@ -30,6 +34,17 @@ name: Mawar Adventures
 | John Leeker | Core | PC notes | [[Kaleho]] (member, party affiliation) |
 
 ## Play history
+
+```taelgar-session
+campaign: mawar
+columns: [session, account, played, dr, people, note, evidence]
+overrides:
+  - id: aborted-episode-5
+    kind: meeting
+    title: Aborted attempt at episode 5
+    date: '2022-06-12'
+    note: Sun 20:00 Eastern.
+```
 
 ### November 2026 register summary
 

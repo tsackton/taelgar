@@ -19,6 +19,19 @@ name: Dragonets
 
 ## Roster
 
+```taelgar-roster
+campaign: dragonets
+overrides:
+  - character: Heska
+    player: Tim Sackton
+  - character: Sculpit
+    player: Mike Sackton
+  - character: Little Tony
+    player: David Schwartz
+  - character: Zeno
+    player: Eric Rosenbaum
+```
+
 | Player | Player role | Role source | Characters |
 | --- | --- | --- | --- |
 | Tim Sackton | Core | Manual | Heska (member) |
@@ -27,6 +40,20 @@ name: Dragonets
 | Eric Rosenbaum | Core | Manual | Zeno (member) |
 
 ## Play history
+
+```taelgar-session
+campaign: dragonets
+estimate:
+  dr:
+    label: About 50 years after the Godfall
+columns: [session, account, played, dr, people, note, evidence]
+overrides:
+  - id: dragonets-organizing-meeting
+    kind: meeting
+    title: Session 0 organizing meeting
+    date: '2026-08-04'
+    note: Tue 20:30 Eastern. Held on the evening of the Feywild finale.
+```
 
 %%^Campaign:none%%
 

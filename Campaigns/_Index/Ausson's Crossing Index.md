@@ -15,6 +15,16 @@ name: The Murder at Ausson's Crossing
 
 ## Roster
 
+```taelgar-roster
+campaign: aucross
+overrides:
+  - character: '[[People/PCs/Other PCs/Ausson''s Crossing/Izar.md]]'
+  - character: '[[People/PCs/Other PCs/Ausson''s Crossing/Soarine.md]]'
+  - character: '[[People/PCs/Other PCs/Ausson''s Crossing/Roe DoTorka.md]]'
+  - character: '[[People/PCs/Cleenseau/Robin of Abenfyrd.md]]'
+    description: Dan played Robin in this adventure. His appearance here is noncanonical.
+```
+
 | Player | Player role | Role source | Characters |
 | --- | --- | --- | --- |
 | Kiya Nicoll | Core | Manual | [[Izar]] (member) |
@@ -23,6 +33,33 @@ name: The Murder at Ausson's Crossing
 | Dan Walters | Core | Manual | [[Robin of Abenfyrd]] (member, manual entry) — Dan played Robin in this adventure. His appearance here is noncanonical. |
 
 ## Play history
+
+```taelgar-session
+campaign: aucross
+estimate:
+  note: The campaign ended in 1688 DR. May 25 is the last documented day. Session 4 has no known in-world date.
+columns: [session, account, played, dr, people, note, evidence]
+overrides:
+  - number: '1'
+    played: '2022-09-11'
+    dr: '1688-05-16'
+    drEnd: '1688-05-17'
+  - number: '2'
+    played: '2022-10-16'
+    dr: '1688-05-17'
+    drEnd: '1688-05-18'
+  - number: '3'
+    played: '2022-11-20'
+    dr: '1688-05-18'
+    drEnd:
+      'on': '1688-05-25'
+      qualifier: last dated event
+  - number: '4'
+    played:
+      'on': '2022-12-18'
+      qualifier: guess
+    note: Date guessed as four Sundays after session 3. The in-world date is unknown.
+```
 
 %%^Campaign:none%%
 

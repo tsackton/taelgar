@@ -14,6 +14,28 @@ name: The Plaguelands Campaign
 
 ## Roster
 
+```taelgar-roster
+campaign: plaguelands
+overrides:
+  - character: Meriele
+    player: Kate Sackton
+    description: Elf Lore bard
+  - character: Evendur
+    player: Isaac Sackton
+    description: Human Wild Magic sorcerer
+  - character: Thardin Craigfire
+    player: Nathaniel Sackton
+    description: Dwarven Devotion paladin
+  - character: Arvid Starkast
+    player: Charli Sackton
+    description: Stoneborn Tempest cleric
+    role: other
+  - player: Mike Sackton
+    role: other
+    note: Guest player. His character assignments are uncertain. Tim sent him Maglor’s sheet in October 2019
+      and Efrin’s in April 2020.
+```
+
 | Player | Player role | Role source | Characters |
 | --- | --- | --- | --- |
 | Kate Sackton | Core | Manual | Meriele — Elf Lore bard |
@@ -29,6 +51,139 @@ Mike played as a guest. His character assignments are uncertain. Tim sent him Ma
 %%^End%%
 
 ## Play history
+
+```taelgar-session
+campaign: plaguelands
+columns: [session, account, played, dr, people, note, evidence]
+overrides:
+  - number: '1'
+    played:
+      'on': '2019-07-08'
+      qualifier: assumed
+    note: Thardin, Evendur and Mundin meet at the inn, agree to rescue the missing scout, and follow the canyon
+      as far as the giant-rat trap.
+  - number: '2'
+    played:
+      'on': '2019-07-09'
+      qualifier: assumed
+    note: Giant rats, then the kobold ambush in the tunnel.
+  - number: '3'
+    played:
+      'on': '2019-07-11'
+      qualifier: assumed
+    note: The party explores the main kobold cave.
+  - number: '4'
+    played:
+      'on': '2019-07-12'
+      qualifier: assumed
+    note: Rescue Roscoe and Meriele, then fight a major kobold battle while escaping. Kate Sackton joins as
+      Meriele.
+  - number: '5'
+    played:
+      'on': '2019-07-27'
+      qualifier: adopted estimate
+    note: The inn is attacked. The party flees toward Dunwick, encounters a death dog and escapes shadow mastiffs.
+  - number: '6'
+    played: '2019-08-04'
+    note: Arrive in Dunwick and meet Arvid. A messenger, another shadow-mastiff attack and a council meeting
+      lead to the decision to seek the Earl at Adderfell.
+  - number: '7'
+    played:
+      from: '2019-08-05'
+      through: '2019-08-23'
+      qualifier: 'before #8'
+    note: Travel with Eva and Bertram, investigate a ruined tower, and encounter a hobgoblin ambush.
+  - number: '8'
+    played:
+      from: '2019-08-05'
+      through: '2019-08-23'
+      qualifier: 'after #7'
+    note: Encounter the wilding tree on the road and shoot down hobgoblin messengers.
+  - number: '9'
+    played:
+      'on': '2019-08-24'
+      qualifier: confirmed by Tim
+    note: Meet Earl Eofric. A wild-magic unicorn helps against shadow assassins. An owlbear attacks the market;
+      the party follows a spy to the Cinder Court hideout and rescues Kave.
+  - number: '10'
+    played:
+      from: '2019-08-25'
+      through: '2019-09-21'
+      qualifier: 'before #11'
+    note: 'Adderfell #2. Return to the hideout with the guards, kill the second owlbear and bring the portal
+      threat to Lady Zivkara.'
+  - number: '11'
+    played:
+      from: '2019-08-25'
+      through: '2019-09-21'
+      qualifier: 'after #10'
+    note: 'Adderfell #3. Fight the Cinder Court boss and deal with the trap. The session note records 450 XP.'
+  - number: '12'
+    played: '2019-09-22'
+    note: At the Earl’s council, expose the doppelganger who falsely claims Darkwood Keep is safe. The XP sheet
+      labels this Adderfell session 4. Set out to investigate with Maglor.
+  - number: '13'
+    played:
+      from: '2019-09-23'
+      through: '2019-10-26'
+    note: Rescue a shepherd from vultures, deal with a runaway horse in a thunderstorm, camp in a ruined Drankorian
+      roadhouse, then track and kill the raiders who cut down an orchard.
+  - number: '14'
+    played: '2019-10-27'
+    note: Likely finish the road with Maglor and approach or reach Darkwood Keep. The road notes record arrival
+      on in-world December 10. The exact point at which play stopped is open.
+  - number: '15'
+    played: '2019-11-16'
+    note: First session devoted to exploring the keep. Two skeleton guards are tallied as killed, and the kitchen
+      has burned bodies and “STOPPED HERE.” The kitchen is a plausible endpoint for this or the next sitting.
+  - number: '16'
+    played: '2019-12-07'
+    note: Further exploration of the keep and clues to the garrison’s disappearance. The council chamber contains
+      an unsent scouting letter matching the handout; whether it was found that day is unknown.
+  - number: '17'
+    played: '2020-01-05'
+    note: Likely deeper rooms, the missing garrison, and collecting treasure. The wizard’s four surviving books
+      and the commander’s potions match the party’s later loot list. Those finds are supported; the split between
+      December 7 and January 5 is inferred.
+  - number: '18'
+    played: '2020-01-18'
+    note: Likely wrap up at the keep with Maglor and Jaufri, establish contact with the ranger Efrin, and follow
+      the garrison’s trail into the woods. The later river recap remembers making plans with Maglor and Jaufri
+      there.
+  - number: '19'
+    played: '2020-02-08'
+    note: Early travel in the Darkwood, following Efrin and the captives. The next-session reminders call for
+      messages from Efrin and Maglor. No surviving recap pins a particular encounter to this date.
+  - number: '20'
+    played: '2020-03-07'
+    note: Charm the satyrs, receive two Amber Meads and fight displacer beasts. The note awards 750 XP and dates
+      play from the evening of December 13 to mid-morning December 14 in-world. Efrin is still trapped.
+  - number: '21'
+    played:
+      from: '2020-03-08'
+      through: '2020-04-25'
+      qualifier: March 31 is the best calendar candidate
+    note: Follow the river to the hill. Evendur sees through the illusion and the party burns the thornbushes,
+      freeing Efrin. The later recap describes this outcome. Tim places it here because he remembers the April
+      26 game opening after the rescue.
+  - number: '22'
+    played:
+      'on': '2020-04-26'
+      qualifier: adopted by Tim
+    note: Start on the hill with Efrin free. The forest recap places the party there on the afternoon of in-world
+      December 17. What else they played that day is unknown.
+  - number: '23'
+    played: '2020-06-02'
+    note: Best match for rescuing Acalypha, the dryad at the cracked standing stone. The DM marked the encounter
+      “Did this encounter last time,” and the September recap includes the rescue.
+  - number: '24'
+    played:
+      'on': '2020-09-27'
+      qualifier: assumed final session
+    note: Return to the Darkwood after the dryad rescue. The plan has Zepha spot a hobgoblin patrol on the way
+      to the Cinder Court base. The during-session notes are blank, so how far the party got and whether they
+      summoned Faraster remain unknown.
+```
 
 %%^Campaign:none%%
 

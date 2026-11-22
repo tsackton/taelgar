@@ -14,6 +14,25 @@ name: Mike's Family Game
 
 ## Roster
 
+```taelgar-roster
+campaign: mikefam
+overrides:
+  - character: '[[Worldbuilding/Tentative/Caerwyn of Abenfyrd.md]]'
+    player: Tim Sackton
+  - player: Isaac Sackton
+    role: core
+  - player: Nathaniel Sackton
+    role: core
+  - player: Charli Sackton
+    role: core
+  - character: Zoe Kothashoy
+    player: Kate Sackton
+    description: Human rogue
+  - player: Dana Sackton
+    role: core
+    note: Played an unnamed elf in session 2.
+```
+
 | Player | Player role | Role source | Characters |
 | --- | --- | --- | --- |
 | Tim Sackton | Core | Manual | [[Caerwyn of Abenfyrd]] (member, manual entry) |
@@ -30,6 +49,24 @@ The party was level 3. Kate and Dana played in the September 5, 2021 session. Da
 %%^End%%
 
 ## Play history
+
+```taelgar-session
+campaign: mikefam
+estimate:
+  note: Tim recalls two sessions. The older Campaign Inventory lists three.
+  evidence: '[[Campaigns/Campaign Inventory.md]]'
+columns: [session, account, played, dr, people, note, evidence]
+overrides:
+  - number: '1'
+    played:
+      'on': '2021-07-21'
+      qualifier: probable
+    note: Nantucket session. Tim identifies the July 21 calendar block as the likely sitting.
+  - number: '2'
+    played: '2021-09-05'
+    note: Final sitting in Tim’s recollection. Kate Sackton played Zoe Kothashoy, and Dana Sackton played an
+      unnamed elf.
+```
 
 %%^Campaign:none%%
 

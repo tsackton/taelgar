@@ -14,6 +14,26 @@ name: Stars and Stories Crossover
 
 ## Roster
 
+```taelgar-roster
+campaign: stars
+overrides:
+  - character: Ariel
+    player: David Kong
+    draft: true
+  - character: Merrin Sweetwater
+    player: Mike Sackton
+    draft: true
+  - character: Tevren
+    player: Tim Sackton
+    draft: true
+  - character: Lyndria
+    player: Kate Sackton
+    draft: true
+  - character: Wasbeer Pete (“Whisper”)
+    player: David Schwartz
+    draft: true
+```
+
 | Player | Player role | Role source | Characters |
 | --- | --- | --- | --- |
 | David Kong | Core | Draft | Ariel |
@@ -23,6 +43,20 @@ name: Stars and Stories Crossover
 | David Schwartz | Core | Draft | Wasbeer Pete (“Whisper”) |
 
 ## Play history
+
+```taelgar-session
+campaign: stars
+columns: [session, account, played, dr, people, note, evidence]
+overrides:
+  - number: '1'
+    played: '2026-11-17'
+    note: Local date from the recording archive.
+  - id: stars-organizing-meeting
+    kind: meeting
+    title: Session 0 organizing meeting
+    date: '2026-11-05'
+    note: Thu 20:30 Eastern.
+```
 
 %%^Campaign:none%%
 

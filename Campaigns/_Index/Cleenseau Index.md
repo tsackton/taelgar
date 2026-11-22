@@ -20,6 +20,10 @@ name: Cleenseau Campaign
 
 ## Roster
 
+```taelgar-roster
+campaign: clee
+```
+
 | Player | Player role | Role source | Characters |
 | --- | --- | --- | --- |
 | Kiya Nicoll | Core | PC notes | [[Celyn]] (member, party affiliation) |
@@ -28,6 +32,19 @@ name: Cleenseau Campaign
 | Chris Kelly | Core | PC notes | [[Estiasilos]] (companion, party affiliation)<br>[[Viepuck]] (member, party affiliation) |
 
 ## Play history
+
+```taelgar-session
+campaign: clee
+overrides:
+  - number: '11.1'
+    kind: inter-session
+  - number: '12.1'
+    kind: inter-session
+  - number: '13.1'
+    kind: inter-session
+  - number: '29.1'
+    kind: inter-session
+```
 
 ### November 2026 register summary
 

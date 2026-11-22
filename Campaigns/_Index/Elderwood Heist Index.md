@@ -14,6 +14,19 @@ name: The Elderwood Heist
 
 ## Roster
 
+```taelgar-roster
+campaign: elderwood
+overrides:
+  - character: Kelvin
+    player: Eric Rosenbaum
+  - character: Torvek Karthun
+    player: Mike Sackton
+  - character: Aurock
+    player: David Schwartz
+  - character: Turok
+    player: David Kong
+```
+
 | Player | Player role | Role source | Characters |
 | --- | --- | --- | --- |
 | Eric Rosenbaum | Core | Manual | Kelvin (member) |
@@ -22,6 +35,25 @@ name: The Elderwood Heist
 | David Kong | Core | Manual | Turok (member) |
 
 ## Play history
+
+```taelgar-session
+campaign: elderwood
+estimate:
+  dr:
+    label: About 200 years after the Godfall
+columns: [session, account, played, dr, people, note, evidence]
+overrides:
+  - number: '1'
+    played: '2026-10-15'
+  - number: '2'
+    played: '2026-10-16'
+    note: Friday, part 1.
+  - number: '3'
+    played: '2026-10-16'
+    note: Friday, part 2.
+  - number: '4'
+    played: '2026-10-17'
+```
 
 %%^Campaign:none%%
 
