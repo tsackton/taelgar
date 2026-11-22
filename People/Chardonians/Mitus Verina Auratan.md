@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-08T08:32:25-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -18,10 +17,8 @@ POV: 1749
 ---
 # Magistros Mitus Verina Auratan
 *(MEE-toos veh-REE-nah aw-rah-TAHN)*
->[!info]+ Biographical Info  
-> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (human, Chardonian, he/him, b. 1723, lives in Chardon)
 
 Mitus Verina Auratan is the Magistros of [[Chardon]] and ruler of the [[Chardonian Empire]], having succeeded his aunt [[Seva Auratan]] in DR 1746.
 

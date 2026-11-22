@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:14:40-04:00"
 lintVersion: "3.5"
 tags: [person, status/cleanup/text, status/cleanup/metadata, status/check/lint]
@@ -19,11 +18,8 @@ dm_notes: important
 POV: 1748
 ---
 # Marcella
->[!info]+ Biographical Info
-> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (she/her)
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Scryed by [[Delwath]] on October 23rd, 1748 in [[Ausson's Crossing]], [[Laicon]], the [[Refounded Alliance of Aurbez]] %%^End%%
+> [!taelgar-header]
+> (human, Chardonian, she/her, b. 1718)
 
 %% #end is approx %%
 %% need to fix whereabouts, campaign info, away dates %%

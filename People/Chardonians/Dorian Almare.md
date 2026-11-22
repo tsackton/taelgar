@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-07T09:12:45-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -20,10 +19,8 @@ POV: 1749
 ---
 # Dorian Almare
 *(DOR-ee-ahn al-MAH-reh)*
->[!info]+ Biographical Info  
-> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (human, Chardonian, he/him, b. 1697)
 
 Dorian Almare, known as the Mystic of Tamaro Bay, is a Chardonian hermit, originally from [[Castrella]], who now lives on a small island in [[Tamaro Bay]].
 

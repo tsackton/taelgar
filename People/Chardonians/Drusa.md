@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T09:29:24-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -22,11 +21,8 @@ POV: 1748
 ---
 # Drusa
 *(DROO-sah)*
->[!info]+ Biographical Info  
-> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on July 2nd, 1748 in [[Tokra]], [[Dunmar]] %%^End%%
+> [!taelgar-header]
+> (human, Chardonian, she/her, b. 1717, lives in Chardon)
 
 Drusa Ioniallus is a Chardonian mage and a captain in the Mage Guard. Originally from a high-ranking family, she was sent to Dunmar by Magistros [[Mitus Verina Auratan]] at the request of [[Nayan Karnas]] and seconded to the Dunmari army. In DR 1748, she was serving under Commander [[Illyan]] in [[Tokra]]. 
 

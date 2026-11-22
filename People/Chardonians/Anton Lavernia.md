@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T09:29:24-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -18,10 +17,8 @@ POV: 1748
 ---
 # Proconsul Anton Lavernia
 *(AHN-ton lah-VEHR-nee-ah)*
->[!info]+ Biographical Info  
-> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (human, Chardonian, he/him, b. 1704, lives in Voltara)
 
 Anton Lavernia is the Proconsul of Voltara, responsible for governance of the city. 
 

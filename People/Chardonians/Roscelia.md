@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:14:40-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -20,12 +19,8 @@ POV: 1740s
 ---
 # Roscelia
 *(roh-SHEH-lee-ah)*
->[!info]+ Biographical Info  
-> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on August 22th, 1748 in [[Chardon]], the [[Chardonian Empire]] %%^End%%
+> [!taelgar-header]
+> (human, Chardonian, she/her, b. 1677, lives in Chardon)
 
 ![[roscelia.png|right|400]]
 Roscelia Verinus, Professor of Magic and Argent Chair of Theurgy, is an elderly magician, prim and proper, and now mostly retired from teaching at the Faculty of Magic. She is clearly wealthy, and favors elegant, understated dress that nonetheless displays her status. She wears her gray hair in a bun, and favors simple but expensive jewelry: long strands of pearls, and diamond earrings. 

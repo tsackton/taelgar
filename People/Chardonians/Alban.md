@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T09:29:24-04:00"
 lintVersion: "3.5"
 tags: [person, status/cleanup/metadata]
@@ -25,12 +24,8 @@ POV: 1748
 ---
 # Alban
 *(AHL-bahn)*
->[!info]+ Biographical Info  
-> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Grave discovered by the [[Dunmar Fellowship]] on April 15th, 1748 in [[Stormcaller Tower]], [[Samtal]], [[Dunmar]] %%^End%%
+> [!taelgar-header]
+> (human, Chardonian, he/him, b. 1719, d. 1748, lives in Chardon)
 
 %% some minor canonical locations in late 1747 - mid 1748 not captured completely in whereabouts %%
 
