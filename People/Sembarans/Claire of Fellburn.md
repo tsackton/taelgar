@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T23:02:51-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -17,9 +16,8 @@ dm_notes: color
 POV: 1720
 ---
 # Claire of Fellburn
->[!info]+ Biographical Info
-> A [[Sembara|Sembaran]] [[Humans|human]] (she/her)
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (human, Sembaran, she/her)
 
 ![[claire-of-fellburn.jpg|right|320]]The sergeant of the Eagle Patrol of the Ninth Company of the [[Army of the South]].
 

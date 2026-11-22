@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -23,10 +22,8 @@ POV: 1720
 ---
 # Remille Vauclaire
 *(Ruh-mee Voh-klair)*
->[!info]+ Biographical Info  
-> A [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (human, she/her, lives in Adderfell)
 
 ![[remille-vauclaire.png|right|400]]A swordswoman. 
 

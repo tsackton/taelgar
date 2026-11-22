@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -21,11 +20,8 @@ POV: 1719
 ---
 # Lord Rinault Essford
 *(ree-NOH ESS-ford)*
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him), of the [[Essfords]]  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (human, Sembaran, he/him, b. 1688, lives in Cleenseau)
 
 ![[Lord-Rinault-Essford.png|right|320]]The younger brother of [[Rosalind Essford|Rosalind]], he is considered rash and impulsive. He openly dreams of bigger adventures and grander scales for his ambitions, but few trust him.
 

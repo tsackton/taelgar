@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-04T17:14:44-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -12,8 +11,8 @@ dm_notes: color
 POV: 1720s
 ---
 # Bartholomew Meeke
->[!info]+ Biographical Info  
-> A [[Humans|human]]
+> [!taelgar-header]
+> (human, Sembaran)
 
 
 ![[bartholomew-meeke.jpg|left|400]]Bartholomew Meeke is a tin trader who trades primarily between [[Rinburg]] and [[Aslain]]. He has a friendly relationship with the [[Riverstones]].

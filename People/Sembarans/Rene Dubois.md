@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-28T16:53:46-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -18,9 +17,9 @@ dm_notes: color
 POV: 1720
 ---
 # Rene Dubois
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+*(ruh-NAY dew-BWAH)*
+> [!taelgar-header]
+> (human, Sembaran, he/him)
 
 ![[rene-the-scout.png|right|320]]A scout and skirmisher with the Eagle Patrol of the Ninth Company of the [[Army of the South]], skilled at spotting unusual events.
 

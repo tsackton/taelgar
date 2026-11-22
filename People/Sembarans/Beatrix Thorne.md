@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -23,11 +22,8 @@ POV: 1720
 ---
 # Béatrix Thorne
 *(bay-ah-TREEKS thorn)*
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (she/her), of the [[Thornes of Cleenseau]]  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (human, Sembaran, she/her, b. 1696, lives in Cleenseau)
 
 ![[beatrix.png|right|320]]A soldier in the Bridge Patrol of the [[Army Garrison of Cleenseau|Cleenseau Garrison]] of the [[Army of the West]], she distinguished herself during the [[Undead Attacks in Sembara]] and other troubles around Cleenseau in the fall of 1719.
 

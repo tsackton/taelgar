@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-05T16:06:33-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/mike]
@@ -21,9 +20,8 @@ POV: 1730
 ---
 # Kalima
 *(kah-LEE-mah)*
->[!info]+ Biographical Info  
-> A [[Zimka]] [[Humans|human]] (she/her)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (human, Zimka, she/her)
 
 Kalima is a Zimkovan woman from [[Melusa]], the sister of [[Nura]] and sister-in-law of [[Khaled]]. 
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -16,10 +15,8 @@ dm_notes: none
 POV: 1720
 ---
 # Henry Blackwell
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (human, Sembaran, he/him, b. 1700, d. 1720, lives in Cleenseau)
 
 The apprentice of [[Avelina Smith]] and a talented metalworker. He died in the [[Undead Attacks in Sembara]].
 

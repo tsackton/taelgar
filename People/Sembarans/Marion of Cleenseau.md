@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -20,11 +19,8 @@ dm_notes: none
 POV: 1720s
 ---
 # Marion
->[!info]+ Biographical Info
-> A [[Sembara|Sembaran]] [[Humans|human]], she/her
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (human, Sembaran, she/her, b. 1694, lives in Cleenseau)
 
 A soldier of the Bridge Patrol.
 

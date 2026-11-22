@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
 tags: [person, status/gameupdate/clee, status/check/lint]
@@ -21,10 +20,8 @@ POV: 1720s
 ---
 # Damien Montrichard
 *(Dah-mee-en Mon-tree-shar)*
->[!info]+ Biographical Info  
-> A [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (human, he/him)
 
 %% needs to incorporate his false imprisonment and almost execution at the hands of [[Areschera]] %%
 

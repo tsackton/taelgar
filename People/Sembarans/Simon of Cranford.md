@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -16,10 +15,8 @@ dm_notes: color
 POV: 1720
 ---
 # Simon of Cranford
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (human, Sembaran, he/him, b. 1659, lives in Cranford)
 
 ![[simon-of-cranford.png|right|200]] The toll keeper for the [[Barony of Aveil]] in Cranford and an important figure in town.
 

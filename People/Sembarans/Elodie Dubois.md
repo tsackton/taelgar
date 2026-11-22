@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-11-12T19:02:10-05:00"
 lintVersion: "3.5"
 tags: [person]
@@ -17,8 +16,8 @@ POV: 1720
 ---
 # Captain Élodie Dubois
 *(ay-loh-DEE dew-BWAH)*
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (she/her)
+> [!taelgar-header]
+> (human, Sembaran, she/her)
 
 %% Sources establish her military role but provide no further biography. %%
 

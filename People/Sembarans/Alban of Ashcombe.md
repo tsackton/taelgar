@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T23:02:51-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -13,9 +12,8 @@ whereabouts: Ashcombe
 POV: 1720
 ---
 # Alban of Ashcombe
->[!info]+ Biographical Info  
-> A [[Humans|human]] (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (human, he/him, lives in Ashcombe)
 
 Alban is the current administrator of [[Ashcombe]]'s temple to [[The Wildling]], and [[Rufus of Ashcombe|Rufus]], his adopted son, serves as his apprentice. Alban lost a leg in an accident several years ago. He remains a repository of village wisdom, though he tends toward bitterness about his injury.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-18T23:43:15-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -12,11 +11,10 @@ whereabouts: Asineau
 knownTo: [clee]
 POV: 1720s
 ---
-# Ari of Asineau
+# Ari
 *(AH-ree)*
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (human, Sembaran, he/him, lives in Asineau)
 
 Ari is a fisherman in [[Asineau]] and the husband of [[Jacques of Asineau|Jacques]], [[Thierry]]’s brother.
 

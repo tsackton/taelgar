@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -19,10 +18,8 @@ POV: 1720
 ---
 # Avelina Smith
 *(ah-va-lee-NAH SMITH)*
->[!info]+ Biographical Info  
-> A [[Zimka]] [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (human, Zimka, she/her, b. 1673)
 
 An important smith and leader of the metalworking community of [[Cleenseau]]. She trained with dwarves in her youth.
 

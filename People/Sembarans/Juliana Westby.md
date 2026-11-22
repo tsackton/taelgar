@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T23:02:51-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -15,9 +14,9 @@ pronunciation: joo-lee-AN-uh WEST-bee
 POV: 1720
 ---
 # Juliana Westby
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (she/her)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+*(joo-lee-AN-uh WEST-bee)*
+> [!taelgar-header]
+> (human, Sembaran, she/her, lives in Cranford)
 
 
 ![[juliana-westby.png|left|200]]

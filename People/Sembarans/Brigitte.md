@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T18:19:15-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -16,10 +15,8 @@ POV: modern
 ---
 # Brigitte
 *(bree-ZHEET)*
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (human, Sembaran, she/her, d. 1720, lives in Peydon)
 
 Brigitte “Brick” was an enforcer in [[Gareth of Tollen]]’s criminal gang in [[Peydon]], collecting debts and roughing up troublemakers. She was a towering, broad-shouldered woman with a broken nose and a thick forearm scarred in a knife fight.
 

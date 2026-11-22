@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-18T23:43:15-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -14,9 +13,8 @@ POV: 1720s
 ---
 # Cece D'Aslain
 *(SEE-see dahz-lane)*
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (she/her)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (human, Sembaran, she/her, lives in Aslain)
 
 Cece d’Aslain is the wife of [[Pierre d'Aslain]] and lives in [[Aslain]]. They have a young son.
 

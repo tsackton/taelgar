@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -15,8 +14,8 @@ POV: 1720s
 ---
 # Elodie Blanchard
 *(ay-loh-DEE blahn-SHAR)*
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (she/her)
+> [!taelgar-header]
+> (human, Sembaran, she/her)
 
 Lady Elodie Blanchard is the lord of [[Dallet]].
 

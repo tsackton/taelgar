@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-18T23:43:15-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -15,10 +14,8 @@ POV: modern
 ---
 # Aalis
 *(ah-LEES)*
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (human, Sembaran, she/her, d. 1719, lives in Peydon)
 
 Aalis was an elderly widow and longtime resident of [[Peydon]]. After her death, the [[Midnight Lady]] took over her house.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -18,10 +17,8 @@ dm_notes: color
 POV: 1720s
 ---
 # Thomas Dyerson
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (human, Sembaran, he/him, lives in Veltor)
 
 ![[thomas-dyerson.png|right|200]]One of three assistants to [[Victorine Rosseau]], Thomas is an important magistrate in the [[Barony of Aveil]] and often travels to investigate and adjudicate crimes on behalf of the Barony. He is dedicated to his job, if a bit uncreative, and willing to look beyond the obvious when pushed.
 

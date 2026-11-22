@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
 tags: [person, status/cleanup/metadata, status/check/lint]
@@ -13,8 +12,8 @@ dm_notes: color
 POV: 1720s
 ---
 # William Forester
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)
+> [!taelgar-header]
+> (human, Sembaran, he/him)
 
 
 ![[william-forester-aveil.png|left|200]]

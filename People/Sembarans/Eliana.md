@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -13,9 +12,8 @@ dm_notes: none
 POV: 1720s
 ---
 # Eliana
->[!info]+ Biographical Info  
-> A [[Humans|human]] (she/her)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (human, she/her, lives in Cleenseau)
 
 A midwife who tends to [[Underhill]].  She is also somewhat of an herbalist with a particular focus on gender care.
 

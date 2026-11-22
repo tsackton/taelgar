@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -12,8 +11,8 @@ dm_notes: none
 POV: 1720s
 ---
 # Pierre the Guard
->[!info]+ Biographical Info  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (human, lives in Veltor)
 
 A guardsman in the service of the [[Barony of Aveil]], typically working night duty in [[Veltor]].
 

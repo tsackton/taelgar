@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
 displayDefaults: {endStatus: brought to justice}
@@ -20,10 +19,8 @@ dm_notes: none
 POV: modern
 ---
 # Gareth of Tollen
->[!info]+ Biographical Info  
-> A [[Tollen|Tollender]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (human, Tollender, he/him, b. 1686, d. 1720)
 
 ![[gareth-of-tollen.png|right|320]]A baronial tax collector for the [[Barony of Aveil]], he was hired in mysterious circumstances and previously worked for the [[Lord Mayor’s Workhouse]] in [[Embry]] as an enforcer.
 

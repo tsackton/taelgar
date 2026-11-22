@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
 tags: [person, status/cleanup/text, status/check/lint]
@@ -21,10 +20,8 @@ POV: 1720s
 ---
 # Emilie
 *(Ay-mee-lee)*
->[!info]+ Biographical Info  
-> A [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (human, she/her)
 
 ![[emilie-adderfell.png|right|400]]A fighter.
 

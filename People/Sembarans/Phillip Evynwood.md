@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T20:13:07-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -16,9 +15,8 @@ POV: 1720
 ---
 # Phillip Evynwood
 *(FIL-ip EV-an-wood)*
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (human, Sembaran, he/him, lives in Aslain)
 
 Phillip Evynwood is a wealthy timber merchant based in [[Aslain]], with strong connections to [[Rinburg]] and the d’Aslain family. He grew up in [[Ashcombe]] and is the younger son of [[Ameline Evynwood]], its lady.
 

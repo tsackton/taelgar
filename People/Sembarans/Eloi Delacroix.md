@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-11-12T19:02:10-05:00"
 lintVersion: "3.5"
 tags: [person]
@@ -16,9 +15,8 @@ POV: 1720s
 ---
 # Eloi Delacroix
 *(EH-lwah deh-lah-KRWAH)*
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (human, Sembaran, he/him, lives in Peydon)
 
 Eloi Delacroix is a miller in [[Peydon]], where he works with his brother [[Marc Delacroix]]. He is charismatic and well-liked.
 

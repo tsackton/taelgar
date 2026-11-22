@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T18:19:15-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -15,10 +14,8 @@ POV: modern
 ---
 # Tibault
 *(tee-BOH)*
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (human, Sembaran, he/him, d. 1720, lives in Peydon)
 
 Tibault was a butcher in [[Peydon]] and a member of [[Gareth of Tollen]]’s criminal gang. A burly man with rough hands, he used his shop as a front for stolen goods and money laundering and handled the more violent side of the gang’s business.
 
