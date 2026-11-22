@@ -1,0 +1,350 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "stars-stories-001",
+    "sessionYaml": "_sessions/stars-stories/stars-stories-001/cleaned/stars-stories-001-session.yaml",
+    "sessionYamlSha256": "aec366ca83ffc6f5219cc2db42171a692ba5eed2128bf81e40a9cc6c1e4a8dad",
+    "transcriptPath": "_sessions/stars-stories/stars-stories-001/cleaned/stars-stories-001-transcript.md",
+    "transcriptSha256": "501df368e2d9a695ca6285cc40a9f12196a60e5e88ba66a3a2d6e22447ed4860",
+    "yamlDates": {
+      "start": null,
+      "end": null
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0069",
+        "endUid": "u0078"
+      },
+      "reading": "Ariel tells her bedtime lullaby to Bud and Butt in Neo-Tollen.",
+      "evidence": [
+        {
+          "startUid": "u0069",
+          "endUid": "u0078",
+          "quote": "And tonight, she tells a very quick bedtime story."
+        },
+        {
+          "startUid": "u0093",
+          "endUid": "u0097",
+          "quote": "Everybody falls asleep peacefully"
+        }
+      ],
+      "actors": [
+        "Ariel"
+      ],
+      "time": {
+        "partOfDay": "bedtime",
+        "precision": "approximate",
+        "basis": "The player calls the scene a bedtime story and places it tonight."
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0122",
+        "endUid": "u0124"
+      },
+      "reading": "Lyndria tells her story for elves while they are in the Dreaming.",
+      "evidence": [
+        {
+          "startUid": "u0122",
+          "endUid": "u0124",
+          "quote": "as the elves are in the dreaming."
+        },
+        {
+          "startUid": "u0127",
+          "endUid": "u0135",
+          "quote": "And today, her story begins"
+        },
+        {
+          "startUid": "u0318",
+          "endUid": "u0330",
+          "quote": "the completion of your cozy bedtime story"
+        }
+      ],
+      "actors": [
+        "Lyndria"
+      ],
+      "time": {
+        "partOfDay": "bedtime",
+        "precision": "approximate",
+        "basis": "The player describes storytelling for sleeping elves and the DM frames the openings as bedtime stories."
+      }
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0184",
+        "endUid": "u0194"
+      },
+      "reading": "Merrin tells his daughter a story on the night before her wedding.",
+      "evidence": [
+        {
+          "startUid": "u0184",
+          "endUid": "u0194",
+          "quote": "Clearly, there's a wedding tomorrow of some kind."
+        },
+        {
+          "startUid": "u0214",
+          "endUid": "u0222",
+          "quote": "on the night before his daughter leaves him to get married"
+        }
+      ],
+      "actors": [
+        "Merrin Sweetwater"
+      ],
+      "time": {
+        "partOfDay": "night",
+        "precision": "approximate",
+        "basis": "Merrin describes it as the night before his daughter leaves to get married."
+      }
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0229",
+        "endUid": "u0243"
+      },
+      "reading": "Tevren spends his one night at home with his family before his expected return to orbit.",
+      "evidence": [
+        {
+          "startUid": "u0229",
+          "endUid": "u0243",
+          "quote": "he only has a night at home before he is going back up"
+        },
+        {
+          "startUid": "u0244",
+          "endUid": "u0252",
+          "quote": "But tonight, I get to tell you a story in real life."
+        },
+        {
+          "startUid": "u0277",
+          "endUid": "u0277",
+          "quote": "that's where I'm going tomorrow"
+        }
+      ],
+      "actors": [
+        "Tevren"
+      ],
+      "time": {
+        "partOfDay": "night",
+        "precision": "approximate",
+        "basis": "Tevren calls the scene tonight and says he plans to leave tomorrow."
+      }
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0282",
+        "endUid": "u0288"
+      },
+      "reading": "Wasbeer tells a story to his kits tucked into bed.",
+      "evidence": [
+        {
+          "startUid": "u0282",
+          "endUid": "u0288",
+          "quote": "5 little baby raccoons are all lined up next to each other"
+        },
+        {
+          "startUid": "u0318",
+          "endUid": "u0330",
+          "quote": "the completion of your cozy bedtime story"
+        }
+      ],
+      "actors": [
+        "Wasbeer Pete"
+      ],
+      "time": {
+        "partOfDay": "bedtime",
+        "precision": "approximate",
+        "basis": "The kits are tucked into bed and the DM describes the preceding stories as bedtime stories."
+      }
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0318",
+        "endUid": "u0330"
+      },
+      "reading": "Each character is displaced immediately after their own bedtime story. This brings the five separate opening scenes into a shared sequence.",
+      "evidence": [
+        {
+          "startUid": "u0318",
+          "endUid": "u0330",
+          "quote": "immediately following the f- the completion of your cozy bedtime story"
+        },
+        {
+          "startUid": "u0347",
+          "endUid": "u0351",
+          "quote": "back in your body"
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u0352",
+        "endUid": "u0358"
+      },
+      "reading": "The second-floor room appears to be in evening when the five characters come to on the floor.",
+      "evidence": [
+        {
+          "startUid": "u0347",
+          "endUid": "u0351",
+          "quote": "back in your body, lying on the floor"
+        },
+        {
+          "startUid": "u0352",
+          "endUid": "u0358",
+          "quote": "It appears to be… the evening, looking out a window."
+        }
+      ],
+      "time": {
+        "partOfDay": "evening",
+        "precision": "approximate",
+        "basis": "The DM describes the view from the room as apparent evening."
+      }
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u0486",
+        "endUid": "u0494"
+      },
+      "reading": "The five characters reopen their eyes on the Forest path seemingly a moment after closing them at Frankar’s instruction.",
+      "evidence": [
+        {
+          "startUid": "u0459",
+          "endUid": "u0460",
+          "quote": "I need each of you to just, hold hands"
+        },
+        {
+          "startUid": "u0459",
+          "endUid": "u0460",
+          "quote": "close your eyes"
+        },
+        {
+          "startUid": "u0486",
+          "endUid": "u0494",
+          "quote": "seemingly a moment later"
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u0583",
+        "endUid": "u0584"
+      },
+      "reading": "Merrin’s bluebird goes out to scout and returns to his shoulder after about a minute or two.",
+      "evidence": [
+        {
+          "startUid": "u0583",
+          "endUid": "u0584",
+          "quote": "it flies off for a minute or two"
+        },
+        {
+          "startUid": "u0606",
+          "endUid": "u0610",
+          "quote": "The bluebird returns and flies over to Merrin's shoulder."
+        }
+      ],
+      "actors": [
+        "Merrin’s bluebird"
+      ],
+      "duration": {
+        "min": 1,
+        "minInclusive": true,
+        "max": 2,
+        "maxInclusive": true,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "The DM says a minute or two and subsequently narrates the return."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u0847",
+        "endUid": "u0847"
+      },
+      "reading": "At the castle Buddy expects night to be a while off. Daylight is still visible through the damaged closet when the party investigates.",
+      "evidence": [
+        {
+          "startUid": "u0847",
+          "endUid": "u0847",
+          "quote": "How long is it till nighttime?"
+        },
+        {
+          "startUid": "u0848",
+          "endUid": "u0849",
+          "quote": "Long. I'm not really good with numbers and times and stuff."
+        },
+        {
+          "startUid": "u0850",
+          "endUid": "u0852",
+          "quote": "third snack… probably… probably a while"
+        },
+        {
+          "startUid": "u1108",
+          "endUid": "u1113",
+          "quote": "daylight shining through it"
+        }
+      ],
+      "time": {
+        "partOfDay": "daylight",
+        "precision": "approximate",
+        "basis": "Buddy places night later using snack breaks, and the DM narrates daylight at the closet."
+      },
+      "note": "Buddy’s snack count does not provide elapsed minutes, a civil watch, or synchronization with the earlier room."
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u1667",
+        "endUid": "u1668"
+      },
+      "reading": "The potion ritual abruptly takes the group from the factory to the planet of the Mookers. The destination’s local time remains open.",
+      "evidence": [
+        {
+          "startUid": "u1667",
+          "endUid": "u1668",
+          "quote": "you vanish from the world that you're in"
+        },
+        {
+          "startUid": "u1670",
+          "endUid": "u1670",
+          "quote": "In the vestibule of the potion factory, and reappear."
+        },
+        {
+          "startUid": "u1673",
+          "endUid": "u1673",
+          "quote": "On the planet of the Mookers."
+        }
+      ]
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "The manifest supplies no in-world dates. The transcript supplies separate local bedtime scenes, an apparent evening in Frankar’s room, daylight in Forest, and no civil calendar anchor.",
+    "expectedDateBoundaries": null,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03",
+      "t04",
+      "t05",
+      "t06",
+      "t07",
+      "t08",
+      "t09",
+      "t10",
+      "t11"
+    ],
+    "explanation": "The episode moves among worlds with no established common clock. The spoken times for the wedding, space voyage, star recording, and closet damage refer to local plans or prior events."
+  }
+}

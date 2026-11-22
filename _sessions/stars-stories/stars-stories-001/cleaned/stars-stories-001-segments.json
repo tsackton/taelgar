@@ -1,0 +1,93 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "stars-stories-001",
+    "sessionYaml": "_sessions/stars-stories/stars-stories-001/cleaned/stars-stories-001-session.yaml",
+    "sessionYamlSha256": "aec366ca83ffc6f5219cc2db42171a692ba5eed2128bf81e40a9cc6c1e4a8dad",
+    "transcriptPath": "_sessions/stars-stories/stars-stories-001/cleaned/stars-stories-001-transcript.md",
+    "transcriptSha256": "501df368e2d9a695ca6285cc40a9f12196a60e5e88ba66a3a2d6e22447ed4860"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0021"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0022",
+        "endUid": "u0306"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0307",
+        "endUid": "u0317"
+      },
+      "category": "table_talk",
+      "note": "The first turn closes the last bedtime story with a pop, then turns to music and Zoom layout."
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0318",
+        "endUid": "u0494"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0495",
+        "endUid": "u0501"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u0502",
+        "endUid": "u1015"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u1016",
+        "endUid": "u1031"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u1032",
+        "endUid": "u1688"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u1689",
+        "endUid": "u2210"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u2211",
+        "endUid": "u2310"
+      },
+      "category": "table_talk"
+    }
+  ]
+}

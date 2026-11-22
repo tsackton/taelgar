@@ -1,0 +1,16 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "stars-stories-001",
+    "sessionYaml": "_sessions/stars-stories/stars-stories-001/cleaned/stars-stories-001-session.yaml",
+    "sessionYamlSha256": "aec366ca83ffc6f5219cc2db42171a692ba5eed2128bf81e40a9cc6c1e4a8dad",
+    "transcriptPath": "_sessions/stars-stories/stars-stories-001/cleaned/stars-stories-001-transcript.md",
+    "transcriptSha256": "501df368e2d9a695ca6285cc40a9f12196a60e5e88ba66a3a2d6e22447ed4860",
+    "segments": {
+      "path": "_sessions/stars-stories/stars-stories-001/cleaned/stars-stories-001-segments.json",
+      "sha256": "4bbd70dfd5d744becde5fcf962134f9532dfb3c05443daf741132637879f0da9",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": []
+}

@@ -45,3 +45,22 @@ supplementalSources:
 speakerMappingsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/stars-stories/stars-stories-001/sources/stars-stories-ep01-speaker-mappings.json
 transcriptFormat: vtt
 speakerStatsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/stars-stories/stars-stories-001/cleaned/stars-stories-001-speaker-stats.json
+
+transcriptProcessing:
+  version: 1
+  status: complete
+  units: 2310
+  issues: 0
+  artifacts:
+    original:
+      path: sources/GMT20261118-014206_Recording.transcript.vtt
+      sha256: cafe39ed58f3523f6894b7235f05973f80b7f2726255f15057c0eb8aab3f378d
+    prepared:
+      path: cleaned/stars-stories-001-source-prepared.md
+      sha256: 74725912cd0bb31a9a96edc8fc68687e7b7a3586d20a272fb2e2e3fe12980bd6
+    cleaned:
+      path: cleaned/stars-stories-001-source-cleaned.md
+      sha256: d44729a80f569e1b43afd0fcaf648be486e41353f254896395ef16df6fc9f738
+    polishedMarkdown:
+      path: cleaned/stars-stories-001-transcript.md
+      sha256: 501df368e2d9a695ca6285cc40a9f12196a60e5e88ba66a3a2d6e22447ed4860

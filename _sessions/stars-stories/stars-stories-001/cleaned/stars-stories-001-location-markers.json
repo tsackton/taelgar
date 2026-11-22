@@ -1,0 +1,1358 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "stars-stories-001",
+    "sessionYaml": "_sessions/stars-stories/stars-stories-001/cleaned/stars-stories-001-session.yaml",
+    "sessionYamlSha256": "aec366ca83ffc6f5219cc2db42171a692ba5eed2128bf81e40a9cc6c1e4a8dad",
+    "transcriptPath": "_sessions/stars-stories/stars-stories-001/cleaned/stars-stories-001-transcript.md",
+    "transcriptSha256": "501df368e2d9a695ca6285cc40a9f12196a60e5e88ba66a3a2d6e22447ed4860"
+  },
+  "places": {
+    "p01": {
+      "label": "Neo-Tollen",
+      "kind": "settlement",
+      "evidence": [
+        {
+          "startUid": "u0046",
+          "endUid": "u0048",
+          "quote": "Neo-Tollen."
+        }
+      ],
+      "note": "Ariel’s home city maps onto the Tollen of Taelgar One. The conversation treats them as separate realities."
+    },
+    "p02": {
+      "label": "Ariel’s home at her bike shop",
+      "kind": "home",
+      "evidence": [
+        {
+          "startUid": "u0046",
+          "endUid": "u0048",
+          "quote": "a little place just on the outskirts of Neo-Tollen"
+        },
+        {
+          "startUid": "u0049",
+          "endUid": "u0056",
+          "quote": "it's part of her bike shop"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0046",
+              "endUid": "u0048",
+              "quote": "on the outskirts of Neo-Tollen"
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Lyndria’s home world",
+      "kind": "world",
+      "evidence": [
+        {
+          "startUid": "u0098",
+          "endUid": "u0104",
+          "quote": "a world of all elves"
+        },
+        {
+          "startUid": "u0122",
+          "endUid": "u0124",
+          "quote": "as the elves are in the dreaming"
+        }
+      ],
+      "note": "Lyndria names her birth glade in backstory. The place where she tells today’s story is unspecified."
+    },
+    "p04": {
+      "label": "Tollen in Merrin’s world",
+      "kind": "settlement",
+      "evidence": [
+        {
+          "startUid": "u0168",
+          "endUid": "u0168",
+          "quote": "panning in on Tollen"
+        },
+        {
+          "startUid": "u0170",
+          "endUid": "u0176",
+          "quote": "But there's no walls."
+        },
+        {
+          "startUid": "u0380",
+          "endUid": "u0381",
+          "quote": "Not probably from his Tollen."
+        }
+      ],
+      "note": "Merrin situates this version by comparison with the Dunmari Frontier city."
+    },
+    "p05": {
+      "label": "Bedroom in Merrin’s house",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0177",
+          "endUid": "u0183",
+          "quote": "near the docks, a little house"
+        },
+        {
+          "startUid": "u0184",
+          "endUid": "u0194",
+          "quote": "go up the stairs into… into the bedroom"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0168",
+              "endUid": "u0168",
+              "quote": "panning in on Tollen"
+            },
+            {
+              "startUid": "u0177",
+              "endUid": "u0183",
+              "quote": "we zoom over the trading docks"
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Tollen in Tevren’s world",
+      "kind": "settlement",
+      "evidence": [
+        {
+          "startUid": "u0229",
+          "endUid": "u0243",
+          "quote": "the spaceport of Tollen"
+        }
+      ],
+      "note": "This version has a spaceport and is part of Tevren’s account of space travel."
+    },
+    "p07": {
+      "label": "Tevren’s villa across the Volta",
+      "kind": "home",
+      "evidence": [
+        {
+          "startUid": "u0229",
+          "endUid": "u0243",
+          "quote": "Across the Volta from the spaceport of Tollen. In a villa lives Tevren."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u0229",
+              "endUid": "u0243",
+              "quote": "Across the Volta from the spaceport of Tollen"
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Tollenwood Forest",
+      "kind": "settlement",
+      "evidence": [
+        {
+          "startUid": "u0282",
+          "endUid": "u0288",
+          "quote": "The Tollenwood Forest is a vast city within an enormous forest"
+        }
+      ]
+    },
+    "p09": {
+      "label": "Wasbeer’s room on an ash-lined street",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0282",
+          "endUid": "u0288",
+          "quote": "a residential street of ash trees"
+        },
+        {
+          "startUid": "u0282",
+          "endUid": "u0288",
+          "quote": "in a cozy, cozy room with one great big bed"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u0282",
+              "endUid": "u0288",
+              "quote": "Tollenwood Forest is a vast city within an enormous forest, and at the quiet end of a residential street of ash trees"
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Star-studded transition",
+      "kind": "magical space",
+      "evidence": [
+        {
+          "startUid": "u0318",
+          "endUid": "u0330",
+          "quote": "suddenly dislocated from the world"
+        },
+        {
+          "startUid": "u0318",
+          "endUid": "u0330",
+          "quote": "a kind of spherical shell, studded with pale, glowing stars and half-moons"
+        }
+      ],
+      "note": "The characters see one another during the transition. The spherical appearance does not establish its relation to Frankar’s physical sphere."
+    },
+    "p11": {
+      "label": "Cozy second-floor room",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0347",
+          "endUid": "u0351",
+          "quote": "the floor of a cozy room"
+        },
+        {
+          "startUid": "u0438",
+          "endUid": "u0443",
+          "quote": "seems like you're on the second floor of a building"
+        }
+      ],
+      "note": "Frankar enters this room. The building’s wider location is unspecified."
+    },
+    "p12": {
+      "label": "Forest",
+      "kind": "world",
+      "evidence": [
+        {
+          "startUid": "u0707",
+          "endUid": "u0708",
+          "quote": "We just call it Forest?"
+        },
+        {
+          "startUid": "u1453",
+          "endUid": "u1457",
+          "quote": "This forest world is populated by many creatures"
+        }
+      ]
+    },
+    "p13": {
+      "label": "Forest path between a wall and a rise",
+      "kind": "path",
+      "evidence": [
+        {
+          "startUid": "u0502",
+          "endUid": "u0504",
+          "quote": "this path in the forest"
+        },
+        {
+          "startUid": "u0502",
+          "endUid": "u0504",
+          "quote": "a steep stone wall taller than any of your heads"
+        },
+        {
+          "startUid": "u0505",
+          "endUid": "u0506",
+          "quote": "path goes up over a rise"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u0502",
+              "endUid": "u0504",
+              "quote": "this path in the forest"
+            },
+            {
+              "startUid": "u0703",
+              "endUid": "u0703",
+              "quote": "I live here in the forest"
+            },
+            {
+              "startUid": "u0707",
+              "endUid": "u0708",
+              "quote": "We just call it Forest?"
+            }
+          ]
+        }
+      ]
+    },
+    "p14": {
+      "label": "Swamp beyond the rise",
+      "kind": "wetland",
+      "evidence": [
+        {
+          "startUid": "u0606",
+          "endUid": "u0610",
+          "quote": "The terrain descends into a swampy area"
+        },
+        {
+          "startUid": "u0781",
+          "endUid": "u0784",
+          "quote": "through a little bit of a swampy area"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u0606",
+              "endUid": "u0610",
+              "quote": "The terrain descends into a swampy area"
+            },
+            {
+              "startUid": "u0703",
+              "endUid": "u0703",
+              "quote": "I live here in the forest"
+            }
+          ]
+        }
+      ]
+    },
+    "p15": {
+      "label": "Bubbling spring by the Forest path",
+      "kind": "spring",
+      "evidence": [
+        {
+          "startUid": "u0682",
+          "endUid": "u0684",
+          "quote": "a beautiful, bubbling clear spring just off the path"
+        },
+        {
+          "startUid": "u0693",
+          "endUid": "u0697",
+          "quote": "to the bubbling spring"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p13",
+          "evidence": [
+            {
+              "startUid": "u0682",
+              "endUid": "u0684",
+              "quote": "a beautiful, bubbling clear spring just off the path"
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u0682",
+              "endUid": "u0684",
+              "quote": "a beautiful, bubbling clear spring just off the path"
+            },
+            {
+              "startUid": "u0707",
+              "endUid": "u0708",
+              "quote": "We just call it Forest?"
+            }
+          ]
+        }
+      ]
+    },
+    "p16": {
+      "label": "Seeker’s Castle",
+      "kind": "building",
+      "evidence": [
+        {
+          "startUid": "u0713",
+          "endUid": "u0714",
+          "quote": "my way to Seeker's Castle"
+        },
+        {
+          "startUid": "u0785",
+          "endUid": "u0788",
+          "quote": "a cliffside property"
+        },
+        {
+          "startUid": "u0796",
+          "endUid": "u0799",
+          "quote": "‘Here we are,’ says Buddy."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u0707",
+              "endUid": "u0708",
+              "quote": "We just call it Forest?"
+            },
+            {
+              "startUid": "u0713",
+              "endUid": "u0714",
+              "quote": "my way to Seeker's Castle"
+            },
+            {
+              "startUid": "u0785",
+              "endUid": "u0788",
+              "quote": "a clearing in the woods"
+            }
+          ]
+        }
+      ]
+    },
+    "p17": {
+      "label": "Kitchen at Seeker’s Castle",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0819",
+          "endUid": "u0823",
+          "quote": "a little kitchen area adjacent to a dining room"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p16",
+          "evidence": [
+            {
+              "startUid": "u0796",
+              "endUid": "u0799",
+              "quote": "‘Here we are,’ says Buddy."
+            },
+            {
+              "startUid": "u0819",
+              "endUid": "u0823",
+              "quote": "you find yourselves in a little entryway"
+            }
+          ]
+        }
+      ]
+    },
+    "p18": {
+      "label": "Observatory at Seeker’s Castle",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0834",
+          "endUid": "u0837",
+          "quote": "observatory, I think it's called"
+        },
+        {
+          "startUid": "u0857",
+          "endUid": "u0858",
+          "quote": "a stairway leading up to a part of the castle in the rear"
+        },
+        {
+          "startUid": "u0999",
+          "endUid": "u1006",
+          "quote": "a dome-shaped roof with a slot in it"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p16",
+          "evidence": [
+            {
+              "startUid": "u0857",
+              "endUid": "u0858",
+              "quote": "a part of the castle in the rear"
+            },
+            {
+              "startUid": "u0859",
+              "endUid": "u0859",
+              "quote": "The observatory?"
+            }
+          ]
+        }
+      ]
+    },
+    "p19": {
+      "label": "Living room at Seeker’s Castle",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u1108",
+          "endUid": "u1113",
+          "quote": "there's a living room"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p16",
+          "evidence": [
+            {
+              "startUid": "u1105",
+              "endUid": "u1107",
+              "quote": "on the opposite side of the castle"
+            },
+            {
+              "startUid": "u1108",
+              "endUid": "u1113",
+              "quote": "there's a living room"
+            }
+          ]
+        }
+      ]
+    },
+    "p20": {
+      "label": "Seeker’s ruined potion closet",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u1108",
+          "endUid": "u1113",
+          "quote": "there's now just a pile of rubble"
+        },
+        {
+          "startUid": "u1124",
+          "endUid": "u1124",
+          "quote": "A smashed Seeker's Potion Closet."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "connected_to",
+          "target": "p19",
+          "evidence": [
+            {
+              "startUid": "u1108",
+              "endUid": "u1113",
+              "quote": "off the living room is a little door"
+            },
+            {
+              "startUid": "u1108",
+              "endUid": "u1113",
+              "quote": "the door would have led into what looks like a large closet"
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p16",
+          "evidence": [
+            {
+              "startUid": "u1165",
+              "endUid": "u1165",
+              "quote": "the back corner of the castle"
+            }
+          ]
+        }
+      ]
+    },
+    "p21": {
+      "label": "Potion factory",
+      "kind": "building",
+      "evidence": [
+        {
+          "startUid": "u1224",
+          "endUid": "u1225",
+          "quote": "to the potion factory"
+        },
+        {
+          "startUid": "u1392",
+          "endUid": "u1396",
+          "quote": "a warehouse-like building with a single door"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p16",
+          "evidence": [
+            {
+              "startUid": "u1392",
+              "endUid": "u1396",
+              "quote": "across the street, behind the castle"
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u1453",
+              "endUid": "u1457",
+              "quote": "This forest world is populated by many creatures"
+            }
+          ]
+        }
+      ]
+    },
+    "p22": {
+      "label": "Potion factory vestibule",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u1670",
+          "endUid": "u1670",
+          "quote": "In the vestibule of the potion factory"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p21",
+          "evidence": [
+            {
+              "startUid": "u1670",
+              "endUid": "u1670",
+              "quote": "In the vestibule of the potion factory"
+            }
+          ]
+        }
+      ]
+    },
+    "p23": {
+      "label": "Planet of the Mookers",
+      "kind": "world",
+      "evidence": [
+        {
+          "startUid": "u1673",
+          "endUid": "u1673",
+          "quote": "On the planet of the Mookers."
+        }
+      ],
+      "note": "A play with the same title has a different-world reveal. The arrival itself leaves that world’s history open."
+    },
+    "p24": {
+      "label": "Star targeted by Zerpy’s observatory",
+      "kind": "celestial object",
+      "evidence": [
+        {
+          "startUid": "u1048",
+          "endUid": "u1051",
+          "quote": "And we pointed it at… at one of them"
+        },
+        {
+          "startUid": "u1068",
+          "endUid": "u1069",
+          "quote": "what was that star talking about?"
+        }
+      ],
+      "note": "Zerpy thinks the sound came from the star. The recording leaves its origin and speaker unconfirmed."
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0046",
+        "endUid": "u0048"
+      },
+      "actors": [
+        "Ariel"
+      ],
+      "reading": "Ariel tells the bedtime story at the home attached to her bike shop outside Neo-Tollen.",
+      "evidence": [
+        {
+          "startUid": "u0046",
+          "endUid": "u0048",
+          "quote": "a little place just on the outskirts of Neo-Tollen"
+        },
+        {
+          "startUid": "u0049",
+          "endUid": "u0056",
+          "quote": "it's part of her bike shop"
+        },
+        {
+          "startUid": "u0069",
+          "endUid": "u0078",
+          "quote": "Ariel, as she lovingly holds both Bud and Butt"
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l02",
+      "type": "presence",
+      "source": {
+        "startUid": "u0098",
+        "endUid": "u0104"
+      },
+      "actors": [
+        "Lyndria"
+      ],
+      "reading": "Lyndria tells her story in her home setting. She names her birth glade only in recollection.",
+      "evidence": [
+        {
+          "startUid": "u0098",
+          "endUid": "u0104",
+          "quote": "a world of all elves"
+        },
+        {
+          "startUid": "u0122",
+          "endUid": "u0124",
+          "quote": "as the elves are in the dreaming"
+        },
+        {
+          "startUid": "u0127",
+          "endUid": "u0135",
+          "quote": "And today, her story begins"
+        }
+      ],
+      "place": "p03"
+    },
+    {
+      "id": "l03",
+      "type": "presence",
+      "source": {
+        "startUid": "u0177",
+        "endUid": "u0183"
+      },
+      "actors": [
+        "Merrin Sweetwater"
+      ],
+      "reading": "Merrin and his daughter are in her bedroom in the house near the trading docks.",
+      "evidence": [
+        {
+          "startUid": "u0177",
+          "endUid": "u0183",
+          "quote": "near the docks, a little house"
+        },
+        {
+          "startUid": "u0184",
+          "endUid": "u0194",
+          "quote": "into the bedroom"
+        },
+        {
+          "startUid": "u0195",
+          "endUid": "u0202",
+          "quote": "you hear his daughter say"
+        }
+      ],
+      "place": "p05"
+    },
+    {
+      "id": "l04",
+      "type": "presence",
+      "source": {
+        "startUid": "u0229",
+        "endUid": "u0243"
+      },
+      "actors": [
+        "Tevren"
+      ],
+      "reading": "Tevren returns to his villa across the Volta from the spaceport and tells his son a story.",
+      "evidence": [
+        {
+          "startUid": "u0229",
+          "endUid": "u0243",
+          "quote": "Across the Volta from the spaceport of Tollen. In a villa lives Tevren."
+        },
+        {
+          "startUid": "u0244",
+          "endUid": "u0252",
+          "quote": "he hands one to his young… son"
+        }
+      ],
+      "place": "p07"
+    },
+    {
+      "id": "l05",
+      "type": "presence",
+      "source": {
+        "startUid": "u0282",
+        "endUid": "u0288"
+      },
+      "actors": [
+        "Wasbeer Pete"
+      ],
+      "reading": "Wasbeer sits with the kits at home in Tollenwood Forest.",
+      "evidence": [
+        {
+          "startUid": "u0282",
+          "endUid": "u0288",
+          "quote": "in a cozy, cozy room with one great big bed"
+        }
+      ],
+      "place": "p09"
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0318",
+        "endUid": "u0330"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The five are pulled from their separate homes into a shared magical transit. They see each other through what look like windows in a star-studded shell.",
+      "evidence": [
+        {
+          "startUid": "u0318",
+          "endUid": "u0330",
+          "quote": "suddenly dislocated from the world"
+        },
+        {
+          "startUid": "u0318",
+          "endUid": "u0330",
+          "quote": "rectangular windows or so, it seems"
+        },
+        {
+          "startUid": "u0331",
+          "endUid": "u0335",
+          "quote": "And so you see in each of the windows"
+        }
+      ],
+      "from": null,
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "magical transit",
+      "note": "The DM narrates them reentering their bodies afterward. Their departure points are the five separately attested settings."
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u0338",
+        "endUid": "u0346"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The five are back in their bodies on the carpet of the same room. The sounds from below later locate the room on the second floor.",
+      "evidence": [
+        {
+          "startUid": "u0338",
+          "endUid": "u0346",
+          "quote": "abruptly another popping sound"
+        },
+        {
+          "startUid": "u0347",
+          "endUid": "u0351",
+          "quote": "back in your body, lying on the floor of a cozy room"
+        },
+        {
+          "startUid": "u0360",
+          "endUid": "u0361",
+          "quote": "All five of you."
+        },
+        {
+          "startUid": "u0438",
+          "endUid": "u0443",
+          "quote": "seems like you're on the second floor of a building"
+        }
+      ],
+      "from": "p10",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "magical transit"
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u0461",
+        "endUid": "u0494"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The five hold hands while Merrin reaches through Frankar’s sphere. They vanish and emerge together on a path in Forest, between the wall and the rise.",
+      "evidence": [
+        {
+          "startUid": "u0461",
+          "endUid": "u0465",
+          "quote": "a spherical object"
+        },
+        {
+          "startUid": "u0466",
+          "endUid": "u0466",
+          "quote": "I'll stick his hand through"
+        },
+        {
+          "startUid": "u0467",
+          "endUid": "u0472",
+          "quote": "you vanish from this world once again"
+        },
+        {
+          "startUid": "u0486",
+          "endUid": "u0494",
+          "quote": "holding hands still on a path"
+        },
+        {
+          "startUid": "u0502",
+          "endUid": "u0504",
+          "quote": "this path in the forest"
+        },
+        {
+          "startUid": "u0505",
+          "endUid": "u0506",
+          "quote": "over a rise"
+        }
+      ],
+      "from": "p11",
+      "to": "p13",
+      "completion": "arrived",
+      "mode": "sphere transit",
+      "note": "The players imagined home forests for the transition. The DM later says the submitted descriptions did not determine the played setting."
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u0576",
+        "endUid": "u0584"
+      },
+      "actors": [
+        "Merrin’s bluebird"
+      ],
+      "reading": "Merrin’s bluebird scouts over the rise and returns to his shoulder. The table accepts this route after clarifying the original instruction to scout the wall.",
+      "evidence": [
+        {
+          "startUid": "u0576",
+          "endUid": "u0576",
+          "quote": "Go see what's on the other side of that wall."
+        },
+        {
+          "startUid": "u0583",
+          "endUid": "u0584",
+          "quote": "it flies off for a minute or two"
+        },
+        {
+          "startUid": "u0606",
+          "endUid": "u0610",
+          "quote": "The bluebird returns and flies over to Merrin's shoulder."
+        },
+        {
+          "startUid": "u0619",
+          "endUid": "u0620",
+          "quote": "We'll just pretend he went over the rise instead."
+        }
+      ],
+      "from": "p13",
+      "to": "p13",
+      "completion": "arrived",
+      "mode": "fly",
+      "route": [
+        {
+          "place": "p14",
+          "reading": "Scouts over the rise and reports the swamp beyond it."
+        }
+      ],
+      "duration": {
+        "min": 1,
+        "minInclusive": true,
+        "max": 2,
+        "maxInclusive": true,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "The DM says it flies off for a minute or two before narrating its return."
+      }
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u0646",
+        "endUid": "u0671"
+      },
+      "actors": [
+        "Buddy the Mouse"
+      ],
+      "reading": "Buddy comes out of the swamp over the rise and bumps into a tree by the path while covered in mud and sticks.",
+      "evidence": [
+        {
+          "startUid": "u0646",
+          "endUid": "u0648",
+          "quote": "as it comes up over the ridge"
+        },
+        {
+          "startUid": "u0655",
+          "endUid": "u0656",
+          "quote": "as it walked up from the swamp and out over the path"
+        },
+        {
+          "startUid": "u0660",
+          "endUid": "u0661",
+          "quote": "bumps into a tree at the side of the path"
+        },
+        {
+          "startUid": "u0671",
+          "endUid": "u0671",
+          "quote": "I'm Buddy the Mouse."
+        }
+      ],
+      "from": "p14",
+      "to": "p13",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u0682",
+        "endUid": "u0700"
+      },
+      "actors": [
+        "party",
+        "Buddy the Mouse"
+      ],
+      "reading": "The travelers lead Buddy to the spring on the near side of the rise and rinse off his covering of mud, sticks and leaves.",
+      "evidence": [
+        {
+          "startUid": "u0682",
+          "endUid": "u0684",
+          "quote": "a beautiful, bubbling clear spring just off the path"
+        },
+        {
+          "startUid": "u0693",
+          "endUid": "u0697",
+          "quote": "you lead the ball of muck and yuck to the bubbling spring"
+        },
+        {
+          "startUid": "u0698",
+          "endUid": "u0700",
+          "quote": "a rather wet and shivering little mouse"
+        }
+      ],
+      "from": "p13",
+      "to": "p15",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u0777",
+        "endUid": "u0799"
+      },
+      "actors": [
+        "party",
+        "Buddy the Mouse"
+      ],
+      "reading": "Buddy guides the party to Seeker’s cliffside castle while Merrin carries him across the rise and swamp.",
+      "evidence": [
+        {
+          "startUid": "u0713",
+          "endUid": "u0714",
+          "quote": "my way to Seeker's Castle"
+        },
+        {
+          "startUid": "u0777",
+          "endUid": "u0780",
+          "quote": "Buddy the Mouse hops onto Merrin's shoulder"
+        },
+        {
+          "startUid": "u0781",
+          "endUid": "u0784",
+          "quote": "through a little bit of a swampy area"
+        },
+        {
+          "startUid": "u0785",
+          "endUid": "u0788",
+          "quote": "a cliffside property"
+        },
+        {
+          "startUid": "u0796",
+          "endUid": "u0799",
+          "quote": "‘Here we are,’ says Buddy."
+        }
+      ],
+      "from": "p15",
+      "to": "p16",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "place": "p14",
+          "reading": "Cross the rise and the swampy ground along Buddy’s muddy trail."
+        }
+      ]
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u0808",
+        "endUid": "u0826"
+      },
+      "actors": [
+        "party",
+        "Buddy the Mouse"
+      ],
+      "reading": "Lyndria rings the bell. Buddy opens the unlocked entrance and heads for the kitchen, where the party talks with him about Seeker and the observatory.",
+      "evidence": [
+        {
+          "startUid": "u0818",
+          "endUid": "u0818",
+          "quote": "I pressed the button."
+        },
+        {
+          "startUid": "u0819",
+          "endUid": "u0823",
+          "quote": "Buddy runs right through it, to a little kitchen area adjacent to a dining room"
+        },
+        {
+          "startUid": "u0825",
+          "endUid": "u0825",
+          "quote": "Yeah, I'll go in."
+        },
+        {
+          "startUid": "u0826",
+          "endUid": "u0826",
+          "quote": "When Seeker's away, buddy, does he come back"
+        }
+      ],
+      "from": "p16",
+      "to": "p17",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u0948",
+        "endUid": "u0991"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "After Buddy leaves in an unspecified direction, the party goes upstairs and enters the observatory after Zerpy invites them in.",
+      "evidence": [
+        {
+          "startUid": "u0857",
+          "endUid": "u0858",
+          "quote": "a stairway leading up to a part of the castle in the rear"
+        },
+        {
+          "startUid": "u0909",
+          "endUid": "u0909",
+          "quote": "And so Buddy scampers off."
+        },
+        {
+          "startUid": "u0948",
+          "endUid": "u0950",
+          "quote": "you ascend, the flight of stairs"
+        },
+        {
+          "startUid": "u0973",
+          "endUid": "u0974",
+          "quote": "Well, come on in."
+        },
+        {
+          "startUid": "u0991",
+          "endUid": "u0991",
+          "quote": "you want to try the observatory?"
+        }
+      ],
+      "from": "p17",
+      "to": "p18",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l15",
+      "type": "observation",
+      "source": {
+        "startUid": "u1032",
+        "endUid": "u1054"
+      },
+      "actors": [
+        "party",
+        "Zerpy"
+      ],
+      "reading": "Zerpy plays the sound that his equipment picked up when pointed at one of the changing stars. The group listens from the observatory.",
+      "evidence": [
+        {
+          "startUid": "u1007",
+          "endUid": "u1008",
+          "quote": "that's how we can listen to the stars"
+        },
+        {
+          "startUid": "u1034",
+          "endUid": "u1035",
+          "quote": "you hear… this sound"
+        },
+        {
+          "startUid": "u1048",
+          "endUid": "u1051",
+          "quote": "And we pointed it at… at one of them"
+        }
+      ],
+      "place": "p24",
+      "observerPlace": "p18",
+      "mode": "remote",
+      "note": "The source is acoustic and its alleged connection to the targeted star is Zerpy’s interpretation."
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u1105",
+        "endUid": "u1113"
+      },
+      "actors": [
+        "party",
+        "Zerpy"
+      ],
+      "reading": "Zerpy takes the party downstairs to the living room opposite the kitchen.",
+      "evidence": [
+        {
+          "startUid": "u1105",
+          "endUid": "u1107",
+          "quote": "he leads you down the stairs"
+        },
+        {
+          "startUid": "u1108",
+          "endUid": "u1113",
+          "quote": "On the opposite side, there's a living room"
+        }
+      ],
+      "from": "p18",
+      "to": "p19",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l17",
+      "type": "observation",
+      "source": {
+        "startUid": "u1127",
+        "endUid": "u1165"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "From the living-room doorway the party examines the ruined potion closet. Buckling and debris suggest a downward blow, and the room’s other windows appear intact.",
+      "evidence": [
+        {
+          "startUid": "u1108",
+          "endUid": "u1113",
+          "quote": "off the living room is a little door"
+        },
+        {
+          "startUid": "u1137",
+          "endUid": "u1139",
+          "quote": "clear evidence of very powerful blunt force"
+        },
+        {
+          "startUid": "u1137",
+          "endUid": "u1139",
+          "quote": "where you're looking through the doorway"
+        },
+        {
+          "startUid": "u1142",
+          "endUid": "u1143",
+          "quote": "suggesting a kind of vertical downward smashing"
+        },
+        {
+          "startUid": "u1156",
+          "endUid": "u1156",
+          "quote": "perfectly normal and intact"
+        }
+      ],
+      "place": "p20",
+      "observerPlace": "p19",
+      "mode": "local",
+      "note": "The occupants’ identity and responsibility are separate from this inspection. The evidence places the party at the doorway."
+    },
+    {
+      "id": "l18",
+      "type": "movement",
+      "source": {
+        "startUid": "u1387",
+        "endUid": "u1437"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party walks down the road behind the castle and reaches the warehouse-like potion factory across it. Other Mouse admits them for a tour.",
+      "evidence": [
+        {
+          "startUid": "u1239",
+          "endUid": "u1241",
+          "quote": "There's a road back there behind the castle"
+        },
+        {
+          "startUid": "u1387",
+          "endUid": "u1387",
+          "quote": "as we walk toward the potion factory"
+        },
+        {
+          "startUid": "u1392",
+          "endUid": "u1396",
+          "quote": "that you've arrived, as the gnome said, across the street, behind the castle"
+        },
+        {
+          "startUid": "u1435",
+          "endUid": "u1437",
+          "quote": "Come on in."
+        }
+      ],
+      "from": "p19",
+      "to": "p21",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Take the road behind Seeker’s Castle to the nearby factory."
+        }
+      ],
+      "note": "The guide describes the factory’s second floor as part of a prospective demonstration. The party remains downstairs."
+    },
+    {
+      "id": "l19",
+      "type": "movement",
+      "source": {
+        "startUid": "u1667",
+        "endUid": "u1673"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party drinks the purchased potion and uses the rhyme, vanishing from the factory vestibule and reappearing on the planet of the Mookers.",
+      "evidence": [
+        {
+          "startUid": "u1644",
+          "endUid": "u1645",
+          "quote": "Glorm Butts."
+        },
+        {
+          "startUid": "u1667",
+          "endUid": "u1668",
+          "quote": "you vanish from the world that you're in"
+        },
+        {
+          "startUid": "u1670",
+          "endUid": "u1670",
+          "quote": "In the vestibule of the potion factory, and reappear."
+        },
+        {
+          "startUid": "u1673",
+          "endUid": "u1673",
+          "quote": "On the planet of the Mookers."
+        }
+      ],
+      "from": "p22",
+      "to": "p23",
+      "completion": "arrived",
+      "mode": "potion transit",
+      "note": "The last line of the factory sign remains unread and the session does not establish the terrain or local time at arrival."
+    }
+  ]
+}
