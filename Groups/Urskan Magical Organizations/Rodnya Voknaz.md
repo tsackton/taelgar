@@ -2,7 +2,7 @@
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-tags: [group, status/gameupdate/dufr, status/check/lint]
+tags: [group, status/gameupdate/dufr, status/check/lint, status/check/ai]
 typeOf: magical bloodline
 ancestry: Urskan
 partOf: Rodnya
@@ -23,12 +23,10 @@ The Rodnya’s headquarters is the [[Voknaz Manor]], a heavily warded estate tha
 %%^Campaign:none%%
 ### Members
 
-```dataviewjs
-const { util } = customJS
-dv.table(["Person", "Info", "Current Location"], 
-			dv.pages("#person")
-				.where(f => util.isAffiliated(dv.current().file.name, f.file))
-				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file, dv.current().pageTargetDate), util.s("<ancestry> <maintype>", b.file, dv.current().pageTargetDate), util.s("<lastknown:2r> (<lastknowndate>)", b.file, dv.current().pageTargetDate)]))
+```taelgar-index
+type: members
+mode: table
+heading: false
 ```
 %%^End%%
 
