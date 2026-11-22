@@ -3,7 +3,71 @@ tags: [status/check/ai]
 campaignType: miniseries
 description: A crossover adventure, bringing together characters from different versions of Taelgar, each with a history of their own, into the world of Stars and Stories.
 dm: Eric Rosenbaum
+group: original Taelgar group
+format: mini-campaign
+playStatus: active
 canon: canonical
 continuity: [main, taelgar-31]
+recordings: sessions/recordings/stars-stories
 name: Stars and Stories Crossover
 ---
+
+## Roster
+
+| Player | Player role | Role source | Characters |
+| --- | --- | --- | --- |
+| David Kong | Core | Draft | Ariel |
+| Mike Sackton | Core | Draft | Merrin Sweetwater |
+| Tim Sackton | Core | Draft | Tevren |
+| Kate Sackton | Core | Draft | Lyndria |
+| David Schwartz | Core | Draft | Wasbeer Pete (“Whisper”) |
+
+## Play history
+
+%%^Campaign:none%%
+
+### November 2026 register summary
+
+| Register entry | Recorded value | Session | Source | Qualification |
+| --- | --- | --- | --- | --- |
+| Latest session | 1 | — | Manual | — |
+| First play date | 2026-11-17 | 1 | [GMT20261118-014206_RecordingnewChat.txt](file:///Users/tim/Documents/RPGs/sessions/recordings/stars-stories/GMT20261118-014206_RecordingnewChat.txt) | — |
+| Latest play date | 2026-11-17 | 1 | [GMT20261118-014206_RecordingnewChat.txt](file:///Users/tim/Documents/RPGs/sessions/recordings/stars-stories/GMT20261118-014206_RecordingnewChat.txt) | — |
+
+%%^End%%
+
+%%^Campaign:none%%
+
+### Stars and Stories · session log
+
+Campaign code **stars**. 1 played session. 2026-11-17.
+
+| Session | Played locally | DR start | DR end | Sources |
+|---|---|---|---|---|
+| 1 | 2026-11-17 | — | — | [GMT20261118-014206_Recording.m4a](file:///Users/tim/Documents/RPGs/sessions/recordings/stars-stories/GMT20261118-014206_Recording.m4a) (archive local date, 2026-11-17) · [GMT20261118-014206_RecordingnewChat.txt](file:///Users/tim/Documents/RPGs/sessions/recordings/stars-stories/GMT20261118-014206_RecordingnewChat.txt) (registered endpoint, 2026-11-17) · Tue 20:30 [Taelgar: Stars and Stories Session 1](https://www.google.com/calendar/event?eid=XzZ0MzNhZ3EyNmQzMzhiYTI3MHAzMmI5azhrb2owYmExODhxM2NiOWg2NTI0YWRpNDg0cDM0aDlrNmsgaDJxaGswMTlvZTNhdmN0a3AwZ2FyZnNsYmdAZw&ctz=America/New_York) |
+
+#### Other meetings
+
+| Local date | Time (Eastern) | Calendar entry | Note |
+|---|---|---|---|
+| 2026-11-05 | Thu 20:30 | [Taelgar: Stars and Stories Session 0](https://www.google.com/calendar/event?eid=Xzg5MmpnZTFsOGwxNDhiOWc2NTJrY2I5azhsMzQ2YjlvOG9vMzhiYTM2Z3A0YWMyMzYxMWo2ZDlvNzQgaDJxaGswMTlvZTNhdmN0a3AwZ2FyZnNsYmdAZw&ctz=America/New_York) | organizing |
+
+%%^End%%
+
+%%^Campaign:none%%
+
+## Open questions
+
+- Which home continuity does each character come from? Main and taelgar-31 are recorded so far.
+- Does the meeting place in session 1 have its own in-world date?
+
+%%^End%%
+
+%%^Campaign:none%%
+
+## Historical register details
+
+- The register used the key `starsstories`.
+- The campaign name was Stars and Stories.
+
+%%^End%%
