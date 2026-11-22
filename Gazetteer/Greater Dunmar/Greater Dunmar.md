@@ -32,7 +32,7 @@ This region of Taelgar includes the land south of the [[Sentinel Range]], from t
 This region experienced considerable upheaval after the [[Great War]], as the [[Yuvanti Mountains]] rose from the sea, creating the new land of [[Western Dunmar]], and turning the former fertile plains of the interior to desert. 
 ## Map
 
-{link to leaflet map of region}
+{link to map of region}
 ## Topography and Major Features
 _See more: {links}_
 

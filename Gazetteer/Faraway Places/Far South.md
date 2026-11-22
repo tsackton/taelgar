@@ -17,7 +17,7 @@ POV: modern
 In the markets of [[Tollen]] or [[Chardon]], rumors are occasionally heard of great lands faraway to the south and east, where creatures as tall as castles roam and the air is sticky and wet. Others tell of an endless desert, where oases bloom with flowers the size of trees, but death awaits those who lose their way in the endless heat and sand. What truth there is to these rumors is not known.
 ## Map
 
-{link to leaflet map of region}
+{link to map of region}
 ## Topography and Major Features
 This region is shrouded in mystery, and only a few features are rumored. Many reports of a [[Great Desert|endless desert]] stretching for thousands of miles have come west, but beyond that, few know what mysteries this region holds.
 

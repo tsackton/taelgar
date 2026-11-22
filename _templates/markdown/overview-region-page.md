@@ -23,7 +23,7 @@ dm_notes: none
 {intro text}
 ## Map
 
-{link to leaflet map of region}
+{link to map of region}
 ## Topography and Major Features
 _See more: {links}_
 
