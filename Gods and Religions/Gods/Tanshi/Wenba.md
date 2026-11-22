@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:39:23-04:00"
 lintVersion: "3.5"
 tags: [power, status/check/lint]
@@ -10,8 +9,8 @@ dm_notes: none
 POV: modern
 ---
 # Wenba
->[!info]+ Information  
-> A [[Tanshi|tanshi]]
+> [!taelgar-header]
+> (tanshi)
 
 Wenba is the tanshi of hidden paths, quiet footsteps, and unseen passage through the forest.
 

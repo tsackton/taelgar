@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:23:09-04:00"
 lintVersion: "3.5"
 tags: [event, status/check/lint]
@@ -12,9 +11,8 @@ dm_notes: important
 POV: modern
 ---
 # The Pandemonium Incursion in Chardon
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (incursion, May 1, 1749)
 
 Early in the morning on May 1st, 1749, a shimmering gray wall of a strange fog appears in the Kylos Market, a major market on the [[South Bank]]. Those closest to the fog -- anyone who came in contact with the mists -- were blown away, never to be seen again, their fate unknown. Those who escaped reported hearing a terrifying howling wind. For the next few days, strange winds would blow across the city at night, and more than a few people awoke with a madness in their eyes, their minds destroyed by the winds. 
 

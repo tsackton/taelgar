@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-05T23:30:02-04:00"
 lintVersion: "3.5"
 tags: [power, status/check/mike]
@@ -10,9 +9,8 @@ POV: modern
 ---
 # Melua
 *(meh-LOO-ah)*
->[!info]+ Information  
-> A [[Kestavo|kestavo]] , part of [[Kestavo]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+> [!taelgar-header]
+> (kestavo)
 
 
 Melua is an ancient kestavo associated with a waterfall on the [[Teft]], and possibly connected to the lost village of [[Melusa]].

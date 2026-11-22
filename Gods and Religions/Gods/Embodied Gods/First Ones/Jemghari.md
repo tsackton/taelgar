@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:02:41-04:00"
 lintVersion: "3.5"
 tags: [power, religion/halflings]
@@ -15,9 +14,8 @@ POV: modern
 ---
 # Jemghari
 *(gem-GHA-ree)*
->[!info]+ Information  
-> An [[Embodied Gods|embodied god]] (they/them)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+> [!taelgar-header]
+> (embodied god, they/them)
 
 Jemghari, the Storyteller/Wanderer, reflects the journey and the halfling concept of stories, which are central to their culture. 
 

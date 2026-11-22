@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:02:41-04:00"
 lintVersion: "3.5"
 tags: [power]
@@ -12,8 +11,9 @@ dm_notes: important
 POV: modern
 ---
 # Thark
->[!info]+ Information  
-> An [[Embodied Gods|embodied god]] (he/him)
+*(THARK)*
+> [!taelgar-header]
+> (embodied god, he/him)
 
 Thark, the God of War Without End, gave rise to the [[Orcs]], and through his compulsion drives them to violence for the sake of violence. Thark is an [[Embodied Gods|Embodied God]], often counted among the Firstborn and metaphysically related to them, but unlike other [[Embodied Gods]], Thark was not created by the [[Divine Presence]]. Elves speak of the [[Void Mind]], something that wishes existence fo cease altogether, as Thark's creator. 
 

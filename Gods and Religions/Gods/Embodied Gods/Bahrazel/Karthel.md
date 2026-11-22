@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:02:41-04:00"
 lintVersion: "3.5"
 tags: [power, religion/dwarven]
@@ -16,9 +15,8 @@ POV: modern
 ---
 # Karthel
 *(KAR-thel)*
->[!info]+ Information  
-> An [[Embodied Gods|embodied god]] (he/him)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+> [!taelgar-header]
+> (embodied god, he/him)
 
 The patron of scholars and rune-mages and seekers of lost lore, worshipped as the originator of runic magic.
 

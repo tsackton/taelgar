@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:23:09-04:00"
 lintVersion: "3.5"
 tags: [event]
@@ -11,8 +10,8 @@ dm_notes: none
 POV: modern
 ---
 # The Blood Years
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> [!taelgar-header]
+> (1545–1600)
 
 An informal name for the roughly fifty-year period after the [[Great War]], marked by continued conflict in many parts of the world.
 

@@ -11,9 +11,8 @@ dm_notes: none
 POV: modern
 ---
 # The Enst Campaign
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> Part of The [[Third Hobgoblin War (Sembara)|Third Hobgoblin War]]
+> [!taelgar-header]
+> (military campaign, Third Hobgoblin War (Sembara), 1648)
 
 ### The Enst Campaign of the Third Hobgoblin War
 

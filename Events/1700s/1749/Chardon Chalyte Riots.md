@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:23:09-04:00"
 lintVersion: "3.5"
 tags: [event]
@@ -13,9 +12,8 @@ dm_notes: none
 POV: modern
 ---
 # The Chardon Chalyte Riots
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (uprising, May 27, 1749–July 9, 1749)
 
 The Chardon Chalyte Riots were a wave of sabotage, arson, street fighting, and general unrest in [[Chardon]] after the [[Session 116 (DuFr)|fall of Fausto]] and the collapse of the [[The Cleansed|Cleansed]] hold over the Chardonian chalyte trade. 
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:02:41-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -15,9 +14,8 @@ dm_notes: none
 POV: modern
 ---
 # The Mother
->[!info]+ Information  
-> An [[Incorporeal Gods|incorporeal god]] (she/her), part of [[Mos Numena]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+> [!taelgar-header]
+> (incorporeal god, she/her, part of Mos Numena)
 
 %% vibes and notes:
 - presumably seen as a crucial deity, watching over births and food

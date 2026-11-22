@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:23:09-04:00"
 lintVersion: "3.5"
 tags: [event]
@@ -15,10 +14,8 @@ POV: modern
 ---
 # The Battle of Motanga Pass
 *(BAT-uhl uhv moh-TAHNG-gah PASS)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> Part of The [[Great War]]  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (battle, Great War, 1545)
 
 The Battle of Motanga Pass was one of the last battles of the [[Great War]], fought on the [[Aurbez Plateau]], where stoneborn forces defeated a hobgoblin rearguard and drove the remaining hobgoblin forces north of the [[Aursen]]. In the aftermath of this battle, lizardfolk began to return to the [[Aursen Marshes]], though it would be years still until hobgoblin forces were decisively driven from the plateau. 
 

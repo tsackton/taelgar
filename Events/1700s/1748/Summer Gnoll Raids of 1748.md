@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:23:09-04:00"
 lintVersion: "3.5"
 tags: [event, status/cleanup/metadata, status/check/lint]
@@ -14,10 +13,8 @@ dm_notes: important
 POV: modern
 ---
 # The Summer Gnoll Raids of 1748
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> Part of The [[Betrayer Moon Plot]]  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (raid, Betrayer Moon Plot, April 1748–July 1748)
 
 %% dates approx, can extract precise info from session and dm notes %%
 

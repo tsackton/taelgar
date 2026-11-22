@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-28T23:44:57-04:00"
 lintVersion: "3.5"
 tags: [event, status/check/mike]
@@ -12,8 +11,8 @@ dm_notes: none
 POV: modern
 ---
 # The Serpentine Wars
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> [!taelgar-header]
+> (war, 1353–1403)
 
 %% @mike: to review; name check for the named wars - pretty happy with the names but want to let things sit for a little while before confirming %%
 

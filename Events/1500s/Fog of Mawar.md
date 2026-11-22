@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:23:09-04:00"
 lintVersion: "3.5"
 displayDefaults: {dPastHasStart: "<startDate> - <endDate>, lasted <length>", partOf: ""}
@@ -12,8 +11,8 @@ dm_notes: none
 POV: modern
 ---
 # The Fog of Mawar
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> [!taelgar-header]
+> (1545–1590)
 
 An enchanted fog summoned by the druids of coast and wood, the salt [[Lizardfolk]], and many others working together in the aftermath of the [[Grand Conclave of Mawakel]]. It came at great cost, and required endless vigilance along the borders. But as a result the weather, for much of the next fifty years, was made to protect the [[Mawakel Peninsula]].
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:02:41-04:00"
 lintVersion: "3.5"
 tags: [power, religion/dwarven]
@@ -16,9 +15,8 @@ POV: modern
 ---
 # Maganna
 *(MAH-gahn-nah)*
->[!info]+ Information  
-> An [[Embodied Gods|embodied god]] (she/her)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+> [!taelgar-header]
+> (embodied god, she/her)
 
 The patron of those who wander, whether seeking new tunnels and ore deep underground or venturing into the wider outside world, worshipped as the first miner of the dwarves. She is also associated with communication and the understanding of unfamiliar languages.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:02:41-04:00"
 lintVersion: "3.5"
 tags: [religion/lizardfolk, power]
@@ -13,10 +12,9 @@ dm_notes: none
 POV: modern
 ---
 # Negu
-*(EH-goo)*
->[!info]+ Information  
-> An [[Embodied Gods|embodied god]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+*(NEH-goo)*
+> [!taelgar-header]
+> (embodied god)
 
 Negu is one of the four [[Tharzen Anzinakoa]] of the [[lizardfolk]], usually seen as the guardian of the ancestral spirits. 
 

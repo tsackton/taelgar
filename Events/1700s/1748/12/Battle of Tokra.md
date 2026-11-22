@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:23:09-04:00"
 lintVersion: "3.5"
 displayDefaults: {dPastHasStart: "Fought on <startDate>"}
@@ -13,9 +12,8 @@ dm_notes: important
 POV: modern
 ---
 # The Battle of Tokra
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> Part of The [[Sibling War]]
+> [!taelgar-header]
+> (battle, Sibling War, December 14, 1748)
 
 A battle fought outside Tokra by the army of [[Sura]] against a company of Chardonian battle mages and a small group of Dunmari warriors loyal to [[Nayan Karnas]]. 
 

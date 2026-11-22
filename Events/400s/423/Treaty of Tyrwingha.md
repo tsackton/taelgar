@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:23:09-04:00"
 lintVersion: "3.5"
 tags: [event, status/stub, status/check/lint]
@@ -11,8 +10,8 @@ dm_notes: none
 POV: modern
 ---
 # The Treaty of Tyrwingha
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> [!taelgar-header]
+> (treaty, 423)
 
 %% status/incomplete -> exactly the way this developed seems important %%
 

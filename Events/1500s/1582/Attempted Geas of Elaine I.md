@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:23:09-04:00"
 lintVersion: "3.5"
 tags: [event]
@@ -11,8 +10,8 @@ dm_notes: none
 POV: modern
 ---
 # The Attempted Geas of Elaine I
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> [!taelgar-header]
+> (succession crisis, 1582)
 
 The Attempted Geas of Elaine I is the name later chroniclers give to the magical coercion attempted against [[Elaine I]] during the succession crisis that followed the death of [[Wisym I]]. The attempt failed, and Elaine was ultimately crowned queen; in the aftermath, [[Anne]] was condemned for treason and executed.
 

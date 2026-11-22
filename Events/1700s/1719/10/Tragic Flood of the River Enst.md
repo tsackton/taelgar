@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:23:09-04:00"
 lintVersion: "3.5"
 tags: [event]
@@ -10,8 +9,8 @@ dm_notes: none
 POV: modern
 ---
 # The Tragic Flood of the River Enst
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> [!taelgar-header]
+> (October 16, 1719)
 
 After a morning of heavy rain, the [[Enst]] unexpectedly flooded its banks in several places between [[Cleenseau]] and [[Rinburg]]. The three children of [[Rosalind Essford]] and their nursemaid were swept away. In the aftermath, [[Rinault Essford|Rinault]] took the [[Lord's Guard of Cleenseau]] out "hunting", convinced there was an unexplained nefarious agent at work. This left [[Cleenseau]] significantly understaffed when the [[Cleenseau Spider Attacks]] began.
 

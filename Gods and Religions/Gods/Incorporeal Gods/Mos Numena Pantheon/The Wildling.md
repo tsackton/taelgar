@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:02:41-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -15,9 +14,8 @@ dm_notes: none
 POV: modern
 ---
 # The Wildling
->[!info]+ Information  
-> An [[Incorporeal Gods|incorporeal god]] (they/them), part of [[Mos Numena]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+> [!taelgar-header]
+> (incorporeal god, they/them, part of Mos Numena)
 
 %% vibes and notes
 - protection from the danger of nature, raw nature. wildling shrine along the borders of the cleenseau wood, seen as keeping the wildness of the forest at bay

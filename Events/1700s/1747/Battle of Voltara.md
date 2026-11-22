@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:23:09-04:00"
 lintVersion: "3.5"
 tags: [event]
@@ -14,10 +13,8 @@ dm_notes: important
 POV: modern
 ---
 # The Battle of Voltara
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> Part of [[Grumella's War]]  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> [!taelgar-header]
+> (battle, Grumella's War, October 6, 1747)
 
 The Battle of Voltara (also called the Battle of Lightning’s Wrath) was the climactic battle of [[Grumella's War]]. The defenders of [[Voltara]]—aided by the adventuring company known as the [[Silver Tempests]] and their allies—broke [[Grumella]]’s siege and [[Great Library Session Notes - Arc 2|slew the orc warlord]].
 

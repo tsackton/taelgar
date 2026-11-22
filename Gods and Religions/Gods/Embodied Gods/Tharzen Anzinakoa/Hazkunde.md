@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:02:41-04:00"
 lintVersion: "3.5"
 tags: [religion/lizardfolk, power]
@@ -14,9 +13,8 @@ POV: modern
 ---
 # Hazkunde
 *(has-KOON-dee)*
->[!info]+ Information  
-> An [[Embodied Gods|embodied god]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+> [!taelgar-header]
+> (embodied god)
 
 Hazkunde is one of the four [[Tharzen Anzinakoa]] of the [[lizardfolk]], usually associated with birth and new growth, and is typically seen as the divinity that guides souls to the [[Material Plane]] to be reborn. 
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:02:41-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -15,9 +14,8 @@ dm_notes: none
 POV: modern
 ---
 # The Night Queen
->[!info]+ Information  
-> An [[Incorporeal Gods|incorporeal god]] (she/her), part of [[Mos Numena]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+> [!taelgar-header]
+> (incorporeal god, she/her, part of Mos Numena)
 
 %% vibes and notes:
 - Has some sense of a kind of "counterpart" to the Mother, in the sense that the Night Queen steps from the shadows and gives you mercy when the Mother's healing can no longer keep you alive. 
