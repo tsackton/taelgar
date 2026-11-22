@@ -17,7 +17,6 @@ CODE_ROOTS = (
     "_scripts",
     ".agents/skills",
     ".obsidian/plugins/taelgar-name-explorer",
-    ".obsidian/plugins/taelgar-dataview-materializer",
 )
 SOURCE_SUFFIXES = {".py", ".rb", ".js", ".mjs", ".swift", ".html"}
 SCHEMA_FILES = {

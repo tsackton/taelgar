@@ -3,15 +3,15 @@
 
 ## Overview of Display Generation
 
-Display strings for headers and related lines are built in three layers:
+Taelgarverse renders the information in a top-level `taelgar-header` callout in Obsidian and on the website. The display strings are built in three layers.
 
 1. **Data selection**
-	- The relevant script (e.g., `get_Whereabouts`, `get_Affiliations`, `get_PageDatedValues`, `EventManager.getPartyMeeting`) pulls the necessary data:
+	- The renderer gathers data from the note and related notes.
 		- Page dates via `DateManager.getPageDates`.
 		- Whereabouts via `WhereaboutsManager.getWhereabouts`.
 		- Affiliations via `AffiliationManager.getAffiliations` / `getFormattedNonPrimaryAffiliations`.
 		- Campaign interactions via `campaignInfo` and `EventManager.getPartyMeeting`.
-	- These scripts compute “derived” objects (e.g., `origin`, `current`, `lastKnown` for whereabouts; grouped affiliation records; per‑campaign meeting records).
+	- It uses derived whereabouts such as `origin`, `current`, and `lastKnown`, along with grouped affiliations and campaign meetings.
 
 2. **DisplayDefaults resolution**
 	- For any page, `NameManager.getDisplayData(frontmatter)` merges three layers of defaults:
@@ -296,7 +296,7 @@ These templates use `startStatus`/`endStatus` and the date tokens (`startDate`, 
 ---
 ### Whereabouts
 
-These keys are templates used by `WhereaboutsManager` and the whereabouts view to turn derived whereabouts (`origin`, `home`, `current`, `lastKnown`, `secondary`) into lines. All templates parsed by `WhereaboutsManager` start with `w`:
+Taelgarverse uses these templates to turn derived whereabouts (`origin`, `home`, `current`, `lastKnown`, `secondary`) into header lines. All templates parsed by `WhereaboutsManager` start with `w`:
 
 `wOrigin`: Template for the origin whereabouts if it differs from `home`.  
 `wOriginU`: Template when the origin whereabouts is unknown.
@@ -378,17 +378,15 @@ In addition to the global/type/page displayDefaults described above, several str
 
 ## Header Format
 
-```
+Use a top-level `taelgar-header` callout below the H1 and optional pronunciation.
+
+```markdown
 # Display Name
-*(pronuncation, if present)*
-> [!info]+ boxName
-> Secondary Info Line (boxInfo)
-> Part of Line (partOf)
-> Dynamic: Date Information
-> Dynamic: Affilication Information
-> > Dynamic: Location information (whereabouts)
-> > Campaign information
+*(pronunciation)*
+> [!taelgar-header]
 ```
+
+The callout can start empty. Person templates put it directly after frontmatter so **Taelgarverse: Regenerate page header** can fill in the title, optional pronunciation, and saved summary. When the callout renders, Taelgarverse generates the information from metadata for the display date and campaign context. The saved summary serves as fallback Markdown.
 
 ## Type‑Specific Defaults
 **Current as of 2025‑12‑10 (from `.obsidian/metadata.json`)**

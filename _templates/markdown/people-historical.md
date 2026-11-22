@@ -17,6 +17,8 @@ dm_notes:  # default to none
 pronunciation: # optional, only include if available
 ---
 
+> [!taelgar-header]
+
 One-sentence encyclopedic summary of this historical figure (era, title, dominion, and signature deed).  
 ## Overview (optional)
 2–4 sentences summarizing origin, rise to prominence, and historical significance. Mention the core legacy or controversy. Write in the style of an in-world Wikipedia article. 

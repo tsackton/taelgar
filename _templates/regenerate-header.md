@@ -1,1 +1,0 @@
-<%_* tp.user.regenerateHeader(tp) _%>

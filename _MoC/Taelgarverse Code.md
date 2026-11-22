@@ -13,32 +13,20 @@ FUNCTIONNAME is the name of a file containing a class with various methods. My u
 (to add...documentation of classes that exist and functions one might want to use for dataviewjs)
 
 #### **view**
-This folder contains dataview functions that can be used with dv.view("/path/to/function", arguments). The intention is that any code in here is needed for export and will be translated into Python for website generation. 
+This folder contains helpers for local Dataview queries. Use `dv.view("/path/to/function", arguments)` to call one in Obsidian. The website publisher processes a working copy of the vault through taelgarverse-core.
 
 #### **templater**
 This folder contains templater user functions. 
 
 ## KnownTo and Campaign Interactions
 
-To track and summarize party interactions with NPCs (and other entities) without cluttering YAML with long logs:
+Use `knownTo` to record which parties know the subject, for example `knownTo: [dufr, clee]`. Taelgarverse can show a Campaign interactions panel automatically in Obsidian. It uses reviewed recap Cast entries and falls back to session-note links for sessions without a recap.
 
-- Use `knownTo` in frontmatter as the **source of truth** for “this party knows this subject”.
-  - Example: `knownTo: [dufr, clee]`
-- Rely on session notes as **evidence**: session notes should link entities that appear in them.
-- Add a generated “Campaign Interactions” section to the subject page to avoid manually searching backlinks.
+To place the panel within the note, add an empty native block.
 
-Example section on an NPC page:
-
-```markdown
-## Campaign Interactions
-`$=customJS.OutputHandler.outputCampaignInteractions(dv.current().file.name, dv.current())`
+````markdown
+```taelgar-interactions
 ```
-
-To show interactions for a single campaign only:
-
-```markdown
-## Campaign Interactions (dufr)
-`$=customJS.OutputHandler.outputCampaignInteractions(dv.current().file.name, dv.current(), "dufr")`
-```
+````
 
 Campaign IDs are the keys of `_sessions/campaign-registry.json`. Index notes supply display names, party pages and session paths. See [[Campaign Registry]].

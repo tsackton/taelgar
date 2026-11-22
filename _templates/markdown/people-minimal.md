@@ -17,6 +17,8 @@ dm_notes:  # default to none
 pronunciation: # optional, only include if available
 ---
 
+> [!taelgar-header]
+
 `![[<optional-image-file>|right|360]]` A one sentence overview of this person in the style of an in-world Wikipedia article.  Optionally, an additional 1–2 sentences summarizing who this is, why they matter, and where they are typically found, in the same style.
 
 %% DM (all bullet points optional - include some, none, all depending on available detail)

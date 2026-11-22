@@ -43,13 +43,6 @@ Lubash has a pale green complexion and is bald. His features are striking, chara
 - Came to power in DR 1745 after his older brother's family was killed by hill [[Giants]].
 - In DR 1748-1749, led the [[Orcs]] of [[Xurkhaz]] in the war against [[Grash]], aided by [[Dunmar Fellowship]]
 
-## Campaign Interactions
-%%^Campaign:dufr%%
-```dataviewjs
-await dv.view("_scripts/view/get_CampaignInteractions")
-```
-%%^End%%
-
 
 %%SECRET[v2:9941da82556eb5be71d78ea4e8875676]%%
 

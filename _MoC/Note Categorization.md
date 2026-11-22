@@ -13,6 +13,8 @@ Notes (pages) are categorized based on the combination of a descriptive tag, and
 
 There are 13 primary note categories, which are described below. These are not meant to exhaustively categorize every note in the vault; instead, they guide both Markdown templates / formatting, required/expecting metadata, and automatic header generation.
 
+Reference notes opt into generated header information with a top-level `taelgar-header` callout. See [[Display Control#Header Format|Header Format]] for authoring and regeneration.
+
 ## Person
 **Tag: `#person`**
 
@@ -29,7 +31,7 @@ Accepts whereabouts: yes
 Accept affiliations: yes
 
 Type-specific displayDefaults? Yes, defined in metadata.json
-Type-specific header code for website? Yes, computed by outputs.js
+Taelgarverse provides a person-specific website layout for the native header callout.
 
 ### Classification Requirements
 
@@ -77,7 +79,7 @@ Accepts whereabouts: yes, and places commonly use secondary whereabouts to accou
 Accepts affiliations: yes, but rarely; leader affiliations should be set on the person page, not the place page, and normal associations should be reserved for situations like a guildhall where it is useful to track group ownership of a structure. 
 
 Type-specific displayDefaults? Yes, defined in metadata.json
-Type-specific header code for website? Yes, computed by outputs.js
+Taelgarverse provides a place-specific website layout for the native header callout.
 
 ### Classification Requirements
 
