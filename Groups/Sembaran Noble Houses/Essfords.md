@@ -2,7 +2,7 @@
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {partOf: "", boxInfo: "", defArt: the}
-tags: [group, status/check/ai]
+tags: [group]
 typeOf: family
 name: Essfords
 aliases: [Essford]

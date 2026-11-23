@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T11:59:58-04:00"
 lintVersion: "3.5"
-tags: [place, status/wip, status/check/ai, status/check/lint]
+tags: [place, status/wip, status/check/lint]
 typeOf: region
 name: Northern Green Sea
 whereabouts:

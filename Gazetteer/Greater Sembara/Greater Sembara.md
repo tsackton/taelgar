@@ -2,7 +2,7 @@
 lintedAt: "2026-09-05T16:06:33-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-tags: [place, status/wip, status/check/ai]
+tags: [place, status/wip]
 typeOf: region
 name: Greater Sembara
 pronunciation: "sem-BAH-rah"

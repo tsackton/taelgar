@@ -2,7 +2,7 @@
 lintedAt: "2026-10-20T10:36:55-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
-tags: [place, status/wip, status/check/ai, status/check/lint]
+tags: [place, status/wip, status/check/lint]
 typeOf: region
 name: Drankorian Hinterland
 whereabouts:

@@ -2,7 +2,7 @@
 lintedAt: "2026-10-20T11:28:01-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
-tags: [place, status/wip, status/check/ai, status/check/lint]
+tags: [place, status/wip, status/check/lint]
 typeOf: region
 name: Central Highlands
 whereabouts:

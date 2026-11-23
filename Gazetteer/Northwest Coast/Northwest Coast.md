@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-24T09:25:51-04:00"
 lintVersion: "3.5"
-tags: [place, status/wip, status/check/ai]
+tags: [place, status/wip]
 typeOf: region
 name: Northwest Coast
 whereabouts:

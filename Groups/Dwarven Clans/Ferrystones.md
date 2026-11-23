@@ -2,7 +2,7 @@
 lintedAt: "2026-10-19T00:14:58-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
-tags: [status/cleanup/text, group, status/check/lint, status/check/ai]
+tags: [status/cleanup/text, group, status/check/lint]
 typeOf: clan
 ancestry: dwarven
 name: Ferrystone Clan

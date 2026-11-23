@@ -2,7 +2,7 @@
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 displayDefaults: {boxInfo: ""}
-tags: [group, status/check/lint, status/check/ai]
+tags: [group, status/check/lint]
 typeOf: council
 name: "Lord's Council of Cleenseau"
 whereabouts: Cleenseau

@@ -2,7 +2,7 @@
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {partOf: "<typeof:Au> of <partof>", boxInfo: ""}
-tags: [group, testcase, status/gameupdate/clee, status/check/lint, status/check/ai]
+tags: [group, testcase, status/gameupdate/clee, status/check/lint]
 typeOf: garrison
 partOf: Dunfry Regiment
 name: Army Garrison of Cleenseau

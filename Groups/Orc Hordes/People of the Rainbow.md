@@ -2,7 +2,7 @@
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {partOf: ""}
-tags: [group, status/check/lint, status/check/ai]
+tags: [group, status/check/lint]
 typeOf: clan
 ancestry: orc
 created: 843

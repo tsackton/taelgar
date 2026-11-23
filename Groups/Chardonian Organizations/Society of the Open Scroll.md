@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-19T00:14:58-04:00"
 lintVersion: "3.5"
-tags: [group, status/gameupdate/dufr, status/check/lint, status/check/ai]
+tags: [group, status/gameupdate/dufr, status/check/lint]
 typeOf: scholarly society
 ancestry: Chardonian
 name: Society of the Open Scroll

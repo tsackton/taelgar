@@ -2,7 +2,7 @@
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
-tags: [status/cleanup/text, group, status/check/lint, status/check/ai]
+tags: [status/cleanup/text, group, status/check/lint]
 typeOf: family
 typeOfAlias: yeoman family
 ancestry: Sembaran

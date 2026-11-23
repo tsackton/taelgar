@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T07:22:39-04:00"
 lintVersion: "3.5"
-tags: [place, status/check/lint, status/check/ai]
+tags: [place, status/check/lint]
 typeOf: watershed
 name: Chasa-Nahadi Watershed
 whereabouts: Taelgar

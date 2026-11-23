@@ -2,7 +2,7 @@
 lintedAt: "2026-10-20T01:11:18-04:00"
 lintVersion: "3.5"
 displayDefaults: {ruledBy: "Ruled by: <name> <((since )startDate())>"}
-tags: [place, status/review, status/check/lint, status/check/ai]
+tags: [place, status/review, status/check/lint]
 typeOf: realm
 typeOfAlias: monarchy
 name: Sembara
