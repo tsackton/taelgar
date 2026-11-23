@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-23T17:36:36-04:00"
 lintVersion: "3.5"
-tags: [place, status/check/ai]
+tags: [place]
 typeOf: inn
 typeOfAlias: caravanserai
 ancestry: Dunmari

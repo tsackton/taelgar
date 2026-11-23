@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-23T16:50:31-04:00"
 lintVersion: "3.5"
-tags: [place, status/gameupdate/dufr, status/check/ai]
+tags: [place, status/gameupdate/dufr]
 typeOf: topographical feature
 typeOfAlias: mountain range
 name: Chataan Mountains

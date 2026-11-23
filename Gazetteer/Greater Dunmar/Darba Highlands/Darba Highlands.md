@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T11:04:00-04:00"
 lintVersion: "3.5"
-tags: [place, status/cleanup/map, status/check/lint, status/check/ai]
+tags: [place, status/cleanup/map, status/check/lint]
 typeOf: region
 typeOfAlias: null
 name: Darba Highlands
@@ -16,8 +16,8 @@ POV: modern
 
 ## Geography
 
-> [!image|left]
-> ![[darba-highlands-dry-gap.webp|450]]
+> [!image|figure standard]
+> ![[darba-highlands-dry-gap.webp]]
 > *Dry gap in the Darba Highlands*
 
 The Darba Highlands are warm, monsoonal rocky highlands of isolated forests in sheltered valleys, and broad grasslands and savannas that flood during the monsoon rains. The Darba Highlands are bordered by the [[Yuvanti Mountains]] to the southeast, the [[Chataan Mountains]] to the north, the [[Nevos Sea]] to the west, and the [[Hara Basin]] to the northeast, stretching 200 miles or more inland, and covering the 170 or so miles between the bordering mountain ranges.

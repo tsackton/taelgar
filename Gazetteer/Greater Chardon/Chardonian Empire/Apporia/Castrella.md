@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-23T15:25:54-04:00"
 lintVersion: "3.5"
-tags: [place, status/check/ai]
+tags: [place]
 typeOf: settlement
 typeOfAlias: city
 name: Castrella
@@ -20,7 +20,7 @@ POV: modern
 
 Castrella is a dramatic city with a rich history, set on Castrella Bay on a narrow strip of flat land just north of the mouth of the [[Kedron]] river, backed by steep hills. The coastal land is dominated by the port itself, and a series of constructed breakwaters. Several dramatic waterfalls cascade down the hills to the north. There is a small bit of agriculture south of the city, across the [[Kedron]] and in the Kedron delta area, but the wealth of Castrella derives largely from the sea.
 
-> [!image]
+> [!image|figure standard]
 > ![[castrella-and-kedron.webp]]
 > *The bustling port of Castrella with the mouth of the Kedron in the foreground*
 

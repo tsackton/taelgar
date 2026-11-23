@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-23T12:50:50-04:00"
 lintVersion: "3.5"
-tags: [place, status/check/ai]
+tags: [place]
 typeOf: settlement
 typeOfAlias: market town
 population: 762

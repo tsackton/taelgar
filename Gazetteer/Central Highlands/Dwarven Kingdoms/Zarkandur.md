@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T11:28:01-04:00"
 lintVersion: "3.5"
-tags: [place, status/cleanup/text, status/check/lint, status/check/ai]
+tags: [place, status/cleanup/text, status/check/lint]
 typeOf: settlement
 typeOfAlias: city
 ancestry: dwarven

@@ -1,5 +1,4 @@
 ---
-tags: [status/check/ai]
 campaignType: miniseries
 description: The adventures of a changing cast of characters based in Hamri, a port town on the rocky western coast of the Mawakel Peninsula.
 dm: Tim Sackton

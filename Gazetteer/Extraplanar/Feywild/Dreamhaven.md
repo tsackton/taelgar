@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
-tags: [place, status/check/lint, status/check/ai]
+tags: [place, status/check/lint]
 typeOf: extraplanar domain
 ancestry: fey
 name: Dreamhaven
@@ -25,6 +25,7 @@ Dreamhaven is ruled by Lady Seraphine, Warden of the Wood and Guardian of the Li
 
 > [!image|right standard]
 > ![[lady-seraphine-portrait.webp]]
+> *Lady Seraphine*
 
 The people of Dreamhaven live in small enclaves, usually hidden out of sight. The court of the Lady is no grand place, but rather a clearing, an outdoor feast, that moves with her, as the trees of her forest step aside to allow her to pass. 
 
@@ -36,29 +37,19 @@ Dreamhaven is roughly congruent with the ancient elven kingdom of [[Ainumarya]] 
 
 ## Visual Inspiration
 
-> [!image|figure standard]
-> ![[dreamhaven-scene-3.webp]]
-> *Green forest path under an opening in the trees*
-
-> [!image|figure standard]
-> ![[dreamhaven-scene-1.webp]]
-> *Fox in a sunlit woodland clearing*
-
-> [!image|figure standard]
-> ![[dreamhaven-scene-2.webp]]
-> *Blossoming tree in Dreamhaven*
-
-> [!image|figure standard]
-> ![[dreamhaven-scene-4.webp]]
-> *A sunlit grove in Dreamhaven*
-
-> [!image|figure standard]
-> ![[dreamhaven-scene-5.webp]]
-> *Moss-covered arch in Dreamhaven*
-
-> [!image|figure standard]
-> ![[dreamhaven-scene-6.webp]]
-> *Dreamhaven waterfall*
+> [!gallery]
+> - ![[dreamhaven-scene-3.webp]]
+>   *Green forest path under an opening in the trees*
+> - ![[dreamhaven-scene-1.webp]]
+>   *Fox in a sunlit woodland clearing*
+> - ![[dreamhaven-scene-2.webp]]
+>   *Blossoming tree in Dreamhaven*
+> - ![[dreamhaven-scene-4.webp]]
+>   *A sunlit grove in Dreamhaven*
+> - ![[dreamhaven-scene-5.webp]]
+>   *Moss-covered arch in Dreamhaven*
+> - ![[dreamhaven-scene-6.webp]]
+>   *Dreamhaven waterfall*
 
 %%^Metadata:names:v1%%
 - {"name": "Dreamhaven", "language": "unknown"}

@@ -2,7 +2,7 @@
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
 displayDefaults: {wSecondary: "<typeof:Ua> <secondary:q>", wHome: "<typeof:Ua> <home:q>"}
-tags: [place, status/check/ai]
+tags: [place]
 typeOf: planar link
 typeOfAlias: fey portal
 name: Bitterwine Oak
@@ -17,8 +17,8 @@ POV: modern
 > [!taelgar-header]
 > (fey portal, in Emberwine / Garamjala Desert)
 
-> [!image|right]
-> ![[bitterwine-oak-portal.webp|500]]
+> [!image|figure standard]
+> ![[bitterwine-oak-portal.webp]]
 > *Bitterwine Oak portal*
 
 The Bitterwine Oak is a massive oak tree, growing seemingly without need for water, in the [[Garamjala Desert]], along the banks of the now-dry lower [[Hara]], a few hundred miles northwest of the ruins of [[Drankor]].

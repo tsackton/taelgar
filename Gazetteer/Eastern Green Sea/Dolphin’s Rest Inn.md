@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T11:59:58-04:00"
 lintVersion: "3.5"
-tags: [place, status/check/ai]
+tags: [place]
 typeOf: inn
 name: Dolphin’s Rest Inn
 whereabouts: Wahacha
@@ -15,8 +15,8 @@ POV: modern
 
 An inn in [[Wahacha]], popular with sailors and other grounders, as the kenku call those who cannot fly. 
 
-> [!image|figure]
-> ![[wahacha-inn-1.webp|500]]
+> [!image|figure standard]
+> ![[wahacha-inn-1.webp]]
 > *Dolphin’s Rest Inn beneath red cliffs*
 
 %%^Metadata:names:v1%%

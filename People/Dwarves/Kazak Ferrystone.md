@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T13:42:24-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: dwarf
 gender: male
 image: kazak-ferrystone.webp

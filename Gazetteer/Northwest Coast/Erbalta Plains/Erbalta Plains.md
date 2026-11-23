@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-23T12:50:50-04:00"
 lintVersion: "3.5"
-tags: [place, status/gameupdate/grli, status/check/ai]
+tags: [place, status/gameupdate/grli]
 typeOf: grassland
 name: Erbalta Plains
 pronunciation: air-BAHL-tuh

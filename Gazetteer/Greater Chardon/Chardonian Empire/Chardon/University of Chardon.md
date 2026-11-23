@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-23T16:50:31-04:00"
 lintVersion: "3.5"
-tags: [place, status/cleanup/text, status/check/ai]
+tags: [place, status/cleanup/text]
 typeOf: building
 typeOfAlias: university
 created: 939
@@ -22,9 +22,9 @@ POV: modern
 The University of Chardon is a famous center of learning and teaching, renowned as one of the great centers of magical knowledge in the world. It occupies much of [[Precinct IV]] in Chardon, and is among the oldest and most powerful institutions in the city. The university is closely affiliated with the [[Great Library]], as well as the [[Hetaeri Magica]] and the [[Society of the Open Scroll]], but has its own independent rules and governance. 
 
 
-> [!image]
->![[university-of-chardon.webp]]
->*In the middle of the oldest part of Chardon, the towers and spires of the Chardonian Lecti, the halls and colleges that make up the University of Chardon, rise above the bustle of the students, faculty, tutors, and others, sharing the skyline with the towers of famous wizards dancing with subtle magic.*
+> [!image|figure standard]
+> ![[university-of-chardon.webp]]
+> *In the middle of the oldest part of Chardon, the towers and spires of the Chardonian Lecti, the halls and colleges that make up the University of Chardon, rise above the bustle of the students, faculty, tutors, and others, sharing the skyline with the towers of famous wizards dancing with subtle magic.*
 
 ## Facilities and Organization
 

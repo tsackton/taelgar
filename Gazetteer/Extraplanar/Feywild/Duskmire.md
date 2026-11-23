@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
-tags: [place, status/check/lint, status/check/ai]
+tags: [place, status/check/lint]
 typeOf: extraplanar domain
 name: Duskmire
 whereabouts: Feywild
@@ -20,7 +20,9 @@ The scenery is mixed, with a central core of several very tall mountains,  surro
 
 > [!gallery]
 > - ![[Duskmire-1.webp]]
+>   *Duskmire*
 > - ![[Duskmire-2.webp]]
+>   *Duskmire*
 
 
 The realm is bordered to the south by [[Amberglow]], to the west by [[Dreamhaven]], to the north by Unnamed Powerful Northern Fey, and to the east by [[Twilight's Grace]].

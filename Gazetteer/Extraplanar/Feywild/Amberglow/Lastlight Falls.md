@@ -2,7 +2,7 @@
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
 displayDefaults: {wSecondary: "<typeof:Ua> <secondary:q>", wHome: "<typeof:Ua> <home:q>"}
-tags: [place, status/check/ai]
+tags: [place]
 typeOf: planar link
 typeOfAlias: fey portal
 name: Lastlight Falls
@@ -19,8 +19,8 @@ POV: modern
 
 Lastlight Falls is a portal between the Feywild and the material plane, located in the [[Nashtkar]], northwest of [[Kharsan]] and south of the [[Sentinel Range|Sentinels]] in the material plane, and in [[Amberglow]] in the [[Feywild]]. It takes the form of a waterfall with no visible source, that seems to glow with increasing intensity as the sunset approaches. 
 
-> [!image|figure]
-> ![[amberglow-lastlight-falls.webp|600]]
+> [!image|figure standard]
+> ![[amberglow-lastlight-falls.webp]]
 > *High ledge and waterfall in the Feywild*
 
 %%^Campaign:dufr%%

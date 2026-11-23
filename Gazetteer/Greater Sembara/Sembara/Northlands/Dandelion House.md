@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T01:11:18-04:00"
 lintVersion: "3.5"
-tags: [place, status/check/lint, status/check/ai]
+tags: [place, status/check/lint]
 typeOf: building
 typeOfAlias: manor house
 ancestry: Drankorian
@@ -16,8 +16,9 @@ POV: 1740
 > [!taelgar-header]
 > (manor house, in Varrow Forest)
 
-> [!image|left]
-> ![[dandelion-house.webp|400]]
+> [!image|figure standard]
+> ![[dandelion-house.webp]]
+> *Dandelion House*
 
 Dandelion House is an ancient late-[[Drankorian Empire|Drankorian]] manor in [[Varrow Forest]], northwest of [[Tollen]].
 

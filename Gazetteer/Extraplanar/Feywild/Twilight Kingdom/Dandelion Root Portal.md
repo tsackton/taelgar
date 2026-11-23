@@ -2,7 +2,7 @@
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
 displayDefaults: {wSecondary: "<typeof:Ua> <secondary:q>", wHome: "<typeof:Ua> <home:q>"}
-tags: [place, status/check/lint, status/check/ai]
+tags: [place, status/check/lint]
 typeOf: planar link
 typeOfAlias: fey portal
 name: Dandelion Root Portal
@@ -17,8 +17,8 @@ POV: 1740
 > [!taelgar-header]
 > (fey portal, in Twilight Kingdom / Dandelion House)
 
-> [!image|right]
-> ![[the-door-in-the-floor.webp|400]]
+> [!image|figure standard]
+> ![[the-door-in-the-floor.webp]]
 > *Door beneath dandelion roots*
 
 The Dandelion Root Portal is a fey crossing between the [[Material Plane]] and the [[Feywild]].

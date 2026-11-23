@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
-tags: [place, status/check/lint, status/check/ai]
+tags: [place, status/check/lint]
 typeOf: topographical feature
 typeOfAlias: mountain
 name: Crystal Peak
@@ -16,8 +16,8 @@ POV: modern
 
 %% some additional notes in OneNote that need to be added %%
 
-> [!image|right]
-> ![[crystal-peak.webp|500]]
+> [!image|figure standard]
+> ![[crystal-peak.webp]]
 > *Crystal Peak above mist*
 
 A strange mountain made of solid crystal and gemstones, between the [[Feywild]] domains of [[Fortune's Rest]] and [[Shimmersong]]. The mountain is a source of magical power, and is guarded by a strange fey named [[Illaran]].

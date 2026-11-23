@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T11:04:00-04:00"
 lintVersion: "3.5"
-tags: [place, status/cleanup/map, status/check/lint, status/check/ai]
+tags: [place, status/cleanup/map, status/check/lint]
 typeOf: region
 name: Hara Basin
 whereabouts: Greater Dunmar
@@ -26,8 +26,8 @@ Monsoon‑driven rains fall primarily June–September, with some year-to-year v
 
 ## Subregions
 
-> [!image|right]
-> ![[hara-basin-2.webp|600]]
+> [!image|figure standard]
+> ![[hara-basin-2.webp]]
 > *Herd on the Hara Basin grasslands*
 
 In the northwest, the [[Songara Plains]] extend in a broad arc from the [[Chataan Mountains]] to [[Songara]] to the upper reaches of the [[Hara]]. These plains are wetter and support a more consistent grassland, with vast herds of horses that the Dunmari are famous for. This terrain once extended across much of central and eastern Dunmar, until the upheavals at the end of the Great War. The [[Sone]], fed by snowmelt in the Sentinels and the [[Chataan Mountains]], flows northeast through the [[Songara Plains]], until it joins the [[Hara]] north of [[Tokra]].
@@ -36,8 +36,8 @@ The center of the Hara Basin is a region of varied terrain and climate. North of
 
 South of Tokra, the terrain gets increasingly rugged and arid. The [[Sukal Plains]], more directly in the rain shadow of the [[Yuvanti Mountains]], get inconsistent rain, even during the monsoon, and the terrain begins to transition from a grassland to arid scrub. Around [[Askandi]], the terrain becomes drier still. Caught between the high peaks of the Yuvanti in the west and the rising terrain of the [[Garamjala Plateau]] to the east, the [[Lower Hara Valley]] sees little rain and what vegetation there is is entirely reliant on the water of the [[Hara]] itself. Approximately 200 miles southeast of [[Askandi]], the [[Hara]] exits the basin through the [[Hara Gorge]].
 
-> [!image|left]
-> ![[hara-basin-1.webp|600]]
+> [!image|figure standard]
+> ![[hara-basin-1.webp]]
 > *Hara Basin settlement*
 
 In the east, the land gets increasingly arid. What rain does fall tends to fall in the foothills of the Sentinels, on the [[Samtal]], where spring snowmelt and the occasional summer storm support seasonal grasslands, which provide grazing for hardy sheep and goats. South of the plains, the land around [[Karawa]] is an arid desert. The [[Karawa Desert]], on the eastern edge of the Dunmari Basin, does get the occasional summer storm during the monsoon, but largely lacks water resources beyond underground oases and aquifers. Once, the [[Kharja]] river provided a rich riparian habitat in this area, but now it no longer reliably flows, except during rare summer storms. East of the [[Kharja]] riverbed, the Dunmari Basin ends in the rising deserts of the [[Garamjala Plateau]].

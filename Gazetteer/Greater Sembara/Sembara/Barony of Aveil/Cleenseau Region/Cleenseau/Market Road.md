@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
-tags: [place, status/check/ai, status/check/lint]
+tags: [place, status/check/lint]
 typeOf: road
 typeOfAlias: street
 name: Market Road

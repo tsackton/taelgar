@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-19T23:47:22-04:00"
 lintVersion: "3.5"
-tags: [object, status/check/lint, status/check/ai]
+tags: [object, status/check/lint]
 typeOf: necklace
 subTypeOf: magic
 campaignInfo:

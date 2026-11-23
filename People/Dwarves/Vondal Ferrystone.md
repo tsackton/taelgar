@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T13:42:24-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: dwarf
 gender: male
 name: Vondal Ferrystone

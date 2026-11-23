@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-09-29T18:22:03-04:00"
 lintVersion: "3.5"
-tags: [place, status/check/ai]
+tags: [place]
 typeOf: settlement
 typeOfAlias: town
 population: 1189

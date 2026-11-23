@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T10:36:55-04:00"
 lintVersion: "3.5"
-tags: [place, status/check/lint, status/check/ai]
+tags: [place, status/check/lint]
 typeOf: settlement
 typeOfAlias: city
 name: Uzgukhar
@@ -25,8 +25,8 @@ Uzgukhar is the capital and primary city of the kingdom of [[Xurkhaz]], home of 
 
 Notable landmarks in Uzgukhar include the palace, a large cattle market, the plaza of freedom, and the hall of the ancestors. 
 
-> [!image|right]
-> ![[uzgukhar-market.webp|350]]
+> [!image|figure standard]
+> ![[uzgukhar-market.webp]]
 > *Uzgukhar market*
 
 The palace, located near the center of the city and set on a small hill, has an elaborate public roof garden, with the throne room and apartments underground to provide relief from the heat. 

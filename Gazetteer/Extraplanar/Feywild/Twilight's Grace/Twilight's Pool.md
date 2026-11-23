@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
-tags: [place, status/check/ai]
+tags: [place]
 typeOf: planar link
 typeOfAlias: fey portal
 name: "Twilight's Pool"
@@ -19,7 +19,7 @@ POV: modern
 
 Twilight's Pool is the principal crossing between [[Twilight's Grace]] and [[Tafolwern]], and is sometimes described as the front door of the court of [[Archfey Ethlenn]]. Ambassadors, honored visitors, petitioners, and others traveling openly between Ethlenn’s realm and mortal [[Tyrwingha]] used to commonly pass through the Pool in the days of story and legend, and still rarely do, although travel is less common than it once was.
 ## In Twilight's Grace
-> [!image|right standard]
+> [!image|figure standard]
 > ![[twilights-pool-gate.webp]]
 > *Twilight's Pool in Twilight's Grace.*
 

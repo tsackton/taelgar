@@ -1,7 +1,3 @@
----
-tags: [status/check/ai]
----
-
 Rough notes mostly from Chat GPT with some edits on Veltor. Needs incorporation into main body of text. Mu
 
 Excellent additions. This makes the town much more vivid and unique. I have revised the description of Veltor to incorporate these new, evocative details.
@@ -48,10 +44,8 @@ To the north, the town is pressed against the **Sentinelwood**, a dense and unne
     
 - **Merriweather's Fine Attire:** The surprisingly cheerful shop run by the halfling siblings, Primrose and Corrin. They provide fine clothing and intricate embroidery, offering a touch of color and elegance to the otherwise grim town.
 
-> [!image|figure standard]
-> ![[veltor-ideas-3.webp]]
-> *Veltor below the crags*
-
-> [!image|figure standard]
-> ![[veltor-ideas-4.webp]]
-> *Veltor, waterfall above riverside houses*
+> [!gallery]
+> - ![[veltor-ideas-3.webp]]
+>   *Veltor below the crags*
+> - ![[veltor-ideas-4.webp]]
+>   *Veltor, waterfall above riverside houses*

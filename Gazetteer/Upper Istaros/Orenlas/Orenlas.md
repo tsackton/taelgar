@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T10:36:55-04:00"
 lintVersion: "3.5"
-tags: [place, status/check/ai]
+tags: [place]
 typeOf: realm
 subTypeOf: null
 typeOfAlias: forest realm
@@ -26,7 +26,7 @@ Orenlas proper occupies the forest southeast of [[Aldamire]] and southwest of th
 Aldanor watches those who try to enter the forest, and probes their minds to understand their desires and wishes. Those who wish or desire anything that might harm the elves, or Taelgar, are turned away, or led down twisted paths, possibly to their death - not sure
 %%
 
-> [!image|figure hero]
+> [!image|hero]
 > ![[orenlas-dream-paths.webp]]
 > *The twisted paths of Orenlas can lead the unwary or the unwelcome to hidden dangers.*
 

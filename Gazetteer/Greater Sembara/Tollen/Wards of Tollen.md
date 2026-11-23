@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-23T17:36:36-04:00"
 lintVersion: "3.5"
-tags: [background, status/check/ai]
+tags: [background]
 name: Wards of Tollen
 dm_owner: none
 dm_notes: none

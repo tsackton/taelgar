@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-23T15:25:54-04:00"
 lintVersion: "3.5"
-tags: [place, status/review, status/check/lint, status/check/ai]
+tags: [place, status/review, status/check/lint]
 typeOf: settlement
 typeOfAlias: city
 name: Chardon
@@ -32,8 +32,8 @@ Founded as a small outpost of the [[Drankorian Empire]] more than 1000 years ago
 %%
 ## Description
 
-> [!image|right]
-> ![[chardon-towers-1.webp|400]]
+> [!image|figure standard]
+> ![[chardon-towers-1.webp]]
 > *Towers of Chardon*
 
 As the coastal fog lifts, the first thing you see is the great black bulk of [[Mount Nera]] looming over the city to the north, the occasional glint of light highlighting the obsidian flows that dot the distant slopes of this long extinct volcano. A spur of [[Mount Nera]] cuts south towards the [[Chasa|Chasa River]], which spreads into a wide estuary and fertile floodplain towards the coast to the west.

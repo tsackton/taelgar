@@ -1,5 +1,5 @@
 ---
-tags: [session-note, status/check/ai]
+tags: [session-note]
 websiteSessionView: zoomable
 campaign: clee
 sessionNumber: 37

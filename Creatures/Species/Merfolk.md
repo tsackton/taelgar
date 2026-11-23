@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-19T10:32:05-04:00"
 lintVersion: "3.5"
-tags: [creature, status/check/ai]
+tags: [creature]
 name: Merfolk
 dm_owner: tim
 dm_notes: none
@@ -14,8 +14,9 @@ POV: modern
 At home in the depths of the ocean, swimming beneath the waves, merfolk tend kelp gardens and flocks of manta rays, hidden from the surface world. They are the people of the ocean, alien and strange to land-dwellers, in tune with the changeable moods of the ocean.
 ## Waterborn
 
-> [!image|right]
-> ![[merfolk-portrait-1.webp|200]]
+> [!image|right standard]
+> ![[merfolk-portrait-1.webp]]
+> *Merfolk*
 
 Despite a basic bipedal body plan, merfolk are extremely adapted to living underwater. Able to breathe water and air with equal ease, merfolk have long webbed fingers, elongated, flipper-like feet, and large eyes adapted to the murky light of the deep ocean. Beyond these basic features, merfolk are as diverse and variable as the fish of the ocean.
 ## Children of the Ocean

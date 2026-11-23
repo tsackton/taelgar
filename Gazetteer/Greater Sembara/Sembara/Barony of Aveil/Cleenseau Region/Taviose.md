@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
-tags: [place, testcase, status/check/lint, status/check/ai]
+tags: [place, testcase, status/check/lint]
 typeOf: settlement
 typeOfAlias: village
 population: 30
