@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
-tags: [status/cleanup/text, place, status/check/lint, status/check/ai]
+tags: [status/cleanup/text, place, status/check/lint]
 typeOf: settlement
 typeOfAlias: village
 population: 448

@@ -1,5 +1,5 @@
 ---
-tags: [status/check/ai]
+tags: [status/stub, person]
 ---
 
 > [!image|left]
