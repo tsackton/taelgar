@@ -1,10 +1,7 @@
----
-tags: [status/check/ai]
----
+> [!image]
+> ![[keldrin-goldshield.webp]]
+> Keldrin Goldshield
 
-> [!image|left]
-> ![[keldrin-goldshield.webp|400]]
 
-Keldrin Goldshield
 
 

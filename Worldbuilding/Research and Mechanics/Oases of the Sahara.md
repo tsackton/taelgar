@@ -1,6 +1,3 @@
----
-tags: [meta, status/check/ai]
----
 # Oases of the Sahara
 
 At Chebika in southwestern Tunisia, the old village stands up on the rock. Its water emerges from a spring in a limestone gorge. An open channel carries the flow about half a kilometre to the gardens, where smaller branches deliver it to individual plots. A Tunisian survey counted 116 growers sharing roughly 25 hectares. Each grower held a right to a certain amount of **time**. A water keeper supervised the turns, and a *gadous*, a water clock, once measured them. A visitor could stand at the spring and see where the water came from. To understand how it fed a village, they would have to follow it to the last garden. [Tunisia’s participatory development plan for Chebika, especially §§ A.1.1 and A.2.4.4](https://www.environnement.gov.tn/fileadmin/Bibliotheque/Projets_en_cours/Ecotourisme_en_Tunisie/Projet_GDEO/4_1.pdf).
