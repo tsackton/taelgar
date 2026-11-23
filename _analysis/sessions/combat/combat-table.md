@@ -1,6 +1,3 @@
----
-tags: [meta, status/check/ai]
----
 # Combat table with enemy rosters
 
 150 recorded encounters across five campaigns. This includes solo and smaller-party encounters as well as the four-or-five-PC subset. Dragonets is excluded. Each session link opens the source combat extraction.

@@ -1,52 +1,22 @@
----
-tags: [status/check/ai]
----
-
-----------
 This is a brainstorming and organization document for new people that have not been introduced. Depending on the details they may be represented by pages or just notes here.
 
 Unused images
 
+> [!gallery]
+> - ![[__unused-person-1.webp]]
+> - ![[__unused-person-2.webp]]
+> - ![[__unused-person-3.webp]]
+> - ![[__unused-person-5.webp]]
+> - ![[__unused-person-6.webp]]
+> - ![[__unused-person-4.webp]]
+> - ![[__unused-person-8.webp]]
+> - ![[__unused-person-7.webp]]
+> - ![[__unused-person-9.webp]]
+> - ![[__unused-person-10.webp]]
+> - ![[__unused_person_11.webp]]
+> - ![[rene-daslain-kid.webp]]
 
-> [!image|left]
-> ![[__unused-person-1.webp|200]]
-
-
-> [!image|left]
-> ![[__unused-person-2.webp|200]]
-
-
-> [!image|left]
-> ![[__unused-person-3.webp|200]]
-
-> [!image|left]
-> ![[__unused-person-5.webp|200]]
-
-> [!image|left]
-> ![[__unused-person-6.webp|200]]
-
-> [!image|left]
-> ![[__unused-person-4.webp|200]]
-
-> [!image|left]
-> ![[__unused-person-8.webp|200]]
-
-
-> [!image|left]
-> ![[__unused-person-7.webp|200]]
-> *Woman tending a grey horse*
-
-> [!image|left]
-> ![[__unused-person-9.webp|200]]
-
-> [!image|left]
-> ![[__unused-person-10.webp|200]]
-
-> [!image|left]
-> ![[__unused_person_11.webp|200]]
-
-> [!image|left]
-> ![[rene-daslain-kid.webp|200]]
+---
 
 > [!image|figure standard]
 > ![[peydon-ferry.webp]]
@@ -63,9 +33,6 @@ Tyrwinghan Names:
 - **Rhiannon** (hree-ANN-on) - Female, "Great queen" or "divine queen"
 - **Taranis** (TAH-rah-nis) - Male, Named after the Celtic god of thunder
 - **Taliesin** (tal-YES-in) - Male, "Shining brow"
-
-
-
 
 
 Unnamed "warriors" around Cleenseau:

@@ -1,6 +1,3 @@
----
-tags: [meta, status/check/ai]
----
 # Initial combat analysis
 
 Built from current session artifacts using metadata decisions dated 2026-11-06.

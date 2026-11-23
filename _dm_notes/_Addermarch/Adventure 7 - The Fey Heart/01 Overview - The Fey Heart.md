@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Adventure Overview Template
 
 Overall context: [True Scenario Designery Index](https://theangrygm.com/true-scenario-designery/).
