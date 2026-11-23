@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-09-28T23:44:57-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: human
 ancestry: Sembaran
 player: Nathaniel Sackton
@@ -27,8 +27,9 @@ POV: 1715
 > [!taelgar-header]
 > (human, Sembaran, he/him, b. 1692)
 
-> [!image|right]
-> ![[assets/fazoth-full.webp|400]]
+> [!image|right standard]
+> ![[assets/fazoth-full.webp]]
+> *Fazoth de Brune*
 
 Fazoth de Brune, a younger son of the wealthy de Brune family, was born on his family's manor on the outskirts of [[Eskbridge]], a fortified town along the [[Enst]] river. He grew up grew up with a life of privilege, thanks to his family's wealth and position.
 

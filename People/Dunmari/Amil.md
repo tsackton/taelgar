@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
-tags: [person, status/cleanup/metadata, status/check/lint, status/check/ai]
+tags: [person, status/cleanup/metadata, status/check/lint]
 species: human
 ancestry: Dunmari
 campaignInfo: []
@@ -24,8 +24,9 @@ POV: 1748
 
 %% fix away whereabouts, campaign info %%
 
-> [!image|right]
-> ![[amil-final.webp|400]]
+> [!image|right standard]
+> ![[amil-final.webp]]
+> *Amil*
 
 A young monk, in training as an apprentice of the [[Order of the Awakened Soul]]. Fit, tanned, and cheerful, even when undertaking challenging or unsettling tasks. Lives with his masters, [[Pava]] and [[Avaras]], on the edge of the [[Garamjala Desert]] in the blasted plains.
 
@@ -39,14 +40,13 @@ A young monk, in training as an apprentice of the [[Order of the Awakened Soul]]
 
 ## Gallery
 
-> [!image|right]
-> ![[Amil-martial-arts.webp|400]]
-
-> [!image|right]
-> ![[Amil-snow-forest.webp|400]]
-
-> [!image|right]
-> ![[Amil-skyship-garden.webp|400]]
+> [!gallery]
+> - ![[Amil-martial-arts.webp]]
+>   *Amil*
+> - ![[Amil-snow-forest.webp]]
+>   *Amil*
+> - ![[Amil-skyship-garden.webp]]
+>   *Amil*
 
 %%^Metadata:names:v1%%
 - {name: Amil, language: Dunmari, pronunciation: AH-mil, notes: "Proposed from the Dunmari Hindi/Indo-Iranian analogue in Languages: long open initial a, short i as in bit, plain m and l, with initial emphasis; a Persian-oriented reading could instead emphasize the final syllable. Vowel length and stress are not established for this name.", status: proposed}

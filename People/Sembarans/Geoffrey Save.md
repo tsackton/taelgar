@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
 born: 1692
@@ -19,8 +19,9 @@ POV: 1720
 > [!taelgar-header]
 > (human, Sembaran, he/him, b. 1692)
 
-> [!image|right]
-> ![[geoffrey-save.webp|320]]
+> [!image|right standard]
+> ![[geoffrey-save.webp]]
+> *Geoffrey Save*
 
 A compatriot of [[Rinault Essford|Rinault]], his family came to [[Cleenseau]] when he was a young boy as part of [[Wymar Essford|Wymar's]] efforts to attract a larger market population. Recently inherited a thriving brewery and bakehouse from his parents at an unexpectedly young age, and is also a significant landlord in [[Underhill]].
 

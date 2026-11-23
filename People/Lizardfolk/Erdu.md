@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: lizardfolk
 born: 1517
 gender: male
@@ -16,8 +16,9 @@ POV: 1719
 > [!taelgar-header]
 > (lizardfolk, he/him, b. 1517, lives in Ganboa)
 
-> [!image|right]
-> ![[lizardfolk-erdu.webp|320]]
+> [!image|right standard]
+> ![[lizardfolk-erdu.webp]]
+> *Erdu*
 
 The spokesperson for the village of [[Ganboa]] when dealing with humans. Older, with graying scales. Has a relatively low opinion of humans, all things considered. His family has lived along the Enst for hundreds of years (he says), and he is skeptical of [[Sembara|Sembaran]] claims to the land.
 

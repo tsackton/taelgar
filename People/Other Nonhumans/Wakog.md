@@ -2,7 +2,7 @@
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 displayDefaults: {endStatus: killed in battle, dPast: "<endstatus:U> by [[Heroes of Cleenseau|The Heroes of Cleenseau]] on <enddate>"}
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: ogre
 gender: male
 died: 1719-12-06
@@ -17,8 +17,9 @@ POV: modern
 > [!taelgar-header]
 > (ogre, he/him, d. 1719, lives in Wakog's Camp)
 
-> [!image|right]
-> ![[wakog.webp|320]]
+> [!image|right standard]
+> ![[wakog.webp]]
+> *Wakog*
 
 An ogre of unclear origin.
 %%^Date:1719-10-30%%

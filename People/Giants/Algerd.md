@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
-tags: [status/cleanup/metadata, person, status/check/lint, status/check/ai]
+tags: [status/cleanup/metadata, person, status/check/lint]
 species: giant
 subspecies: frost
 gender: male
@@ -16,8 +16,9 @@ POV: 1749
 > [!taelgar-header]
 > (giant, he/him, lives in Vindristjarna)
 
-> [!image|right]
-> ![[algerd.webp|250]]
+> [!image|right standard]
+> ![[algerd.webp]]
+> *Algerd*
 
 Algerd is a somewhat absent-minded frost giant historian, originally from [[Isenborg]]. He has a tendency to focus single-mindedly on whatever happens to be the focus of his attention. He has a sister, who vanished some time ago.
 

@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: human
 ancestry: Tollender
 campaignInfo:
@@ -22,8 +22,9 @@ POV: 1748
 > [!taelgar-header]
 > (human, Tollender, she/her, b. 1728, lives in Fiskurth)
 
-> [!image|right]
-> ![[nika-hyne.webp|320]]
+> [!image|right standard]
+> ![[nika-hyne.webp]]
+> *Nika Hyne*
 
 Nika Hyne is a sly young woman in her early twenties known to frequent [[The Windward Sail]], listening to stories and doing odd jobs for coin. She was briefly a student at the [[University of Tollen]]: although she dropped out, she knows the area and the people well. She is a bit of a hustler.
 

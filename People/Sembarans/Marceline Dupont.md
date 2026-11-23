@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T18:19:15-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: human
 ancestry: Sembaran
 gender: female
@@ -20,8 +20,9 @@ POV: 1720s
 > [!taelgar-header]
 > (human, Sembaran, she/her, lives in Veltor)
 
-> [!image|left]
-> ![[marceline-dupont.webp|200]]
+> [!image|right standard]
+> ![[marceline-dupont.webp]]
+> *Marceline Dupont*
 
 Marceline Dupont is the Captain of the Horse for the [[Barony of Aveil]], based in [[Veltor]]. She often travels across the barony on the Baroness’s business. A career soldier and brilliant cavalry commander, she is fiercely loyal to the soldiers under her command. She is a practical warrior, but out of her depth when facing supernatural threats, frightened by enemies that tactics and steel cannot defeat.
 

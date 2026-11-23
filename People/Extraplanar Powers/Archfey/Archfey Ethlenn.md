@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
-tags: [power, status/review, status/check/lint, status/check/ai]
+tags: [power, status/review, status/check/lint]
 typeOf: archfey
 gender: female
 name: Archfey Ethlenn
@@ -23,8 +23,9 @@ The ruler of [[Twilight's Grace]] and patron of [[Tyrwingha]].
 
 A sketch of her supposed appearance
 
-> [!image|left]
-> ![[tyrwingha-stories-sketch-of-ethlenn.webp|400]]
+> [!image|figure standard]
+> ![[tyrwingha-stories-sketch-of-ethlenn.webp]]
+> *Archfey Ethlenn*
 
 %% All the info I have is in discord or backlinks here; but obviously my game has plans for her 
 

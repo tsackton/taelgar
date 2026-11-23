@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T13:42:24-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: dwarf
 gender: male
 name: Bolgrim Ferrystone
@@ -23,8 +23,9 @@ POV: 1720s
 > [!taelgar-header]
 > (dwarf, he/him, lives in Rinburg)
 
-> [!image|left]
-> ![[bolgrim-ferrystone.webp|200]]
+> [!image|right standard]
+> ![[bolgrim-ferrystone.webp]]
+> *Bolgrim Ferrystone*
 
 Bolgrim Ferrystone is a dwarf of the [[Ferrystones|Ferrystone Clan]], based in [[Rinburg]], with expertise in masonry. He is a cousin of [[Roaric Ferrystone]].
 

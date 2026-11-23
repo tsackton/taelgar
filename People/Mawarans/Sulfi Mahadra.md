@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: human
 ancestry: Mawaran
 gender: female
@@ -17,8 +17,9 @@ POV: 1740s
 > [!taelgar-header]
 > (human, Mawaran, she/her, lives in Hamri)
 
-> [!image|right]
-> ![[sulfi-mahadra.webp|300]]
+> [!image|right standard]
+> ![[sulfi-mahadra.webp]]
+> *Sulfi Mahadra*
 
 Sulfi Mahadra, known as the Queen of Ships, lives with her partner Iesha in a substantial house on Glittercliff. She owns a large fraction of the fishing fleet of [[Hamri]], and is the most important boat builder in the region. She inherited and greatly expanded the family business, and has been a fixture in Hamri for many decades.
 

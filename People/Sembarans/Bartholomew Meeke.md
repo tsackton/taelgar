@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-04T17:14:44-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: human
 ancestry: Sembaran
 name: Bartholomew Meeke
@@ -15,8 +15,9 @@ POV: 1720s
 > (human, Sembaran)
 
 
-> [!image|left]
-> ![[bartholomew-meeke.webp|400]]
+> [!image|right standard]
+> ![[bartholomew-meeke.webp]]
+> *Bartholomew Meeke*
 
 Bartholomew Meeke is a tin trader who trades primarily between [[Rinburg]] and [[Aslain]]. He has a friendly relationship with the [[Riverstones]].
 

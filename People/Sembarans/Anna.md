@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-18T23:43:15-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
 gender: female

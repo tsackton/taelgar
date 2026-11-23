@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: kenku
 ancestry: Islander
 campaignInfo:
@@ -23,8 +23,9 @@ POV: 1740s
 > [!taelgar-header]
 > (kenku, Islander, she/her, b. 1700, lives in Wahacha)
 
-> [!image|right]
-> ![[skoda.webp|400]]
+> [!image|right standard]
+> ![[skoda.webp]]
+> *Skoda*
 
 A kenku woman in late middle age, who travels the islands of the [[Eastern Green Sea]] with her partner [[Nahto]]. She is fey-touched and has a hint of magic about her.
 

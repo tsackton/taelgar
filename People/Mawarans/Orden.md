@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: human
 ancestry: Mawaran
 born: null
@@ -17,8 +17,9 @@ POV: 1740s
 > [!taelgar-header]
 > (human, Mawaran, he/him, lives in Hamri)
 
-> [!image|right]
-> ![[orden.webp|300]]
+> [!image|right standard]
+> ![[orden.webp]]
+> *Orden*
 
 Orden is a beach-dwelling Mawaran who lives in a shack north of the main port of [[Hamri]]. He was born into a prominent local family, but now lives as an outcast, making do with salvage, fishing, scavenging, and whatever work the shore provides. He is short and stocky, with great bushy hair, a bushy beard, many piercings, and proud eyes.
 

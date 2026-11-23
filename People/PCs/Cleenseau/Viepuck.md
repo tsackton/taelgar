@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
-tags: [person, status/gameupdate/clee, status/check/lint, status/check/ai]
+tags: [person, status/gameupdate/clee, status/check/lint]
 species: human
 ancestry: Sembaran
 born: 1706-10-01
@@ -25,8 +25,9 @@ POV: 1719
 
 %% This page still reflects early game when Viepuck was disguised as Najeer. Needs a minimal rewrite %%
 
-> [!image|right]
-> ![[Najeer screenshot.webp|420]]
+> [!image|right standard]
+> ![[Najeer screenshot.webp]]
+> *Najeer Garay*
 
 Najeer Garay is the fourth son of [[Susanne Garay]], the matriarch of a wealthy cloth merchant family in [[Embry]]. He is not set to inherit but has a job in the family and seems interested in finding something of his own in the world. He does not like to fight and it makes him uncomfortable after, but he seems to be solid while it’s happening.  Alternates between solidly responsible and a little immature. Obviously has something else going on -- he appears to have some magic, at least.  A little class-struck by being invited to the manor for dinner, kind of kept more quiet than expected.
 
@@ -79,24 +80,28 @@ A little enamored with Robin probably from the rescue, will tend to defer to any
 >
 >> [!image|right standard]
 >> ![[Vala screenshot.webp]]
+>> *Vala Xendra*
 >
 >**Najeer Garay** (he/him)
 > The son of [[Susanne Garay]], a cloth merchant from [[Embry]]. Richly dressed, but lacking the finery (belt, shoes, jewelry) that would usually be associated with fine clothes. An aspiring merchant, looking to expand his family's cloth trade. Talkative and a little bit pompous. In his mid-20s.
 >
 > > [!image|right standard]
 > > ![[Najeer screenshot.webp]]
+> > *Najeer Garay*
 > 
 > **Treph Hardpick** (he/him)
 > A dwarf, traveler from [[Nardith]]. A laborer, looking more concerned with the evening's dice-and-drinking than appearances, but not poor per-se. Has a grumpy vibe. On the young side of middle-aged, about 200.
 > 
 > > [!image|right standard]
 > > ![[Treph screenshot.webp]]
+> > *Treph Hardpick*
 >
 > **Sarlana Silversword** (she/her)
 > A human warrior and aspiring paladin from [[Tollen]]. Confident bordering on overconfident and wearing well-taken-care-of brigandine armor. Braid comes out from under her helm, otherwise only her stern jaw is visible. 
 > 
 > > [!image|right standard]
 > > ![[Sarlana screenshot (1).webp]]
+> > *Sarlana Silversword*
 
 ### Items
 ```dataview

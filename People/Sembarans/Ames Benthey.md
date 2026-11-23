@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-28T16:53:46-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: human
 ancestry: Sembaran
 born: 1675
@@ -26,8 +26,9 @@ POV: 1720
 > [!taelgar-header]
 > (human, Sembaran, he/him, b. 1675, lives in Cleenseau)
 
-> [!image|right]
-> ![[ames-benthey.webp|320]]
+> [!image|right standard]
+> ![[ames-benthey.webp]]
+> *Ames Benthey*
 
 The captain of the household guard of [[Essford Manor]], part of the [[Lord's Guard of Cleenseau|Lord's Guard]] in [[Cleenseau]]. Likes to play dice with [[Celyn]]. Better at delegating than doing any actual work and enjoys his food. However, when push comes to shove, he is a competent fighter and captain.
 

@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
 born: 1672
@@ -20,8 +20,9 @@ POV: 1720s
 > [!taelgar-header]
 > (human, Sembaran, he/him, b. 1672, lives in Auloutte)
 
-> [!image|right]
-> ![[gideon-thorne.webp|320]]
+> [!image|right standard]
+> ![[gideon-thorne.webp]]
+> *Gideon Thorne*
 
 A fisherman and the most prominent person in the small hamlet of [[Auloutte]]. Much of his family lives in the North Close of Cleenseau, including his son [[Gabriel Thorne]] and his nephew [[Jon Thorne]]. He lives with his two grown daughters and their families, both of whom are also fisherfolk.
 

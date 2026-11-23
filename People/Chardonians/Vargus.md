@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-25T23:14:40-04:00"
 lintVersion: "3.5"
-tags: [person, status/cleanup/metadata, status/check/lint, status/check/ai]
+tags: [person, status/cleanup/metadata, status/check/lint]
 species: human
 ancestry: Chardonian
 campaignInfo:
@@ -25,8 +25,9 @@ POV: 1748
 
 %% whereabouts need updating; copy description and other details from DM notes%%
 
-> [!image|right]
-> ![[vargus.webp|300]]
+> [!image|right standard]
+> ![[vargus.webp]]
+> *Vargus*
 
 Twin to Valius, Vargus was a formidable warrior in the Chardonian legion, turned mercenary and adventurer. He is now under the curse of the Cleansed and largely unaware of himself.
 

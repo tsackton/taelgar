@@ -2,7 +2,7 @@
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 displayDefaults: {aNoDate: "Traveled with <affiliations>"}
-tags: [person, status/check/ai]
+tags: [person]
 species: kenku
 ancestry: null
 born: null
@@ -20,8 +20,9 @@ POV: 1748
 > [!taelgar-header]
 > (kenku, he/him)
 
-> [!image|right]
-> ![[rufus.webp|320]]
+> [!image|right standard]
+> ![[rufus.webp]]
+> *Rufus*
 
 Kenku monster hunter and unofficial protector of [[Wahacha]]. Excellent with bow and arrow. Helped kill the aboleth. Now returned to [[Wahacha]], continuing to guard against monsters of the deeps. Hates crabs.
 

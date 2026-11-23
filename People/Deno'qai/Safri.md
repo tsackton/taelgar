@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-23T23:02:51-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: human
 ancestry: "Deno'qai"
 campaignInfo:
@@ -22,8 +22,9 @@ POV: 1748
 > [!taelgar-header]
 > (human, Deno'qai, she/her)
 
-> [!image|right]
-> ![[safri.webp|320]]
+> [!image|right standard]
+> ![[safri.webp]]
+> *Safri*
 
 An old Deno'qai druid with many stories and rumors to her name. Many claim to have met her, but most speak of her in animal form, a deer that acts unusually intelligent and leads a lost traveler back to a path, or a hawk that drops a brace of rabbits on the camp of a hungry family who have had bad luck with the hunt.
 

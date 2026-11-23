@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
 born: 1663
@@ -22,8 +22,9 @@ POV: 1720
 > [!taelgar-header]
 > (human, Sembaran, he/him, b. 1663)
 
-> [!image|right]
-> ![[eremon.webp|320]]
+> [!image|right standard]
+> ![[eremon.webp]]
+> *Eremon*
 
 A newcomer to town and acolyte of the Night Queen. Eremon is well-travelled and a personal friend of [[Rosalind Essford|Rosalind's]]. He walks with a pronounced limp.  He was from [[Fellburn]] originally and left shortly after [[Cece I]] died. What he has been doing for the last seven years is not clear.
 

@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
 campaignInfo:
@@ -24,8 +24,9 @@ POV: 1720
 > [!taelgar-header]
 > (human, Sembaran, he/him, b. 1652, d. 1720, lives in Cleenseau)
 
-> [!image|right]
-> ![[WymarOfClenseau.webp|320]]
+> [!image|right standard]
+> ![[WymarOfClenseau.webp]]
+> *Lord Wymar Essford*
 
 The aging and senile lord of the manor in [[Cleenseau]]. The son of [[Reginald Essford]] and [[Celine Essford]]. He is rarely involved in the day to day events of the town. His children are [[Rosalind Essford]] and [[Rinault Essford]]. Since March 1719, he has been suffering from increasingly significant dementia and his daughter has largely taken over the management of [[Cleenseau]].
 

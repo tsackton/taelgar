@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-28T16:53:46-04:00"
 lintVersion: "3.5"
-tags: [person, status/cleanup/text, status/check/lint, status/check/ai]
+tags: [person, status/cleanup/text, status/check/lint]
 species: halfling
 ancestry: null
 born: null
@@ -23,8 +23,9 @@ POV: 1720
 > [!taelgar-header]
 > (halfling, she/her)
 
-> [!image|right]
-> ![[adra-brightwood.webp|400]]
+> [!image|right standard]
+> ![[adra-brightwood.webp]]
+> *Adra Brightwood*
 
 A wanderer, woodswalker, and skilled swordswoman. Cousin of [[Enzo Brightwood]].
 

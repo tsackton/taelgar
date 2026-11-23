@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
-tags: [person, status/cleanup/metadata, status/check/lint, status/check/ai]
+tags: [person, status/cleanup/metadata, status/check/lint]
 species: human
 ancestry: Dunmari
 campaignInfo:
@@ -32,8 +32,9 @@ POV: 1748
 > [!taelgar-header]
 > (human, Dunmari, he/him, b. 1721, lives in Tokra)
 
-> [!image|left]
-> ![[johar.webp|450]]
+> [!image|right standard]
+> ![[johar.webp]]
+> *Johar*
 
 Johar is a confidant and close friend of [[Kenzo]]'s from the [[Lakan Monastery]] in [[Tokra]]. He works in the [[Tokra]] [[Archives]], primarily interested in documenting the miracles of [[Laka]], and the history of the [[Lakan Monastery]] and the community there.
 

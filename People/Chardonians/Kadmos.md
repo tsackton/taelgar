@@ -2,7 +2,7 @@
 lintedAt: "2026-08-25T23:14:40-04:00"
 lintVersion: "3.5"
 displayDefaults: {endStatus: killed}
-tags: [person, testcase, status/gameupdate/dufr, status/check/lint, status/check/ai]
+tags: [person, testcase, status/gameupdate/dufr, status/check/lint]
 species: human
 ancestry: Chardonian
 campaignInfo:
@@ -30,8 +30,9 @@ POV: 1748
 
 %%collate various notes for completeness -- mostly in Obsidian DM notes%%
 
-> [!image|right]
-> ![[kadmos-portrait.webp|320]]
+> [!image|right standard]
+> ![[kadmos-portrait.webp]]
+> *Kadmos*
 
 A mysterious figure who doesn't speak unless necessary, the leader of this company, with [[Hektor]], [[Marcella]], [[Antonia]], and [[Casian]].
 

@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-23T23:02:51-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: human
 ancestry: Tollender
 campaignInfo:
@@ -20,8 +20,9 @@ POV: 1748
 > [!taelgar-header]
 > (human, Tollender, he/him, b. 1716, lives in Tollen)
 
-> [!image|right]
-> ![[thomas-hawke.webp|400]]
+> [!image|right standard]
+> ![[thomas-hawke.webp]]
+> *Thomas Hawke*
 
 Thomas Hawke is Professor of Rhetoric, a playwright, and a rising star at the [[University of Tollen]], recognized more for his dramatic flair than his academic pursuits. He is captivated by the allure of legends and tales, and has a passion for stories he can borrow from for his plays. Tales from distant lands, in particular, can be guaranteed to catch his attention and ensnare his interest.
 

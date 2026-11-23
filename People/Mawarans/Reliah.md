@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: human
 ancestry: Mawaran
 born: null
@@ -19,8 +19,9 @@ POV: 1740s
 > [!taelgar-header]
 > (human, Mawaran, she/her, lives in Hamri)
 
-> [!image|right]
-> ![[reliah.webp|300]]
+> [!image|right standard]
+> ![[reliah.webp]]
+> *Reliah*
 
 Reliah, the twin sister of [[Samar]], is an orphaned girl who lives in the Drowned Flats in [[Hamri]]. [[Wazir]] feeds her and her sister once a week, and in turn they keep an ear to the ground for him.
 

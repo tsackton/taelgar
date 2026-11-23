@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
-tags: [person, status/cleanup/metadata, status/check/lint, status/check/ai]
+tags: [person, status/cleanup/metadata, status/check/lint]
 species: human
 ancestry: Cymean
 campaignInfo: []
@@ -23,8 +23,9 @@ POV: 1748
 
 %%needs campaign info and whereabouts in header%%
 
-> [!image|right]
-> ![[escobar-garavito.webp|400]]
+> [!image|right standard]
+> ![[escobar-garavito.webp]]
+> *Escobar Garavito*
 
 A young and charismatic student at the University of [[Tollen]], Escobar's journey from the humble village of [[Lavila]] in [[Cymea]] to the bustling streets of [[Tollen]] showcases his adaptability and determination.
 

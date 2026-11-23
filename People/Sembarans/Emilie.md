@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
-tags: [person, status/cleanup/text, status/check/lint, status/check/ai]
+tags: [person, status/cleanup/text, status/check/lint]
 species: human
 ancestry: null
 born: null
@@ -23,8 +23,9 @@ POV: 1720s
 > [!taelgar-header]
 > (human, she/her)
 
-> [!image|right]
-> ![[emilie-adderfell.webp|400]]
+> [!image|right standard]
+> ![[emilie-adderfell.webp]]
+> *Emilie*
 
 A fighter.
 

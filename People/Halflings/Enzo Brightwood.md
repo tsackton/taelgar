@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
-tags: [person, status/cleanup/metadata, status/check/lint, status/check/ai]
+tags: [person, status/cleanup/metadata, status/check/lint]
 species: halfling
 ancestry: null
 born: null
@@ -23,8 +23,9 @@ POV: 1720
 > [!taelgar-header]
 > (halfling, he/him)
 
-> [!image|right]
-> ![[enzo-brightwood.webp|400]]
+> [!image|right standard]
+> ![[enzo-brightwood.webp]]
+> *Enzo Brightwood*
 
 A skirmisher and scout. Young, to be on the road. Cousin of [[Adra Brightwood]].
 

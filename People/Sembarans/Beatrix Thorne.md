@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: human
 ancestry: Sembaran
 born: 1696
@@ -25,8 +25,9 @@ POV: 1720
 > [!taelgar-header]
 > (human, Sembaran, she/her, b. 1696, lives in Cleenseau)
 
-> [!image|right]
-> ![[beatrix.webp|320]]
+> [!image|right standard]
+> ![[beatrix.webp]]
+> *Béatrix Thorne*
 
 A soldier in the Bridge Patrol of the [[Army Garrison of Cleenseau|Cleenseau Garrison]] of the [[Army of the West]], she distinguished herself during the [[Undead Attacks in Sembara]] and other troubles around Cleenseau in the fall of 1719.
 

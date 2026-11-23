@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T19:36:25-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: human
 ancestry: Sembaran
 gender: female
@@ -20,6 +20,10 @@ POV: 1720
 > [!taelgar-header]
 > (human, Sembaran, she/her, lives in Embry)
 
+> [!image|right standard]
+> ![[lenora-belles.webp]]
+> *Lenora Belles*
+
 Lenora Belles is a paladin of [[The Night Queen]] from [[Embry]], prominent in the goddess’s councils. She rides a jet-black pegasus named Tinugin.
 
 During the [[Undead Attacks in Sembara|undead attacks of DR 1720]], Lenora, [[Raoul Boulain]], and their companions played the central role in defeating [[Malach]]. They destroyed [[Malach's Phylactery|his phylactery]] and killed the lich.
@@ -27,9 +31,6 @@ During the [[Undead Attacks in Sembara|undead attacks of DR 1720]], Lenora, [[Ra
 %%^Campaign:clee%%
 Lenora saved [[Viepuck]] from a wizard’s sacrificial ritual in [[Embry]] several years before [[Cleenseau - Interlude - After the Siege of Fellburn|their reunion in DR 1720]]. In May DR 1720, she and her companions set out east across the [[Green Sea]], seeking a rumored djinn in [[Medju]] who might restore [[Raoul Boulain]] to life.
 %%^End%%
-
-> [!image|right standard]
-> ![[lenora-belles.webp]]
 
 %%^Metadata:names:v1%%
 - {name: Lenora Belles, language: Sembaran, pronunciation: leh-NOR-uh BELL, status: documented}

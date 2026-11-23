@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
 born: 1690
@@ -18,8 +18,9 @@ POV: 1720
 > [!taelgar-header]
 > (human, Sembaran, b. 1690)
 
-> [!image|right]
-> ![[isolde-asineau.webp|320]]
+> [!image|right standard]
+> ![[isolde-asineau.webp]]
+> *Isolde*
 
 A skilled brawler and swordswoman, currently employed by [[Lorin Valbert]] to watch over his interests. Seems attached to her lord in a professional way.
 

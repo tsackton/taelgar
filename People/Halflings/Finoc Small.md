@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
-tags: [person, status/gameupdate/grli, status/check/lint, status/check/ai]
+tags: [person, status/gameupdate/grli, status/check/lint]
 species: halfling
 gender: male
 name: Finoc Small
@@ -18,8 +18,9 @@ POV: 1748
 > [!taelgar-header]
 > (halfling, he/him, lives in Voltara)
 
-> [!image|right]
-> ![[finoc-small.webp|300]]
+> [!image|right standard]
+> ![[finoc-small.webp]]
+> *Finoc Small*
 
 An unusually tall and cheerful halfling, and the owner of [[The Wandering Toad]], an inn in [[Voltara]] known for wild game, mushrooms, and ale. [[Brelith]] apprenticed with the chef there before opening [[The Hero's Feast]].
 

@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: human
 ancestry: Isinguer
 gender: female
@@ -16,8 +16,9 @@ POV: 1720s
 > [!taelgar-header]
 > (human, Isinguer, she/her, lives in Cleenseau)
 
-> [!image|right]
-> ![[genevote.webp|320]]
+> [!image|right standard]
+> ![[genevote.webp]]
+> *Genevote*
 
 The stablemaster of Essford Manor.
 

@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: human
 ancestry: Tollender
 campaignInfo:
@@ -20,8 +20,9 @@ POV: 1748
 > [!taelgar-header]
 > (human, Tollender, he/him, b. 1668, lives in Tollen)
 
-> [!image|right]
-> ![[delios-the-sage.webp|400]]
+> [!image|right standard]
+> ![[delios-the-sage.webp]]
+> *Delios the Sage*
 
 An agile elder of nearly 80, Delios is a wise human of Tollender ancestry, famously affiliated with the [[Ancient and Honorable Guild of Philosophers]].
 

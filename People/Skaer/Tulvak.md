@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: human
 ancestry: Skaer
 campaignInfo:
@@ -20,8 +20,9 @@ POV: 1740s
 > [!taelgar-header]
 > (human, Skaer, he/him, b. 1719, lives in Pyhlla)
 
-> [!image|right]
-> ![[tulvak.webp|400]]
+> [!image|right standard]
+> ![[tulvak.webp]]
+> *Tulvak*
 
 Tulvak is a skilled sailor hailing from the island of [[Pyhlla]] in [[Skaerhem]], in the Western [[Green Sea]]. He has for many years served as the ferry captain guiding pilgrims to [[Vetta]], and knows the coast of [[Vetta]] like the back of his hand.
 

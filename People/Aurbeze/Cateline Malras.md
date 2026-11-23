@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-25T09:29:24-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: human
 ancestry: Aurbeze
 campaignInfo:
@@ -26,8 +26,9 @@ POV: 1749
 > [!taelgar-header]
 > (human, Aurbeze, she/her, b. 1693, lives in Aurbez Plateau)
 
-> [!image|right]
-> ![[cateline.webp|400]]
+> [!image|right standard]
+> ![[cateline.webp]]
+> *Cateline Malras*
 
 Cateline is a prominent member of the [[Rangers]], a devotee of the [[Fox and Hunter]], and a guardian of the secrets of [[Isingue]], widely regarded as a spiritual leader on the [[Aurbez Plateau]]. She is closely associated with the guardianship of the [[Heartroot]] and is is the keeper of the rite of “water before words” observed at councils in [[Three Wells]]. Her guidance blends pragmatic defense with reverence for the land’s old blessings.
 

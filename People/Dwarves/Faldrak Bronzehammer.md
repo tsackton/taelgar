@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
-tags: [person, status/cleanup/metadata, status/check/lint, status/check/ai]
+tags: [person, status/cleanup/metadata, status/check/lint]
 species: dwarf
 ancestry: null
 campaignInfo:
@@ -28,8 +28,9 @@ POV: 1740s
 > [!taelgar-header]
 > (dwarf, he/him, b. 1516)
 
-> [!image|right]
-> ![[faldrak-portrait-1.webp|400]]
+> [!image|right standard]
+> ![[faldrak-portrait-1.webp]]
+> *Faldrak Bronzehammer*
 
 Faldrak Bronzehammer is an aged dwarf runecrafter and tinker, with a touch of Feywild whimsy.
 ## Overview

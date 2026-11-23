@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: human
 ancestry: Sembaran
 born: 1682
@@ -26,8 +26,9 @@ POV: 1719
 > [!taelgar-header]
 > (human, Sembaran, he/him, b. 1682)
 
-> [!image|right]
-> ![[arthur-bybet-portrait.webp|320]]
+> [!image|right standard]
+> ![[arthur-bybet-portrait.webp]]
+> *Arthur Essford*
 
 The husband of [[Rosalind Essford|Rosalind]] (whom he married in 1706), he wisely takes a back seat in local affairs. He hails from a prominent family in [[Ainwick]]. He is an aficionado of stories and songs and often frequents [[The Crossroads Inn]] to hear the latest news.
 

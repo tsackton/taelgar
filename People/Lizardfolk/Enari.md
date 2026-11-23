@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: lizardfolk
 ancestry: null
 campaignInfo:
@@ -25,8 +25,9 @@ POV: 1740s
 > [!taelgar-header]
 > (lizardfolk, he/him, lives in Orekatu)
 
-> [!image|right]
-> ![[enari-portrait.webp|400]]
+> [!image|right standard]
+> ![[enari-portrait.webp]]
+> *Enari*
 
 A well-muscled lizardfolk hunter and wanderer, who earned a reputation and honor traveling among the villages of the kingdom of [[Orekatu]].
 %%^Campaign:dufr%%

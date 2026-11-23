@@ -2,7 +2,7 @@
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
 displayDefaults: {endStatus: brought to justice}
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: human
 ancestry: Tollender
 gender: male
@@ -22,8 +22,9 @@ POV: modern
 > [!taelgar-header]
 > (human, Tollender, he/him, b. 1686, d. 1720)
 
-> [!image|right]
-> ![[gareth-of-tollen.webp|320]]
+> [!image|right standard]
+> ![[gareth-of-tollen.webp]]
+> *Gareth of Tollen*
 
 A baronial tax collector for the [[Barony of Aveil]], he was hired in mysterious circumstances and previously worked for the [[Lord Mayor’s Workhouse]] in [[Embry]] as an enforcer.
 

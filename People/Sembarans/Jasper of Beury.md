@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: human
 ancestry: Sembaran
 born: 1677
@@ -19,8 +19,9 @@ POV: 1710s
 > [!taelgar-header]
 > (human, Sembaran, he/him, b. 1677, lives in Beury)
 
-> [!image|right]
-> ![[jasper-of-beury.webp|320]]
+> [!image|right standard]
+> ![[jasper-of-beury.webp]]
+> *Jasper*
 
 A robber and highwayman in his youth on the stretch of the [[Great South Road]] between [[Beury]] and [[Dallet]], he was caught and fined. He has since reformed and worked as a crown messenger for many years. In the last few years he has returned to Beury for reasons he is generally silent about and has worked as hired labor as well as occasionally doing jobs for [[Erick Murtha]].
 

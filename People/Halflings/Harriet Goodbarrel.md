@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: halfling
 ancestry: null
 campaignInfo:
@@ -27,8 +27,9 @@ POV: 1740s
 > [!taelgar-header]
 > (halfling, she/her, b. 1685)
 
-> [!image|right]
-> ![[harriet-goodbarrel.webp|300]]
+> [!image|right standard]
+> ![[harriet-goodbarrel.webp]]
+> *Harriet Goodbarrel*
 
 %% notes
 Secret mostly contains roleplaying notes; ask if they'd be useful

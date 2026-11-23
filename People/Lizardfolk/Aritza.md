@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: lizardfolk
 ancestry: null
 campaignInfo:
@@ -23,8 +23,9 @@ POV: 1749
 > [!taelgar-header]
 > (lizardfolk, he/him, b. 1636, lives in Aursen Marshes)
 
-> [!image|right]
-> ![[aritza.webp|400]]
+> [!image|right standard]
+> ![[aritza.webp]]
+> *Aritza*
 
 Aritza is a lizardfolk elder, representing the people of the marshes in [[Refounded Alliance of Aurbez]] business.
 

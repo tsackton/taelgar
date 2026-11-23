@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: human
 ancestry: null
 born: null
@@ -25,8 +25,9 @@ POV: 1720
 > [!taelgar-header]
 > (human, she/her, lives in Adderfell)
 
-> [!image|right]
-> ![[remille-vauclaire.webp|400]]
+> [!image|right standard]
+> ![[remille-vauclaire.webp]]
+> *Remille Vauclaire*
 
 A swordswoman.
 

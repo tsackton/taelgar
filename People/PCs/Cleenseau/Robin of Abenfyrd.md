@@ -2,7 +2,7 @@
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 displayDefaults: {primaryOrgType: party}
-tags: [person, status/gameupdate/clee, status/check/lint, status/check/ai]
+tags: [person, status/gameupdate/clee, status/check/lint]
 species: human
 ancestry: Tyrwinghan
 campaignInfo: []
@@ -28,9 +28,9 @@ POV: 1720
 > [!taelgar-header]
 > (human, Tyrwinghan, he/him, b. 1700)
 
-> [!gallery]
-> - ![[robin-of-abenfyrd-no-armor.webp|320]]
-> - ![[new-robin.webp|320]]
+> [!image|right standard]
+> ![[robin-of-abenfyrd-no-armor.webp]]
+> *Robin of Abenfyrd*
 
 Robin of Abenfyrd is a young man of about twenty, a paladin of [[The Wanderer]], and hails from [[Tyrwingha]]. He has a friendly, if shy, demeanor and at times seems embarrassed by his own talents. His armor looks weathered and well used (he was probably not the first owner) but well maintained. His clothing looks a bit more appropriate to a bard than a traveling warrior, and while again not the fanciest, tends to be rather colorful and a bit flamboyant even. He keeps a [[Lantern of the Bright Hearth|small lantern]] on him that sheds a perpetual warm glow that reminds one of home and pleasant things. His other most prized possession is a lute (not the fanciest instrument ever, but it is clearly well cared for) that he plays with the skill of a well practiced musician. Often appearing a bit awkward when first interacting with others, he seems far more relaxed while he plays.
 
@@ -56,6 +56,10 @@ table without id embed(link(image, "240")) as "Image", link(file.name, name) as 
 > One morning -- May 31, 1719, to be exact -- he left with Gareth and four others for a two day patrol through the Mostreve Hills. Rumors of a troll had come to the garrison, and Gareth was anxious to find it before it wandered into more civilized lands. The party of six set out and that evening they camped under the full moon under a small overhang by a large hill. A trickling brook rushed past and the wooded hill was pleasant in the spring air. Robin awoke at moonrise, feeling oddly awake.
 > 
 > Standing up, under the full moon, he smells the scent of spring growth and fresh cool rain wafting from the top of the hill. He follows the scent, and [[Lantern of the Bright Hearth|finds the Lantern of the Bright Hearth]]. Returning from this experience, Robin seems changed. He starts to have dreams of a huge white bridge across a broad marshy river. At Gareth's encouragement, he leaves the [[Mostreve Hills]], heading north along the [[Aure]]. He spends a few days in [[Eskbridge]], then travels to [[Wisford]], and up the [[Wistel]]. In the summer he is in [[Ainwick]], and hears rumors of bandits plaguing the [[Aine Hills]]. He spends some time with a company of the [[Army of the North]] hunting bandits, but the dreams of the white bridge persist, and so he leaves, heading south to [[Dunfry]] and then, on a rainy fall morning, east, towards [[Cleenseau]].
+
+> [!image|figure standard]
+> ![[new-robin.webp]]
+> *Robin of Abenfyrd*
 
 %%^Metadata:names:v1%%
 - {name: Robin of Abenfyrd, language: unknown, pronunciation: "ROB-in uv AY-ben-veered", status: proposed, notes: "Complete-form proposal combines ordinary Robin and of with the accepted AY-ben-veered pronunciation in [[Abenfyrd]]; the name's source language is not independently recorded."}

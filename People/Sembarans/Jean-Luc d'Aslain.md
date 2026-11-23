@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
 born: 1690
@@ -21,8 +21,9 @@ POV: 1720
 > [!taelgar-header]
 > (human, Sembaran, he/him, b. 1690)
 
-> [!image|right]
-> ![[jean-luc d'aslain.webp|320]]
+> [!image|right standard]
+> ![[jean-luc d'aslain.webp]]
+> *Jean-Luc D'Aslain*
 
 A disciple of the Father, splitting time between [[Dallet]] and [[Beury]]. A cousin of the current baron, [[Isabeau d'Aslain]].
 

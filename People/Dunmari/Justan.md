@@ -2,7 +2,7 @@
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
 displayDefaults: {endStatus: "killed by [[Casian]]"}
-tags: [person, status/check/ai]
+tags: [person]
 species: human
 ancestry: Dunmari
 campaignInfo:
@@ -25,8 +25,9 @@ POV: modern
 > [!taelgar-header]
 > (human, Dunmari, he/him, b. 1723, d. 1748, lives in Varashan)
 
-> [!image|right]
-> ![[justan.webp|250]]
+> [!image|right standard]
+> ![[justan.webp]]
+> *Justan*
 
 A Dunmari man, from a family of horse herders traveling on the lands around [[Tokra]].
 

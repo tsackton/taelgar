@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T18:19:15-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: halfling
 gender: female
 name: Primrose Merriweather
@@ -19,8 +19,9 @@ POV: 1720
 > [!taelgar-header]
 > (halfling, she/her, lives in Veltor)
 
-> [!image|left]
-> ![[primrose-merriweather.webp|200]]
+> [!image|right standard]
+> ![[primrose-merriweather.webp]]
+> *Primrose Merriweather*
 
 Primrose Merriweather is a halfling of the [[Merriweathers]] who, with her brother [[Corrin Merriweather]], owned a long-established tailor shop in [[Veltor]].
 

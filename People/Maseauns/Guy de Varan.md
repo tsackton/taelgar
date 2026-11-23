@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
 campaignInfo:
@@ -23,8 +23,9 @@ POV: 1710s
 > [!taelgar-header]
 > (human, Sembaran, he/him, b. 1693, lives in Evis)
 
-> [!image|right]
-> ![[guy-de-varan-maseau.webp|320]]
+> [!image|right standard]
+> ![[guy-de-varan-maseau.webp]]
+> *Guy de Varan*
 
 A traveler and caravan expediter, he is relatively well-known along [[Bandit's Way]] as a man who can help find guards and organize supplies. The de Varan family is well-known in [[Duchy of Maseau|Maseau]] and was originally from far southern [[Isingue]] before the Great War.
 

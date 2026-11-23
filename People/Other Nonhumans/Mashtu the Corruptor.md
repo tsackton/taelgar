@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: demon
 campaignInfo:
   - {type: "Banished to the [[Abyss]]", campaign: dufr, date: 1748-12-22, wParty: "<met:x> by <person> on <target> in <current:3r>"}
@@ -18,8 +18,9 @@ POV: modern
 > [!taelgar-header]
 > (demon, lives in Abyss)
 
-> [!image|right]
-> ![[mashtu-the-corrupter.webp|420]]
+> [!image|right standard]
+> ![[mashtu-the-corrupter.webp]]
+> *Mashtu the Corruptor*
 
 A powerful demon of the [[Abyss]], known for desiring the defiling of sacred waters across the [[Green Sea]].
 

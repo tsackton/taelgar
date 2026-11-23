@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: human
 ancestry: "Deno'qai"
 campaignInfo: []
@@ -25,8 +25,9 @@ POV: 1749
 > [!taelgar-header]
 > (human, Deno'qai, she/her, b. 1719)
 
-> [!image|right]
-> ![[jotha.webp|300]]
+> [!image|right standard]
+> ![[jotha.webp]]
+> *Jotha*
 
 Jotha is a warrior, serious and sometimes distant, who relies on her connection to the [[Tanshi]] to make sense of the dangers and evils she has faced. She prefers to listen instead of talk, and enjoys hearing stories. While eventually she intends to return to her homeland, for now she travels seeking to deepen her connection to the tanshi.
 ## Background

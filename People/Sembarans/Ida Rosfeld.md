@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
 campaignInfo: null
@@ -24,8 +24,9 @@ POV: 1720
 > [!taelgar-header]
 > (human, Sembaran, she/her, b. 1687, lives in Cleenseau)
 
-> [!image|right]
-> ![[ida-rosfeld.webp|320]]
+> [!image|right standard]
+> ![[ida-rosfeld.webp]]
+> *Captain Ida Rosfeld*
 
 Ida is the captain of the [[Army Garrison of Cleenseau|Cleenseau Garrison]] of the [[Army of the West]]. She is a no-nonsense commander who respects very few people other than [[Rosalind Essford]] and is known for her sharp tongue.
 

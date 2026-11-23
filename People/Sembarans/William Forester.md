@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
-tags: [person, status/cleanup/metadata, status/check/lint, status/check/ai]
+tags: [person, status/cleanup/metadata, status/check/lint]
 species: human
 ancestry: Sembaran
 gender: male
@@ -16,8 +16,9 @@ POV: 1720s
 > (human, Sembaran, he/him)
 
 
-> [!image|left]
-> ![[william-forester-aveil.webp|200]]
+> [!image|right standard]
+> ![[william-forester-aveil.webp]]
+> *William Forester*
 
 A lumberjack and leading person in [[Ashcombe]]
 

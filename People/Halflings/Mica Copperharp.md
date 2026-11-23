@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
-tags: [person, status/gameupdate/dufr, status/check/lint, status/check/ai]
+tags: [person, status/gameupdate/dufr, status/check/lint]
 species: halfling
 born: 1701
 gender: male
@@ -19,8 +19,9 @@ POV: 1749
 > [!taelgar-header]
 > (halfling, he/him, b. 1701)
 
-> [!image|right]
-> ![[mica-copperharp.webp|250]]
+> [!image|right standard]
+> ![[mica-copperharp.webp]]
+> *Mica Copperharp*
 
 Mica Copperharp is a halfling sailor, formerly part of the crew of the [[Stormdancer]], who followed his wife, [[Willow Copperharp]], to join the crew of [[Vindristjarna]]. He is a comic, a joker, good with his hands and the drums, but not always the most subtle or careful with his words. He is a good brewer, and likes a mug of ale and meeting new people.
 

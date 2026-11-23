@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: human
 ancestry: Sembaran
 gender: male
@@ -17,12 +17,13 @@ POV: 1720
 > [!taelgar-header]
 > (human, Sembaran, he/him)
 
+> [!image|right standard]
+> ![[hubert-moreau.webp]]
+> *Hubert Moreau*
+
 Hubert Moreau was the intended heir to the barony of [[Fellburn]] and is the twin brother of [[Elise Moreau]]. During the [[Undead Attacks in Sembara|undead attacks of DR 1720]], he panicked and ordered the city gates closed, leaving his father and farmers outside to be killed.
 
 On January 25, 1720, [[Jacques Bellemont]] awarded the barony to Elise and exiled Hubert from the Duchy of Wisford, permitting him to return when he had found bravery and better judgment.
-
-> [!image|left]
-> ![[hubert-moreau.webp|400]]
 
 %%^Metadata:names:v1%%
 - {name: Hubert Moreau, language: Sembaran, pronunciation: oo-BEHR moh-ROH, status: documented}

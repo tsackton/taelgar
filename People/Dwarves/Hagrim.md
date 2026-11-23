@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
-tags: [person, status/cleanup/text, status/cleanup/metadata, status/check/lint, status/check/ai]
+tags: [person, status/cleanup/text, status/cleanup/metadata, status/check/lint]
 species: dwarf
 ancestry: null
 campaignInfo: []
@@ -24,8 +24,9 @@ POV: modern
 
 %% needs significant refactoring, and add campaign info %%
 
-> [!image|right]
-> ![[hagrim-portrait.webp|400]]
+> [!image|right standard]
+> ![[hagrim-portrait.webp]]
+> *Hagrim of Morkalan*
 
 A dwarf, once known as Hagrim Firebrand, who made a name for himself in the [[Great War]], but was unable to forget or move past the horrors he saw in battle against mind flayers and the aberrations of the deep, fighting under the halls of [[Ardith]]. Whether he was broken by battle or his mind was corrupted by those evils, he returned a changed man.
 

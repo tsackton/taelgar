@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: elf
 ancestry: null
 campaignInfo:
@@ -22,8 +22,9 @@ POV: 1740s
 > [!taelgar-header]
 > (elf, she/her, ka 37, b. 1712, lives in Erelion)
 
-> [!image|right]
-> ![[ealwen-portrait.webp|400]]
+> [!image|right standard]
+> ![[ealwen-portrait.webp]]
+> *Ealwen*
 
 Ealwen is a gardener and herbalist, who lives in Erelion. She is an expert in tending to plants, especially the magical plants of Orenlas from which all the elves need grow. She is fascinated with plants, and is spending her first leya trying to deeply understand their minds and ways of thinking and feeling.
 

@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
-tags: [person, status/cleanup/text, status/check/lint, status/check/ai]
+tags: [person, status/cleanup/text, status/check/lint]
 species: orc
 gender: female
 born: 1698
@@ -23,8 +23,9 @@ POV: 1749
 > [!taelgar-header]
 > (orc, she/her, b. 1698)
 
-> [!image|right]
-> ![[aygul-portrait.webp|320]]
+> [!image|right standard]
+> ![[aygul-portrait.webp]]
+> *Aygul*
 
 An orc brawler and fighter, who sees herself as a defender of her people and especially her twin sister, [[Nuzkar]]. A loner, with no other family.
 

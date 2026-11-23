@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: human
 ancestry: Tollender
 gender: male
@@ -16,8 +16,9 @@ POV: 1749
 > [!taelgar-header]
 > (human, Tollender, he/him, lives in Tollen)
 
-> [!image|right]
-> ![[adam-gower.webp|300]]
+> [!image|right standard]
+> ![[adam-gower.webp]]
+> *Adam Gower*
 
 Factor, treasurer, and agent for the [[Dunmar Fellowship]] in Tollen.
 

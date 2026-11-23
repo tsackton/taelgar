@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-28T16:53:46-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: human
 ancestry: Sembaran
 gender: female
@@ -20,8 +20,9 @@ POV: 1720
 > [!taelgar-header]
 > (human, Sembaran, she/her, lives in Cleenseau)
 
-> [!image|right]
-> ![[constance-farnham.webp|320]]
+> [!image|right standard]
+> ![[constance-farnham.webp]]
+> *Constance Farnham*
 
 The innkeeper of [[The River's Blessing]] along with her large family.
 

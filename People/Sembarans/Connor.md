@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
 born: 1684
@@ -19,8 +19,9 @@ POV: 1720
 > [!taelgar-header]
 > (human, Sembaran, he/him, b. 1684, lives in Asineau)
 
-> [!image|right]
-> ![[connor-guard.webp|320]]
+> [!image|right standard]
+> ![[connor-guard.webp]]
+> *Connor*
 
 Connor grew up in Asineau, and his family is still around. He was enthusiastic about carrying out [[Lorin Valbert|Lord Valbert's]] orders, and the word around the village is that people thought he was a little bit in love with [[Isolde]] and was always trying to impress her by copying what she did. He comes across as pretty average in every way, and his wife is often snide to him and he is nasty to her. His younger sister has fond memories of him as a kid though, and tells a story of how he heroically fended off three stray hungry wolves from a pack of village children playing in the woodlot, but worries that man is gone.
 

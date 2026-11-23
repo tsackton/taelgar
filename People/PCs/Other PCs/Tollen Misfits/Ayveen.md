@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-18T23:43:15-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: human
 ancestry: Tollish
 gender: female
@@ -23,8 +23,9 @@ POV: 1740
 > [!taelgar-header]
 > (human, Tollish, she/her, b. 1727, lives in Tollen)
 
-> [!image|right]
-> ![[ayveen.webp|400]]
+> [!image|right standard]
+> ![[ayveen.webp]]
+> *Ayveen*
 
 Ayveen is a Tollish human adventurer and musician from [[Tollen]], and a member of the [[Tollen Misfits]]. Hopeful and patient, she helps ground her companions through her music and stories.
 

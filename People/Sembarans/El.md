@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: human
 ancestry: Sembaran
 gender: enby
@@ -19,8 +19,9 @@ POV: 1720
 > [!taelgar-header]
 > (human, Sembaran, they/them, b. 1683)
 
-> [!image|right]
-> ![[el-wyrdling.webp|320]]
+> [!image|right standard]
+> ![[el-wyrdling.webp]]
+> *El*
 
 A disciple of the Wyrdling, recently blessed with several miracles. They grew up the child of a rich merchant in [[Gowerbourne]], and found the Wyrdling in mid-life.
 

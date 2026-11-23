@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: human
 ancestry: Sembaran
 born: 1698
@@ -17,8 +17,9 @@ POV: 1720
 > [!taelgar-header]
 > (human, Sembaran, she/her, b. 1698, lives in Taviose)
 
-> [!image|right]
-> ![[abilgail-moss.webp|320]]
+> [!image|right standard]
+> ![[abilgail-moss.webp]]
+> *Abigail Moss*
 
 Abigail is a somewhat shy farmer whose orchard was infected with the remains of the giant spiders that plagued [[Taviose]]. [[Robin of Abenfyrd|Robin]] was able to disinfect it with his lay on hands ability. Her family was killed in the spider attacks, and she has struggled to maintain the family orchard, which is mostly walnuts and chestnuts and hugs the edge of [[Cleenseau Wood]].
 

@@ -2,7 +2,7 @@
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 displayDefaults: {boxInfo: "<subspecies:sA> (<species>), <pronouns>"}
-tags: [person, status/check/ai]
+tags: [person]
 species: celestial
 subspecies: gidari
 campaignInfo: null
@@ -23,8 +23,9 @@ POV: modern
 > [!taelgar-header]
 > (celestial, they/them, lives in Land of the Dead)
 
-> [!image|right]
-> ![[motua.webp|400]]
+> [!image|right standard]
+> ![[motua.webp]]
+> *Motua*
 
 One of the guardians of the [[Land of the Dead]], a [[Gidari]], who is native to the [[Land of the Dead]] and serves as a guide and protector of souls on their journey beyond the veil.
 

@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
-tags: [person, status/cleanup/metadata, status/check/lint, status/check/ai]
+tags: [person, status/cleanup/metadata, status/check/lint]
 species: human
 ancestry: Dunmari
 campaignInfo: []
@@ -20,8 +20,9 @@ POV: 1748
 
 %%need to organize whereabouts and campaign info for Jumi%%
 
-> [!image|right]
-> ![[jumi.webp|300]]
+> [!image|right standard]
+> ![[jumi.webp]]
+> *Jumi*
 
 [[Cintra]]'s young daughter, and a magical prodigy, blessed by the spirit of [[Shakun]].
 

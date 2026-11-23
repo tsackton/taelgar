@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-28T16:53:46-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: halfling
 born: 1678
 gender: male
@@ -21,8 +21,9 @@ POV: 1730
 > [!taelgar-header]
 > (halfling, he/him, b. 1678, lives in Zimkova)
 
-> [!image|right]
-> ![[finnan-oakstride.webp|360]]
+> [!image|right standard]
+> ![[finnan-oakstride.webp]]
+> *Finnan Oakstride*
 
 Finnan Oakstride is a halfling storyteller, a wanderer, and a collector of tales.
 

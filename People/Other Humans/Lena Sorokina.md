@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: human
 ancestry: Urskan
 gender: female
@@ -17,8 +17,9 @@ POV: 1740s
 > [!taelgar-header]
 > (human, Urskan, she/her, lives in Zvervinka)
 
-> [!image|right]
-> ![[lena-portrait-v5.webp|400]]
+> [!image|right standard]
+> ![[lena-portrait-v5.webp]]
+> *Lena Sorokina*
 
 Lena is a member of the magical [[Eyes of Vedmakov|Watchers]], known for her political connection among several of the [[Rodnya|rodnye]]. She is also well-connected among the elite of [[Zvervinka]], though what her actual title and position in the [[Eyes of Vedmakov|Watchers]] is is not clear.
 

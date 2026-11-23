@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: human
 ancestry: Skaer
 campaignInfo:
@@ -23,8 +23,9 @@ POV: 1748
 > [!taelgar-header]
 > (human, Skaer, she/her, b. 1724)
 
-> [!image|right]
-> ![[laivan-iskra.webp|500]]
+> [!image|right standard]
+> ![[laivan-iskra.webp]]
+> *Laivan Iskra*
 
 A young woman and priestess of [[Kaikkea]] in [[Tollen]]. She speaks with the power of the ocean, and has a deep connection to [[Kaikkea]].
 

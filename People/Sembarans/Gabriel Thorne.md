@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: human
 ancestry: Sembaran
 born: 1690
@@ -19,8 +19,9 @@ POV: 1720s
 > [!taelgar-header]
 > (human, Sembaran, he/him, b. 1690, lives in Cleenseau)
 
-> [!image|right]
-> ![[gabriel-thorne.webp|320]]
+> [!image|right standard]
+> ![[gabriel-thorne.webp]]
+> *Gabriel Thorne*
 
 The son of [[Gideon Thorne]] and husband to [[Beatrix Thorne|Beatrix]]. A yeoman.
 

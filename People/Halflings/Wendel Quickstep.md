@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: halfling
 ancestry: null
 campaignInfo:
@@ -25,6 +25,10 @@ POV: 1740s
 > [!taelgar-header]
 > (halfling, he/him, b. 1671)
 
+> [!image|right standard]
+> ![[wendel-quickstep.webp]]
+> *Wendel Quickstep*
+
 Wendel is the long-time proprietor of *The Windward Sail*, a busy sailor's tavern in [[Fiskurth]]. Known as a place for tales and stories - some true, many not - and a place for gossip, as well as a place to find a crew. Has a few dirty, cramped rooms stacked with "human sized" bunks, and some slightly more comfortable halfling rooms. 
 ## Relationships
 Wendel knows several regulars of [[The Windward Sail]] well, including:
@@ -32,9 +36,6 @@ Wendel knows several regulars of [[The Windward Sail]] well, including:
 - [[Nika Hyne|Nika]], a collector of tales and legends, with connections to the [[University of Tollen]]
 
 %%SECRET[v2:284222bcc889df56acc82e5a3df5e98e]%%
-
-> [!image|right standard]
-> ![[wendel-quickstep.webp]]
 
 %%^Metadata:names:v1%%
 - {name: Wendel Quickstep, language: unknown}

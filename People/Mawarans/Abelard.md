@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: human
 ancestry: Mawaran
 gender: male
@@ -18,8 +18,9 @@ POV: 1747
 > [!taelgar-header]
 > (human, Mawaran, he/him)
 
-> [!image|right]
-> ![[abelard.webp|300]]
+> [!image|right standard]
+> ![[abelard.webp]]
+> *Abelard*
 
 Abelard is a storyteller, singer, and tavern performer who hangs around the [[Leviathan Inn]] in [[Hamri]]. He is originally from a small town in the hinterland of the [[Chardonian Empire]], but has been a familiar presence in Hamri for the past ten years.
 

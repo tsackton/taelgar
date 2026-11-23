@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: human
 ancestry: Mawaran
 campaignInfo:
@@ -18,8 +18,9 @@ POV: 1740s
 > [!taelgar-header]
 > (human, Mawaran, he/him, lives in Hamri)
 
-> [!image|right]
-> ![[yaz-mawar.webp|300]]
+> [!image|right standard]
+> ![[yaz-mawar.webp]]
+> *Yaz*
 
 Yaz is an elderly Mawaran ocean watcher who lives alone in an isolated tower above [[Hamri]]. He has short white hair pulled back in a ponytail and is known for his intense attention to the moods, mysteries, and old lore of the western ocean.
 

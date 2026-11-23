@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: lizardfolk
 ancestry: null
 campaignInfo:
@@ -23,8 +23,9 @@ POV: 1749
 > [!taelgar-header]
 > (lizardfolk, she/her, b. 1706)
 
-> [!image|right]
-> ![[eztain.webp|400]]
+> [!image|right standard]
+> ![[eztain.webp]]
+> *Eztain*
 
 Eztain is a lizardfolk warrior, who serves as the representative of various lizardfolk militias and war bands to the [[Refounded Alliance of Aurbez]]. She has a predatory grin, and is eager to fight.
 

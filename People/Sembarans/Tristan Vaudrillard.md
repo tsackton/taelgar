@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
-tags: [person, status/cleanup/text, status/check/lint, status/check/ai]
+tags: [person, status/cleanup/text, status/check/lint]
 species: human
 ancestry: Sembaran
 born: 1698
@@ -25,8 +25,9 @@ POV: 1720
 > [!taelgar-header]
 > (human, Sembaran, he/him, b. 1698)
 
-> [!image|right]
-> ![[tristan-vaudrillard.webp|400]]
+> [!image|right standard]
+> ![[tristan-vaudrillard.webp]]
+> *Tristan Vaudrillard*
 
 A devotee of [[The Sibyl]] and student of magic.
 

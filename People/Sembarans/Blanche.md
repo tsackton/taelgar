@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: human
 ancestry: Sembaran
 gender: female
@@ -17,8 +17,9 @@ POV: 1720
 > [!taelgar-header]
 > (human, Sembaran, she/her, b. 1687, lives in Beury)
 
-> [!image|right]
-> ![[blanche-of-beury.webp|320]]
+> [!image|right standard]
+> ![[blanche-of-beury.webp]]
+> *Blanche*
 
 [[Lionel Mortagne|Lionel's]] right hand, and the magistrate of [[Beury]].
 

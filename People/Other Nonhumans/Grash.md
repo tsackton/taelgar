@@ -2,7 +2,7 @@
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 displayDefaults: {endStatus: killed}
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: undead
 subspecies: skeletal
 campaignInfo:
@@ -26,8 +26,9 @@ POV: modern
 > [!taelgar-header]
 > (undead, he/him, d. 1749)
 
-> [!image|right]
-> ![[image-grash-1.webp|320]]
+> [!image|right standard]
+> ![[image-grash-1.webp]]
+> *Grash*
 
 Known as Grash the Undying, an undead warrior and commander of a large [[Orcs|orc]] army in Kharsan. He possessed the [[Ring of Undying]], and used it to create a large army of orcs and undead.
 

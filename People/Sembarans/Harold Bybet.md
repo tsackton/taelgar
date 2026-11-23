@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
 born: 1691
@@ -17,8 +17,9 @@ POV: 1720s
 > [!taelgar-header]
 > (human, Sembaran, he/him, b. 1691, lives in Cleenseau)
 
-> [!image|right]
-> ![[harold-bybet.webp|320]]
+> [!image|right standard]
+> ![[harold-bybet.webp]]
+> *Harold Bybet*
 
 The husband of [[Annet Bybet]], he is a dear friend from childhood of [[Rinault Essford|Rinault]] and a keen hunter and horseman. He lives at [[Essford Manor]].
 

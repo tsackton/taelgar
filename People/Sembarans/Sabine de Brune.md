@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
 born: 1662
@@ -24,8 +24,9 @@ POV: 1720
 
 %% end date of Valit needs to be confirmed with session notes for Cleenseau - when she left Veltor %%
 
-> [!image|right]
-> ![[sabine-de-brune-valit.webp|320]]
+> [!image|right standard]
+> ![[sabine-de-brune-valit.webp]]
+> *Sabine de Brune*
 
 Sabine de Brune was the castellan of the [[Manor of Valit]], a vassal of the [[Barony of Aveil|Baron of Aveil]], until her disappearance in early 1720. Organized about managing the manor, but with a soft spot for bardic tales and romance. Never married, although is rumored to have had several great loves in her youth. She was also the magistrate for the village of [[Valit]].
 

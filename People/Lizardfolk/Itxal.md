@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: lizardfolk
 ancestry: null
 campaignInfo:
@@ -23,8 +23,9 @@ POV: 1749
 > [!taelgar-header]
 > (lizardfolk, she/her, lives in Aursen Marshes)
 
-> [!image|right]
-> ![[ixtal.webp|400]]
+> [!image|right standard]
+> ![[ixtal.webp]]
+> *Itxal*
 
 Itxal is an elderly lizardfolk matriarch of the Aursen Marshes, protective of her people.
 

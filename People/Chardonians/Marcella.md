@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-25T23:14:40-04:00"
 lintVersion: "3.5"
-tags: [person, status/cleanup/text, status/cleanup/metadata, status/check/lint, status/check/ai]
+tags: [person, status/cleanup/text, status/cleanup/metadata, status/check/lint]
 species: human
 ancestry: Chardonian
 campaignInfo:
@@ -26,14 +26,15 @@ POV: 1748
 %% fix text to change session links %%
 %% might resurface if dunmar group ever goes to Aurbez area %%
 
+> [!image|right standard]
+> ![[marcella.webp]]
+> *Marcella*
+
 A nondescript Chardonian woman, short brown hair and a plain face. An archer, skilled with a bow, wears well-tended leather armor under a traveling cloak. 
 
 Traveled uneasily with [[Kadmos]], [[Hektor]], [[Casian]], and [[Antonia]]. 
 
 Felt forced to try to steal from party in [[Session 44 (DuFr)]], but when given the push by [[Wellby]] to flee for herself at the end of battle figures out how to make her escape. Disappears when [[Kadmos]] and company are fighting [[Kobolds]] in the [[Myraeni Gap]], heading for the Stoneborn and then Sembara. 
-
-> [!image|right]
-> ![[marcella.webp|500]]
 
 %%SECRET[v2:584534ea4bc260ef7a1dff1e40e1ff9f]%%
 

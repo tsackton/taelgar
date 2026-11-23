@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-23T12:50:50-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: unknown
 name: Prisoner in the 27th Room
 whereabouts:
@@ -26,8 +26,8 @@ The Prisoner never spoke its true name. It was/is/will be known as the Child by 
 
 The being came from the black nothingness outside the universe and made its home at the bottom of a bottomless well. There, [[Lord Endless Ending|Lord Revel Beginning]] found it as a lost child and patiently taught it language, letters, stories, games, how to grow itself into buildings, and how to stretch its roots outward. When the Lord left to begin their party, they promised to return afterward. The child understood that they would not, and remembered its teacher with love despite the separation.
 
-> [!image|left]
-> ![[prisoner-dandelion-form-v2.webp|400]]
+> [!image|figure standard]
+> ![[prisoner-dandelion-form-v2.webp]]
 > *The prisoner as they really appear*
 
 When mortals began visiting, the being found their dreams/souls beautiful and kept them from passing onward. Members of [[Arithrimos Lamperum]] arrived bearing cold iron and weapons, praised its ability to hide souls, and promised it more dreams if it lived inside the house they built around it. They then used the pressure of the trapped souls to power the prison and kept its location moving through space and time so that the being could not foresee a way out.

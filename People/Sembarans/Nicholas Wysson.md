@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
 born: 1697
@@ -21,8 +21,9 @@ POV: 1719
 > [!taelgar-header]
 > (human, Sembaran, he/him, b. 1697)
 
-> [!image|right]
-> ![[nicholas-wysson.webp|320]]
+> [!image|right standard]
+> ![[nicholas-wysson.webp]]
+> *Nicholas Wysson*
 
 The youngest nephew of a military captain, he was recently appointed magistrate despite having barely more than twenty summers. Clean-shaven and thin, he often appears somewhat lost in thought.
 

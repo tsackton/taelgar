@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T18:19:15-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: human
 ancestry: Sembaran
 gender: female
@@ -17,8 +17,9 @@ POV: 1720s
 > [!taelgar-header]
 > (human, Sembaran, she/her, lives in Aslain)
 
-> [!image|left]
-> ![[christina-winchelsea-aveil.webp|200]]
+> [!image|right standard]
+> ![[christina-winchelsea-aveil.webp]]
+> *Temple Steward Christiana Winchelsea*
 
 Christiana Winchelsea is the well-loved steward of the large temple of [[The Mother]] in [[Aslain]]. Welcoming and approachable, she is a central source of help for the community in times of crisis.
 

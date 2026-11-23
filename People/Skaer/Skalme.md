@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: human
 ancestry: Skaer
 campaignInfo:
@@ -23,8 +23,9 @@ POV: 1740s
 > [!taelgar-header]
 > (human, Skaer, she/her, b. 1707)
 
-> [!image|right]
-> ![[skalme-portrait.webp|400]]
+> [!image|right standard]
+> ![[skalme-portrait.webp]]
+> *Skalme*
 
 Skalme, known as the Priestess of Fire, is the divine protector of the elemental fire, the volcano known as  Kuaine (coo-ine-a), on the Skaer volcanic island of [[Antaka]]. She is a powerful divine magic user.
 

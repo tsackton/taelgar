@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-23T23:02:51-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: orc
 born: 1698
 gender: female
@@ -23,8 +23,9 @@ POV: 1749
 > [!taelgar-header]
 > (orc, she/her, b. 1698)
 
-> [!image|right]
-> ![[nuzkar-potrait.webp|320]]
+> [!image|right standard]
+> ![[nuzkar-potrait.webp]]
+> *Nuzkar*
 
 An orc scholar, loremaster, and archivist, seeking stories, rumors, and information about other free orcs, about how [[Thark]]'s enslavement works, and how to free more of her people. She has a twin sister, [[Aygul]], as well as a husband and large family in Uzgukhar.
 

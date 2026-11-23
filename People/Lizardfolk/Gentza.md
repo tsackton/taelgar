@@ -2,7 +2,7 @@
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 displayDefaults: {endStatus: murdered by bandits}
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: lizardfolk
 born: 1681
 gender: female
@@ -19,8 +19,9 @@ POV: 1719
 > [!taelgar-header]
 > (lizardfolk, she/her, b. 1681, d. 1719, lives in Ganboa)
 
-> [!image|right]
-> ![[lizardfolk-gentza.webp|320]]
+> [!image|right standard]
+> ![[lizardfolk-gentza.webp]]
+> *Gentza*
 
 An apprentice lizardfolk herbalist, said to be skilled at experimenting with remedies. She is a regular at the [[Cleenseau]] market where she sells herbal cures to humans, and is always interested in new maladies or remedies for them. She often sells to [[Mermin Stonebridge]], a budding halfling merchant.
 

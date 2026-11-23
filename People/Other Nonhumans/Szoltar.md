@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: hobgoblin
 ancestry: null
 campaignInfo:
@@ -24,8 +24,9 @@ POV: 1749
 > [!taelgar-header]
 > (hobgoblin, he/him)
 
-> [!image|right]
-> ![[szoltar.webp|400]]
+> [!image|right standard]
+> ![[szoltar.webp]]
+> *Szoltár*
 
 A captured soldier in the army of the [[Empress of Chaos]].
 

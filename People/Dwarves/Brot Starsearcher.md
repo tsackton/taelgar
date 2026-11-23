@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: dwarf
 born: 1579
 gender: nonbinary
@@ -21,8 +21,9 @@ POV: 1720
 > [!taelgar-header]
 > (dwarf, they/them, b. 1579)
 
-> [!image|right]
-> ![[brot-portrait.webp|320]]
+> [!image|right standard]
+> ![[brot-portrait.webp]]
+> *Brot Starsearcher*
 
 A dwarven astronomer and tinkerer known for their clever telescope designs who lives in [[Taviose]], a small village on the outskirts of [[Cleenseau]].
 

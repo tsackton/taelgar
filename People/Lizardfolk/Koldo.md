@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: lizardfolk
 ancestry: null
 born: 1512
@@ -17,8 +17,9 @@ POV: 1720s
 > [!taelgar-header]
 > (lizardfolk, he/him, b. 1512, lives in Ganboa)
 
-> [!image|right]
-> ![[lizardfolk-koldo.webp|320]]
+> [!image|right standard]
+> ![[lizardfolk-koldo.webp]]
+> *Koldo*
 
 A reclusive druid, very rarely talks to outsiders.
 

@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T18:19:15-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: human
 ancestry: Sembaran
 gender: female
@@ -20,8 +20,9 @@ POV: 1720s
 > [!taelgar-header]
 > (human, Sembaran, she/her, lives in Aslain)
 
-> [!image|left]
-> ![[emma-marston.webp|200]]
+> [!image|right standard]
+> ![[emma-marston.webp]]
+> *Emma Marston*
 
 Emma Marston is a Sembaran magistrate of [[Aslain]].
 

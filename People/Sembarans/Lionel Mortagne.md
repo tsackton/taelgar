@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: human
 ancestry: Sembaran
 gender: male
@@ -19,8 +19,9 @@ POV: 1720s
 > [!taelgar-header]
 > (human, Sembaran, he/him, b. 1686, lives in Beury)
 
-> [!image|right]
-> ![[lionel-mortagne.webp|320]]
+> [!image|right standard]
+> ![[lionel-mortagne.webp]]
+> *Lionel Mortagne*
 
 The captain of [[Erick Murtha|Lord Murtha's]] household guard.
 

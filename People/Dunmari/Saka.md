@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-08T12:57:14-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: human
 ancestry: Dunmari
 campaignInfo:
@@ -24,8 +24,9 @@ POV: 1748
 > [!taelgar-header]
 > (human, Dunmari, she/her, b. 1664, lives in Varashan)
 
-> [!image|right]
-> ![[saka.webp|350]]
+> [!image|right standard]
+> ![[saka.webp]]
+> *Saka*
 
 Saka is an eldery woman, and a Master of the [[Order of the Awakened Soul|Mystai of Bhishma]]. She grew up outside [[Tokra]], and now travels with her horse-herding family on the [[Varashan]], helped by her niece [[Jita of Tokra|Jita]].
 

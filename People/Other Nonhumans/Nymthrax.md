@@ -2,7 +2,7 @@
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 displayDefaults: {endStatus: "Killed by the [[Silver Tempests]] on"}
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: dragon
 subspecies: black dragon
 gender: male
@@ -20,8 +20,8 @@ POV: modern
 > [!taelgar-header]
 > (dragon, he/him, d. 1748)
 
-> [!image|right]
-> ![[nymthrax.webp|400]]
+> [!image|right standard]
+> ![[nymthrax.webp]]
 > *Nymthrax on a ruined church*
 
 A black dragon who established a lair in the [[Blackwater Fens]] in the DR 1700s. As he grew in power in the DR 1730s and DR 1740s, his expanding sphere of influence disrupted the balance of power on the northern frontier, eventually creating the conditions for the growth in power of [[Grumella's Horde]].

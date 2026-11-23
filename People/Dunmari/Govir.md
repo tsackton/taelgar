@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-08T12:28:58-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: human
 ancestry: Dunmari
 born: 1708
@@ -20,8 +20,9 @@ POV: 1740s
 > [!taelgar-header]
 > (human, Dunmari, he/him, b. 1708, lives in Tokra)
 
-> [!image|right]
-> ![[govir.webp|400]]
+> [!image|right standard]
+> ![[govir.webp]]
+> *Govir*
 
 Govir is a Dunmari scholar and the Master of Records at the [[Archives|Tokra Archives]]. Devout and single-minded, he is gathering [[Session 35 (DuFr)|accounts of the victories and miracles]] which he believes shows that the [[Dunmari Pantheon|gods]] have upheld and supported the [[Nayan Dynasty]]. He holds [[Yarad|Samraat Nayan Yarad]] in particular esteem, seeing in his victories evidence of divine favor.
 

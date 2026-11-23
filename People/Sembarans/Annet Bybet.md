@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: human
 ancestry: Sembaran
 born: 1692
@@ -26,8 +26,9 @@ POV: 1720s
 > [!taelgar-header]
 > (human, Sembaran, she/her, b. 1692)
 
-> [!image|right]
-> ![[annet-bybet.webp|320]]
+> [!image|right standard]
+> ![[annet-bybet.webp]]
+> *Annet Bybet*
 
 A cousin of [[Arthur Essford]] and the chamberlain of the [[Essfords|Essford]] household.
 

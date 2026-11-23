@@ -33,8 +33,9 @@ POV: 1720
 > [!taelgar-header]
 > (human, Sembaran, she/her, b. 1677, lives in Cleenseau)
 
-> [!image|right]
-> ![[lady-rosalind-essford.webp|320]]
+> [!image|right standard]
+> ![[lady-rosalind-essford.webp]]
+> *Lady Rosalind Essford*
 
 The daughter of [[Wymar Essford|Wymar]], short, and with hair just beginning to grey, but forceful out of proportion to her size, and with a sharp intelligence to her eyes. Popular with the townspeople and said to be wise and fair. She married [[Arthur Essford]] in 1706, and their match has been a good and popular one.
 

@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: human
 ancestry: Isinguer
 campaignInfo:
@@ -22,8 +22,9 @@ POV: 1740s
 > [!taelgar-header]
 > (human, Isinguer, he/him, b. 1691, lives in Tollen)
 
-> [!image|right]
-> ![[hugo-dupont-portrait.webp|320]]
+> [!image|right standard]
+> ![[hugo-dupont-portrait.webp]]
+> *Hugo Dupont*
 
 Hugo Dupont is a scholar and theologian, and a lecturer at the university, known for his classes on comparative divinity and theological science, particularly a series of lectures and scholastic discourse on the nature of intercessionary prayer, and the intertwined divinities of the [[Mos Numena|Eight Divines]].
 

@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: unknown
 speciesAlias: tiger-headed mortal
 gender: male
@@ -18,8 +18,9 @@ POV: 1740
 > [!taelgar-header]
 > (he/him)
 
-> [!image|right]
-> ![[rakshasa-feywild.webp|300]]
+> [!image|right standard]
+> ![[rakshasa-feywild.webp]]
+> *Rakshasa*
 
 The Rakshasa is a tiger-headed mortal guest at [[Lord Endless Ending's Manor]]. He is a massive, well-dressed tiger-man, about eight feet tall, imposing and strange, who keeps his own counsel and smokes a pipe. He collects stories, and claims to have been obsessed with the stories that unfold in the twilight after sunset, visiting the houses of the Twilight Kingdom studying and collecting them. But does not share them freely.
 

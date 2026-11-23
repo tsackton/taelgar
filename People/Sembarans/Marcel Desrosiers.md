@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-18T23:43:15-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: human
 ancestry: Sembaran
 gender: male
@@ -20,8 +20,9 @@ POV: 1720s
 > [!taelgar-header]
 > (human, Sembaran, he/him, lives in Duchy of Wisford)
 
-> [!image|right]
-> ![[marcel-desrosiers.webp|420]]
+> [!image|right standard]
+> ![[marcel-desrosiers.webp]]
+> *Marcel Desrosiers*
 
 Marcel Desrosiers is a Sembaran human and captain of the household guard of [[Jacques Bellemont]], Duke of Wisford. During the [[Undead Attacks in Sembara]] in DR 1720, he coordinated with soldiers and regimental commanders in the duke’s army and was instrumental in restoring order along the [[Enst]].
 

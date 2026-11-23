@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: elf
 ka: 37
 gender: male
@@ -20,8 +20,9 @@ POV: 1749
 > [!taelgar-header]
 > (elf, he/him, ka 37)
  
-> [!image|right]
-> ![[egnir.webp|300]]
+> [!image|right standard]
+> ![[egnir.webp]]
+> *Égnir*
 
 Egnir is a young elf from [[Orenlas]], venturing forth from the shelter of the elven forests for the first time. He is quiet and reserved, and does not speak much. However, he has an incredible knack for plants, and is an expert gardener.
 

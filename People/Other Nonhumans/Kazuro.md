@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
-tags: [person, status/gameupdate/dufr, status/check/lint, status/check/ai]
+tags: [person, status/gameupdate/dufr, status/check/lint]
 species: stoneborn
 gender: male
 name: Kazuro
@@ -16,10 +16,11 @@ POV: 1749
 
 %% needs whereabouts, DM notes %%
 
-A stoneborn hermit living somewhere on the coast of [[Cedrano]], known for his skill in alchemy and attunement to the ocean. 
-
 > [!image|right standard]
 > ![[kazuro-portrait.webp]]
+> *Kazuro*
+
+A stoneborn hermit living somewhere on the coast of [[Cedrano]], known for his skill in alchemy and attunement to the ocean. 
 
 %%SECRET[v2:6e1c4517ac76b191c8bb0c0a0497143d]%%
 

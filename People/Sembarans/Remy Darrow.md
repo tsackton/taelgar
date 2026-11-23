@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
 campaignInfo:
@@ -20,8 +20,9 @@ POV: 1719
 > [!taelgar-header]
 > (human, Sembaran, he/him, b. 1640, lives in Taviose)
 
-> [!image|right]
-> ![[remy-darrow.webp|320]]
+> [!image|right standard]
+> ![[remy-darrow.webp]]
+> *Grandpa Remy Darrow*
 
 Grandpa Remy is well-liked for his off-color jokes and his fondness for apple brandy. He was saved from death by [[Izgil Moonseeker|Izgil's]] magic and has become one of the biggest boosters of the [[Heroes of Cleenseau]].
 

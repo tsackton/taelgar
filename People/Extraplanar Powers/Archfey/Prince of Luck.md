@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-28T16:53:46-04:00"
 lintVersion: "3.5"
-tags: [power, status/check/lint, status/check/ai]
+tags: [power, status/check/lint]
 typeOf: archfey
 campaignInfo: null
 gender: male
@@ -18,8 +18,9 @@ POV: modern
 > [!taelgar-header]
 > (archfey, he/him)
 
-> [!image|right]
-> ![[the-prince-of-luck.webp|400]]
+> [!image|right standard]
+> ![[the-prince-of-luck.webp]]
+> *Prince of Luck*
 
 The Prince of Luck, known as the Chanceweaver, is the ruler of the domain of Fortune’s Rest, and a charming gambler ruling over an endless casino court.
 

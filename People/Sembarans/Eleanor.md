@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-23T23:02:51-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: human
 ancestry: Sembaran
 gender: female
@@ -17,8 +17,9 @@ POV: 1720
 > [!taelgar-header]
 > (human, Sembaran, she/her, b. 1659, lives in Asineau)
 
-> [!image|right]
-> ![[eleanor.webp|320]]
+> [!image|right standard]
+> ![[eleanor.webp]]
+> *Eleanor*
 
 A temple administrator of the Wyrdling, and well-known in the region. Has been mostly bedridden since the spring of 1719. Eleanor's mother was originally from the [[Barony of Vaubonne]].
 

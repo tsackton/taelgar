@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-25T09:29:24-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: human
 ancestry: Aurbeze
 campaignInfo:
@@ -23,8 +23,9 @@ POV: 1749
 > [!taelgar-header]
 > (human, Aurbeze, he/him, lives in Aurbez Plateau)
 
-> [!image|right]
-> ![[perrin-du-bois.webp|400]]
+> [!image|right standard]
+> ![[perrin-du-bois.webp]]
+> *Perrin Du Bois*
 
 Perrin is an Aurbeze beekeeper and father of four. He is a smallholder of his own farm, and has recently been elected to represent the scattered smallholds and isolated farms across the [[Aurbez Plateau]] in Alliance councils.
 

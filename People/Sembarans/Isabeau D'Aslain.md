@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
-tags: [person, status/gameupdate/clee, status/check/lint, status/check/ai]
+tags: [person, status/gameupdate/clee, status/check/lint]
 species: human
 ancestry: Sembaran
 born: 1672
@@ -23,8 +23,9 @@ POV: 1720
 > [!taelgar-header]
 > (human, Sembaran, she/her, b. 1672)
 
-> [!image|right]
-> ![[baroness-isabeau.webp|320]]
+> [!image|right standard]
+> ![[baroness-isabeau.webp]]
+> *Baroness Isabeau D'Aslain*
 
 The baroness of the [[Barony of Aveil]].
 

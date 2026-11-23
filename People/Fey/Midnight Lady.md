@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: fey
 subspecies: hag
 name: The Midnight Lady
@@ -22,10 +22,11 @@ A mysterious fey recently arrived in [[Peydon]]. Known by many in the village as
 
 %% Images
 
-![[midnight-lady-true.webp|left|400]]
-
-
-![[midnight-lady-disguised.webp|left|400]]
+> [!gallery]
+> - ![[midnight-lady-true.webp]]
+>   *The Midnight Lady*
+> - ![[midnight-lady-disguised.webp]]
+>   *The Midnight Lady*
 
 %%
 

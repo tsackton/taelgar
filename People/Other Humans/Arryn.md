@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: human
 ancestry: Tollender
 campaignInfo:
@@ -22,8 +22,9 @@ POV: 1748
 > [!taelgar-header]
 > (human, Tollender, he/him)
 
-> [!image|right]
-> ![[arryn-the-wanderer-portrait.webp|400]]
+> [!image|right standard]
+> ![[arryn-the-wanderer-portrait.webp]]
+> *Arryn of Tollen*
 
 A wizard of significant power. Originally from [[Tollen]], but now dwells in a tower in the northern part of the [[Eastern Isles]]. Fascinated by other dimensions, recently the hypothesized [[Mirror Realm]] in particular.
 

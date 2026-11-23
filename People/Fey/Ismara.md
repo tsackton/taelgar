@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: fey
 gender: female
 name: Ismara
@@ -19,8 +19,9 @@ POV: 1740s
 > [!taelgar-header]
 > (fey, she/her)
 
-> [!image|right]
-> ![[ismara.webp|300]]
+> [!image|right standard]
+> ![[ismara.webp]]
+> *Ismara*
 
 Ismara is a wanderer and a scholar of humanity, an archivist of the [[Material Plane|Mundane World]]. She is curious and bright, and prone to travel where fate takes her, although she tends to shy from danger.
 

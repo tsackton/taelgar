@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: human
 gender: female
 name: Corrine Morphokamia
@@ -17,17 +17,19 @@ POV: 1720
 > [!taelgar-header]
 > (human, she/her, lives in Enclaut)
 
+> [!image|right standard]
+> ![[corrine-healthy.webp]]
+> *Corrine Morphokamia*
+
 Corrine Morphokamia is a wizard who studies transformation and lives in [[Enclaut]], beside [[Lake Rin]]. She is a trans woman whose interest in transformation began in childhood, when she recognized that her inner self and physical form were distinct. She has ties to [[Tollen]], but her studies have drawn suspicion around [[Rinburg]].
 
 %%^Campaign:clee%%
 In January 1720, Corrine survived a failed expedition against the undead eel in [[Lake Rin]]. The [[Heroes of Cleenseau]] healed her, and she provided hospitality and water-breathing magic for their own expedition into the lake. See [[Cleenseau - Session 13]] and [[Cleenseau - Session 13.1]].
 %%^End%%
 
-> [!image|right standard]
-> ![[corrine-healthy.webp]]
-
-> [!image|right standard]
+> [!image|figure standard]
 > ![[corrine-ill.webp]]
+> *Corrine Morphokamia*
 
 %%^Metadata:names:v1%%
 - {"language": "Drankorian", "name": "Corrine Morphokamia", "notes": "The played conversation identifies the name as Drankorian. Corrine has used her first name for as long as she can remember; Morphokamia sounds like a chosen name, but this is not confirmed.", "pronunciation": "kor-REE-neh mor-foh-KAH-mee-ah", "status": "documented"}

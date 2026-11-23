@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-25T09:29:24-04:00"
 lintVersion: "3.5"
-tags: [person, testcase, status/gameupdate/dufr, status/check/lint, status/check/ai]
+tags: [person, testcase, status/gameupdate/dufr, status/check/lint]
 species: human
 ancestry: Chardonian
 campaignInfo:
@@ -28,8 +28,9 @@ POV: 1748
 
 %% update to reflect events in DuFr game; copy notes from OneNote %%
 
-> [!image|right]
-> ![[antonia-portrait.webp|320]]
+> [!image|right standard]
+> ![[antonia-portrait.webp]]
+> *Antonia*
 
 A lanky, red-haired Chardonian woman, wearing a probably-magical heavy suit of plate armor that seems perfectly molded to fit her body.
 

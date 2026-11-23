@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-28T16:53:46-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: human
 ancestry: Sembaran
 gender: male
@@ -21,8 +21,9 @@ POV: 1720
 > [!taelgar-header]
 > (human, Sembaran, he/him)
 
-> [!image|right]
-> ![[rene-the-scout.webp|320]]
+> [!image|right standard]
+> ![[rene-the-scout.webp]]
+> *Rene Dubois*
 
 A scout and skirmisher with the Eagle Patrol of the Ninth Company of the [[Army of the South]], skilled at spotting unusual events.
 

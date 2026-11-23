@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-13T12:24:51-04:00"
 lintVersion: "3.5"
-tags: [power, status/review, status/check/lint, status/check/ai]
+tags: [power, status/review, status/check/lint]
 typeOf: archfey
 gender: male
 name: Lord Umbraeth
@@ -22,8 +22,9 @@ POV: modern
 
 %% status/review ->  significant in multiple games (Addermarch, and especially Cleenseau) and page is currently very under-detailed for importance %%
 
-> [!image|right]
-> ![[Lord_Umbraeth_Potrait.webp|320]]
+> [!image|right standard]
+> ![[Lord_Umbraeth_Potrait.webp]]
+> *Lord Umbraeth*
 
 Lord Umbraeth, the Gloomshaper, is the ruler of [[Duskmire]].
 

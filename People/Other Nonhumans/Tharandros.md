@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: centaur
 ancestry: null
 campaignInfo:
@@ -25,8 +25,9 @@ POV: 1740s
 > [!taelgar-header]
 > (centaur, he/him)
 
-> [!image|right]
-> ![[tharandros-final.webp|400]]
+> [!image|right standard]
+> ![[tharandros-final.webp]]
+> *Tharandros*
 
 A centaur, the leader of a wandering herd, of indeterminate age. Wise and knowledgeable.
 

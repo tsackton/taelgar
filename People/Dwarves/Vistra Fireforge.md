@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
-tags: [person, status/cleanup/metadata, status/check/lint, status/check/ai]
+tags: [person, status/cleanup/metadata, status/check/lint]
 species: dwarf
 ancestry: null
 born: 1589
@@ -24,15 +24,17 @@ POV: 1740s
 
 %% needs dunmar campaign info in header; tim has some color notes from her later years in Tokra to add  %%
 
-> [!image|right]
-> ![[vistra-fireforge-innkeeper.webp|250]]
+> [!image|right standard]
+> ![[vistra-fireforge-innkeeper.webp]]
+> *Vistra Fireforge*
 
 A dwarven blacksmith, trader, innkeep, and adventurer. She is of the Traveler thuhr and originally from [[Nardith]]. She was born after the [[Great War]] and has always been eager to work with humans. She is charming and pleasant enough, but perhaps not that bright and she sometimes makes mistakes in her trades, although she rarely wants to believe it.
 
 
 
-> [!image|left]
-> ![[vistra-fireforge-smith.webp|300]]
+> [!image|right standard]
+> ![[vistra-fireforge-smith.webp]]
+> *Vistra Fireforge*
 
 In her youth she was a blacksmith and trader in [[Ausson's Crossing]], a crossroads inn south of [[Sembara]]. She is now settled in [[Tokra]] where she runs the dwarven inn, [[The Iron Swan]].
 

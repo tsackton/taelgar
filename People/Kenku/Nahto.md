@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: kenku
 ancestry: Islander
 campaignInfo:
@@ -23,8 +23,9 @@ POV: 1740s
 > [!taelgar-header]
 > (kenku, Islander, he/him, b. 1700, lives in Wahacha)
 
-> [!image|right]
-> ![[nahto.webp|400]]
+> [!image|right standard]
+> ![[nahto.webp]]
+> *Nahto*
 
 Kenku man in late middle age. Tinkerer, traveler, explorer; Nahto wanders over the islands of the Eastern [[Green Sea]] with his partner, Skoda.
 

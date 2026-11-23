@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-23T23:02:51-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: human
 ancestry: Chardonian
 born: 1714
@@ -30,8 +30,9 @@ POV: 1740s
 > [!taelgar-header]
 > (human, Chardonian, he/him, b. 1714, d. 1749)
 
-> [!image|right]
-> ![[fausto.webp|400]]
+> [!image|right standard]
+> ![[fausto.webp]]
+> *Fausto*
 
 Fausto is a wealthy Chardonian, moving with ease among wizards, scholars, rich merchants, and adventurers, known primarily for his patronage of scholarly expeditions through the [[Society of the Open Scroll]]. He is a striking man, with fine features, well-groomed curly black hair, and an elegant style that clearly yet subtly displays access to considerable wealth. He does not speak of his childhood, and his origins are obscure, but by his early adulthood he possessed a mysterious fortune, and was beginning to establish a name for himself as a patron of magical study. All manner of wild tales exist to explain his obvious wealth, the most common of which is that he was an adventurer and explorer in his 20s, retiring to Chardon with the wealth of an ancient dragon hoard.
 

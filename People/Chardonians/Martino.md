@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-25T23:14:40-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: human
 ancestry: Chardonian
 campaignInfo:
@@ -23,8 +23,9 @@ POV: 1749
 > [!taelgar-header]
 > (human, Chardonian, he/him, b. 1681)
 
-> [!image|right]
-> ![[martino-portrait.webp|400]]
+> [!image|right standard]
+> ![[martino-portrait.webp]]
+> *Martino*
 
 Martino is a retired sailor, fisherman, and navigator. He once sailed widely along the coasts of [[Apporia]], seeking the best fishing grounds, until he was hurt in a storm and lost most of the use of his right hand.
 

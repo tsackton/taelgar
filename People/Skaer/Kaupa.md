@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: human
 ancestry: Skaer
 campaignInfo:
@@ -21,8 +21,9 @@ POV: 1740s
 > [!taelgar-header]
 > (human, Skaer, he/him, b. 1710)
 
-> [!image|right]
-> ![[kaupa.webp|420]]
+> [!image|right standard]
+> ![[kaupa.webp]]
+> *Kaupa*
 
 A diligent representative of the Skaer Trade Mission, Kaupa's role in [[Tollen]] is vital in ensuring that trade relations between [[Skaerhem]] and [[Tollen]] remain strong and beneficial for both parties.
 

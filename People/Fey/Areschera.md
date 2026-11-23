@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
-tags: [person, status/gameupdate/clee, status/check/lint, status/check/ai]
+tags: [person, status/gameupdate/clee, status/check/lint]
 species: fey
 gender: female
 died: 1720-02-21
@@ -18,8 +18,9 @@ POV: 1720
 > [!taelgar-header]
 > (fey, she/her, d. 1720, lives in Duskmire)
 
-> [!image|right]
-> ![[areschera.webp|400]]
+> [!image|right standard]
+> ![[areschera.webp]]
+> *Areschera*
 
 A servant of [[Lord Umbraeth]], and a shapeshifter. Mischievous and cruel, she especially enjoys using her disguises and shapeshifting to bring ruin to mortals.
 

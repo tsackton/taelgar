@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: human
 ancestry: Tollender
 campaignInfo:
@@ -23,12 +23,13 @@ POV: 1748
 
 %% mostly need to rewrite to pull information from secrets that no longer needs to be secret %%
 
+> [!image|right standard]
+> ![[cecilia-lister-portrait.webp]]
+> *Cecilia Lister*
+
 An elegant older woman, very precise, who runs an unmarked but well-known tattoo parlor in Southbridge in [[Tollen]]. Important in the [[Dyer's Guild]], and rich. Extremely skilled in the arts of tattoos, especially magical tattoos made with enchanted dyes.
 
 %%SECRET[v2:990a064527fbdde9055080961dfed1bf]%%
-
-> [!image|right standard]
-> ![[cecilia-lister-portrait.webp]]
 
 %%^Metadata:names:v1%%
 - {"name": "Cecilia Lister", "language": "unknown"}

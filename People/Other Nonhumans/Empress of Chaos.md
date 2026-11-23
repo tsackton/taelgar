@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: hobgoblin
 ancestry: null
 campaignInfo:
@@ -21,8 +21,9 @@ POV: 1749
 > [!taelgar-header]
 > (hobgoblin, she/her)
 
-> [!image|right]
-> ![[emrpess-of-chaos.webp|400]]
+> [!image|right standard]
+> ![[emrpess-of-chaos.webp]]
+> *Empress of Chaos*
 
 The Empress of Chaos is the leader of the [[Iron Fang]] hobgoblin clan.
 

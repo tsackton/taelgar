@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
 campaignInfo: []
@@ -18,8 +18,9 @@ POV: 1720s
 > [!taelgar-header]
 > (human, Sembaran, he/him, b. 1671, lives in Valit)
 
-> [!image|right]
-> ![[warin-the-woodsman.webp|320]]
+> [!image|right standard]
+> ![[warin-the-woodsman.webp]]
+> *Warin the Woodsman*
 
 A tracker and woodsman from [[Valit]], and confidant of [[Sabine de Brune]].
 

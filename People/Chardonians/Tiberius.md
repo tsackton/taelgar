@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-25T23:14:40-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: human
 ancestry: Chardonian
 campaignInfo:
@@ -23,8 +23,9 @@ POV: 1749
 > [!taelgar-header]
 > (human, Chardonian, he/him, lives in Chardon)
 
-> [!image|left]
-> ![[tiberius.webp|400]]
+> [!image|right standard]
+> ![[tiberius.webp]]
+> *Tiberius*
 
 Tiberius is a [[Chardonian Empire|Chardonian]] [[Windcallers|Windcaller]] in the service of [[Mitus Verina Auratan]], the Magistros of [[Chardon]]. He serves aboard the [[Auratan's Pride]], one of the Magistros' naval flagships, and is one of the most powerful Windcallers in active service.
 

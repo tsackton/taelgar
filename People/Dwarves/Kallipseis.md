@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: dwarf
 ancestry: Drankorian
 gender: female
@@ -21,8 +21,9 @@ POV: 1740
 
 Kallipseis is an ancient Drankorian dwarven wizard, gardener, and fungal researcher who spent many years within the [[27th House]]. She claimed leadership of [[Arithrimos Lamperum]] after [[Thalestria|Thalestria's]] disappearance or death. During her many years in the [[27th House]], she established a greenhouse and laboratory filled with cultures, terraria, strange helpers, and fungus growing on severed limbs. She studied how the fungus colonized flesh and attempted to reverse that relationship by culturing pieces of herself to take control of a fungal body. Her work reflected her conviction that "all progress involves sacrifice."
 
-> [!image|left]
-> ![[kallipseis-fungal-golem-v3.webp|300]]
+> [!image|right standard]
+> ![[kallipseis-fungal-golem-v3.webp]]
+> *Kallipseis*
 
 When the 27th House began to collapse in DR 1740, Kallipseis transformed herself into a fungal golem. Her new body, shaped like a dwarven woman but made from fungi and lichens, sat up and looked upon the lifeless dwarven corpse that had previously held her soul. She consulted a book filled with long lists of six-digit numbers and disappeared. She is now, one presumes, somewhere in the Multiverse attempting to reestablish the [[Arithrimos Lamperum]].
 

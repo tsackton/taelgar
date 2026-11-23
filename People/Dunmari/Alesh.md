@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
-tags: [person, status/cleanup/metadata, status/cleanup/text, status/check/lint, status/check/ai]
+tags: [person, status/cleanup/metadata, status/cleanup/text, status/check/lint]
 species: human
 ancestry: Dunmari
 campaignInfo: []
@@ -23,8 +23,9 @@ POV: 1740s
 
 %% needs work: lots of information about chronology, travels, and party contact scattered throughout session notes, that needs to be incorporated and cleaned up %%
 
-> [!image|right]
-> ![[alesh-portrait.webp|400]]
+> [!image|right standard]
+> ![[alesh-portrait.webp]]
+> *Alesh*
 
 A short, quick-footed woman, with a nondescript face, short, black hair and light brown/tan skin. An extremely skilled rider, often serving as a scout or messenger for the people of [[Karawa]]. Bubbly, cheerful person, endlessly fascinated by Dunmari history. She collects rumors of [[Dunmar]] of old and collects arrowheads and other artifacts she can find in her travels. She is especially interested in ancient battle sites.
 

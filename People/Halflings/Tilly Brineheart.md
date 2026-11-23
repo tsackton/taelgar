@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T18:19:15-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: halfling
 gender: female
 name: Tilly Brineheart
@@ -16,7 +16,7 @@ POV: modern
 > [!taelgar-header]
 > (halfling, she/her)
 
-> [!image|aside]
+> [!image|right standard]
 > ![[tilly-brineheart.webp]]
 > *Tilly Brineheart, halfling sailor.*
 

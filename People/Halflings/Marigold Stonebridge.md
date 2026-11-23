@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: halfling
 ancestry: Sembaran
 campaignInfo:
@@ -24,8 +24,9 @@ POV: 1720s
 > [!taelgar-header]
 > (halfling, Sembaran, she/her, b. 1624, lives in Cleenseau)
 
-> [!image|right]
-> ![[marigold-stonebridge.webp|320]]
+> [!image|right standard]
+> ![[marigold-stonebridge.webp]]
+> *Marigold Stonebridge*
 
 An old, wrinkled halfling, often quiet and sleepy, but with surprising wit. The most important of the three current innkeepers of [[The Crossroads Inn]] in [[Cleenseau]] along with [[Venra Stonebridge]] and [[Willow Stonebridge]]. Often called Grandmother Marigold, she is considered the matriarch and wisest of the [[Stonebridges]].
 

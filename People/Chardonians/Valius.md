@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-25T23:14:40-04:00"
 lintVersion: "3.5"
-tags: [person, status/cleanup/metadata, status/check/lint, status/check/ai]
+tags: [person, status/cleanup/metadata, status/check/lint]
 species: human
 ancestry: Chardonian
 campaignInfo:
@@ -26,8 +26,9 @@ POV: 1748
 
 %% cleanup header, copy DM notes, reformat text %%
 
-> [!image|right]
-> ![[valius.webp|300]]
+> [!image|right standard]
+> ![[valius.webp]]
+> *Valius*
 
 A former mercenary and adventurer, Valius now finds himself ensnared by the machinations of [[Fausto]] and trapped in the [[Mirror of Soul Trapping]]. Alongside his twin, [[Vargus]], he once sought treasures and wealth, but now seeks only to free his brother from [[Fausto]]'s curse.
 

@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T18:19:15-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: human
 ancestry: Sembaran
 gender: male
@@ -20,8 +20,9 @@ POV: 1720s
 > [!taelgar-header]
 > (human, Sembaran, he/him, lives in Rinburg)
 
-> [!image|right]
-> ![[alaric-benec.webp|400]]
+> [!image|right standard]
+> ![[alaric-benec.webp]]
+> *Alaric Benec*
 
 Alaric Benec is the Lord Mayor of [[Rinburg]] and an able merchant who built his career within the city’s Mercantile Guild. During the [[Undead Attacks in Sembara]], he grew desperate, and many in Rinburg felt his attempts to protect the city were inadequate.
 

@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
-tags: [person, status/gameupdate/dufr, status/check/lint, status/check/ai]
+tags: [person, status/gameupdate/dufr, status/check/lint]
 species: human
 ancestry: Urskan
 gender: male
@@ -16,8 +16,9 @@ POV: 1749
 > [!taelgar-header]
 > (human, Urskan, he/him)
 
-> [!image|right]
-> ![[olen-vrask-portrait.webp|400]]
+> [!image|right standard]
+> ![[olen-vrask-portrait.webp]]
+> *Olen Vrask*
 
 Olen is a secretary and scribe for [[Branek Mirov]].
 

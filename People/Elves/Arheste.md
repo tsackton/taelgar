@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: elf
 campaignInfo:
   - {campaign: dufr, date: 1749-01-16, type: visited}
@@ -22,6 +22,10 @@ POV: 1749
 *(AR-hes-teh)*
 > [!taelgar-header]
 > (elf, she/her, ka 31, b. 747)
+
+> [!image|right standard]
+> ![[arheste-portrait-sick.webp]]
+> *Arheste in [[Orenlas]].*
 
 Arheste is an ancient [[Elves|elf]], with silver hair and piercing eyes, originally born during the days of the Drankorian Empire. Her right arm is withered, cramped, and useless, usually worn in a sling, and she looks worn in a way that is very unusual for [[Elves]]. She spent much of the first several hundred years of her life in Drankor first as an ally of the emperors, and then, during Apollyon's reign, as a prisoner. After the [[First Plague|First Plague]], which she survived, albeit damaged and sick, she fled north and eventually settled in [[Orenlas]].
 
@@ -53,14 +57,6 @@ Over the cycles, as [[Cha'mutte]]'s genocidal intentions towards our people beca
 
 But as this leya began, something changed. The bindings broke. [[Apollyon|Apollyon]] is free, although still weak from long imprisonment, I believe. I do not know if I can survive another ka in my state, but I will do whatever I can, as long as it can be done, to ensure [[Apollyon|Apollyon]]'s ultimate defeat. 
 %%^End%%
-
-> [!image|right standard]
-> ![[arheste-portrait-healthy.webp]]
-> *Arheste in an earlier time, before the [[First Plague|First Plague]].*
-
-> [!image|right standard]
-> ![[arheste-portrait-sick.webp]]
-> *Arheste in [[Orenlas]].*
 
 
 
@@ -112,6 +108,10 @@ Areste is an info-dump, not really a social conflict; the key is to convince tho
 Once she sees Kenzo's staff, she will immediately know these are the people to talk to. 
 
 %%^End%%
+
+> [!image|figure standard]
+> ![[arheste-portrait-healthy.webp]]
+> *Arheste in an earlier time, before the [[First Plague|First Plague]].*
 
 %%^Metadata:names:v1%%
 - {name: "Arheste", language: "unknown", pronunciation: "AR-hes-teh", status: "documented"}

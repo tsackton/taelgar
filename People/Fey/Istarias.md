@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: fey
 gender: male
 name: Istarias
@@ -16,6 +16,10 @@ POV: 1720
 > [!taelgar-header]
 > (fey, he/him)
 
+> [!image|right standard]
+> ![[istarias-squire-fey.webp]]
+> *Istarias*
+
 Sir Istarias, the Squire of the Whispering Wind, is a fey servant of [[Lord Serenveil]], ruler of [[Twilight's Edge]]. He can turn invisible at will.
 
 %%^Campaign:clee%%
@@ -28,9 +32,6 @@ At some point, Umbraeth (or perhaps someone in his orbit) got wind of Istarias a
 Istarias had no idea why Serenveil sent him, other than "a favor to someone" and panicked about Umbraeth, so was leaving to travel downriver along the Enst to Tyrwingha to creep back into Twilight's Edge and report his failure to Serenveil. He clearly had no fear about being in [[Twilight's Grace]] and a lot of fear about [[Lord Umbraeth]] but otherwise
 
 %%
-
-> [!image|right standard]
-> ![[istarias-squire-fey.webp]]
 
 %%^Metadata:names:v1%%
 - {name: Istarias, language: unknown, pronunciation: iss-TAH-ree-ahs, status: documented}

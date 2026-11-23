@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
 gender: female
@@ -20,8 +20,9 @@ POV: 1720
 > [!taelgar-header]
 > (human, Sembaran, she/her)
 
-> [!image|right]
-> ![[elizabeth-of-cassen.webp|420]]
+> [!image|right standard]
+> ![[elizabeth-of-cassen.webp]]
+> *Elizabeth of Cassen*
 
 A middle aged woman, who became a soldier in her later life. She worked for the lord of [[Cassen]] until the [[Undead Attacks in Sembara]] decimated her village.
 

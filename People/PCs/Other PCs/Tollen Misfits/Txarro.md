@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: lizardfolk
 gender: male
 born: 1717
@@ -24,8 +24,9 @@ POV: 1740
 > [!taelgar-header]
 > (lizardfolk, he/him, b. 1717)
 
-> [!image|right]
-> ![[txarro.webp|350]]
+> [!image|right standard]
+> ![[txarro.webp]]
+> *Txarro*
 
 Txarro was born in a small lizardfolk village along the Greywash. His community was fairly isolated, even from other lizardfolk, in a marshy curve about a day and a half walk from Tollen. The Greywash provided a rich abundance for his village, and as a child and young adult he rarely interacted with other species, preferring to wander upriver along the marshy banks of the river, searching for hidden life among the reeds and rushes. He discovered he had some skill with animals, and could often charm small birds into his hand, or convince the shy mammals of the riverbank to be still in his presence.
 

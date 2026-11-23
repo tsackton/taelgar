@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: fey
 subspecies: haregon
 campaignInfo:
@@ -18,8 +18,9 @@ POV: 1740s
 > [!taelgar-header]
 > (fey, she/her, lives in Emberwine)
 
-> [!image|right]
-> ![[auntie-mullbery.webp|400]]
+> [!image|right standard]
+> ![[auntie-mullbery.webp]]
+> *Auntie Mulberry*
 
 Auntie Mulberry is a haregon -- a half-human, half-rabbit humanoid fey -- who lives a quiet life in a cottage in [[Emberwine]]. She enjoys talking to travelers, and is generally friendly and welcoming to those who stop by.
 

@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
 born: 1684
@@ -19,8 +19,9 @@ POV: 1720
 > [!taelgar-header]
 > (human, Sembaran, he/him, b. 1684, lives in Asineau)
 
-> [!image|right]
-> ![[thierry.webp|320]]
+> [!image|right standard]
+> ![[thierry.webp]]
+> *Thierry*
 
 A local boatbuilder in [[Asineau]], he served in the [[Army of the West]] in his younger days.
 

@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-25T23:14:40-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: human
 ancestry: Chardonian
 campaignInfo:
@@ -22,8 +22,9 @@ POV: 1740s
 > [!taelgar-header]
 > (human, Chardonian, she/her, b. 1677, lives in Chardon)
 
-> [!image|right]
-> ![[roscelia.webp|400]]
+> [!image|right standard]
+> ![[roscelia.webp]]
+> *Roscelia*
 
 Roscelia Verinus, Professor of Magic and Argent Chair of Theurgy, is an elderly magician, prim and proper, and now mostly retired from teaching at the Faculty of Magic. She is clearly wealthy, and favors elegant, understated dress that nonetheless displays her status. She wears her gray hair in a bun, and favors simple but expensive jewelry: long strands of pearls, and diamond earrings. 
 

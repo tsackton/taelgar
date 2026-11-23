@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-23T23:02:51-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: dwarf
 campaignInfo:
   - {campaign: dufr, date: 1749-01-28, type: met}
@@ -27,8 +27,9 @@ POV: 1749
 > [!taelgar-header]
 > (dwarf, she/her, b. 1701, lives in Tharn Todor)
 
-> [!image|right]
-> ![[kethra-final-option1.webp|400]]
+> [!image|right standard]
+> ![[kethra-final-option1.webp]]
+> *Kethra Silverspark*
 
 Kethra Silverspark, great-grandaughter of [[Nora Silverspark]], is a proud dwarven smith and novice adventurer from [[Tharn Todor]].
 

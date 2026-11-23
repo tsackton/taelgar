@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: fey
 ancestry: null
 campaignInfo:
@@ -23,8 +23,9 @@ POV: 1740s
 > [!taelgar-header]
 > (fey, she/her)
 
-> [!image|right]
-> ![[caelynn-portrait.webp|400]]
+> [!image|right standard]
+> ![[caelynn-portrait.webp]]
+> *Caelynn the Seer*
 
 Caelynn, often known as Caelynn the Seer, is a fey woman from across the mountains, from the [[Feywild]] realm of  [[Dreamhaven]], who has been living in [[Tollen]] for many years. While she does not discuss her history, rumors claim she has made Tollen her home for many centuries, or perhaps even a millennium. She is a mysterious presence, known for prophecy and lore and understanding of dreams, but rarely sharing her vast knowledge without a price of some kind.
 ## Description

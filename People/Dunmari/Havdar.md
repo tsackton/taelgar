@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
-tags: [person, status/gameupdate/dufr, status/check/lint, status/check/ai]
+tags: [person, status/gameupdate/dufr, status/check/lint]
 species: human
 ancestry: Dunmari
 campaignInfo:
@@ -29,8 +29,9 @@ POV: 1748
 needs updating to bring current; needs a bit of a rewrite to incorporate no-longer-secret secrets, mention curse and resolution
 %%
 
-> [!image|right]
-> ![[havdar.webp|350]]
+> [!image|right standard]
+> ![[havdar.webp]]
+> *Havdar*
 
 Havdar, a brash and confident warrior, made a name for himself as a war leader in [[Eastern Dunmar]], before joining with Nayan [[Sura]] in support of her claim to the leadership of the Dunmari people.
 ## Overview

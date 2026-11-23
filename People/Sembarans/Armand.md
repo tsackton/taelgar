@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/mike, status/check/lint, status/check/ai]
+tags: [person, status/check/mike, status/check/lint]
 species: human
 ancestry: Sembaran
 born: null
@@ -24,8 +24,9 @@ POV: 1720s
 character sheet: https://www.dndbeyond.com/characters/121475065
 %%
 
-> [!image|right]
-> ![[armand-night-queen-new.webp|400]]
+> [!image|right standard]
+> ![[armand-night-queen-new.webp]]
+> *Armand*
 
 A warrior and disciple of the Night Queen.
 

@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-23T23:02:51-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: lizardfolk
 ancestry: null
 campaignInfo:
@@ -23,8 +23,9 @@ POV: 1749
 > [!taelgar-header]
 > (lizardfolk, he/him, b. 1737, lives in Aursen Marshes)
 
-> [!image|right]
-> ![[leizar.webp|400]]
+> [!image|right standard]
+> ![[leizar.webp]]
+> *Leizar*
 
 Leizar is an eager lizardfolk boy, adventurous and inquisitive, who loves stories of heroes. He has bright green scales, and often carries fishing traps. He is proud that his father is a Ranger, though he worries privately about his safety.
 

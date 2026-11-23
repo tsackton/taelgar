@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
 gender: female
@@ -17,10 +17,11 @@ POV: 1720s
 > [!taelgar-header]
 > (human, Sembaran, she/her)
 
-Lady Elodie Blanchard is the lord of [[Dallet]].
-
 > [!image|right standard]
 > ![[elodie-blanchard.webp]]
+> *Elodie Blanchard*
+
+Lady Elodie Blanchard is the lord of [[Dallet]].
 
 %%^Metadata:names:v1%%
 - {name: "Elodie Blanchard", language: "Sembaran", pronunciation: "ay-loh-DEE blahn-SHAR", status: "documented"}

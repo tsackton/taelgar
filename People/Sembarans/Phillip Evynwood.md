@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T20:13:07-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: human
 ancestry: Sembaran
 gender: male
@@ -18,14 +18,15 @@ POV: 1720
 > [!taelgar-header]
 > (human, Sembaran, he/him, lives in Aslain)
 
+> [!image|right standard]
+> ![[phillip-evynwood.webp]]
+> *Phillip Evynwood*
+
 Phillip Evynwood is a wealthy timber merchant based in [[Aslain]], with strong connections to [[Rinburg]] and the d’Aslain family. He grew up in [[Ashcombe]] and is the younger son of [[Ameline Evynwood]], its lady.
 
 %%^Campaign:clee%%
 In February DR 1720, Phillip helped raise a militia in [[Aslain]] at Pierre d’Aslain’s request, seeking troops to support the [[Rangers]] in clearing the zombie caves to the north.
 %%^End%%
-
-> [!image|left]
-> ![[phillip-evynwood.webp|200]]
 
 %%^Metadata:names:v1%%
 - {name: Phillip Evynwood, language: Sembaran, pronunciation: FIL-ip EV-an-wood, status: documented}

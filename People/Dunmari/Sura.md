@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
-tags: [status/gameupdate/dufr, testcase, person, status/check/lint, status/check/ai]
+tags: [status/gameupdate/dufr, testcase, person, status/check/lint]
 species: human
 ancestry: Dunmari
 campaignInfo:
@@ -30,14 +30,15 @@ POV: 1748
 > [!taelgar-header]
 > (human, Dunmari, she/her, b. 1720)
 
+> [!image|right standard]
+> ![[sura.webp]]
+> *Nayan Sura*
+
 Nayan Sura is the younger sister of Samraat [[Nayan Karnas]]. Once seen as a future Samraat and a unifier of [[Eastern Dunmar|eastern]] and [[Western Dunmar]], she vanished eight years ago, trapped by [[Agata]] Dustmother in the [[Mirror of Soul Trapping]]. In her absence, her brother, [[Nayan Karnas]], claimed the throne of [[Dunmar]]. In DR 1748, Nayan Sura was freed from [[Agata]]'s imprisonment, and now seeks to reclaim her destiny. 
 ## Overview
 
 Sura was born in [[Darba]], but traveled widely in her youth, including spending several years at the [[Lakan Monastery]] in [[Tokra]]. From a young age, she was seen as god-touched, and perceived as a potential heir to the Dunmari throne, one who could unite the eastern and western factions of the divided country. Her future was cut short in DR 1740, when she was just 20 years old: she was trapped by [[Agata]] Dustmother in the [[Mirror of Soul Trapping]], and vanished. In DR 1748, she was freed by [[Dunmar Fellowship]], and began to contemplate reclaiming the throne, especially in light of her perception that Karnas had neglected the east, most notably in his decision to leave the eastern nomads to their fate during the [[Summer Gnoll Raids of 1748]]. In December of DR 1748, she defeated a small force of Karnas' warriors and their Chardonian allies in the [[Battle of Tokra]], laying claim to central and [[Eastern Dunmar]]. 
 ## Description
-
-> [!image|right]
-> ![[sura.webp|400]]
 
 Sura is a tall, striking Dunmari woman, with high cheekbones, light brown skin, medium length dark hair, and a regal bearing. 
 ## Events

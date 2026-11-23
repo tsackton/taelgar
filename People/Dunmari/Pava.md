@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
-tags: [person, status/cleanup/metadata, status/check/lint, status/check/ai]
+tags: [person, status/cleanup/metadata, status/check/lint]
 species: human
 ancestry: Dunmari
 image: pava.webp
@@ -25,10 +25,11 @@ POV: 1740s
 
 %% DM notes from OneNote to link, plus secrets to clean up, update; campaign info needs updating %%
 
-A master of the Order of the Awakened Soul, an old man, bald, with striking blue eyes and surprising agility.
+> [!image|right standard]
+> ![[pava.webp]]
+> *Pava*
 
-> [!image|right]
-> ![[pava.webp|500]]
+A master of the Order of the Awakened Soul, an old man, bald, with striking blue eyes and surprising agility.
 
 %%SECRET[v2:d894d2b444da97bee6c2209210c4c70d]%%
 

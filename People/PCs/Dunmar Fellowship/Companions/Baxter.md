@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: axebeak
 ancestry: null
 born: null
@@ -19,8 +19,8 @@ POV: 1740s
 > [!taelgar-header]
 > (axebeak)
 
-> [!image|right]
-> ![[baxter-portrait.webp|320]]
+> [!image|right standard]
+> ![[baxter-portrait.webp]]
 > *Baxter with a saddle*
 
 [[Wellby]]'s reliable mount, now well-trained in battle and exploration.

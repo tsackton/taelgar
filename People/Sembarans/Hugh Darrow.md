@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: human
 ancestry: Sembaran
 born: 1665
@@ -17,8 +17,9 @@ POV: 1720
 > [!taelgar-header]
 > (human, Sembaran, he/him, b. 1665, lives in Taviose)
 
-> [!image|right]
-> ![[hugh-darrow.webp|320]]
+> [!image|right standard]
+> ![[hugh-darrow.webp]]
+> *Hugh Darrow*
 
 A charcoal maker in Taviose, and the son of [[Remy Darrow]]. He was one of the leaders of the villagers during the [[Cleenseau Spider Attacks]].
 

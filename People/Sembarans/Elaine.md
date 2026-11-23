@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: human
 ancestry: Zimka
 gender: female
@@ -16,8 +16,9 @@ POV: 1720
 > [!taelgar-header]
 > (human, Zimka, she/her, lives in Cleenseau)
 
-> [!image|right]
-> ![[elaine-cleenseau.webp|320]]
+> [!image|right standard]
+> ![[elaine-cleenseau.webp]]
+> *Elaine*
 
 One of [[Anselm|Anselm's]] assistants.
 

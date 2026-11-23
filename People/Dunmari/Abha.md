@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: human
 ancestry: Dunmari
 campaignInfo:
@@ -24,8 +24,9 @@ POV: 1740s
 > [!taelgar-header]
 > (human, Dunmari, she/her)
 
-> [!image|right]
-> ![[abha-v2.webp|400]]
+> [!image|right standard]
+> ![[abha-v2.webp]]
+> *Abha*
 
 Abha is a [[Sonkar Mystai|mystai of Sonkar]], a truthspeaker who has the divine ability to see the true nature of the world. She is a powerful spellcaster and is often called to resolve difficult or complicated requests for judgement and justice.
 

@@ -2,7 +2,7 @@
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 displayDefaults: {boxInfo: "<subspecies> (<species:s>), <pronouns>"}
-tags: [status/cleanup/metadata, person, status/check/lint, status/check/ai]
+tags: [status/cleanup/metadata, person, status/check/lint]
 species: fey
 subspecies: hag
 campaignInfo:
@@ -26,12 +26,11 @@ POV: 1748
 > [!taelgar-header]
 > (fey, she/her)
 
-%% Original whereabouts annotation for {type: home, end: 1, location: Amberglow}:
-# amberglow not origin, just past home
+%% Original whereabouts annotation for {type: home, end: 1, location: Amberglow}: amberglow not origin, just past home
 %%
-
-> [!image|right]
-> ![[agata-v2.webp|300]]
+> [!image|right standard]
+> ![[agata-v2.webp]]
+> *Agata Dustmother*
 
 Agata Dustmother, often referred to as the "Old Woman of the Dusts," is an ancient and cunning fey hag, based for many years on the edge of the [[Garamjala Desert]], near [[Eastern Dunmar]].
 ## Overview
@@ -41,10 +40,13 @@ Agata Dustmother, known as the Old Woman of the Dusts, is an ancient fey [[Story
 In DR 1748, she was imprisoned in the [[Heartwood Grove]] in the [[Feywild]] realm of [[Amberglow]] by [[Dunmar Fellowship]]. 
 ## Description
 
-> [!image|left]
-> ![[agata-v1.webp|300]]
+> [!image|left standard]
+> ![[agata-v1.webp]]
+> *Agata Dustmother as she appears to those she "helps"*
 
 Agata takes the appearance of a withered old woman, with dry, dusty skin, wearing white robes. Her lair is a magical and seemingly un-scryable hut hidden on the edge of the desert, surrounded by brambles and rocks, and only approachable if one follows the correct path.
+
+
 ## Events
 
 - Agata was known as Dasoclese in the [[Feywild]] realm of [[Amberglow]]
@@ -62,6 +64,7 @@ Agata takes the appearance of a withered old woman, with dry, dusty skin, wearin
 	- [[Garret Tealeaf]], who had been forced into Agata's service as a wooden scarecrow before being turned back by [[Dunmar Fellowship]] on [[Session 30 (DuFr)|June 2, 1748]]
 	- [[Shandar]], an old man who had been trapped as a table for decades, freed by [[Dunmar Fellowship]] on [[Session 30 (DuFr)|June 4, 1748]]
 	- [[Kaya]], a Dunmari woman who had been trapped as a chair for decades, freed by [[Dunmar Fellowship]] on [[Session 31 (DuFr)|June 8, 1748]]
+
 
 %%^Metadata:names:v1%%
 - {"name": "Agata Dustmother", "language": "unknown", "pronunciation": "AH-gah-tah DUST-muth-er", "notes": "Cautious spelling-based proposal: hard g, three ah vowels with first-syllable stress, and ordinary English Dustmother. No name-specific pronunciation or name-language identification was found; Sylvan naming guidance is not a fixed phonology.", "status": "proposed"}
