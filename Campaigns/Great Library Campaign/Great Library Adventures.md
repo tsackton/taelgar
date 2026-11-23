@@ -13,19 +13,16 @@ Herein lie the chronicles of the [[Silver Tempests]], from their humble roots as
 ## Arcs
 
 
-```dataviewjs
-const arcs = dv.pages('"Campaigns/Great Library Campaign/Session Notes"')
-    .where(p => /^Great Library Session Notes - Arc \d+$/.test(p.file.name))
-    .sort(p => Number(p.file.name.match(/\d+$/)[0]), "asc");
-
-const formatDate = value => value ? dv.date(value).toFormat("MMM d, yyyy") : "—";
-
-dv.table(["Arc", "Chronicle", "Start (DR)", "End (DR)"], arcs.map(p => [
-    Number(p.file.name.match(/\d+$/)[0]),
-    dv.fileLink(p.file.path, false, p.file.frontmatter.name || p.file.name),
-    formatDate(p.file.frontmatter.DR),
-    formatDate(p.file.frontmatter.DR_end)
-]));
+```dataview
+TABLE WITHOUT ID
+  arcNum AS "Arc",
+  link(file.path, choice(file.frontmatter.name, file.frontmatter.name, file.name)) AS "Chronicle",
+  choice(file.frontmatter.DR, dateformat(date(file.frontmatter.DR), "MMM d, yyyy"), "—") AS "Start (DR)",
+  choice(file.frontmatter.DR_end, dateformat(date(file.frontmatter.DR_end), "MMM d, yyyy"), "—") AS "End (DR)"
+FROM "Campaigns/Great Library Campaign/Session Notes"
+WHERE regexmatch("^Great Library Session Notes - Arc [0-9]+$", file.name)
+FLATTEN number(replace(file.name, "Great Library Session Notes - Arc ", "")) AS arcNum
+SORT arcNum ASC
 ```
 
 

@@ -68,36 +68,17 @@ SORT dm_notes
 
 Pages that have dm_owner not in: tim, mike, joint, player, none
 
-```dataviewjs
-// Define the list of allowed owners
-const allowedOwners = ["tim", "mike", "joint", "player", "none"];
-
-// Fetch all pages from the "Background" directory
-const pages = dv.pages('"Cosmology"');
-
-// Filter pages where dm_owner contains any owner not in allowedOwners
-const filteredPages = pages.filter(page => {
-    // Ensure dm_owner exists and is a non-empty string
-    if (!page.dm_owner || typeof page.dm_owner !== "string") {
-        return true; // Exclude pages without dm_owner or with dm_owner not as a string
-    }
-
-    // Split the dm_owner string into an array, trimming whitespace
-    const owners = page.dm_owner.split(",").map(owner => owner.trim().toLowerCase());
-
-    // Check if any owner is not in the allowedOwners list
-    return owners.some(owner => !allowedOwners.includes(owner));
-});
-
-// Create the table with File, Backlinks, and Owner columns
-dv.table(
-    ["File", "Backlinks", "Owner"],
-    filteredPages.map(page => [
-        page.file.link,                // Clickable link to the file
-        page.file.inlinks.length,      // Number of backlinks
-        page.dm_owner                   // Owner(s) as the original string
-    ])
-);
+```dataview
+TABLE WITHOUT ID
+  file.link AS "File",
+  length(file.inlinks) AS "Backlinks",
+  dm_owner AS "Owner"
+FROM "Cosmology"
+WHERE typeof(dm_owner) != "string"
+   OR !regexmatch(
+     "^\\s*(tim|mike|joint|player|none)\\s*(,\\s*(tim|mike|joint|player|none)\\s*)*$",
+     lower(string(dm_owner))
+   )
 ```
 
 

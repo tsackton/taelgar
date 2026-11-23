@@ -15,23 +15,19 @@ dv.table(["File", "Location"],
 
 # Location Prefixes
 
-```dataviewjs
-const {util} = customJS
-
-dv.table(["File", "Location"], 
-		dv.pages().where(b=>b.whereabouts).
-		flatMap(page => dv.array(page.whereabouts).map(w => {return {f: page.file.name, w: w.prefix  }})).
-		where(f => f.w).
-		map(x => [dv.fileLink(x.f), x.w]))
+```dataview
+TABLE WITHOUT ID link(file.name) AS "File", loc AS "Location"
+WHERE whereabouts
+FLATTEN whereabouts AS w
+FLATTEN w.prefix AS loc
+WHERE loc
 ```
 
 
-```dataviewjs
-const {util} = customJS
-
-dv.table(["File", "Location"], 
-		dv.pages().where(b=>dv.isArray(b.whereabouts)).
-		flatMap(page => dv.array(page.whereabouts).map(w => {return {f: page.file.name, w: w.formatSpecifier ?? w.format,  }})).
-		where(f => f.w ).
-		map(x => [dv.fileLink(x.f), x.w]))
+```dataview
+TABLE WITHOUT ID link(file.name) AS "File", loc AS "Location"
+WHERE typeof(whereabouts) = "array"
+FLATTEN whereabouts AS w
+FLATTEN default(w.formatSpecifier, w.format) AS loc
+WHERE loc
 ```
