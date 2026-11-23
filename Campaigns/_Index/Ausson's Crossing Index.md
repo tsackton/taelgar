@@ -1,5 +1,4 @@
 ---
-tags: [status/check/ai]
 campaignType: miniseries
 description: A murder mystery in the village of Ausson’s Crossing, where the investigation into Roland’s death reveals that someone has been killing villagers and harming their souls.
 dm: Mike Sackton

@@ -1,5 +1,4 @@
 ---
-tags: [status/check/ai]
 campaignType: full
 description: The story of the Dunmar Fellowship, from their beginnings protecting the villages of Dunmar from gnolls to their victory over the lich Apollyon, and beyond.
 dm: Tim Sackton

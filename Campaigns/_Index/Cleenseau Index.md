@@ -1,5 +1,4 @@
 ---
-tags: [status/check/ai]
 campaignType: full
 description: The story of the Heroes of Cleenseau, as they defend the lands of the Enst valley and beyond from undead, hostile fey, and more.
 dm: Mike Sackton

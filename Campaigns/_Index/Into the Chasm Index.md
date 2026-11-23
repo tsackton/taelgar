@@ -1,5 +1,4 @@
 ---
-tags: [status/check/ai]
 campaignType: miniseries
 description: Five strangers searching for a way home discover a village cut off from the world and the failing machinery that holds the planes in balance beneath the Great Chasm.
 dm: Mike Sackton

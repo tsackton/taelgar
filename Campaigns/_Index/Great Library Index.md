@@ -1,5 +1,4 @@
 ---
-tags: [status/check/ai]
 campaignType: full
 description: The story of the Silver Tempests, from their humble beginnings and their rise to fame in Voltara, through their extraplanar adventures.
 dm: Tim Sackton

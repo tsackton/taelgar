@@ -1,5 +1,4 @@
 ---
-tags: [status/check/ai]
 campaignType: full
 description: The original Taelgar campaign, played in high school, during which Taelgar was invented and the Heroes of the Great War defeated Cha'mutte.
 dm: Tim Sackton
