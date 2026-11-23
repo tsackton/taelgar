@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
-"""Validate a potential-moves JSON file; move its selected entries with --apply.
+"""Apply approved entries from an unedited proposal with --apply.
 
-The default is a dry run. Keep only the approved entries in the moves array;
-never modify an entry's evidence or destination. Held entries are not executable.
+Use --source to select a subset. Without --apply, print a dry run.
 """
 
 from __future__ import annotations
@@ -12,32 +11,49 @@ import json
 from pathlib import Path
 import shutil
 
-from find_misplaced_images import EXCLUDED_ASSET_DIRS, SCHEMA_VERSION, digest_file, encoded, outside_scan, scan
+from find_misplaced_images import (
+    EXCLUDED_ASSET_DIRS, SCHEMA_VERSION, digest_file, encoded, ignored_paths,
+    outside_scan, proposal_checksum,
+)
 
 
-def validate_plan(plan: dict, *, snapshot: dict | None = None) -> tuple[Path, list[dict]]:
+def check_git_exposure(vault: Path, moves: list[dict]) -> None:
+    ignored = ignored_paths(vault, [move[key] for move in moves for key in ("source", "destination")])
+    for move in moves:
+        if move["source"] in ignored and move["destination"] not in ignored:
+            raise ValueError(f"Move would expose a Git-ignored asset: {move['source']}")
+
+
+def validate_plan(plan: dict, *, sources: list[str] | None = None) -> tuple[Path, list[dict]]:
     if plan.get("schemaVersion") != SCHEMA_VERSION:
-        raise ValueError("Unsupported move-plan schema")
+        raise ValueError("Unsupported move-plan schema. Scan again for a fresh proposal.")
+    if plan.get("proposalSha256") != proposal_checksum(plan):
+        raise ValueError("The move proposal was edited. Use the original proposal with --source.")
     policy = plan["policy"]
     if policy["excludedAssetDirs"] != list(EXCLUDED_ASSET_DIRS):
         raise ValueError("The plan's exclusions differ from the current scanner")
     vault = Path(plan["vault"]).resolve()
-    fresh = scan(vault, media=policy["media"], consumer_roots=[Path(p) for p in policy["consumerRoots"]], state=snapshot)
-    current = {move["source"]: move for move in fresh["moves"]}
-    selected = plan["moves"]
-    if not isinstance(selected, list) or any(not isinstance(move, dict) for move in selected):
-        raise ValueError("moves must be a list of move entries")
-    if len({move["source"] for move in selected}) != len(selected):
-        raise ValueError("Duplicate source in move plan")
+    moves = {move["source"]: move for move in plan["moves"]}
+    if len(moves) != len(plan["moves"]):
+        raise ValueError("Duplicate source in move proposal")
+    approved = set(moves if sources is None else sources)
+    if missing := approved - moves.keys():
+        raise ValueError(f"Source is unavailable for moves in this proposal: {', '.join(sorted(missing))}")
+    selected = [move for name, move in moves.items() if name in approved]
     for move in selected:
-        if current.get(move["source"]) != move:
-            raise ValueError(f"Stale or unsafe move: {move['source']}. Re-scan and review a fresh proposal.")
+        if Path(move["source"]).name != Path(move["destination"]).name:
+            raise ValueError(f"Move would rename an asset: {move['source']}")
         for relative in (move["source"], move["destination"]):
             path = vault / relative
             if not path.resolve().is_relative_to(vault / "assets"):
                 raise ValueError(f"Asset path escapes assets/: {relative}")
             if path.is_symlink() or any(p.is_symlink() for p in path.parents if p.is_relative_to(vault)):
                 raise ValueError(f"Symlink in asset path: {relative}")
+        if (vault / move["destination"]).exists():
+            raise ValueError(f"Move destination already exists: {move['destination']}")
+        if not (vault / move["source"]).is_file():
+            raise ValueError(f"Move source no longer exists: {move['source']}")
+    check_git_exposure(vault, selected)
     return vault, selected
 
 
@@ -62,10 +78,12 @@ def transfer(source: Path, destination: Path, sha256: str) -> None:
         raise
 
 
-def apply_plan(plan: dict, receipt: Path) -> dict:
-    before = {}
-    vault, moves = validate_plan(plan, snapshot=before)
-    outside_scan(receipt, vault, [Path(p).resolve() for p in plan["policy"]["consumerRoots"]])
+def apply_plan(plan: dict, receipt: Path, *, sources: list[str] | None = None) -> dict:
+    vault, moves = validate_plan(plan, sources=sources)
+    if not moves:
+        raise ValueError("The proposal has no moves to apply")
+    consumers = [Path(p) for p in plan["policy"]["consumerRoots"]]
+    outside_scan(receipt, vault, consumers)
     if receipt.exists():
         raise ValueError(f"Receipt already exists: {receipt}. Inspect it before choosing a new receipt.")
     receipt.parent.mkdir(parents=True, exist_ok=True)
@@ -84,17 +102,6 @@ def apply_plan(plan: dict, receipt: Path) -> dict:
         for move in moves:
             if (vault / move["source"]).exists() or digest_file(vault / move["destination"]) != move["sha256"]:
                 raise ValueError(f"Post-move verification failed: {move['destination']}")
-        after = {}
-        scan(vault, media=plan["policy"]["media"], consumer_roots=[Path(p) for p in plan["policy"]["consumerRoots"]], state=after)
-        for move in moves:
-            old, new = before["assets"][move["source"]], after["assets"][move["destination"]]
-            for field in ("references", "mentions"):
-                if old[field] != new[field]:
-                    raise ValueError(f"References changed during moves: {move['source']}")
-            for reference in old["references"] + old["mentions"]:
-                source = reference["source"]
-                if before["sourceHashes"].get(source) != after["sourceHashes"].get(source):
-                    raise ValueError(f"Referencing source changed during moves: {source}")
     except BaseException:
         failures = []
         pending = state.pop("pending", None)
@@ -123,6 +130,7 @@ def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("plan", type=Path)
     parser.add_argument("--apply", action="store_true", help="Apply the reviewed moves (otherwise dry-run)")
+    parser.add_argument("--source", action="append", help="Approved vault-relative source path; repeat for a subset")
     parser.add_argument("--receipt", type=Path, help="New private receipt outside the vault; defaults beside the plan")
     args = parser.parse_args()
     try:
@@ -131,10 +139,13 @@ def main() -> None:
             receipt = args.receipt or args.plan.with_name(args.plan.stem + "-applied.json")
             if receipt.resolve() == args.plan.resolve():
                 raise ValueError("Receipt must not overwrite the proposal")
-            state = apply_plan(plan, receipt)
+            state = apply_plan(plan, receipt, sources=args.source)
             print(f"Moved and verified {len(state['moves'])} assets. Receipt: {receipt}")
         else:
-            _, moves = validate_plan(plan)
+            vault, moves = validate_plan(plan, sources=args.source)
+            for move in moves:
+                if digest_file(vault / move["source"]) != move["sha256"]:
+                    raise ValueError(f"Source changed: {move['source']}")
             print(f"Dry run passed: {len(moves)} moves. No files changed.")
             for move in moves:
                 print(f"{move['source']} -> {move['destination']}")

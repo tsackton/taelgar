@@ -81,29 +81,24 @@ batch before moving anything. Existing approval for the exact displayed batch
 is sufficient; do not ask again. Approval to create the scripts or skill is not
 approval to move newly discovered assets.
 
-For a subset, copy the proposal outside the vault and retain only its approved
-`moves` entries. Preserve each complete entry and all policy fields. Do not edit
-hashes, destinations, categories, or evidence. Then validate:
+After approval, use the original proposal. Pass each approved source with
+`--source` for a subset. Omit `--source` only when the user approved every
+proposed move. The command writes one receipt beside the proposal by default.
+The standalone dry run is optional.
 
 ```sh
-python3 -B _scripts/move_assets.py /private/tmp/taelgar-asset-review/approved-moves.json
+python3 -B _scripts/move_assets.py /private/tmp/taelgar-asset-review/potential-moves.json \
+  --apply --source assets/example.webp
 ```
 
-After approval, apply that same file:
-
-```sh
-python3 -B _scripts/move_assets.py /private/tmp/taelgar-asset-review/approved-moves.json \
-  --apply --receipt /private/tmp/taelgar-asset-review/applied-moves.json
-```
-
-The mover re-scans the same source roots, validates every selected entry against
-the current plan, refuses collisions and changed evidence, preserves basenames,
-verifies contents and references after moving, and writes a receipt. On failure
-it attempts to restore completed moves. Inspect any `recovery-required` receipt
-before further mutations; do not blindly retry a partially completed batch.
-If a plan is stale, refresh it and present any materially changed batch for
-approval. An empty dry run is not evidence that previously approved moves ran;
-check the receipt and actual files.
+The reference scan belongs to the review step. Apply the approved batch from
+that proposal during the same review. The mover checks the selected paths and
+file contents, refuses overwrites and Git-ignored file exposure, preserves
+basenames, and verifies the destinations. It uses content checksums so a
+timestamp change alone does not block a move. If a selected file has changed,
+refresh that proposal before proceeding. On transfer failure the mover attempts
+to restore completed moves. Inspect any `recovery-required` receipt before
+further mutations.
 
 ## Verification and handoff
 

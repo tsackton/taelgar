@@ -1,5 +1,6 @@
 import copy
 import json
+import os
 from pathlib import Path
 import subprocess
 import tempfile
@@ -159,29 +160,47 @@ class AssetReviewTests(unittest.TestCase):
         self.assertEqual(finder.encoded(self.scan()), finder.encoded(self.scan()))
 
     def test_selected_subset_moves_verifies_and_preserves_other_files(self):
-        self.put("assets/scene.png")
+        scene = self.put("assets/scene.png")
         self.put("assets/audio/orphan.mp3")
-        self.put("_sessions/recap.md", "- Image: scene.png")
+        recap = self.put("_sessions/recap.md", "- Image: scene.png")
         plan = self.scan()
-        plan["moves"] = [m for m in plan["moves"] if m["source"].endswith("scene.png")]
-        mover.validate_plan(plan)
-        self.assertTrue((self.vault / "assets/scene.png").exists())
-        result = mover.apply_plan(plan, self.home / "receipt.json")
+        sources = ["assets/scene.png"]
+        mover.validate_plan(plan, sources=sources)
+        self.assertTrue(scene.exists())
+        for path in (scene, recap):
+            os.utime(path, (1000, 1000))
+        with patch.object(finder, "walk_files", side_effect=AssertionError("Approval walked the vault")):
+            result = mover.apply_plan(plan, self.home / "receipt.json", sources=sources)
         self.assertEqual(result["status"], "verified")
         self.assertEqual((self.vault / "assets/campaign/scene.png").read_text(), "fixture bytes")
         self.assertFalse((self.vault / "assets/scene.png").exists())
         self.assertTrue((self.vault / "assets/audio/orphan.mp3").exists())
         self.assertEqual((self.vault / "_sessions/recap.md").read_text(), "- Image: scene.png")
 
-    def test_new_link_changed_file_modified_destination_and_collision_rejected(self):
-        for change in ("new-link", "bytes", "destination", "collision"):
+    def test_held_source_cannot_be_selected(self):
+        self.put("assets/a.png")
+        self.put("_sessions/recap.md", "![[assets/a.png]]")
+        plan = self.scan()
+        receipt = self.home / "receipt.json"
+        with self.assertRaisesRegex(ValueError, "unavailable for moves"):
+            mover.apply_plan(plan, receipt, sources=["assets/a.png"])
+        self.assertFalse(receipt.exists())
+
+    def test_missing_and_changed_sources_edited_proposals_and_collisions_are_rejected(self):
+        for change, reason in {
+            "missing": "source no longer exists",
+            "bytes": "Source changed",
+            "destination": "proposal was edited",
+            "collision": "destination already exists",
+        }.items():
             with self.subTest(change=change), tempfile.TemporaryDirectory() as temp:
                 vault = Path(temp) / "vault"
                 (vault / "assets").mkdir(parents=True)
-                source = vault / "assets/scene.png"; source.write_text("before")
+                source = vault / "assets/scene.png"
+                source.write_text("before")
                 plan = finder.scan(vault)
-                if change == "new-link":
-                    (vault / "Regular.md").write_text("![[scene.png]]")
+                if change == "missing":
+                    source.unlink()
                 elif change == "bytes":
                     source.write_text("changed")
                 elif change == "destination":
@@ -189,9 +208,9 @@ class AssetReviewTests(unittest.TestCase):
                 else:
                     (vault / "assets/_unlinked").mkdir()
                     (vault / "assets/_unlinked/scene.png").write_text("keep")
-                with self.assertRaisesRegex(ValueError, "Stale or unsafe"):
+                with self.assertRaisesRegex(ValueError, reason):
                     mover.apply_plan(plan, Path(temp) / "receipt.json")
-                self.assertTrue(source.exists())
+                self.assertEqual(source.exists(), change != "missing")
 
     def test_late_failure_rolls_back_completed_moves(self):
         self.put("assets/a.png", "a")
@@ -209,30 +228,16 @@ class AssetReviewTests(unittest.TestCase):
         self.assertEqual((self.vault / "assets/b.png").read_text(), "b")
         self.assertEqual(json.loads((self.home / "receipt.json").read_text())["status"], "rolled-back")
 
-    def test_symlink_and_duplicate_plan_entries_rejected(self):
+    def test_symlink_and_edited_plan_entries_rejected(self):
         self.put("assets/a.png")
         plan = self.scan()
         plan["moves"].append(copy.deepcopy(plan["moves"][0]))
-        with self.assertRaisesRegex(ValueError, "Duplicate"):
+        with self.assertRaisesRegex(ValueError, "proposal was edited"):
             mover.validate_plan(plan)
         (self.vault / "assets/a.png").unlink()
         external = self.home / "outside.png"; external.write_text("outside")
         (self.vault / "assets/a.png").symlink_to(external)
         self.assertIn("symlink", self.scan()["held"][0]["blockers"])
-
-    def test_post_move_reference_change_rolls_back_without_reverting_note(self):
-        self.put("assets/a.png", "a")
-        plan = self.scan()
-        original_transfer = mover.transfer
-        def add_reference(source, destination, digest):
-            original_transfer(source, destination, digest)
-            if source == self.vault / "assets/a.png":
-                self.put("New.md", "![[a.png]]")
-        with patch.object(mover, "transfer", side_effect=add_reference):
-            with self.assertRaisesRegex(ValueError, "References changed"):
-                mover.apply_plan(plan, self.home / "receipt.json")
-        self.assertTrue((self.vault / "assets/a.png").exists())
-        self.assertEqual((self.vault / "New.md").read_text(), "![[a.png]]")
 
     def test_transfer_never_overwrites_an_existing_destination(self):
         source = self.put("assets/a.png", "original")

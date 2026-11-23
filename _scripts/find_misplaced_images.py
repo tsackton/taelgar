@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
 """Plan filename-preserving image/audio moves. Never modify the vault.
 
-Requires PyYAML. Reports contain private reference paths: write them outside the
-vault and any consumer roots. The JSON moves array may be reduced for approval;
-move_assets.py re-scans selected entries before applying them.
+Requires PyYAML. Write the unedited proposal outside the vault and consumer
+roots, then use move_assets.py to apply approved entries.
 """
 
 from __future__ import annotations
@@ -23,7 +22,7 @@ from urllib.parse import unquote
 import yaml
 
 
-SCHEMA_VERSION = 1
+SCHEMA_VERSION = 2
 IMAGE_EXTS = {".png", ".jpg", ".jpeg", ".gif", ".webp", ".svg", ".avif", ".bmp", ".tif", ".tiff", ".heic"}
 AUDIO_EXTS = {".mp3", ".m4a", ".wav", ".ogg", ".flac", ".aac", ".opus", ".webm", ".aif", ".aiff"}
 TEXT_EXTS = {".md", ".canvas", ".json", ".yaml", ".yml", ".html", ".css", ".js", ".mjs", ".ts", ".py", ".rb", ".sh", ".txt", ".svg"}
@@ -93,6 +92,11 @@ def is_source(path: Path, relative: str) -> bool:
     return not (relative.startswith(".obsidian/plugins/") and re.fullmatch(r"data .*\.json", path.name))
 
 
+def proposal_checksum(plan: dict) -> str:
+    payload = {key: value for key, value in plan.items() if key != "proposalSha256"}
+    return hashlib.sha256(encoded(payload).encode()).hexdigest()
+
+
 from campaign_registry import load_campaigns
 
 
@@ -149,7 +153,7 @@ def ignored_paths(vault: Path, paths: list[str]) -> set[str]:
     return set(filter(None, result.stdout.split("\0")))
 
 
-def scan(vault: Path, *, media: str = "all", consumer_roots: list[Path] | None = None, state: dict | None = None) -> dict:
+def scan(vault: Path, *, media: str = "all", consumer_roots: list[Path] | None = None) -> dict:
     vault = vault.resolve()
     consumers = sorted({p.resolve() for p in (consumer_roots or [])}, key=str)
     if media not in {"all", "images", "audio"}:
@@ -316,12 +320,12 @@ def scan(vault: Path, *, media: str = "all", consumer_roots: list[Path] | None =
         if move["source"] in ignored and move["destination"] not in ignored:
             moves.remove(move)
             held.append({**move, "blockers": ["would-expose-git-ignored-asset"]})
-    if state is not None:
-        state.update({"assets": assets, "sourceHashes": hashes})
-    return {"schemaVersion": SCHEMA_VERSION, "vault": str(vault),
+    plan = {"schemaVersion": SCHEMA_VERSION, "vault": str(vault),
             "policy": {"media": media, "excludedAssetDirs": list(EXCLUDED_ASSET_DIRS), "consumerRoots": [str(p) for p in consumers]},
             "summary": dict(sorted(summary.items())), "moves": moves,
             "held": sorted(held, key=lambda m: m["source"])}
+    plan["proposalSha256"] = proposal_checksum(plan)
+    return plan
 
 
 def main() -> None:
