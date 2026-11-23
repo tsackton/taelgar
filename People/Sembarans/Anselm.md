@@ -21,8 +21,8 @@ POV: 1719
 > [!taelgar-header]
 > (human, Sembaran, he/him, b. 1655, lives in Cleenseau)
 
-> [!image|right]
-> ![[anselm-portrait.webp|320]]
+> [!image|right standard]
+> ![[anselm-portrait.webp]]
 
 The temple administrator of the Temple of the Warlord in [[Cleenseau]]. An ambitious man and not very religious.
 
