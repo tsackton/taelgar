@@ -18,12 +18,11 @@ POV: modern
 The Redpeaks are a dwarven clan, prominent in [[Darba]], with ties to [[Tharn Todor]] and [[Nardith]]. The Redpeaks were among the clans with connections to the [[Dwarven Outpost (Raven's Hold)|dwarven outpost near Raven's Hold]] before the [[Great War]]. After fleeing to [[Nardith]] with many others, they spread west through their trade connections and now maintain estates in Darba’s dwarven quarter.
 
 ###  Members
-```dataviewjs
-const { util } = customJS
-dv.table(["Person", "Current Location"], 
-			dv.pages("#person")
-				.where(f => util.isOrWasAffiliated(dv.current().file.name, f.file, dv.current().pageTargetDate))
-				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file, dv.current().pageTargetDate), util.s("<lastknown:2r> (<lastknowndate>)", b.file, dv.current().pageTargetDate)]))
+```taelgar-index
+type: members
+membership: historical
+mode: table
+heading: false
 ```
 
 

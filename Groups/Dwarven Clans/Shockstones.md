@@ -22,12 +22,11 @@ The clan is best known, at least outside dwarven circles, through [[Brelith|Brel
 %%^End%%
 
 ###  Members
-```dataviewjs
-const { util } = customJS
-dv.table(["Person", "Current Location"], 
-			dv.pages("#person")
-				.where(f => util.isOrWasAffiliated(dv.current().file.name, f.file, dv.current().pageTargetDate))
-				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file, dv.current().pageTargetDate), util.s("<lastknown:2r> (<lastknowndate>)", b.file, dv.current().pageTargetDate)]))
+```taelgar-index
+type: members
+membership: historical
+mode: table
+heading: false
 ```
 
 %%^Metadata:names:v1%%
