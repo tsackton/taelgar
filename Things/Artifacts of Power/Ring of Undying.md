@@ -2,7 +2,7 @@
 lintedAt: "2026-10-19T00:07:38-04:00"
 lintVersion: "3.5"
 displayDefaults: {wPastHome: "Was owned by: <current:1>", dPast: "Destroyed by [[Wellby]] on <endDate>"}
-tags: [object, status/check/lint, status/check/ai]
+tags: [object, status/check/lint]
 typeOf: ring
 rarity: unique
 destroyed: 1749-01-20
@@ -17,8 +17,9 @@ POV: modern
 > [!taelgar-header]
 > (unique ring)
 
-> [!image|right]
-> ![[ring-of-undying.webp|400]]
+> [!image|right standard]
+> ![[ring-of-undying.webp]]
+> *Ring of Undying*
 
 A ring, worn by [[Grash]], that supposedly lets one cheat death forever, and control death around you. Presumably the source of [[Grash]]'s ability to resurrect dead [[Orcs]] into undead.
 

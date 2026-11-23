@@ -1,7 +1,3 @@
----
-tags: [status/check/ai]
----
-
 # 2024-07-09 - Holy Symbols
 
 [2024-07-09 09:49 AM] rsulfuratus: night queen tapestry preference?
@@ -9,9 +5,7 @@ tags: [status/check/ai]
 ![[../_assets/discord/night-queen-tapestry-1-CB115.png]]
 [2024-07-09 10:22 AM] Deciusmus: Eh. I don’t love either actually. I think the central figure looks too sinister.  I like the first one except the two little dots on her head look like creepy eyes to me
 [2024-07-09 05:07 PM] rsulfuratus: Narengril?
-
-> [!image|right standard]
-> ![[assets/narengril.webp]]
+![[assets/narengril.webp]]
 
 [2024-07-09 05:12 PM] rsulfuratus: alternate night queen tapesty. was aiming for "mystery" more than "creeping" but don't want her face to be obviously visible.
 ![[../_assets/discord/rsulfuratus_A_large_tapestry_depicting_a_g-033FE.png]]

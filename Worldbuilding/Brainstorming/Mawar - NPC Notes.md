@@ -1,7 +1,3 @@
----
-tags: [status/check/ai]
----
-
 # Mawar NPCs
 
 These are unused NPCs from various Mawar invention. Unclear if they should exist or not. 
@@ -10,6 +6,7 @@ These are unused NPCs from various Mawar invention. Unclear if they should exist
 
 > [!image|right standard]
 > ![[yadria-anwafi-onenote.webp]]
+> *Yadria Anwafi*
 
 Sister of Hirshim, lives with him on Glittercliff, in one of the four large, stately houses set on the terrace. Unmarried, rumored to be one of the main sources of gatza in Hamri.
  
@@ -17,6 +14,7 @@ Sister of Hirshim, lives with him on Glittercliff, in one of the four large, sta
 
 > [!image|right standard]
 > ![[hirshim-anwafi-onenote.webp]]
+> *Hirshim Anwafi*
 
 Brother to Yadria, lives with her on Glittercliff. Moved to town about 15 years ago, with Yadria.
  
@@ -27,3 +25,4 @@ _Hala (they/them)_, a traveler from [[Suhaya]] who has been staying at the Levia
 
  > [!image|right standard]
  > ![[hala-onenote.webp]]
+ > *Hala*

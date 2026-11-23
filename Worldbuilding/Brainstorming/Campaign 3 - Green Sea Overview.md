@@ -1,6 +1,5 @@
 ---
 tags: [meta, status/check/ai]
-name: Campaign 3 - Green Sea Overview
 ---
 # Campaign 3 — Green Sea Overview
 

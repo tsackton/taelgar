@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # 2026-10-25 - Elmerca and Elven Garden Magic
 
 *[Editorial note: Cut 5 messages about review scheduling and map-tool plans.]*

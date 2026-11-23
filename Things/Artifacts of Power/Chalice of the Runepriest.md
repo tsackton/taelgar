@@ -2,7 +2,7 @@
 lintedAt: "2026-10-19T00:07:38-04:00"
 lintVersion: "3.5"
 displayDefaults: {wOrigin: "<start:u> in <startDate> <origin:3rq>", wCurrent: "Current location: <current:3r>", dCurrent: ""}
-tags: [object, testcase, status/check/lint, status/check/ai]
+tags: [object, testcase, status/check/lint]
 typeOf: chalice
 ancestry: dwarven
 created: 1547
@@ -27,8 +27,9 @@ Whereabouts dates:
 dates are approx prior to 1748
 %%
 
-> [!image|right]
-> ![[chalice-of-the-runepriest.webp|400]]
+> [!image|right standard]
+> ![[chalice-of-the-runepriest.webp]]
+> *Chalice of the Runepriest*
 
 An elaborate rune-carved chalice of ambiguous origin, revered as a sacred national treasure by the dwarves of Nardith. It is rumored to have many powers, including the power to heal all wounds and illness and the power to magically provide food, water, and shelter to all who need it.
 

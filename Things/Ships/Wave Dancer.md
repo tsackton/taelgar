@@ -2,7 +2,7 @@
 lintedAt: "2026-10-19T00:07:38-04:00"
 lintVersion: "3.5"
 displayDefaults: {wOrigin: "Home area: <origin>", ruledBy: "<affiliationtitle:t>: <name> <(of )primary>", wHome: "", wCurrent: "Current location: <current:3Frq>"}
-tags: [object, testcase, status/check/lint, status/check/ai]
+tags: [object, testcase, status/check/lint]
 typeOf: vehicle
 typeOfAlias: boat
 ancestry: halfling
@@ -21,16 +21,17 @@ POV: 1740s
 > (halfling boat)
 
 A halfling ship plying the trade routes of the eastern Green Sea, regularly visiting [[Praznitsky]], [[Wahacha]], [[Quanyi]], and [[Medju]].  
+
+> [!image|figure standard]
+> ![[wave-dancer-1.webp]]
+> *Wave Dancer under sail*
+
 ## Crew
 [[Wella Brightmoon]], captain and matriarch of the family
 [[Rose Brightmoon]], musician and Wella's wife
 [[Pearl Brightmoon]], first mate and captain of the guard
 [[Corrin Wildheart]], navigator
 [[Lerry Wildheart]], quartermaster
-
-> [!image|figure]
-> ![[wave-dancer-1.webp|500]]
-> *Wave Dancer under sail*
 
 %% old notes from OneNote
 Main people:

@@ -1,7 +1,3 @@
----
-tags: [status/check/ai]
----
-
 # 2026-09-13 - Orenlas Travel and Delwath Character Studies
 
 [2026-09-13 10:20 AM] Deciusmus: do you have any ideas what the lake orenlas is on is about? is it part of orenlas or its own thing or what?
@@ -162,6 +158,4 @@ tags: [status/check/ai]
 [2026-09-13 11:39 AM] Deciusmus: A little long. Closer to shoulder
 
 [2026-09-13 11:54 AM] rsulfuratus:
-
-> [!image|right standard]
-> ![[assets/pc-references/delwath-early-campaign-full-body-rear.webp]]
+![[assets/pc-references/delwath-early-campaign-full-body-rear.webp]]

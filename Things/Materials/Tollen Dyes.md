@@ -2,7 +2,7 @@
 lintedAt: "2026-10-19T00:07:38-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-tags: [object, status/check/lint, status/check/ai]
+tags: [object, status/check/lint]
 typeOf: material
 name: Tollen Dyes
 knownTo: [clee, feywild]
@@ -14,8 +14,9 @@ POV: modern
 > [!taelgar-header]
 > (material)
 
-> [!image|right]
-> ![[tollen-red-cloak.webp|300]]
+> [!image|right standard]
+> ![[tollen-red-cloak.webp]]
+> *A Tollen red cloak*
 
 The city of Tollen is famous for producing a variety of dyes, both [[Tollen Magical Tattoo|magical]] and mundane. The most distinctive of these is Tollen red, a brilliant, bright vermillion red with excellent color fastness, used in particular to make distinctive bright Tollen red cloaks.
 

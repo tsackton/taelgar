@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-19T00:07:38-04:00"
 lintVersion: "3.5"
-tags: [object, testcase, status/check/lint, status/check/ai]
+tags: [object, testcase, status/check/lint]
 typeOf: scepter
 rarity: unique
 campaignInfo:
@@ -25,10 +25,11 @@ POV: modern
 > [!taelgar-header]
 > (unique scepter)
 
-> [!image|right]
-> ![[scepter-of-command.webp|300]]
-
 %% needs to incorporate some secrets in to the note, as most have been revealed in game by now %%
+
+> [!image|right standard]
+> ![[scepter-of-command.webp]]
+> *Scepter of Command*
 
 This scepter is about a foot long and is constructed in silver, with loops of silver forming a ball at the head, set with diamonds that seem to catch the light. It feels very old, and yet doesn't seem tarnished or worn at all. 
 

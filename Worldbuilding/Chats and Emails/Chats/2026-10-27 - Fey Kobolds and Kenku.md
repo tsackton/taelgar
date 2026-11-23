@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # 2026-10-27 - Fey Kobolds and Kenku
 
 *[Editorial note: Cut 7 messages about map labels and asset coordination.]*

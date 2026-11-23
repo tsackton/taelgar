@@ -2,7 +2,7 @@
 lintedAt: "2026-10-19T00:07:38-04:00"
 lintVersion: "3.5"
 displayDefaults: {wOrigin: "Home area: <origin>", prep: "on", wHome: "Home area: <home>"}
-tags: [object, status/cleanup/whereabouts, status/check/ai]
+tags: [object, status/cleanup/whereabouts]
 typeOf: vehicle
 typeOfAlias: boat
 ancestry: halfling

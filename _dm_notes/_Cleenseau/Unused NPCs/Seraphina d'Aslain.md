@@ -1,20 +1,17 @@
----
-tags: [status/check/ai]
----
-
-> [!image|left]
-> ![[seraphina-aslain.webp|200]]
-
 Seraphina d'Aslain (lord, child) 
+
+> [!image|right standard]
+> ![[seraphina-aslain.webp]]
+> *Seraphina d'Aslain the Younger*
+
 of the Aslain family, a cousin of the baron
 young, the lord of Aslain but currently has a regency council of her aunt and two cousins (brothers of the baron)
 
 (cousins Pierre and Girard)
 
-> [!image|left]
-> ![[amelot-aslain.webp|200]]
-
-(Amelot, aunt)
+> [!image|figure standard]
+> ![[amelot-aslain.webp]]
+> *(Amelot, aunt)*
 
 
 Family notes
@@ -71,5 +68,6 @@ Luc (born 1559, d. 1620 )
 
 Jean-Luc's mother:
 
-> [!image|right]
-> ![[seraphina-elder-aslain.webp|400]]
+> [!image|figure standard]
+> ![[seraphina-elder-aslain.webp]]
+> *Seraphina d'Aslain the Elder*

@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # 2026-10-26 - Elmerca Aldanor and Elven Magic
 
 [2026-10-26 08:12 AM] rsulfuratus: revised elf. didn't really notice that Elmerca had become central to the gardens, was just kind of riffing on Elmerca = magic. i agree that the garden thing is not any one firstborn

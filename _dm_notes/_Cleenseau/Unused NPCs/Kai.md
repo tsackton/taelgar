@@ -1,9 +1,5 @@
----
-tags: [status/check/ai]
----
-
-> [!image|left]
-> ![[kai-squatter.webp|200]]
+> [!image|]
+> ![[kai-squatter.webp]]
 
 squatter in the ruins
 likes to gamble

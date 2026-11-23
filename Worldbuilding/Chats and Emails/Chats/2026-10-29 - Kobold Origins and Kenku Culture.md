@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # 2026-10-29 - Kobold Origins and Kenku Culture
 
 *[Editorial note: Cut 3 messages about transcript-processing coordination.]*

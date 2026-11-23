@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-19T00:07:38-04:00"
 lintVersion: "3.5"
-tags: [object, testcase, status/cleanup/text, status/check/ai]
+tags: [object, testcase, status/cleanup/text]
 typeOf: cloak
 subTypeOf: magical
 campaignInfo: null
@@ -25,8 +25,9 @@ POV: 1740s
 
 %%  would also be good to collate information from history and other information onto this page%%
 
-> [!image|right]
-> ![[rainbow-cloak-v2.webp|300]]
+> [!image|right standard]
+> ![[rainbow-cloak-v2.webp]]
+> *Cloak of Rainbows*
 
 The Cloak of Rainbows is a multi-colored shimmering cloak, made of the threads of sunset woven by the [[Cloudspinner]], and enchanted with powerful magic to shield the wearer from the sight and power of the Divine. The colors change with the light and the sun, shifting darker or lighter seemingly with the whims of fate.
 
@@ -41,7 +42,9 @@ The cloak also has the power to silence divine magic in a wide radius, should th
 %%SECRET[v2:42a4330fb381d224cf7db19ec3c9c6de]%%
 
 %% alternative image
-![[rainbow-cloak-v1.webp|left|400]]
+> [!image|right standard]
+> ![[rainbow-cloak-v1.webp]]
+> *Cloak of Rainbows*
 
 %%
 

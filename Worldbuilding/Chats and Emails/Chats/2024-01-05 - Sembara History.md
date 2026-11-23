@@ -1,15 +1,7 @@
----
-tags: [status/check/ai]
----
-
 # 2024-01-05 - Sembara History 
 
 [2024-01-05 11:54 AM] Deciusmus: I pushed a image that I might use as a emblem for Avatus:
-    
-[
-
-> [!image|right standard]
-> ![[assets/avatus-symbol-sketch.webp]]
+![[assets/avatus-symbol-sketch.webp]]
 
 [2024-01-05 11:55 AM] Deciusmus: Any concerns? This is coming up in my game via some undead warriors ressurected from battlefields of the Atavus wars
 [2024-01-05 11:56 AM] rsulfuratus: looks fine to me
