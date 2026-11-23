@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-23T12:50:50-04:00"
 lintVersion: "3.5"
-tags: [place, status/gameupdate/dufr]
+tags: [place, status/gameupdate/dufr, status/check/ai]
 typeOf: realm
 typeOfAlias: theocracy
 created: 1173
@@ -161,42 +161,15 @@ With trade connections to Chardon growing, the Nayan Floodplains have also begun
 
 %%^Campaign:none%%
 ## Places in Dunmar
-```dataviewjs
-const { util, DateManager } = customJS;
-const current = dv.current();
-const target = current.file.name;
-const rows = [];
-
-for (const page of dv.pages('"Gazetteer/Greater Dunmar" and #place')) {
-    const file = page.file;
-    const metadata = file.frontmatter;
-    const targetDate = DateManager.getTargetDateForPage(metadata);
-
-    if (!util.inLocation(target, metadata, false, false, targetDate)) {
-        continue;
-    }
-
-    // Calculate these once rather than again during sorting and display.
-    const region = util.s("<home:1x>", file, targetDate);
-    const type = util.s("<maintype>", file, targetDate);
-
-    rows.push({
-        place: util.s("<name:x> (<pronunciation>)", file, targetDate),
-        region,
-        type
-    });
-}
-
-rows.sort((a, b) =>
-    a.region.localeCompare(b.region) ||
-    a.type.localeCompare(b.type) ||
-    a.place.localeCompare(b.place)
-);
-
-dv.table(
-    ["Place", "Region", "Type Of"],
-    rows.map(row => [row.place, row.region, row.type])
-);
+```taelgar-index
+type: whereabouts
+from: place
+via: current
+recursive: true
+mode: table
+heading: false
+columns: [name, region, type]
+sortBy: [region, type, name]
 ```
 
 

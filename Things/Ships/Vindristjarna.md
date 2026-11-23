@@ -2,7 +2,7 @@
 lintedAt: "2026-10-19T00:07:38-04:00"
 lintVersion: "3.5"
 displayDefaults: {linkText: "on", ltItem: stored on}
-tags: [object, status/check/lint]
+tags: [object, status/check/lint, status/check/ai]
 typeOf: skyship
 subTypeOf: magical
 typeOfAlias: skyship
@@ -80,22 +80,24 @@ More detail about the mechanical effects of Vindristjarna can be found here:
 People currently on Vindristjarna, including those trapped in the [[Mirror of Soul Trapping]], are listed below. 
 
 ### On Vindristjarna
-```dataviewjs
-const { util } = customJS
-dv.table(["Person", "Info", "Current Location", "Home"], 
-			dv.pages("#person")
-				.where(f => util.inOrHomeLocation("Vindristjarna", f.file.frontmatter, dv.current().pageTargetDate))
-				.where(f => !util.inOrHomeLocation("Mirror of Soul Trapping", f.file.frontmatter, dv.current().pageTargetDate))				
-				.map(b => [util.s("<name> <pronunciation> (<pronouns>)", b.file), util.s("<ancestry> <maintype>", b.file), util.s("<lastknown:2> (<lastknowndate>)", b.file, dv.current().pageTargetDate), util.s("<home:1>", b.file, dv.current().pageTargetDate)]))
+```taelgar-index
+type: whereabouts
+from: person
+via: current
+recursive: false
+mode: table
+heading: false
 ```
 
 ### In the Mirror
-```dataviewjs
-const { util } = customJS
-dv.table(["Person", "Info", "Current Location", "Home"], 
-			dv.pages("#person")
-				.where(f => util.inOrHomeLocation("Mirror of Soul Trapping", f.file.frontmatter, dv.current().pageTargetDate))				
-				.map(b => [util.s("<name> <pronunciation> (<pronouns>)", b.file), util.s("<ancestry> <maintype>", b.file), util.s("<lastknown:2> (<lastknowndate>)", b.file, dv.current().pageTargetDate), util.s("<home:1>", b.file, dv.current().pageTargetDate)]))
+```taelgar-index
+type: whereabouts
+from: person
+via: current
+target: Mirror of Soul Trapping
+recursive: false
+mode: table
+heading: false
 ```
 
 %%^End%%
