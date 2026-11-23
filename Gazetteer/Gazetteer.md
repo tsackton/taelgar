@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-23T14:23:24-04:00"
 lintVersion: "3.5"
-tags: [meta]
+tags: [meta, status/check/ai]
 name: Gazetteer
 noPublish: true
 dm_owner: none
@@ -16,13 +16,16 @@ This directory contains **character-facing**, **meta**, and **in-world** pages a
 Using this as a place for tracking general organization across regions. 
 
 ## Regions of Taelgar
-```dataviewjs
-const { util } = customJS
-dv.table(["Place"], 
-			dv.pages("#place")
-				.where(f => util.currentLocation(f.file.frontmatter, dv.current().pageTargetDate) == "Taelgar" && f.file.frontmatter.typeOf=="region")
-				.sort(b => util.s("<maintype>", b.file))
-				.map(b => [util.s("<name> (<pronunciation>)", b.file)]))
+```taelgar-index
+type: whereabouts
+from: place
+via: home
+target: Taelgar
+recursive: false
+where: {typeOf: region}
+mode: table
+heading: false
+columns: [name]
 ```
 
 
