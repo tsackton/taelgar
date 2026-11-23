@@ -68,15 +68,10 @@ Other landmarks could include a theater, government palace, major clock tower, o
 
 %%^Campaign:None%%
 ### Places in Tollen
-```dataviewjs
-const { util } = customJS
-dv.table(["Place", "Type Of"], 
-			dv.pages("#place")
-				.where(f => util.inLocation(dv.current().file.name, f.file.frontmatter))
-				.sort(s => util.s("<name:!>", s. file))
-				.sort(s => util.s("<maintype>", s.file))
-				.map(b => [util.s("<name:t>", b.file), util.s("<maintype>", b.file)]))
-				
+```taelgar-index
+type: places
+mode: table
+heading: false
 ```
 
 %%^End%%

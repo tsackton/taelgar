@@ -42,13 +42,10 @@ In general, despite its relatively ancient roots, [[Barony of Aveil|Aveil]] is a
 The [[Old Veltor Road]] is a maintained road along the [[Auberonne]], from [[Rinburg]] to [[Veltor]], while the [[Aveil Road]] runs north from the tin mines to the [[Wistel]].
 
 ### Cities in Barony of Aveil
-```dataviewjs
-const { util } = customJS
-dv.table(["Place", "Region", "Type Of", "Population"], 
-			dv.pages("#place")
-				.where(f => util.inLocation(dv.current().file.name, f.file.frontmatter, true, true, dv.current().pageTargetDate) && (f.file.frontmatter.typeOf == "settlement"))
-				.sort(f => util.s("<home:1>", f.file))
-				.map(b => [util.s("<name> (<pronunciation>)", b.file), util.s("<home:1>", b.file, dv.current().pageTargetDate), util.s("<maintype>", b.file, dv.current().pageTargetDate), util.s("<population>", b.file, dv.current().pageTargetDate)]))
+```taelgar-index
+type: settlements
+mode: table
+heading: false
 ```
 
 ### Rivers and Landforms 

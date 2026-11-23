@@ -50,13 +50,10 @@ On the north bank, outside of the walls and west of the town, is a small cluster
 
 %%^Campaign:none%%
 ### Places in Cleenseau
-```dataviewjs
-const { util } = customJS
-dv.table(["Place", "Type Of"], 
-			dv.pages("#place")
-				.where(f => util.inLocation(dv.current().file.name, f.file.frontmatter))
-				.sort(f => util.s("<maintype>", f.file))
-				.map(b => [util.s("<name>", b.file), util.s("<maintype>", b.file)]))
+```taelgar-index
+type: places
+mode: table
+heading: false
 ```
 %%^End%%
 
