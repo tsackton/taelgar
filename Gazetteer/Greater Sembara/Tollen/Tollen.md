@@ -69,7 +69,10 @@ Other landmarks could include a theater, government palace, major clock tower, o
 %%^Campaign:None%%
 ### Places in Tollen
 ```taelgar-index
-type: places
+type: whereabouts
+from: place
+via: lastKnown
+scope: historical
 mode: table
 heading: false
 ```

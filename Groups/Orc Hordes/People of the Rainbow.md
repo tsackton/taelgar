@@ -50,7 +50,8 @@ Now, the People of the Rainbow are thriving in [[Xurkhaz]], and perhaps in other
 ### Current Members
 
 ```taelgar-index
-type: members
+type: affiliation
+from: person
 mode: table
 heading: false
 ```

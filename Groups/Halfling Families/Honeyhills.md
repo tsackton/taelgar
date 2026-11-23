@@ -25,7 +25,8 @@ The Honeyhills' two major trading ships, the Twilight Breeze and the Starlight B
 ### Members
 
 ```taelgar-index
-type: members
+type: affiliation
+from: person
 mode: table
 heading: false
 ```

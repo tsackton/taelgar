@@ -7,7 +7,10 @@ dm_notes: none
 ---
 ### Places in Greater Chardon
 ```taelgar-index
-type: places
+type: whereabouts
+from: place
+via: lastKnown
+scope: historical
 target: Greater Chardon
 mode: table
 heading: false

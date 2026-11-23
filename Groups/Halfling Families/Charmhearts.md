@@ -25,7 +25,8 @@ They are a serious trading family, and always travel prepared for danger, especi
 ### Members
 
 ```taelgar-index
-type: members
+type: affiliation
+from: person
 mode: table
 heading: false
 ```

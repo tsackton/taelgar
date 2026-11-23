@@ -21,8 +21,9 @@ The clan has traditionally worked as architects and builders for the Archives, b
 
 ###  Members
 ```taelgar-index
-type: members
-membership: historical
+type: affiliation
+from: person
+scope: ever
 mode: table
 heading: false
 ```

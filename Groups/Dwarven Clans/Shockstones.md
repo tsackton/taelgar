@@ -23,8 +23,9 @@ The clan is best known, at least outside dwarven circles, through [[Brelith|Brel
 
 ###  Members
 ```taelgar-index
-type: members
-membership: historical
+type: affiliation
+from: person
+scope: ever
 mode: table
 heading: false
 ```

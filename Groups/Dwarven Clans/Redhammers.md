@@ -16,8 +16,9 @@ POV: modern
 
 ###  Members
 ```taelgar-index
-type: members
-membership: historical
+type: affiliation
+from: person
+scope: ever
 mode: table
 heading: false
 ```

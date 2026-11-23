@@ -41,7 +41,9 @@ Beury traditionally celebrates the festival of the Empty Cauldron on May 12. The
 %%^Campaign:None%%
 ### People in, or based in Beury
 ```taelgar-index
-type: residents
+type: whereabouts
+from: person
+via: home
 mode: table
 heading: false
 ```

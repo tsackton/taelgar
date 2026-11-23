@@ -32,7 +32,10 @@ Five major rivers, in addition to the [[Chasa]], and several smaller ones, flow 
 
 ## Places in the Coastlands
 ```taelgar-index
-type: places
+type: whereabouts
+from: place
+via: lastKnown
+scope: historical
 mode: table
 heading: false
 ```

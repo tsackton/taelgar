@@ -22,10 +22,12 @@ While they rejected the extremist claims of the [[Omnis Pura]] in the later year
 ### Historical Members
 
 ```taelgar-index
-type: members
-membership: historical
+type: affiliation
+from: person
+scope: ever
 mode: table
-columns: life-dates
+columns: [name, info, born, died]
+sortBy: [born, name]
 heading: false
 ```
 %%^End%%

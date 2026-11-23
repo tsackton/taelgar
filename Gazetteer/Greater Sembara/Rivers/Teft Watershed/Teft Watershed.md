@@ -60,7 +60,12 @@ Approximately source (Sembara): 11.11.E.14 end (Teft): 11.11.H.10
 ## Places in the Teft Watershed
 
 ```taelgar-index
-type: rivers
+type: whereabouts
+from: place
+via: lastKnown
+scope: historical
+where:
+  typeOf: [waterway, lake]
 mode: table
 heading: false
 ```

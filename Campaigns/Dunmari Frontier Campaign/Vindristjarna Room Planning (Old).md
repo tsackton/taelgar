@@ -228,22 +228,25 @@ The storage deck is currently unfinished and is primarily used as an actual stor
 # People
 
 ## On Vindristjarna
-```dataviewjs
-const { util } = customJS
-dv.table(["Person", "Info", "Current Location", "Home"], 
-			dv.pages("#person")
-				.where(f => util.inOrHomeLocation("Vindristjarna", f.file.frontmatter, dv.current().pageTargetDate))
-				.where(f => !util.inOrHomeLocation("Mirror of Soul Trapping", f.file.frontmatter, dv.current().pageTargetDate))				
-				.map(b => [util.s("<name> <pronunciation> (<pronouns>)", b.file), util.s("<ancestry> <maintype>", b.file), util.s("<lastknown:2> (<lastknowndate>)", b.file, dv.current().pageTargetDate), util.s("<home:1>", b.file, dv.current().pageTargetDate)]))
+```taelgar-index
+type: whereabouts
+from: person
+via: current
+target: Vindristjarna
+recursive: false
+mode: table
+heading: false
 ```
 
 ## In the Mirror
-```dataviewjs
-const { util } = customJS
-dv.table(["Person", "Info", "Current Location", "Home"], 
-			dv.pages("#person")
-				.where(f => util.inOrHomeLocation("Mirror of Soul Trapping", f.file.frontmatter, dv.current().pageTargetDate))				
-				.map(b => [util.s("<name> <pronunciation> (<pronouns>)", b.file), util.s("<ancestry> <maintype>", b.file), util.s("<lastknown:2> (<lastknowndate>)", b.file, dv.current().pageTargetDate), util.s("<home:1>", b.file, dv.current().pageTargetDate)]))
+```taelgar-index
+type: whereabouts
+from: person
+via: current
+target: Mirror of Soul Trapping
+recursive: false
+mode: table
+heading: false
 ```
 
 %%^Lint%%

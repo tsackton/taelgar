@@ -29,7 +29,9 @@ A small village overseen by the castellan of the [[Manor of Valit]] of about 50 
 %%^Campaign:None%%
 ### People in, or based in Valit
 ```taelgar-index
-type: residents
+type: whereabouts
+from: person
+via: home
 mode: table
 heading: false
 ```

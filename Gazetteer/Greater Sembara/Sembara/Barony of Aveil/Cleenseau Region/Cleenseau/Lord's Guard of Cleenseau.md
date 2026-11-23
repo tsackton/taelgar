@@ -35,8 +35,9 @@ The town watch is led by [[Beatrix Thorne]], and the current members are:
 ### Members
 
 ```taelgar-index
-type: members
-membership: historical
+type: affiliation
+from: person
+scope: ever
 mode: table
 heading: false
 ```

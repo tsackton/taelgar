@@ -17,6 +17,8 @@ Metadata is primarily used to control automatic header generation, and allow dat
 
 ## Scripts and Code
 
+[[Taelgar Index]] shows how to list residents, places, members, and leaders in Obsidian and on the website.
+
 [[Taelgarverse Code]]: contains information about Python and JavaScript code associated with header generation, dataviewJS queries, etc. 
 [[Templates]]: describes templates that can be used, both for the Templater plugin and plain Markdown templates that can be copied and filled out. 
 [[Image Callouts]]: describes image roles, named sizes, captions, galleries, session recap image fields, and the Obsidian lightbox.

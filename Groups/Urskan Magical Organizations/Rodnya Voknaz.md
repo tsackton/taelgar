@@ -24,7 +24,8 @@ The Rodnya’s headquarters is the [[Voknaz Manor]], a heavily warded estate tha
 ### Members
 
 ```taelgar-index
-type: members
+type: affiliation
+from: person
 mode: table
 heading: false
 ```

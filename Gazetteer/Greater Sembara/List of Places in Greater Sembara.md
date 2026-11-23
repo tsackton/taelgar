@@ -6,7 +6,10 @@ dm_notes: none
 ---
 ### Places in Greater Sembara
 ```taelgar-index
-type: places
+type: whereabouts
+from: place
+via: lastKnown
+scope: historical
 target: Greater Sembara
 mode: table
 heading: false

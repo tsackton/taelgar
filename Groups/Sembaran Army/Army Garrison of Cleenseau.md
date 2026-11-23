@@ -47,7 +47,8 @@ Due to the actions of the Cleenseau PCs, Rosalind, a relatively well respected n
 ### Members
 
 ```taelgar-index
-type: members
+type: affiliation
+from: person
 mode: table
 heading: false
 ```

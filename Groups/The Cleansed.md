@@ -24,7 +24,8 @@ A mysterious secret society in [[Chardon]] of which [[Fausto]] is a member and w
 ### Members
 
 ```taelgar-index
-type: members
+type: affiliation
+from: person
 mode: table
 heading: false
 ```

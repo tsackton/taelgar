@@ -17,7 +17,8 @@ The de Brunes are a wealthy mercantile family with roots in the [[Enst]] river v
 %%^Campaign:none%%
 ### Members
 ```taelgar-index
-type: members
+type: affiliation
+from: person
 mode: table
 heading: false
 ```

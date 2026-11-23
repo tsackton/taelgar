@@ -60,7 +60,9 @@ The temple to [[The Wyrdling]] here is known for a chaotic painting on the wall,
 %%^Campaign:None%%
 ### People in, or based in Asineau
 ```taelgar-index
-type: residents
+type: whereabouts
+from: person
+via: home
 mode: table
 heading: false
 ```

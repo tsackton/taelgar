@@ -31,8 +31,15 @@ Despite the peace and prosperity of Am'khazar, it has experienced trials and tur
 ## Locations
 
 ```taelgar-index
-type: settlements
+type: whereabouts
+from: place
+via: lastKnown
+scope: historical
+where:
+  typeOf: settlement
 mode: table
+columns: [name, region, type, population]
+sortBy: [region, name]
 heading: false
 ```
 

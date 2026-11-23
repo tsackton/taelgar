@@ -27,7 +27,9 @@ A poor fishing village on the banks of the [[Enst]], a short walk from [[Cleense
 %%^Campaign:None%%
 ### People in, or based in Auloutte
 ```taelgar-index
-type: residents
+type: whereabouts
+from: person
+via: home
 mode: table
 heading: false
 ```

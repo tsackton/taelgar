@@ -26,7 +26,8 @@ The Silversongs have been sailing the trade routes between Chardon and the Nevos
 ### Members
 
 ```taelgar-index
-type: members
+type: affiliation
+from: person
 mode: table
 heading: false
 ```

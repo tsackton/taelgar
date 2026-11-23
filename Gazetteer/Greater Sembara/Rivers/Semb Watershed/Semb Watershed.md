@@ -80,7 +80,12 @@ Mapped Lakes of the Semb Watershed:
 
 ## Places in the Semb Watershed
 ```taelgar-index
-type: rivers
+type: whereabouts
+from: place
+via: lastKnown
+scope: historical
+where:
+  typeOf: [waterway, lake]
 mode: table
 heading: false
 ```

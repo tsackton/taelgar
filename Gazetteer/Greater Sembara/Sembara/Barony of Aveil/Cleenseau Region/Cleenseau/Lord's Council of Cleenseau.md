@@ -28,7 +28,8 @@ The Lord's Council is an advisory group to the lord of [[Cleenseau]], currently 
 %%^Campaign:None%%
 ### Members
 ```taelgar-index
-type: members
+type: affiliation
+from: person
 mode: table
 heading: false
 ```

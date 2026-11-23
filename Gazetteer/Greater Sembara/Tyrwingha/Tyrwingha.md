@@ -37,7 +37,10 @@ Religiously, little is remembered about the ancient gods of Tyrwingha, such as t
 %%^Campaign:None%%
 ### Places in Tyrwingha
 ```taelgar-index
-type: places
+type: whereabouts
+from: place
+via: lastKnown
+scope: historical
 mode: table
 heading: false
 ```
@@ -46,8 +49,15 @@ heading: false
 %%^Campaign:None%%
 ### Cities in Tyrwingha
 ```taelgar-index
-type: settlements
+type: whereabouts
+from: place
+via: lastKnown
+scope: historical
+where:
+  typeOf: settlement
 mode: table
+columns: [name, region, type, population]
+sortBy: [region, name]
 heading: false
 ```
 

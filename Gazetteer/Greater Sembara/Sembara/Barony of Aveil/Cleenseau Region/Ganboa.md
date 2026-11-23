@@ -29,7 +29,9 @@ A small community of fisherfolk in [[Asineau]] has been known to grumble about l
 %%^Campaign:None%%
 ### People in, or based in Ganboa
 ```taelgar-index
-type: residents
+type: whereabouts
+from: person
+via: home
 mode: table
 heading: false
 ```

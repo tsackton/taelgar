@@ -21,7 +21,8 @@ A family of halfling innkeepers and merchants, traditionally based in [[Central 
 ### Members
 
 ```taelgar-index
-type: members
+type: affiliation
+from: person
 mode: table
 heading: false
 ```

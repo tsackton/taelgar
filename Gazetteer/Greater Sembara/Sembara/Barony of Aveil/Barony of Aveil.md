@@ -43,25 +43,35 @@ The [[Old Veltor Road]] is a maintained road along the [[Auberonne]], from [[Rin
 
 ### Cities in Barony of Aveil
 ```taelgar-index
-type: settlements
+type: whereabouts
+from: place
+via: lastKnown
+scope: historical
+where:
+  typeOf: settlement
 mode: table
+columns: [name, region, type, population]
+sortBy: [region, name]
 heading: false
 ```
 
 ### Rivers and Landforms 
-```dataviewjs
-const { util } = customJS
-dv.table(["Place", "Type Of"], 
-			dv.pages("#place")
-				.where(f => util.inLocation(dv.current().file.name, f.file.frontmatter, dv.current().pageTargetDate) && (f.file.frontmatter.typeOf == "waterway" || f.file.frontmatter.typeOf == "landform"))
-				.sort(b => util.s("<maintype>", b.file))
-				.map(b => [util.s("<name> (<pronunciation>)", b.file), util.s("<maintype>", b.file)]))
+```taelgar-index
+type: whereabouts
+from: place
+via: current
+where:
+  typeOf: [waterway, landform]
+mode: table
+heading: false
 ```
 
 %%^Campaign:None%%
 ### People in, or based in Barony of Aveil
 ```taelgar-index
-type: residents
+type: whereabouts
+from: person
+via: home
 mode: table
 heading: false
 ```

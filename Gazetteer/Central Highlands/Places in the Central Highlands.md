@@ -6,7 +6,10 @@ dm_notes: none
 ---
 ### Places in the Central Highlands
 ```taelgar-index
-type: places
+type: whereabouts
+from: place
+via: lastKnown
+scope: historical
 target: Central Highlands
 mode: table
 heading: false

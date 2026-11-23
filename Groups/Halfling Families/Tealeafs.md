@@ -24,7 +24,8 @@ Garret was freed eleven years later, in DR 1748, by the [[Dunmar Fellowship]], t
 ### Members
 
 ```taelgar-index
-type: members
+type: affiliation
+from: person
 mode: table
 heading: false
 ```

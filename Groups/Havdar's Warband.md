@@ -38,7 +38,8 @@ Havdar’s Warband is the informal name for the group of about 30-40 Dunmari sol
 ### Members
 
 ```taelgar-index
-type: members
+type: affiliation
+from: person
 mode: table
 heading: false
 ```

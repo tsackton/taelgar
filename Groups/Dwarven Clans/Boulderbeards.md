@@ -22,8 +22,9 @@ Outside of dwarven circles, they are best known through [[Adrik|Adrik Boulderbea
 
 ###  Members
 ```taelgar-index
-type: members
-membership: historical
+type: affiliation
+from: person
+scope: ever
 mode: table
 heading: false
 ```

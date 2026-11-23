@@ -36,7 +36,10 @@ The northern coasts between Skaegenland and Ursk are inhospitable, with few or n
 %%^Campaign:None%%
 ### Places in Ursk
 ```taelgar-index
-type: places
+type: whereabouts
+from: place
+via: lastKnown
+scope: historical
 mode: table
 heading: false
 ```

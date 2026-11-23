@@ -22,7 +22,8 @@ The Rodnya Zoryana is one of the eight [[Rodnya|rodnye]] that rule [[Ursk]]. It 
 ### Members
 
 ```taelgar-index
-type: members
+type: affiliation
+from: person
 mode: table
 heading: false
 ```

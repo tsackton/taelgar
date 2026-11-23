@@ -19,7 +19,8 @@ The Oakstrides are a halfling family of moderate prominence, based along the [[V
 %%^Campaign:none%%
 ### Members
 ```taelgar-index
-type: members
+type: affiliation
+from: person
 mode: table
 heading: false
 ```

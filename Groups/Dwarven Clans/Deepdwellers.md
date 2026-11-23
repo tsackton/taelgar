@@ -18,8 +18,9 @@ The Deepdwellers are a dwarven clan originally from the lost kingdom of [[Enderr
 
 ###  Members
 ```taelgar-index
-type: members
-membership: historical
+type: affiliation
+from: person
+scope: ever
 mode: table
 heading: false
 ```

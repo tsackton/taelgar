@@ -22,8 +22,9 @@ By far the most famous member of the Brawnanvil Clan is [[Riswynn]], companion o
 
 ###  Members
 ```taelgar-index
-type: members
-membership: historical
+type: affiliation
+from: person
+scope: ever
 mode: table
 heading: false
 ```

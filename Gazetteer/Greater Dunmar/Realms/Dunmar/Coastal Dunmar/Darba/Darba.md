@@ -35,9 +35,14 @@ The north bank is less marshy than the south, and there are several weirs and wa
 - (DR:: 1559): The Samraat Nayan Kundar drives the Illorian from Darba and reclaims the city 
 - (DR:: 1644): A massive new public market is constructed in Darba by dwarven craftsfolk, commissioned by the Samraat to reflect the growing importance of Darba as a center of trade
 
+## Residents
+
 ```taelgar-index
-type: residents
+type: whereabouts
+from: person
+via: home
 mode: table
+heading: false
 ```
 
 %%SECRET[v2:35f6a8ac46d40b8f5f2bc91bee1dcce2]%%

@@ -29,7 +29,8 @@ Generally speaking in favor of preserving knowledge, against chalyte magic, and 
 ### Members
 
 ```taelgar-index
-type: members
+type: affiliation
+from: person
 mode: table
 heading: false
 ```

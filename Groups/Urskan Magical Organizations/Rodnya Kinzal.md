@@ -20,7 +20,8 @@ The Rodnya Kinzal is one of the eight [[Rodnya|rodnye]] that rule [[Ursk]]. Kinz
 %%^Campaign:none%%
 ### Members
 ```taelgar-index
-type: members
+type: affiliation
+from: person
 mode: table
 heading: false
 ```

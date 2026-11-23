@@ -20,7 +20,8 @@ The Wildhearts are a halfling family based in the [[Eastern Green Sea]]. Two bro
 ### Members
 
 ```taelgar-index
-type: members
+type: affiliation
+from: person
 mode: table
 heading: false
 ```

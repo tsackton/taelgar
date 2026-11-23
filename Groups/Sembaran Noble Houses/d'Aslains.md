@@ -21,7 +21,8 @@ A longstanding noble family in the [[Barony of Aveil]] with an ancient history. 
 ### Current Members
 
 ```taelgar-index
-type: members
+type: affiliation
+from: person
 mode: table
 heading: false
 ```

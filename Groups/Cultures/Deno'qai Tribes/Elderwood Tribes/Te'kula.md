@@ -38,11 +38,13 @@ In DR 1722, when [[Mezzar|Grimbaskal]] attacked the [[Te'kula]] seeking the [[Ja
 In DR 1748, the [[Dunmar Fellowship]] killed [[Mezzar|Grimbaskal]], and were gifted the [[Jade Piece of Rai's Hand]], disentangling Aasimti from [[Rai]] and returning the [[Neshet|Te'kula village]] to the material plane. 
 
 ## Members of the Te'kula Tribe
-```dataview
-LIST WITHOUT ID file.link
-FROM #person
-WHERE contains(affiliations, this.file.link) OR contains(affiliations.org, this.file.link) OR contains(affiliations, this.name) OR contains(affiliations.org, this.name)
-SORT file.name ASC
+```taelgar-index
+type: affiliation
+from: person
+scope: ever
+mode: table
+columns: [name]
+heading: false
 ```
 
 %%^Campaign:none%%

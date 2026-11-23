@@ -23,7 +23,8 @@ A minor landholding family in the [[Enst|Enst River Valley]]. The founder of the
 ### Current Members
 
 ```taelgar-index
-type: members
+type: affiliation
+from: person
 mode: table
 heading: false
 ```
@@ -33,10 +34,12 @@ heading: false
 ### Historical Members
 
 ```taelgar-index
-type: members
-membership: historical
+type: affiliation
+from: person
+scope: ever
 mode: table
-columns: life-dates
+columns: [name, info, born, died]
+sortBy: [born, name]
 heading: false
 ```
 %%^End%%

@@ -44,20 +44,15 @@ The intention here is to make the four traditional elemental planes primary, whi
 I am intending to introduce some details in game during the Frankar arc so best to leave this relatively unconfirmed for now.
 
 ## List of Energy Realms
-```dataviewjs
-const { util } = customJS;
-
-dv.table(
-  ["Place"], 
-  dv.pages("#place")
-    .where(f => 
-      util.inLocation("Energy Realms", f.file.frontmatter, dv.current().pageTargetDate) &&
-      f.typeof === "plane"
-    )
-    .sort(b => util.s("<maintype>", b.file))
-    .map(b => [util.s("<name:x>", b.file)])
-);
-
+```taelgar-index
+type: whereabouts
+from: place
+via: current
+where:
+  typeOf: plane
+mode: table
+columns: [name]
+heading: false
 ```
 
 %%^End%%

@@ -51,7 +51,10 @@ On the north bank, outside of the walls and west of the town, is a small cluster
 %%^Campaign:none%%
 ### Places in Cleenseau
 ```taelgar-index
-type: places
+type: whereabouts
+from: place
+via: lastKnown
+scope: historical
 mode: table
 heading: false
 ```

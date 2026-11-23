@@ -23,7 +23,8 @@ The Aagiri, a traveling order of warriors who protect the roads of [[Dunmar]], a
 ### Current Members
 
 ```taelgar-index
-type: members
+type: affiliation
+from: person
 mode: table
 heading: false
 ```

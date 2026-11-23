@@ -88,10 +88,12 @@ class KingOrQueen ruler;
 ### Members
 
 ```taelgar-index
-type: members
-membership: historical
+type: affiliation
+from: person
+scope: ever
 mode: table
-columns: life-dates
+columns: [name, info, born, died]
+sortBy: [born, name]
 heading: false
 ```
 %%^End%%

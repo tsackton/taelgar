@@ -22,7 +22,12 @@ Since the [[Great War]], much of the watershed has been defined by the scars and
 %%^Campaign:none%%
 ### Places in the Istaros Watershed
 ```taelgar-index
-type: rivers
+type: whereabouts
+from: place
+via: lastKnown
+scope: historical
+where:
+  typeOf: [waterway, lake]
 mode: table
 heading: false
 ```

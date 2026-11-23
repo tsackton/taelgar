@@ -20,7 +20,8 @@ The Brightmoons are a seafaring halfling clan, scattered across the [[Eastern Gr
 ### Members
 
 ```taelgar-index
-type: members
+type: affiliation
+from: person
 mode: table
 heading: false
 ```

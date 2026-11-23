@@ -27,8 +27,9 @@ The family made a deal of sorts with the [[Bahrazel]] during the Great War, for 
 ###  Members
 
 ```taelgar-index
-type: members
-membership: historical
+type: affiliation
+from: person
+scope: ever
 mode: table
 heading: false
 ```

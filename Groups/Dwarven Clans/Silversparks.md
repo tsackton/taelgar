@@ -21,8 +21,9 @@ More recently, the clan has seen renewed prominence due to their association wit
 
 ###  Members
 ```taelgar-index
-type: members
-membership: historical
+type: affiliation
+from: person
+scope: ever
 mode: table
 heading: false
 ```

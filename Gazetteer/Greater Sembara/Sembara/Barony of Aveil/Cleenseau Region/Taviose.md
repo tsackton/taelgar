@@ -38,7 +38,9 @@ The ongoing corruption from these spiders later caused several orchards and timb
 %%^Campaign:None%%
 ### People in, or based in Taviose
 ```taelgar-index
-type: residents
+type: whereabouts
+from: person
+via: home
 mode: table
 heading: false
 ```

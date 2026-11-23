@@ -23,7 +23,8 @@ The mystery cult of the Dunmari god [[Laka]]. Guardians of secret knowledge, esp
 ### Current Members
 
 ```taelgar-index
-type: members
+type: affiliation
+from: person
 mode: table
 heading: false
 ```

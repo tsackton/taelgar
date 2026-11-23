@@ -22,7 +22,8 @@ The Rodnya Morozmir is one of the eight [[Rodnya|rodnye]] that rule [[Ursk]]. Mo
 ### Members
 
 ```taelgar-index
-type: members
+type: affiliation
+from: person
 mode: table
 heading: false
 ```

@@ -21,7 +21,12 @@ The Volta Watershed is the drainage basin of the [[Volta]] and its tributaries, 
 ## Places in the Volta Watershed
 
 ```taelgar-index
-type: rivers
+type: whereabouts
+from: place
+via: lastKnown
+scope: historical
+where:
+  typeOf: [waterway, lake]
 mode: table
 heading: false
 ```

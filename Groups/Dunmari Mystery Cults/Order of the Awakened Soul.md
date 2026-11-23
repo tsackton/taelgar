@@ -46,7 +46,8 @@ In DR 1718, the Order and Rai traveled together to [[Isingue]], and attempted to
 ### Current Members
 
 ```taelgar-index
-type: members
+type: affiliation
+from: person
 mode: table
 heading: false
 ```

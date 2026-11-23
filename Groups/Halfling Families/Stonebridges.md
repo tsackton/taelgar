@@ -26,7 +26,8 @@ A family of halflings who have lived in [[Cleenseau]] since at least the 1200s, 
 ### Members
 
 ```taelgar-index
-type: members
+type: affiliation
+from: person
 mode: table
 heading: false
 ```

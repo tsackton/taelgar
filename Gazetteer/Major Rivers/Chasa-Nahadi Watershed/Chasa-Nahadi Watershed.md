@@ -24,7 +24,12 @@ The Chasa-Nahadi watershed is a vast river system that drains the interior basin
 %%^Campaign:none%%
 ### Places in Chasa-Nahadi Watershed
 ```taelgar-index
-type: rivers
+type: whereabouts
+from: place
+via: lastKnown
+scope: historical
+where:
+  typeOf: [waterway, lake]
 mode: table
 heading: false
 ```
