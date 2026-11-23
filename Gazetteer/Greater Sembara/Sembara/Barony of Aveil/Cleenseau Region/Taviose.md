@@ -37,12 +37,10 @@ The ongoing corruption from these spiders later caused several orchards and timb
 
 %%^Campaign:None%%
 ### People in, or based in Taviose
-```dataviewjs
-const { util } = customJS
-dv.table(["Person", "Info", "Alive", "Age"], 
-			dv.pages("#person")
-				.where(f => util.inOrHomeLocation(dv.current().file.name, f.file.frontmatter, true, dv.current().pageTargetDate))				
-				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file), util.s("<ancestry> <maintype>", b.file),  util.isAlive(b), util.s("<age> (<startdate>)", b.file)]))
+```taelgar-index
+type: residents
+mode: table
+heading: false
 ```
 %%^End%%
 
