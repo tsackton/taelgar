@@ -1,0 +1,24 @@
+---
+tags: [meta, status/check/ai]
+---
+# New Religion Review
+
+The most developed Mariner Trade Peninsula (MTP) idea was a **maritime religion that welcomes new gods**. The July 2023 emails sketched what people would do: wear bead chains bearing the symbols of many gods, decorate ships with their totems, and chant a sutra to twelve gods. The December 2023 Discord discussion picked up those ideas again. The October 2026 mapping chat still pictured the MTP as a distinct religious region. A name for the religion and a settled roster of gods remain open. [[Email - Eastern Religion II|July 2023 sketch]] · [[2023-12-26 - Green Sea|December 2023 Discord]] · [[2026-10-24 - Green Sea Regions South Cymea and the MTP|October 2026 Discord]]
+
+## Mariner Trade Peninsula
+
+- **The more love you give, the more you have to give.** That was the rationale for taking up new gods. The 2021 “HK” version imagined individual temples to members of the Five Siblings and Eight Divines, alongside desert and surviving Mariner gods. The 2023 sketch added eastern dualism and meditation borrowed from the divine-spark tradition. Its one specific local deity proposal was an unnamed god of pleasure, hedonism, and sex, whose worship would be public but somewhat disreputable. [[Email - Map Thoughts|Map Thoughts]] · [[Email - Eastern Religion II|Eastern Religion II]]
+- **A birthplace for gods.** Tim suggested that the ancient Mariners learned to amplify humanity’s divine spark. If some of that practice survived in the MTP, widespread devotion there might actually elevate minor gods and demigods. That would give the peninsula’s habit of adopting gods a supernatural consequence. [[Email - Eastern Religion II|Eastern Religion II]]
+- **Other MTP pitches** included a local Mos Numena variant, one god who intercedes with the higher divine, sacred tokens that acquire power themselves, animal messengers, and revered teachers as intercessors. The teachers idea was tentatively folded into the divine-spark tradition. Ancestor worship came up too, with more enthusiasm for putting it somewhere that could have influenced Mawar. [[Email - Human Religions in MTP|Human Religions in MTP]]
+
+## Other unfinished Green Sea religions
+
+- **Medju or the farther east.** A Zoroastrian-inspired dualism. A unified Arhat/Malik is the good divine power, acting through “hands” such as Right Thought and Right Action, opposed by an explicit evil god. Some adherents might interpret the Eight Divines as those hands. Medju was floated as a home for it, with its wider reach left open. [[Email - Human Religions in MTP|MTP email]] · [[Email - Eastern Religion II|Eastern Religion II]]
+- **Irrla and the northern coast around Ursk.** The **Neo-Eastern divine-spark tradition** would seek direct access to the Divine Presence through meditation, potentially with a revered human founder. Discord explored distinct Irrlan and north-coast branches, and one version had Ursk’s magocracy grow out of the coastal tradition. The Eastern Green Sea notes still leave the religion’s existence and Svolhas’s faith open. One neighboring tradition is established in the vault: the Vargaldi worship the Zariya, a northern small-gods tradition. [[Email - Basic Sketch of Eastern Religion|2021 Eastern Religion sketch]] · [[2023-12-26 - Green Sea|December 2023 Discord]] · [[Eastern Green Sea]] · [[Vargaldi]]
+- **Survivors of the old Mariner pantheon.** One early sketch had Earth, Sky, Ocean, and a mischievous Wind carrying prayers, with island and cloud spirits descended from them. Later emails imagined communities keeping the old ways after the Eastern Schisms. Kaikkea’s worship is established among the Skaer. Her place in a lost pantheon and the role of a schism in Skaer origins remain provisional. [[Email - Basic Sketch of Eastern Religion|2021 Eastern Religion sketch]] · [[Email - Eastern Religion II|Eastern Religion II]] · [[History of the Skaer]]
+- **Tyrwingha and Addermarch.** A lost Hkaran pantheon, possibly a family of gods, weakened as Tyrwinghans put more of their attention into relations with the fey. In the proposed history, Ethlenn’s bargain with Drankor eventually tied fey rites to Mos Numena temples. The chat explicitly left room for traces of the old religion. [[2025-10-21 - Fey Realms|October 2025 Discord]]
+- **Eastern Green Sea kenku.** The October 2026 chat floated direct worship of Aerin, an older god who might be Aerin in a time loop, or a tradition that understands Aerin as an avatar of a Firstborn. The same conversation pictured possible cliffside kenku villages in the MTP or Irrla. [[2026-10-29 - Kobold Origins and Kenku Culture|October 2026 Discord]]
+
+## Farther afield
+
+**Islands west of Chardon where ancestors intercede with the Divine Presence.** The Northern Religions Brainstorming note describes it as a distinct island tradition, separate from Mawar’s ancestor-saints. [[Northern Religions Brainstorming]]
