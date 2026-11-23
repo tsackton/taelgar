@@ -2,7 +2,7 @@
 lintedAt: "2026-10-20T07:49:48-04:00"
 lintVersion: "3.5"
 displayDefaults: {wOrigin: "", wOriginU: "", defArt: ""}
-tags: [object, status/check/ai]
+tags: [object]
 typeOf: ring
 subTypeOf: magical
 ancestry: Drankorian
@@ -21,8 +21,9 @@ POV: 1748
 > [!taelgar-header]
 > (uncommon Drankorian magical ring)
 
-> [!image|right]
-> ![[delwath-ring-of-displacement.webp|320]]
+> [!image|right standard]
+> ![[delwath-ring-of-displacement.webp]]
+> *Ring of Displacement*
 
 An unadorned ring made of three entwined golden braids, that radiates illusion magic. It was possessed by [[Agata]] for many years, and carried on her person. Taken by [[Delwath]] after [[Agata]] was slain by [[Dunmar Fellowship]] in 1748. He later gave the ring to [[Jotha]].
 

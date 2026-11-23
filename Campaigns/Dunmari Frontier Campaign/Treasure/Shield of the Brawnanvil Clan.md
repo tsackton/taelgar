@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T07:49:48-04:00"
 lintVersion: "3.5"
-tags: [object, status/check/lint, status/check/ai]
+tags: [object, status/check/lint]
 typeOf: shield
 subTypeOf: magical
 ancestry: dwarven
@@ -21,8 +21,9 @@ POV: modern
 > [!taelgar-header]
 > (dwarven magical shield)
 
-> [!image|right]
-> ![[brawnanvil-shield.webp|350]]
+> [!image|right standard]
+> ![[brawnanvil-shield.webp]]
+> *Shield of the Brawnanvil Clan*
 
 The Shield of the Brawnanvil Clan is an elaborate decorative shield of polished steel, worked with scenes from dwarven life. It is a Brawnanvil family heirloom, not a practical battle shield, whose magic draws a dwarf holding it into a recreation of a story from the Brawnanvil past; a Brawnanvil can guide the vision toward a particular memory or place.
 

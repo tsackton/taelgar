@@ -149,9 +149,9 @@ After a bit more conversation with [[Ikram]] about lighter subjects, including t
 - Items: none
 - Enemies: none
 - Image: [[dufr-004-bree-and-ander-charmheart.webp]]
-- Image Role: aside
+- Image Role: figure
 - Image Size: standard
-- Image Placement:
+- Image Placement: start
 - Image Render:
 - Image Caption: A disturbed Ander Charmheart speaks joyfully of the all-consuming master. 
 - Image Alt: Bree and Ander Charmheart beside a colorful wagon

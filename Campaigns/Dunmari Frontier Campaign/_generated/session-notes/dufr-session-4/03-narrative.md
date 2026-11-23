@@ -31,7 +31,7 @@ Heading to the [[Ikram's|caravanserai]], the party meets [[Ikram]], who is eager
 
 After a bit more conversation with [[Ikram]] about lighter subjects, including the upcoming axebeak riding competition before the [[Festival of Rebirth]], the party heads for [[Jasu]]’s shop to ask about [[Arcus]]. Reaching him just as he is closing his forge for the evening, they return to [[Ikram's]] with [[Jasu]] for a light dinner. [[Jasu]] tells them [[Arcus]] was asking about artifacts, especially anything from the [[Great War]]. He left a couple of silvered spearpoints behind and asked [[Jasu]] to haft them so they could be used. [[Arcus]] apparently expected to be back in town within a few weeks, and [[Jasu]] finds it strange that he has not returned. The silvered spearpoints were odd, too, [[Jasu]] says: hard to work with and resistant to forging.
 
-> [!image|right standard]
+> [!image|figure standard]
 > ![[dufr-004-bree-and-ander-charmheart.webp]]
 > *A disturbed [[Ander Charmheart]] speaks joyfully of the all-consuming master.*
 

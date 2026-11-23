@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-11-12T19:02:10-05:00"
 lintVersion: "3.5"
-tags: [session-note, status/check/ai]
+tags: [session-note]
 campaign: dufr
 sessionNumber: 72
 realWorldDate: 2023-03-02
@@ -63,8 +63,9 @@ Scouting as wisps of clouds, the party sees [[Hralgar]]'s palace, looking much a
 
 The party decides to negotiate, with [[Delwath]] approaching to speak while [[Wellby]] and [[Kenzo]] invisibly sneak to hide behind ice pillars, and [[Riswynn]] and [[Seeker]] linger invisibly (but noisily) at the top of the stairs. The ice maiden speaks with [[Delwath]], who asks about the shadows below. The woman seems not to care if they wish to venture there, telling [[Delwath]] should he wish to journey into the nightmares of [[Kurome]], it is no concern of hers. When asked about the phasing stone, her patience grows thin, and she tells [[Delwath]] that he is welcome to seek it in [[Kurome]]'s realm, but to go quickly either way, for there are foolish travelers to freeze in the wastes and her attention cannot long linger here. 
 
-> [!image|right]
-> ![[dufr-072-ice-spirit-portrait.webp|500]]
+> [!image|right standard]
+> ![[dufr-072-ice-spirit-portrait.webp]]
+> *The ice maiden*
 
 At that, [[Wellby]] looses an arrow, and battle is joined. [[Wellby]] and [[Kenzo]] have been sufficiently silent - and invisible - that they get the jump on everyone, and [[Wellby]]'s arrow bursts into flame as it strikes true. The ice maiden is caught off guard as [[Kenzo]] lunges to attack as well, using his fist of planar power to push her across the ice. Staggering, [[Delwath]] strikes her down with his sword and magic, only for her icy crystal heart to rise up and attack with blasts of cold. The air around her becomes bone-chilling, and those close to her begin to freeze. As [[Seeker]] hits her with a psychic blast - turned to fire by his glove - and [[Riswynn]] with a blast of sacred fire, the icy heart staggers. A whirling storm of obscuring, blowing snow rises around her, and more blasts of cold shoot at the party, nearly killing [[Kenzo]] except for the blessing of the dwarven gods provided by [[Riswynn]], which keeps him from falling unconscious. Finally, [[Delwath]] cracks the icy heart with bolts of pure magic. 
 

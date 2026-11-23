@@ -2,7 +2,7 @@
 lintedAt: "2026-10-20T07:26:32-04:00"
 lintVersion: "3.5"
 displayDefaults: {wHome: "Owner: <current:1>", defArt: ""}
-tags: [object, status/check/ai]
+tags: [object]
 typeOf: armor
 subTypeOf: magic
 ancestry: "Deno'qai"
@@ -21,8 +21,9 @@ POV: modern
 > [!taelgar-header]
 > (uncommon Deno'qai magic armor)
 
-> [!image|right]
-> ![[denoqai-scale-armor-delwath.webp|400]]
+> [!image|right standard]
+> ![[denoqai-scale-armor-delwath.webp]]
+> *Deno'qai Scale Mail*
 
 A suit of scale mail armor, subtly designed with [[Tanshi]] motifs, and lightweight enough to be worn under winter gear. It has green and blue highlights, but is otherwise muted brown.
 

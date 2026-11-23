@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T08:15:28-04:00"
 lintVersion: "3.5"
-tags: [meta, status/check/lint, status/check/ai]
+tags: [meta, status/check/lint]
 campaign: dufr
 name: Dunmar Fellowship Treasure
 POV: 1749
@@ -212,14 +212,16 @@ These are the common and uncommon items recovered from [[Ra'ghemdros' Hoard]]. I
 - **Fine Gold Necklace**: A striking necklace made of interlinked gold pieces, each set with three teardrops with diamonds. 
 - **Gold Medallion with Intricate Relief**: A large gold medallion featuring a detailed relief of a strange animalistic human figures. 
 - **Imperial Signet Ring**: A heavy gold ring featuring the Drankorian imperial crest, used for sealing important documents and symbols of authority. 
-- > [!image|right]
-  > ![[dragonet-ring-hoard.webp|300]]
+- > [!image|right standard]
+  > ![[dragonet-ring-hoard.webp]]
+  > *Chased Gold Ring*
 
   **Chased Gold Ring**: A ring made of solid gold with intricate chase work depicting the mythology of dragnets, a rare work of art, eyes of rubies.
 - **Exquisite Gemstone Brooch**: A brooch made from an array of precious stones set in a unique floral design, a treasured family heirloom.
 
-> [!image|right]
-> ![[floral-brooch-hoard.webp|300]]
+  > [!image|right standard]
+  > ![[floral-brooch-hoard.webp]]
+  > *Exquisite Gemstone Brooch*
 
 - **Silver and Diamond Ring**. Etched in Elvish with a fragment of a poem about the stars. 
 - **Emerald Platinum Ring**. A platinum ring set with a massive emerald.  
@@ -241,16 +243,18 @@ These are the common and uncommon items recovered from [[Ra'ghemdros' Hoard]]. I
 - A golden serving platter of Drankorian make found as part of [[Apollyon's Tower Treasure]]
 - 450 gold and crystal serving platters, goblets, ewers, and cutlery, from [[Ra'ghemdros' Hoard]]
 - **Gold-encrusted Ceremonial Cup**: An ornate cup with intricate gold filigree and inlays of lapis lazuli, marked with archaic and out-of-date symbols of the eight divines.  
-- > [!image|right]
-  > ![[dragonet-statue-raghemdros-hoard.webp|300]]
+- > [!image|right standard]
+  > ![[dragonet-statue-raghemdros-hoard.webp]]
+  > *Intricately Carved Marble Statuette*
 
   **Intricately Carved Marble Statuette**: A small, exquisite marble statue of a dragonet, displaying incredible detail and craftsmanship, inlaid with silver and emerald eyes.
 - **Gemstone-Set Dagger**: An elegantly designed dagger with a hilt encrusted with rubies and a finely etched blade.  
 - **Imperial Scepter**: An elaborately designed scepter made from gold and adorned with multiple sapphires.  
 - **Historic Silver Paten**: An intricately designed paten (plate) made of silver, clearly very old but unweathered and undamaged, with scenes of pastoral human life.
 
-  > [!image|right]
-  > ![[silver-plate-raghemdros-hoard.webp|300]]
+  > [!image|right standard]
+  > ![[silver-plate-raghemdros-hoard.webp]]
+  > *Historic Silver Paten*
 
 - **Ceremonial Stoneborn Shield**: An ornate shield crafted from metal, featuring vivid colors and designs that tell the story of the Stoneborn fighting in the Demonfire Wars against fiends.  
 - **Bejeweled Imperial Coronation Crown**: A stunning crown adorned with emeralds, rubies, and pearls, symbolizing the authority and lineage of a ruling family.
@@ -261,8 +265,9 @@ These are the common and uncommon items recovered from [[Ra'ghemdros' Hoard]]. I
 - Dragon statuette glittering with small diamonds, from [[Ursk Treasure|Shadowkeep]]
 - A golden necklace with a holy symbol of Jeevali, dating to before the [[Great War]], with two blue lapis lazuli gemstones representing Jeevali's tears, found in [[Nashtkar Treasures#Found in Kharsan|the palace in Kharsan]]
 - A pair of nice wooden spoons, found in [[Nashtkar Treasures#Found in Kharsan|the palace in Kharsan]]
-- > [!image|right]
-  > ![[elven-rose-tapestry-grimbaskal.webp|200]]
+- > [!image|right standard]
+  > ![[elven-rose-tapestry-grimbaskal.webp]]
+  > *Rose garden tapestry*
 
   A tapestry depicting a lush, wild rose garden, tangled and vibrant, probably of Elven make (450 - 650 gp, [[Grimbaskal's Hoard]]).
 - A tapestry of trees in bloom, in front of a mountain, in an unusual and hard to recognize style, probably from far away (unknown value, [[Grimbaskal's Hoard]]).

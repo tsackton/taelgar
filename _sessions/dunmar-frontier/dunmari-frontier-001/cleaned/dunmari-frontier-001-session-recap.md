@@ -126,7 +126,7 @@ With the hyenas dead, the acolyte Beli leaves to fetch Candrosa and the village 
 - Items: red ochre healing paste
 - Enemies: none
 - Image: [[dufr-001-elder-kisa-asks-for-help.webp]]
-- Image Role: aside
+- Image Role: figure
 - Image Size: standard
 - Image Placement:
 - Image Render:
@@ -180,8 +180,8 @@ Kenzo, Wellby, and Seeker agree to join Delwath and investigate the hyena threat
 - Items: none
 - Enemies: none
 - Image: [[dufr-001-gomat-oasis-at-night.webp]]
-- Image Role: hero
-- Image Size:
+- Image Role: figure
+- Image Size: large
 - Image Placement:
 - Image Render:
 - Image Caption: Giant lizards feeding at Gomat Oasis in the moonlight

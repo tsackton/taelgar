@@ -2,7 +2,7 @@
 lintedAt: "2026-10-19T23:47:22-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-tags: [object, status/check/ai]
+tags: [object]
 typeOf: telescope
 subTypeOf: mundane
 created: 1719-10-01
@@ -21,8 +21,9 @@ POV: modern
 > [!taelgar-header]
 > (unique mundane telescope)
 
-> [!image|right]
-> ![[brot-spyglass.webp|420]]
+> [!image|right standard]
+> ![[brot-spyglass.webp]]
+> *Brot's Spyglass*
 
 A clever spyglass that [[Brot Starsearcher]] gave to [[Izgil Moonseeker|Izgil]] after he promised to seek funding for Brot's large telescope project.
 

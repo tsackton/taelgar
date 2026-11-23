@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-11-12T19:02:10-05:00"
 lintVersion: "3.5"
-tags: [session-note, status/check/ai]
+tags: [session-note]
 campaign: dufr
 sessionNumber: 68
 realWorldDate: 2023-01-05
@@ -52,8 +52,8 @@ The [[Dunmar Fellowship]] reunites, shares their extraordinary experiences, and 
 ## Narrative
 We begin as the party meets again, all together after a long absence. Everyone returns from their adventures changed, more or less, and eager to be reunited. Over the campfire, the party tells their stories. 
 
-> [!image|figure]
-> ![[dufr-068-lastlight-falls-dunmar-side.webp|600]]
+> [!image|figure standard]
+> ![[dufr-068-lastlight-falls-dunmar-side.webp]]
 > *Lastlight Falls, Dunmar side*
 
 [[Delwath]] speaks of how he [[Session 53 (DuFr)|found himself]] in the Deno’qai forests in the far north, a land once known as the [[Forest of Dreams]], but now called the [[Forest of Nightmares]] as it was cursed during the [[Great War]] against Cha’mutte. Traveling with the [[Stoneborn]] paladin [[Aristaea]] Mountainhands, and the Deno’qai wildfire druid [[Iascaire]], Delwath sought to  [[Session 54 (DuFr)|restore the lost tanshi]] trapped by Cha’mutte’s evil on  [[Session 55 (DuFr)|the battlefields]] of the Great War.

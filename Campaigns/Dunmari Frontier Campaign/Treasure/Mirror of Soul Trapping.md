@@ -2,7 +2,7 @@
 lintedAt: "2026-10-20T07:49:48-04:00"
 lintVersion: "3.5"
 displayDefaults: {ltPerson: trapped in}
-tags: [object, status/check/lint, status/check/ai]
+tags: [object, status/check/lint]
 typeOf: mirror
 subTypeOf: magical
 rarity: very rare
@@ -22,8 +22,9 @@ POV: 1749
 
 %%need to decide if this is a one-off item, unique, or a representative of a class of items, and refactor text as appropriate; also maybe remove the game mechanics to a D&D Beyond link %%
 
-> [!image|right]
-> ![[mirror-of-soul-trapping-v1.webp|400]]
+> [!image|right standard]
+> ![[mirror-of-soul-trapping-v1.webp]]
+> *Mirror of Soul Trapping*
 
 This 4’ heavy silvered mirror, weighing around 50 lb, is made of solid metal, polished to a silvered reflective surface on one side. The back side is etched in numerous strange languages, which [[Delwath]] understood to be incantations binding twelve extradimensional cells to the mirror.
 

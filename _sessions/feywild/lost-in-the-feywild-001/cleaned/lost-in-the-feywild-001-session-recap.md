@@ -201,9 +201,9 @@ After Hulda leaves them, Tarek reads the Sembaran document again and senses that
 - Items: gold key, hidden door
 - Enemies: none
 - Image: the-door-in-the-floor.webp
-- Image Role: aside
+- Image Role: figure
 - Image Size: standard
-- Image Placement:
+- Image Placement: start
 - Image Render:
 - Image Caption: The root tunnel to the unknown
 

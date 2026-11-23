@@ -2,7 +2,7 @@
 lintedAt: "2026-10-19T23:47:22-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-tags: [object, status/check/lint, status/check/ai]
+tags: [object, status/check/lint]
 typeOf: circlet
 subTypeOf: magic
 image: "[[circlet-of-telepathy.webp]]"
@@ -16,8 +16,9 @@ POV: modern
 > [!taelgar-header]
 > (magic circlet)
 
-> [!image|right]
-> ![[circlet-of-telepathy.webp|420]]
+> [!image|right standard]
+> ![[circlet-of-telepathy.webp]]
+> *Circlet of Telepathy*
 
 A golden circlet, found split across two pieces of enchanted armor, mysteriously rejoined. Found in the abandoned hobgoblin fort beneath Cleenseau.
 

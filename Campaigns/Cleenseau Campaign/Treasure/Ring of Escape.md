@@ -2,7 +2,7 @@
 lintedAt: "2026-10-19T23:47:22-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-tags: [object, status/check/lint, status/check/ai]
+tags: [object, status/check/lint]
 typeOf: ring
 subTypeOf: magic
 image: "[[gareths-ring.webp]]"
@@ -15,8 +15,9 @@ POV: modern
 > [!taelgar-header]
 > (magic ring)
 
-> [!image|right]
-> ![[gareths-ring.webp|420]]
+> [!image|right standard]
+> ![[gareths-ring.webp]]
+> *Ring of Escape*
 
 A dusky ring, taken from [[Gareth of Tollen]] after his capture.
 ### Mechanics

@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-23T11:35:40-04:00"
 lintVersion: "3.5"
-tags: [object, status/check/ai]
+tags: [object]
 typeOf: container
 typeOfAlias: magical container
 ancestry: Dunmari
@@ -14,8 +14,9 @@ POV: 1740s
 > [!taelgar-header]
 > (Dunmari magical container)
 
-> [!image|right]
-> ![[portable-hole-dunmar-fellowship.webp|400]]
+> [!image|right standard]
+> ![[portable-hole-dunmar-fellowship.webp]]
+> *Dunmar Fellowship's Portable Hole*
 
 This portable hole was received as a [[Session 42 (DuFr)|gift]] from [[Basu]], a mystai of Laka, in exchange for helping clear the excess extraplanar energy from the [[Elven Arborea Workshop]] beneath the [[Lakan Monastery]], permeated with the essence of [[Arborea]].
 

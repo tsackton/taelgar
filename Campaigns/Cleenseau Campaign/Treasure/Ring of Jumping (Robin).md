@@ -2,7 +2,7 @@
 lintedAt: "2026-10-19T23:47:22-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-tags: [object, status/check/ai]
+tags: [object]
 typeOf: ring
 subTypeOf: magical
 ddbLink: https://www.dndbeyond.com/magic-items/4724-ring-of-jumping
@@ -18,8 +18,9 @@ POV: modern
 > [!taelgar-header]
 > (uncommon magical ring)
 
-> [!image|right]
-> ![[ring-of-jumping-robin.webp|320]]
+> [!image|right standard]
+> ![[ring-of-jumping-robin.webp]]
+> *Ring of Jumping*
 
 A delicate silver ring, with many engraved swirling lines, which, in the right light, appear slightly blue, of unknown origin, found in [[Wakog's Camp]].
 

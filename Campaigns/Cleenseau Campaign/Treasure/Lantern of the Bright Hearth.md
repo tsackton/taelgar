@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-19T23:47:22-04:00"
 lintVersion: "3.5"
-tags: [object, status/check/lint, status/check/ai]
+tags: [object, status/check/lint]
 typeOf: lantern
 ancestry: fey
 campaignInfo: null
@@ -17,8 +17,9 @@ POV: 1720s
 > [!taelgar-header]
 > (unique fey lantern)
 
-> [!image|right]
-> ![[lantern-of-the-bright-hearth.webp|400]]
+> [!image|right standard]
+> ![[lantern-of-the-bright-hearth.webp]]
+> *Lantern of the Bright Hearth*
 
 A small lantern carried by [[Robin of Abenfyrd|Robin]]. It gives off a perpetual warm glow that reminds one of home and pleasant things. This lantern was originally forged by [[Aelirios Sunblade]] as a gift for [[Cedric Cyfenwid]].
 

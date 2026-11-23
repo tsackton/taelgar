@@ -2,7 +2,7 @@
 lintedAt: "2026-10-20T07:26:32-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-tags: [object, status/check/ai]
+tags: [object]
 typeOf: weapon
 subTypeOf: magical
 ancestry: Dunmari
@@ -18,8 +18,9 @@ POV: modern
 > [!taelgar-header]
 > (uncommon Dunmari magical weapon)
 
-> [!image|right]
-> ![[flaming-bowstring-wellby.webp|400]]
+> [!image|right standard]
+> ![[flaming-bowstring-wellby.webp]]
+> *Flaming Bowstring*
 
 This Dunmari bowstring is made of a fine silk thread, enchanted and blessed by [[Aagir]]. The magic of the thread means it can be attached to any bow or crossbow, and will grow or shrink as needed to fit.
 

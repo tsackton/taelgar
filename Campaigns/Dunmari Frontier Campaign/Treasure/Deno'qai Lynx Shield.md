@@ -2,7 +2,7 @@
 lintedAt: "2026-10-20T07:26:32-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-tags: [object, status/check/ai]
+tags: [object]
 typeOf: shield
 subTypeOf: magical
 ancestry: "Deno'qai"
@@ -19,8 +19,9 @@ POV: modern
 > [!taelgar-header]
 > (legendary Deno'qai magical shield)
 
-> [!image|right]
-> ![[lynx-shield.webp|400]]
+> [!image|right standard]
+> ![[lynx-shield.webp]]
+> *Deno'qai Lynx Shield*
 
 A magical shield of Deno'qai make, decorated with a lynx motif. This shield was originally made with the blessings of the [[Tanshi]] for [[Balati]], a Deno’qai hero in the [[Great War]]. After Balati fell in battle, the shield was preserved by the [[Ko'zula]] tribe, along with Balati's [[Deno'qai Scale Mail|armor]].
 

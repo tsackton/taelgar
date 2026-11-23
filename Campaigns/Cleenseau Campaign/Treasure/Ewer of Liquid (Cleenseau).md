@@ -2,7 +2,7 @@
 lintedAt: "2026-10-19T23:47:22-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-tags: [object, status/check/ai]
+tags: [object]
 typeOf: ewer
 subTypeOf: magical
 ancestry: Drankorian
@@ -17,8 +17,9 @@ POV: modern
 > [!taelgar-header]
 > (Drankorian magical ewer)
 
-> [!image|right]
-> ![[ewer-of-liquid.webp|420]]
+> [!image|right standard]
+> ![[ewer-of-liquid.webp]]
+> *Ewer of Liquid*
 
 A strangely unchipped ceramic ewer, decorated with Drankorian words for milk, water, beer, wine, honey, vinegar, tea and oil in stylized patterns running up and down the sides. It holds about a quart of liquid and sounds full of water sloshing around despite being empty. Found in the bandit lair.
 

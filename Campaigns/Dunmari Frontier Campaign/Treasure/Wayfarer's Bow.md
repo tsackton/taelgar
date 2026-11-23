@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T07:49:48-04:00"
 lintVersion: "3.5"
-tags: [object, status/check/ai]
+tags: [object]
 typeOf: weapon
 subTypeOf: magic
 typeOfAlias: bow
@@ -18,8 +18,9 @@ POV: modern
 > [!taelgar-header]
 > (legendary magic bow)
 
-> [!image|right]
-> ![[wayfarer-bow.webp|400]]
+> [!image|right standard]
+> ![[wayfarer-bow.webp]]
+> *Wayfarer's Bow*
 
 This wooden bow is made of an unusual dark wood, much harder than any mundane wood but incredibly light and flexible.
 

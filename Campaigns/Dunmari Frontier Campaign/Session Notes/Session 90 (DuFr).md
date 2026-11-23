@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-11-12T19:02:10-05:00"
 lintVersion: "3.5"
-tags: [session-note, status/check/lint, status/check/ai]
+tags: [session-note, status/check/lint]
 campaign: dufr
 sessionNumber: 90
 realWorldDate: 2023-12-22
@@ -79,6 +79,7 @@ The party is led by Abha through Karnas' camp, to the main room of the caravanse
 
 > [!image|right standard]
 > ![[dufr-090-karnas-portrait.webp]]
+> *Nayan Karnas*
 
 Convinced the party is not under Agata's sway, the conversation turns to Sura, and the evidence that Karnas has marshaled of Agata's meddling. Karnas seems obsessed with the letter from [[Marathu]], implicating Sura, that Johar mentioned. The party discusses using the [[Mirror of the Past]] to learn about [[Nayan Marathu's Letter]], but makes a final attempt to convince Karnas to come see the [[Cloak of Rainbows]] for himself, first. But he is unwilling to leave his camp and teleport away with strangers. 
 

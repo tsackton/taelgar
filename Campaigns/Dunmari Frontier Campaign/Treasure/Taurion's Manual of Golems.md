@@ -2,7 +2,7 @@
 lintedAt: "2026-10-20T07:49:48-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-tags: [object, status/check/lint, status/check/ai]
+tags: [object, status/check/lint]
 typeOf: book
 subTypeOf: magic
 ancestry: Drankorian
@@ -19,8 +19,9 @@ POV: modern
 > [!taelgar-header]
 > (very rare Drankorian magic book)
 
-> [!image|right]
-> ![[taurion-manual-of-golems.webp|400]]
+> [!image|right standard]
+> ![[taurion-manual-of-golems.webp]]
+> *Taurion's Manual of Stone Golems*
 
 %%SECRET[v2:967685179a204ed63cde48d455c078a4]%%
 

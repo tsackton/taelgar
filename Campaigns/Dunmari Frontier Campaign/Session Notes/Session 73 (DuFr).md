@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-11-12T19:02:10-05:00"
 lintVersion: "3.5"
-tags: [session-note, status/check/lint, status/check/ai]
+tags: [session-note, status/check/lint]
 campaign: dufr
 sessionNumber: 73
 realWorldDate: 2023-03-17
@@ -62,6 +62,7 @@ The corridor leads to an empty throne room, with an empty small side chamber nex
 
 > [!image|right standard]
 > ![[dufr-073-phasing-stone.webp]]
+> *The phasing stone*
 
 The party dives through the floor into an empty space, in which the phasing stone floats. 
 

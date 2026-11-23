@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-11-12T19:02:10-05:00"
 lintVersion: "3.5"
-tags: [session-note, status/check/ai]
+tags: [session-note]
 campaign: dufr
 sessionNumber: 63
 realWorldDate: 2022-11-05
@@ -38,8 +38,8 @@ Seeker and his companions subdue a wild magic storm at [[Crystal Peak]], receive
 ## Narrative
 We begin in the court of the [[Prince of Luck|Chanceweaver]], as [[Seeker]] meets his companions who will venture into the wild magic storm: [[Raven]], a Winter Knight from [[Shimmersong]], also bordering the wild magic storm; [[Spirala]], a light cleric from [[Shimmersong]]; and [[Mikasa]], a samurai from a distant fey realm, who is helping in exchange for passage home from the [[Prince of Luck|Chanceweaver]]. [[Raven]] and [[Spirala]] know the way, so the party sets out from the [[Prince of Luck|Chanceweaver]]’s court towards the Crystal Peak, at the center of the wild magic storm.
 
-> [!image|figure]
-> ![[crystal-peak.webp|500]]
+> [!image|figure standard]
+> ![[crystal-peak.webp]]
 > *Crystal Peak above mist*
 
 After some time traveling through the wonders of the [[Feywild]], the party approaches the Crystal Peak, a mountain entirely made of gems and crystals. Between [[Spirala]]’s flight, [[Raven]] and [[Mikasa]]’s ability to scale sheer walls, and [[Seeker]] polymorphing into a dragonfly, getting to the top is easy. Except for when [[Seeker]] casts Polymorph, something breaks off from the top of the mountain and a giant round stone comes hurtling down the mountainside. [[Raven]] and [[Mikasa]] are able to dodge out of the way, fortunately. 

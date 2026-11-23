@@ -2,7 +2,7 @@
 lintedAt: "2026-10-19T23:47:22-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-tags: [object, status/check/ai]
+tags: [object]
 typeOf: pipes
 subTypeOf: magic
 ancestry: fey
@@ -17,8 +17,9 @@ POV: modern
 > [!taelgar-header]
 > (fey magic pipes)
 
-> [!image|right]
-> ![[pipes-of-insect-control.webp|420]]
+> [!image|right standard]
+> ![[pipes-of-insect-control.webp]]
+> *Pipes of Insect Control*
 
 A set of pan pipes, crudely made and lashed together with twine. Each of the four pipes plays a different note.  Originally of suspected fey make, and found in the [[Cleenseau Wood]] by some bandits. Later found in the bandit lair by the [[Heroes of Cleenseau]].
 

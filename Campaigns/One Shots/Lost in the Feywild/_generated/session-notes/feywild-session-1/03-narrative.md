@@ -56,7 +56,7 @@ The document named him heir to "[[Dandelion House]], its lands, and all such tre
 
 After Hulda leaves them, [[Tarek]] reads the Sembaran document again and senses that something about it does not fit. But Kaito shifts from fear to enthusiasm at the promise of half the hoard -- though [[Ayveen]] points out that ending an unknown treaty might be dangerous, and [[Txarro]] tries to prepare Kaito for disappointment if the treasure is a trap, a metaphor, or a single coin. They still decide they have come too far not to investigate, and prepare to enter the door in the morning.
 
-> [!image|right standard]
+> [!image|figure standard]
 > ![[the-door-in-the-floor.webp]]
 > *The root tunnel to the unknown*
 

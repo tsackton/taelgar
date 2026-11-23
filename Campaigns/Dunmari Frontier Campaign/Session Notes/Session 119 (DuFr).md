@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-11-12T19:02:10-05:00"
 lintVersion: "3.5"
-tags: [session-note, status/check/ai]
+tags: [session-note]
 campaign: dufr
 sessionNumber: 119
 realWorldDate: 2025-02-14
@@ -39,8 +39,8 @@ The party enters the [[Feywild]], meets mystical beings, and is advised to proce
 ## Narrative
 The session begins with the [[Vindristjarna]] arriving at the [[Bitterwine Oak]] portal - a massive tree with crimson wine pools at its roots, standing unnaturally in the desert. [[Lady Eventide]], who had possessed [[Seeker]], retreats back within him, leaving a streak of white in his red hair while remaining present as a passenger rather than controlling force.
 
-> [!image|figure]
-> ![[bitterwine-oak-portal.webp|600]]
+> [!image|figure standard]
+> ![[bitterwine-oak-portal.webp]]
 > *Bitterwine Oak portal*
 
 [[Seeker]] returns to consciousness confused, and his companions quickly explain their mission: to enter the [[Feywild]] and free the [[Cloudspinner]] by bringing her crystal prison to the [[Prismwell]]. The group briefly discusses using plane shift magic to shortcut the journey, but they lack components specifically attuned to the [[Feywild]] to make the spell work. 
@@ -51,8 +51,8 @@ The party finds themselves emerging onto a sunlit hill in the [[Feywild]], where
 
 As each member arrives, the satyrs attempt to pull them into the dance. [[Tarviel|One satyr]], who seems to speak for the dancers, addresses [[Riswynn]] with surprise, asking who she is that "carries a fragment of the impossible," but quickly dismisses this mystery in favor of revelry. Another satyr steals [[Seeker]]'s book when he tries to avoid dancing, forcing him to engage before [[Delwath]] retrieves it with Mage Hand. When [[Seeker]] mentions their quest to reach [[Amberglow]] and the [[Cloudspinner]], [[Tarviel]] becomes uncomfortable. The music briefly stops when [[Delwath]] speaks of bringing change, as they insist there is "no change in [[Emberwine]]." [[Kenzo]] cleverly initiates a conga line, allowing the party to travel while still dancing.
 
-> [!image|figure]
-> ![[dufr-119-emberwine-satyrs.webp|600]]
+> [!image|figure standard]
+> ![[dufr-119-emberwine-satyrs.webp]]
 > *Emberwine satyrs dancing*
 
 Moving northward, they observe more of the landscape: rolling hills covered in vineyards and a [[Ampelion River|broad red river]] that resembles the wine pools they encountered at the portal tree. When they express interest in traveling upstream, a satyr refers to their destination as [[Everlight's Bloom]], which they recognize as the realm where [[Lirien]] stayed after fleeing [[Amberglow]]. However, after [[Delwath]] mentions bringing news of [[Lirien]]'s death, the offended satyrs drift away, leaving the party to continue toward the river on their own.

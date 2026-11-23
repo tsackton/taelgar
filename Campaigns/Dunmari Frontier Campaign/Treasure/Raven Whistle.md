@@ -2,7 +2,7 @@
 lintedAt: "2026-10-20T07:49:48-04:00"
 lintVersion: "3.5"
 displayDefaults: {wOrigin: "", wOriginU: "", defArt: ""}
-tags: [object, status/check/ai]
+tags: [object]
 typeOf: instrument
 subTypeOf: magic
 ancestry: fey
@@ -22,8 +22,9 @@ POV: modern
 > [!taelgar-header]
 > (rare fey magic instrument)
 
-> [!image|right]
-> ![[raven-whistle-kenzo.webp|200]]
+> [!image|right standard]
+> ![[raven-whistle-kenzo.webp]]
+> *Agata's Raven Whistle*
 
 A whistle carved from the bone of a giant bird, radiating transmutation magic.
 

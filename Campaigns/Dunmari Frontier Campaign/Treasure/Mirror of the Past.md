@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T07:49:48-04:00"
 lintVersion: "3.5"
-tags: [object, status/check/ai]
+tags: [object]
 typeOf: mirror
 title: "Eudomes'"
 rarity: very rare
@@ -17,8 +17,9 @@ POV: modern
 
 %% this describes both the general class of "Mirror of the Past" and the specific item, Eudomes' Mirror of the Past; ideally might want to refactor to remove the campaign specific stuff, if I decide that a Mirror of the Past is a general type of object%%
 
-> [!image|right]
-> ![[mirror-of-the-past.webp|400]]
+> [!image|right standard]
+> ![[mirror-of-the-past.webp]]
+> *Mirror of the Past*
 
 A large ornate wall mirror, originally mounted in [[Eudomes]]' bedroom in [[Stormcaller Tower]]. The mirror is about 4 feet tall and 1 foot wide, and mounted in a heavy gold filigree frame.
 

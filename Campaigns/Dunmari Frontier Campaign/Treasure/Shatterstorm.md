@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T07:49:48-04:00"
 lintVersion: "3.5"
-tags: [object, status/check/ai]
+tags: [object]
 typeOf: warhammer
 subTypeOf: magical
 ancestry: dwarven
@@ -16,8 +16,9 @@ POV: modern
 > [!taelgar-header]
 > (dwarven magical warhammer)
 
-> [!image|right]
-> ![[shatterstorm.webp|400]]
+> [!image|right standard]
+> ![[shatterstorm.webp]]
+> *Shatterstorm*
 
 Shatterstorm is a magical dwarven warhammer, enchanted by the Brawnanvils before the [[Great War]], but lost when the dwarves fled [[Raven's Hold]] in the chaos of the [[Great War]].
 

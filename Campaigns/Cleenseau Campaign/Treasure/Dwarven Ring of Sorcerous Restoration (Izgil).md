@@ -2,7 +2,7 @@
 lintedAt: "2026-10-19T23:47:22-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-tags: [object, status/check/ai]
+tags: [object]
 typeOf: ring
 subTypeOf: magical
 ancestry: Dwarven
@@ -17,8 +17,9 @@ POV: modern
 > [!taelgar-header]
 > (Dwarven magical ring)
 
-> [!image|right]
-> ![[izgil-ring-of-restore.webp|420]]
+> [!image|right standard]
+> ![[izgil-ring-of-restore.webp]]
+> *Ring of Sorcerous Restoration*
 
 A thick golden ring, set with a small ruby and carved with the dwarven runes for ‘knowledge’, ‘magic’, and ‘rebirth’. Found in the ruined hobgoblin fort beneath Cleenseau.
 

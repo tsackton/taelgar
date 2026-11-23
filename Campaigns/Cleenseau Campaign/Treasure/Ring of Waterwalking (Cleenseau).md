@@ -2,7 +2,7 @@
 lintedAt: "2026-10-19T23:47:22-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-tags: [object, status/check/ai]
+tags: [object]
 typeOf: ring
 subTypeOf: magic
 image: "[[ring-of-water-walking-clee.webp]]"
@@ -15,8 +15,9 @@ POV: modern
 > [!taelgar-header]
 > (magic ring)
 
-> [!image|right]
-> ![[ring-of-water-walking-clee.webp|420]]
+> [!image|right standard]
+> ![[ring-of-water-walking-clee.webp]]
+> *Ring of Water Walking*
 
 A smooth granite ring with a faint line of blue, from the Ranger chest in the ruined hobgoblin fort beneath Cleenseau. Of unknown origin.
 

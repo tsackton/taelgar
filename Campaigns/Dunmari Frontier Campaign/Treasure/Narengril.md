@@ -2,7 +2,7 @@
 lintedAt: "2026-10-20T07:49:48-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-tags: [object, status/check/ai]
+tags: [object]
 typeOf: sword
 subTypeOf: magical
 ancestry: elven
@@ -22,8 +22,9 @@ POV: modern
 > [!taelgar-header]
 > (rare elven magical sword)
 
-> [!image|right]
-> ![[narengril.webp|200]]
+> [!image|right standard]
+> ![[narengril.webp]]
+> *Narëngril*
 
 An elven sword, finely made and carved with Elvish script warding against fiends.
 

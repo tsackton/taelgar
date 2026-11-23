@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T07:49:48-04:00"
 lintVersion: "3.5"
-tags: [object, status/cleanup/text, status/check/lint, status/check/ai]
+tags: [object, status/cleanup/text, status/check/lint]
 typeOf: staff
 rarity: unique
 name: Staff of the Forest Soul
@@ -15,8 +15,9 @@ POV: modern
 
 %% disentangle mechanics from text %%
 
-> [!image|left]
-> ![[staff-of-the-forest-soul.webp|300]]
+> [!image|right standard]
+> ![[staff-of-the-forest-soul.webp]]
+> *Staff of the Forest Soul*
 
 This staff was constructed by [[Kenzo]] from a branch of the ancient elven tree in [[Tokra]], a relative of the massive trees called God trees by the Deno’qai of the [[Elderwood]]. This staff is a +1 magic quarterstaff. While attuned, this staff has the following additional functions:
 

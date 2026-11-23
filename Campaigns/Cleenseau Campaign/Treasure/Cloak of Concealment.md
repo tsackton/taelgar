@@ -2,7 +2,7 @@
 lintedAt: "2026-10-19T23:47:22-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-tags: [object, status/check/ai]
+tags: [object]
 typeOf: cloak
 subTypeOf: magic
 image: "[[ranger-cloak-of-concealment.webp]]"
@@ -16,8 +16,9 @@ POV: modern
 > [!taelgar-header]
 > (magic cloak)
 
-> [!image|right]
-> ![[ranger-cloak-of-concealment.webp|320]]
+> [!image|right standard]
+> ![[ranger-cloak-of-concealment.webp]]
+> *Cloak of Concealment*
 
 A finely made green and white cloak found in a Ranger’s chest in the ruined hobgoblin fort under [[Cleenseau]]. Likely dates from the early 1600s.
 

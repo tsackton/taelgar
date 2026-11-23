@@ -1,5 +1,5 @@
 ---
-tags: [meta, status/check/ai]
+tags: [meta]
 hide: [toc, navigation]
 ---
 The [[Cleenseau region]] is home to a population of about 2300 people, mostly humans with some lizardfolk and halflings as well. This outlines the major NPCs the party knows in the region.

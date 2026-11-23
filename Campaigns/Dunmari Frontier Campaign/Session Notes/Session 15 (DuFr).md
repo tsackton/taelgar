@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-11-12T19:02:10-05:00"
 lintVersion: "3.5"
-tags: [session-note, status/check/lint, status/check/ai]
+tags: [session-note, status/check/lint]
 campaign: dufr
 sessionNumber: 15
 realWorldDate: 2020-12-26
@@ -50,8 +50,9 @@ Caught in blowing gusts of wind, the party begins to explore. Trying to examine 
 
 Deciding to avoid trying to fight the water snake for now, as lightning crackles along the walls of the tower, and still unsure who or what [[Wellby]] has been telepathically communicating with, the party ventures into [[Stormcaller Tower]]. The room they enter is a large, white marble room, taking up nearly half the space in this floor, decorated only with five white marble pillars topped by empty silver sockets. Stairs to either side lead up and down. Through an archway into another room, there is an eight-foot-tall bust of a [[Hralgar|giant]], just the shoulders and head, carved in stone. The features are somewhat indistinct, with a flat nose, no hair, a long stretched out face, and elaborately decorated in gold and silver. Where the [[Hralgar's Eyes|eyes]] should be are instead empty sockets, looking like something was removed; similarly, there is a five-pointed stone crown on its head, each point topped with a silver setting, [[Binding Stones|empty]].
 
-> [!image|right]
-> ![[dufr-015-hralgar-statue.webp|400]]
+> [!image|figure standard]
+> ![[dufr-015-hralgar-statue.webp]]
+> *The bust of Hralgar in Stormcaller Tower*
 
 As the crackle of lightning increases, the party decides to head up the stairs, climbing through mist and fog, until they emerge, exiting the tower, onto the side of a rocky, barren mountain. Clouds obscure the land below, but ahead an enormous hall, many times human-sized, stands on the flattened top of the mountain. Large, booming footfalls are coming towards the party from within.
 

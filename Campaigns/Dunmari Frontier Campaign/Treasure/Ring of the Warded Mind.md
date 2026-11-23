@@ -2,7 +2,7 @@
 lintedAt: "2026-10-20T07:49:48-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-tags: [object, status/check/ai]
+tags: [object]
 typeOf: ring
 subTypeOf: magic
 ancestry: dwarven
@@ -19,8 +19,9 @@ POV: modern
 > [!taelgar-header]
 > (uncommon dwarven magic ring)
 
-> [!image|right]
-> ![[ring-of-warded-mind-seeker.webp|400]]
+> [!image|right standard]
+> ![[ring-of-warded-mind-seeker.webp]]
+> *Ring of the Warded mind*
 
 This dull silver ring, of Dwarven make, is difficult to focus on, always seeming to want to slide out of your eyesight. It radiates abjuration magic.
 

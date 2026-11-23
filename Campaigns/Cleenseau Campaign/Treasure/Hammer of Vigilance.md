@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-19T23:47:22-04:00"
 lintVersion: "3.5"
-tags: [object, status/check/lint, status/check/ai]
+tags: [object, status/check/lint]
 typeOf: weapon
 subTypeOf: magical
 typeOfAlias: warhammer
@@ -19,8 +19,9 @@ POV: modern
 > [!taelgar-header]
 > (uncommon Sembaran magical warhammer)
 
-> [!image|right]
-> ![[hammer-of-viligance.webp|320]]
+> [!image|right standard]
+> ![[hammer-of-viligance.webp]]
+> *Hammer of Vigilance*
 
 A finely crafted silver and steel warhammer with blue wrappings. It seems to anticipate danger. It was found in a secret room in the underground hobgoblin fort beneath [[Cleenseau]] and appears to be war loot from an unknown Sembaran hero, from several hundred years ago.
 

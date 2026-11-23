@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T09:08:30-04:00"
 lintVersion: "3.5"
-tags: [meta, status/check/ai]
+tags: [meta]
 campaign: dufr
 name: Scrying Delwath Tollen Downtime
 POV: 1749
@@ -77,6 +77,7 @@ Once, you see another person. A woman, wearing white furs, gloves, with elegant 
 
 > [!image|right standard]
 > ![[radomir-sister-portrait.webp]]
+> *The woman visiting Radomir*
 
   
 She walks up to him purposefully, and speaks quietly in a strange language (which Delwath quickly casts Tongues to decipher). 

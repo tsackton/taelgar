@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-11-12T19:02:10-05:00"
 lintVersion: "3.5"
-tags: [session-note, status/check/lint, status/check/ai]
+tags: [session-note, status/check/lint]
 campaign: dufr
 sessionNumber: 58
 realWorldDate: 2022-09-26
@@ -50,21 +50,19 @@ From her, they learn that the Mad Priest is actually [[Hagrim]]'s cousin, [[Deli
 
 After some debate, the party decides to go look for [[Delig Firebrand]], in the wastes, hoping to get a sense of [[Hagrim]]. 
 
-> [!image|figure]
-> ![[morkalan-ash-plains.webp|500]]
+> [!image|figure standard]
+> ![[morkalan-ash-plains.webp]]
 > *Paths across the ash plains*
 
 On the way, through the wastes, they fight off a shadowy, necrotic troll, that saps the strength of whoever attacks it. But managing to defeat it, they find [[Delig Firebrand]]. He has lost most of his memories, constantly forgetting who he is talking to, and thinking everyone in the party to be named [[Riswynn]]. But he does talk occasionally about his past, and [[Hagrim]], and how after the [[Great War]] he was a changed man, damaged, with eyes that looked strange. Sometimes he would talk about the evil tentacled creatures that would devour your brain, and shudder. After a pint from [[Rothfis]] and some conversation, [[Delig Firebrand]] seems exhausted, so the party leaves him to rest and heads to find [[Morkalan]]/[[Hagrim]], at the mirror version of the Stoneborn statue.
 
 Approaching the Stoneborn statue, and [[Hagrim]]'s lair, the party makes their way through ghosts of his memories, aided by [[Thror]]'s fly spell and [[Riswynn]]'s holy aura driving undead away. 
 
-> [!image|figure]
-> ![[dufr-058-giant-statue-legs-morkalan.webp|500]]
-> *Colossal stone legs beneath storm clouds*
-
-> [!image|figure]
-> ![[dufr-058-morkalan-hagrim-fort.webp|500]]
-> *Ruined interior of Hagrim's fort*
+> [!gallery]
+> - ![[dufr-058-giant-statue-legs-morkalan.webp]]
+>   *Colossal stone legs beneath storm clouds*
+> - ![[dufr-058-morkalan-hagrim-fort.webp]]
+>   *Ruined interior of Hagrim's fort*
 
 Passing into the dungeon, the party makes their way through a chamber of bones that begin to animate, breaks open the door to [[Hagrim]]'s final resting place, and confronts his ghost. [[Hagrim]] is angry, accusing the party of reminding him of his horrible past, saying he had freed himself of his cursed memories until they arrived. And battle is joined, as he insists there is nothing for the party here, and they should leave him to his domain. As he takes damage from the party, and is worn down, he becomes fainter and fainter, but insists he cannot be defeated, and he will be back to finish the job.
 

@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T09:38:32-04:00"
 lintVersion: "3.5"
-tags: [source, status/check/ai]
+tags: [source]
 campaign: clee
 name: Stories of Tyrwingha (For Profit)
 POV: 1720
@@ -30,8 +30,9 @@ Here the marginalia talk about a portrait of Ethlenn, that is the real magic. A 
 
 As news spread like wildfire of a knight from the north who had been blessed by Ethlenn herself, Derik was quickly proclaimed [[Derik I]], King of [[Tyrwingha]] by the [[Oracle of the Riven]]. Derik gathered an army of lizardfolk, the knights of Telham and [[Tyrwingha]], the fey-touched warlocks of Ethlenn, and [[Tollen]] and [[Vostok]] mercenaries, and he marched to victory.
 
-> [!image|right]
-> ![[tyrwingha-stories-sketch-of-ethlenn.webp|400]]
+> [!image|right standard]
+> ![[tyrwingha-stories-sketch-of-ethlenn.webp]]
+> *Sketch of Ethlenn*
 
 >[!Spoiler]- Izgil's Eyes Only
 >This image looks very similar to the woman who blessed Izgil in the [[Dreamworld]], after he escaped from the nightmare after the encounter with the mysterious fey creature.

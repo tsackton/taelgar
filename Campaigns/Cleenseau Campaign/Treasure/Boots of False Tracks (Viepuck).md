@@ -2,7 +2,7 @@
 lintedAt: "2026-10-19T23:47:22-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-tags: [object, status/check/ai]
+tags: [object]
 typeOf: boots
 subTypeOf: magic
 image: "[[boots-of-false-tracks-viepuck.webp]]"
@@ -17,8 +17,9 @@ POV: modern
 > [!taelgar-header]
 > (magic boots)
 
-> [!image|right]
-> ![[boots-of-false-tracks-viepuck.webp|400]]
+> [!image|right standard]
+> ![[boots-of-false-tracks-viepuck.webp]]
+> *Boots of False Tracks*
 
 A well-made set of heavy boots of unknown origin, found in [[Wakog's Camp]].
 

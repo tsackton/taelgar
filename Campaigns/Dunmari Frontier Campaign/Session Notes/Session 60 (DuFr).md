@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-11-12T19:02:10-05:00"
 lintVersion: "3.5"
-tags: [session-note, status/check/lint, status/check/ai]
+tags: [session-note, status/check/lint]
 campaign: dufr
 sessionNumber: 60
 realWorldDate: 2022-10-14
@@ -44,13 +44,11 @@ We begin as [[Wellby]] lands, teleported from far away, onto the deck of the [[W
 
 Over the next 10 days, as the [[Wave Dancer]] makes its way to the kenku port of [[Wahacha]] in the eastern isles, [[Wellby]] talks with the halflings on the ship. He tells his tale, and listens to stories of the halflings. They tell of [[Praznitsky]], a closed city in the north, part of the country of Ursk, where none are allowed across the bridge from the harbors and warehouses to the main city, and the people trade dragon hide. They tell of [[Medju]], the great spice city in the south, the terminus of trade routes from strange lands across the desert, where you can buy and sell almost anything in the markets of  the obscenely wealthy spice lords. They tell of the anchored island, [[Quanyi]], where sea [[Elves|elves]] live and harvest magical salt from the warm tropical oceans on their shores. And they tell of [[Wahacha]], their destination, a small port in the [[Vermillion Isles]], inhabited by kenku since time immemorial.
 
-> [!image|figure]
-> ![[wahacha-coast.webp|500]]
-> *Red cliffs on the Wahacha coast*
-
-> [!image|figure]
-> ![[wahacha-village.webp|500]]
-> *Wahacha village, alternate export*
+> [!gallery]
+> - ![[wahacha-coast.webp]]
+>   *Red cliffs on the Wahacha coast*
+> - ![[wahacha-village.webp]]
+>   *Wahacha village, alternate export*
 
 We end as the [[Wave Dancer]] arrives in [[Wahacha]], and [[Wellby]] is given a tour of the island by [[Makha]], the harbor master and unofficial town spokesperson. From [[Makha]], [[Wellby]] learns that the two kenku wanderers and explorers who could tell him where to find someone who knows about the [[Feywild|Feywild]] have recently been kidnapped, by raiders from the sea who have been causing trouble in the last month. 
 

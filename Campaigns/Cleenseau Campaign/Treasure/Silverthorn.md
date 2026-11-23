@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-19T23:47:22-04:00"
 lintVersion: "3.5"
-tags: [object, status/check/ai]
+tags: [object]
 typeOf: weapon
 subTypeOf: magic
 typeOfAlias: rapier
@@ -18,8 +18,9 @@ POV: modern
 > [!taelgar-header]
 > (unique halfling magic rapier)
 
-> [!image|right]
-> ![[silverthorn.webp|300]]
+> [!image|right standard]
+> ![[silverthorn.webp]]
+> *Silverthorn*
 
 A slim rapier, gleaming but always a bit hard to see. Found on a dead halfling beneath [[Cleenseau]]. This was originally the possession of [[Rose Stonebridge]], a halfling who lived in [[Cleenseau]] in the 1400s.
 

@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T07:26:32-04:00"
 lintVersion: "3.5"
-tags: [object, status/check/ai]
+tags: [object]
 typeOf: wondrous item
 rarity: legendary
 name: "Cha'mutte's Shadow Armband"
@@ -13,8 +13,9 @@ POV: modern
 > [!taelgar-header]
 > (legendary wondrous item)
 
-> [!image|right]
-> ![[shadow-armband.webp|400]]
+> [!image|right standard]
+> ![[shadow-armband.webp]]
+> *Cha'mutte's Shadow Armband*
 
 An armband created by Cha’mutte and used to open portals to shadow realms during the [[Great War]]. The armbands were created in pairs, with each pair attuned to a particular shadow realm, allowing portals to be opened a great distance apart in Taelgar that could be spanned in a short amount of time by crossing through the pocket dimension.
 

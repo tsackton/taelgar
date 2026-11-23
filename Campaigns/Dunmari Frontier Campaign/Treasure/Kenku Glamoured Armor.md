@@ -2,7 +2,7 @@
 lintedAt: "2026-10-20T07:26:32-04:00"
 lintVersion: "3.5"
 displayDefaults: {wOrigin: "", wOriginU: "", defArt: ""}
-tags: [object, status/check/ai]
+tags: [object]
 typeOf: armor
 subTypeOf: magic
 ancestry: kenku
@@ -21,8 +21,9 @@ POV: modern
 > [!taelgar-header]
 > (very rare kenku magic armor)
 
-> [!image|right]
-> ![[kenku-glamoured-armor-wellby.webp|400]]
+> [!image|right standard]
+> ![[kenku-glamoured-armor-wellby.webp]]
+> *Kenku Glamoured Armor*
 
 This suit of studded leather armor is glamoured with illusion magic. While worn, its appearance adapts to the wearer, and can be controlled at will when attuned.
 
