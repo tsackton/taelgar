@@ -1,6 +1,6 @@
 # Image Callouts
 
-Taelgar images use three semantic roles. Choose the role first, use the standard size unless there is a clear reason not to, and place the callout where the image becomes relevant.
+Taelgarverse supports `[!image]` callouts and `[!gallery]` groups on the website and through the optional Obsidian Image viewer. Choose one of the three image roles, use the standard size unless there is a clear reason to change it, and place the callout where the image becomes relevant.
 
 | Role | Use | Default display |
 | --- | --- | --- |
@@ -150,4 +150,6 @@ Consecutive figures in the same scene and at the same placement become a gallery
 
 ## Lightbox
 
-Press and hold an image to enlarge it in Obsidian Reading View or Live Preview. Release it to return to the note.
+In Obsidian, turn on **Settings → Taelgarverse → Image viewer**. The setting is off by default and enables both inline image styling and the viewer in Reading View and Live Preview. Click a rendered image or its expand icon to open a fitted view. Use **Pan / zoom** to inspect details, **Fit to screen** to reset the view, or **Download** to save the image. Press Escape or select **Close** to return to the note. Linked images and modified clicks keep their usual behavior.
+
+On the Taelgarverse website, use the image’s expand icon to open the viewer. Both viewers show the authored image or gallery-item caption when available and use the image’s alt text as a fallback.

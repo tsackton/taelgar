@@ -1,4 +1,4 @@
-# Taelgar Index
+# `taelgar-index`
 
 Put a `taelgar-index` block in a note to list subjects connected to it by location or affiliation. Taelgarverse 3.0.0 renders the block in Obsidian and on the website using the reader’s selected date. The note containing the block is the default target.
 

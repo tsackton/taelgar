@@ -62,7 +62,7 @@ Use stable labels such as `scene-02-a-v1` and `scene-02-b-v1`. Keep a small work
 
 Inspect each result for subject identity, source fidelity, requested constraints, and the visual purpose in the brief. Review at two scales:
 
-- At thumbnail or intended note-display size, check the order of attention, silhouette, readable action, and competing background elements. Use the proposed aside, figure, or hero role to judge whether important details remain legible; consult [Image Callouts](../../../_MoC/Image%20Callouts.md) when sizing matters.
+- At thumbnail or intended note-display size, check the order of attention, silhouette, readable action, and competing background elements. Use the proposed aside, figure, or hero role to judge whether important details remain legible; consult [Image Callouts](../../../_MoC/Taelgarverse%20Documentation/Image%20Callouts.md) when sizing matters.
 - At full size, check anatomy, material distinctions, lighting logic, edge treatment, repetitive texture, and excessive local contrast or sharpening. Judge these against the chosen medium and deliberate stylization.
 
 ### Consistent comparison display
@@ -144,7 +144,7 @@ Wait for the user to explicitly confirm they are finished with images for this n
 
 In chat, summarize each approved image with its final link, scene/subject, format, suggested placement, potential caption, and alt text. Briefly account for skipped or unfinished selections. Include the final prompt or a link to the off-vault prompt record and state which generation tool was used, following `imagegen`. Captions remain suggestions and must not introduce unsupported lore or disclose private evidence.
 
-Read the current [Image Callouts](../../../_MoC/Image%20Callouts.md) authority before preparing copyable insertions. Provide ready-to-paste callouts using the actual delivered filenames and captions, for example:
+Read the current [Image Callouts](../../../_MoC/Taelgarverse%20Documentation/Image%20Callouts.md) authority before preparing copyable insertions. Provide ready-to-paste callouts using the actual delivered filenames and captions, for example:
 
 ```markdown
 > [!image|figure standard]
