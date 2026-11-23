@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-25T23:38:37-04:00"
 lintVersion: "3.5"
-tags: [background]
+tags: [background, status/check/ai]
 name: Multiverse
 dm_owner: none
 dm_notes: none
@@ -57,59 +57,15 @@ From this, then the following chronology emerges:
 
 ## Planes of the Multiverse
 
-```dataviewjs
-
-
-```
-```dataviewjs
-//------------------------------------------------------------------
-// 1) Gather & Filter Pages (convert to real array)
-//------------------------------------------------------------------
-const { util } = customJS;
-// Search all pages without filtering by tag initially
-let pages = dv.pages().array(); 
-
-// Filter pages to only those with typeof = "plane"
-let planes = pages.filter(p => p.typeof === "plane");
-
-//------------------------------------------------------------------
-// 2) Build a plain JS array of data
-//------------------------------------------------------------------
-let data = planes.map(p => {
-  let tags   = p.file.etags ?? [];
-  let status = "complete";
-  if (tags.some(t => t.startsWith("#status/stub")))          status = "stub";
-  else if (tags.some(t => t.startsWith("#status/needswork"))) status = "needs work";
-  else if (tags.some(t => t.startsWith("#status/check")))     status = "check";
-  else if (tags.some(t => t.startsWith("#status/active")))    status = "active";
-
-  // Use util.homeLocation to get the planar group
-  let group = util.originLocation(p.file.frontmatter);
-  // If no home location, set to "none"
-  if (!group) group = "none";
-
-  return {
-    plane:  p.file.link,
-    group,
-    status
-  };
-});
-
-//------------------------------------------------------------------
-// 3) Sort by Planar Group alphabetically
-//------------------------------------------------------------------
-data.sort((a, b) => 
-  a.group.localeCompare(b.group, undefined, { sensitivity: "base" })
-);
-
-//------------------------------------------------------------------
-// 4) Render the table
-//------------------------------------------------------------------
-dv.table(
-  ["Plane", "Planar Group", "Status"], 
-  data.map(row => [row.plane, row.group, row.status])
-);
-
+```taelgar-index
+type: catalog
+from: place
+where: {typeOf: plane}
+mode: table
+heading: false
+columns: [name, origin]
+columnHeadings: {name: Plane, origin: Planar Group}
+sortBy: [origin, name]
 ```
 
 
