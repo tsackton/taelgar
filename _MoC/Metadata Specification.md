@@ -453,7 +453,7 @@ The following object fields are used for display formatting; see CampaignInfo Fo
 
 #### Minimal vs. Displayable Entries
 
-Display requires a campaign, a date, and a resolvable whereabouts at that date. CustomJS `isKnownToParty` reads authored `knownTo` for party knowledge.
+Display requires a campaign, a date, and a resolvable whereabouts at that date. Use authored `knownTo` to record explicit party knowledge.
 
 ### Derived Campaign Interactions
 

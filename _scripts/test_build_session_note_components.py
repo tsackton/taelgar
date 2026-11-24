@@ -75,6 +75,77 @@ class SessionNoteComponentsTest(unittest.TestCase):
         self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
         self.assertEqual(result.stdout, "Example")
 
+    def test_render_session_note_formats_linked_context_at_session_date(self) -> None:
+        node = shutil.which("node")
+        if node is None:
+            self.skipTest("Node.js is required for the renderSessionNote test.")
+        render_script = Path(__file__).with_name("templater") / "renderSessionNote.js"
+        javascript = textwrap.dedent(r"""
+            const assert = require("node:assert/strict");
+            const render = require(process.argv[1]);
+            const campaignRoot = "Campaigns/Test Campaign";
+            const sessionPath = `${campaignRoot}/Sessions/Session 12.md`;
+            const componentPath = `${campaignRoot}/_generated/session-notes/test-session-12`;
+            const guidePath = `${campaignRoot}/Guide.md`;
+            const files = new Map([
+                [sessionPath, ""],
+                ["_templates/session-notes/test.md", "# Cast\n\n{cast}"],
+                [`${componentPath}/01-session-info.md`, [
+                    '<!-- SLOT: session.dr_end -->"1730-01-25"<!-- /SLOT -->',
+                    '<!-- SLOT: cast -->',
+                    '[[../Guide#Background|The Guide]] (<home>)',
+                    '[[Missing]] (<home>)',
+                    '[[../Guide]] (<pronunciation>)',
+                    '<!-- /SLOT -->',
+                ].join("\n")],
+                [`${componentPath}/02-technical-updates.md`, ""],
+                [`${componentPath}/03-narrative.md`, ""],
+            ]);
+            globalThis.app = {
+                workspace: {getActiveFile: () => ({path: sessionPath})},
+                metadataCache: {
+                    getFileCache: () => ({frontmatter: {
+                        campaign: "test", sessionNumber: 12, "session-template": "test", DR: "1730-01-24",
+                    }}),
+                    getFirstLinkpathDest(target, sourcePath) {
+                        assert.equal(sourcePath, sessionPath);
+                        return target === "../Guide" ? {path: guidePath} : null;
+                    },
+                },
+                vault: {
+                    getAbstractFileByPath: path => files.has(path) ? {path} : null,
+                    adapter: {read: path => files.get(path), write: (path, text) => files.set(path, text)},
+                },
+            };
+            globalThis.Taelgarverse = {
+                apiVersion: 1,
+                async getNoteQueries() {
+                    return {
+                        getCampaigns: () => [{code: "test", name: "Test Campaign", campaignRoot}],
+                        formatNoteText(template, path, {date}) {
+                            assert.equal(path, guidePath);
+                            assert.equal(date, "1730-01-25");
+                            return template === "<home>" ? "Tollen" : "";
+                        },
+                    };
+                },
+            };
+            globalThis.Notice = class {};
+            render().then(() => assert.equal(files.get(sessionPath), [
+                "# Cast", "", "[[../Guide#Background|The Guide]] (Tollen)",
+                "[[Missing]] (<home>)", "[[../Guide]]", "",
+            ].join("\n"))).catch(error => { console.error(error); process.exitCode = 1; });
+        """)
+
+        result = subprocess.run(
+            [node, "-e", javascript, str(render_script)],
+            capture_output=True,
+            text=True,
+            check=False,
+        )
+
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+
     def make_workspace(self) -> Path:
         tmpdir = Path(tempfile.mkdtemp(prefix="session-note-components-test."))
         self.addCleanup(lambda: shutil.rmtree(tmpdir, ignore_errors=True))

@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-25T23:38:37-04:00"
 lintVersion: "3.5"
-tags: [background, status/check/ai]
+tags: [background]
 name: Multiverse
 dm_owner: none
 dm_notes: none

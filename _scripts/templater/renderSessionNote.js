@@ -146,12 +146,6 @@ function joinVaultPaths(...parts) {
         .join("/");
 }
 
-function stemFromPath(inputPath) {
-    const normalized = String(inputPath).replace(/\\/g, "/");
-    const basename = normalized.split("/").pop() ?? normalized;
-    return basename.endsWith(".md") ? basename.slice(0, -3) : basename;
-}
-
 function normalizeSessionNumber(value) {
     const match = /^([0-9]+)(\.[0-9]+)?$/.exec(String(value ?? ""));
     if (!match) {
@@ -239,17 +233,6 @@ function slotsContainSessionContextTokens(slots) {
     return Object.values(slots).some((slotBody) => hasSessionContextToken(slotBody));
 }
 
-async function ensureCustomJsMetadataLoaded() {
-    if (typeof customJS === "undefined") {
-        throw new Error("CustomJS is required to load the campaign registry.");
-    }
-    customJS.state = customJS.state ?? {};
-    if (!customJS.state.coreMeta || !customJS.state.campaignRegistry) {
-        await customJS.init.invoke();
-    }
-    return customJS.state.campaignRegistry;
-}
-
 function normalizeTargetDateCandidate(value) {
     if (value === undefined || value === null) {
         return undefined;
@@ -314,40 +297,21 @@ function findClosingContextParen(text, openIndex) {
     return -1;
 }
 
-function resolveSessionContextTarget(target) {
-    if (typeof customJS === "undefined" || !customJS?.NameManager?.getFileForTarget) {
-        return undefined;
-    }
+function formatSessionContextTokens(contextText, target, {queries, sourcePath, date}) {
     try {
-        return customJS.NameManager.getFileForTarget(target);
-    } catch (error) {
-        console.warn(`Could not resolve session context target '${target}'.`, error);
-        return undefined;
-    }
-}
-
-function formatSessionContextTokens(contextText, target, targetDate) {
-    if (typeof customJS === "undefined" || !customJS?.TokenParser?.formatDisplayString) {
-        return undefined;
-    }
-    const fileData = resolveSessionContextTarget(target);
-    if (!fileData) {
-        return undefined;
-    }
-
-    try {
-        const frontmatter = fileData.frontmatter ?? {};
-        const fileName = fileData.filename ?? stemFromPath(target);
-        return String(
-            customJS.TokenParser.formatDisplayString(contextText, { name: fileName, frontmatter }, targetDate) ?? ""
-        ).trim();
+        const linkPath = target.split("#", 1)[0];
+        const file = app.metadataCache.getFirstLinkpathDest(linkPath, sourcePath);
+        if (!file) {
+            return undefined;
+        }
+        return queries.formatNoteText(contextText, file.path, {date})?.trim();
     } catch (error) {
         console.warn(`Could not format session context for '${target}'.`, error);
         return undefined;
     }
 }
 
-function expandSessionContextTokens(text, targetDate) {
+function expandSessionContextTokens(text, context) {
     const sourceText = String(text ?? "");
     if (!hasSessionContextToken(sourceText)) {
         return sourceText;
@@ -383,7 +347,7 @@ function expandSessionContextTokens(text, targetDate) {
             continue;
         }
 
-        const formattedContext = formatSessionContextTokens(contextText, match[1].trim(), targetDate);
+        const formattedContext = formatSessionContextTokens(contextText, match[1].trim(), context);
         output += sourceText.slice(outputIndex, linkEnd);
         if (formattedContext === undefined) {
             output += sourceText.slice(linkEnd, contextEnd + 1);
@@ -400,9 +364,9 @@ function expandSessionContextTokens(text, targetDate) {
     return output;
 }
 
-function expandSessionContextTokensInSlots(slots, targetDate) {
+function expandSessionContextTokensInSlots(slots, context) {
     for (const [slotName, slotBody] of Object.entries(slots)) {
-        slots[slotName] = expandSessionContextTokens(slotBody, targetDate);
+        slots[slotName] = expandSessionContextTokens(slotBody, context);
     }
     return slots;
 }
@@ -418,8 +382,12 @@ async function renderSessionNote(tp) {
         const frontmatter = cache.frontmatter ?? {};
         const number = normalizeSessionNumber(frontmatter.sessionNumber);
         const templatePath = resolveTemplatePath(frontmatter[SESSION_TEMPLATE_FRONTMATTER_KEY]);
-        const campaigns = await ensureCustomJsMetadataLoaded();
-        const campaign = campaigns.find(
+        const api = globalThis.Taelgarverse;
+        const queries = api?.apiVersion === 1 ? await api.getNoteQueries() : null;
+        if (!queries?.getCampaigns || !queries.formatNoteText) {
+            throw new Error("Rendering session notes requires Taelgarverse with the note query API.");
+        }
+        const campaign = queries.getCampaigns().find(
             (entry) => entry.code === frontmatter.campaign
         );
         if (!campaign?.campaignRoot) {
@@ -442,7 +410,11 @@ async function renderSessionNote(tp) {
         slots["session.session_number"] = number.includes(".") ? JSON.stringify(number) : number;
 
         if (slotsContainSessionContextTokens(slots)) {
-            expandSessionContextTokensInSlots(slots, inferSessionTargetDate(slots, frontmatter));
+            expandSessionContextTokensInSlots(slots, {
+                queries,
+                sourcePath: currentFile.path,
+                date: inferSessionTargetDate(slots, frontmatter),
+            });
         }
 
         const renderedTemplate = renderPlaceholders(templateText, slots);
@@ -485,7 +457,6 @@ module.exports._test = {
     renderPlaceholders,
     slotsContainSessionContextTokens,
     splitFrontmatter,
-    stemFromPath,
     stripFrontmatterWikilinks,
     stripWikilinks,
     stringifyFrontmatterChunks,

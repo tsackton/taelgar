@@ -7,9 +7,24 @@ This view includes indexed `#person` notes, including people outside the People 
 Campaigns and directories come from [[Campaign Registry]] and its configuration. See [[Metadata Specification#Campaign Association and Party Knowledge|Campaign Association and Party Knowledge]] for the meaning of the field. Requires Dataview JavaScript queries; tables update when Dataview refreshes after note edits.
 
 ```dataviewjs
-await customJS.init.invoke();
-const { NameManager, util } = customJS;
-const campaigns = [...customJS.state.campaignRegistry].sort((a, b) => a.name.localeCompare(b.name));
+const api = globalThis.Taelgarverse;
+const queries = api?.apiVersion === 1 ? await api.getNoteQueries() : null;
+if (!queries?.getCampaigns) {
+    dv.paragraph("This review requires Taelgarverse with the campaign query API.");
+    return;
+}
+const registry = queries.getCampaigns();
+const campaigns = [...registry].sort((a, b) => a.name.localeCompare(b.name));
+const campaignKey = value => String(value ?? "").trim().toLowerCase();
+const campaignCode = value => {
+    const key = campaignKey(value);
+    return registry.find(c => key === campaignKey(c.code) || key === campaignKey(c.name))?.code;
+};
+const normalizePath = path => (path ?? "").replaceAll("\\", "/").toLowerCase();
+const campaignFolders = registry
+    .map(c => ({code: c.code, path: normalizePath(c.campaignRoot).replace(/\/+$/, "")}))
+    .filter(c => c.path)
+    .sort((a, b) => b.path.length - a.path.length);
 const values = value => value == null ? [] : Array.isArray(value) ? value :
     typeof value.array === "function" ? value.array() : [value];
 const people = dv.pages("#person").array();
@@ -18,7 +33,9 @@ const sourceCampaign = path => {
     if (!sourceCampaigns.has(path)) {
         const file = app.vault.getAbstractFileByPath(path);
         const declared = file && app.metadataCache.getFileCache(file)?.frontmatter?.campaign;
-        sourceCampaigns.set(path, NameManager.getNoteCampaignCode(path, declared));
+        const declaredCode = typeof declared === "string" ? campaignCode(declared) : undefined;
+        const notePath = normalizePath(path);
+        sourceCampaigns.set(path, declaredCode ?? campaignFolders.find(c => notePath.startsWith(c.path + "/"))?.code);
     }
     return sourceCampaigns.get(path);
 };
@@ -81,9 +98,9 @@ function render() {
         // Dataview resolves aliased, relative, and heading links to their target file.
         const sources = [...new Set(values(person.file.inlinks).map(l => l.path))]
             .filter(path => sourceCampaign(path) === selected.code).sort();
-        const known = util.isKnownToParty(person.file.name, person, selected.code);
+        const known = values(person.knownTo).some(value => typeof value === "string" && campaignCode(value) === selected.code);
         const interactions = values(person.campaignInfo)
-            .filter(info => NameManager.getCampaignConfig(info?.campaign)?.code === selected.code);
+            .filter(info => campaignCode(info?.campaign) === selected.code);
         return {person, sources, interactions, group: known ? "known" : sources.length ? "priority" : "other"};
     });
     const count = key => rows.filter(r => r.group === key).length;

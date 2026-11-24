@@ -6,9 +6,13 @@ noPublish: true
 # Campaign Session Timeline
 
 ```dataviewjs
-await customJS.init.invoke();
-const displayName = new Map(customJS.state.campaignRegistry.map(c => [c.code, c.name]));
-const { DateManager } = customJS;
+const api = globalThis.Taelgarverse;
+const queries = api?.apiVersion === 1 ? await api.getNoteQueries() : null;
+if (!queries?.getCampaigns || !queries.normalizeDR) {
+  dv.paragraph("This timeline requires a Taelgarverse build with the campaign and DR date APIs.");
+  return;
+}
+const displayName = new Map(queries.getCampaigns().map(c => [c.code, c.name]));
 
 const frontmatterFor = page => {
   const file = app.vault.getAbstractFileByPath(page.file.path);
@@ -24,14 +28,6 @@ const hasSessionNoteTag = frontmatter => {
   return asArray(frontmatter.tags)
     .map(tag => String(tag).replace(/^#/, ""))
     .includes("session-note");
-};
-
-const normalizeDR = (value, isEnd) => {
-  if (value == null || value === "") return null;
-  if (value.isNormalizedDate) return value;
-  if (value instanceof Date) value = value.toISOString().slice(0, 10);
-  if (value.toISODate) value = value.toISODate();
-  return DateManager.normalizeDate(value, isEnd) ?? null;
 };
 
 const formatRealWorldDate = value => {
@@ -59,8 +55,8 @@ const sessions = dv.pages('"Campaigns"')
   .filter(({ frontmatter }) => hasSessionNoteTag(frontmatter))
   .filter(({ frontmatter }) => frontmatter.campaign && frontmatter.DR)
   .map(({ page, frontmatter }) => {
-    const start = normalizeDR(frontmatter.DR, false);
-    const explicitEnd = normalizeDR(frontmatter.DR_end, true);
+    const start = queries.normalizeDR(frontmatter.DR);
+    const explicitEnd = queries.normalizeDR(frontmatter.DR_end, { boundary: "end" });
 
     return {
       page,
@@ -337,7 +333,7 @@ if (laneSessions.length === 0) {
   const startYear = Math.min(...laneSessions.map(session => session.start.year));
   const endYear = Math.max(...laneSessions.map(session => session.end.year));
   for (let year = startYear; year <= endYear; year++) {
-    const yearStart = DateManager.normalizeDate(year, false);
+    const yearStart = queries.normalizeDR(year);
     if (!yearStart || yearStart.sort < minSort || yearStart.sort > maxSort) continue;
 
     const tick = document.createElement("div");

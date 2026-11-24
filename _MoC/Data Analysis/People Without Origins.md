@@ -2,13 +2,18 @@
 //------------------------------------------------------------------
 // 1) Gather & Filter Pages (convert to real array)
 //------------------------------------------------------------------
-const { util } = customJS;
+const api = globalThis.Taelgarverse;
+if (api?.apiVersion !== 1) {
+    dv.paragraph("This query requires a Taelgarverse build with the note query API.");
+    return;
+}
+const queries = await api.getNoteQueries();
 let pages = dv.pages("#person").array(); // .array() converts Dataview's DataArray to a normal JS array
 
 // Keep only those missing both ancestry & origin
 let missingBoth = pages.filter(p => {
   let hasAncestry = !!p.ancestry;
-  let hasOrigin   = util.originExists(p.file.frontmatter);
+  let hasOrigin = queries.getRecordedOrigin(p.file.path) !== null;
   return (!hasAncestry && !hasOrigin);
 });
 
