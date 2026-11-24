@@ -34,18 +34,6 @@ The husband of [[Rosalind Essford|Rosalind]] (whom he married in 1706), he wisel
 
 In the fall of 1719, he lost his three children during the [[Tragic Flood of the River Enst]] and his and [[Rosalind Essford|Rosalind's]] sadness over this has been profound. 
 
-%%^Campaign:none%%
-### Relationships
-```dataviewjs
-const { util } = customJS
-dv.table(["Person", "Info", "Current Location", "Alive"], 
-			dv.pages("#person or #organization or #item")
-				.where(f => util.isLinkedToPerson(f.file, dv.current().file))
-				.sort(f => util.s("<maintype:n>", f.file))
-				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file), util.s("<ancestry> <maintype>", b.file), util.s("<lastknown:2> (<lastknowndate>)", b.file, dv.current().pageTargetDate), util.isAlive(b.file.frontmatter, dv.current().pageTargetDate)]))
-```
-%%^End%%
-
 %%^Metadata:names:v1%%
 - {name: "Arthur Essford", language: "Sembaran", pronunciation: "AR-thur ESS-ford", notes: "Proposed from the English component of Sembaran guidance in [[Languages]] and the English-form Arthur and -ford surname: th as in thin, doubled ss as s, and initial stress in each name. The French analogue would give Arthur a t sound and different vowels; the English-form surname supports this preferred proposal, not exact in-world phonology.", status: "documented"}
 %%^End%%

@@ -42,18 +42,6 @@ Before [[Cleenseau - Session 08]] Rinault shares some stories of his childhood:
 - He was fiercely forbidden from climbing around the hill or the basements of Essford Manor. He was always a rambunctious kid and often didn't follow the rules, but the one time he and two friends were "digging for buried treasure" in the side of the hill his father was apoplectic and he was confined to his room for a month afterwards. 
 %%^End%%
 
-%%^Campaign:none%%
-### Relationships
-```dataviewjs
-const { util } = customJS
-dv.table(["Person", "Info", "Current Location", "Alive"], 
-			dv.pages("#person or #organization or #item")
-				.where(f => util.isLinkedToPerson(f.file, dv.current().file))
-				.sort(f => util.s("<maintype:n>", f.file))
-				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file), util.s("<ancestry> <maintype>", b.file), util.s("<lastknown:2> (<lastknowndate>)", b.file, dv.current().pageTargetDate), util.isAlive(b.file.frontmatter, dv.current().pageTargetDate)]))
-```
-%%^End%%
-
 %%^Metadata:names:v1%%
 - {"name": "Rinault Essford", "language": "Sembaran", "pronunciation": "ree-NOH ESS-ford", "status": "documented", "notes": "The French strand of the Sembaran analogue in [[Languages]] gives Rinault an ee vowel and au as oh, with final lt silent; Essford is treated as an English-strand compound with short e and an audible ford. This mixed Sembaran adaptation remains proposed because no adopted pronunciation was found."}
 %%^End%%

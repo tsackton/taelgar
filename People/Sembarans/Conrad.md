@@ -30,18 +30,6 @@ He was one of the few people in [[Cleenseau]] who was sad to learn of [[Nicholas
 Since the [[Heroes of Cleenseau]] arrived in town, he has become somewhat of a confidant of [[Viepuck]]. He often stops by [[Essford Manor]] in the mornings to chat with [[Viepuck]] and is a good source of information about [[Anselm]] in particular. Conrad admires [[Anselm]] for his strength and position, but as he has grown closer to [[Viepuck]] has shared some tidbits: Anselm's disinterest in charity, a story of how he has tried to use various festivals to glorify himself as much as the Warlord, his desire for a better position - perhaps even lord, of one of the other manors, if not [[Essford Manor]].
 %%^End%%
 
-%%^Campaign:none%%
-### Relationships
-```dataviewjs
-const { util } = customJS
-dv.table(["Person", "Info", "Current Location", "Alive"], 
-			dv.pages("#person or #organization or #item")
-				.where(f => util.isLinkedToPerson(f.file, dv.current().file))
-				.sort(f => util.s("<maintype:n>", f.file))
-				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file), util.s("<ancestry> <maintype>", b.file), util.s("<lastknown:2> (<lastknowndate>)", b.file, dv.current().pageTargetDate), util.isAlive(b.file.frontmatter, dv.current().pageTargetDate)]))
-```
-%%^End%%
-
 %%^Metadata:names:v1%%
 - {name: "Conrad", language: "Sembaran", status: "inferred", notes: "Language inferred from the subject’s established cultural and local naming context; this ordinary personal name needs no pronunciation guide."}
 %%^End%%

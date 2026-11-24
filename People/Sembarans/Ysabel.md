@@ -29,18 +29,6 @@ A striking and comely woman with a rough scar running from her eye to her neck. 
 
 She grew in skill of arms and bravery during an unsettled period in late 1719, but died fighting zombies during the [[Undead Attacks in Sembara]].
 
-%%^Campaign:none%%
-### Relationships
-```dataviewjs
-const { util } = customJS
-dv.table(["Person", "Info", "Current Location", "Alive"], 
-			dv.pages("#person or #organization or #item")
-				.where(f => util.isLinkedToPerson(f.file, dv.current().file))
-				.sort(f => util.s("<maintype:n>", f.file))
-				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file), util.s("<ancestry> <maintype>", b.file), util.s("<lastknown:2> (<lastknowndate>)", b.file, dv.current().pageTargetDate), util.isAlive(b.file.frontmatter, dv.current().pageTargetDate)]))
-```
-
-%%^End%%
 
 %%^Metadata:names:v1%%
 - {"name": "Ysabel", "language": "Sembaran", "pronunciation": "ee-zah-BEL", "status": "proposed", "notes": "French-influenced Sembaran reading from [[Languages]]: initial y as ee, s voiced as z between vowels, and final syllable emphasis with pronounced l. An English IZ-uh-bel is possible; no pronunciation for this particular sheriff is recorded."}

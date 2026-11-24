@@ -43,19 +43,6 @@ The daughter of [[Wymar Essford|Wymar]], short, and with hair just beginning to 
 In the late fall of 1719, she lost her three children and their nursemaid to a [[Tragic Flood of the River Enst|unseasonable flood of the Enst]].  She enjoys quiet music, especially [[Robin of Abenfyrd|Robin's]] playing, which has been a comfort to her since her children died.
 %%^End%%
 
-%%^Campaign:none%%
-### Relationships
-```dataviewjs
-const { util } = customJS
-dv.table(["Person", "Info", "Current Location", "Alive"], 
-			dv.pages("#person or #organization or #item")
-				.where(f => util.isLinkedToPerson(f.file, dv.current().file))
-				.sort(f => util.s("<maintype:n>", f.file))
-				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file), util.s("<ancestry> <maintype>", b.file), util.s("<lastknown:2> (<lastknowndate>)", b.file, dv.current().pageTargetDate), util.isAlive(b.file.frontmatter, dv.current().pageTargetDate)]))
-```
-
-%%^End%%
-
 %% I have more information about her in some emails and DM notes that could be added here, mostly personality notes %%
 
 %%^Metadata:names:v1%%
