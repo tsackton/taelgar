@@ -104,10 +104,13 @@ Session-note links and `campaignInfo` entries can support a review of party know
 
 ### Taelgarverse
 
-- `excludePublish`: List of strings used to exclude the page from specific outputs or sites. Acceptable values: "all" or a campaign string (e.g., "dufr", "clee", "adma", etc). Used to exclude a page from Taelgarverse display. 
-- `hide`: Used by Taelgarverse / Material for Markdown for display control. 
-- `template`: Used by Taelgarverse / Material for Markdown for display control. 
-- `activeYear`: Can be used to control page display; building Taelgarverse with an active year < the activeYear of a page will treat the page as not existing. 
+- `noPublish: true`: Boolean frontmatter that omits the entire note from Taelgarverse publication and website previews, including every campaign and date view and Behind the Curtain. Use an unquoted `true`. Republish to update the live site.
+- `activeYear`: The first in-world DR year in which the page can appear. Taelgarverse hides the page before the start of that year, and any later `born` or `created` date still applies.
+- `hide`: Website layout options. Use `hide: [navigation]` to omit section links and left navigation, `hide: [toc]` to omit the table of contents, or `hide: [navigation, toc]` for both. The article remains available.
+- `excludePublish`: Retired. The current website ignores this field, including in existing snapshots.
+- `template`: Legacy MkDocs layout field. Taelgarverse Core uses its own page layouts.
+
+The publisher also omits notes tagged `status/stub` and folders marked with `.nopublish`. Use `noPublish: true` for a whole-note publishing exclusion.
 
 ## Frontmatter Patterns by Tag
 

@@ -10,15 +10,16 @@ Some of these are fairly disorganized and inconsistent, but we are slowly cleani
 For the most part, the vast majority of pages in the Taelgarverse vault are one of the following:
 
 (1) Glossary pages, which tend to be relatively short, front matter heavy, and similar in spirit to the type of thing you would write in a glossary or dramatis persona in a novel. Generally written in a vaguely in-world style, effectively as if the PCs were taking notes in-world. 
-(2) In world pages, which are typically used for "big picture" stuff where we imagine some kind of in-world scholarly controversy or uncertainty. Usually written from the perspective of a summary of in-world scholarly discussion, including in-world sources. Usually best reserved for places where it enhances the game to maintain in-world uncertainty about metaphysical truth. Often should have a dm note (in a Campaign:none block) with additional details to assist in running the game.
+(2) In world pages, which are typically used for "big picture" stuff where we imagine some kind of in-world scholarly controversy or uncertainty. Usually written from the perspective of a summary of in-world scholarly discussion, including in-world sources. Usually best reserved for places where it enhances the game to maintain in-world uncertainty about metaphysical truth. DM notes can supply additional details to assist in running the game. Follow the visibility guidance below when recording them.
 (3) Character-facing encyclopedia pages, which are written from the perspective of an in game encyclopedia article: omniscient, in that it states the true facts about the world, not the theories or controversies, but character-facing, i.e. it is written in a way that would read basically sensibly to a character
 (4) Player-facing encyclopedia pages, written from the perspective of an "out-game" encyclopedia article: omniscient and character-facing but includes player-facing language (i.e. real world analogs or roleplaying advice or whatever). These should usually be tagged `meta`.
 (5) Meta pages, generally DM or Worldbuilding facing, written from an author's note / meta perspective. These should usually be tagged `meta`.
 
 Two other factors:
 
-(A) DM Notes: almost any page might have DM Notes, typically included as either a `%%` comment block (if short, generally no more than a few lines) or a `%%^Campaign:none%%` block (if longer). These are particularly useful for in-world pages, but can be relevant anywhere. 
-(B) Mechanics: a wide variety of pages might include mechanics or other "game construct" details. Generally speaking, these should be restricted to DM Notes sections (e.g., not published) except within Campaign directories, or potentially on Player-facing encyclopedia pages (e.g., "Playing a Dwarf" type pages).
+(A) **DM notes.** Use a `SECRET` block for material that players should never see, such as an unrevealed twist or encounter plan. For asides readers may see, use an ordinary `%% ... %%` comment or a `%%^Campaign:none%%` block. Anyone viewing a published page can reveal both with **See Behind the Curtain**. The Git filter keeps raw secret text out of committed notes. For website publication, use a copy with secrets filtered out or exclude the entire note under [[Metadata Specification#Taelgarverse]].
+
+(B) **Mechanics.** Keep DM-only mechanics in a `SECRET` block. Player-facing rules can appear in campaign material or player-facing reference pages, such as a "Playing a Dwarf" guide.
 
 ## Directories
 

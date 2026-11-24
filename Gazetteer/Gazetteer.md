@@ -96,10 +96,9 @@ SORT replace(tag, "#status/cleanup/", "") ASC, length(file.inlinks) DESC
 ```dataview
 TABLE 
     length(file.inlinks) AS Backlinks,
-    pubEx as "Publish Exclusions"
+    noPublish as "Publish Exclusions"
 FROM "Gazetteer"
-WHERE excludePublish
-FLATTEN excludePublish as pubEx
+WHERE noPublish
 SORT length(file.inlinks) DESC
 
 ```

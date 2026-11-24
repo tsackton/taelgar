@@ -23,7 +23,7 @@ This is a human judgment about whether useful information remains only in non-sh
 
 *dm_notes should only be used for private, non-shared information.* The existence or number of private notes, links, or mentions is not determinative. If all useful information is already captured in the shared or public note or its shared backlinks, dm_notes should be "none", even if private sources contain many links or duplicate details. The dm_notes frontmatter, however, does not distinguish between private, non-shared digital notes (e.g., for Dunmar or Into the Chasm or other campaigns we both are in), old paper notes from high school, and simply unrecorded invention in someone's head.
 
-Special note about secrets: If all the information relevant to a page is captured in `%%SECRET[v2:6ee932f98f4ffb3b5ed6fc0713578187]%%SECRET` text in a note. 
+A note can have `dm_notes: none` when all useful private information is already recorded in `SECRET` blocks in that note. Use `color` or `important` when useful private information remains elsewhere.
 
 ### **dm_owner**
 
