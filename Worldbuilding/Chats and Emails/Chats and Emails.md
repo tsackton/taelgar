@@ -4,7 +4,7 @@ This folder preserves worldbuilding correspondence and older development documen
 
 ## Contents and coverage
 
-- **Chats:** dated Discord and text-message exchanges. The Tim–Mike Discord archive is current through **Oct 01 2026**, with reviewed coverage tracked in `discord-export-state.json` using America/New_York calendar days.
+- **Chats:** dated Discord and text-message exchanges. The Tim–Mike Discord archive is current through **Nov 22 2026**, with reviewed coverage tracked in `discord-export-state.json` using America/New_York calendar days.
 - **Emails:** worldbuilding email threads and their relevant attachments. **Early Taelgar Emails (1997-2000)** holds the older correspondence collection.
 - **Google Drive:** reading copies of development documents, including archived comment threads and relevant images.
 
