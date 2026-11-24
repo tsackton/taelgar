@@ -17,7 +17,11 @@ Metadata is primarily used to control automatic header generation, and allow dat
 
 ## Scripts and Code
 
-[[taelgar-index]] shows how to list residents, places, members, and leaders in Obsidian and on the website.
+**Taelgarverse block references**
+
+- [[taelgar-index]] lists residents, members, and filtered catalogs. [[taelgar-events]] builds chronological tables. [[taelgar-relationship]] shows direct connections in Obsidian.
+- [[taelgar-roster]] lists campaign players and characters. [[taelgar-session]] shows a campaign’s play history. [[taelgar-interactions]] places a campaign interactions panel in Obsidian.
+- [[taelgar-header]] displays generated reference information. [[taelgar-map]] embeds an interactive map.
 
 [[Taelgarverse Code]]: contains information about Python and JavaScript code associated with header generation, dataviewJS queries, etc. 
 [[Templates]]: describes templates that can be used, both for the Templater plugin and plain Markdown templates that can be copied and filled out. 

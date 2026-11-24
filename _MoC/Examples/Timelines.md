@@ -1,6 +1,6 @@
 # Timeline and Event Table Examples
 
-Timeline tables are generated with the `_scripts/view/get_EventsTable` DataviewJS view. The view reads dated event pages and dated inline list items, then renders a Markdown table in Obsidian.
+Use [[taelgar-events]] for timeline tables in Obsidian and on the website. The examples below are archived from the retired `get_EventsTable` DataviewJS view.
 
 The view skips top-level folders beginning with `_` and the top-level `Worldbuilding` folder. It also excludes the current page from its own table, so a page like [[Blood Years]] does not list itself when it contains an event table.
 

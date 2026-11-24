@@ -64,17 +64,29 @@ So, one version of events has something like this, focusing on Greater Sembara /
 - By ~1250 or so, you have Isingue firmly established as a major cultural center around a growing network of fairly democratic communities. Probably stretching from something like modern day Uzgukhar, west to Dunmar, and north into something like modern day March of Andonne. To the north is small, poor duchies and independent kingdoms in what is now Massaeu. To the east whatever is in south Cymea. To the northeast Orenlas and Cymea, and then Addermarch and Tyrwingha. 
 
 ### Events 1059 - 1400
-```dataviewjs
-await dv.view("_scripts/view/get_EventsTable", { yearStart: 1100, yearEnd: 1199, pageFilter: "",includeAll: true } )
+```taelgar-events
+yearStart: 1100
+yearEnd: 1199
+includeLifecycle: true
+includeTravel: true
 ```
-```dataviewjs
-await dv.view("_scripts/view/get_EventsTable", { yearStart: 1060, yearEnd: 1400, pageFilter: "", includAll: true})
+```taelgar-events
+yearStart: 1060
+yearEnd: 1400
+includeLifecycle: true
+includeTravel: true
 ```
 ### Events 1400 - 1545
-```dataviewjs
-await dv.view("_scripts/view/get_EventsTable", { yearStart: 1100, yearEnd: 1199, pageFilter: "",includeAll: true } )
+```taelgar-events
+yearStart: 1100
+yearEnd: 1199
+includeLifecycle: true
+includeTravel: true
 ```
-```dataviewjs
-await dv.view("_scripts/view/get_EventsTable", { yearStart: 1400, yearEnd: 1545, pageFilter: "", includAll: true})
+```taelgar-events
+yearStart: 1400
+yearEnd: 1545
+includeLifecycle: true
+includeTravel: true
 ```
 
